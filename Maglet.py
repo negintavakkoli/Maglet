@@ -1,8 +1,11 @@
 import requests
 import json
+
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+import scrapy
+from scrapy.selector import Selector
 url= "https://journals.msrt.ir/"
 req = requests.get(url)
 soup = BeautifulSoup(req.text)
