@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    import requests
+import json
+
+from urllib.parse import urlparse
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
+import scrapy
+from scrapy.selector import Selector
+url= "https://journals.msrt.ir/"
+req = requests.get(url)
+soup = BeautifulSoup(req.text)
+journals_link = soup.find("div", {"class":"category__item__panel__body"})
+journals_link_list = []
+for tag in journals_link.findAll("a"):
+    i = 0
+    journals_link_list.insert(i, tag["href"])
+    journals_link_list[i] = urljoin(url, journals_link_list[i])
+    i =+ 1
+
+
+journals_link_json = json.dump(journals_link_list,open("Journals_link.json","w"))
+print(journals_link_json )
+
+
+
+
+    # -*- coding: utf-8 -*-
+import scrapy
+from scrapy.crawler import CrawlerProcess
+from scrapy.spiders import CrawlSpider, Rule
+from scrapy.linkextractors import LinkExtractor
+
+#class ToscrapeSpider(scrapy.Spider):
+class FullfactSpider(CrawlSpider):
+    name = "fullfact"
+    allowed_domains = ["fullfact.org"]
+    start_urls = [
+        'https://fullfact.org/',
+    ]
+    rules = (
+        Rule(LinkExtractor(), callback='parse_book_page', follow=True),)
+
+    def parse_book_page(self, response):
+        item = {}
+        body = response.css("body").extract_first()
+        item["body"] = body
+        print(item)
+        yield item
+
+
+</head>
+<body>
+
+</body>
+</html>
