@@ -52,7 +52,11 @@ for website , id in website_name.items():
             xml_count+=1
             index_counter+=1
         else:
-            soup = BeautifulSoup(r.content)
+            try:
+                soup = BeautifulSoup(r.content)
+            except:
+                continue
+
             for a in soup.find_all('a', href=True):
                 link = a["href"]
                 link = PR.urljoin(allowed_domain,link)
