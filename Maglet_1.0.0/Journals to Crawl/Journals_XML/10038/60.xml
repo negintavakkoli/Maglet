@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-26T23:15:08Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://www.jiraeg.ir/?_action=export&amp;rf=summon&amp;issue=8764</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تأثیر ویژگی‌های زمین‌‌‌شناسی مهندسی ژیپس‌های سازند گچساران در گسترش اشکال انحلالی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد حسین</given_name>
+												<surname>قبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد</given_name>
+												<surname>محمدیان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حسن</given_name>
+												<surname>محسنی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>رامین</given_name>
+												<surname>کرمی</surname>
+											</person_name></contributors>
+									<abstract>پدیده کارست در ژیپس‌ها به دلیل قابلیت انحلال زیاد به آسانی توسعه پیدا می‌کند. در این پژوهش با استفاده از مطالعات سنگ‌شناسی و تعیین خصوصیات فیزیکی و مکانیکی نمونه‌های ژیپس سازند گچساران در منطقه رامهرمز، رابطه بین خصوصیات زمین‌شناسی مهندسی ژیپس با چگونگی توسعه اشکال انحلالی بررسی گردیده است. برای تعیین نوع سنگ ژیپس از (Adaptive Neuro-Fuzzy Inference System) ANFIS به عنوان ترکیبی از منطق فازی با شبکه‌های عصبی در قالب روش‌های Neuro-Fuzzy استفاده شد. پارامترهای ورودی این مدل شامل مقاومت تراکمی تک محوره، مقاومت کششی، شاخص دوام سیکل اول و درصد تخلخل 80 نمونه آزمایشگاهی می‌باشند. با استفاده از ANFIS مدلی ساخته شد که با داشتن اطلاعات اندکی از سنگ، قادر به پیش‌بینی نوع سنگ خواهیم بود. با توجه به مطالعات سنگ‌شناسی، ژیپس‌های سازند گچساران در دو نوع آلاباستر (دارای بافت ریزدانه) و پورفیریتیک (دارای بافت درشت‌دانه) تقسیم‌بندی شده‌اند. نتایج نشان داد که بافت سنگ، به‌ویژه شکل و اندازه دانه‌ها، یک پارامتر مهم کنترل‌کننده خصوصیات مکانیکی ژیپس‌های مذکور می‌باشد. با توجه به رده‌بندی مهندسی سنگ بکر، ژیپس آلاباستر در رده سنگ ضعیف با نسبت مدولی زیاد (DH) و ژیپس پورفیریتیک در رده سنگ بسیار ضعیف بانسبت مدولی زیاد (EH) قرار می‌گیرند. ژیپس آلاباستر نسبت به ژیپس پورفیریتیک دارای مقاومت تراکمی، مقاومت کششی و قابلیت انحلال بیشتری بوده و رفتار شکننده‌تری از خود نشان می‌دهد. به همین علت پدیده‌های کارستی همچون فروچاله انحلالی، چاه‌های کارستی،  طاق‌های طبیعی و غار در آنها گسترش بیشتری دارند. ژیپس پورفیریتیک دوام شکفتگی بیشتر و مقاومت کمتری نسبت به ژیپس آلاباستر دارد. به همین دلیل فروچاله‌های فرونشستی و فروریزشی در آنها توسعه زیادتری دارد. هم‌چنین کارن‌ها و برج‌های انحلالی در آنها با ابعاد بزرگتری شکل می‌گیرند.</abstract>
+									<keywords>
+									
+											<keyword>سازند گچساران</keyword>
+											<keyword>ژیپس آلاباستر</keyword>
+											<keyword>ژیپس پورفیریتیک</keyword>
+											<keyword>ANFIS</keyword>
+											<keyword>توسعه کارست</keyword>
+											<keyword>خصوصیات مهندسی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>16</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68329_1fd13a63950fa3d315a4fa1335c8325e.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کاربرد مقاومت ویژه الکتریکی دو بعدی در شناسایی هندسه زمین‌لغزش نقل، سمیرم</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>احمد</given_name>
+												<surname>قربانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهدی</given_name>
+												<surname>بمانی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>عبدالحمید</given_name>
+												<surname>انصاری</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>حسینعلی</given_name>
+												<surname>قاری</surname>
+											</person_name></contributors>
+									<abstract>زمین‌لغزش نقل واقع شده در منطقه پادنای سمیرم در نزدیکی روستای نقل در 70 کیلومتری جنوب شهر حنا، رخ داده است. این زمین‌لغزش مثلث شکل است. قاعده آن با طول حدود 700 متر در سمت غرب و به سمت رودخانه دنگزلو (از سرشاخه‌های رودخانه ماربر)، و فاصله راس آن تا قاعده تقریباً 600 متر است. جهت حرکت کلی توده لغزشی نیز از شرق به غرب، و به طرف رودخانه می‌باشد. زمین‌لغزش در سازند بختیاری متشکل از کنگلومرا با میان لایه‌های مارنی رخ داده است. وضعیت زمین‌شناسی زیرسطحی محدوده زمین‌لغزش توسط برداشت‌های مقاومت ویژه الکتریکی دو بعدی با آرایه دوقطبی-دوقطبی مورد مطالعه قرار گرفت. به این منظور سه خط برداشت در جهت حرکت زمین‌لغزش و سه خط برداشت در جهت عمود بر جهت حرکت زمین‌لغزش با فواصل مساوی، در مجموع به طول 3 کیلومتر طراحی و بر روی آنها اندازه‌گیری‌های مقاومت ویژه الکتریکی صورت گرفت. نتایج مطالعه مقاومت ویژه الکتریکی دو بعدی، وجود لایه مارنی با ضخامت بیش از 50 متر در تمام محدوده زمین‌لغزش را نشان می‌دهد. ضلع شمال‌شرقی زمین‌لغزش توسط گسل محدود شده است، به طوری که شمال شرق آن کنگلومرا و جنوب غرب آن رخنمون مارن قرار دارد. وجود مارن در نزدیکی سطح زمین و در عمق باعث ایجاد دو مکانیزم لغزش یکی نزدیک سطح و دیگری در عمق بیشترشده است. سطح لغزش نزدیک سطح در عمق کمتر از 20 متر شناسایی شده است در حالی که سطح لغزش عمیق در عمق حدود 50 متر قابل تشخیص است. نتایج حاصل از مقاومت ویژه الکتریکی دوبعدی با نتایج چاهک‌های حفر شده مطابقت دارد.</abstract>
+									<keywords>
+									
+											<keyword>مقاومت ویژه الکتریکی دو بعدی</keyword>
+											<keyword>زمین‌لغزش</keyword>
+											<keyword>سطح لغزش</keyword>
+											<keyword>مارن</keyword>
+											<keyword>کنگلومرای بختیاری</keyword>
+											<keyword>سمیرم</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>17</first_page>
+										<last_page>32</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68330_612b55c29ba22dc535149e273b23c5cc.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی و پهنه‌بندی توان روانگرایی نهشته‌های ساحلی (محدوده ساحلی میدان گازی پارس جنوبی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>عباسعلی</given_name>
+												<surname>محمدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>ارومیه ای</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>کاظم</given_name>
+												<surname>مرادی هرسینی</surname>
+											</person_name></contributors>
+									<abstract>پدیده روانگرایی یکی از مخاطرات زمین‌شناسی به شمار می‌آید که تأثیر مستقیم در پایداری سازه‌های زیربنایی دارد. امکان بروز پدیده روانگرایی در یک منطقه به وسیله عواملی مانند خصوصیات خاک، نحوه حضور آب زیرزمینی و توان لرزه‌خیزی ارزیابی می‌شود. منطقه پارس‌جنوبی در قسمت جنوبی استان بوشهر یکی از مناطق توسعه یافته صنعتی است که تعدادی سازه‌های زیربنایی حیاتی و حساس در آن وجود دارد. از دیدگاه زمین‌شناسی منطقه مورد مطالعه در یک محیط مخروط افکنه‌ای تشکیل شده که دربرگیرنده نهشته‌های سست و ناپیوسته جوان با ترکیبی از رس، سیلت، ماسه و شن می‌باشد.&lt;br /&gt; در این تحقیق گزارش‌های مطالعاتی فازهای 12، 14و 19 و سایر گزارش‌های مربوط به توسعه تجهیزات ساحلی پارس‌جنوبی جمع‌آوری شده و مورد مطالعه قرار گرفتند. عدد نفوذ استاندارد اندازه‌گیری شده در 60 گمانه به همراه سایر اطلاعات ژئوتکنیکی جهت ارزیابی توان روانگرایی لایه‌های ماسه‌ای منطقه مورد استفاده قرار گرفتند. باتوجه به حجم زیاد داده‌ها در این مقاله اطلاعات 16 گمانه منعکس شده است.&lt;br /&gt; بررسی‌ها نشان دهنده این است که در محدوده فازهای مطالعاتی 12 و 19 در اثر وقوع یک زلزله با بزرگی 7 ریشتر و شتاب افقی g 3/0 امکان بروز پدیده روانگرایی وجود دارد. پهنه‌بندی انجام شده بر اساس شاخص توان روانگرایی نشان دهنده این امر است که با نزدیک شدن به خط ساحلی و با اشباع شدن خاک‌های ماسه‌ای خطر روانگرایی بیشتر شده و با دور شدن از ساحل خطر نسبی روانگرایی کاهش می یابد.</abstract>
+									<keywords>
+									
+											<keyword>پارس‌جنوبی</keyword>
+											<keyword>خلیج‌فارس</keyword>
+											<keyword>روانگرایی</keyword>
+											<keyword>آزمون نفوذ استاندارد</keyword>
+											<keyword>خطر لرزه‌ای</keyword>
+											<keyword>پهنه‌بندی روانگرایی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>33</first_page>
+										<last_page>46</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68331_b6f06d3e57f054b44622123bab4b2afc.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مدل‌سازی فرونشست میدان پارس‌جنوبی با روش‌های تحلیلی و نیمه تحلیلی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمود</given_name>
+												<surname>فاطمی عقدا</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>اکبر</given_name>
+												<surname>قاضی فرد</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمدحسین</given_name>
+												<surname>طاهری‌نیا</surname>
+											</person_name></contributors>
+									<abstract>برداشت از مخازن نفت و گاز افت فشار منفذی این مخازن را به دنبال خواهد داشت و در نتیجه میزان فشار مؤثر ناشی از وزن سنگ­های روباره­ی مخزن افزایش یافته و باعث تراکم مخزن می­گردد. در صورتی­که میزان تراکم سنگ مخزن از حد معینی فراتر رود سنگ­های روباره در اثر وزن خود شروع به فرونشست خواهند کرد. با توجه به اهمیت میدان گازی پارس‌جنوبی و مشترک بودن این میدان بین ایران و قطر، محاسبه و مدل­سازی فرونشست سطح میدان که می­تواند تأثیر بسزایی در عملیات بهره­برداری از این میدان داشته باشد از اهمیت بالای برخوردار است. در این پژوهش ابتدا با استفاده از تئوری تراکم تک­محوره­ی، تراکم مخزن پارس­جنوبی در انتهای دوره­ی برداشت محاسبه شده و سپس با استفاده از روش مدل‌سازی تحلیلی و نیمه­تحلیلی (با استفاده از نرم‌افزار AEsubs) فرونشست ایجاد شده در سطح میدان در اثر تراکم مخزن تعیین گردید. بر اساس مطالعات انجام شده مقدار تراکم مخزن پارس جنوبی در پایان دوره‌ی برداشت در حدود 5/0 متر و بیشنه فرونشست ایجاد شده در سطح این میدان  بر اساس دو روش مدل‌سازی بیش از 6/0 متر برآورد گردیده است.</abstract>
+									<keywords>
+									
+											<keyword>فرونشست</keyword>
+											<keyword>میدان پارس جنوبی</keyword>
+											<keyword>مدل‌سازی</keyword>
+											<keyword>سنگ مخزن</keyword>
+											<keyword>مراکز کرنش</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>47</first_page>
+										<last_page>58</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68332_e8e74ec93de640526c65994d1e9d4a5c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی روش دندانه‌گذاری در تعیین چقرمگی شکست سنگ</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مهدی</given_name>
+												<surname>زارع نجف‌آبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مجیدرضا</given_name>
+												<surname>آیت اللهی</surname>
+											</person_name></contributors>
+									<abstract>چقرمگی شکست سنگ یکی از پارامترهای مکانیکی مهم در برخی از کاربردهای مربوط به توده­های سنگی مانند فرآیند شکست در سنگ، فرآیند شکست هیدرولیکی، طراحی و ساخت ماشین‌آلات حفاری می‌باشد. با این وجود برای اندازه‌گیری این پارامتر روش‌های آزمایشگاهی مختلفی وجود دارد. یکی از روش‌های آزمایشگاهی ارائه شده در این زمینه، روش دندانه‌گذاری می‌باشد. در این تحقیق، در ابتدا رفتارچند سنگ مختلف از نظر نوع و اندازه دانه‌بندی، در آزمایش دندانه‌گذاری بررسی شده و در ادامه عملی بودن این روش در تعیین چقرمگی شکست آن­ها ارزیابی می­شود. با توجه به نتایج بدست آمده می‌توان گفت که سنگ‌ها در آزمایش دندانه‌گذاری رفتار دوگانه‌ای را از خود نشان می‌دهد. برای نیروهای کمتر از بار بحرانی، رفتار سنگ مشابه با مواد ترد دیگر بوده ولی برای نیروهای بیشتر از بار بحرانی، رفتار سنگ­های آزمایش شده به طور کلی متفاوت با مواد ترد دیگر می‌باشد. این تفاوت در رفتار باعث می‌شود که نتوان از روش دندانه‌گذاری برای تعیین چقرمگی شکست آن­ها استفاده کرد. دلیل اصلی این تفاوت را می‌توان ناشی ازبرخی عیوب ساختاری ذاتی در سنگ‌ها دانست.</abstract>
+									<keywords>
+									
+											<keyword>چقرمگی شکست</keyword>
+											<keyword>سنگ</keyword>
+											<keyword>‌ روش دندانه‌گذاری</keyword>
+											<keyword>ترک</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>59</first_page>
+										<last_page>68</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68334_f1b991f56e4468f798100bf38fb6d266.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارتباط خواص کانی‌شناسی و بافتی میکروسکوپی با خصوصیات فیزیکی و مکانیکی سنگ‌های گابرو و دیوریت نطنز</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مسعود</given_name>
+												<surname>ترکان</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمدرضا</given_name>
+												<surname>ایران‌نژادی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علیرضا</given_name>
+												<surname>باغبانان</surname>
+											</person_name></contributors>
+									<abstract>خصوصیات میکروسکوپی و ژئومکانیکی سنگ‌های ساختمانی آذرین شامل مواردی از جمله میزان دگرسانی، وجود ریزدرزه‌ها، مقاومت نهایی، تخلخل، میزان کانی‌های مضر و ... می‌باشد. براساس پژوهش‌های قبلی، تخلخل در سنگ‌های آذرین به شدت بر روی مقاومت نهایی نمونه‌ی سنگی تأثیرگذار بوده و آن را کاهش می‌دهد. در این تحقیق یک نمونه سنگ گابرویی و یک نمونه سنگ دیوریتی متعلق به یکی از معادن سنگ ساختمانی غرب نطنز انتخاب شدند و مورد بررسی‌های میکروسکوپی و ژئومکانیکی قرار گرفتند. با توجه به مطالعات مقاطع نازک سنگ میزان دگرسانی، وجود ریزدرزه‌ها و کانی‌های مضر مؤثر بر روی استحکام سنگ‌های ساختمانی برآورد گردید. سپس آزمایش‌های ژئومکانیکی مانند تعیین چگالی، تخلخل، شاخص دوام، آزمون کشش برزیلی و مقاومت سه محوره مطابق استانداردهای ISRM انجام شد. داده‌های حاصل با مقادیر استاندارد تطبیق داده شد و پس از آن رابطه‌ی کیفی بین مقاومت و خواص میکروسکوپی مشاهده شد که بیانگر اهمیت مطالعات میکروسکوپی سنگ‌های ساختمانی می‌باشد. از رابطه‌ی به دست آمده می‌توان در مراحل اکتشاف، استخراج و فرآوری سنگ‌های ساختمانی بهره جست و از صرف هزینه‌های گزاف، تخریب محیط‌زیست و منابع ملی که پیامد حذف این مطالعات می‌باشد، جلوگیری به عمل آورد.</abstract>
+									<keywords>
+									
+											<keyword>خصوصیات میکروسکوپی</keyword>
+											<keyword>ویژگی‌های ژئومکانیکی</keyword>
+											<keyword>دگرسانی</keyword>
+											<keyword>سنگ ساختمانی</keyword>
+											<keyword>گابرو</keyword>
+											<keyword>دیوریت</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>69</first_page>
+										<last_page>78</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68335_d36b92da1d7c484fc54d422a0b2be448.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی آزمایشگاهی رفتار خاک مخلوط با خرده‌لاستیک به منظور بکارگیری در بستر خطوط ریلی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مرتضی</given_name>
+												<surname>اسماعیلی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>نوید</given_name>
+												<surname>نخعی</surname>
+											</person_name></contributors>
+									<abstract>از جمله کاربردهای پیشنهادی برای بکارگیری لاستیک فرسوده مخلوط کردن این مصالح به فرم خرده شده با مصالح خاکی و بکارگیری در پشت دیوارهای حائل و خاکریزها می‌باشد. در این خصوص مطالعات جامعی در حوزه مهندسی راه صورت گرفته ولیکن در حوزه مهندسی راه‌آهن تحقیق مشخصی انجام نشده است. با توجه به آنکه در بستر و خاکریز خطوط ریلی یکی از پارامترهای کلیدی، مدول ارتجاعی در دومین مرحله بارگذاری(Ev&lt;sub&gt;2&lt;/sub&gt;) است. لذا در تحقیق حاضر مخلوطی از خاک GW-GC با مقادیر0، 5، 10و 15درصد خرده‌لاستیک با محدوده دانه‌بندی 475/0 تا 5/2 سانتی‌متر تحت یکسری آزمایش‌های استاتیکی فیزیکی و مکانیکی شامل تراکم، هم‌ارز ماسه، ظرفیت باربری کالیفرنیا، برش مستقیم و بارگذاری  صفحه مرحله‌ای قرار گرفته و سپس در اتاقک بارگذاری به ابعاد 1.2×5/2×5/2 متر، ریخته و به تراکم حداکثر آزمایشگاهی مطابق استاندارد ASTM D6270-2006 رسانده شده است. در ادامه با استفاده از جک 30 تن، بارگذاری در سه گام و به صورت مرحله‌ای بر روی صفحه مربعی به ابعاد 30×30 سانتی‌متر صورت گرفته است. نتایج آزمایش بیانگر آن است که در مقایسه با خاک بدون خرده‌لاستیک کاهش وزن مخصوص به میزان 86/11 تا 36/19 درصد، ظرفیت باربری کالیفرنیا به میزان 35/34 تا 47/67 درصد، پارامترهای مقاومت برشی همچون چسبندگی در ابتدا به مقدار 1/2 درصد افزایش یافته ولی پس از آن مجدداً به میزان 1/27 درصد کاهش پیدا کرده و زاویه اصطکاک داخلی به میزان 8/10 تا 62/21 درصد کاهش داشته است و مقدار E&lt;sub&gt;v2&lt;/sub&gt; به میزان 54/27 تا 29/54 درصد کاهش را به دنبال داشته است. با مقایسه نتایج بدست آمده با مقادیر مجاز آیین‌نامه‌ی UIC R719-1996 مشخص گردید که حداکثر تا 10 درصد از خرده‌لاستیک را می‌توان بصورت مخلوط با مصالح بستر مورد استفاده قرار داد لیکن استفاده از آن بعنوان بخشی از بدنه خاکریز توصیه نمی‌شود.</abstract>
+									<keywords>
+									
+											<keyword>بستر و خاکریز راه‌آهن</keyword>
+											<keyword>خرده‌لاستیک</keyword>
+											<keyword>CBR</keyword>
+											<keyword>PLT</keyword>
+											<keyword>Ev2</keyword>
+											<keyword>آیین‌نامه UIC R719</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>79</first_page>
+										<last_page>88</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68336_b03a64876e99485912857a65d2c6a8c6.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تخمین مقاومت تراکمی تک‌محوری آهک‌های مارنی سازند آبدراز با استفاده از خصوصیات فیزیکی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>معصومه</given_name>
+												<surname>خلیلی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>غلامرضا</given_name>
+												<surname>لشکری پور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>غفوری</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمد</given_name>
+												<surname>خانه باد</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>پوریا</given_name>
+												<surname>دهقان</surname>
+											</person_name></contributors>
+									<abstract>هدف از این تحقیق ارائه و بررسی روابط ساده و چندمتغیره برای تخمین مقاومت فشاری نمونه‌هایی از سنگ آهک‌های مارنی سازند آبدراز است. بر روی این سازند پروژه‌های مهندسی زیادی مانند سد، تونل و جاده در شمال استان خراسان رضوی احداث شده است. برای این منظور برروی 39 نمونه سنگ آهک مارنی سازند آبدراز مطابق با استاندارد انجمن بین‌المللی مکانیک سنگ، آزمایش‌های مربوط به تعیین خصوصیات فیزیکی شامل تخلخل، دانسیته، جذب آب انجام شد و روابطی چند متغیره برای تخمین مقاومت فشاری به دست آمد. نتایج به دست آمده از روش رگرسیون ساده، نشان دهنده‌ی کارایی بهتر دانسیته نسبت به دیگر ویژگی‌های سنگ در تخمین مقاومت تراکمی تک‌محوری است. بهترین رابطه‌ی چندمتغیره نیز به ازای استفاده از متغیرهای مستقل دانسیته و جذب آب برای کل نمونه‌ها به دست آمد.</abstract>
+									<keywords>
+									
+											<keyword>خصوصیات فیزیکی</keyword>
+											<keyword>مقاومت فشاری تک‌محوری</keyword>
+											<keyword>آهک مارنی</keyword>
+											<keyword>سازند آبدراز</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>89</first_page>
+										<last_page>97</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68337_16cab7a9456033078b59c5c8e63ad711.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>2</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2014</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Prediction of Stock Market Returns with out of Sample Data: Evaluating out of Sample Methods (Regression Method and Wavelet Neural Network)</ArticleTitle>
+<VernacularTitle>پیش‌بینی بازده آتی بازار سهام با استفاده از مدل‌های آریما، شبکه عصبی و نویززدایی موجک</VernacularTitle>
+			<FirstPage>1</FirstPage>
+			<LastPage>16</LastPage>
+			<ELocationID EIdType="pii">19880</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>میثم</FirstName>
+					<LastName>محمودی آذر</LastName>
+<Affiliation>دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>رضا</FirstName>
+					<LastName>راعی</LastName>
+<Affiliation>دانشگاه تهران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>06</Month>
+					<Day>14</Day>
+				</PubDate>
+			</History>
+		<Abstract>Understanding stock price behavior and price forecasting are one of the most challenging issues that speculators, traders and brokers are faced with. Since stock market was established in the nineteenth century, many researchers have focused on investigating the stock price forecasting model. At the outset some of the models such as Autoregressive, ARMA, ARIMA, ARCH and GARCH were widely applied. Although some of these models were better than others in performance, but none of them had satisfactory result. Recently a number of researchers have been considering the stock market as a dynamic nonlinear system. On the other hand, artificial intelligence techniques including neural networks, genetic algorithms and fuzzy logic have produced successful results in solving complex problems. In this study we tried to use wavelet transform and neural network to present a model that more accurately predict the return on stock market index. In this hybrid model, the smoothing property of wavelet transform is used to reduce the noise level of data then a neural network model is used for forecasting. Comparison of forecast error in ARIMA models, neural network and wavelet neural network indicates that noise reduction improves forecasting of the index returns.</Abstract>
+			<OtherAbstract Language="FA">موضوع شناخت و بررسی رفتار قیمت سهام، همواره یکی از موضوع‌های مهم و مورد توجه محافل علمی و سرمایه‌گذاری بوده است. اخیراً تعداد زیادی از پژوهشگران در پژوهش‌های خود بازار سهام را به عنوان یک سیستم پویای غیرخطی در نظر گرفته‌اند. در این پژوهش، تلاش شده است با استفاده از تبدیل موجک و شبکه عصبی مدلی ارایه شود که پیش بینی دقیق‌تر و با خطای کمتری از بازده شاخص بورس اوراق بهادار داشته باشد. در این مدل ترکیبی، از خاصیت هموارسازی تبدیل موجک برای کاهش سطح نویز داده‌ها استفاده و سپس به وسیله شبکه عصبی پیش‌بینی شده است. مقایسه خطای پیش بینی مدل‌های آریما، شبکه عصبی و شبکه عصبی موجکی نشان می‌دهد که کاهش نویز عملکرد پیش-بینی بازده شاخص را بهبود می‏بخشد. به بیان بهتر، مدل شبکه عصبی موجکی (نویززدایی سیگنال) عملکردی بهتر از مدل‌های آریما و شبکه عصبی دارد. همچنین، مدل‌های شبکه عصبی قدرت پیش‌بینی‏کنندگی بهتری را نسبت به مدل‌های آریما نشان می‌دهد. مقادیر مربوط به آزمون دایبولد – ماریانو نیز این نتایج را تایید می‏نماید.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">آریما</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">پیش بینی برون نمونه‌ای</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبکه عصبی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبکه عصبی موجکی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نویززدایی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_19880_9c0c45ad6d0a19d209d5f8eb98d4cbfe.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-21T02:02:28Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://miu.nahad.ir/?_action=export&amp;rf=summon&amp;issue=15</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2012-06-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1391</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی شاخصهای مقیاس وبومتریک در دانشگاههای منتخب (با تاکید بر جنبش نرم افزاری)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>اسماعیل</given_name>
+												<surname>ابو نوری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>عیسی</given_name>
+												<surname>نیازی</surname>
+											</person_name></contributors>
+									<abstract>&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف&lt;/span&gt;: پژوهش حاضر، ارزیابی شاخصهای مقیاس وبومتریک در دانشگاههای تهران، اصفهان، تربیت مدرس، الزهرا، مازندران، گیلان، یزد، اراک و رازی بود. &lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;: برای انجام این پژوهش توصیفی، مقطعی و کاربردی از پرسشنامه استفاده شد که پس از سنجش روایی و پایایی، بر اساس نمونه‌گیری طبقه‌بندی شده سهمیه‌ای، بین 355 نفر از اعضای هیئت علمی دانشگاههای منتخب مذکور توزیع شد. تجزیه و تحلیل داده‌های پژوهش با استفاده از نرم‌افزار SPSS16 صورت گرفت. &lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته&lt;/span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;‌&lt;/span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;های &lt;/span&gt;پژوهش نشان داد از لحاظ شاخصهای مقیاس وبومتریک، هیچ کدام از دانشگاههای منتخب در جایگاه مناسبی قرار ندارند (پایین‌تر از میانگین). &lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه&lt;/span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;گیری&lt;/span&gt;: برای ارتقای موقعیت دانشگاههای منتخب از لحاظ سطح مقیاس وبومتریک موارد ذیل پیشنهاد می‌شود: 1. دسترسی به پایگاههای اطلاعاتی مهم داخلی و خارجی از طریق وب‌سایت دانشگاهها؛ 2. ارائة برنامه‌های آموزشی الکترونیکی در وب‌سایت دانشگاهها؛</abstract>
+									<keywords>
+									
+											<keyword>ارزیابی</keyword>
+											<keyword>وبومتریک</keyword>
+											<keyword>دانشگاههای منتخب</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2012</year>
+										<month>06</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>3</first_page>
+										<last_page>34</last_page>
+									</pages>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2012-06-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1391</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی کیفی چگونگی انطباق اهداف آموزش عالی با مقتضیات بُعد اقتصادی جهانیشدن</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مهدی</given_name>
+												<surname>سبحانی نژاد</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهدی</given_name>
+												<surname>محمودی</surname>
+											</person_name></contributors>
+									<abstract>&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف&lt;/span&gt; این پژوهش، بررسی چگونگی انطباق اهداف آموزش عالی با مقتضیات بُعد اقتصادی جهانی‌شدن از دید اعضای هیئت علمی دانشگاههای شهر تهران بود. &lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt; انجام پژوهش، کیفی و جامعة پژوهش، اعضای هیئت علمی دانشگاههای شهر تهران در سال تحصیلی86- 85 بوده که با بهره‌گیری از روش نمونه‌گیری هدفمند،50 ‌نفر از آنان انتخاب شدند. ابزار گردآوری داده‌ها، فرم پرسشنامه باز پاسخ بوده و داده‌های حاصل از بررسی، به شیوة کیفی، تجزیه و تحلیل شده است. &lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته&lt;/span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;‌&lt;/span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;های&lt;/span&gt; پژوهش عبارتند از: 1. عمده‌ترین پیامدهای اقتصادی جهانی‌شدن بر اهداف آموزش عالی ایران شامل ضرورت طرح موضوعاتی چون: تجارت آزاد جهانی، یکپارچه‌سازی بازرگانی، اتخاذ تدابیری در مقابله با مصرف‌گرایی، بازار رقابت و جریان آزاد انتقال کالا و خدمات و سرمایه و فنّاوری، تأثیرالزامات فنّاورانه و مقتضیات اقتصادی بر سبک زندگی و فرهنگ در فرایند جهانی‌شدن، امکان ابزاری شدن آموزش و پرورش در خدمت اقتصاد بدون توجه به خواسته‌های ملتها وآرمانهای اصیل تعلیم و تربیت، نیاز جوامع به رشد اجتماعی و فرهنگی، بالا بردن سطح زندگی شهروندان از راه مناسبات صحیح اقتصادی و تجارت میان کشورها، توجه آموزش عالی به حفظ محیط زیست، توجه آموزش عالی به حقوق مشترک و نقش دولتها، فراهم آوردن امکانات اشتغال کامل، تحرّک شفاف سرمایه و ... بوده است. &lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه گیری:&lt;/span&gt; تولید دانش گسترده، تربیت افرادی با شخصیت جامع، صرفه‌جویی در وقت و هزینه و تولید بیشتر، آموزش همگانی در سطح بالا، از بین رفتن شکل سنّتی و ساختار قدیمی دانشگاهها و در نهایت، تغییر در نوع و شیوة زندگی و کسب لذت بیشتر از زندگی، از آثار و پیامدهای جهانی‌شدن و تأثیر آن بر آموزش عالی می باشد.</abstract>
+									<keywords>
+									
+											<keyword>جهانیشدن</keyword>
+											<keyword>بعد اقتصادی</keyword>
+											<keyword>آموزش عالی</keyword>
+											<keyword>اهداف</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2012</year>
+										<month>06</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>35</first_page>
+										<last_page>65</last_page>
+									</pages>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2012-06-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1391</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی ارتباطات سازمانی بر اثربخشی عملکرد مدیران و رضایتمندی کارکنان در آموزش عالی (مطالعۀ موردی مراکز آموزش عالی شهر مشهد)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حبیب‌ا...</given_name>
+												<surname>دعائی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>غلامرضا</given_name>
+												<surname>ملک زاده</surname>
+											</person_name></contributors>
+									<abstract> &lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف&lt;/span&gt;: این پژوهش با بهره‌گیری از نظریۀ ارتباطات حمایتی و تدافعی، به بررسی و ارزیابی جوّ ارتباطی و عملکرد مدیران و رضایتمندی کارکنان و اثر بخشی گروه ها یا بخش ها در این مراکز پرداخت. مدیران حلقۀ ارتباطی تعیین‌کننده میان کارکنان و سامانه‌های اداری مراکز آموزش عالی هستند که شیوۀ ارتباطی آنها اثری تعیین‌کننده بر عملکرد و اثربخشی گروهها یا بخشها دارد. &lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;: زمینه‌یابی (پرسشنامه)؛ بر مبنای نظرات 150 نفر از کارکنان غیر هیئت علمی مراکز آموزش عالی شهر مشهد که به صورت کاملاً تصادفی انتخاب شده بودند، داده‌ها جمع‌آوری و تحلیل صورت گرفت. &lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته&lt;/span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;‌&lt;/span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;های&lt;/span&gt; حاصل از این پژوهش نشان داد که اغلب مدیران مراکزآموزش عالی مورد بررسی، از رفتارهای حمایتی استفاده می‌کنند. مدیرانی که رفتارهای حمایتی در ارتباطات سازمانی را در پیش گرفته‌اند، اثربخشی شغلی بیشتری داشته، رضایتمندی کارکنانشان نیز بالاتر است. نتایج نشان می‌دهد که متغیّرهای جهت‌گیری مسئله‌مدار، مشروط بودن رفتار و رفتار کنترلی با اثربخشی شغلی مدیران، دارای ارتباط مثبت و معنادار و رفتارهای راهبردی با ارتباطات تدافعی دارای رابطۀ منفی معنادار است. این مطالعه همچنین نشان می‌دهد مدیران در مراکز آموزشی باید بر چگونگی و ویژگی‌های محیط کلی ارتباطات تمرکز کرده و به ادراکات، رفتارها و عملکرد کارکنان و تعامل آنها با سازمان توجه کنند&lt;span style=&quot;text-decoration: underline;&quot;&gt;. نتیجه گیری&lt;/span&gt;:  ایجاد جوّ تعامل دوسویه می‌تواند به مشارکت کارکنان در ارائۀ نظرات خود برای بهبود سازمانی کمک کرده و اثربخشی مدیریت و رضایتمندی کارکنان از کار خود را افزایش دهد.</abstract>
+									<keywords>
+									
+											<keyword>: ارتباطات سازمانی</keyword>
+											<keyword>جوّ ارتباطی</keyword>
+											<keyword>جوّ حمایتی</keyword>
+											<keyword>جوّ تدافعی</keyword>
+											<keyword>آموزش عالی</keyword>
+											<keyword>مشهد</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2012</year>
+										<month>06</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>66</first_page>
+										<last_page>89</last_page>
+									</pages>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2012-06-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1391</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ضرورت ایجاد واحد دانشگاهپژوهی در دانشگاههای اسلامی ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی اکبر</given_name>
+												<surname>امین بیدختی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمدعلی</given_name>
+												<surname>نعمتی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مریم</given_name>
+												<surname>زارع</surname>
+											</person_name></contributors>
+									<abstract>&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف&lt;/span&gt;: این پژوهش، به تبین مفهوم دانشگاه پژوهی ، ضرورت ایجاد این واحد و شناسایی الزامات تحقق آن را در دانشگاههای اسلامی پرداخت. براین اساس پس از تشریح مفهوم IR، الزامات شناسایی شده در دو گروه درون و برون دانشگاهی از طریق &lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt; دلفی به تأیید خبرگان کشور-که در این حوزه طرح تحقیقاتی یا مطالعات و پژوهش‌هایی دارند- رسیده است. جهت تأیید نهایی الزامات درون دانشگاهی شامل: فرهنگ دانشگاهی، الزامات مدیریتی، الزامات علمی و حرفه ای، الزامات ساختاری، الزامات فرآیندی، الزامات مالی و اعتباری، الزامات منابع انسانی، الزامات فناوریICT، امکانات و تجهیزات و الزامات برون دانشگاهی شامل: الزامات فرهنگی، الزامات قانونی، اهداف و برنامه های بالادستی ، مکانیزم های حمایتی و تشویقی، الزامات اقتصادی، نظرات مدیران دانشگاههای تهران از طریق پرسشنامه محقق ساخته مورد بررسی قرار گرفت.&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته های&lt;/span&gt; تحقیق حاکی از آن است که کلیه الزامات درون و برون دانشگاهی تحقق دانشگاه پژوهی مستخرج از مبانی و پیشینه نظری مورد تأیید اعضای نمونه قرار گرفته است. از دیگر سو، بین دیدگاه مدیران از لحاظ جنسیت و گروه آموزشی،  تفاوت معنا داری مشاهده شده است. در نهایت راهکارهایی در راستای تحقق مطلوب تر دانشگاه پژوهی در کشور ارائه گردیده است.&lt;br /&gt; &lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه گیری&lt;/span&gt;: ایجاد اعتقاد و باور در مدیریت ارشد و جلب مشارکت و حمایت آن در اجرای موفقیت‌آمیز اهداف یا برنامه‌های جدید در سازمان به طور اعم و در دانشگاه به طور اخص از ضرویات اجتناب‌ناپذیر است.</abstract>
+									<keywords>
+									
+											<keyword>دانشگاه</keyword>
+											<keyword>دانشگاهپژوهی</keyword>
+											<keyword>آموزش عالی</keyword>
+											<keyword>پژوهش</keyword>
+											<keyword>دانش</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2012</year>
+										<month>06</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>90</first_page>
+										<last_page>113</last_page>
+									</pages>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2012-06-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1391</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناسایی و تبیین شایستگیهای مدیران دانشگاه</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید محمد</given_name>
+												<surname>محمودی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسن</given_name>
+												<surname>زارعی متین</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>صدیقه</given_name>
+												<surname>بحیرایی</surname>
+											</person_name></contributors>
+									<abstract>&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف&lt;/span&gt; این مقاله، شناسایی و تبیین شایستگی‌های مدیران دانشگاهها بوده است. &lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;: روش مقاله پیماشی(survey) می باشد. برای رسیدن به هدف، به مطالعة عمیق مبانی موضوع شایستگی پرداخته شده است و از نظرات مدیران دانشگاه به عنوان خبره، برای طراحی الگوی اولیه و سپس برای تکمیل آن، از پرسشنامه استفاده شده است. جامعة آماری تحقیق، تمامی مدیران دانشگاهی استان قم بوده است. &lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌های&lt;/span&gt; تحقیقنشان می‌دهد که مدیران دانشگاه باید دارای شایستگی‌های مدیریتی، اجتماعی و فردی باشند. شایستگی‌های مدیریتی شامل شایستگی‌های ادراکی، رهبری، تصمیم‌گیری و اجرایی؛ شایستگی‌های اجتماعی شامل شایستگی‌های ارتباطی، کار تیمی، مدیریت افراد و دانشجومحوری و شایستگی‌های فردی شامل ویژگی‌های شخصیتی، اخلاقی و اختصاصی است.&lt;span style=&quot;text-decoration: underline;&quot;&gt; نتیجه‌گیری&lt;/span&gt;: فهرست شایستگی‌های مدیران دانشگاه بر مبنای سه چارچوب محوری شایستگی اجتماعی، شایستگی فردی و شایستگی مدیریتی استوار است.</abstract>
+									<keywords>
+									
+											<keyword>شایستگی</keyword>
+											<keyword>الگوی شایستگی</keyword>
+											<keyword>مدیران دانشگاه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2012</year>
+										<month>06</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>114</first_page>
+										<last_page>143</last_page>
+									</pages>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2012-06-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1391</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناسایی و عارضهیابی ابعاد کارکردی نمازخانههای دانشگاهی با رویکرد فازی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سیدمحمود</given_name>
+												<surname>زنجیرچی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسین</given_name>
+												<surname>صیادی تورانلو</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>فاطمه</given_name>
+												<surname>شاکری</surname>
+											</person_name></contributors>
+									<abstract>&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف&lt;/span&gt;: ‌در این تحقیق تلاش شده تا کارکردهای مختلف مساجد دانشگاهی در حوزه‌های مختلف بررسی و اولویت آنها از دیدگاه دانشجویان به عنوان هدف اصلی این مراکز معنوی مورد کنکاش قرار گیرد. مساجد به عنوان پایگاهها و پناهگاههای مطمئن مسلمانان، در ایجاد همگرایی انگیزه‌ها و تمرکز افکار و وحدت رفتارهای جامعه، نقش محوری دارند. این محور وحدت، زمانی که در بستر جامعة جوان قرار بگیرد، دارای اهمیت دوچندان شده، لزوم برنامه‌ریزی دقیق و حساب شده برای آن بیشتر رخ می‌نمایاند. &lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;: به منظور دقت بیشتر تحلیل، اندازه‌گیری سازه‌های تحقیق با استفاده از عبارات کلامی به عنوان یکی از حوزه‌های علم فازی انجام شده تا انحراف ارزیابی‌های انسانی را پوشش دهد. &lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌های&lt;/span&gt; تحقیق، «کارکردهای دینی و معنوی» را دارای بیشترین اهمیت و «کارکردهای فوق برنامه» را دارای کمترین اهمیت معرفی کرد.&lt;br /&gt; &lt;span style=&quot;text-decoration: underline;&quot;&gt; نتیجه‌گیری:&lt;/span&gt; نتایج رتبه‌بندی ابعاد تحقیق، بعد مراسم دینی را دارای بیشترین اهمیت معرفی می‌کند. پس از آن به ترتیب، ابعاد روحانی و مسئولان نمازخانه، امکانات فیزیکی و مراسم فوق برنامه قرار دارند. این امر، هوشیاری، آموزش مناسب و ساختار ذهنی دقیق دانشجویان را نشان می‌دهد؛ چرا که بیشترین اهمیت را به انجام واجبات دینی در حوزة مساجد اختصاص داده‌اند.</abstract>
+									<keywords>
+									
+											<keyword>مسجد</keyword>
+											<keyword>کارکردهای مساجد دانشگاهی</keyword>
+											<keyword>عبارات کلامی</keyword>
+											<keyword>تاپسیس فازی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2012</year>
+										<month>06</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>144</first_page>
+										<last_page>170</last_page>
+									</pages>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2012-06-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1391</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی وضعیت همگامی دانشگاههای دولتی ایران با توسعة پایدار بر اساس الگوی FLA (مطالعة موردی: دانشگاه قم و پردیس قم دانشگاه تهران)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>ابوالفضل</given_name>
+												<surname>سهرابی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حامد</given_name>
+												<surname>بردبار</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حسن</given_name>
+												<surname>نوری</surname>
+											</person_name></contributors>
+									<abstract>&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف&lt;/span&gt; پژوهش حاضر، بررسی همگامی دانشگاههای دولتی ایران (مطالعة موردی: دانشگاه قم و پردیس قم دانشگاه تهران) با توسعة پایدار بوده و از الگوی سه بعدی FLA استفاده کرده که این الگو می‌تواند میزان همگامی بخشهای پژوهش، آموزش و مدیریت را در سه سطح چارچوب، تغییر و بازیگران تبیین کند.&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;: روش تحقیق توصیفی از نوع پیمایشی(survey) بوده است. بر این اساس، جامعة آماری متشکّل از اعضای هیئت علمی و دست‌اندرکاران بخشهای آموزش، پژوهش و مدیریت بوده و فرضیات تحقیق شامل از حد متوسط بالاتر بودن میزان همگامی آموزش، پژوهش و مدیریت دانشگاه قم و پردیس قم دانشگاه تهران با توسعة پایدار می‌باشد. . ابزار اصلی استفاده شده، پرسشنامة محقق‌ساخته بوده؛ ولی با توجه به دست‌اندرکار بودن محققان در دانشگاه، از ابزار مشاهده نیز استفاده شده است.&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته&lt;/span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;‌&lt;/span&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;های &lt;/span&gt;پژوهش نشان داد بخشهای آموزش و مدیریت، همگام با توسعة پایدار حرکت کرده‌اند، ولی بخش پژوهش نتوانسته همگام با توسعة پایدار به فعالیت خود ادامه دهد.&lt;span style=&quot;text-decoration: underline;&quot;&gt; نتیجه گیری:&lt;/span&gt; دانشگاه قم و پردیس قم دانشگاه تهران، باید کارگاهها و برنامه‌های آموزشی در نظر گرفته شده برای استادان، کارمندان و دانشجویان را برای آشنایی با آخرین دستاوردها و آموزشهای ضمن خدمت از لحاظ کمّیت وکیفیت ارتقا دهد وهمکاری و ارتباط بیشتری را با دانشگاههای منطقه در زمینة تبادلات علمی و آموزشی، برگزاری مشترک همایشها و نشستهای مختلف برقرار نماید.</abstract>
+									<keywords>
+									
+											<keyword>توسعه</keyword>
+											<keyword>توسعة پایدار</keyword>
+											<keyword>الگوی FLA</keyword>
+											<keyword>دانشگاه قم</keyword>
+											<keyword>پردیس قم</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2012</year>
+										<month>06</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>171</first_page>
+										<last_page>195</last_page>
+									</pages>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2012-06-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1391</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی مقایسهای منابع قدرت استادان از دید آنان و دانشجویان (مورد: دانشکده علوم تربیتی و روانشناسی دانشگاه شیراز)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>جعفر</given_name>
+												<surname>ترک زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>هاجر</given_name>
+												<surname>معینی شهرکی</surname>
+											</person_name></contributors>
+									<abstract>&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف&lt;/span&gt; کلی از تحقیق حاضر، مقایسة منابع قدرت مورد استفادة استادان از دید آنان و دانشجویان در دانشکدة علوم تربیتی و روان‌شناسی دانشگاه شیراز بود. &lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt; روش مورد استفاده پیمایشی (Survay ) بوده است.روش تحقیق پرسشنامه‌ای ترکیبی مشتمل بر پرسشنامة نفوذ و بخش تکمیلی محقق‌ساخته بوده که روایی و پایایی آن محاسبه شده است. این پرسشنامه به وسیلة 29 نفر از استادان و 305 نفر از دانشجویان مقطع کارشناسی و کارشناسی ارشد تکمیل و عودت داده شد.&lt;span style=&quot;text-decoration: underline;&quot;&gt; یافته های&lt;/span&gt; پژوهش نشان داد ، یک منبع جدید قدرت استادان (چیرگی محیطی) وجود دارد که در این پژوهش شناسایی، تعریف و ارزیابی شده است.&lt;br /&gt;  &lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه گیری:&lt;/span&gt;  ‌نتایج نشان داد که: 1. از دید استادان، بیشترین میانگین مربوط به منبع قدرت چیرگی محیطی و کمترین میانگین مربوط به منبع قدرت اجبار است و تفاوت بین میانگینها معنی‌دار است؛ 2. از دید دانشجویان، بیشترین میانگین مربوط به منبع قدرت چیرگی محیطی و کمترین میانگین مربوط به منبع قدرت اجبار و تفاوت بین میانگینها معنی‌دار است؛ 3. اولویت و توزیع منابع قدرت مورد استفادة استادان از دید آنان به ترتیب عبارت است از: منابع قدرت چیرگی محیطی، فرهنگ، اخلاق، مرجعیت، پاداش، تخصص، مشروعیت و اجبار؛ 4. اولویت و توزیع منابع قدرت مورد استفادة استادان از دید دانشجویان به ترتیب عبارت است از: منابع قدرت چیرگی محیطی، تخصص، مرجعیت، اخلاق، فرهنگ، پاداش، مشروعیت و اجبار؛ 5. در اولویت‌بندی منابع قدرت مورد استفادة استادان، هم از دید آنان و هم از دید دانشجویان منابع قدرت چیرگی محیطی، مشروعیت و اجبار به ترتیب حائز رتبه‌های اول، هفتم و هشتم شدند؛ 6. بین نگرش استادان و دانشجویان در استفادة استادان از منابع قدرت، با توجه به جنسیت و رشته‌های تخصصی آنان، تفاوت معنی‌داری مشاهده نشد.</abstract>
+									<keywords>
+									
+											<keyword>منابع قدرت</keyword>
+											<keyword>استادان</keyword>
+											<keyword>دانشجویان</keyword>
+											<keyword>مدیریت فرایند یاددهی ـ یادگیری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2012</year>
+										<month>06</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>196</first_page>
+										<last_page>222</last_page>
+									</pages>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

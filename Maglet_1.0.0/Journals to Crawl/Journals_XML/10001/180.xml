@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-20T22:07:07Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22108">http://amf.ui.ac.ir/?_action=export&amp;rf=summon&amp;issue=4512</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-09-22</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1399</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>رفتار ریسک تجاری در شرکت‏های ارزشی و رشدی در شرایط ثبات و بحران اقتصادی: شواهدی از بورس اوراق بهادار تهران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مجتبی</given_name>
+												<surname>رستمی نوروزآباد</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ابوالحسن</given_name>
+												<surname>جلیلوند</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>میرفیض</given_name>
+												<surname>فلاح شمس</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>علی</given_name>
+												<surname>سعیدی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;هدف&lt;/strong&gt;: تأثیر سیستماتیک صرف ارزش در توضیح بازده سهام مدتی طولانی است که ادبیات مالی و اقتصاد را به کنکاش واداشته است. مطالعات اخیر شواهدی از داده‏های آمریکا برای رفتار متفاوت شرکت‏های رشدی و ارزشی را نشان می‏دهد؛ اما دلایل و منابع این رفتار متفاوت را نشان نمی‏دهد.&lt;br /&gt; &lt;strong&gt;روش:&lt;/strong&gt; علاوه بر این، مشخص نیست که آیا چنین اختلافاتی همچنان در بازارهای سرمایۀ کشورهای دیگر وجود دارند یا خیر؛ بنابراین، در این پژوهش ریسک اهرمی و ریسک تجاریِ سهام رشدی و ارزشی (هر دو بر مبنای بتای شرطی) با استفاده از فن‌‏های پارامتریک و ناپارامتریک برای دورۀ زمانی 1378 تا 1396 میان شرکت‏های پذیرفته‌‎شده در بورس اوراق بهادار تهران با هم مقایسه و شرایط ثبات و بحران بازار و اقتصاد با استفاده از اندازه و نوسانات صرف ریسک بورس اوراق بهادار تهران مشخص شد. همانند مطالعات قبلی (برای مثال چوی، 2013)&lt;br /&gt; &lt;strong&gt;نتایج&lt;/strong&gt;: نتایج مطالعه نشان داد بتای شرطی (اهرمی و تجاری) در شرایط ثبات اقتصادی تفاوتی ندارد و میان ریسک اهرمی و تجاری سهام رشدی و ارزشی در شرایط بحران اقتصادی تفاوت معناداری وجود دارد. ریسک اهرمی و تجاری سهام ارزشی نیز به‌طور خاص و معناداری از ریسک اهرمی و تجاری سهام رشدی در شرایط بحران اقتصادی بالاتر است.</abstract>
+									<keywords>
+									
+											<keyword>ریسک اهرمی</keyword>
+											<keyword>ریسک تجاری</keyword>
+											<keyword>سهام رشدی</keyword>
+											<keyword>سهام ارزشی</keyword>
+											<keyword>بحران اقتصادی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>09</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>24</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23635_444fe5301e362b15c7c729760d60f2f5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-09-22</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1399</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>طراحی و تبیین الگوی ثبات نظام بانکی براساس کیفیت گزارشگری مالی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمدحسین</given_name>
+												<surname>صفرزاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رسول</given_name>
+												<surname>اسکندری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>ابراهیم</given_name>
+												<surname>جعفری منش</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;هدف: &lt;/strong&gt;با توجه به نقش حیاتی ثبات نظام بانکی و گزارشگری مالی در بدنه‌‌های نظارتی، این پژوهش به‌صورت الگوسازی ثبات نظام بانکی براساس کیفیت گزارشگری مالی و تشخیص راهبردهای ارتقای ثبات از این طریق تعریف می‌‌شود.
+&lt;strong&gt;روش:&lt;/strong&gt; اهداف پژوهش ضمن توسعۀ شاخص ثبات براساس بیانیۀ کمیتۀ بال و یک سنجۀ جامع از کیفیت گزارشگری مالی، با روش تابلو پویا و به‌کارگیری نمونه‌‌ای متشکل از 16 بانک ایرانی طی دورۀ زمانی 1386 تا 1396 در بازار سرمایه ایران دنبال شده است.
+&lt;strong&gt;نتایج: &lt;/strong&gt;یافته‌‌ها فرضیۀ اول (اعتبار الگوی پژوهش از ثبات مالی در بستر کیفیت گزارشگری مالی) و دوم (ارتقای ارتباط ثبات شبکۀ بانکی با کیفیت گزارشگری مالی ازطریق به‌کارگیری روش ذخیره‌‌گیری پویا) را تأیید می‌کند. نتایج پژوهش تأییدکنندۀ ارتباط مستقیم بین ثبات نظام بانکی و کیفیت گزارشگری مالی بانکی است. علاوه ‌‌بر این، نتایج نشان می‌‌دهد با به‌کارگیری روش ذخیره‌‌گیری پویا به جای روش ذخیره‌‌گیری ایستا (استفاده‌شده در شبکۀ بانکی کشور)، می‌‌توان ازطریق ارتقای کیفیت گزارشگری مالی بانک‌‌ها به تثبیت شبکۀ بانکی کمک کرد.</abstract>
+									<keywords>
+									
+											<keyword>نظام بانکی</keyword>
+											<keyword>گزارشگری مالی</keyword>
+											<keyword>ذخیره‌‌گیری پویا</keyword>
+											<keyword>ثبات نظام بانکی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>09</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>25</first_page>
+										<last_page>52</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_24398_d338f2264db4cb446073f293fa22c037.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-09-22</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1399</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>معرفی و آزمون عامل چرخۀ عمر به‌‌منزلۀ عامل مؤثر در توسعۀ الگوهای چندعاملی قیمت‌گذاری با استفاده از رویکرد رگرسیون‌های پوششی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مهدی</given_name>
+												<surname>میرزائی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمود</given_name>
+												<surname>بت شکن</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>عبدالله</given_name>
+												<surname>خانی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;هدف: &lt;/strong&gt;در پژوهش‌های پیشین بر تأثیر چرخۀ عمر شرکت به‌‌منزلۀ یک ویژگی بر بازده شرکت‌ها تأکید شده است. هدف این پژوهش، معرفی و آزمون عامل چرخۀ عمر شرکت به‌منزلۀ عامل سیستماتیک جدید در توسعۀ الگوهای چندعاملی قیمت‌گذاری با استفاده از رویکرد رگرسیون‌های پوششی است.
+&lt;strong&gt;روش:&lt;/strong&gt; با استفاده از داده‌های 345 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران و فرابورس ایران بین سال‌های 1383 تا 1397، ابتدا نشان داده می‌شود بین بازده شرکت‌های موجود در مراحل مختلف چرخۀ عمر تفاوت معنی‌داری وجود دارد و الگو‌های قیمت‌گذاری رایج توان تبیین این الگوی بازده را ندارند؛ سپس با توجه به دو رویکرد مبتنی بر ریسک و قیمت‌گذاری نادرست برای تبیین تفاوت بازده شرکت‌ها، شواهد تجربی ارائه می‌شود که نشان می‌دهد تأثیر چرخۀ عمر بر بازده شرکت‌ها به‌طور عمده با تفسیر مبتنی بر قیمت‌گذاری نادرست شرکت‌های مرحلۀ بلوغ سازگار است. بر این اساس، پنج ساختار برای تشکیل عامل چرخۀ عمر بر مبنای تفاوت بازده شرکت‌های مرحلۀ بلوغ و شرکت‌های سایر مراحل شامل مراحل معرفی، رشد، رکود و افول ارائه و سپس قابلیت تبیین بازده عامل چرخۀ عمر پیشنهادی به‌وسیلۀ الگوهای قیمت‌گذاری موجود بررسی می‌شود.
+&lt;strong&gt;نتایج:&lt;/strong&gt; نتایج حاصل از رگرسیون‌های پوششی نشان می‌دهد هیچ‌کدام از الگو‌های سه‌عاملی فاما&lt;sup&gt;&lt;sup&gt;[1]&lt;/sup&gt;&lt;/sup&gt; و فرنچ&lt;sup&gt;&lt;sup&gt;[2]&lt;/sup&gt;&lt;/sup&gt; (1993)، چهارعاملی کارهارت&lt;sup&gt;&lt;sup&gt;[3]&lt;/sup&gt;&lt;/sup&gt; (1997)، پنج‌عاملی فاما و فرنچ (2015) و شش‌عاملی فاما و فرنچ (2018)، قدرت توضیح‌دهندگی بازده عامل چرخۀ عمر در همۀ ساختارهای پیشنهادی را ندارند؛ بنابراین، عامل چرخۀ عمر شرکت، عامل جدیدی است که موجب بهبود عملکرد الگوهای عاملی ذکرشده در توضیح تفاوت بازده شرکت‌ها می‌شود.
+&lt;br clear=&quot;all&quot; /&gt;
+
+[1]. Fama
+
+
+[2]. French
+
+
+[3]. Carhart</abstract>
+									<keywords>
+									
+											<keyword>چرخۀ عمر شرکت</keyword>
+											<keyword>الگو‌‌های چندعاملی قیمت‌گذاری</keyword>
+											<keyword>رویکرد رگرسیون‌‌های پوششی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>09</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>53</first_page>
+										<last_page>84</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_24402_f5a04e266054b3094ac352e1deb3cd52.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-09-22</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1399</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر نوسانات بازده سهام بر اقلام تعهدی سرمایه در گردش با در نظر گرفتن اثر تعدیل‌کنندۀ درماندگی مالی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>نادر</given_name>
+												<surname>خدری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محسن</given_name>
+												<surname>دستگیر</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>افسانه</given_name>
+												<surname>سروش یار</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;هدف:&lt;/strong&gt; با وجود این واقعیت که اقلام تعهدی در گزارشگری مالی نقشی محوری دارد و از حوزه‌های پویای پژوهش‌های حسابداری و مالی محسوب می‌شود، مطالعات انجام‌شده در این حوزه، تاکنون درک عمیقی از چگونگی تأثیرگذاری عوامل اقتصادی سطح شرکت بر این اقلام را فراهم نکرده‌ است. در این پژوهش سرمایه در گردش تعهدی شرکت‌ها، شکلی از سرمایه‌گذاری در نظر گرفته‌ و تلاش شده است با استفاده از چهارچوب نظریِ نظریۀ اختیارات سرمایه‌گذاری، تأثیر نوسانات بازده سهام بر سطح موردانتظار اقلام تعهدی سرمایه در گردش تعهدی بررسی شود. افزون بر این، اثر تعدیل‌کنندۀ درماندگی مالی بر رابطۀ بین نوسانات بازده سهام و اقلام تعهدی سرمایه در گردش بررسی شده است.
+&lt;strong&gt;روش:&lt;/strong&gt; نمونۀ آماری متشکل از ۱۱۱ شرکت پذیرفته‌شده در بورس اوراق بهادار تهران برای دورۀ زمانی ۱۳۸۳ تا ۱۳۹6 است. فرضیه‌ها به روش رگرسیون حداقل مربعات تعمیم‌یافته و داده‌‌های ترکیبی آزمون شده است.
+&lt;strong&gt;نتایج:&lt;/strong&gt; نتایج نشان‌دهندۀ تأثیر منفی نوسانات بازده سهام بر سطح موردانتظار اقلام تعهدی سرمایه در گردش است. ازسوی دیگر، مشخص شد درماندگی مالی شرکت‌ها تأثیر منفی نوسانات بازده بر سرمایه در گردش تعهدی را کاهش نداده است. نتیجۀ دیگر پژوهش بیان‌کنندۀ این است که نوسانات بازده سهام بر اجزای بدهی تشکیل‌دهندۀ سرمایه در گردش تعهدی، تأثیر مثبت و بر اجزای دارایی سرمایه در گردش تعهدی، تأثیر منفی داشته است. هرچند در این میان موجودی کالا استثنا بوده و نوسانات بازده بر سطح موردانتظار موجودی تأثیر مثبتی داشته است.</abstract>
+									<keywords>
+									
+											<keyword>نوسانات بازده سهام</keyword>
+											<keyword>اقلام تعهدی</keyword>
+											<keyword>سرمایه در گردش</keyword>
+											<keyword>درماندگی مالی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>09</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>85</first_page>
+										<last_page>102</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23959_382876fbb457ea9ccde13656505cd0d6.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

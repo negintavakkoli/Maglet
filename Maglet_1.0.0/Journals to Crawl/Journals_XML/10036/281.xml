@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Estimation of shortening and vergence in northern part of Sistan Suture Zone for determination of kinematic convergent vectors</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Nasser</namePart>
+				<namePart type="given">Ahmadi Comijany</namePart>
+				<affiliation>Department of Geology, Faculty of Earth Sciences, Birjand University, Birjand, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mohammad Mahdi</namePart>
+				<namePart type="given">Khatib</namePart>
+				<affiliation>Department of Geology, Faculty of Earth Sciences, Birjand University, Birjand, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Ebrahim</namePart>
+				<namePart type="given">Gholami</namePart>
+				<affiliation>Department of Geology, Faculty of Earth Sciences, Birjand University, Birjand, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Gholamreza</namePart>
+				<namePart type="given">Mirab Shabestari</namePart>
+				<affiliation>Department of Geology, Faculty of Earth Sciences, Birjand University, Birjand, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mohammad Hosein</namePart>
+				<namePart type="given">Zarrinkoub</namePart>
+				<affiliation>Department of Geology, Faculty of Earth Sciences, Birjand University, Birjand, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Estimation of shortening and vergence in northern part of Sistan Suture Zone for determination of kinematic convergent vectors During the evolution of orogenic belts, the rock units are deformed. Aim to the understanding of the amount and condition of deformation, the strain states should be estimated which took place during different deformation phases. By means of superficial sturctures, strain states can be estimated in verious scales from microscopic to regional scale. In this study, estimation of shortening has been measured by using unfolding folds and measurement of strain states during making of faults. Amount of vergence states also evaluated which occurred, for purpose of determining the kinematic convergent vectors. For this reason, in the northern part of strurctural Sistan province in the east of Iran, the study has been done on the section which begins from Nazdasht village in west to eastern part of Khoshab village in east, with trending of N60°. Based on the estimations, the folds and faults experienced 27.3 and 13.6 percent shortening respectively. The vergence vectors situations for folds show 7.4 and 11.6 percent for NE and SW direction, respectively. The vergence vectors situations also which has been made by faulting are 19.35 and 22.82 percent for NE and SW direction, respectively. From beginning of converging between Afghan and Lut plates, the vergence vectors situations of Afghan plate is 7.7 percent more than Lut plate. Finally, direction of subduction and tectonic transfer direction have NE and SW trends, respectively.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>232</start>
+					<end>255</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_15063_6ab4ef753f433fa314cf453b003871ed.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2019.29295.1973</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Prediction of Maximum Settlement in EPB Mechanized Twin Tunneling by Using Supervised Combined Artificial Intelligence Model</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Ghodrat</namePart>
+				<namePart type="given">Barzegari</namePart>
+				<affiliation>Department of Earth Sciences, Faculty of Natural Sciences, University of Tabriz, 29 Bahman Boulevard, Tabriz, East Azerbaijan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Ata-Allah</namePart>
+				<namePart type="given">Nadiri</namePart>
+				<affiliation>Department of Earth Sciences, Faculty of Natural Sciences, University of Tabriz, 29 Bahman Boulevard, Tabriz, East Azerbaijan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Hesam</namePart>
+				<namePart type="given">Javid</namePart>
+				<affiliation>Department of Earth Sciences, Faculty of Natural Sciences, University of Tabriz, 29 Bahman Boulevard, Tabriz, East Azerbaijan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>In this paper, the effective parameters on settlement due to EPB twin tunnelling excavation including face sup-port pressure, back-fill grouting pressure, penetration rate, pitching angle, groundwater level, tunnel depth and soil characteristics (standard penetration test number, soil elastic modulus, dry density, internal friction and cohesion) belonging to a part of the Tabriz metro line 1 twin tunnels in a distance between Qunqa and Gazran stations was se-lected as the intelligent network input data&#039;s and designed to optimize artificial intelligence models using artificial neural network, fuzzy logic methods for predicting of maximum surface settlement. Comparing of obtained results with actual measured data&#039;s showed that despite of the ability of both artificial intelligence models on estimating the maximum settlements in mechanized excavation, it is still possible to precise the results by applying a combined arti-ficial intelligence model. Therefore, the output of two single models was used as the input of the Nero-fuzzy model and the obtained results (R2 = 0.77 and RMSE = 0.78) indicate a decrease of at least 27% RMSE compared to the in-dividual models.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>256</start>
+					<end>271</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_15060_7efc7f095614fa8b0a02d8cef7406482.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2019.28287.1929</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Seismotectonic and  seismic hazard analysis in Dezful and Susa cities</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Abbas</namePart>
+				<namePart type="given">Charchi</namePart>
+				<affiliation>Department of Geology, Faculty of Earth Sciences, Shahid Chamran University of Ahvaz, Ahvaz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Sajedin</namePart>
+				<namePart type="given">Mousavi</namePart>
+				<affiliation>Department of Geology, Faculty of Earth Sciences, Shahid Chamran University of Ahvaz, Ahvaz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Behzad</namePart>
+				<namePart type="given">Shahabadi</namePart>
+				<affiliation>Department of Geology, Faculty of Earth Sciences, Shahid Chamran University of Ahvaz, Ahvaz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>This research focuses on seismotectonic setting and seismic risk analysis of Dezful and Susa cities for 50 km radius. It helps to the safety of critical structures, and optimum siting of new projects in these cities. Results of the study lead to protect lives and decrease economic risks when a probable earthquake will occur in the area. For these purposes, geological investigations, and recognition of faults, as well as their geometry in this region carried out. Moreover, the seismic background of these cities evaluated. The ground motion parameters estimate by probabilistic seismic hazard analysis in defferent probability. For return periods of 25, 50, 100, and 200 years, results show that the maximum magnitude of design base earthquake (DBE) is 5.4, 5.6, 5.9, 6.1 Richter, respectively. For Dezful city, the maximum acceleration of design base earthquake and maximum credible earthquake calculate 0.22 and 0.33g, respectively, using Donovan equation. In addition, these parameters, for Susa city, estimate equal to 0.24 and 0.36g. The seismic zonation maps revealed that the highest risk of the area located in middle and northern parts. Therefore, it is necessary to retrofit the historical and worn-out urban structures.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>272</start>
+					<end>283</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_15062_8934877b81198b283dc04ef32b919854.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2019.28986.1963</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Optimum route selection for Pole Zal - Khorram Abad highway using GIS and environmental consideration</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Kazem</namePart>
+				<namePart type="given">Rangzan</namePart>
+				<affiliation>Department of Remote Sensing and GIS, Faculty of Earth Sciences, Shahid Chamran University of
+Ahvaz, Ahvaz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Seyyed Sajedin</namePart>
+				<namePart type="given">Mousavi</namePart>
+				<affiliation>Department of Geology, Faculty of Earth Sciences, Shahid Chamran University of Ahvaz, Ahvaz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Azim</namePart>
+				<namePart type="given">Saberi</namePart>
+				<affiliation>Department of Remote Sensing and GIS, Faculty of Earth Sciences, Shahid Chamran University of
+Ahvaz, Ahvaz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Soheilnaz</namePart>
+				<namePart type="given">Darvishi</namePart>
+				<affiliation>Department of Remote Sensing and GIS, Faculty of Earth Sciences, Shahid Chamran University of
+Ahvaz, Ahvaz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Highways are one of the most important of lifelines in society. On the other hand, road constructions have unfavorable effects on the environment in each region. In spite of abundant benefits, Pole Zal-Khorram Abad highway from southwestern Iran had various geohazards and environmental impacts on this area such as landslides, land use change, and decreasing the population of fauna and flora species. The optimum route selection is a complex multi criteria problem with conflicting objectives that need balancing. For the reason, the aim of this study was to find the optimum route based on environmental considerations. For this purpose, eight effective factors were selected, including slope angle, stratigraphy, proximity to streams, proximity to faults, land use, vegetative cover, elevation, as well as protected areas. Then, the analytic hierarchy process (AHP) and fuzzy systems were applied to standardize each effective factor using Expert Choice 11 software as engineering geological, environmental and economic viewpoint. The results showed that protected area, stratigraphy, vegetative cover, and land use were the most effective factors in recently highway route selection with a weight equal to 0.166, 0.165, 0.147, and 0.123, respectively. Afterward, the suggested route was selected by the combination of the factors based on relative weight in GIS. The selected road is 15 km shorter than existent highway. Also, the recent route has less geological hazards and negative environmental impacts. Therefore, it is recommended that this method, for decreasing environmental impacts, apply to constructed and constructing highways.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>284</start>
+					<end>299</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_15058_e0ef9d0d0fb4a1c93a3314bbcfd6e884.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2019.28145.1920</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Paleostress Analysis in the shirshotor area (one of Northern Branches of Nehbandan fault)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Ayob</namePart>
+				<namePart type="given">Saahimi</namePart>
+				<affiliation>Department of Geology, University of Birjand, Birjand, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Seied Morteza</namePart>
+				<namePart type="given">Mosavi</namePart>
+				<affiliation>Department of Geology, Birjand University, Birjand, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mohamad Mehdai</namePart>
+				<namePart type="given">Khatib</namePart>
+				<affiliation>Department of Geology, Birjand University, Birjand, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The study area is located in the Sistan suture zone. The purpose of this study is to investigate of the variation maximum stress (σ1) along the history of the tectonic regime with the use of structural markers, including faults, foliated structure and veins in the study area. In order to investigate paleostress variations, have been used stress analysis methods on the fault data extracted from faults with using the relevant software. The results indicate has two stress trends during tectonic history based on the age of rock units. The initial direction of the stress is NW - SE that is acted since Cretaceous to the before Eocene, after that the direction of stress has been change toward NE- SW since Eocene to the present time, which is corresponding to current regime. Furthermore by combining the results obtained from stress analysis with the results obtained from the kinematic of veins and foliation show the variations of directional stress field is clock rotation.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>300</start>
+					<end>315</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_15059_976d1dd5a746869ad3743c4d2a45b8cb.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2019.28201.1924</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Investigation of cu vein of the Shurk and associated gossan zone (North West of Birjand) based on alteration, mineralization, geochemistry and fluid inclusion</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Maryam</namePart>
+				<namePart type="given">Javidi Moghaddam</namePart>
+				<affiliation>Department of Geology, Faculty of Science, Research Center for Ore Deposit of Eastern Iran, Ferdowsi University of Mashhad, Mashhad, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mohammad Hassan</namePart>
+				<namePart type="given">Karimpour</namePart>
+				<affiliation>Department of Geology and Research Center for Ore Deposits of Eastern Iran, Faculty of Science,
+Ferdowsi University of Mashhad, Mashhad, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Azadeh</namePart>
+				<namePart type="given">Malekzadeh Shafaroudi</namePart>
+				<affiliation>Department of Geology and Research Center for Ore Deposits of Eastern Iran, Faculty of Science,
+Ferdowsi University of Mashhad, Mashhad, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The Shurk area located in the west of Birjand city is a part of the Lut Block volcanic-plutonic belt. Preliminary prospecting in the area using ASTER satellite data processing in method of spectral angle mapper enhanced propylitic, argillic alteration and iron oxides. The area comprises outcrops of Eocene volcanics, which was intruded by subvolcanic intrusions with gabbro to diorite composition. The vein mineralization was formed in two stages, including: 1) quartz-pyrite-chalcocite-chalcopyrite-bornite-fahlore-sphalerite that are associated with argillic-silicified alteration and 2) quartz-chalcocite-sphalerite accompained with silicified-carbonate alteration. Primary fluid inclusions of quartz in paragnesis with minealization in the first and second stages of vein mineralization, have an average of homogenization temperatures 267°C and 215 °C respectively. Based on freezing studies, the average of final ice melting temperature (Tfmice) equals to 19.4 and 11.1 wt.% NaCl respectively. Mixing, dilution with meteoric water and boiling have been effective during the evolution of hydrothermal fluids and the formation of ore-bearing veins. Based on evidences such as structural control of mineralization, the type of alteration, simple mineralogy of ore and thermometric data, the Shurk deposit is similar to those of epithermal deposits. The presence of numerous Cu veins on a large scale indicates significant economic potential of area.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>316</start>
+					<end>340</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_15056_b8b1645b2e69355c6959ebfd9fa33f01.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2019.26285.1864</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Discrimination of Pb and Zn metals geochemical anomalies using classical statistical (Mean+nSTEV), Singularity Index, remote sensing and structural factors method in Khondob 1:100000 sheet, northern part of Malayer-Aligoudarz-Esfahan zone</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mohammad Amin</namePart>
+				<namePart type="given">Jaafari</namePart>
+				<affiliation>School of Geology, College of Science, University of Tehran, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Ali</namePart>
+				<namePart type="given">Kananian</namePart>
+				<affiliation>School of Geology, College of Science, University of Tehran, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Ahad</namePart>
+				<namePart type="given">Nazarpour</namePart>
+				<affiliation>School of Geology, Islamic Azad University, Ahvaz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The Khondab 1:100000 geological map as one of the high-potential areas for Pb and Zn ore deposits is located in the northern part of the Malayer-Aligudarz-Isfahan metallogenic belt in iran. In this study, classic statistical, Singularity Index analysis, remote sensing, weight of evidence (WofE) and structural analysis methods, have been applied for the separation of geochemical anomalies from background of the Pb and Zn metals in the studied area. In general, 2006 stream sediment geochemical samples analyzed using the ICP-MS method have been used. the classic statistical method (Mean+nSTEV) indicates that the threshold values for the Pb and Zn metals 30.75 ppm and 153.18 ppm, respectively. In the maps derived from the Singularity Index (SI) hidden and weak anomalies are better represented, and a better overlap with limestone as the major host rock of Pb and Zn deposits (MVT type), fault density and alterations in the study area are shown. Moreover, the anomalies obtained from this method high overlap with the Pb and Zn mines and deposits in the region. In general, in this study, it has been founded that lead in the south and northeast, and zinc in the northeast and center of the region exhibit the highest anomaly, in which the probability of the presence of MVT deposits is very high. On the other hand, the obtained anomalies show a high correlation with the Cretaceous limestone units and fault zone of the region, which are directly related to the Pb and Zn mineralization.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>341</start>
+					<end>356</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_15061_adbc997ba02e1b1730ff08b734cd6169.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2019.28425.1937</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Hydrogeochemical study and determination of Pollution Source of Dehloran Sargrou Spring</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Seyed Yahya</namePart>
+				<namePart type="given">Mirzaee</namePart>
+				<affiliation>Department of Geology, Faculty of Earth Sciences, Shahid Chamran University of Ahvaz, Ahvaz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Manuchehre</namePart>
+				<namePart type="given">Chitszan</namePart>
+				<affiliation>Department of Geology, Faculty of Earth Sciences, Shahid Chamran University of Ahvaz, Ahvaz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Zahra</namePart>
+				<namePart type="given">Peiri</namePart>
+				<affiliation>Department of Geology, Faculty of Earth Sciences, Shahid Chamran University of Ahvaz, Ahvaz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Haji</namePart>
+				<namePart type="given">Karimi</namePart>
+				<affiliation>Faculty of Agriculture, Ilam University, Ilam, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Groundwater salinity and contamination, especially in carbonate formations, are one of the most important challenges of water resources management in Iran. The study of contamination sources shows that sometimes, tectonic conditions caused interference and adjacent salinity sources with karst waters resources. Therefore, recognizing the contamination and understanding the mechanism of this process can help to determine the location of the contamination mixing point and provide a solution for the discharge of water before contamination. Sergrou is one of the famous springs of Dehloran which due to the high salinity and the presence of some pollutants is not exploited. In the spring water flow path, Sergrou spring Water contributes to pollution of surface water and groundwater of the region. In order to hydrochemical investigation of the spring, in a 10-year period, the hydrochemical data were collected as well as four data sampling steps were performed to complete the available data. Graphical methods, composite diagrams, ion ratios, ion exchange diagrams and also salinity ratios were used to analyze the data. The results of the study showed that spring water is unusable for drinking and agricultural usage. Analysis of ion ratios and ion exchanges showed that chlorine molar concentration is higher than sodium at all times, as well as other ion ratios, reversed ion exchange represents the interactions or interactions between deep Oilfield brines. The determination of the amount of bromine and iodine and their relative weight with chlorine also confirms the mixing of Oilfield brines with spring water.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>357</start>
+					<end>373</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_15057_3a8e41c32a0e00be121ecf9167765069.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2019.28116.1917</identifier>
+			</mods>
+		</modsCollection>

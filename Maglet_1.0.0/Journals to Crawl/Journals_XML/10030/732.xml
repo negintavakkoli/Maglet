@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXDOISerialArticleWorkRegistrationMessage xmlns:cl="http://www.medra.org/DOIMetadata/2.0/Citations" xmlns="http://www.editeur.org/onix/DOIMetadata/2.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.editeur.org/onix/DOIMetadata/2.0 http://www.medra.org/schema/onix/DOIMetadata/2.0/ONIX_DOIMetadata_2.0.xsd">
+	<Header>
+		<FromCompany>Sinaweb</FromCompany>
+		<FromPerson>Sinaweb DOI</FromPerson>
+		<FromEmail>doi@sinaweb.net</FromEmail>
+		<ToCompany>mEDRA</ToCompany>
+		<SentDate>20200724</SentDate>
+		<MessageNote>DOI Registration</MessageNote>
+		<NotificationResponse>01</NotificationResponse>
+	</Header>
+
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jpll.21.74.7</DOI>
+			<DOIWebsiteLink>http://jpll.khu.ac.ir/article-1-1665-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Persian Language and Literature</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>دوفصلنامه زبان و ادبیات فارسی</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>1665</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>1665</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>21</JournalVolumeNumber>
+				<JournalIssueNumber>74</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201306</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>The Study of the Effect of Gender on the Use of Simile and Metaphor in the Poetry of Contemporary Women Poets</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Masoud Rouhani</PersonName>
+						<PersonNameInverted>Rouhani, Masoud</PersonNameInverted>
+						<NamesBeforeKey>Masoud</NamesBeforeKey>
+						<KeyNames>Rouhani</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Sarvenaz Malek</PersonName>
+						<PersonNameInverted>Malek, Sarvenaz</PersonNameInverted>
+						<NamesBeforeKey>Sarvenaz</NamesBeforeKey>
+						<KeyNames>Malek</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201306</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2013</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Masoud Rouhani</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jpll.21.74.29</DOI>
+			<DOIWebsiteLink>http://jpll.khu.ac.ir/article-1-1666-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Persian Language and Literature</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>دوفصلنامه زبان و ادبیات فارسی</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>1666</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>1666</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>21</JournalVolumeNumber>
+				<JournalIssueNumber>74</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201306</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>The Place of "Showhar-e-Ahoo Khanom" Novel in Iranian Fiction</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Asgar Asgari Hasanaklou</PersonName>
+						<PersonNameInverted>Asgari Hasanaklou, Asgar</PersonNameInverted>
+						<NamesBeforeKey>Asgar</NamesBeforeKey>
+						<KeyNames>Asgari Hasanaklou</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Hossein Bayat</PersonName>
+						<PersonNameInverted>Bayat, Hossein</PersonNameInverted>
+						<NamesBeforeKey>Hossein</NamesBeforeKey>
+						<KeyNames>Bayat</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201306</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2013</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Asgar Asgari Hasanaklou</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jpll.21.74.49</DOI>
+			<DOIWebsiteLink>http://jpll.khu.ac.ir/article-1-1667-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Persian Language and Literature</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>دوفصلنامه زبان و ادبیات فارسی</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>1667</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>1667</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>21</JournalVolumeNumber>
+				<JournalIssueNumber>74</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201306</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Rumi’s Interaction with the Political Institutions of Power in Konya</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mahmoud Fotoohi</PersonName>
+						<PersonNameInverted>Fotoohi, Mahmoud</PersonNameInverted>
+						<NamesBeforeKey>Mahmoud</NamesBeforeKey>
+						<KeyNames>Fotoohi</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201306</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2013</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mahmoud Fotoohi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jpll.21.74.69</DOI>
+			<DOIWebsiteLink>http://jpll.khu.ac.ir/article-1-1668-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Persian Language and Literature</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>دوفصلنامه زبان و ادبیات فارسی</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>1668</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>1668</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>21</JournalVolumeNumber>
+				<JournalIssueNumber>74</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201306</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>4</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Evaluation of the Binary Oppositions in the Ghazals of Hafiz</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Ali Reza Nabiloo</PersonName>
+						<PersonNameInverted>Nabiloo, Ali Reza</PersonNameInverted>
+						<NamesBeforeKey>Ali Reza</NamesBeforeKey>
+						<KeyNames>Nabiloo</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201306</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2013</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Ali Reza Nabiloo</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jpll.21.74.93</DOI>
+			<DOIWebsiteLink>http://jpll.khu.ac.ir/article-1-1669-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Persian Language and Literature</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>دوفصلنامه زبان و ادبیات فارسی</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>1669</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>1669</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>21</JournalVolumeNumber>
+				<JournalIssueNumber>74</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201306</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>5</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Sequences, Relations, Functions in Short Story</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Foroogh Sahba</PersonName>
+						<PersonNameInverted>Sahba, Foroogh</PersonNameInverted>
+						<NamesBeforeKey>Foroogh</NamesBeforeKey>
+						<KeyNames>Sahba</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Reza Omranpour</PersonName>
+						<PersonNameInverted>Omranpour, Mohammad Reza</PersonNameInverted>
+						<NamesBeforeKey>Mohammad Reza</NamesBeforeKey>
+						<KeyNames>Omranpour</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Raziye Azad</PersonName>
+						<PersonNameInverted>Azad, Raziye</PersonNameInverted>
+						<NamesBeforeKey>Raziye</NamesBeforeKey>
+						<KeyNames>Azad</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201306</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2013</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Foroogh Sahba</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jpll.21.74.119</DOI>
+			<DOIWebsiteLink>http://jpll.khu.ac.ir/article-1-1670-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Persian Language and Literature</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>دوفصلنامه زبان و ادبیات فارسی</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>1670</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>1670</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>21</JournalVolumeNumber>
+				<JournalIssueNumber>74</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201306</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>6</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Aesthetic Criticism of Colorsin the Poetry of FarzanehKhojandi, the Poet of Colors</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Soheila Hosseini</PersonName>
+						<PersonNameInverted>Hosseini, Soheila</PersonNameInverted>
+						<NamesBeforeKey>Soheila</NamesBeforeKey>
+						<KeyNames>Hosseini</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Ahmad Mansouri Razi</PersonName>
+						<PersonNameInverted>Mansouri Razi, Ahmad</PersonNameInverted>
+						<NamesBeforeKey>Ahmad</NamesBeforeKey>
+						<KeyNames>Mansouri Razi</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201306</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2013</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Soheila Hosseini</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+	
+</ONIXDOISerialArticleWorkRegistrationMessage>
+ 
+  
+  
+  
+  
+ 

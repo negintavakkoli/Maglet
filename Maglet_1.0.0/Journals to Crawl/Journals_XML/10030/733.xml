@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXDOISerialArticleWorkRegistrationMessage xmlns:cl="http://www.medra.org/DOIMetadata/2.0/Citations" xmlns="http://www.editeur.org/onix/DOIMetadata/2.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.editeur.org/onix/DOIMetadata/2.0 http://www.medra.org/schema/onix/DOIMetadata/2.0/ONIX_DOIMetadata_2.0.xsd">
+	<Header>
+		<FromCompany>Sinaweb</FromCompany>
+		<FromPerson>Sinaweb DOI</FromPerson>
+		<FromEmail>doi@sinaweb.net</FromEmail>
+		<ToCompany>mEDRA</ToCompany>
+		<SentDate>20200724</SentDate>
+		<MessageNote>DOI Registration</MessageNote>
+		<NotificationResponse>01</NotificationResponse>
+	</Header>
+
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jpll.22.76.7</DOI>
+			<DOIWebsiteLink>http://jpll.khu.ac.ir/article-1-2050-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Persian Language and Literature</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>دوفصلنامه زبان و ادبیات فارسی</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2050</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2050</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>22</JournalVolumeNumber>
+				<JournalIssueNumber>76</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201405</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>The Relation of Language and Gender in Shabhaye Tehran</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Yadollah Bahmani Motlagh</PersonName>
+						<PersonNameInverted>Bahmani Motlagh, Yadollah</PersonNameInverted>
+						<NamesBeforeKey>Yadollah</NamesBeforeKey>
+						<KeyNames>Bahmani Motlagh</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Behzad Marvi</PersonName>
+						<PersonNameInverted>Marvi, Behzad</PersonNameInverted>
+						<NamesBeforeKey>Behzad</NamesBeforeKey>
+						<KeyNames>Marvi</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201405</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Yadollah Bahmani Motlagh</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jpll.22.76.27</DOI>
+			<DOIWebsiteLink>http://jpll.khu.ac.ir/article-1-2051-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Persian Language and Literature</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>دوفصلنامه زبان و ادبیات فارسی</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2051</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2051</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>22</JournalVolumeNumber>
+				<JournalIssueNumber>76</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201405</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>A Psychological Analysis of Vocation and Demand and Their Role in the Initiation of the Hero</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Maryam Hoseini</PersonName>
+						<PersonNameInverted>Hoseini, Maryam</PersonNameInverted>
+						<NamesBeforeKey>Maryam</NamesBeforeKey>
+						<KeyNames>Hoseini</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Nasrin Shakibi Momtaz</PersonName>
+						<PersonNameInverted>Shakibi Momtaz, Nasrin</PersonNameInverted>
+						<NamesBeforeKey>Nasrin</NamesBeforeKey>
+						<KeyNames>Shakibi Momtaz</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201405</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Maryam Hoseini</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jpll.22.76.51</DOI>
+			<DOIWebsiteLink>http://jpll.khu.ac.ir/article-1-2052-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Persian Language and Literature</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>دوفصلنامه زبان و ادبیات فارسی</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2052</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2052</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>22</JournalVolumeNumber>
+				<JournalIssueNumber>76</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201405</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>The Madness of Shibli asa Masque</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Habibollah Abbasi</PersonName>
+						<PersonNameInverted>Abbasi, Habibollah</PersonNameInverted>
+						<NamesBeforeKey>Habibollah</NamesBeforeKey>
+						<KeyNames>Abbasi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Minoudokht Hashemi</PersonName>
+						<PersonNameInverted>Hashemi, Minoudokht</PersonNameInverted>
+						<NamesBeforeKey>Minoudokht</NamesBeforeKey>
+						<KeyNames>Hashemi</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201405</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Habibollah Abbasi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jpll.22.76.71</DOI>
+			<DOIWebsiteLink>http://jpll.khu.ac.ir/article-1-2053-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Persian Language and Literature</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>دوفصلنامه زبان و ادبیات فارسی</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2053</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2053</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>22</JournalVolumeNumber>
+				<JournalIssueNumber>76</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201405</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>4</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>A Study of the Ontological Metaphors in the Songs of Southern Khorasan</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Jalilollah Faroughi</PersonName>
+						<PersonNameInverted>Faroughi, Jalilollah</PersonNameInverted>
+						<NamesBeforeKey>Jalilollah</NamesBeforeKey>
+						<KeyNames>Faroughi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Nahid Hosseini</PersonName>
+						<PersonNameInverted>Hosseini, Nahid</PersonNameInverted>
+						<NamesBeforeKey>Nahid</NamesBeforeKey>
+						<KeyNames>Hosseini</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201405</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Jalilollah Faroughi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jpll.22.76.89</DOI>
+			<DOIWebsiteLink>http://jpll.khu.ac.ir/article-1-2054-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Persian Language and Literature</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>دوفصلنامه زبان و ادبیات فارسی</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2054</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2054</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>22</JournalVolumeNumber>
+				<JournalIssueNumber>76</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201405</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>5</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>The Painting of the Astronomical Principles in the Poetry of Anvari</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Raziyeh Fouladi Sepehr</PersonName>
+						<PersonNameInverted>Fouladi Sepehr, Raziyeh</PersonNameInverted>
+						<NamesBeforeKey>Raziyeh</NamesBeforeKey>
+						<KeyNames>Fouladi Sepehr</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Abbas Mahyar</PersonName>
+						<PersonNameInverted>Mahyar, Abbas</PersonNameInverted>
+						<NamesBeforeKey>Abbas</NamesBeforeKey>
+						<KeyNames>Mahyar</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201405</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Raziyeh Fouladi Sepehr</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jpll.22.76.109</DOI>
+			<DOIWebsiteLink>http://jpll.khu.ac.ir/article-1-2055-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Persian Language and Literature</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>دوفصلنامه زبان و ادبیات فارسی</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2055</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2055</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>22</JournalVolumeNumber>
+				<JournalIssueNumber>76</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201405</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>6</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Three Romantic Narratives from Two Territories. "Zal &#38; Roodabeh", "Bijan &#38; Manijeh", "Romeo &#38; Juliet" Based On Narratology Theories and Discourse Analysis</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Ali Mohammadi</PersonName>
+						<PersonNameInverted>Mohammadi, Ali</PersonNameInverted>
+						<NamesBeforeKey>Ali</NamesBeforeKey>
+						<KeyNames>Mohammadi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Nooshin Bahramipoor</PersonName>
+						<PersonNameInverted>Bahramipoor, Nooshin</PersonNameInverted>
+						<NamesBeforeKey>Nooshin</NamesBeforeKey>
+						<KeyNames>Bahramipoor</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201405</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Ali Mohammadi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jpll.22.76.137</DOI>
+			<DOIWebsiteLink>http://jpll.khu.ac.ir/article-1-2056-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Persian Language and Literature</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>دوفصلنامه زبان و ادبیات فارسی</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2056</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2056</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>22</JournalVolumeNumber>
+				<JournalIssueNumber>76</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201405</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>7</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Theological Insights "Payndany" (Intercession)  in Persian Poetry</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Iffat Neghabi</PersonName>
+						<PersonNameInverted>Neghabi, Iffat</PersonNameInverted>
+						<NamesBeforeKey>Iffat</NamesBeforeKey>
+						<KeyNames>Neghabi</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201405</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Iffat Neghabi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+	
+</ONIXDOISerialArticleWorkRegistrationMessage>
+ 
+  
+  
+  
+  
+ 

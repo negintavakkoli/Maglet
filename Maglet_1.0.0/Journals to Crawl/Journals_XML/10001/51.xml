@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+		<JOURNAL>
+<YEAR>1397</YEAR>
+<VOL>6</VOL>
+<NO>2</NO>
+<MOSALSAL>21</MOSALSAL>
+<PAGE_NO>0</PAGE_NO>
+<ARTICLES>
+
+
+				<ARTICLE>
+				<TitleF>رویکرد ترکیبی ارزش افزودۀ اقتصادی و سود تقسیمی در بهینه‌سازی سبد سهام با استفاده از الگوسازی آرمانی</TitleF>
+				<TitleE>A Hybrid Approach for Economic Value Added and Dividends in Portfolio Optimization Using Goal Programming</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>یکی از اقدامات اساسی در راستای سرمایه‌گذاری صحیح در بازار سهام، توجه به معیارهای گوناگون در انتخاب سهام است. ازجملۀ این معیارها، ارزش افزودۀ اقتصادی را می‌توان نام برد. بدین‌منظور، شاخص‌های ریسک و بازده با معیارهای ارزش افزودۀ اقتصادی، سود تقسیمی و ضرایب کشیدگی و چولگی ترکیب و با استفاده از الگوسازی آرمانی، الگویی طراحی شد که به ترکیب بهینه‌ترین سبد سهام منجر می‌شود. محاسبۀ میزان اهمیت معیارهای الگو با استفاده از روش فرایند تحلیل سلسله‌مراتبی (AHP) انجام شد. در این پژوهش، مقایسه‌ای در نتایج حاصل از حضور آرمان ارزش افزودۀ اقتصادی در قبال نبود آرمان سود تقسیمی و برعکس و حضور هر دو آرمان و الگوی مارکوتیز انجام شده است. نتایج پژوهش نشان داد حضور هر دو آرمان، نسبت بازده به ریسک بیشتری از دیگر الگو­های مدّنظر این پژوهش مانند الگوی مارکویتز دارد و درنتیجه، بازده­ بیشتری را نیز به ارمغان می­آورد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>One of the essential actions for perfect investment in the stock market is to consider various criteria in stock selection. One of these criteria is economic value added. By combining risk and return measures with economic value added, dividends and kurtosis and skewness coefficients; and using goal programming, a model that can lead to the most optimal portfolio can designed. The analysis of hierarchical process (AHP) was used to calculate the importance of the model criteria. In this study, comparison of the results was done between the ideal of economic value in the absence aspirations of dividends and vice versa and presence of both the ideals and Markowitz model. The research findings showed that the proposed model of this study has a higher return to risk ratio, compared to other models tested in this study such as Markowitz model, and subsequently the proposed model leads to a greater return.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>1</FPAGE>
+						<TPAGE>14</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سعید</Name>
+						<MidName></MidName>		
+						<Family>صفری</Family>
+						<NameE>Saeed</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Safari</FamilyE>
+						<Organizations>
+							<Organization>استادیار، گروه مدیریت صنعتی، دانشکده علوم انسانی دانشگاه شاهد، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار، گروه مدیریت صنعتی، دانشکده علوم</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>safari@shahed.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محمد جواد</Name>
+						<MidName></MidName>		
+						<Family>شیخ</Family>
+						<NameE>Mohamad Javad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Sheikh</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه مدیریت بازرگانی، دانشکده علوم انسانی، دانشگاه شاهد، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه مدیریت بازرگانی، دانشکده علوم</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mjsheikh2002@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>یوسف</Name>
+						<MidName></MidName>		
+						<Family>مشتاقی</Family>
+						<NameE>Yousef</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Moshtaghi</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی کارشناسی ارشد، مدیریت بازرگانی، دانشکده علوم انسانی، دانشگاه شاهد، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی کارشناسی ارشد، مدیریت بازرگانی، دانشکده</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>yousefmoshtaghi2013@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>ارزش افزودۀ اقتصادی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>الگوسازی آرمانی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بهینه‌سازی سبد سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>رویکرد ترکیبی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سود تقسیمی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] Aouni, B., Colapinto, C., &amp; Torr, D. L. (2014). Financial portfolio management through the goal programming model: Current state-of-the-art. European Journal of Operational Research. 234: 536–545.##[2] Araghi, M. (2006). The optimal portfolio selection using goal programming. Economics Research. 6(20): 193-214 (in Persian).##[3] Azmi, R. A. (2013). Investment Portfolio Selection Using Goal Programming: An Approach to Making Investment Decisions. London: Cambridge Scholars Publishing.##[4] Azmi, R., Tamiz, M. (2010). A review of goal programming for portfolio selection. New Developments in Multiple Objective and Goal Programming. 638:15-33.##[5] Bidgoly, G., &amp; Talangy, A. (1999). Goal programming model of optimal portfolio selection. Journal of Financial Research. 4(1): 50-71(in Persian).##[6] Fazlzadeh, A., Ranjpour, R., &amp; Tohidi, R. (2012). The investigation of the ability of single-index sharp and DEA models for choosing efficient portfolio in Tehran Stock Exchange. Quarterly Journal of Securities Exchange. 5(18):39-59 (in Persian).##[7] Gasser S. M., Rammerstorfer, M., &amp; Weinmayer, K. (2016). Markowitz revisited: Social portfolio engineering. European Journal of Operational Research. 258(3):1181-1190.##[8] Ghandehari, M., Foghani, F., &amp; Tabatabayi, M. (2013). Goal programming model for optimal portfolio selection with high torques. Journal of Operational Research in its Applications. 9(4): 55-69(in Persian).##[9] Ghahtarani, A., &amp; Najafi, A. (2013). Robust goal programming formulti-objective portfolio selection problem, Economic Modelling. 33: 588–592.##[10] Halim, B. A., Karim, H. A., Fahami, N. A., Mahad, N. F., Sayed, S. K., &amp; Hassan, N. N. (2015). Bank financial statement management using a goal programming model. Social and Behavioral Sciences. 211: 498-504.##[11] Jakub, S., Viera, B., &amp; Eva, K. (2015). Economic value added as a measurement tool of financial performance. Procedia Economics and Finance. 26: 484 – 489.##[12] Kemalbay, G., Ozkut, C. M., &amp; Franko, C. (2011). Portfolio seection with higher moments: A ploynomal goal programming approach to ise-30 index. Econometrics and Statistics Issue. (12th International Econometrics, Operations Research Statistics Symposium Special Issue): 41-61.##[13] Khodaparast, A. (2010). Study the relationship between economic value added and rate of return on investment. Journal Economic. 10(11):113-128 (in Persian).##[14] Kleniati, P. M., Rustem, B. (2009). Portfolio decisions with higher order moment. Comisef Working Papers Series fromhttp://comisef.eu/ files/ wps021.pdf.##[15] Kocadaglı, O., &amp; Keskin, R. (2015). A novel portfolio selection model based on fuzzy goal programming with different importance and priorities. Expert Systems with Applications. 42(20): 6898-6912.##[16] Lee, S. M., &amp; Chesser, D. L. (1980). Goal programming for portfolio. The Journal of Portfolio Management. 6(3):22-26.##[17] Lee, S. M., &amp; Lerro, A. J. (1973). Optimizing the portfolio selection for mutual funds. The Journal of Finance. 28(5):1087-1099.##[18] Mansour, N., Rebai, A., &amp; Aouni, B. (2007). Portfolio selection through imprecise goal programming model: Integration of the manager&#039;s preferences. Journal of Industrial Engineering International. 3(5):1-8.##[19] Mehrani, S., &amp; Rasaeiyan, A. (2010). Relationship between economic value added and financial ratios of manufacturing companies in Tehran Stock Exchange. Quarterly Journal of Economics Research and policies, 17(52):95-116 (in Persian).##[20] Mhiri, M., &amp; Prigent, J. L. (2010). International portfolio optimization with higher moments. International Journal of Economics and Finance. 2(5):157-169.##[21] Patro, K., Acharyaa, M. M., Biswal, M. P., &amp; Acharya S. (2015). Computation of a multi-choice goal programming problem. Applied Mathematics and Computation. 271: 489–501.##[22] Škrinjarić, T. (2013). Portfolio selection with higher moments and application on Zagreb Stock Exchange. International Review of Economics &amp; Business. 16(1): 65-78.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی اثر کیفیت اطلاعات بر ریسک نقدشوندگی سهام و ریسک بازار</TitleF>
+				<TitleE>Investigation of the Effect of Information Quality on Stock Liquidity Risk and Market Risk</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>پژوهش حاضر، شواهدی دربارۀ نقش برخی معیارهای کیفیت اطلاعات بر ریسک نقدشوندگی سهام و ریسک بازار فراهم می­کند. برای این منظور، اثر سه معیار کیفیت اطلاعات شامل کیفیت اقلام تعهدی، درصد خطای پیش­بینی سود و اعلام به­موقع سود در ریسک­ نقدشوندگی سهام و ریسک بازار با جمع­آوری داده­های مالی سال­های 1392-1387 مربوط به 148 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران با استفاده از تحلیل رگرسیون آزموده شد. نتایج آزمون فرضیه­ها نشان‌دهندۀ وجود رابطه‌ای معنادار بین هر سه معیار کیفیت اطلاعات با ریسک نقدشوندگی سهام است، به­گونه‌ای ­که مقادیر بیشتر کیفیت اقلام تعهدی و اعلام به‌موقع­تر سود، سبب کاهش ریسک نقدشوندگی سهام و مقادیر بیشتر درصد خطای پیش‌بینی سود سبب افزایش ریسک نقدشوندگی سهام می‌شود. این در حالی است که بین هیچ­کدام از معیارهای کیفیت اطلاعات با ریسک بازار، رابطۀ معناداری یافت نشد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>This study investigates the relationship between some criteria of information quality with stock liquidity risk and market risk. For this purpos, the effect of three criterion of information quality including accrual items quality, earnings forecast error and EPS announce timely on stock liquidity risk and market risk by collecting financial data of 148 firms listed in Tehran Stock Exchange for the years 2008-20113 were tested using regression analysis. The results showed that there is a significant relationship between all three criteria of information quality with stock liquidity risk. So that, accrual items higher quality, EPS announce more timely and earnings forecast less error decrease stock liquidity risk. Also, the results indicated that there is no significant relationship between none of the criteria of information quality with market risk.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>15</FPAGE>
+						<TPAGE>34</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محمود</Name>
+						<MidName></MidName>		
+						<Family>موسوی شیری</Family>
+						<NameE>Mahmoud</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mousavi SHiri</FamilyE>
+						<Organizations>
+							<Organization>دانشیارحسابداری، دانشکده علوم اقتصادی، دانشگاه پیام‌نور، مشهد، ایران.</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیارحسابداری، دانشکده علوم اقتصادی، دانشگاه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mousavi1973@pnu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>معصومه</Name>
+						<MidName></MidName>		
+						<Family>روشندل</Family>
+						<NameE>Masoumeh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Roshandel</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد حسابداری، دانشکده علوم اقتصادی، دانشگاه آزاد واحد مشهد، مشهد، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد حسابداری، دانشکده علوم اقتصادی،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>m.roshandel2011@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>حسن</Name>
+						<MidName></MidName>		
+						<Family>خلعت بری</Family>
+						<NameE>Hassan</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>KHalatbari</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد حسابداری، دانشکده علوم اقتصادی، دانشگاه پیام‌نور، بهشهر، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد حسابداری، دانشکده علوم اقتصادی،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>hassankhalatbari2011@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کیفیت اطلاعات</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ریسک نقدشوندگی سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ریسک بازار</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] Badavar Nahandi, Y., &amp; Maleki Nezhad. A. (2011). Survey the stock liquidity at the time of issuing financial reports. Journal of Accounting Knowledge. 1(3): 99-115.##[2] Brandon, R. G., &amp; Wang. S. (2013). Liquidity risk, return Predictability, and hedge funds performance: an empirical study. Journal of Financial and Quantitative Analysis. 48(1): 219-244.##[3] Brousseau. C. (2015). The pricing of liquidity risk and accounting quality in Canada. Accounting and Finance Research. 4(4): 127-139.##[4] Fama, E., &amp; French. K. (1993). Common risk factors in the returns on stocks and bonds. Journal of Financial Economics. 33: 3–56.##[5] Foroghi, D., &amp; Farjami.  M. (2016). The impact of stock price synchronicity and volatilities of stock return on stock liquidity firms listed in Tehran stock exchange. Asset Management &amp; Financing. 3(4): 85-98. (in Persian).##[6] Francis, J., LaFond, R., Olsson, P., &amp; Schipper. K. (2005). The market pricing of accruals quality. Journal of Accounting and Economics. 39: 295–327.##[7] Ghaemi, M. H., &amp; Rahimpour. M. (2011). Earnings quarterly announcement and stock liquidity. Financial Accounting Reasearches. 2(4): 145-158. (in Persian).## [8] Grossman, S., &amp; Miller. M. (1988). Liquidity and market structure. Journal of Finance. 43: 617–633.##[9] Hashemi, A., Ghojavand, Z., &amp; GHojavand. S. (2013). Effect of different levels of liquidity measures on the premium stock returns using the four-factor model of Fama and French. Asset Management &amp; Financing. 1(2): 69-86. (in Persian).##[10] Hope, O., &amp; Thomas. W. B. (2008). Managerial empire building and firm disclosure. Journal of Accounting Research. 46: 591–626.##[11] Kuo, H. C., &amp; Lin. H. C. (2014). Disclosure levels, stock market liquidity, and earnings quality: Evidence from Taiwan. Audit and Finance Management. l(1): 1-11.##[12] Lambert, R., Leuz. C., &amp; Verrecchia. R. (2007). Accounting information, disclosure and the cost of capital. Journal of Accounting Research. 45: 385–420.##[13] Lee. K. H. (2011). The world price of liquidity risk, Journal of Financial Economics. 99: 136-161.##[14] Liang, S. X., &amp; Wei. J. K. C. (2012). Liquidity rrisk and stock returns around the world. Journal of Banking and Finance. 36(12): 3274-3288. ##[15] Lin, J. C., &amp; Wu. Y. (2013). Seo timing and liquidity risk. Journal of Corporate Finance. 19: 95-118.##[16] Lin, H., Wang. J., &amp; Wu. C. (2011). Liquidity risk and expected corporate bond returns. Journal of Financial Economics. 99: 628–650.##[17] McNichols, M., &amp; Stubben. S. (2008). Does earnings management affect firms` investment decisions. The Accounting Review. 86: 1571-1603.##[18] Miller. E. R. (2003). Risk, uncertainly and divergence of opinion. Journal of finance. 32: 15-1168.##[19] Nakhaei, M., &amp; Mehrani. K. (2014). The relationship between earnings quality and liquidity risk, Journal of Empirical Reasearch in Accounting. 3(3): 37-53. (in Persian).## [20] Ng. J. (2011). The effect of information quality on liquidity risk. Journal of Accounting and Economics. 52: 126–143.##[21] Pastor, L., &amp; Stambaugh. R. (2003). Liquidity risk and expected stock returns. Journal of Political Economy. 111: 642–685.##[22] Payne. J. L. (2008). The influence of audit firm specialization on analysts forecast errors auditing. A Journal of Practice &amp;Theory. 27(2): 109-136.##[23] Rees, L., &amp; Siavaramakrishnan. K. (2007). The effect of meeting or beating revenue forecasts on the association between quarterly returns and earnings forecast errors, Contemporary Accounting Research. 24(1): 259-290.##[24] Sadka. R. (2006). Momentum and post-earnings-announcement drift anomalies: The role of liquidity risk. Journal of Financial Economics. 8: 309–349.##[25] Setayesh, M. H., Kazemnejad, M., &amp; Zolfaghari. M. (2011).Investigating the effects of disclosure quality on stock liquidity and cost of capital of the companies listed in Tehran Stock Exchange. Financial Accounting Reasearches, 3(3): 55-74. (in Persian).##[26] Thornton, D. B. (2002). Financial reporting quality: implications of accounting research. submited to the senate standing. Committee on Banking, Trade and Commerce.##[27] Yaghoobnezhad, A., Saeedi, A., &amp; Rozei. M. (2010). To estimate market risk premium with respect to market leverage in Tehran stock exchange. Journal of Financial Research. 11(28): 105-120. (in Persian).##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی تأثیر نرخ ارز بر بازده سهام صنعت دارو در بورس اوراق بهادار تهران با استفاده از رهیافت مارکف سوئیچینگ</TitleF>
+				<TitleE>An Investigation of the Effect of Exchange Rate on the Pharmaceutical Industry Stock Return in Tehran Stock Exchange: An Application of the Markov Switching Approach</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>امروزه صنعت دارو به‌لحاظ ارتباط آن با سلامت عمومی و برخورداری از ارزش ویژه اقتصادی، یکی از مهم‌ترین صنایع در بازار سهام محسوب می‌شود؛ بنابراین بهبود شاخص‌های بخش سلامت همواره از اهداف اصلی دولتمردان در جوامع مختلف بوده است؛ از این‌رو، مطالعۀ حاضر می‌کوشد تأثیر نرخ ارز را در بازده سهام صنعت دارو در بورس اوراق بهادار تهران، با استفاده از داده‌های ماهانۀ دوره 1384 تا 1394 و با بهره‌گیری از رهیافت غیرخطی مارکف سوئیچینگ بررسی کند. بدین‌منظور، از میان حالت‌های مختلف الگوی مارکف سوئیچینگ، الگوی MSIH(3)–AR (2) انتخاب شد. نتایج نشان داد در یک الگوی بهینه متشکل از سه رژیم، نرخ ارز، آثار متفاوتی در بازده صنعت دارو در رژیم‌های مختلف دارد؛ بدین‌صورت که ضرایب نرخ ارز در رژیم اول، تأثیر منفی ولی در رژیم‌های 2 و 3 در بازده صنعت دارو در بورس اوراق بهادار تهران، اثر مثبت داشته است. اثر نرخ تورم بخش بهداشت و درمان در رژیم‌های 1 و2 نیز مثبت ولی در رژیم 3 منفی بوده است. علاوه بر این، نتایج نشان می‌دهد پایداری بازده صنعت دارو در رژیم 1 (رژیم با بازده زیاد) نسبت به دو رژیم 2 (رژیم با بازده پایین کم) و رژیم 3 (رژیم با بازده پایین زیاد) بیشتر بوده است؛ ولی نوسان‌های بازده صنعت دارو در رژیم 3 بیشتر از نوسان‌های رژیم‌های 1 و 2 بوده است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Nowadays, the pharmaceutical industry in terms of its relationship with public health and also the special economic value is considered one of the most important industries in the capital market. Therefore, improvement of the health sector has always been the main objective of the authorities in various countries. Hence, this paper investigates the impact of exchange rate on the pharmaceutical industry stock return in Tehran Stock Exchange by using monthly data from 2005:4 to 2016:2 and applying Markov switching non-linear approach. For this purpose, among the various modes of Markov switching model, MSIH (3) -AR (2) has been selected. The results show that in an optimal model consists of three regimes, and the exchange rate has different impact on the return of the pharmaceutical industry in different regimes. As a result; coefficients exchange rate in the first regime has negative effect, but in regimes 2 and 3 positive effect on the pharmaceutical industry stock return in the Tehran Stock Exchange. Also, the inflation rate of the health sector in the regimes 1 and 2 have a positive effect, but in the regime 3 has a negative effect on the pharmaceutical industry stock return in Tehran Stock Exchange. In addition, the results show that the sustainability of the pharmaceutical industry return in the regime with the high returns (first regime) was more than that of the regime with the little low return (second regime) and that of the regime with the high low returns (third regime). But the volatility of the pharmaceutical industry return in the third regime was more than that of the first and second regimes.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>35</FPAGE>
+						<TPAGE>56</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>حسن</Name>
+						<MidName></MidName>		
+						<Family>حیدری</Family>
+						<NameE>Hasan</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Heidari</FamilyE>
+						<Organizations>
+							<Organization>استاد گروه اقتصاد، دانشکده اقتصاد و مدیریت، دانشگاه ارومیه، ارومیه، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استاد گروه اقتصاد، دانشکده اقتصاد و مدیریت،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>h.heidari@urmia.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>یوسف</Name>
+						<MidName></MidName>		
+						<Family>محمدزاده</Family>
+						<NameE>Yousef</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mohammadzadeh</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه اقتصاد، دانشکده اقتصاد و مدیریت، دانشگاه ارومیه، ارومیه، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه اقتصاد، دانشکده اقتصاد و مدیریت،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mohammadzadeh@urmia.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>آرش</Name>
+						<MidName></MidName>		
+						<Family>رفاح کهریز</Family>
+						<NameE>Arash</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Refah-Kahriz</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد گروه اقتصاد، دانشکده اقتصاد و مدیریت، دانشگاه ارومیه، ارومیه، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد گروه اقتصاد، دانشکده اقتصاد</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>arash.rafah@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>الگوی مارکف سوئیچینگ</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بازار سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>پایداری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>صنعت دارو</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نرخ ارز</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] Abbasinejad, H.,Mohammadi, Sh., &amp; Ebrahimi, S. (2017). Dynamics of the relation between macroeconomic variables and stock market index. Asset Management and Financing. 5(1): 61-82. (in persian).##[2] Agrawal, G., Srivastav, A. K., &amp; Srivastava, A. (2010). A study of exchange rates movement and stock market volatility. International Journal of Business and Management. 5(12): 62-73.##[3] Ang, A., &amp; Bekaert, G. (1998). Regime switches in interest rates. Journal of Business &amp; Economic Statistics. 20(2): 163-182.##[4] Bloom, D. E., &amp; Canning, D. (2003). Health as human capital and its impact on economic performance. Geneva Papers on Risk and Insurance. 28(4): 304-315.##[5] Bloom, D. E., Canning, D., &amp; Sevilla, J. (2004). The effect of health on economic growth: a production function approach. World Development. 32(1): 1-13##[6] Bugri, B. A. (2008). Empirical relationship between macroeconomic volatility and stock returns: Evidence from Latin American markets, International Review of Financial Analysis. 17(2): 396-410.##[7] Chkili, W., &amp; Nguyen, D. K. (2014). Exchange rate movements and stock market returns in a regime-switching environment: Evidence for BRICS countries. Research in International Business and Finance. 13: 46-56.##[8] Corradi, V., Distaso, W., &amp; Mele, A. (2013). Macroeconomic determinants of stock volatility and volatility premiums. Journal of Monetary Economics. 60: 203–220.##[9] Danzon, P. M., &amp; Furukawa, M. F. (2003). Prices and availability of pharmaceuticals: Evidence from nine countries. Health Affairs. 521-536.##[10] Danzon, P. M., Nicholson, S., &amp; Pereira, N. S. (2005). Productivity in pharmaceutical–biotechnology R&amp;D: The role of experience and alliances. Journal of Health Economics. 24(2): 317-339.##[11] Darabi, R., &amp; Ali Farahi, M. (2010). The impact of macroeconomic variables on the risk and return of all stocks with a focus on model stock returns - inflation. Research of Financial Accounting and Auditing. 2(7): 141-169.##[12] Diamandis, P., &amp; Drakos, A. (2011). Financial liberalization, exchange rates and stock prices: Exogenous shocks in four Latin America countries. Journal of Policy Modeling. 33: 381-394.##[13] Dukes, M. G. (2002). Accountability of the pharmaceutical industry. The Lancet. 360(9346): 1682-1684.##[14] Glied, S. A., &amp; Remler, D. K. (2002). What every public finance economist needs to know about health economics: Recent advances and unresolved questions. National Tax Journal. 55(4): 771-788.‏##[15] Goldfeld, S. M., &amp; R. E. Quandt. (1973). A Markov model for switching regressions. Journal of Econometrics. 1: 3-16.##[16] Hamilton, J. D. (1989). A New approach to the economic analysis of non- stationary time series and the business cycle. Econometrica: Journal of the Econometric Society. 57(2): 357-384.##[17] Hamilton, J. D., &amp; Susmel, R. (1994). Autoregressive conditional heteroskedasticity and changes in regime. Journal of Econometrics. 64: 307–333.##[18] Heidari, H., Asgharpur, A., &amp; Hosseinzadeh, H. (2012). The monetary approach to exchange rate in the selected Persian Gulf countries in comparison with the OECD countries. Journal of Quantitative Economics. 9(2): 87-108. (in Persian).##[19] Hsiao, W. C., &amp; Heller, P. S. (2007). What Macroeconomists Should Know about Health Care Policy? Washington. DC: International Monetary Fund.##[20] Hussain, N., &amp; Qayyum Khan, A. (2014). An analysis of the stock return and exchange rate variation on market return of pharmaceutical industry in Pakistan. World Applied Sciences Journal. 31(6): 1180-1187.##[21] Jalaee, S. A., Mir, H., &amp; Rahimipoor, A. (2016). Effect of exchange rate pass on stock returns in Tehran Stock Exchange. Journal of Knowledge Investment. 5(19): 191-211. (in Persian).##[22] Kebriaee-Zadeh, A., Zartab, S., Fatemi, F., &amp; Radmanesh, R. (2013). Fundamentals and stock return in pharmaceutical companies: A panel data model of Iranian industry. Iranian Journal of Pharmaceutical Sciences. 9 (1): 55-60.##[23] Khansa, L., Cook, D. F., James, T., &amp; Bruyaka, O. (2012). Impact of HIPAA provisions on the stock market value of healthcare institutions, and information security and other information technology firms. Computers &amp; Security. 31(6): 750-770.##[24] Kim, C. J., &amp; Nelson, C. R. (1999). State-Space Models with Regime- Switching: Classical and Gibbs - Sampling Approaches with Applications. MIT Press.##[25] Kolari, J. W., Moorman, T. C., &amp; Sorescu, S. M. (2008). Foreign exchange risk and the cross section of stock returns. Journal of International Money and Finance. 27(7): 1074-1097.##[26] Krolzig, H. M. (1998). Econometric modeling of Markov- switching vector auto regressions: Using MS VAR for Ox. Discussion Paper, Department of Economics. University of Oxford.##[27] Krolzig, H. M. (2013). Markov-switching vector auto regressions: Modelling, statistical inference, and application to business cycle analysis. Springer Science &amp; Business Media.##[28] Kurihara, Y. (2006). The relationship between exchange rate and stock prices during the quantitative easing policy in Japan. International Business Research. 11(4): 375-386.##[29] Lee, J., &amp; Strazicich, M. C. (2003). Minimum LM unit root test with two structural breaks. Review of Economics and Statistics. 63: 1082-1089.##[30] Lin, C-H. (2012).The co-movement between exchange rates and stock prices in the Asian emerging markets. International Review of Economics and Finance. 22:161-172##[31] Mehrara, M. (2009). Health Economics, Tehran University Press. (in Persian).##[32] Najarzadeh, R., Aghaei, M., &amp; Rezaeepour, M. (2009). The impact of price and exchange rate fluctuations on stock price index in Tehran Stock Market: Using a Vector Auto-Regression method. Quarterly Journal of the Economic Research (Sustainable Growth and Development). 9(1): 147-175. (in Persian).##[33] Pan, M. S., Fok, R. C., &amp; Liu, Y. A. (2007). Dynamic linkages between exchange rates and stock prices: Evidence from East Asian markets. International Review of Economics and Finance. 16: 503–520.##[34] Phylaktis, K., &amp; Ravazzolo, F. (2005). Stock prices and exchange rate dynamics. Journal of International Money and Finance. 24:1031-1053.##[35] Psaradakis, Z., &amp; Spagnolo, N. (2003). On the determination of the number of regimes in Markov switching auto regressive models. Journal of Time series Analysis. 24: 237-252.##[36] Raie, R., Mohammadi, S., &amp; Saranj, A. (2014). Tehran Stock Exchange dynamics in a Markov regime switching EGARCH-in-mean model. Journal of Financial Research. 16(1): 77-98. (in Persian).##[37] Sahabi, B., Sadeghi, H., &amp; Khorsandi, V. (2015). The calculation of VAR of metal ores and pharmaceutical industries in Tehran Stock Exchange by using wavelet analysis and GARCH models. Quarterly Journal of the Economic Research (Sustainable Growth and Development). 15(1): 105-122. (in Persian).##[38] Securities &amp; Exchange News Agency (SENA).##[39] Sensoy, A., &amp; Sobaci, C. (2014). Effects of volatility shocks on the dynamic linkages between exchange rate, interest rate and the stock market: The case of Turkey. Economic Modelling. 43: 448-457.##[40] Sharma, N. (2016). Causal relation between stock return and exchange rate: Evidence from India. Global Journal of Management and Business Research. 15(11): 26-32.##[41] Sharpe, W. F. (1963). A simplified model for portfolio analysis. Management Science. 9(2): 277-293.##[42] Taheri, H., &amp; Safari, M. (2012).The investigation of relationship between exchange rate and price index of Tehran Stock Exchange: Using with ARDL approach. Quarterly Trend (Trend Economic Research). 60: 63-80. (in Persian).##[43] Torabi, T., &amp; Hooman, T. (2010). The effects of macroeconomic variables on the output indicators of Tehran Stock Exchange. Journal of Economic Modeling. 4(1): 121-144. (in Persian).##[44] Valickova, P., Havranek, T., &amp; Horvath, R. (2013). Financial Development and Economic Growth: A Meta– Ananlysis. IES Working Paper.##[45] Walti, S. (2005). The macroeconomic determinants of stock market synchronization. Journal of International Banking Law. 11(10): 436-441.##[46] Well, D. N. (2007). Accounting for the effect of health on economic growth. The Quarterly Journal of Economics. 122(3): 1265-1306.‏##[47] World Health Organization. (www.WHO.int).##[48] Yang, S. Y., &amp; Doong, S. C. (2004). Price and volatility spillovers between stock prices and exchange rates: Empirical evidence from the G-7 countries. International Journal of Business and Economics. 3(2): 139-153.##[49] Yang, S., Zhou, Z. (2011). How do stock return movements behave in pharmaceutical industry? A 2008-2010 study. Master thesis. Umeå School of Business.##[50] Yunita, I., Nurhakim, A., &amp; Iradianty, A. (2016). The effect of profitability and inflation on stock return at pharmaceutical industry at BEI in the period of 2011-2014. First International Conference on Advanced Business and Social Sciences.##[51] Zeinali, M., &amp; Mohammad-Shilan, J. (2011). Effect of capital structure on the size, rate of return on equity and earnings per share of listed companies in Tehran Stock Exchange (Case study: Pharmaceutical industry). Financial Knowledge of Securities Analysis. 1(9): 43-60. (in Persian).##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>اثرکسری بودجۀ دولت و اعتبارات بخش بانکی در اندازۀ بازار سهام: رویکرد الگوی خودرگرسیون برداری تابلویی</TitleF>
+				<TitleE>The Effect of Government Deficit and Banking Sector Credit on the Stock Market Size:Panel VAR Model Approach</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف این مطالعه، بررسی اثر اعتبارات اعطایی بانک‌ها به بخش خصوصی و کسری بودجۀ دولت در اندازۀ بازار سهام در منتخبی از کشورهای در حال ‌توسعه است. در این راستا، تجزیه و تحلیل برای داده‌های 15 کشور در حال ‌توسعه در دورۀ زمانی 2012-1993 با استفاده از الگوی خودرگرسیون برداری تابلویی انجام شد. مطابق نتایج آزمون علیت در سطح اطمینان 95 درصد، هیچ رابطۀ علیتی بین اعتبارات اعطایی بانک‌ها به بخش خصوصی و سرمایۀ بازار سهام (اندازۀ بازار) وجود نداشته است؛ اما متغیر سرمایۀ بازار سهام علیت گرنجر، متغیر کسری بودجۀ دولت و تشکیل سرمایۀ ثابت ناخالص بوده است. نتایج تجزیه و تحلیل توابع واکنش تکانه‌ای، نشان‌دهندۀ اثر مثبت شوک‌های کسری بودجه و اعتبارات بخش بانکی و اثر منفی شوک تشکیل سرمایۀ ثابت ناخالص در شاخص سرمایۀ بازار سهام بوده است. مطابق نتایج، تجزیۀ واریانس با وجود اثرگذاری متغیرهای تشکیل سرمایۀ ثابت ناخالص، کسری بودجۀ دولت و اعتبارات اعطایی بانک‌ها به بخش خصوصی در نوسان‌های شاخص سرمایۀ بازار سهام، اثر شوک متغیر سرمایۀ بازار سهام، درصد زیادی از واریانس خطای پیش‌بینی خود را توضیح داده است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>The purpose of this study is to examine the effect of banking sector credit and government deficit’s shock on stock market size in selected developing countries. Analysis has been made on data from 15 developing countries over the period 2012-1993, using panel VAR model. Causality test results show that at 95% confidence level there is not causal relationship between bank credit and the private sector and stock market capitalization (market size). But stock market capitalization variable had a causal effect on the government deficit and gross fixed capital .The analysis of impulse response functions reflects banking sector credit and deficit shocks’ positive effect and negative effect of shocks gross fixed capital formation on stock market capitalization index. Analysis of variance showed that the effect of stock market capitalization variable shock explained high percentage of its prediction error variance; and then arrange the gross fixed capital formation, government deficit and bank credit to the private sector to explain the fluctuations of stock market capitalization index.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>57</FPAGE>
+						<TPAGE>70</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>ابراهیم</Name>
+						<MidName></MidName>		
+						<Family>انواری</Family>
+						<NameE>Ebrahim</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Anvari</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه اقتصاد، دانشکده اقتصاد و علوم اجتماعی دانشگاه شهید چمران اهواز، اهواز، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه اقتصاد، دانشکده اقتصاد و علوم</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>ebrahiman@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مسعود</Name>
+						<MidName></MidName>		
+						<Family>خداپناه</Family>
+						<NameE>Masud</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Khodapanah</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه اقتصاد، دانشکده اقتصاد و علوم اجتماعی، دانشگاه شهید چمران اهواز، اهواز، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه اقتصاد، دانشکده اقتصاد و علوم</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>khodapanah@scu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>الهام</Name>
+						<MidName></MidName>		
+						<Family>تک بند</Family>
+						<NameE>Elham</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Takband</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد اقتصاد، دانشکده اقتصاد و علوم اجتماعی دانشگاه شهید چمران اهواز، اهواز، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد اقتصاد، دانشکده اقتصاد و علوم</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>e.takband@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>اعتبارات بخش بانکی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>الگوی خودرگرسیون برداری تابلویی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بورس اوراق بهادار</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>کسری بودجۀ دولت</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] Howells, P. G. A., &amp; Bain, K. (2005). The Economics of Money, Banking and Finance: A European Text. 3rd ed., Harlow, England; New York: Prentice Hall/Financial Times. xvii.##[2] Levine, R., Loayza, N., &amp; Beck, T. (2002). Financial intermediation and growth: causality and causes. Central Banking, Analysis, and Economic Policies Book Series. 3: 031-084.##[3] Pagano, M. (1989). Endogenous market thinness and stock price volatility. The Review of Economic Studies. 56(2): 269-287.##[4] Fathi, S., &amp; Asgarnezhad-Nouri, B. (2010). Assess the impact of privatization on stock market development. Business Studie. 7(38): 93-73. (in persian).##[5] Abbasinejad, H., Mohammadi, S., &amp; Ebrahimi, S. (2017). Dynamics of the relation between macroeconomic variables and stock market index. The Quarterly Journal of Asset Management and Financing. 2017. 5(1): 61-82. (in persian).##[6] Mehrara, M., Moeini, A., Ahrari, M., &amp; Hamony, A. (2009). Modeling stock market prices based on GMDH Neural Network: A case study for Iran. Journal of Economic Research and Policies. 17(50): 31-51. (in persian).##[7] Mohseni-Zenvazi, S. J., Talebi, F., &amp; Heidari, H. (2015). Effects of fiscal policies on asset prices and its uncertainty in Iran. The Quarterly Journal of Asset Management and Financing. 3(1): 107-130. (in persian).##[8] Barro, R. J. (1974). Are government bonds net wealth? Journal of Political Economy. 82(6): 1095-1117.##[9] Geraldo, E. Y. (2011). Fiscal Policy, Monetary Policy and Stock Market Activity in Ghana. Institute of Distance Learning, Kwame Nkrumah University of Science and Technology.##[10] Boothe, P. M., &amp; Reid, B. G. (1989). Asset returns and government budgets in a small open economy: Empirical evidence for Canada. Journal of Monetary Economics. 23(1): 65-77.##[11] Tobin, J. (1969). A general equilibrium approach to monetary theory. Journal of Money, Credit and Banking. 1(1): 15-29.##[12] Blanchard, O. J. (1981).Output, the Stock market, and Interest rates. American Economic Review. 71: 132-143.##[13] Gupta, R., Jooste, C., &amp; Matlou, K. (2014). A time-varying approach to analysing fiscal policy and asset prices in South Africa. Journal of Financial Economic Policy. 6(1): 46-63.##[14] Chatziantoniou, I., Duffy, D., &amp; Filis, G. (2013). Stock market response to monetary and fiscal policy shocks: Multi-country evidence. Economic Modelling. 30: 754-769.##[15] Sinai, A. (2006). Deficits, expected deficits, financial markets, and the economy. The North American Journal of Economics and Finance. 17(1): 79-101.##[16] Roley, V. V., &amp; Schall, L. D. (1988). Federal deficits and the stock market. Economic Review. 73(4): 17-27.##[17] Anghelache, G. V., Jakova, S., &amp; Oanea, D. C. (2016). Fiscal Policy and capital market performance: Evidence from EU countries from Central and Eastern Europe. International Journal of Academic Research in Accounting, Finance and Management Sciences. 6(2): 34-43.##[18] Demirgüç-Kunt, A., &amp; Levine, R. (1996). Stock markets, corporate finance, and economic growth: An overview. The World Bank Economic Review. 10(2): 223-239.##[19] Nazarpour, M. N., Kia&#039;alhosseini, S. Z., &amp; Haghighi, M. (2013).Investigation of relationship between commercial banks and capital markets within the interest-free banking system. Journal of Iran&#039;s Economic Essays. 10(19): 41-65. (in persian).##[20] Yartey, C. A. (2008). The determinants of stock market development in emerging economies: Is South Africa different? IMF Working Papers: 1-31.##[21] Groenewold, N., Tang, S. H. K., &amp; Wu, Y. (2003). The efficiency of the Chinese stock market and the role of the banks. Journal of Asian Economics. 14(4): 593-609.##[22] Abdeh-Tabrizi, H. &amp; Radpour, M. (2012). The capital market and its role in dealing with the banking industry. The First International Conference on the Banking Industry and the Global Economy. 2012/07/02.##[23] Vaalinezhad, M. (2009).Introduction to the capital market and stock exchange. Banks and the Economy. 103: 64-68. (in Persian).##[24] Motemeni, M. (2009). Investigating the relationship between financial development and economic growth in Iran. Business Studies. 34: 66-59. (in Persian).##[25] Rasekhi, S., &amp; Ranjbar, O. (2009). An Examination of financial development effect on OIC member countries. Knowledge and Development. 16(27): 1-22. (in Persian).##[26] Ahmadi, A., Ahmadi Jashfaghani, H. A., &amp; Abolhasani Hastiani, A. (2016). The impact of credit risk on the banking system&#039;s performance: (Panel VAR Approach). Journal Management System. 10(34): 131-152. (in Persian).##[27] Pradhan, R. P. Arvin, M. B., Hall, J. H., &amp; Bahmani, S. (2014). Causal nexus between economic growth, banking sector development, stock market development, and other macroeconomic variables: The case of ASEAN countries. Review of Financial Economics. 23(4): 155-173.##[28] Pradhan, R. P., Arvin, M. B., &amp; Ghoshray, A. (2015). The dynamics of economic growth, oil prices, stock market depth, and other macroeconomic variables: Evidence from the G-20 countries. International Review of Financial Analysis. 39: 84-95.##[29] Andrews, D. W., &amp; Lu, B. (2001). Consistent model and moment selection procedures for GMM estimation with application to dynamic panel data models. Journal of Econometric. 101(1): 123-164.##[30] Holtz-Eakin, D., Newey, W., &amp; Rosen, H. S. (1988). Estimating vector autoregressions with panel data. Econometrica: Journal of the Econometric Society: 1371-1395.##[31] Samadi, S., Nasrollahi, K., &amp; Karamalian Cichani, M. (2007). Development of financial markets and economic growth. The Economic Research. 7(3): 1-16. (in persian).##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی تأثیر ساز و کارهای حاکمیت شرکتی در تقلب در صورت‌های مالی شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران</TitleF>
+				<TitleE>Investigating the Impact of Corporate Governance Mechanisms on Financial Statements Fraud of the Listed Companies in Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>حاکمیت شرکتی، نقش مهمی در تضمین کیفیت فرایند گزارشگری مالی دارد. بسیاری از شکست‌های شرکتی اخیر به حاکمیت ضعیف نسبت داده می‌شود که در قالب گزارشگری مالی متقلبانه و مدیریت سود نادرست نمود پیدا کرده‌اند؛ از این‌رو، هدف این پژوهش، بررسی تأثیر ساز و کارهای حاکمیت شرکتی در تقلب در صورت‌های مالی است. برای تحقق این هدف، شرکت‌های متقلب با استفاده از علایم خطر اشاره‌شده در استاندارد حسابرسی شمارۀ 240 با عنوان «مسئولیت حسابرس در ارتباط با تقلب و اشتباه در صورت‌های مالی» و با به‌کارگیری تکنیک‌های داده‌کاوی غیرنظارتی مشخص شد. در‌ادامه، برای انجام پژوهش، سه فرضیه طراحی شد که رابطۀ ترکیب هیأت مدیره، تمرکز مالکیت و مالکیت نهادی را با تقلب در صورت‌های مالی در بین شرکت‌ها و در دورۀ زمانی مدّنظر بررسی می‌کند؛ بنابراین برای آزمون فرضیه‌های پژوهش، روش آماری «داده‌های تابلویی» به کار گرفته شده است. دورۀ زمانی مدّنظر برای هر یک از فرضیه‌های پژوهش، سال‌های 1381 تا 1393 و نمونۀ انتخابی شامل 182 شرکت است. نتایج حاصل از تخمین فرضیه‌های پژوهش نیز نشان می‌دهد صرفنظر از اهرم مالی، سودآوری، ترکیب دارایی‌ها، نقدینگی، کارایی، اندازه و رشد، بین ترکیب هیأت مدیره، تمرکز مالکیت و مالکیت نهادی با تقلب در صورت‌های مالی، رابطۀ معناداری وجود دارد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Corporate governance plays an important role in ensuring the quality of the financial reporting process. Many of recent corporate failures have been attributed to poor governance, which is manifested in fraudulent financial reporting and earnings mismanagement. Therefore, the purpose of this study is to investigate the impact of corporate governance mechanisms on financial statements fraud of the listed companies in Tehran Stock Exchange (TSE). To achieve this aim, Board Composition, Ownership Concentration and Institutional Ownership were used as corporate governance mechanisms. Furthermore, nineteen red flags of fraud extracted from auditing standard No. 240 along with Data Mining techniques such as K-Means clustering used to discriminate financial statements fraud cases. The data sample is restricted to 182 companies in the (TSE) during 1381 to 1393. In conducting this research, three main hypotheses were proposed to examine the impact of board composition, ownership concentration and institutional ownership on fraudulent financial reporting across the firms and during the designated period. Accordingly, the statistical technique known as the “Panel Data” was exerted to test the research hypothesis. The results of the hypotheses testing demonstrate that fraudulent financial reporting is negatively affected by proposed corporate governance mechanisms, after controlling for potential confounding effects.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>71</FPAGE>
+						<TPAGE>84</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>شکراله</Name>
+						<MidName></MidName>		
+						<Family>خواجوی</Family>
+						<NameE>Shokrollah</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Khajavi</FamilyE>
+						<Organizations>
+							<Organization>استاد بخش حسابداری، دانشکده اقتصاد، مدیریت و علوم اجتماعی، دانشگاه شیراز، شیراز، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استاد بخش حسابداری، دانشکده اقتصاد، مدیریت</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>shkhajavi@rose.shirazu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مهرداد</Name>
+						<MidName></MidName>		
+						<Family>ابراهیمی</Family>
+						<NameE>Mehrdad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Ebrahimi</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی دکتری، بخش حسابداری، دانشکده اقتصاد، مدیریت و علوم اجتماعی، دانشگاه شیراز، شیراز، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی دکتری، بخش حسابداری، دانشکده اقتصاد،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mehrdadebrahimi66@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>ترکیب هیأت مدیره</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تقلب در صورت‌های مالی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تمرکز مالکیت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مالکیت نهادی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]        Aflatooni, A. (2016). Investigating the effect of financial reporting quality on the relation among collateral assets, financing and investment. Journal of Asset Management and Financing, 4(3): 109-124. (in Persian).##2]  Aggarwal, R., Erel, I., Ferreira, M., &amp; Matos, P. (2011). Does governance travel around the world? Evidence from institutional investors. Journal of Financial Economics. 100 (1):. 154-181.##[3]        Agrawal, A., &amp; Chadha, S. (2005). Corporate governance and accounting scandals. Journal of Law and Economics. 48 (2): 371-406.##[4]        Alden, M. E., Bryan, D. M., Lessley, B. J., &amp; Tripathy, A. (2012). Detection of financial statement fraud using evolutionary algorithms. Journal of Emerging Technologies in Accounting. 9 (1): 71-94.##[5]        Baker, H. K., &amp; Anderson, R. (2010). Corporate Governance: A Synthesis of Theory, Research, and Practice. John Wiley &amp; Sons.##[6]        Beasley, M. S. (1996). An empirical analysis of the relation between the board of director composition and financial statement fraud. Accounting Review. 71(4): 443-465.##[7]        Bhaduri, S. N., &amp; Selarka, E. (2016). Corporate Governance: An Overview, In Corporate Governance and Corporate Social Responsibility of Indian Companies. Springer.##[8]        Boubaker, S., Nguyen, B. D., &amp; Nguyen, D. K. (2012). Corporate Governance: Recent Developments and New Trends. Springer.##[9]        Brazel, J. F., Jones, K. L., &amp; Zimbelman, M. F. (2009). Using nonfinancial measures to assess fraud risk. Journal of Accounting Research. 47 (5): 1135-1166.##[10] Bushee, B. J., Carter, M. E., &amp; Gerakos, J. (2013). Institutional investor preferences for corporate governance mechanisms. Journal of Management Accounting Research, 26 (2):. 123-149.##[11] Caprio, G. (2012). Handbook of Key Global Financial Markets, Institutions, and Infrastructure. Academic Press.##[12] Carcello, J. V., &amp; Nagy, A. L. (2004). Audit firm tenure and fraudulent financial reporting. Auditing: A Journal of Practice &amp; Theory, 23 (2): 55-69.##[13] Chen, F. H., Chi, D. J., &amp; Zhu, J. Y. (2014). Application of random forest, rough set theory, decision tree and neural network to detect financial statement fraud–taking corporate governance into consideration. Intelligent Computing Theory. 8588: 221-234.##[14] Chen, G., Firth, M., Gao, D. N., &amp; Rui, O. M. (2006). Ownership structure, corporate governance, and fraud: Evidence from China. Journal of Corporate Finance, 12 (3): 424-448.##[15] Cheng, E. C., &amp; Courtenay, S. M. (2006). Board composition, regulatory regime and voluntary disclosure. The international Journal of Accounting. 41 (3): 262-289.##[16] Demsetz, H., &amp; Lehn, K. (1985). The structure of corporate ownership: Causes and consequences. Journal of political Economy, 93 (6): 1155-1177.##[17] Fernández-Gago, R., Cabeza-García, L., &amp; Nieto, M. (2016). Corporate social responsibility, board of directors, and firm performance: An analysis of their relationships. Review of Managerial Science. 10 (1): 85-104.##[18] Firth, M., Fung, P. M., &amp; Rui, O. M. (2007). Ownership, two-tier board structure, and the informativeness of earnings–Evidence from China. Journal of accounting and public policy. 26 (4): 463-496.## [19] González, M., Molina, C. A., Pablo, E., &amp; Rosso, J. (2014). The effect of ownership concentration and composition on dividends: Evidence from Latin America. Available at SSRN.##[20] Habib, A., &amp; Jiang, H. (2015). Corporate governance and financial reporting quality in China: A survey of recent evidence. Journal of International Accounting, Auditing and Taxation. 24: 29-45.##[21] Isachenko, O. (2015). Prediction of Bankruptcy of Companies in The Netherlands: Main Determinants. University of Amsterdam.##[22] Jalali Jalalabadi, M., Dastgir, M., &amp; Gogerdchian, A. (2016). The impact of corporate governance system on the unit index of working capital management efficiency for the companies listed in Tehran Stock Exchange. Journal of Asset Management and Financing.4(1): 69-86.##[23] Jensen, M. C., &amp; Meckling, W. H. (1976). Theory of the firm: Managerial behavior, agency costs and ownership structure. Journal of financial economics. 3(4): 305-360.##[24] Jostarndt, P. (2007). Financial Distress, Corporate Restructuring and Firm Survival. Springer.##[25] Kaminski, K. A., Sterling Wetzel, T., &amp; Guan, L. (2004). Can financial ratios detect fraudulent financial reporting? Managerial Auditing Journal. 19(1): 15-28.##[26] Kennelly, J. J. (2000). Institutional Ownership and Multinational Firms: Relationships to Social and Environmental Performance. Psychology Press.##[27] Kirkos, E., Spathis, C., &amp; Manolopoulos, Y. (2007). Data mining techniques for the detection of fraudulent financial statements. Expert systems with applications. 32(4): 995-1003.##[28] Lin, S., &amp; Zhu, X. (2007). Private Enterprises and China&#039;s Economic Development. Routledge.##[29] Namazi, M., &amp; Ebrahimi, S. (2013). Investigating the impact of ownership structure and board composition on the technical efficiency of the listed companies on the Tehran Stock Exchange. Journal of Accounting Knowledge. 4(12): 35-57. (in Persian).##[30] Nordberg, D. (2011). Corporate Governance and The Board, in Theory and Practice of Corporate Social Responsibility. Springer.##[31] Okike, E. (2011). Financial Reporting and Fraud, in Theory and Practice of Corporate Social Responsibility. Springer.##[32] Persons, O.S. (1995). Using financial statement data to identify factors associated with fraudulent financial reporting. Journal of Applied Business Research. 11(3): 38.##[33] Pound, J. (1988). Proxy contests and the efficiency of shareholder oversight. Journal of financial Economics. 20: 237-265.##[34] Rezaee, Z. (2005). Causes, consequences, and deterence of financial statement fraud. Critical Perspectives on Accounting. 16(3): 277-298. (in Persian).##[35] Safari Gerayeli, M., &amp; Ranaei, F. (2017). Investigating the relation between financial reporting quality and investment efficiency and the role of debt maturity in such relation among the companies listed in tehran stock exchange. Journal of Asset Management and Financing.5(1): 83-98. (in Persian).##[36] Salleh, S. M., &amp; Othman, R. (2016). Board of director&#039;s attributes as deterrence to corporate fraud. Procedia Economics and Finance. 35: 82-91.##[37] Shleifer, A., &amp; Vishny, R. W. (1997). A survey of corporate governance. The journal of finance. 52(2): 737-783.##[38] Spathis, C., Doumpos, M., &amp; Zopounidis, C. (2002). Detecting falsified financial statements: A comparative study using multicriteria analysis and multivariate statistical techniques. European Accounting Review. 11(3): 509-535.##[39] Spathis, C. T. (2002). Detecting false financial statements using published data: Some evidence from Greece. Managerial Auditing Journal. 17(4): 179-191.##[40] Stice, J. D. (1991). Using financial and market information to identify pre-engagement factors associated with lawsuits against auditors. Accounting Review. 66(3): 516-533.##[41] Summers, S. L. &amp; Sweeney, J. T. (1998). Fraudulently misstated financial statements and insider trading: An empirical analysis. Accounting Review. 73(1):131-146.##[42] Tanani, M., Sedighi, A., &amp; Amiry, A. (2016). The role of some of corporate governance mechanisms in reducing the risk of share price crash in accepted companies in tehran Stock Exchange. Journal of Asset Management and Financing. 3(4): 31-50. (in Persian).##[43] Uzun, H., Szewczyk, S. H., &amp; Varma, R. (2004). Board composition and corporate fraud. Financial Analysts Journal 60(3): 33-43.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تأثیر هزینۀ نمایندگی در رابطۀ نظام حاکمیت شرکتی و هزینۀ سرمایۀ سهام</TitleF>
+				<TitleE>The Effect of Agency Cost on the Relationship between Corporate Governance and Cost of Equity Capital</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>در این مقاله، تأثیر هزینۀ نمایندگی در رابطۀ نظام حاکمیت شرکتی و هزینۀ سرمایۀ سهام بررسی شده است. الگوهای منتخب برای آزمون فرضیه‌های این پژوهش، از الگو‌های رگرسیون چندمتغیرۀ پژوهش چن و همکاران (2011) برگرفته شده است. جامعۀ آماری این پژوهش، شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران بین سال‌های 1387 تا 1393 و شامل 140 شرکت است. نتایج پژوهش نشان می‌دهد بین نظام حاکمیت شرکتی و هزینۀ سرمایۀ سهام، رابطۀ معکوس وجود دارد؛ یعنی شرکت‌ها هرچه نظام حاکمیت بهتری داشته باشند، هزینۀ تأمین مالی کمتری متحمل خواهند شد و سرمایه‌گذاران، بازده کمتری از آنها مطالبه می‌کنند. درواقع، هرچه هزینۀ نمایندگی کمتر باشد، سرمایه‌گذار اطمینان بیشتری می‌کند و درنتیجه، سرمایۀ مالی بیشتری برای شرکت‌ها مهیا می‌شود. هزینۀ نمایندگی و فرصت‌های سرمایه‌گذاری در رابطۀ نظام حاکمیت شرکتی و هزینۀ سرمایۀ نیز سهام تأثیر می‌گذارد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>In this paper, the effect of agency cost on the relationship between corporate governance and cost of equity capital is studied. The models for testing hypotheses are multivariate regression model from Chen et al (2011) study. For this purpose, the related data of the listed companies in Tehran Stock Exchange was utilized from the periods 2009 to 2015, including 140 companies. The results show an inverse relationship between corporate governance and cost of equity capital. This means the companies that have better governance system, will have lower financing costs and the investors demand lower yields from them. Indeed if agency cost becomes lower, real investor has more confidence, thus more financial capital is provided for companies. Also the amount of agency costs and the investment opportunities have effect on the relationship between corporate governance and cost of equity capital.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>85</FPAGE>
+						<TPAGE>98</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>فرزانه</Name>
+						<MidName></MidName>		
+						<Family>حیدرپور</Family>
+						<NameE>Farzaneh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Heidarpoor</FamilyE>
+						<Organizations>
+							<Organization>دانشیار گروه حسابداری ، دانشکده اقتصاد و حسابداری، واحد تهران مرکزی، دانشگاه آزاد اسلامی، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار گروه حسابداری ، دانشکده اقتصاد و</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>fheidarpoor@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محمود</Name>
+						<MidName></MidName>		
+						<Family>نظری طجر</Family>
+						<NameE>mahmoud</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>nazari tajar</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد حسابداری، گروه حسابداری، واحد تهران مرکزی، دانشگاه آزاد اسلامی، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد حسابداری، گروه حسابداری، واحد</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mahmod.accounting@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>نظام حاکمیت شرکتی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>هزینه سرمایۀ سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>هزینۀ نمایندگی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF> [1] Abdelsalam, O., El-Masry, A., &amp; Elsegini, S. (2008). Board composition, ownership structure and dividend policies in an emerging market, Further evidence from CASE 50. Managerial Finance. 12: 953-964.##[2] Ahmad Pour, A., Kashani, M., &amp;Shojaee, M. (2011). The effect of corporate governance and audit quality on the cost of debt financing (borrowing). Accounting and Auditing Journal, Management Faculty of Tehran University. 17(62): 17 -32. (In Persian).##[3] Albuquerque, R., &amp;Wang, N. (2008). Agency conflicts, investment, and asset pricing. Journal of Finance. 63: 1–40.##[4] Baradaran Hassanzadeh, R., Badavar Nahandi, Y., &amp; Hossein Babaei, Gh. (2013). A survey of the relationship between corporate governance with created shareholder value (CSV) and economic value added (EVA). Accounting and Auditing Researches. 19( 2): 1-16. (In Persian).## [5] Boo, E.F., &amp; Sharma, D. (2008). The association between corporate governance and audit fee of bank holding companies. Corporate governance. 8(4): 28-45.##[6] Chen Kevin C. W., Chen Z., &amp; Wei K. C. J. (2011). Agency costs of free cash flow and the effect of shareholder rights on the implied cost of equity capital. Journal of Financial and Quantitative Analysis. 46(1): 171–207##[7] Desender, K., Aguilera, R., Crespi, R., &amp; Garcia-Cestone, M. (2011). Board Characteristics and Audit Fees: When Does Ownership Matter? Http://Ssrn.Com/Abstract=1774684.##[8] Garmaise, M. J., &amp; Liu, J. (2005). Corruption, Firm Governance, and the Cost of Capital. Working Paper, University of California at Los Angeles.##[9] Haque F., Gopinath Arun, T., &amp; Kirkpatrick, C. (2014). Corporate Governance and Cost of Equity Capital: A Cross-Sectional Study on Bangladesh. Available at SSRN : http://ssrn.com/abstract=2529654##[10] Hassas Yeganeh, Y., &amp; Moloodi A. (2012). The relationship between corporate governance and value creation for shareholders. Journal of Industrial Management Studies. 9(23): 233-261. (In Persian).##[11] Houston, Joel F., Lin, C., &amp; Xie, W. (2015). Shareholder Protection and the Cost of Capital. Available at SSRN: http://ssrn.com/abstract=2661292.## [12] Jensen, M., &amp; Meckling, W. H. (1976). Theory of the firm: manaerial behaviour, agency costs and ownership structure.  Journal of Financial Economics. 3(4): 305–360.##[13] Ashton, A., Wang, P. (2016). The Informational Role and Value Relevance of Earnings, Cash Flows, and Accruals. https://ssrn.com/abstract=2801644.##[14] Keejae H., Tao M., Guochang Z. (2015). Accruals Quality and Cost of Capital: Evidence from Chinese Stock Market. Available at SSRN: https://ssrn.com/abstract=2707382.##[15] Mashayekhi, B., Farhadi, S. (2014). The effect of firm size on the relationship between disclosure quality and cost of equity firms listed in the Tehran Stock Exchange. Management Accounting Journal. 16(19): 101 - 115. (In Persian).##[16] Rezaei, F., &amp; Teimuri, M. (2013). Interactive relationships between the risk-free cash flows, the structure of corporate governance and corporate debt policy. Experimental Research of Financial Accounting. 5:98-115. (In Persian).##[17] Setayesh, M.H., Ebrahimi, F. (2013). The effect of corporate governance mechanisms on the information content of profit. Journal of Accounting Knowledge. 8: 31-48.( In Persian).##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی تأثیر استقرار زبان گزارشگری تجاری توسعه‌پذیر (XBRL)بر رفتار تحلیلگران مالی در ایران ـ الگوی مدلیابی معادلات ساختاری</TitleF>
+				<TitleE>Investigating the Impact of Implementing XBRL on the Financial Analysts` Behavior in Iran Using Structural Equations Modeling</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>در پی مشکلاتی که سه دهۀ پیش، به‌دلیل ارائۀ نامناسب اطلاعات و ناکارآیی اطلاعاتی در بازارهای مالی دنیا بروز کرد، استاندارد بین‌المللی XBRL به‌عنوان راهکار گزارشگری مالی برای پیوستن به بازارهای جهانی تدوین و ارائه شد. به‌دلیل هزینه‌بربودن راه‌اندازی و استقرار این استاندارد، ضروری است اثر آن در ارکان مالی هر کشور ارزیابی و با تحلیل هزینه - فایده، بهترین سناریوی پیاده‌سازی اتّخاذ شود. در پاسخ به این ضرورت؛ پژوهش حاضر با بهره‌گیری از مدلسازی معادلات ساختاری و نرم‌افزار آموس (AMOS)، تأثیر استقرار XBRL بر ابعاد رفتاری تحلیلگران مالی -که متخصصان تجزیه و تحلیل اطلاعات هستند- را بررسی کرده است.. بررسی نظرات 140 تحلیلگر که با پرسشنامه جمع‌آوری شد، نشان‌دهندۀ تأثیرگذاری مثبت استقرار XBRL در بهبود ابعاد رفتاری تحلیلگران مالی طی فرایند تصمیم‌گیری و به‌ترتیب اولویت: 1- رفتار تحلیلگری (78 درصد)، 2- رفتار جستجوگری (75 درصد)، 3- رفتار اعتبارسنجی  (74 درصد) و 4- تورش‌های رفتاری ‌(46 درصد) بود. نتایج آزمون تحلیل واریانس نیز نشان داد سن و تجربۀ تحلیلگر بر تفاوت‌های رفتاری وی در اخذ تصمیم، تأثیر معنادار دارد و سطح تحصیلات بدون تأثیر معنادار است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Inadequate and inefficient provision of information in the last three decades has resulted in some problems in global financial markets. As a result, XBRL international standard preparation was proposed as a solution for financial reporting to associante with international markets. Because of the cost concerns of implementing this standard, it is necessary to investigate its effects on different parts of countries` financial system to choose the best performance scenario via cost-benefit analysis. This paper investigates the impact of implementing extensible business reporting language (XBRL) on the financial analysts` behavior in Iran, by using AMOS software for Structural Equation Modeling. We analyzed 140 financial Analysts responses that were gathered via a questionnaire and found that XBRL has positive effects on financial analysts` behaviors in the decision-making process, as follows: 1) Analysis behavior (78%), 2) search behavior (75%), 3) validation behavior (74%) and 4. behavioral biases (46%). Also the results of ANOVA show that analysts’ age and experience affecnts their decision making behaviors.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>99</FPAGE>
+						<TPAGE>120</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سیدکاظم</Name>
+						<MidName></MidName>		
+						<Family>چاوشی</Family>
+						<NameE>Seyed kazem</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Chavoshi</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه مدیریت بازرگانی، دانشکدۀ مدیریت، دانشگاه خوارزمی، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه مدیریت بازرگانی، دانشکدۀ مدیریت،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>k.chavoshi@khu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>روح الله</Name>
+						<MidName></MidName>		
+						<Family>نوری</Family>
+						<NameE>Roohallah</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Noori</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه مدیریت فناوری اطلاعات، دانشکدۀ مدیریت، دانشگاه خوارزمی، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه مدیریت فناوری اطلاعات، دانشکدۀ</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>rnoori@khu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>فرشید</Name>
+						<MidName></MidName>		
+						<Family>فلاطون نژاد</Family>
+						<NameE>Farshid</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Falatoon nejhad</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد مدیریت کسب و کار (MBA) گرایش مالی، دانشکدۀ مدیریت، دانشگاه خوارزمی، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد مدیریت کسب و کار (MBA) گرایش</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>f.falatoon@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>رفتار تحلیلگران مالی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>زبان گزارشگری تجاری توسعه‌پذیر (XBRL)</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شفافیت اطلاعات</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>فرایند تصمیم‌گیری سرمایه‌گذاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>کیفیت گزارشگری مالی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] Accounting Standards Codification Committee. (2001). The Theoretical Concepts Of National Standards Reporting. Tehran, IRIB auditing organization. (in Persian).##[2] Adhami, A. (2004). What’s information seeking and information seeking behavior? Information Broadcasting. 19(3&amp;4): 31-36. (in Persian).##[3] Alimadad, M., &amp; Molkarai, N. (2002). Principles of Accounting8th Vol2, Tehran, Accounting and Auditing Research Center, Audit Organization. (in Persian).##[4] Alipour Hafezi, M. (2007). Interaction of knowledge management and information economy. Ketab. 1(69): 85-92. (in Persian).##[5] Arab Mazar Yazdi, M. (2004). Financial reporting in the age of electronic commerce. Iranian Institute of Certified Accountants. 1(1): 7-97. (in Persian).##[6] Bagherian, A. (2007). Electronic exchange, regulatory standards and smart grids. Exchange Journal. 1(61): 40-61. (In Persian).##[7] Bates, A. (2006). Fraud Risk Management, Developing a strategy for prevention, Detection, and Response, Global Chairman, KPMG Forensic.##[8] Bergeron, B. (2003). Essentials of XBRL: Financial Reporting in the 21st Century. NJ. Wiley, Hoboken.##[9] Bhargava, J. N. (1993). Economics of Information Management. New Delhi, Jampur Arihant Publishing House.##[10] Boritz, J. E., &amp; W. G. (2003). Business Reporting with XML: XBRL (Extensible Business Reporting Language). New York, The internet encyclopedia, John Wiley.##[11] Bozorg Asl, M., &amp; Valipour Rokni, J. (2006). Acquaintance with the concepts and application of XBRL. Official Accountant. 3(8&amp;9): 83-90. (in Persian).##[12] Chunhui Liu, Tawei Wang, Lee J. Yao. (2013). XBRL’s impact on analyst forecast behavior: An empirical study. Journal of Accounting. 33(1): 69-82.##[13] Donald McLean, L. (2006). Economics of Information and Knowledge. Translated by Abas Zandbaf. Tehran, Secretariat of the supreme council of information. (in Persian).##[14] Efendi, J. Jin., Dong Park, L., &amp; Smith, M. (2013). Do XBRL filings enhance informational efficiency? Early evidence from post-earnings announcement drift. Journal of Business Research. 67(6): 1099-1105.##[15] Etemadi, H., Ellahi, S., &amp; Hasan Aghayie, K. (2006). Investigating the effect of information technology on the quality characteristics of accounting information. Accounting and Auditing Reviews. 1(43): 3-24. (in Persian).##[16] Farhadi Mahali, A. (2009). Economic of information. Economic News. 7(123): 30-39. (in Persian).##[17] Ghasemi, V. (2010). Structural Equation Modeling by AMOS in Social Researches. Tehran, Sociologists. (in Persian)##[18] Habibi, A. (2012). Practical Training LISREL (E-book). Tehran: Parsmodir. (in Persian).##[19] Hakimipour, A. (1997). Decision Management: Application of Markov Chains Theory in Management Decisions. Mashhad, Astan quds razavi. (in Persian).##[20] Heidari, G. (2005). Evaluation criteria electronic information resources with an emphasis on websites. Information Sciences. 20(3 &amp; 4): 17-32. (in Persian).##[21] Jasbi, A. Islamic management decision making, Divine – rational model. Economy and Management. (25&amp;25): 5-23. (in Persian).##[22] Keshavarz, Y. (2014). Structural Equation Modeling by AMOS. Tehran, Ketab mehrban nashr. (in Persian).##[23] Kotler, P. (2010). Principles of Marketing. Translated by Mahdi Zarea. Tehran, Modire farda. (in Persian).##[24] Lowler, E. E., &amp; Rhode, J. G. (1976). Information and Control in Organizations. California. Goodyear Publishing co.##[25] Madahi, A. (2007). XBRL Understanding and Using Report. Tehran Stock Exchange organization. (in Persian).##[26] Manuel, C. (2010). The Rise of the Network Society. Vol. 6. Translated by Ahad AliGholian &amp; Afshin Khakbaz. Tehran, Tarhe nu. (in persian).##[27] Marchionini, Gary. (1995). Information Seeking in Electronic Environments. NewYork, Cambridge university press.##[28] MC Daniel, C., Lamb, C., &amp; Hair, J. (2000). Marketing, 5th . OH, South-western.##[29] Mohseni, H. (2001). Economics of information, Concepts and prospects. Rahyaft. 3(25): 39-45. (in Persian).##[30] Monahan, George E. (2000). Management Decision Making: Spreadsheet Modeling, Analysis, and Application. UK; New York, Cambridge university press.##[31] Murdick, Robert G., Joel E. Ross., &amp; James R. (1993). Information Systems for Modern Management. New Delhi: Prentice-hall of India.##[32] Nikoo Marum, H., &amp; Shekari, N. (2010). Relationship of XBRL with the qualitative characteristics of accounting information of listed companies on the stock exchange chief accounting perspective. Management Accounting. 3(6): 77-87. (in Persian).##[33] Raei, R., &amp; Fallahpour, S. (2004). Behavioral finance, Financial Research. (18): 77-106. (in Persian).##[34] Rahnamay Roodposhti, F, Heibati, F., &amp; Mosavi, S. R. (2012). Study of mathematical model based on behavioral finance investor&#039;s portfolio choice. Financial Engineering and Stock Management. (12): 17-37. (in Persian).##[35] Samii, M. (2007). The impact of information and communication technology on modern information economy in virtual era. Informology. 16(3&amp;4): 51-68. (in Persian).##[36] Sefollahi, R., Kordloie, H. R., &amp; Dashti. N. (2015). A comparative study of behavioral factors in investing in financial assets. Investment Knowledge. 4(15): 33-52. (in Persian).##[37] Shahrabadi, A., &amp; Bashiri, N. (2015). Investment Management in Stock Exchange. Tehran, information dissemination and services company, Exchange publication. (in persian)##[38] Sutton, S. G. (2000). The changing face of accounting in an information technology dominated world. International Journal of Accounting Information Systems. 1(1): 1-8.##[39] Tansey, D. T. Darnton, G., &amp; Wateridge, J. (2003). Business, Information, Technology and Society (First Ed). London and New York, Routledge.##[40] Wilson, T. D. (2000). Human information behavior. Informing Science. 3(2). 49-56.##[41] Yoon, H., Zo, H., &amp; Ciganek, A. P. (2011). Does XBRL adoption reduce information asymmetry? Journal of Business Research. 64(2): 157–163.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>طراحی و تبیین الگوی پیش‏بینی ورشکستگی شرکت‏ها برحسب صنایع منتخب با استفاده از الگوی درخت تصمیم</TitleF>
+				<TitleE>A Firms&#039; Bankruptcy Prediction Model Based on Selected Industries by Using Decision Trees Model</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>سرمایه‏گذاران همواره به دنبال کسب اطلاعات دربارۀ گزینه‏های سرمایه‏گذاری خود برای سرمایه‏گذاری مطلوب و تخصیص بهینۀ منابع خویش هستند. پیش‏بینی ورشکستگی شرکت‏ها یکی از مهم‏ترین موضوعاتی است که سرمایه‏گذاران را در این راه یاری می‌کند. پژوهش‏های زیادی در حوزۀ پیش‏بینی ورشکستگی انجام شده است؛ با این حال، بیشتر آنها الگویی کلی برای تمامی صنایع به‌صورت واحد ارائه کرده‏اند. هدف اصلی این پژوهش آن است که الگوی پیش‏بینی ورشکستگی مناسب برای صنایع خوردو و ساخت قطعات، محصولات شیمیایی و محصولات غذایی به‌جز قند و شکر، خاص هر صنعت طراحی و تبیین شود. این الگو از درخت تصمیم برای پیش‏بینی استفاده می‏کند. برای تعیین ورشکستگی شرکت‏ها از معیار مادۀ 141 قانون تجارت استفاده شده است. قلمرو زمانی این پژوهش را سال‏های 1380 تا 1392 تشکیل می‏دهد. نتایج پژوهش نشان می‏دهد الگوی طراحی‌شده برای صنایع خودرو و ساخت قطعات، محصولات شیمیایی، محصولات غذایی به‌جز قند و شکر به‌ترتیب، دقت پیش‏بینی 95/95، 83/96 و 83/97 درصد را دارد که این اعداد، دقت زیاد الگوی طراحی‌شده را برای این سه صنعت (به‌ویژه برای صنعت محصولات غذایی به‌جز قند و شکر) نشان می‏دهد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Investors are always looking for information about their investment choices to have a favorable investment and an optimized allocation of their resources. Bankruptcy prediction of the firm is one of the most important subjects that can help investors in this way. Many studies have been done in the field of bankruptcy prediction. However, the majority of them provide a general model for all industries as a unit. The main objective of this study is presenting a bankruptcy prediction model, specific for each industry, for three industries including automobile and parts manufacturing, chemical products, and Food, except for sugar products, using decision trees model. To determine bankruptcy of the firm we used the criteria of Article 141 in Commercial Code. This research was performed from 2002 to 2014. The results show that the designed model has a prediction accuracy of 95.95, 96.83 and 97.83 percent for automobile and parts manufacturing industry, chemical products industry, and Food, except for sugar products industry, respectively. These findings reflect high accuracy of these three models, especially for Food, except for sugar products industry.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>121</FPAGE>
+						<TPAGE>138</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>مهدی</Name>
+						<MidName></MidName>		
+						<Family>ناظمی اردکانی</Family>
+						<NameE>Mahdi</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Nazemi Ardakani</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه حسابداری، دانشکده اقتصاد، مدیریت و حسابداری دانشگاه یزد، یزد، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه حسابداری، دانشکده اقتصاد، مدیریت</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>nazemi@yazd.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>وحید</Name>
+						<MidName></MidName>		
+						<Family>زارع مهرجردی</Family>
+						<NameE>Vahid</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Zare mehrJardi</FamilyE>
+						<Organizations>
+							<Organization>کارشناسی ارشد، گروه حسابداری، دانشکده اقتصاد، مدیریت و حسابداری دانشگاه یزد، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناسی ارشد، گروه حسابداری، دانشکده اقتصاد،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>vahid69.zare@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>علیرضا</Name>
+						<MidName></MidName>		
+						<Family>محمدی ندوشن</Family>
+						<NameE>Alireza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mohammadi-nodooshan</FamilyE>
+						<Organizations>
+							<Organization>مربی گروه مهندسی کامپیوتر و فناوری اطلاعات، دانشکده فنی و مهندسی دانشگاه ولی عصر (عج) رفسنجان، رفسنجان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>مربی گروه مهندسی کامپیوتر و فناوری اطلاعات،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>a.mohammadi@vru.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>الگوی درخت تصمیم</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>پیش‏بینی ورشکستگی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نسبت‏های مالی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ورشکستگی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] Ahmadpoor, A., &amp; Mirzai Asrami. H. (2013). Compared with multiple discriminate analysis model and neural network models in predicting bankruptcy of the listed companies in Tehran Stock Exchange. Journal of Accounting and Auditing Research. 4(19): 4-31. (in persian).##[2] Bazrafshan, A., &amp; Arefmanesh. Z. (2015). Earnings behavior in bankrupt firms: The role of auditor. Journal of asset management &amp; financing. 2(4): 1-14. (in persian).##[3] Crawford, S. L. (1989). Extensions to the CART algorithm. International Journal of Man-Machine Studies. 31(2): 197-217.##[4] Ekşi, I. H. (2011). Classification of firm failure with classification and regression trees. International Research Journal of Finance and Economics. 76: 113-120.##[5] Esmailzade Moghri, A., &amp; Shakery. H. (2015). Predicting financial distress of the listed companies in Tehran Stock Exchange using simple bayesian network and compairing it with data covering analysis. Journal of Financial Engineering and Stock Exchange Management. 5(22):1-28 (in persian).##[6] Geng, R., Bose, I., &amp; Chen. X. (2015). Prediction of financial distress. An empirical study of listed Chinese companies using data mining. European Journal of Operational Research. 241(1): 236-247.##[7] Gepp, A., &amp; Kumar. K. (2015). Predicting financial distress: A comparison of survival analysis and decision tree techniques. Journal of Procedia Computer Science. 54: 396 – 404.##[8] Han, J., Kamber, M., &amp; Pei, J. (2011). Data mining: concepts and techniques. Elsevier Publication.##[9] Hosseini, S. M., &amp; Rashidi. Z. (2013). Bankruptcy prediction of companies listed corporations in Tehran Stock Exchange by using decision tree and logistic regression. Journal of Financial Accounting Researches. 5(3): 105-128. (in persian).##[10] Jeong, C., Min, J. H., &amp; Kim. M. S. (2012). A tuning method for the architecture of neural network models incorporating GAM and GA as applied to bankruptcy prediction. Expert Systems with Applications. 39(3): 3650-3658.##[11] Liou, F. M. (2008). Fraudulent financial reporting detection and business failure prediction models: A comparison. Managerial Auditing Journal. 23(7): 650-662.##[12] Muhamad Sori, Z., &amp; Hasbullah. A. (2009). Financial ratios, discriminant analysis and the prediction of corporate distress. Journal of Money, Investment and Banking, 11: 5-15.##[13] Ocal, N., Ercan, M. K., &amp; Kadioglu. E. (2015). Predicting financial failure using decision tree algorithms: An empirical test on the manufacturing industry at borsa Istanbul. International Journal of Economics and Finance. (7)7: 189-206.##[14] Purzamani, Z., Keypour, R., &amp; Nooraddin. M. (2010). Investigating the ability of patterns in prediction of financial crisis (patterns studied: patterns based on traditional methods, genetic algorithm, neural networks). Journal of Financial Engineering and Stock Exchange Management. 1(4): 1-28.##[15] Quinlan, J. R. (2014). C4. 5: programs for machine learning. Elsevier Publication.##[16] Quinlan, J. R. (1990). Decision trees and decision-making. Systems, Man and Cybernetics, IEEE Transactions on. 20(2): 339-346.##[17] Quinlan, J. R. (1986). Induction of decision trees. Machine learning. 1(1): 81-106.##[18] Sandin, A. R., &amp; Porporato. M. (2008). Corporate bankruptcy prediction models applied to emerging economies: Evidence from Argentina in the years 1991-1998. International Journal of Commerce and Management. 17(4): 295-311.##[19] Scikit Learn Library. Available at: http://scikit-learn.org.##[20] Smith, M., Ren, Y., &amp; Yinan. D. (2011). The predictive ability of conservatism and governance variables in corporate financial disclosures. Asian Review of Accounting. 19(2): 171-185.##[21] Kim, S. Y., &amp; Upneja. A. (2014). Predicting restaurant financial distress using decision tree and adaboosted decision tree models. Economic Modelling. 36: 354-362.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>امکان‌سنجی طرح‌های سرمایه‌گذاری با استفاده از داده‌های فازی</TitleF>
+				<TitleE>Feasibility Analysis of Investment Projects with Fuzzy Data</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>در محیط نامطمئن اقتصادی، دانش افراد خبره دربارۀ تنزیل جریان‌های نقدی با ابهام بسیار زیادی مواجه است. مقادیر جریان‌های نقدی و نرخ‌ بهره به‌طور معمول، براساس روش‌های آماری یا مقادیر مدّنظر حدس زده می‌شود. نظریۀ فازی در تخمین پارامترهای نادقیق می‌تواند به کار گرفته شود. در این پژوهش با ترکیب نظریۀ مجموعه‌های فازی و شبیه‌سازی مونت‌کارلو، روشی برای ارزیابی طرح‌های سرمایه‌گذاری با استفاده از روش‌های ارزش فعلی خالص و نرخ بازده داخلی با داده‌های فازی ارائه شده است. روش‌های پیشین، چندین نقص دارد: اولاً، برخی از این ‌روش‌ها بر اعداد فازی خاص (مثلثی و ذوزنقه‌ای) مبتنی است؛ دوماً، دورۀ عمر طرح و مدت‌زمان سرمایه‌گذاری را به‌صورت مقادیر قطعی یا اعداد فازی گسسته در نظر می‌گیرد؛ در حالی ‌که در بسیاری از مسائل واقعی، علاوه بر اینکه جریان‌های نقدی به‌صورت اعداد فازی با اشکال مختلف است، دورۀ عمر طرح به‌صورت عدد فازی پیوسته در نظر گرفته می‌شود. برای رفع این نقص، در این مقاله روش مبتنی بر شبیه‌سازی مونت‌کارلوی فازی ارائه می‌شود که آن را بدون هیچگونه محدودیتی برای جریان‌های نقدی و نرخ‌های بهره و دورۀ عمر طرح با انواع اعداد فازی و به‌صورت مقادیر فازی گسسته و پیوسته می‌توان استفاده کرد. با حل چندین مثال، کارایی محاسباتی روش پیشنهادی در قیاس با روش‌های پیشین نشان داده می‌شود و نتایج بدست آمده مشخص می‌کند دقت و کارایی این روش زیاد است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>In an uncertain economic decision environment, the knowledge of experts about discounting cash flows is confronted with a lot of ambiguities. Inexact parameters like cash flows and interest rates are usually estimated based on statistical techniques, expected values and fuzzy theory.  In this study, by combining the fuzzy theory and Monte Carlo simulation, a method is presented for feasibility analysis of the investment projects using net present value and internal rate of return techniques with fuzzy data. The methods provided in litreture have several gaps. Firstly, some of these methods are based on specific fuzzy numbers (triangular and trapezoidal); secondly, they consider life of project and duration of investment as deterministic values or discrete fuzzy numbers. However, in many real problems, cash flows are in the form of fuzzy numbers with different shape and also project life is considered as continuous fuzzy number. The Method is presented in this paper can be used for cash flows, interest rates and life of project without any restrictions on shape of fuzzy numbers as discrete or continuous fuzzy number. Computational efficiency of the proposed method is compared with other methods by solving several examples. The results show the accuracy and efficiency of the proposed method.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>139</FPAGE>
+						<TPAGE>158</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>نجمه</Name>
+						<MidName></MidName>		
+						<Family>قندهاری</Family>
+						<NameE>Najmeh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Ghandehary</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد مدیریت صنعتی، گروه مدیریت، دانشکده علوم اداری و اقتصاد، دانشگاه اصفهان، اصفهان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد مدیریت صنعتی، گروه مدیریت، دانشکده</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>najmehghandehary@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مجید</Name>
+						<MidName></MidName>		
+						<Family>اسماعیلیان</Family>
+						<NameE>Majid</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Esmaeilain</FamilyE>
+						<Organizations>
+							<Organization>استادیار، گروه مدیریت، دانشکده علوم اداری و اقتصاد، دانشگاه اصفهان، اصفهان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار، گروه مدیریت، دانشکده علوم اداری</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>m.esmaelian@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>امکان‌سنجی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ارزش فعلی خالص فازی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شبیه‌سازی مونت‌کارلو</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نرخ بازده داخلی فازی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نظریۀ فازی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] Abbastabar, S., Khademi, N., Behnia, K., &amp; Samadzad, M. (2016). Economic evaluation of public transit systems considering uncertainties in economic parameters: The case of the Qom Metro system. Transportation Engineering, 6 (1): 117-144 (in persian).##[2] Akbari Moghadam, B. A., &amp; Khalili A. M. (2010). Examining application of complicated capital budgeting techniques in the petrochemical industry. Jounal of Development Evolution Management. 2 (4): 1-4 (in persian).##[3] Buckley, J. J. (2005). Simulating Fuzzy Systems (Studies in Fuzziness and Soft Computing). Berlin: Springer.##[4] Buckley, J. J., Eslami, E., &amp; Feuring, T. (2002). Fuzzy Mathematics in Economics and Engineering (Studies in Fuzziness and Soft Computing). Berlin: Springer.##[5] Fadaei N. M. E. (2003). Principle of Capital Budgeting. Tehran: Samt (in persian).##[6] Fereidouni, S., &amp; Moradian Borojeni, P. (2012). Fuzzy simulated annealing model for solving chance constrained capital budgeting problem and sensitivity analysis it. Journal of Operational Research in Its Applications. 8 (4): 13-27 (in persian).##[7] Ghasemi, A., &amp; Mahmodzadeh, S. (2011). Assesment of economic projects in uncertain conditions (Fuzzy approach). Tahghighate Eghtesadi. 45 (93): 83-108 (in persian).##[8] Guerraa, M. L., Magnib, C. A., &amp; Stefaninic, L. (2014). Interval and fuzzy average internal rate of return for investment appraisal. Fuzzy Sets and Systems. 257: 217–241.##[9] Kahraman, C., Ruan, D., &amp; Tolga, E. (2002). Capital budgeting techniques using discounted fuzzy versus probabilistic cash flows. Information Sciences. 142 (1): 57–76.##[10] Khalili A. M. (2008). Capital budgeting: Multiple criteria. Journal of Economic Research. 8 (1): 99-118 (in persian).##[11] Kuchta, D. (2008). Fuzzy Rate of Return Analysis and Applications. In C. Kahraman, Fuzzy Engineering Economics with Applications (Studies in Fuzziness and Soft Computing). Berlin: Springer.##[12] Menhaj, M. B. (2015). Fuzzy Computations. Tehran: Daneshnegar (in persian).##[13] Mirfakhredini, H., Azar, A., &amp; Pourhamidi, M. (2015). Fuzzy Logic and Its Application in Management. Yazd: Yazd University (in persian).##[14] Ross, T. J. (2010). Fuzzy Logic with Engineering Applications (Third Edition ed. ). John Wiley.##[15] Seyed Motahari, S. M. (2011). Evaluation, Investment and Projects Financing (Applied). Tehran: Business publishing company (in persian).##[16] Shaffie, S. S., &amp; Jaaman, S. H. (2016). Monte carlo on net present value for capital investment in Malaysia. Procedia-Social and Behavioral Sciences, 219: 688-693. (in persian).##[17] Tsao, C. T. (2012). Fuzzy net present values for capital investments in an uncertain environment. Computers &amp; Operations Research. 39(8): 1885-1892.##[18] Ustundag, A., Kılınç, M. S., &amp; Cevikcan, E. (2010). Fuzzy rule-based system for the economic analysis of RFID investments. Expert Systems with Applications. 37(7): 5300-5306.##[19] Yao, J. S., Chen, M. S., &amp; Lin, H. W. (2005). Valuation by using fuzzy discounted cash flow model. Expert Systems with Application. 28 (2): 209- 222.##[20] Zadeh, L. (1965). Fuzzy sets. Information and Control. 3 (8): 338-353.##[21] Zonouz, S. A., &amp; Miremadi, G. (2006). A fuzzy-monte carlo simulation approach for fault tree analysis. Reliability and Maintainability Symposium (RAMS) IEEE:  428 – 433.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>اثر تفاضلی نوسان عناصر سود بر قابلیت پیش‌‌بینی سود</TitleF>
+				<TitleE>The Incremental Effect of earnings Components’ Volatility and their Persistence on Earnings Predictability</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>نتایج پژوهش‌های قبلی نشان می‌دهد اگر نوسان سود افزایش و پایداری آن کاهش یابد، سود گذشته قادر نیست سود آینده را به‌خوبی پیش‌بینی کند. عناصر سود شرکت‌هایِ با پایداری و نوسان متفاوت، آگاهی‌بخش‌تر از سود خالص است. در مقالۀ حاضر این موضوع بررسی شده است که عناصر مذکور محتوای اطلاعاتی بیشتری نسبت به سود دارد یا خیر؛ سپس الگویی رگرسیونی برای توصیف اثر تفاضلی پایداری و نوسان عناصر بر قابلیت پیش‌‌بینی سود ارائه شده است. تجزیه‌و‌تحلیل صورت‌گرفته در این مقاله براساس اطلاعات 33 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران طی سال‌های 1381 تا 1394 است. اطلاعات موردنیاز از صورت‌های مالی و نرم‌افزار ره‌آورد نوین استخراج شده است. نتایج پژوهش نشان می‌دهد عناصر با پایداری بیشتر و نوسان کمتر، موجب افزایش قابلیت پیش‌‌بینی سود می‌شود. از بین عناصر اصلی سود و زیان که در این پژوهش استفاده شده است، فروش، بهای تمام‌شدۀ کالای فروش‌رفته، هزینۀ حقوق ‌و ‌مزایا، استهلاک، سایر هزینه‌های عمومی، اداری و فروش و هزینه‌های مالی موجب بهبود قابلیت پیش‌بینی سود می‌شود.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>The result of prior research shows that if the volatility of earnings increases and their persistence decreases, past earnings aren’t good predictors of future earnings. Relative to aggregate earnings, earnings components will be more informative for firms whose earnings components have different persistence and volatility. We examine whether these earnings components have incremental information content relative to aggregate earnings, and then we construct a model to describe the effect of components’ volatility and their persistence on earnings predictability. In this study, the analyses are based on a sample of 33 firms listed in Tehran Stock Exchange. Data needed are derived from financial statements of companies listed in TSE. To test our hypotheses, we use data for years from 2002 to 2016. The results of study show that higher persistence and lower volatility of components will increase earnings predictability. Among the main components used in the research, sales, cost of goods sold, employee expenses, depreciation, other general, administrative and selling expenses, and interest expenses improve earnings predictability.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>159</FPAGE>
+						<TPAGE>182</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>حسین</Name>
+						<MidName></MidName>		
+						<Family>اعتمادی</Family>
+						<NameE>Hossein</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Etemadi</FamilyE>
+						<Organizations>
+							<Organization>دانشیار، گروه حسابداری، دانشکدۀ اقتصاد و مدیریت، دانشگاه تربیت مدرس، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار، گروه حسابداری، دانشکدۀ اقتصاد و</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>etemadih@modares.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>عادل</Name>
+						<MidName></MidName>		
+						<Family>آذر</Family>
+						<NameE>Adel</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Azar</FamilyE>
+						<Organizations>
+							<Organization>استاد، گروه مدیریت صنعتی، دانشکدۀ اقتصاد و مدیریت، دانشگاه تربیت مدرس، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استاد، گروه مدیریت صنعتی، دانشکدۀ اقتصاد</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>azara@modares.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سحر</Name>
+						<MidName></MidName>		
+						<Family>سپاسی</Family>
+						<NameE>Sahar</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Sepasi</FamilyE>
+						<Organizations>
+							<Organization>استادیار، گروه حسابداری، دانشکدۀ اقتصاد و مدیریت، دانشگاه تربیت مدرس، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار، گروه حسابداری، دانشکدۀ اقتصاد و</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>sepasi@modares.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>ساسان</Name>
+						<MidName></MidName>		
+						<Family>بابائی</Family>
+						<NameE>Sasan</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Babaie</FamilyE>
+						<Organizations>
+							<Organization>دکتری، گروه حسابداری، دانشکدۀ اقتصاد و مدیریت، دانشگاه تربیت مدرس، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دکتری، گروه حسابداری، دانشکدۀ اقتصاد و مدیریت،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>sbabaei2009@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>عناصر سود</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>قابلیت پیش‌‌بینی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>پایداری و نوسان سود</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] Abbaszadeh, M. R., Kazemi, M., &amp; Azad, A. (2011). Analytical review of the ability of accrual and cash flow components of earnings to forecast future abnormal earnings and equity values. Iranian Journal of Monetary and Financial Economics, 1(1): 57-77. (in persian)##[2] Abuali, M. (2010). Investigation of the Relationship Between Earnings Volatility and Earnings Predictability. Master’s Thesis. Economic Sciences University. (in persian).##[3] Arabmazar Yazdi, M., Safarzadeh, M. H. (2008). Eanings dissagregation and predicting future operating cash flows. Iranian Journal of Acoouning and Auditing Review, 49(3): 111-138. (in persian).##[4] Artikis, P. G., Papanastasopoulos, G. A. (2016). Implications of the cash component of earnings for earnings persistence and stock returns. The British Accounting Review, 48(2): 117–133.##[5] Atashband, A. (2013). Comparative Investigation of Net Earnings Persistence, Distributed Earnings and Earnings Components in Explaining Firms’ Income-Generating. Master’s Thesis. Azad University, Yazd Branch. (in persian).##[6] Azimi Yancheshmeh, M. (2010). The Effect of Accrual Reliability on Earnings Persistence and Stock Prices. Master’s Thesis. Allameh Tabatabie University. (in persian).##[7] Beest, F. V., Braam, G., &amp; Boelens, S. (2009). Quality of financial reporting: Measuring qualitative characteristics. Nice Working Paper: 9-42.##[8] Beisland, L. A. (2009). A review of value relevance literature. The Open Business Journal, 2(2): 7-27.##[9] Beisland, L. A., Hamberg, M. (2013). Earnings sustainability, economic conditions and the value relevance of accounting information. Scandinavian Journal of Management, 29(3): 314-324.##[10] Blue, G., Babajani, J., &amp; Ebrahimi Maimand, M. (2012). Investigating to content of the earning components and how to weight the components by managers and investors. Iranian Journal of Financial Acoouning Researches, 4(1): 47-66. (in persian).##[11] Blue, G., Hasani Alghar, M. (2014). Relations among earnings quality, information asymmetry and cost of equity. Iranian Journal of Acoouning Knowledge, 17(5): 49-75. (in persian).##[12] Blue, G., Lotfi, N. (2015). The comparison of the value relevance of operating cash flows, current accruals and non-current accruals with the value relevance of total amount of operating income evidence from Tehran Stock. Empirical Studies in Financial Accounting Quarterly, 44(4): 1-35. (in persian).##[13] Bozorge Asl, M., Salehzadeh, B. (2015). The relationship between managerial ability and earnings persistence with emphasis on accrual and cash components in firms listed in TSE. Iranian Journal of Audit Science, 58(4): 163-170. (in persian).##[14] Bratten, B. M. (2009). Analysts’ Use of Earnings Components in Predicting Future Earnings. The University of Texas at Austinin Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy. Available at: http://proquest. com.##[15] Chandra, U., Ro, B. T. (2008). The role of revenue in firm valuation. Accounting Horizons, 22(2): 199-222.##[16] Clubb, C., Wu, G. (2014). Earnings volatility and earnings prediction: Analysis and UK evidence. Journal of Business Finance &amp; Accounting, 41(1-2): 53–72.##[17] Dichev, I. D., Tang, V. W. (2009). Earnings volatility and earnings predictability. Journal of Accounting and Economics, 47(1-2): 160–181.##[18] Fairfield, P. M., Sweeney, R. J., &amp; Yohn, T. L. (1996). Accounting classification and the predictive content of earnings. Accounting Review, 71(3): 337-355.##[19] FardFeshani, F. (2011). Earnings Volatility and Earnings Predictability. Master’s Thesis. Alzahra University.##[20] Fathalian, M. (2014). An Investigation on Relationship Between Predictability of Future Profits and Uniformity Tax Rate in TSE. Master’s Thesis. Azad University, Shahrood Branch. (in persian).##[21] Francis, J., LaFond, R., Olsson, P. M., &amp; Schipper, K. (2004). Costs of equity and earnings attributes. Accounting Review, 79(4): 967–1010.##[22] Golarzi, G., Zangouri, S. (2013). The relationship between earnings quality and stock return, intermediation of institutional ownership in enlisted companies in Tehran Stock Exchange. Iranian Journal of Acoouning and Auditing Review, 20(2): 65-86. (in persian).##[23] Habibi, M. (2011). Investigating the Persistence of Earnings Components in Firms Listed in Tehran Stock Exchange. Master’s Thesis. Non-profit University of Raja. (in persian).##[24] Haghighat, H., Motamed, M. (2012). Investigation of relationship between earnings volatility and earnings predictability. Iranian Journal of Accounting Advances, 3(2): 65-87. (in persian).##[25] Hemmati, H., Partovi, N., &amp; Habibi, M. (2012). Investigating the persistence of the cash component of earnings. Iranian Journal of Accounting and Auditing Researches, 15(4): 60-73. (in persian).##[26] Heydari Moghadam, P. (2010). The Persistence of Cash Components of Earnnigs in Tehran Stock Exchange. Master’s Thesis. Chamran University. (in persian).##[27] Jafari Harestani, M. (2011). The Relationship Between Earnings Volatility and their Predictability. Master’s Thesis. Payame Noor University, Behshahr Branch. (in persian).##[28] Kazemi, H., Toreini, M. (2012). Relation between matching of revenues and expenses with earnings volatility and earnings persistence. Iranian Journal of Empirical Studies in Financial Accounting Quarterly, 29(4): 155-170. (in persian).##[29] Khodadadi, V., Janjani, R. (2010). The reaction of investors to earnings, cash flows and accruals forecast in TSE. Iranian Quarterly Journal of Securities Exchange, 8(2): 133-159. (in persian).##[30] Kordestani, G., Roodneshin, H. (2006). Investigating the relevancy of cash and accrual components of accounting earninigs to firms’ market value. Iranian Journal of Acoouning and Auditing Review, 13(3): 45-68. (in persian).##[31] Krishnan, G., Parsons, L. (2008). Getting to the bottom line: An exploration of gender and earnings quality. Journal of Business Ethics, 78(1): 65-76.##[32] Lipe, R. (1986). The information contained in the components of earnings. Journal ofAccountingResearch, 24(1): 37–64.##[33] Lipe, R. (1990). The relation between stock returns and accounting earnings given alternative information. Accounting Review, 65(1): 49–71.##[34] Mashayekhi, B., Mennati, V. (2014). Explanation the relationship between accounting earnings volatility and predictability. Iranian Quarterly Journal of Empirical Studies in Financial Accounting, 40(4): 101-124. (in persian).##[35] Mehrani, S., Hesarzadeh, R. (2011). Earnings volatility and earnings predictability. Iranian Journal of Accounting knowledge, 6(3): 27-42. (in persian).##[36] Mehrani, K., Beik Boshroyeh, S., &amp; Shahidi, Z. (2014). The relation between corporate governance and financial reporting quality in Tehran Stock Exchange. Iranian Journal of Accounting Research, 4(3): 1-19. (in persian).##[37] Meshki, M., Nourdideh, L. (2012). The effect of earnings management on the earnings persistence of companies listed in Tehran Stock Exchange. Iranian Journal of Financial Acoouning Researches, 4(1): 105-118. (in persian).##[38] Modares, A., Abbaszadeh, M. R. (2008). An analytic study on effect of predictive ability of accruals and cash flows on predicted earnings quality. Iranian Journal of Knowledge and Development, 24(3): 212-248. (in persian).##[39] Modares, A., Hesarzadeh, M. R. (2008). Financial reporting quality and investment efficiency. Iranian Quarterly Journal of Securities Exchange, 2(1): 85-116. (in persian).##[40] Noravesh, E., Hesarzadeh, R. (2011). Investigation of accounting transparency dimensions and relationship with corporate specification. Iranian Quarterly Journal of Securities Exchange, 12(4): 5-24. (in persian).##[41] Ohlson, J. A., Penman, S. H. (1992). Disaggregated accounting data as explanatory variables for returns. Journal of Accounting, Auditing and Finance, 7(1): 553-573.##[42] Parvizi Nezhad, S. (2010). Relation of Earnings Volatility and Earnings Predictability in Tehran Stock Exchange. Master’s Thesis. Allameh Tabatabaie University. (in persian).##[43] Pourchangiz, M. S. (2014). Investigating the Persistence of Earnings (Cash, Accrual, Systematic and Non-Sistematic) Components in Tehran Stock Exchange. Master’s Thesis. Kharazmi University.##(in persian).##[44] Pronobis, P., Schwetzler, B., Sperling, M., &amp; Zuelch, H. (2009). The development of earnings quality in Germany and its implication for further research: A quantitative empirical analysis of German listed companies between 1997 and 2006. Available at: http://ssrn.com.##[45] Rezazadeh, J., Garoosi, H. (2011). The differential persistence of accrual and cash flow components of earnings and predicting of future profitability. Iranian Journal of Acoouning and Auditing Review, 63(1): 81-94. (in persian).##[46] Salehpour, A., Sabaghian Toosi, O., &amp; Sahari, M. R. (2015). The comparison of investors’ income-making expectations via considering the persistence of earnings components and stock prices in firms with the majority ownership by government and private sector. Iranian Journal of Accounting Knowledge and Research, 41(2): 26-48. (in persian).##[47] Schiemann, F., Guenther, T. (2013). Earnings predictability, value relevance and employee expenses. The International Journal of Accounting, 48(2): 149–172.##[48] Toreini, M. (2010). Investigation of Relationship Between Earnings Volatility and Earnings Predictability. Master’s Thesis. Emam Khomeini University. (in persian).##[49] Valipour, H., Ashub, M. (2011). Investigating earnings volatility and future earnings predictability in firms listed in Tehran Stock Exchange. Financial Engineering and Securities Management, 7(2): 21-34. (in persian).##[50] Wan Ismail, W. A., Kamarudin, K. A., &amp; Sarman, S. R. (2015). The quality of earnings in shariah-compliant companies: Evidence from Malaysia. Journal of Islamic Accounting and Business Research, 6(1): 19-41.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE></ARTICLES>
+</JOURNAL>
+
+				</XML>
+				

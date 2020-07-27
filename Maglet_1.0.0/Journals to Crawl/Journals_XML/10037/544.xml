@@ -1,0 +1,770 @@
+
+	<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2020-07-26T15:49:27+04:30</responseDate>
+	<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.1002">http://jeg.khu.ac.ir/browse.php?mag_id=358&amp;slc_lang=fa&amp;sid=1</request>
+	<ListRecords>
+		
+			
+				<record>
+					<header>
+						<identifier>358-1957</identifier>
+						<datestamp>2020-07-26</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Engineering Geology</full_title>
+									<abbrev_title>jeg</abbrev_title>
+									<issn media_type="print">2228-6837</issn>
+									<issn media_type="electronic"></issn>
+									<doi_data>
+										<doi>10.18869/acadpub.jeg</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Detecting Cylindrical Targets Characteristics Hidden in GPR Images Using Artificial Neural Network and Template Matching</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Reza</given_name>
+					<surname>Ahmadi</surname>
+					<email>rezahmadi@gmail.com</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Nader</given_name>
+					<surname>Fathianpour</surname>
+					<email>fathian@cc.iut.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Gholam-Hossain</given_name>
+					<surname>Norouzi</surname>
+					<email>norouzih@ut.ac.ir</email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			Ground-Penetrating Radar (GPR) is a non-destructive and high-resolution geophysical method which uses high-frequency electromagnetic (EM) wave reflection off buried objects to detect them. In current research this method has been used to identify geometrical parameters of buried cylindrical targets such as tunnel structures. To achieve this aim, relationships between the geometrical parameters of cylindrical targets with the parameters of GPR hyperbolic response have been determined using two intelligent pattern recognition methods known as artificial neural network and template matching. To this goal GPR responses of synthetic cylindrical objects produced by 2D finite-difference method have been used as templates in the neural network and template matching algorithms. The structure of applied neural network has been designed based on extracting discriminant and unique features (eigenvalues and the norm of eigenvalues) from the GPR images and predicting all geometrical parameters of the targets, simultaneously. Also the template matching operation carried out using two diverse similarity approaches, spatial domain convolution and normalized cross correlation in 2D wave number domain. The results of the research show that both two employed intelligent methods can be applied for in situ, real-time, accurate and automatic interpretation of real GPR radargrams, however in general the neural network method has led to less error and better estimation than template matching to predict the geometrical parameters of the cylindrical tar
+			</abstract>
+				<keywords>
+	<keyword>Ground-Penetrating Radar (GPR)</keyword>
+	<keyword>Geometrical parameters of cylindrical targets</keyword>
+	<keyword>Artificial neural network</keyword>
+	<keyword>Template matching</keyword>
+	<keyword>Normalized cross correlation</keyword>
+	<keyword></keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>3</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>3069</first_page>
+								  <last_page>3092</last_page>
+							  </pages>
+								  <fullTextUrl>http://jeg.khu.ac.ir/article-1-1957-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi>10.18869/acadpub.jeg.9.4.3069</doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>358-1958</identifier>
+						<datestamp>2020-07-26</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Engineering Geology</full_title>
+									<abbrev_title>jeg</abbrev_title>
+									<issn media_type="print">2228-6837</issn>
+									<issn media_type="electronic"></issn>
+									<doi_data>
+										<doi>10.18869/acadpub.jeg</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Landslide Hazard Zonation using Fuzzy Logic and Density Area Model (Case Study: Kakasheraf Basin, Southwest Khorramabad)</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>salman</given_name>
+					<surname>soori</surname>
+					<email>soorisalman@yahoo.com</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Siamak</given_name>
+					<surname>Baharvand</surname>
+					<email>baharvand_si@yahoo.com</email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			Landslide is one of the mass movement processes that occur in Iran and parts of the world every year. It causes huge human loss and economical damages. In order to check the stability of slopes in Kakasheraf basin, in the first step sliding areas were identified using the aerial photography and field surveys and then distribution map of landslide is provided. The impact of each of these factors which included dip, aspect, altitude, lithology, landuse and distance from the road and drainage are assessed through Arc GIS software merging the effective factors on landslide with the landslide distribution map. Then these factors were prioritized using AHP model. In this study, the fuzzy logic and density area method has been used in the Kakasheraf basin in order to identify landslide hazard zonation. The empirical probability index (EPI) has been used to assess and classify the models outputs in the landslide risk estimation.Results show that the fuzzy logic is more applicable method than density area model for mapping the landslide risk in Kakasheraf basin
+			</abstract>
+				<keywords>
+	<keyword>Landslide</keyword>
+	<keyword>Kakasheraf basin</keyword>
+	<keyword>Fuzzy logic</keyword>
+	<keyword>AHP</keyword>
+	<keyword>Density area</keyword>
+	<keyword></keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>3</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>3093</first_page>
+								  <last_page>3112</last_page>
+							  </pages>
+								  <fullTextUrl>http://jeg.khu.ac.ir/article-1-1958-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi>10.18869/acadpub.jeg.9.4.3093</doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>358-2020</identifier>
+						<datestamp>2020-07-26</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Engineering Geology</full_title>
+									<abbrev_title>jeg</abbrev_title>
+									<issn media_type="print">2228-6837</issn>
+									<issn media_type="electronic"></issn>
+									<doi_data>
+										<doi>10.18869/acadpub.jeg</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Identification and Separation of Massive and Debris Lime Stones by Integrated Application of Remote Sensing and Geomorphology Approaches (Case study: Bahadoran region in Yazd province)</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>samaneh</given_name>
+					<surname>poormohammadi</surname>
+					<email>s.poormohammadi@yahoo.com</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>M.R.</given_name>
+					<surname>Ekhtesasi</surname>
+					<email>mr_ekhtesasi@yazduni.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>M.H.</given_name>
+					<surname>Rahimian</surname>
+					<email>mhrahimian@gmail.com</email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			Mountains are usually formation origin of their neighbor land surface features such as hillsides and plains. some problems and errors may occur in application of RS technique for generation of geology maps and in separation of these units from other similar units. The main objective of this study is to integrate RS and geomorphology approaches for identification of different geomorphology units and finally separation of debris lime stones from massive lime stones in Bahadoran region, Yazd province. For this purpose, a Landsat ETM+ image was acquired together with band ratios, principal component analysis and factor analysis approaches to generate lime stone distribution map. Results of this study show that (integration of RS and geomorphology sciences) can better generate the lime stone distribution map compared with the first one
+			</abstract>
+				<keywords>
+	<keyword>limestone formation</keyword>
+	<keyword>Geomorphology unit</keyword>
+	<keyword>Lithology unit</keyword>
+	<keyword>Plain</keyword>
+	<keyword>Mountain</keyword>
+	<keyword>RS</keyword>
+	<keyword>Landsat</keyword>
+	<keyword></keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>3</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>3113</first_page>
+								  <last_page>3130</last_page>
+							  </pages>
+								  <fullTextUrl>http://jeg.khu.ac.ir/article-1-2020-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi>10.18869/acadpub.jeg.9.4.3113</doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>358-2023</identifier>
+						<datestamp>2020-07-26</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Engineering Geology</full_title>
+									<abbrev_title>jeg</abbrev_title>
+									<issn media_type="print">2228-6837</issn>
+									<issn media_type="electronic"></issn>
+									<doi_data>
+										<doi>10.18869/acadpub.jeg</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Comparison of the Effects of Cement, Lime and CBR PLUS on the Reduction of Swelling Potential of Clayey Soils</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>H.</given_name>
+					<surname>Taherkhani</surname>
+					<email>taherkhani.hasan@yahoo.com</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>M.</given_name>
+					<surname>Javanmard</surname>
+					<email>mehranjav@yahoo.com</email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			One of the major problems associated with the clayey soils is the swelling potential due to moisture absorption, which results in applying high pressure on the superstructures, and may cause failure or large deformation of the structures. Among the solutions to mitigate the swelling problem of clayey soils is their stabilization using additives. This study aims to compare the effects of three types of additives on the reduction of swelling potential of two types of clayey soils, with two different plasticity indexes. The additives used in this research include two traditional additives namely, cement and lime, and one type of nontraditional stabilizer namely, CBR PLUS nano polymer. These additives were added to the soils in different contents, and the Atterburg limits, and the swelling of the soils were measured at different times after addition of the additives. The results show that the CBR PLUS is more effective in reducing the swelling potential of the soil with high plasticity index, by which, the swelling was reduced by 1500%, while the addition of  lime and cement reduced the swelling about 1000%. For the soil with low plasticity index, the cement is found to be more effective than the lime and CBR PLUS in reducing the swelling potential. The addition of 7% of cement resulted in 1400% of reduction in swelling, against 600% reduction for the addition of the same content of lime. In addition, it is found that the CBR PLUS and cement are, respectively, more effective in reducing the plasticity index of the soil with high and low plasticity index
+			</abstract>
+				<keywords>
+	<keyword>Clay</keyword>
+	<keyword>Cement</keyword>
+	<keyword>Lime</keyword>
+	<keyword>CBR PLUS</keyword>
+	<keyword>Plasticity index</keyword>
+	<keyword>Swelling</keyword>
+	<keyword></keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>3</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>3131</first_page>
+								  <last_page>3150</last_page>
+							  </pages>
+								  <fullTextUrl>http://jeg.khu.ac.ir/article-1-2023-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi>10.18869/acadpub.jeg.9.4.3131</doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>358-2058</identifier>
+						<datestamp>2020-07-26</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Engineering Geology</full_title>
+									<abbrev_title>jeg</abbrev_title>
+									<issn media_type="print">2228-6837</issn>
+									<issn media_type="electronic"></issn>
+									<doi_data>
+										<doi>10.18869/acadpub.jeg</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Recommendation of Earthquake Equivalent Horizontal Acceleration Coefficient in Polymeric Strips Reinforced Soil Retaining W</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Maryam</given_name>
+					<surname>Yazdi</surname>
+					<email>yazdi_ma@yahoo.com</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Ali</given_name>
+					<surname>Komak Panah</surname>
+					<email>a-panah@modares.ac.ir</email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			As usage of reinforced soil structures is highly increased in seismic active zones, the analysis of dynamic behavior of these structures begins to be of great significance.  The present paper is an attempt to study the seismic behavior of reinforced soil retaining walls with polymeric strips. The consequences of the most principal parameters counting the length of reinforcement, reinforcement arrangements (zigzag vs. parallel), maximum base input acceleration and wave frequency on the wall displacement have been investigated for sensitivity analyses. The main drawback of numerical methods in dynamic analysis is being very time consuming. Therefore, determination of equivalent coefficients is a suitable, easy and beneficent approach to converge   results of   pseudo-static and dynamic methods. In this case, a relatively accurate design is achieved by using pseudo-static method that takes less time. To this end, an earthquake equivalent horizontal acceleration coefficient is proposed by considering horizontal displacement of the wall as the basis for comparison
+			</abstract>
+				<keywords>
+	<keyword>Retaining wall</keyword>
+	<keyword>reinforced Soil</keyword>
+	<keyword>polymeric strips</keyword>
+	<keyword>dynamic analysis</keyword>
+	<keyword>earthquake equivalent horizontal acceleration coefficient</keyword>
+	<keyword></keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>3</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>3151</first_page>
+								  <last_page>3174</last_page>
+							  </pages>
+								  <fullTextUrl>http://jeg.khu.ac.ir/article-1-2058-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi>10.18869/acadpub.jeg.9.4.3151</doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>358-2057</identifier>
+						<datestamp>2020-07-26</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Engineering Geology</full_title>
+									<abbrev_title>jeg</abbrev_title>
+									<issn media_type="print">2228-6837</issn>
+									<issn media_type="electronic"></issn>
+									<doi_data>
+										<doi>10.18869/acadpub.jeg</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Application of Geostatistical Methods in Analyzing Water Table of Embankment Dams A Case Study: Shahghasem Dam</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>S.</given_name>
+					<surname>Nooraee-Nejad</surname>
+					<email>snoraie@yahoo.com</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>mohammad</given_name>
+					<surname>sedghi asl</surname>
+					<email>msedghi@yu.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>M.</given_name>
+					<surname>Parvizi</surname>
+					<email>parvizi@yu.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="4">
+					<given_name>A</given_name>
+					<surname>Shokrolahi</surname>
+					<email>a_shokr22@yahoo.com</email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			Stability and safety of the dam is one of the most important challenges during construction and operation. The aim of this study is to make accurate water table and piezometric heads through embankment and its foundation of the Shahghasem dam which is located near Yasouj city. Applying geostatistical, Simple Kriging, Ordinary Kriging and Weighted Moving Average, interpolation was done using Gaussian, exponential and spherical models. For comprising the results, we use the statistical index including MAE, MBE, RMSE and GSD. Results indicate that Simple Kriging with Gaussian model is the best one, while Ordinary Kriging with Gaussian model and Ordinary Kriging with spherical model are in the next order. The Weighted Moving Average method with different exponents shows a significant error comparing to other methods. As a result, the depicted maps display a cavity through foundation near right abutment of the dam. Finally, existence of probable cavity in foundation may cause piping and internal erosion
+			</abstract>
+				<keywords>
+	<keyword>Embankment Dam</keyword>
+	<keyword>Piezometric Head</keyword>
+	<keyword>Kriging</keyword>
+	<keyword>Interpolation</keyword>
+	<keyword></keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>3</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>3175</first_page>
+								  <last_page>3192</last_page>
+							  </pages>
+								  <fullTextUrl>http://jeg.khu.ac.ir/article-1-2057-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi>10.18869/acadpub.jeg.9.4.3175</doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>358-2018</identifier>
+						<datestamp>2020-07-26</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Engineering Geology</full_title>
+									<abbrev_title>jeg</abbrev_title>
+									<issn media_type="print">2228-6837</issn>
+									<issn media_type="electronic"></issn>
+									<doi_data>
+										<doi>10.18869/acadpub.jeg</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Protection against gamma rays with heavy concrete application of lead slag-containing</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>alimohammad</given_name>
+					<surname>ajorloo</surname>
+					<email>am_ajorloo@sbu.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>A.</given_name>
+					<surname>Yadolahi</surname>
+					<email>a.yadollahi@mail.sbu.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>A.R.</given_name>
+					<surname>Zolfaghari</surname>
+					<email>a.zolfaghari@sbu.ac.ir</email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			The use of heavy concrete as a protective shield against high-energy gamma rays is very common. It is also an effective, versatile and economical material. The heavy concrete production can use lead slag as raw materials. The use of lead slag in the production of concrete blocks saves natural resources and reduces the environmental problems caused by the accumulation of industrial waste. However, concrete production, due to the presence of heavy metals with high atomic number can be used as an effective shield against gamma radiation. This study examines the use of lead slag produced in the battery recycling process as concrete aggregates. For this purpose, strength and gamma-ray attenuation coefficient for concrete samples prepared by replacing 40 to 60 percent lead slag instead of natural aggregate. The effect of 1 to 5 percent lead powder in setting time of concrete was measured. The results showed that by increasing the amount of lead slag, density, mechanical strength and gamma-ray attenuation coefficient for concrete samples increased significantly, but lead powder delays setting time of cement paste. In general, appropriate lead slag concrete construction with minimal thickness, reduce the cost of protection and provides the highest level of attenuation
+			</abstract>
+				<keywords>
+	<keyword>Heavy concrete</keyword>
+	<keyword>lead slag</keyword>
+	<keyword>Gamma radiation</keyword>
+	<keyword>Mechanical strength</keyword>
+	<keyword>attenuation coefficient</keyword>
+	<keyword></keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>3</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>3193</first_page>
+								  <last_page>3206</last_page>
+							  </pages>
+								  <fullTextUrl>http://jeg.khu.ac.ir/article-1-2018-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi>10.18869/acadpub.jeg.9.4.3193</doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>358-2021</identifier>
+						<datestamp>2020-07-26</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Engineering Geology</full_title>
+									<abbrev_title>jeg</abbrev_title>
+									<issn media_type="print">2228-6837</issn>
+									<issn media_type="electronic"></issn>
+									<doi_data>
+										<doi>10.18869/acadpub.jeg</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Shear Wave Velocity data Survey and Estimation of Necessary Depth for Dynamical Analysis of Deposit Effect in Mashhad</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>R.</given_name>
+					<surname>Yazdanfar</surname>
+					<email>ro_yazdanfar@yahoo.com</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>N.</given_name>
+					<surname>Hafezi Moghadas</surname>
+					<email>nhafezi@um.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>H</given_name>
+					<surname>Sadeghi</surname>
+					<email>sadeghi@um.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="4">
+					<given_name>MR</given_name>
+					<surname>Ghayamghamian</surname>
+					<email>mrgh@iiees.ac.ir</email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			 The average of shear wave velocity of the upper 30 m has so far been one of the reliable parameters in seismic site classification in different building codes, despite the numerous weaknesses in the exact explanation of site dynamic characteristics. In this study, an empirical relationship is obtained between the average of the shear wave velocity of the upper 30 m and the average of the shear wave velocity of shallower depths, based on 79 shear wave velocity profiles, in Mashhad. This is followed by the recommendation of proper depths for the dynamic analysis of the site effect based on the information of shear wave velocity profiles and resonance period distribution in the investigated area. The depth of the S-wave velocity profile investigation, required for the analysis of deposit effects has been estimated more than 30 m. whith exception of the southern and western parts of Mashhad (adjacent hillsides). Such depth is estimated as about 80 m for central, eastern, and north-eastern areas, where the resonance period is more than 0.7 s. Therefore, investigation depth of 30 m is only adequate for site classification based on the building codes, and for theoretical analysis deeper studies is needed, in Mashhad
+			</abstract>
+				<keywords>
+	<keyword>The average of the shear wave velocity</keyword>
+	<keyword>investigation depth</keyword>
+	<keyword>resonance period</keyword>
+	<keyword>Mashhad</keyword>
+	<keyword>Standard No. 2800</keyword>
+	<keyword></keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>3</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>3207</first_page>
+								  <last_page>3226</last_page>
+							  </pages>
+								  <fullTextUrl>http://jeg.khu.ac.ir/article-1-2021-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi>10.18869/acadpub.jeg.9.4.3207</doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+			
+		</ListRecords>
+		</OAI-PMH>
+		 
+  
+  
+  
+  
+ 

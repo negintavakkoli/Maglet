@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>7</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2015</Year>
+					<Month>06</Month>
+					<Day>22</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Priority of Mobile Health Applications and its Infrastructures</ArticleTitle>
+<VernacularTitle>اولویت‌بندی کاربرد‌های سلامت همراه و زیرساخت‌های ارتباطی آن</VernacularTitle>
+			<FirstPage>407</FirstPage>
+			<LastPage>428</LastPage>
+			<ELocationID EIdType="pii">54342</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2015.54342</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Malek Milad</FirstName>
+					<LastName>Liravi</LastName>
+<Affiliation>MSc. Student in Information Technology Management, Electronic Campus of Islamic Azad University, Tehran, Iran.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Asadollah</FirstName>
+					<LastName>Shahbahrami</LastName>
+<Affiliation>Associate Prof., Department of Computer Engineering, Faculty of Engineering, University of Guilan, Rasht, Iran.</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2014</Year>
+					<Month>10</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>Developing of mobile technologies in the field of health create a new branch of e-Health called mobile-health. The goal of this study is evaluation of communications infrastructure for mobile-health. For this purpose, fuzzy analytic hierarchy process is used for modeling and ranking the criterions and applications. Three main criteria in mobile communication network namely, data transmission, application services, and the accessing to the network were chosen. Then, sub-criteria of technological infrastructure were classified according to three main criteria using the Delphi and fuzzy Delphi techniques and thirteen applications for mobile-health was added to it as alternatives. The results show that the accessing to the mobile network has the highest weight (0.5656) and priority. The second criterion is data transmission (0.4184) and finally application services in mobile communication networks (0.0159) are the last factor. It has a large gap from other two factors. According to the obtained results, community mobilization, electronic health records of patient and patient monitoring have the highest weight 0.0981, 0.0878 and 0.0876, respectively, and these are the top priorities of mobile-health applications.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Cellular phone</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">e-readiness assessment</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Fuzzy Analytical Hierarchy Process</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Mobile health</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_54342_de7a7d79a3eb162823a431d74639f2b2.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

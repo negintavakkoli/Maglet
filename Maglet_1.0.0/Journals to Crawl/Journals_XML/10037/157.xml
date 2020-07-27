@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1393</year>
+	<month>9</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2014</year>
+	<month>12</month>
+	<day>1</day>
+</pubdate>
+<volume>8</volume>
+<number>3</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>تعیین ویژگی های هندسه ناپیوستگی ها با استفاده از تکنیک های پردازش تصویر دیجیتال</title_fa>
+	<title>Determination of geometrical properites of discontiniuties by using digital image processing method</title>
+	<subject_fa>ژئوتکنیک (مکانیک خاک و سنگ)</subject_fa>
+	<subject>Geotecnic</subject>
+	<content_type_fa>مقاله استخراج شده از پایان نامه</content_type_fa>
+	<content_type>Research Paper</content_type>
+	<abstract_fa>اندازه¬گیری درجای هندسه ناپیوستگی¬ها در توده¬های سنگی به روش دستی، غالباً کند و پرهزینه می¬باشد. همچنین در بسیاری از موارد، قسمت بزرگی از رخنمون سنگ دور از دسترس بوده و برداشت آن خطرناک است. بنابراین دستیابی به روشی سریع و ایمن جهت بدست آوردن پارامترهای هندسی ناپیوستگی¬ها ضرورت دارد. برای این منظور، تکنیک¬های توسعه یافته در حوزه پردازش تصاویر دیجیتال بسیار کارآمد و مفید می¬باشند. در این مطالعه، یک روش خودکار برای تعیین هندسه ناپیوستگی-ها با استفاده از تصاویر دیجیتالی بدست آمده از رخنمون توده سنگ، ارائه می¬شود. از مزایای این روش نسبت به روش¬های دستی می¬توان به ایمن بودن، کم هزینه بودن، کم وقت¬گیر بودن، داشتن توانایی برداشت تمامی درزه¬ها، رخ دادن خطای کمتر و حذف خطای انسانی در بدست آوردن داده¬ها اشاره کرد. در طی پیاده¬سازی مراحل سیستم آنالیز خودکار هندسه ناپیوستگی¬ها، ابتدا فیلترهای متنوعی بر روی تصاویر دیجیتالی بمنظور حذف نویز و بهبود تصاویر اعمال می¬شود. سپس با توجه به میزان اختلاف سطح خاکستری ناپیوستگی¬ها با زمینه رخساره، ناپیوستگی¬های موجود در رخساره سنگ توسط آشکارساز کنی، آشکارسازی می-شوند. در ادامه از تبدیل هاف برای توصیف ناپیوستگی¬ها بر حسب مختصات قطبی استفاده می¬شود. در مرحله بعد با استفاده از روش¬های فازی، تعداد و مرکز دسته درزه¬ها و اعضای هر دسته درزه به صورت خودکار مشخص می¬شود. در نتیجه پیاده¬سازی این الگوریتم برخی از مشخصه¬های هندسه ناپیوستگی¬ها نظیر زاویه اثر، فاصله¬داری، چگالی درزه¬داری و تداوم ناپیوستگی¬ها بدست آمده و شاخص کیفیت سنگ (RQD)، در هر راستای دلخواه بدست می¬آید. این روش می¬تواند به عنوان تکنیکی برای برداشت منظم درزه¬ها و ساخت یک پایگاه بزرگ و دائمی برای تعیین خصوصیات هندسی توده¬های سنگی به شمار رود.</abstract_fa>
+	<abstract>The in situ measurement of discontinuity geometry of rock mass exposures is a time consuming and sometimes hazardous process. Moreover, a large proportion of the exposure is often inaccessible. Thus, a fast and safe tool is required in order to acquire the information which characterizes the geological/structural regime. Digital image processing techniques provide the necessary tools for realizing this goal. This paper presents a methodology for automated discontinuity trace detection in digital images of rock mass exposures. In this study at first based on difference in gray level discontinuities with the face, fracture traces detected in images of rock face. Then some parameters of discontinuities geometry such as spacing, linear joint density, persistence, trace angle of joints and value of RQD are obtained. The Automated discontinuity geometry analysis system including: 1- Providing a digital image from rock face 2- The pre-processing on the images 3- Detection of edge or joint traces by the canny detector 4- Description of the edges using line detector by the Hough transform 5- The joint sets estimation using fuzzy methods and 6- Description the rock mass geometry properties.</abstract>
+	<keyword_fa>هندسه ناپیوستگی‌ها , پردازش تصویر دیجیتال , آشکارساز کنی , تبدیل هاف , روش‌های فازی , </keyword_fa>
+	<keyword>discontinuity geometry , digital image processing , canny detector , Hough transform , fuzzy methods , </keyword>
+	<start_page>2301</start_page>
+	<end_page>2318</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-236-1&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>AR</first_name>
+	<middle_name></middle_name>
+	<last_name>Yarahmad</last_name>
+	<suffix></suffix>
+	<first_name_fa>علیرضا</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>یاراحمدی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>ayarahmadi@yazduni.ac.ir</email>
+	<code>1003194753284600339</code>
+	<orcid>1003194753284600339</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه یزد</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>S</first_name>
+	<middle_name></middle_name>
+	<last_name>Kakamami</last_name>
+	<suffix></suffix>
+	<first_name_fa>سلیمان</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>کاک ممی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>s.kakamami@gmail.com</email>
+	<code>1003194753284600340</code>
+	<orcid>1003194753284600340</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه یزد</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>J</first_name>
+	<middle_name></middle_name>
+	<last_name>Gholamnejad</last_name>
+	<suffix></suffix>
+	<first_name_fa>جواد</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>غلام نژاد</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>j.gholamnejad@yazduni.ac.ir</email>
+	<code>1003194753284600341</code>
+	<orcid>1003194753284600341</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>عضو هیئت علمی دانشگاه یزد</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>MT</first_name>
+	<middle_name></middle_name>
+	<last_name>Ssadeghi</last_name>
+	<suffix></suffix>
+	<first_name_fa>محمد تقی</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>صادقی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>m.sadeghi@yazduni.ac.ir</email>
+	<code>1003194753284600342</code>
+	<orcid>1003194753284600342</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه یزد</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Majid</first_name>
+	<middle_name></middle_name>
+	<last_name>Mobini</last_name>
+	<suffix></suffix>
+	<first_name_fa>مجید</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>مبینی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>majidmobini2004@gmail.com</email>
+	<code>1003194753284600343</code>
+	<orcid>1003194753284600343</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه یزد</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

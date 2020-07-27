@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>انجمن زبان شناسی ایران</PublisherName>
+				<JournalTitle>زبان و زبان‌شناسی</JournalTitle>
+				<Issn></Issn>
+				<Volume>7</Volume>
+				<Issue>14</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2011</Year>
+					<Month>09</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Building an Ontology for Persian Morphological Terms</ArticleTitle>
+<VernacularTitle>طراحی هستان‌شناسیِ اصطلاحاتِ ساخت‌واژه در زبان فارسی</VernacularTitle>
+			<FirstPage>25</FirstPage>
+			<LastPage>39</LastPage>
+			<ELocationID EIdType="pii">1447</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>علی</FirstName>
+					<LastName>رضاقلی فامیان</LastName>
+<Affiliation>دانشگاه پیام نور</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>فاطمه</FirstName>
+					<LastName>معصومی</LastName>
+<Affiliation>دانشجوی دکترای زبان شناسی همگانی</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2011</Year>
+					<Month>05</Month>
+					<Day>23</Day>
+				</PubDate>
+			</History>
+		<Abstract>In computer science and artificial intelligence, an ontology is a computational system which collects entities of a specific domain such as terminology of a scientific field and displays their semantic-conceptual relations. This paper reports on a project for building a domain ontology for Persian morphological terms, seeking to answer three questions: (1) how can we design an ontology for Persian morphology? (2) How much mapping is there between our developed ontology and GOLD ontology? (3) What novel perspective is achieved through designing Persian morphological terms’ ontology? To answer these questions, the linguistics ontology, GOLD, was first introduced. Then, morphology as well as the semantic-conceptual relations held among morphological terms were defined. Morphological terms were then extracted from a vast number of resources and implemented in the ontology. The findings of the study provide a novel picture of Persian morphology as well as a promising perspective for future studies on domain ontology. </Abstract>
+			<OtherAbstract Language="FA">در چارچوب علوم رایانه و هوش مصنوعی، هستان‌شناسی سامانه‌ای رایانه‌ایینههای یۀ معین مانند اصطلاحات یۀ علمی را گردهم می‌آورد و روابط معنایی- مفهومیِ میی‌دهد. در این مقاله، ضمن معرفی مفهوم هستان‌شناسییم به سه پرسش پاسخ دهیم: 1). چه‌گونه می‌توان برای حوزۀ ساخت‌واژه در زبان فارسی، هستان‌شناسی تهیین هستان‌شناسیِ حوزۀ ساخت‌واژه در زبان فارسی و هستان‌شناسیِ اصطلاحات زبان‌شناسیِ گولد در زبان انگلیسی تاچه‌میزان نگاشت وجود دارد؟ 3). طراحی هستان‌شناسیِ حوزۀ ساخت‌واژه درزبان فارسی، چه تصویر جدیدی از این حوزه ارائه می‌دهد؟ برای پاسخ به این پرسش‌ها، 320 اصطلاح ساخت‌واژی از منابع صرف و نحو زبان فارسی استخراج و در یۀ رایانه‌ای درج شدند. در مرحلۀ بعد، اصطلاحات موجود را با استفاده از هفت رابطۀ معنایی و واژگانی شامل (1) شمول معنایی، (2) هم‌معنایی، (3) تقابل، (4) مشتقات، (5) مشخصۀ تعریفی، (6) نیاز دارد و (7) ابزار، سامان‌دهییم. نتایج پژوهش نشان داد در 59% از موارد میان اصطلاحات موجود در سامانۀ پژوهش حاضر و اصطلاحات موجود در هستان‌شناسی گولد، نگاشت وجود ندارد. همچنین یافته‌معنایی پربسامدترین و مشتقات ‌بسامدترین رابطه در هستان‌شناسی اصطلاحات ساخت‌واژی است. </OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">هستان‌شناسی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ساخت‌واژه</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">روابط معنایی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">اصطلاح</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">زبان فارسی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://lsi-linguistics.ihcs.ac.ir/article_1447_88acc26fb9ea229a4ac7a645a169a9ce.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

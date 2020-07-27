@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Explaining the Model of Bankruptcy Prediction to Identify Healthy and Risky</ArticleTitle>
+<VernacularTitle>تبیین مدل ورشکستی جهت شناسایی بانک‌های سالم و در معرض خطر</VernacularTitle>
+			<FirstPage>1</FirstPage>
+			<LastPage>18</LastPage>
+			<ELocationID EIdType="pii">21174</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21174</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>اعظم</FirstName>
+					<LastName>احمدیان</LastName>
+<Affiliation>استادیار گروه بانکداری ، پژوهشکده پولی و بانکی، تهران، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مهسا</FirstName>
+					<LastName>گرجی</LastName>
+<Affiliation>کارشناس ارشد مهندسی مالی،گروه مهندسی صنایع، دانشکده مهندسی صنایع، دانشگاه رجاء، قزوین، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>07</Month>
+					<Day>11</Day>
+				</PubDate>
+			</History>
+		<Abstract>Bank failure is a phenomenon that has attracted the attention of the central bank, banks and financial institutions. Since the signs of potential failure are detected before the bankruptcy, identifying warning variables, and prediction of the crisis timely provide an opportunity for managers and creditors to create preventive activities. In this paper, using the financial statements in the period 1385-1393 and Z-score index as an indicator of bankruptcy, bank failures are detected. To identify the failed banks, we use the kernel function of the index and the stress of index is calculated. Banks that are under stress point are considered risky and otherwise healthy. For estimate of model, discriminate analysis was used to identify the factors that enable to distinguish healthy and risky banks, then, using the logit model, a model was developed for predicting banks failure. To verify separation of two groups of banks we checked Wilks Lambda, F and two independent samples mean, then to evaluate the importance of the different independent variables in a model we used intercorrelation between variables. The results showed 87 percent accuracy of discriminant analysis and 98.2 percent logit model in compliance with the Iran`s banking network environment.</Abstract>
+			<OtherAbstract Language="FA">ورشکستگی بانک‌ها پدیده‌ای است که اخیراً بانک مرکزی، بانک‌ها و مؤسسات مالی و اعتباری به آن توجه کرده‌اند. از آنجایی‌که نشانه‌های بالقوۀ ورشکستگی قبل از وقوع ورشکستگی نمایان می‌شود؛ شناسایی متغیرهای هشدار و پیش‌بینی به‌موقع و صحیح این بحران، فرصتی را در اختیار مدیران و اعتباردهندگان برای انجام فعالیت‌های بازدارنده قرار می‌دهد. در این مقاله تلاش می‌شود با استفاده از صورت‌های مالی بانک‌های کشور در دورۀ زمانی 1385-1393 و به‌کارگیری شاخص ثبات بانکی به‌عنوان شاخص‌ ورشکستگی، بانک‌های ورشکسته شناسایی شوند. برای شناسایی بانک‌های ورشکسته، تابع کرنل این شاخص، ترسیم و نقطۀ استرس آن محاسبه شد، به‌گونه‌ای‌که بانک‌هایی که کمتر از نقطۀ استرس قرار دارند، ورشکسته و در  غیر این صورت سالم در نظر گرفته شدند. برای برآورد الگو، ابتدا با به‌کارگیری روش تجزیه تشخیص، عواملی که بانک‌های سالم و در معرض خطر را می‌توانند بشناسند، شناسایی و سپس با به‌کارگیری الگوی لاجیت، الگوی مناسب برای پیش‌بینی ورشکستگی بانک‌ها طراحی شد. برای بررسی صحت تفکیک دو نمونۀ سالم و ورشکسته با استفاده از آزمون F و لامبدای ویلکس، میانگین متغیرهای مستقل دو نمونه بررسی و سپس برای بررسی تفاوت اهمیت متغیرهای مستقل الگو از آزمون بزرگی همبستگی درون‌گروهی بین متغیرها استفاده شد. نتایج نشان‌دهندۀ دقت 87 درصدی الگوی تجزیه تشخیص و 2/98 درصدی الگو لاجیت در انطباق با شرایط محیطی شبکۀ بانکی کشور است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">نسبت‌های مالی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ورشکستگی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تجزیه تشخیص</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">لاجیت</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21174_8c748cca5c734876eaa948f377cc3191.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Increasing Dividend Policy Outcomes in Terms of Financial Constraints and Competition</ArticleTitle>
+<VernacularTitle>بررسی پیامدهای سیاست سود تقسیمی رو به رشد در شرایط محدودیت مالی و موقعیت رقابتی</VernacularTitle>
+			<FirstPage>19</FirstPage>
+			<LastPage>34</LastPage>
+			<ELocationID EIdType="pii">21180</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21180</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>مهدی</FirstName>
+					<LastName>مشکی میاوقی</LastName>
+<Affiliation>دانشیار مالی، گروه حسابداری، دانشگاه پیام نور، رشت، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>فاطمه</FirstName>
+					<LastName>صرفه جو</LastName>
+<Affiliation>کارشناس ارشد، حسابداری ، دانشگاه آزاد اسلامی- واحد رشت</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>10</Month>
+					<Day>27</Day>
+				</PubDate>
+			</History>
+		<Abstract>The main purpose of this study is to investigate the consequences of the growing dividend policy in terms of financial constraints and conpetition. The investigation covers five years 2010-2014 and the sample consists of 145 listed companies in Tehran’s Stock Exchange. The dynamic analysis is conducted using a combination of the GMM approach and instrumental variables to check for endogeneity in variables. According to the results, the reaction of the capital market and stock turnover of companies after increasing dividend in firms with financial constraints, compared with firms without financial constraints, is weaker. This is especially the case for constrained firms that are in more competitive industries.</Abstract>
+			<OtherAbstract Language="FA">هدف پژوهش حاضر، بررسی پیامدهای سیاست افزایش سود تقسیمی در شرایط محدودیت مالی و با توجه به موقعیت رقابتی شرکت‌ها است. نمونۀ آماری پژوهش شامل 145 شرکت است که در دورۀ زمانی 1389 تا 1393 از بین شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران انتخاب و آزمون فرضیه‌ها نیز به کمک داده‌های تلفیقی و روش حداقل مربعات تعمیم‌یافته و روش گشتاورهای تعمیم‌یافته انجام شده است. یافته‌های پژوهش نشان می دهد واکنش بازار سرمایه (شامل بازده غیرعادی و گردش معاملات) به افزایش سود تقسیمی در شرکت‌هایی با محدودیت مالی نسبت به شرکت‌های بدون محدودیت مالی، ضعیف تر است. همچنین کاهش تمرکز و درنتیجه، افزایش رقابت در فروش محصولات در شرکت هایی با محدودیت مالی، باعث تضعیف بیشتر واکنش بازار به خبر افزایش سود تقسیمی می شود.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">تقسیم سود</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">رقابت</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">محدودیت در تأمین مالی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">واکنش بازار سرمایه</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21180_f43dd22eca6b667e4d226b144ce71bc5.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Capital Structure Stability in Tehran Stock Exchange</ArticleTitle>
+<VernacularTitle>بررسی ثبات ساختار سرمایه در بورس اوراق بهادار تهران</VernacularTitle>
+			<FirstPage>35</FirstPage>
+			<LastPage>56</LastPage>
+			<ELocationID EIdType="pii">21182</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21182</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>منیژه</FirstName>
+					<LastName>رامشه</LastName>
+<Affiliation>دانشجوی دکتری حسابداری، دانشکده علوم اجتماعی و اقتصاد، گروه حسابداری، دانشگاه الزهراء</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>غلامرضا</FirstName>
+					<LastName>سلیمانی امیری</LastName>
+<Affiliation>دانشیار دانشکده علوم اجتماعی و اقتصاد، گروه حسابداری، دانشگاه الزهراء</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>رسول</FirstName>
+					<LastName>اسکندری</LastName>
+<Affiliation>مدرس بخش حسابداری و مالی، دانشگاه سالفورد انگلستان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محسن</FirstName>
+					<LastName>قره خانی</LastName>
+<Affiliation>استادیارگروه مهندسی مالی، دانشکده مالی، موسسه آموزش عالی ایرانیان، تهران، ایران.</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>11</Month>
+					<Day>03</Day>
+				</PubDate>
+			</History>
+		<Abstract>Cross-sectional stability of the leverage means that a firm’s current high or low leverage (relative to other firms) reliably predicts a comparable relative position in future cross-sections. The extent of stability in the cross-section is gauged by assessing the explanatory power of the current cross-section for future cross-sections going forward one year at a time and extending well into the future. This study examines the stability of leverage for 113 componies in Tehran Stock Exchange over the period 1999–2012. It conducts simulations that gauge the ability of random financing and a variety of leverage targeting models to replicate the instability of the crosssection over long horizons. The results show instability in leverage ratios. Target leverage models do a good job replicating the substantial instability of the actual leverage cross-section.</Abstract>
+			<OtherAbstract Language="FA">ثبات ساختار سرمایه بدین معنی است که شرکت‌ها موقعیت فعلی اهرم خود را نسبت به سایر شرکت‌ها (اهرم بالاتر یا پایین‌تر) در طول زمان حفظ می‌کنند. میزان این ثبات با ارزیابی قدرت توضیحی اهرم هر دوره برای اهرم دوره‌های آینده اندازه‌گیری می‌شود. پژوهش حاضر با استفاده از اطلاعات 113 شرکت برای دورۀ زمانی 1379 تا 1392 میزان ثبات ساختار سرمایه را در بورس اوراق بهادار تهران بررسی کرده  است؛ سپس با استفاده از روش‌های شبیه‌سازی، سه الگوی اصلی را ارزیابی کرده که در مبانی نظری موضوع برای تبیین رفتار اهرم معرفی شده است. معیار انتخاب بهترین الگو، توانایی آن برای تولید اهرم با ثبات مشابه اهرم واقعی است. نتایج، نشان‌دهندۀ بی‌ثباتی ساختار سرمایه در طول دورۀ مدّنظر است. همچنین مجموعه‌ای از الگوهایی که قائل به اهرم هدف هستند، به‌عنوان مجموعه‌ای معتبر برای تبیین رفتار اهرم معرفی می‌شوند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">ثبات ساختار سرمایه</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نظریۀ توازن پویا</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">الگوهای اهرم هدف</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">الگوی رفتار تصادفی اهرم</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبیه‌سازی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21182_68a529c66db8c615bf2130ae5148c315.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Factors Affecting the Behavior of Investors Regarding Phenomenographical Approach</ArticleTitle>
+<VernacularTitle>عوامل مؤثر در بروز رفتار سرمایه‌گذاران با رویکرد پدیدارنگاری</VernacularTitle>
+			<FirstPage>57</FirstPage>
+			<LastPage>76</LastPage>
+			<ELocationID EIdType="pii">21173</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21173</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>سید مرتضی</FirstName>
+					<LastName>غیور باغبانی</LastName>
+<Affiliation>استادیار گروه مدیریت دانشگاه بین المللی امام رضا (ع)، مشهد،</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>امید</FirstName>
+					<LastName>بهبودی</LastName>
+<Affiliation>دانشجوی دکتری مدیریت بازرگانی، دانشگاه آزاد اسلامی واحد شاهرود</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</History>
+		<Abstract>Decisions of investors in the financial markets is influenced by many factors, many of which are not justified in making rational decisions. Factors such as values, beliefs and cultural assumptions cause bias in the decision-making process that affect the behavior and decisions of the investors. The focus of this article is to provide a pattern of behavior and decision-making factors for investors with an emphasis on cultural factors. Basic assumptions are elucidated from literature review and relevant researches. The mixed method research was selected and operated in order to progress the research at the qualitative and quantitative parts. At the qualitative part, semi structured in-depth interviews were conducted with behavioral decision making experts considerating phenomenography strategy. Data from the interviews were analyzed using content analysis method according to which the questionnaire was designed. At this stage, the survey strategy was conducted, and then 500 questionnaires were distributed as available sampling method and 316 completed questionnaires were collected. The data were analyzed using SPSS and Amos Graphics softwares using structural equation modeling. The results indicate that fators such as value system, locus of control, uncertainty acceptance, habit to investment and time horizon are the main components of cultural category which besides personality, cognitive and emotional biases form investor’s decision making that lead to herding behavior. Despite the past researches confirmed the effect of time, data analysis showed that khorasan razavi investor’s behavioral model is not affected by the time factor.</Abstract>
+			<OtherAbstract Language="FA">تصمیم­گیری سرمایه­گذاران در بازارهای مالی از عوامل فراوانی متأثر است که بسیاری از آنها در رویکردهای عقلانی تصمیم­گیری توجیه‌شدنی نیست. عواملی مانند نظام ارزشی، اعتقادات و پیشفرض‌های فرهنگی موجب بروز سوگیری در فرایند تصمیم‌گیری می‌شود که رفتار و تصمیم‌های سرمایه‌گذاران را تحت تأثیر قرار می‌دهد. کانون توجه این پژوهش، شناخت عوامل رفتاری و ارائۀ الگوی تصمیم‌گیری سرمایه‌گذاران با تأکید بر مؤلفه‌های فرهنگی است. فرضیه‌های مبنایی پژوهش، از مرور نظریه و پژوهش­های مرتبط، استخراج و برای پیشبرد مراحل پژوهش، طرح پژوهش ترکیبی در بخش‌های کیفی و کمّی پژوهش، انتخاب و عملیاتی می­شود. در مرحلۀ کیفی ضمن اتخاذ استراتژی پدیدارنگاری، مصاحبه­های نیمه‌ساختاریافتۀ عمیق با خبرگان تصمیم­گیری رفتاری انجام شد. داده‌های حاصل از مصاحبه­ها با استفاده از روش تحلیل محتوا تحلیل و براساس آن، پرسشنامۀ پژوهش طراحی شد. در این قسمت با بهره‌گیری از استراتژی پیمایش، تعداد 500 پرسشنامه به‌صورت نمونه­گیری در دسترس، توزیع و 316 پرسشنامه تکمیل و جمع­آوری شد. داده‌های حاصل از پرسشنامه با نرم­افزارهای SPSS و Amos Graphics و با استفاده از روش معادلات ساختاری تحلیل شد. نتایج پژوهش نشان می‌دهد در مقولۀ فرهنگ، مؤلفه­های نظام ارزشی، کانون­کنترل، تحمل ­ابهام، عادت به سرمایه­گذاری و افق زمانی در کنار مقوله­های شخصیت، سوگیری­ شناختی و سوگیری ­عاطفی، تصمیم‌های سرمایه‌گذاران را شکل می‌دهد و موجب بروز رفتارهای توده­وار در تصمیم­گیری می­شود. همچنین با وجود تأیید تأثیر مقولۀ زمان در سایر پژوهش­ها، تحلیل داده­ها نشان داد الگوی رفتاری تصمیم­گیری سرمایه­گذاران بورس اوراق بهادار خراسان رضوی متأثر از عامل زمان نیست.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">تصمیم‌گیری سرمایه‌گذاران</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سوگیری‌های شناختی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سوگیری‌های عاطفی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سوگیری‌های مالی ـ رفتاری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مؤلفه‌های فرهنگی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21173_6b511f3f2b4d910b08f520b46e0b4efb.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Investigating the Relationship between Managerial Optimism and Earnings Smoothing in Companies Listed in Tehran Stock Exchange</ArticleTitle>
+<VernacularTitle>بررسی رابطۀ خوش‌بینی مدیریتی و هموارسازی سود در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران</VernacularTitle>
+			<FirstPage>77</FirstPage>
+			<LastPage>88</LastPage>
+			<ELocationID EIdType="pii">21186</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21186</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>محمود</FirstName>
+					<LastName>یحیی زاده فر</LastName>
+<Affiliation>استاد دانشگاه مازندران-بابلسر، دانشکده علوم اقتصاد و اداری، گروه مدیریت بازرگانی</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>شهاب الدین</FirstName>
+					<LastName>شمس</LastName>
+<Affiliation>استادیار دانشگاه مازندران-بابلسر،دانشکده علوم اقتصاد و اداری، گروه مدیریت بازرگانی</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مریم</FirstName>
+					<LastName>نادری</LastName>
+<Affiliation>کارشناس ارشد مدیریت بازرگانی دانشگاه مازندران، دانشکده علوم اقتصاد و اداری، گروه مدیریت بازرگانی</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>12</Month>
+					<Day>26</Day>
+				</PubDate>
+			</History>
+		<Abstract>Earnings smoothing is concerned with and influenced by various factors. In this regard, managers&#039; properties and traits can affect the style of making decisions investigating &quot;optimism can result in our better and more precise cognition about the firms&#039; performance particularly in making decisions regarding purchasing stock.This research studies how managerial optimism can influence earnings smoothing. In this regard, 107 listed companies in Tehran Stock Exchange in a period of 11 years (2005-2015) were selected as the sample. The index of net income divided to total assests is used to assess the earnings smoothing, and the index of the number of increase in the price of stock days is used to appraise the management optimism. Also, effective variables on earnings smoothing (the dependent variable) such as agency problems, asymmetric information, and corporate governance have been used to investigate the issue in-depth. The obtained data were gathered annually by the help of &quot;Tadbir Pardaz&quot;, &quot;Rahavard Novin&quot;, and official site of Tehran Stock Exchange. Multivariable regression model was applied in order to test the research hypotheses. Data were anaysed by “Eviews8&quot; software. The results present that optimistic managers are more capabable of earnings smoothing. In other words, the financial manifests and lists of the companies administered by the optimistic managers present more smooth earnings.</Abstract>
+			<OtherAbstract Language="FA">&lt;strong&gt;چکیده&lt;/strong&gt;&lt;br /&gt; مدیران، هموارسازی سود را تحت تأثیر عوامل مختلفی انجام می‌دهند و خصوصیات مدیران، سبک تصمیم‌گیری آنها را پیرامون این موضوع تحت تأثیر قرار می‌دهد. یکی از این خصوصیات، خوش‌بینی است که با بررسی این موضوع به شناخت بهتری در زمینۀ عملکرد شرکت‌ها و نحوۀ تصمیم‌گیری دربارۀ خرید سهام آنها می‌توان دست یافت. هدف این پژوهش، بررسی چگونگی تأثیر خوش‌بینی مدیریتی در هموارسازی سود است. نمونۀ آماری  شامل 107 شرکت از بین شرکت‌های پذیرفته‌شده در بورس اوراق بهادر تهران برای یک دورۀ یازده‌ساله (1393-1383) انتخاب شده است. از معیار تغییرات سود خالص به دارایی کل برای سنجش هموارسازی سود و معیار تعداد روزهای افزایش قیمت سهام برای خوش‌بینی مدیریت استفاده شده ‌است. همچنین متغیرهای تأثیرگذار در هموارسازی سود (متغیر وابسته) ازجمله مشکلات نمایندگی، عدم تقارن اطلاعاتی و حاکمیت شرکتی برای بررسی دقیق‌تر مسأله به کار گرفته شده ‌است. داده‌ها با استفاده از نرم‌افزار تدبیر‌پرداز و ره‌آورد نوین و سایت‌های رسمی سازمان بورس اوراق بهادار تهران و به‌صورت سالانه جمع‌آوری شده ‌است. از رگرسیون چند‌‌متغیره مبتنی بر داده‌های ترکیبی به‌عنوان الگویی برای آزمون فرضیۀ پژوهش استفاده شده ‌است. تجزیه و تحلیل داده‌ها نیز با استفاده از نرم‌افزار ایویوز انجام شده است. نتیجۀ این مطالعه نشان می‌دهد مدیران خوش‌بین، بیش از مدیران منطقی، به هموارسازی سود توجه می‌کنند؛ به عبارت دیگر، صورت‌های مالی شرکت‌هایی که مدیران خوش‌بین اداره می‌کنند، سودهای هموار بیشتری را نشان می‌دهد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">بورس اوراق بهادار تهران</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تورش رفتاری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">خوش‌بینی مدیریتی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">هموارسازی سود</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21186_8bea4fc1e2a176c08759f6a48ea5f8d8.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Extending Capital Asset Pricing Model for Industrial Portfolio in Tehran Stock Exchange</ArticleTitle>
+<VernacularTitle>بسط الگوی قیمت‌گذاری دارایی‌های سرمایه‌ای برای سبد سرمایه‌گذاری صنایع فعال در بورس اوراق بهادار تهران</VernacularTitle>
+			<FirstPage>89</FirstPage>
+			<LastPage>104</LastPage>
+			<ELocationID EIdType="pii">21177</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21177</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>حسن</FirstName>
+					<LastName>حیدری</LastName>
+<Affiliation>دانشیار اقتصاد دانشگاه ارومیه، دانشکده اقتصاد و مدیریت، گروه اقتصاد</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>علی</FirstName>
+					<LastName>حیدرپور</LastName>
+<Affiliation>مدرس مدعو دانشگاه پیام نور آذربایجان‌غربی، دانشکده مدیریت و اقتصاد، گروه اقتصاد</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>07</Month>
+					<Day>27</Day>
+				</PubDate>
+			</History>
+		<Abstract>In order to model, estimate and make a comparative analysis of the behavior of systematic risk, this paper, by using daily data from 09.28.1997 to 09.22.2015, estimates and extends the traditional Capital Asset Pricing Model for industrial portfolio in Tehran Stock Exchange, with DBEKK_GARCH and Shwert_Seguin Models. Findings show that estimated systematic risk for the Iranian industrial portfolio is time-varying. Therefore, using the traditional Capital Asset Pricing Model, with constant beta, may not be a good idea for modeling systematic risk and forecasting the expected returns of capital assets, as it may lead us to misleading results. Also findings show that the traditional CAPM and Shwert_Seguin models have almost identical forecast accuracy, although their accuracy is less than the DBEKK_GARCH model. The estimated systematic risk, from DBEKK_GARCH and Shwert_Seguin models, does not show any trend behavior over time.</Abstract>
+			<OtherAbstract Language="FA"> این پژوهش برای الگو‌سازی، تخمین و تحلیل رفتار ریسک سیستماتیک، به بسط و تخمین الگوی سنتی قیمت‌گذاری دارایی‌های سرمایه‌ای، برای سبد سرمایه‌گذاری صنایع فعال در بورس اوراق بهادار تهران اقدام می‌کند. بدین‌منظور، از الگو‌های خودرگرسیونی واریانس ناهمسان شرطی تعمیم‌یافته و اشورت-سگوئین و داده‌های روزانۀ بازده بورس اوراق بهادار تهران و صنایع فعال در آن، از مهرماه سال 1376 تا شهریور 1394 بهره می‌برد. نتایج به‌دست‌آمده همانند نتایج پژوهش‌های کشور‌های توسعه‌یافته و در حال توسعه، نشان می‌دهد ضریب بتای الگوی سنتی قیمت‌گذاری دارایی‌های سرمایه‌ای، در طول زمان تغییر می‌‌کند؛ بنابراین استفاده از این الگو با بتای ثابت، برای الگوسازی ریسک سیستماتیک و پیش‌بینی بازده آیندۀ دارایی‌های مالی، ممکن است به نتایج گمراه‌کننده‌ای منجر شود. همچنین یافته‌ها نشان می‌‌دهد الگوی سنتی قیمت‌گذاری دارایی‌های سرمایه‌ای و الگوی اشورت-سگوئین، دقت پیش‌بینی تقریباً یکسان و هر دو الگو نسبت به الگوی خودرگرسیونی واریانس ناهمسان شرطی تعمیم‌یافته، دقت پیش‌بینی کمتری دارند. ریسک سیستماتیک حاصل از تخمین الگوی خودرگرسیونی واریانس ناهمسان شرطی تعمیم‌یافته و الگوی اشورت-سگوئین، روند خاصی را  دنبال نمی‌‌کند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">الگوی خودرگرسیونی واریانس ناهمسان شرطی تعمیم یافته</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">الگوی اشورت-سگوئین</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">الگوی قیمت‌گذاری دارایی‌های سرمایه‌ای</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ریسک سیستماتیک</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21177_f40aa06ebe63b3ffdc4530902020d5b9.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Investigating the Effect of Managerial Overconfidence and Accrual-based Earnings Management</ArticleTitle>
+<VernacularTitle>تأثیر اطمینان بیش از حد مدیریت بر مدیریت سود مبتنی بر اقلام تعهدی</VernacularTitle>
+			<FirstPage>105</FirstPage>
+			<LastPage>116</LastPage>
+			<ELocationID EIdType="pii">21190</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21190</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>سید کاظم</FirstName>
+					<LastName>ابراهیمی</LastName>
+<Affiliation>استادیار گروه حسابداری دانشکده اقتصاد و مدیریت. دانشگاه سمنان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>صادق</FirstName>
+					<LastName>سربازی آزاد</LastName>
+<Affiliation>کارشناس ارشد حسابداری. دانشگاه سمنان. دانشکده اقتصاد و مدیریت گروه حسابداری</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>03</Month>
+					<Day>05</Day>
+				</PubDate>
+			</History>
+		<Abstract>Overconfidence can be summarized as unwarranted faith in one’s intuitive reasoning, judgments, and cognitive abilities. Overconfident managers by the belief that they possess special information (that the others do not) overestimate their information integrity and consequently their firms’ future earnings and cash flows, and usually have positive perspective on firm’s future risk and return. The aim of this study is to investigate the impact of managerial overconfidence on accrual-based earnings management in 95 companies listed in Tehran Stock Exchange during the years 2006 to 2014. In this study, in order to measure managerial overconfidence, two criteria based on investment and financial leverage was implemented. The results showed that there is a positive and significant relationship between managerial overconfidence (based on both overinvestment and financial leverage) on accrual-based earnings management.</Abstract>
+			<OtherAbstract Language="FA"> بیش‌اطمینانی، اعتقاد بی­اساس دربارة توانایی­های شناختی، قضاوت­ها و استدلال شهودی فرد است. مدیران بیش‌اطمینان درنتیجۀ این باور که اطلاعات ویژ­ه­ای در اختیار دارند (که دیگران در اختیار ندارند)، دقت اطلاعات خود و به‌تبع آن، سودها و جریان‌های نقدی آیندۀ واحد تجاری را بیش از حد تخمین می­زنند و چشم‌انداز مثبتی از ریسک و بازده آینده دارند. هدف این پژوهش، بررسی تأثیر بیش‌اطمینانی مدیریت در مدیریت سود مبتنی بر اقلام تعهدی در 95 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران در سال­های 1386 تا 1393 است. در این پژوهش برای اندازه­گیری بیش‌اطمینانی مدیریت از دو معیار مبتنی بر سرمایه‌گذاری و اهرم مالی استفاده شده است. تجزیه و تحلیل نتایج حاصل از آزمون فرضیۀ پژوهش، نشان‌دهندۀ وجود ارتباط مثبت و معنادار بین بیش­اطمینانی مدیریت براساس هر دو شاخص بیش‌اطمینانی مدیریت مبتنی بر سرمایه­گذاری و اهرم مالی بر مدیریت سود مبتنی بر اقلام تعهدی است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">بیش‌اطمینانی مدیریت</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدیریت سود</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدیریت سود مبتنی بر اقلام تعهدی اختیاری</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21190_19d4ebaedd64a8d16a902cc27f3720e7.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Evaluation of the Effect of Investment on Future Performance Considering the Level of Firm Financial Constraint</ArticleTitle>
+<VernacularTitle>ارزیابی تأثیر سرمایه‌گذاری در عملکرد آینده با درنظرگرفتن سطح محدودیت مالی شرکت</VernacularTitle>
+			<FirstPage>117</FirstPage>
+			<LastPage>132</LastPage>
+			<ELocationID EIdType="pii">21196</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21196</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>ریحانه</FirstName>
+					<LastName>هادیان</LastName>
+<Affiliation>دانشجوی دکتری دانشگاه اصفهان، دانشکدۀ علوم اداری و اقتصاد، گروه حسابداری</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>سید عباس</FirstName>
+					<LastName>هاشمی</LastName>
+<Affiliation>دانشیار دانشگاه اصفهان، دانشکدۀ علوم اداری و اقتصاد، گروه حسابداری</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>سعید</FirstName>
+					<LastName>صمدی</LastName>
+<Affiliation>دانشیار دانشگاه اصفهان، دانشکدۀ علوم اداری و اقتصاد، گروه اقتصاد</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>10</Month>
+					<Day>16</Day>
+				</PubDate>
+			</History>
+		<Abstract>The effects of investment on firm performance depends on several factors. One of the most important factors is firm financial constraint. This study aimed to investigate the effect of investment on firms’ future profitability and buy-and-hold market adjusted returns considering the level of firm financial constraint. For statistical analysis in this study, multiple regression models were used. The firm financial constraint was measured using ordered logit regression. This research has been conducted on 120 listed companies in Tehran Stock Exchange based on data mentioned in financial annual reports between2008–2014. Results indicated different effects of investment on future profitability in constraint firms in comparison to non-constraint firms. These findings largely concur with theoretical background. However, no evidence could be found for different effects of investment on future buy-and-hold market adjusted stock return in constraint and non-constraint firms.</Abstract>
+			<OtherAbstract Language="FA">عوامل متعددی در نقش سرمایه‌گذاری بر عملکرد شرکت اثرگذار هستند. محدودیت در تأمین مالی ازجملۀ این عوامل است. هدف پژوهش حاضر، بررسی تأثیر سرمایه­گذاری در سودآوری و «بازده خرید و نگهداری تعدیل‌شدۀ آینده» با درنظرگرفتن سطح محدودیت مالی شرکت است. برای تجزیه و تحلیل داده­ها و آزمون فرضیه­ها از الگو­های رگرسیون چندمتغیره و داده­های ترکیبی استفاده شده است. شاخص محدودیت مالی شرکت با استفاده از رگرسیون لاجیت رتبه‌ای برآورد شده است. نمونۀ آماری برای آزمون فرضیه­های پژوهش، متشکل از 120 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران، در دورۀ زمانی 1387 تا 1393 است. یافته­های پژوهش نشان‌دهندۀ تأثیر متفاوت سرمایه­گذاری در سودآوری آینده در شرکت­های با محدودیت مالی نسبت به شرکت­های بدون محدودیت مالی است. این یافته­ با مبانی نظری سازگار است؛ اما شواهدی دال بر تأثیر متفاوت سرمایه­گذاری در بازده خرید و نگهداری تعدیل‌شدۀ آیندۀ شرکت­های با محدودیت مالی نسبت به شرکت­های بدون محدودیت مالی یافت نشد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">بازده خرید و نگهداری تعدیل‌شدۀ آیندۀ سهام</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سرمایه‌گذاری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سودآوری آینده</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">محدودیت مالی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21196_fe762e00ffd317ff29a57b8ca9c7f8cb.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Conservatism and Stock Value Performance in Financial Crisis</ArticleTitle>
+<VernacularTitle>محافظه‌کاری و عملکرد ارزش سهام در بحران مالی</VernacularTitle>
+			<FirstPage>133</FirstPage>
+			<LastPage>150</LastPage>
+			<ELocationID EIdType="pii">21179</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21179</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>حسین</FirstName>
+					<LastName>اعتمادی</LastName>
+<Affiliation>دانشیار دانشگاه تربیت مدرس دانشکده مدیریت و اقتصاد – گروه حسابداری</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>لیلا</FirstName>
+					<LastName>عبدلی</LastName>
+<Affiliation>دانشجوی کارشناسی ارشد، دانشگاه تربیت مدرس دانشکده مدیریت و اقتصاد – گروه حسابداری</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>09</Month>
+					<Day>29</Day>
+				</PubDate>
+			</History>
+		<Abstract>The main purpose of this research is to consider the relationship between conservatism and stock value performance (measured by stock return and abnormal returns) in financial crisis. Using information in the financial statements of 71 financial distressed companies and 71 financial non-distressed companies during the period 2004 to 2014. Criteria for the classification of financial distressed companies include: (1) three consecutive years of losses report, (2) dividend every year over the previous year more than 40% declined and (3) Article 141 of the Commercial Code. To test research hypotheses multivariate regression models is utilized. The results show that for the financial non-distressed companies, there is significant negative relation between conservatism with return stock and abnormal return stock. However, for the financial distressed companies, there is significant positive relation between conservatism with return stock and abnormal return stock. In other words, the financial distressed companies adopt more conservative policies than do the financial non-distressed companies, which shows loss of value of their stock is less than that of the financial non-distressed companies.</Abstract>
+			<OtherAbstract Language="FA">هدف اصلی این پژوهش، بررسی رابطۀ محافظه‌کاری و عملکرد ارزش سهام (که براساس بازده سهام و بازده غیرعادی سهام اندازه‌گیری شده است) در شرایط بحران مالی است. اطلاعات لازم از صورت‌های مالی 71 شرکت دارای بحران مالی و 71 شرکت بدون بحران مالی در بازۀ زمانی 1383 تا 1392 جمع‌آوری شده است. ملاک طبقه‌بندی بحران مالی شرکت‌ها عبارت است از: 1.سه سال متوالی زیان گزارش کند، 2. سود تقسیمی هر سال نسبت به سال قبل بیش از 40 درصد کاهش پیدا کرده باشد، 3. مشمول مادۀ 141 قانون تجارت شده باشد. برای آزمون فرضیه‌های پژوهش، رگرسیون چندمتغیره با استفاده از داده‌های ترکیبی استفاده شده است. نتایج پژوهش نشان می‌دهد در شرکت‌های بدون بحران مالی، بین محافظه‌کاری با بازده سهام و بازده غیرعادی سهام، رابطۀ منفی و معناداری وجود دارد، در حالی که در شرکت‌های دارای بحران مالی بین محافظه‌کاری با بازده سهام و بازده غیرعادی سهام، رابطۀ مثبت و معناداری وجود داردکه نشان می‌دهد شرکت‌های دارای بحران مالی، سیاست‌های محافظه‌کارانۀ بیشتری نسبت به شرکت‌های بدون بحران مالی اتخاذ می‌کنند. در نتیجه زیان ارزش سهام آنها کمتر از شرکت‌های بدون بحران مالی است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">محافظه‌کاری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">عملکرد ارزش سهام</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">بحران مالی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21179_b6d373dab6f9312feb8841be7009637d.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Investigating the Effect of Advertisement Cost on the Financial Performance of the Firms Listed in Tehran Stock Exchange with the Mediating Role of Brand Equity</ArticleTitle>
+<VernacularTitle>تأثیر هزینۀ تبلیغات در عملکرد مالی با میانجی‌گری ارزش برند در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران</VernacularTitle>
+			<FirstPage>151</FirstPage>
+			<LastPage>162</LastPage>
+			<ELocationID EIdType="pii">21175</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21175</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>محسن</FirstName>
+					<LastName>اکبری</LastName>
+<Affiliation>استادیار مدیریت دانشکده ادبیات و علوم انسانی، گروه مدیریت دانشگاه گیلان، دانشگاه گیلان، دانشکده ادبیات و علوم انسانی، گروه مدیریت</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مهسا</FirstName>
+					<LastName>فرخنده</LastName>
+<Affiliation>کارشناسی ارشد مدیریت بازرگانی دانشکده ادبیات و علوم انسانی، گروه مدیریت دانشگاه گیلان، دانشگاه گیلان، دانشکده ادبیات و علوم انسانی، گروه مدیریت</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>معصومه</FirstName>
+					<LastName>قاسمی شمس</LastName>
+<Affiliation>کارشناسی ارشد مدیریت بازرگانی دانشکده ادبیات و علوم انسانی، گروه مدیریت دانشگاه گیلان، دانشگاه گیلان، دانشکده ادبیات و علوم انسانی، گروه مدیریت</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>07</Month>
+					<Day>13</Day>
+				</PubDate>
+			</History>
+		<Abstract>Considering the fact that consumers are exposed to a lot of goods and services from different suppliers, advertisement is one of the most powerful ways to echo the voice of the firms in such environments. Since advertising is an expensive activity and has a burden on companies’ budgets, managers and shareholders always like to know if it has a rational and significant output regarding their investment and expenditures (they like to know if it has a significant return on investment). This paper, seeking to answer this question of managers and shareholders, has investigated the effect of advertising costs on the financial performance of the firms listed in Tehran Stock Exchange. We used data of 88 firms from 2010-2015 and multivariate regression to analyze this data. Q Tobin is used to measure brand equity. Results show that brand equity has a mediating role in the relationship between advertising costs and financial performance.</Abstract>
+			<OtherAbstract Language="FA">با توجه به گسترش رقابت و مواجه‌شدن مشتریان با انبوهی از کالاها و خدمات از سوی عرضه‌کنندگان مختلف، تبلیغات یکی از مهم‌ترین ابزارهای رساندن صدای شرکت‌ها به بازارها است. با توجه به اینکه تبلیغات برای بنگاه‌ها، هزینه‌های زیادی در بردارد و سالانه میلیون­­ها ریال صرف آن می­شود، همواره مدیران بنگاه­های اقتصادی انتظار دارند بازدهی متناسب با این میزان سرمایه‌گذاری به دست آورند. این مقاله با هدف پاسخگویی به این پرسش، تأثیر هزینۀ تبلیغات در عملکرد مالی شرکت‌های پذیرفته‌شده در بورس اوراق بهادار را با میانجی­گری ارزش برند بررسی کرده است. در این پژوهش، داده‌های مربوط به 88 شرکت به‌صورت ترکیبی و برای دورۀ زمانی 1389 تا 1394 با استفاده از رگرسیون چندمتغیره تجزیه ‌و تحلیل شده است. در این پژوهش از معیار کیو توبین برای سنجش ارزش برند استفاده‌ شده است. نتایج پژوهش نشان داد ارزش برند، نقش میانجی در ارتباط بین هزینۀ تبلیغات و عملکرد مالی (نرخ بازده دارایی­ها و نرخ بازده حقوق صاحبان سهام) بر عهده دارد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">ارزش برند</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">اندازه</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">عملکرد مالی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نسبت اهرمی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">هزینۀ تبلیغات</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21175_f0f97dfb99c183f472f1e728f3ba457f.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Investigating the Relationship between Global Development and the Level of Cash Holdings in Companies Listed in Tehran Stock Exchange Using Panel Threshold Regression</ArticleTitle>
+<VernacularTitle>بررسی رابطۀ توسعۀ جهانی و سطح نگهداشت وجه نقد شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران با استفاده از رگرسیون تابلویی آستانه‌ای</VernacularTitle>
+			<FirstPage>163</FirstPage>
+			<LastPage>176</LastPage>
+			<ELocationID EIdType="pii">21184</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21184</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>سعید</FirstName>
+					<LastName>فرزادی</LastName>
+<Affiliation>مربی گروه حسابداری دانشکده مدیریت و حسابداری موسسه آموزش عالی امام جواد (ع) یزد</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>صابر</FirstName>
+					<LastName>مولایی</LastName>
+<Affiliation>دانشجوی دکتری اقتصاد گروه اقتصاد دانشکده علوم اداری و اقتصاد دانشگاه اصفهان</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>11</Month>
+					<Day>30</Day>
+				</PubDate>
+			</History>
+		<Abstract>During recent decades, corporate globalization and the new competitive environment have led to the formation of specific attention to exports as a crucial factor to the survival and growth of many companies. In this study, the sample was divided into two groups, local and global developed companies, and the relationship between level of cash holding and the level of global development was studied. In this regard, 88 companies listed in Tehran Stock Exchange during the period 2009 to 2014 were studied. The results of the tests indicate that the trend toward globalization plays a determining role in corporate cash holdings. Also based on the results, it was evident that an inverted U relationship between exports increased in line with global development and corporate cash holdings.</Abstract>
+			<OtherAbstract Language="FA">در دهه­های اخیر، روند جهانی‌سازی شرکت­ها و شکل‌گیری فضاهای رقابتی جدید به توجه ویژه به امر صادرات به‌عنوان عاملی حیاتی برای بقا و رشد بسیاری از شرکت­ها منجر شده است. در این پژوهش، پس از طبقه‌بندی شرکت­های نمونۀ مدّنظر به دو گروه شرکت‌های محلی و با توسعۀ جهانی، رابطۀ سطح نگهداشت وجه نقد و توسعۀ جهانی شرکت­ها بررسی شد. در این راستا، تعداد 88 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران در دورۀ زمانی 1389 تا 1393 بررسی شد. نتایج حاصل از آزمون­های پژوهش نشان می­دهد، گرایش شرکت­ها به سوی جهانی‌شدن، نقش تعیین‌کننده­ای در سطح نگهداشت وجه نقد آنها دارد. همچنین بر مبنای نتایج پژوهش آشکار شد رابطۀ U معکوسی بین افزایش صادرات در راستای توسعۀ جهانی شرکت­ها و سطح نگهداشت وجه نقد آنها وجود دارد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">توسعۀ جهانی شرکت‌ها</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سطح نگهداشت وجه نقد</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">الگوی رگرسیون آستانه‌ای</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21184_d8ca790c315a578bb33e562cc0eebe1f.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Determining the Optimal Hedge Ratio of Gold Coin Futures; A Comparative Approach</ArticleTitle>
+<VernacularTitle>تعیین نسبت بهینۀ پوشش ریسک قراردادهای آتی سکه: رهیافت مقایسه‌ای</VernacularTitle>
+			<FirstPage>177</FirstPage>
+			<LastPage>196</LastPage>
+			<ELocationID EIdType="pii">21181</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21181</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>سیدبابک</FirstName>
+					<LastName>ابراهیمی</LastName>
+<Affiliation>استادیار، دانشگاه صنعتی خواجه ‌نصیرالدین طوسی، دانشکده مهندسی صنایع، گروه مهندسی مالی</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>علی</FirstName>
+					<LastName>تسبیحی</LastName>
+<Affiliation>دانشجوی کارشناسی ارشد مهندسی مالی،دانشگاه صنعتی خواجه‌نصیرالدین طوسی، دانشکده مهندسی صنایع، گروه مهندسی مالی</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>11</Month>
+					<Day>01</Day>
+				</PubDate>
+			</History>
+		<Abstract>The aim of this study is to calculate the optimal hedge ratio of gold coin future contrasts with different econometric methods and compare their hedging effectiveness with each other. Used models are OLS, VAR and VECM that estimate the hedge ratio to be static over the time and multivariate GARCH models that estimate the hedge ratio to be vary over the time. The studied time period was from Tuesday, November 25, 2008 to Monday, June 01, 2015 and we have used the future and spot prices of gold coin in this period. To increase the correlation between future and spot returns we have calculated the optimal hedge ratio with weekly returns in addition to daily returns. Finally, the comparisons show that the use of multivariate GARCH models leads to better performance in daily returns but in weekly returns, static models have better results.</Abstract>
+			<OtherAbstract Language="FA">هدف این پژوهش، محاسبۀ نسبت بهینۀ پوشش ریسک قرارداد آتی سکۀ بهار آزادی با استفاده از روش‌های مختلف اقتصادسنجی و مقایسۀ کارایی نتایج آنها با یکدیگر است. الگو‌های استفاده‌شده عبارت است از OLS، VAR، VECM که نسبت بهینۀ پوشش ریسک را به‌صورت ایستا و ثابت در طول زمان تخمین می‌زند و الگو‌های چندمتغیرۀ گارچ شامل CCC-GARCH، DCC-GARCH انگل و DCC-GARCH تز و تسو است که نسبت بهینۀ پوشش ریسک را به‌صورت متغیر در طول زمان تخمین می‌زند. دورۀ زمانی مدّنظر از تاریخ 05/09/1387 تا 11/03/1394 است و در این بازه از قیمت‌های نقدی و آتی سکۀ بهار آزادی استفاده شده است. برای افزایش همبستگی بین بازده‌های آتی و نقدی در محاسبۀ نسبت بهینۀ پوشش ریسک علاوه بر بازده روزانه از بازده هفتگی نیز استفاده‌ شده است. درنهایت، مقایسۀ معیار کارایی برای الگو‌های مختلف نشان می‌دهد استفاده از الگو‌های چندمتغیرۀ گارچ در بازده‌های روزانه، عملکرد بهتری دارد؛ اما در بازده‌های هفتگی این الگو­ها، کارایی بیشتری نسبت به الگو‌های ایستا نمی‌تواند حاصل کنند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">حداقل واریانس</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">قرارداد آتی سکه</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">کارایی پوشش ریسک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نسبت بهینۀ پوشش ریسک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">MGARCH</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21181_e780055ea5fc15c63f3349a10a4cf61c.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

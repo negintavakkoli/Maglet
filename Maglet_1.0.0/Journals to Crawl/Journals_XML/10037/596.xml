@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+<JOURNAL>
+<YEAR>1397</YEAR>
+<VOL>11</VOL>
+<NO>4</NO>
+<MOSALSAL>32</MOSALSAL>
+<PAGE_NO>470</PAGE_NO>
+
+
+<ARTICLES>
+
+	<ARTICLE> 
+		<TitleF>بررسی تأثیر مقیاس بر مقاومت کششی در آزمایش برزیلی </TitleF>
+		<TitleE>Scale Effect on the Tensile Strength in the Brazilian Test</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>یکی از چالش&#8204;های مهندسان &#160;مکانیک&#8204;سنگ، تغییر خواص مکانیکی سنگ&#8204;ها با تغییر اندازۀ نمونه، با عنوان تأثیر مقیاس است. در بحث تأثیر مقیاس بر مقاومت کششی، پژوهش&#8204;های انجام شده روی سنگ&#8204;ها بسیار محدود است و غالباً روی بتن انجام گرفته است. نتایج تعدادی از تحقیقات گذشته حاکی از کاهش مقاومت با افزایش قطر است، در حالی&#8204;که در تعدادی دیگر بی&#8204;تأثیر بودن مقیاس یا افزایش مقاومت گزارش شده است. هم&#8204;چنین، اغلب این آزمایش&#8204;ها روی دامنۀ کوچکی از قطر انجام شده و رابطه&#8204;ای کلی که تأثیر مقیاس بر مقاومت کششی سنگ&#8204;ها را نشان دهد و دارای مقبولیت باشد، وجود ندارد. در این مقاله، تأثیر ابعاد نمونه بر مقاومت کششی برزیلی بررسی می&#8204;شود. برای این منظور، نمونه&#8204;های ماسه سنگ با قطر بین 19 تا 145 میلی&#8204;متر تهیه و آزمایش برزیلی روی این نمونه&#8204;ها انجام شد. نتایج نشان می&#8204;دهد که با افزایش قطر نمونه مقاومت کششی کاهش می&#8204;یابد. در ادامه این بررسی، با استفاده از آنالیز رگرسیون غیرخطی و با استفاده از مدل&#8204;های هوک و براون، قانون تأثیر مقیاس SEL و قانون مقیاس چند فراکتال MFSL، روابطی برای تخمین مقاومت کششی در قطرهای مختلف ارائه شده و مشخص شد مدل SEL تخمین بهتری از تأثیر مقیاس بر مقاومت کششی ارائه می&#8204;کند</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Introduction
+Determination of the mechanical properties of rock materials has been remained as a challenge for engineering geologists. In-situ tests are rarely used to determine the mechanical properties of rocks due to difficulties in sample preparation, performing and interpretation of the results, high costs as well as the required long time for doing the experiments. The common approach to determine the mechanical properties of rock materials is through conducting laboratory experiments and estimation the in-situ properties based on these laboratory results. This approximation, which is called scale effect, has been remained as a challenge for engineering geologists and practical rock engineers for decades. ...../files/site1/files/0Extended_Abstract1.pdf</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>319</FPAGE>
+			<TPAGE>342</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>مجتبی</Name>
+				<MidName></MidName>
+				<Family>بهاالدینی</Family>
+				<NameE>mojtaba</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>bahaaddini</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه شهید باهنر کرمان، مجتمع آموزش عالی زرند، بخش مهندسی معدن</Organization>
+				</Organizations>
+				<Universities>
+				<University>مجتمع آموزش عالی زرند</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>mojtaba_bahaaddini@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>model can provide a better estimation of tensile strength at different diameters.</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>آزمایش برزیلی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تأثیر مقیاس</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سنگ بکر</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مقاومت کششی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مکانیزم شکست</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1.	Levin M., &quot;Determination of rock mass properties by in situ tests in the Gilboa pumped storage project&quot;, Vietrock2015, 12-13 March 2015, Hanoi, Vietnam )2015( S041. ## 2.	Palmström A., Singh R., &quot;The deformation modulus of rock masses- comparisons between in situ tests and indirect estimates&quot;, Tunnelling and Underground Space Technology, vol. 16 (3) (2001) 115-131. ##  3.	Cundall P. A., Pierce M. E., Mas Ivars D., &quot;Quantifying the size effect of rock mass strength&quot;, SHIRMS 2008, Australian Centre for Geomechanics Perth, Western Australia, vol. 2 (2008) 3-15. ## 4.	Mas Ivars D., Pierce M. E., Darcel C., Reyes-Montes J., Potyondy D. O., Young R. P., Cundall P. A., &quot;The synthetic rock mass approach for jointed rock mass modeling&quot;, International Journal of Rock Mechanics &amp; Mining Sciences, vol. 48(2) (2011) 219-244. ## 5.	Esmaieli K., Hadjigeorgiou J., Grenon, M., &quot;Estimating geometrical and mechanical REV based on synthetic rock mass models at Brunswick Mine&quot;, International Journal of Rock Mechanics and Mining Sciences, vol. 47 (6) (2010) 915-926. ## 6.	Wang P., Yang T., Xu T., Cai M., Li C., &quot;Numerical analysis on scale effect of elasticity, strength and failure patterns of jointed rock masses&quot;, Geosciences Journal, vol. 20(4) (2016) 539-549. ## 7.	Yoshinaka R., Osada M., Park H., Sasaki T., Sasaki K., &quot;Practical determination of mechanical design parameters of intact rock considering scale effect&quot;, Engineering Geology, vol. 96 (2008) 173-186## 8.	Bahaaddini M., Hagan P. C., Mitra R., Hebblewhite B. K., &quot;Scale effect on the shear behaviour of rock joints based on a numerical study&quot;, Engineering Geology, vol. 181 (2014) 212-23. ## 9.	Darlington W. J., Ranjith P. G., &quot;The effect of specimen size on strength and other properties in laboratory testing of rock and rock-like cementitious brittle materials&quot;, Rock Mechanics and Rock Engineering, vol. 44 (2011) 513-529. ## 10.	Masoumi M., &quot;Investigation into the mechanical behaviour of intact rock at different sizes&quot;, PhD thesis, UNSW Australia (2013). ## 11.	Roshan H., Masoumi H., Hagan P.C., &quot;On size-dependent uniaxial compressive strength of sedimentary rocks in reservoir geomechanics&quot;, ARMA 2016, Houston, Texas (2016). ## 12.	Carneiro F.L.L.B., &quot;A new method to determine the tensile strength of concrete&quot;, Proceedings of the 5th meeting of the Brazilian Association for Technical Rules (Associac¸a˜o Brasileire de Normas Te´cnicas ABNT), 3d. Section (1943). ## 13.	Akazawa T., &quot;New test method for evaluating internal stress due to compression of concrete: the splitting tension test&quot;, Journal of Japan Society if Civil Engineers, vol. 29 (1943) 777-787. ## 14.	Li D., Wong L.N.Y., &quot;The brazilian disc test for rock mechanics applications: review and new insights&quot;, Rock Mechanics and Rock Engineering, vol. 46 (2013) 269-287. ## 15.	Briševac Z., Kujundžić T., Čajić S., &quot;Current cognition of rock tensile strength testing by brazilian test&quot;, The Mining-Geology-Petroleum Engineering Bulletin (2015) 101-114. ## 16.	ASTM, &quot;Standard test method for splitting tensile strength of intact rock core specimens: ASTM D 3967&quot;, ASTM International, United States (2008). ## 17.	Ulusay R., Hudson J. A., &quot;The complete ISRM suggested methods for rock characterization, testing and monitoring: 1974-2006&quot;, International Society of Rock Mechanics. Compilation arranged by the ISRM Turkish National Group (2007). ## 18.	Weibull W., &quot;A statistical theory of the strength of materials&quot;, Proceeding of Royal Swedish Academy of Engineering Science, Stockholm, Sweden, (1939) 1-45. ## 19.	Bazant Z. P., &quot;Scaling of quasibrittle fracture: asymptotic analysis&quot;, International Journal of Fracture, vol. 83 (1997) 19-40. ## 20.	Bazant Z.P., Xi Y., &quot;Statistical size effect in quasi-brittle structures: II. Nonlocal theory&quot;, Journal of Engineering Mechanics, vol. 117 (11) (1991) Paper No. 26347. ## 21.	Van Vliet M. R. A., Van Mier J. G.M., &quot;Experimental investigation of size effect in concrete and sandstone under uniaxial tension&quot;, Engineering Fracture Mechanics, vol. 65 (2000) 165-188. ## 22.	Wong T. F., Wong R. H. C., Chau K. T., Tang C. A., &quot;Microcrack statistics, Weibull distribution and micromechanical modeling of compressive failure in rock&quot;, Mechanics of Materials, vpl. 28 (2006) 664-681. ## 23.	Zhang Q., Zhu H., Zhang L., Ding X., &quot;Study of scale effect on intact rock strength using particle flow modeling&quot;, International Journal of Rock Mechanics and Mining Sciences, vol. 48 (2011) 1320-1328. ## 24.	Griffith A. A., &quot;The Theory of Rupture&quot;, In proceeding of 1st International Congress of Applied Mechanics, Delf, Netherlands (1924). ## 25.	Hudson J. A., Crouch S. L., Fairhurst C., &quot;Soft, stiff and servo-controlled testing machines: A review with reference to rock failure&quot;, Engineering Geology, vol. 6 (1972) 155-189. ## 26.	Abou-Sayed A. S., Brechtel C. E., Terra T. I., &quot;Experimental investigation of the effects of size on the uniaxial compressive strength of cedar city quartz diorite&quot;, In proceeding of The 17th U.S. Symposium on Rock Mechanics, Utah, USA (1976) ARMA-76-0527. ## 27.	Bazant Z. P., Kazemi M. T., Hasegawa T., &quot;Size effect in brazilian splitcylinder tests: measurements and fracture analysis&quot;, ACI Material Journal, vol. 88 (1991) 325-332. ## 28.	Carpinteri A., &quot;Fractal nature of material microstructure and size effects on apparent mechanical properties&quot;, Mechanics of Materials, vol. 18, (1994) 89-101. ## 29.	Borodich F. M., &quot;Fractals and fractal scaling in fracture mechanics&quot;, International Journal of Fracture, vol. 95 (1999) 239-259. ## 30.	Carpinteri A., Chiaia B., Ferro G., &quot;Size effects on nominal tensile strength of concrete structures: multifractality of material ligaments and dimensional transition from order to disorder&quot;, Materials and Structures, vol. 28 (1995) 311-317. ## 31.	Carpinteri A., Ferro G., &quot;Size effects on tensile fracture properties: a unified explanation based on disorder and fractality of concrete microstructure&quot;, Materials and Structures, vol. 27(10), (1994) 563-571. ## 32.	Hondros G., &quot;The evaluation of Poisson’s ratio and the modulus of materials of a low tensile resistance by the Brazilian (indirect tensile) test with particular reference to concrete&quot;, Australian Journal of Applied Science, vol. 10(3) (1959) 243-268. ## 33.	Lundborg N., &quot;The strength-size relation of granite&quot;, International Journal of Rock Mechanics and Mining Sciences, vol. 4 (1967) 269-272. ## 34.	Wijk G., Rehbinder G., Logdstrom G., &quot;Relation between the uniaxial tensile strength and the sample size for Bohus granite&quot;, Rock Mechanics vol. 10 (1978) 201-219. ## 35.	Sabnis G. M., Mirza S. M., &quot;Size effects in model concretes?&quot;, Journal of Structural Division, ASCE 105 (ST6) (1979) 1007-1020. ## 36.	Chen W. F., Yuan R. L., &quot;Tensile strength of concrete: the double punch tests&quot;, Journal of the Structural Division, ASCE 106 (ST8) (1980) 1673-1693. ## 37.	Hasegawa T., Shioya T., Okada T., &quot;Size effect on splitting tensile strength of concrete&quot;, Proceedings Japan Concrete Institute 7th Conference, June 1985 (1985) 309-312. ## 38.	Newman D. A., Bennett D. G., &quot;The effect of specimen size and stress rate for the Brazilian test-a statistical analysis&quot;, Rock Mechanics and Rock Engineering, vol. 23 (2) (1990) 123-134. ## 39.	Guinea G. V., Elices M., Planas J., &quot;Assessment of the tensile strength through size effect curves&quot;, Journal of Engineering Fracture Mechanics, vol. 65 (2000) 189-207. ## 40.	Rocco C., Guinea G. V., Planas J., Elices M., &quot;Size effect and boundary conditions in the Brazilian test: experimental verification&quot;, Materials and Structures, vol. 32 (1999) 210-217. ## 41.	Rocco C., Guinea G. V., Planas J., Elices M., &quot;Review of the splitting-test standards from a fracture mechanics point of view&quot;, Cement and Concrete Research, vol. 31 (2001) 73-82. ## 42.	Thuro K., Plinninger R. J., Zah S., Schutz S., &quot;Scale effects in rock strength properties. Part 1: Unconfined compressive test and Brazilian test&quot;, ISRM regional symposium, EUROCK 2001, Finland, (2001) 169-174. ## 43.	Kadlecek V., Modry S., &quot;Size effect of test specimens on tensile splitting strength of concrete: general relation&quot;, Journal of Materials and structures, vol. 35, (2002) 28-34. ## 44.	YuY., Yin J., Zhong Z., &quot;Shape effects in the Brazilian tensile strength test and a 3D FEM correction&quot;, International Journal of Rock Mechanics and Mining Sciences, vol.43(4) (2006) 623-627. ## 45.	Es-Saheb M. H., Albedah A., Benyahia F., &quot;Diametral compression test: validation using finite element analysis&quot;, The International Journal of Advanced Manufacturing Technology, vol. 57 (5-8) (2011) 501-509. ## 46.	Tavallali A., Vervoort A., &quot;Behaviour of layered sandstone under Brazilian test conditions: Layer orientation and shape effects&quot;, Journal of Rock Mechanics and Geotechnical Engineering vol.5, (2013) 366-377. ## 47.	Allena R. Cluzel C., &quot;Identification of anisotropic tensile strength of cortical bone using Brazilian test&quot;, Journal of the Mechanical Behavior of Biomedical Materials vol.38 (2014) 134-142. ## 48.	Kaklis K. N., Maurigiannakis S. P., Agioutantis Z. G., Stathogianni F. K., Steiakakis E. K., &quot;Experimental investigation of the size effect on the mechanical properties on two natural building stones&quot;, 8th GRACM International Congress on Computational Mechanics, 12-15 July 2015, Volos, Greece (2015). ## 49.	Lin H., Xiong W., Yan Q., &quot;Three-dimensional effect of tensile strength in the standard Brazilian test considering contact length&quot;, Geotechnical Testing Journal, vol. 39(1) (2016) 137-143. ## 50.	Sabih G., Paneru L. P., Tarefder R. A., &quot;Simulation of the Brazilian test on concrete discs to verify the size effect law&quot;, Geo-China 2016 (2016) 18-25. ## 51.	Khosravi A., Simon R., Rivard P., &quot;The shape effect on the morphology of the fracture surface induced by the Brazilian test&quot;, International Journal of Rock Mechanics and Mining Sciences vol. 93 (2017) 201-209. ## 52.	Li, Y., &quot;A review of shear and tensile strengths of the Malan Loess in China&quot;, Engineering Geology, (2017) doi: 10.1016/j., enggeo (2017) 02.023. ## 53.	Sharrock G. B., Akram M. S., Mitra R., &quot;Application of synthetic rock mass modeling to estimate the strength of jointed sandstone&quot;, 43rd U.S. Rock Mechanics Symposium &amp; 4th U.S. - Canada Rock Mechanics Symposium, Asheville, North Carolina (2009). ## 54.	Hobbs D. W., &quot;The tensile strength of rocks, International Journal of Rock Mechanics&quot;, Mining Sciences and Geomechanical Abstracts, vol. 1(3) (1964) 385-396. ## 55.	Hoek E., Brown E., &quot;Underground excavations in rock&quot;, Hertford, London (1980). ## ##1.	Levin M., &quot;Determination of rock mass properties by in situ tests in the Gilboa pumped storage project&quot;, Vietrock2015, 12-13 March 2015, Hanoi, Vietnam )2015( S041. ## 2.	Palmström A., Singh R., &quot;The deformation modulus of rock masses- comparisons between in situ tests and indirect estimates&quot;, Tunnelling and Underground Space Technology, vol. 16 (3) (2001) 115-131. ##  3.	Cundall P. A., Pierce M. E., Mas Ivars D., &quot;Quantifying the size effect of rock mass strength&quot;, SHIRMS 2008, Australian Centre for Geomechanics Perth, Western Australia, vol. 2 (2008) 3-15. ## 4.	Mas Ivars D., Pierce M. E., Darcel C., Reyes-Montes J., Potyondy D. O., Young R. P., Cundall P. A., &quot;The synthetic rock mass approach for jointed rock mass modeling&quot;, International Journal of Rock Mechanics &amp; Mining Sciences, vol. 48(2) (2011) 219-244. ## 5.	Esmaieli K., Hadjigeorgiou J., Grenon, M., &quot;Estimating geometrical and mechanical REV based on synthetic rock mass models at Brunswick Mine&quot;, International Journal of Rock Mechanics and Mining Sciences, vol. 47 (6) (2010) 915-926. ## 6.	Wang P., Yang T., Xu T., Cai M., Li C., &quot;Numerical analysis on scale effect of elasticity, strength and failure patterns of jointed rock masses&quot;, Geosciences Journal, vol. 20(4) (2016) 539-549. ## 7.	Yoshinaka R., Osada M., Park H., Sasaki T., Sasaki K., &quot;Practical determination of mechanical design parameters of intact rock considering scale effect&quot;, Engineering Geology, vol. 96 (2008) 173-186## 8.	Bahaaddini M., Hagan P. C., Mitra R., Hebblewhite B. K., &quot;Scale effect on the shear behaviour of rock joints based on a numerical study&quot;, Engineering Geology, vol. 181 (2014) 212-23. ## 9.	Darlington W. J., Ranjith P. G., &quot;The effect of specimen size on strength and other properties in laboratory testing of rock and rock-like cementitious brittle materials&quot;, Rock Mechanics and Rock Engineering, vol. 44 (2011) 513-529. ## 10.	Masoumi M., &quot;Investigation into the mechanical behaviour of intact rock at different sizes&quot;, PhD thesis, UNSW Australia (2013). ## 11.	Roshan H., Masoumi H., Hagan P.C., &quot;On size-dependent uniaxial compressive strength of sedimentary rocks in reservoir geomechanics&quot;, ARMA 2016, Houston, Texas (2016). ## 12.	Carneiro F.L.L.B., &quot;A new method to determine the tensile strength of concrete&quot;, Proceedings of the 5th meeting of the Brazilian Association for Technical Rules (Associac¸a˜o Brasileire de Normas Te´cnicas ABNT), 3d. Section (1943). ## 13.	Akazawa T., &quot;New test method for evaluating internal stress due to compression of concrete: the splitting tension test&quot;, Journal of Japan Society if Civil Engineers, vol. 29 (1943) 777-787. ## 14.	Li D., Wong L.N.Y., &quot;The brazilian disc test for rock mechanics applications: review and new insights&quot;, Rock Mechanics and Rock Engineering, vol. 46 (2013) 269-287. ## 15.	Briševac Z., Kujundžić T., Čajić S., &quot;Current cognition of rock tensile strength testing by brazilian test&quot;, The Mining-Geology-Petroleum Engineering Bulletin (2015) 101-114. ## 16.	ASTM, &quot;Standard test method for splitting tensile strength of intact rock core specimens: ASTM D 3967&quot;, ASTM International, United States (2008). ## 17.	Ulusay R., Hudson J. A., &quot;The complete ISRM suggested methods for rock characterization, testing and monitoring: 1974-2006&quot;, International Society of Rock Mechanics. Compilation arranged by the ISRM Turkish National Group (2007). ## 18.	Weibull W., &quot;A statistical theory of the strength of materials&quot;, Proceeding of Royal Swedish Academy of Engineering Science, Stockholm, Sweden, (1939) 1-45. ## 19.	Bazant Z. P., &quot;Scaling of quasibrittle fracture: asymptotic analysis&quot;, International Journal of Fracture, vol. 83 (1997) 19-40. ## 20.	Bazant Z.P., Xi Y., &quot;Statistical size effect in quasi-brittle structures: II. Nonlocal theory&quot;, Journal of Engineering Mechanics, vol. 117 (11) (1991) Paper No. 26347. ## 21.	Van Vliet M. R. A., Van Mier J. G.M., &quot;Experimental investigation of size effect in concrete and sandstone under uniaxial tension&quot;, Engineering Fracture Mechanics, vol. 65 (2000) 165-188. ## 22.	Wong T. F., Wong R. H. C., Chau K. T., Tang C. A., &quot;Microcrack statistics, Weibull distribution and micromechanical modeling of compressive failure in rock&quot;, Mechanics of Materials, vpl. 28 (2006) 664-681. ## 23.	Zhang Q., Zhu H., Zhang L., Ding X., &quot;Study of scale effect on intact rock strength using particle flow modeling&quot;, International Journal of Rock Mechanics and Mining Sciences, vol. 48 (2011) 1320-1328. ## 24.	Griffith A. A., &quot;The Theory of Rupture&quot;, In proceeding of 1st International Congress of Applied Mechanics, Delf, Netherlands (1924). ## 25.	Hudson J. A., Crouch S. L., Fairhurst C., &quot;Soft, stiff and servo-controlled testing machines: A review with reference to rock failure&quot;, Engineering Geology, vol. 6 (1972) 155-189. ## 26.	Abou-Sayed A. S., Brechtel C. E., Terra T. I., &quot;Experimental investigation of the effects of size on the uniaxial compressive strength of cedar city quartz diorite&quot;, In proceeding of The 17th U.S. Symposium on Rock Mechanics, Utah, USA (1976) ARMA-76-0527. ## 27.	Bazant Z. P., Kazemi M. T., Hasegawa T., &quot;Size effect in brazilian splitcylinder tests: measurements and fracture analysis&quot;, ACI Material Journal, vol. 88 (1991) 325-332. ## 28.	Carpinteri A., &quot;Fractal nature of material microstructure and size effects on apparent mechanical properties&quot;, Mechanics of Materials, vol. 18, (1994) 89-101. ## 29.	Borodich F. M., &quot;Fractals and fractal scaling in fracture mechanics&quot;, International Journal of Fracture, vol. 95 (1999) 239-259. ## 30.	Carpinteri A., Chiaia B., Ferro G., &quot;Size effects on nominal tensile strength of concrete structures: multifractality of material ligaments and dimensional transition from order to disorder&quot;, Materials and Structures, vol. 28 (1995) 311-317. ## 31.	Carpinteri A., Ferro G., &quot;Size effects on tensile fracture properties: a unified explanation based on disorder and fractality of concrete microstructure&quot;, Materials and Structures, vol. 27(10), (1994) 563-571. ## 32.	Hondros G., &quot;The evaluation of Poisson’s ratio and the modulus of materials of a low tensile resistance by the Brazilian (indirect tensile) test with particular reference to concrete&quot;, Australian Journal of Applied Science, vol. 10(3) (1959) 243-268. ## 33.	Lundborg N., &quot;The strength-size relation of granite&quot;, International Journal of Rock Mechanics and Mining Sciences, vol. 4 (1967) 269-272. ## 34.	Wijk G., Rehbinder G., Logdstrom G., &quot;Relation between the uniaxial tensile strength and the sample size for Bohus granite&quot;, Rock Mechanics vol. 10 (1978) 201-219. ## 35.	Sabnis G. M., Mirza S. M., &quot;Size effects in model concretes?&quot;, Journal of Structural Division, ASCE 105 (ST6) (1979) 1007-1020. ## 36.	Chen W. F., Yuan R. L., &quot;Tensile strength of concrete: the double punch tests&quot;, Journal of the Structural Division, ASCE 106 (ST8) (1980) 1673-1693. ## 37.	Hasegawa T., Shioya T., Okada T., &quot;Size effect on splitting tensile strength of concrete&quot;, Proceedings Japan Concrete Institute 7th Conference, June 1985 (1985) 309-312. ## 38.	Newman D. A., Bennett D. G., &quot;The effect of specimen size and stress rate for the Brazilian test-a statistical analysis&quot;, Rock Mechanics and Rock Engineering, vol. 23 (2) (1990) 123-134. ## 39.	Guinea G. V., Elices M., Planas J., &quot;Assessment of the tensile strength through size effect curves&quot;, Journal of Engineering Fracture Mechanics, vol. 65 (2000) 189-207. ## 40.	Rocco C., Guinea G. V., Planas J., Elices M., &quot;Size effect and boundary conditions in the Brazilian test: experimental verification&quot;, Materials and Structures, vol. 32 (1999) 210-217. ## 41.	Rocco C., Guinea G. V., Planas J., Elices M., &quot;Review of the splitting-test standards from a fracture mechanics point of view&quot;, Cement and Concrete Research, vol. 31 (2001) 73-82. ## 42.	Thuro K., Plinninger R. J., Zah S., Schutz S., &quot;Scale effects in rock strength properties. Part 1: Unconfined compressive test and Brazilian test&quot;, ISRM regional symposium, EUROCK 2001, Finland, (2001) 169-174. ## 43.	Kadlecek V., Modry S., &quot;Size effect of test specimens on tensile splitting strength of concrete: general relation&quot;, Journal of Materials and structures, vol. 35, (2002) 28-34. ## 44.	YuY., Yin J., Zhong Z., &quot;Shape effects in the Brazilian tensile strength test and a 3D FEM correction&quot;, International Journal of Rock Mechanics and Mining Sciences, vol.43(4) (2006) 623-627. ## 45.	Es-Saheb M. H., Albedah A., Benyahia F., &quot;Diametral compression test: validation using finite element analysis&quot;, The International Journal of Advanced Manufacturing Technology, vol. 57 (5-8) (2011) 501-509. ## 46.	Tavallali A., Vervoort A., &quot;Behaviour of layered sandstone under Brazilian test conditions: Layer orientation and shape effects&quot;, Journal of Rock Mechanics and Geotechnical Engineering vol.5, (2013) 366-377. ## 47.	Allena R. Cluzel C., &quot;Identification of anisotropic tensile strength of cortical bone using Brazilian test&quot;, Journal of the Mechanical Behavior of Biomedical Materials vol.38 (2014) 134-142. ## 48.	Kaklis K. N., Maurigiannakis S. P., Agioutantis Z. G., Stathogianni F. K., Steiakakis E. K., &quot;Experimental investigation of the size effect on the mechanical properties on two natural building stones&quot;, 8th GRACM International Congress on Computational Mechanics, 12-15 July 2015, Volos, Greece (2015). ## 49.	Lin H., Xiong W., Yan Q., &quot;Three-dimensional effect of tensile strength in the standard Brazilian test considering contact length&quot;, Geotechnical Testing Journal, vol. 39(1) (2016) 137-143. ## 50.	Sabih G., Paneru L. P., Tarefder R. A., &quot;Simulation of the Brazilian test on concrete discs to verify the size effect law&quot;, Geo-China 2016 (2016) 18-25. ## 51.	Khosravi A., Simon R., Rivard P., &quot;The shape effect on the morphology of the fracture surface induced by the Brazilian test&quot;, International Journal of Rock Mechanics and Mining Sciences vol. 93 (2017) 201-209. ## 52.	Li, Y., &quot;A review of shear and tensile strengths of the Malan Loess in China&quot;, Engineering Geology, (2017) doi: 10.1016/j., enggeo (2017) 02.023. ## 53.	Sharrock G. B., Akram M. S., Mitra R., &quot;Application of synthetic rock mass modeling to estimate the strength of jointed sandstone&quot;, 43rd U.S. Rock Mechanics Symposium &amp; 4th U.S. - Canada Rock Mechanics Symposium, Asheville, North Carolina (2009). ## 54.	Hobbs D. W., &quot;The tensile strength of rocks, International Journal of Rock Mechanics&quot;, Mining Sciences and Geomechanical Abstracts, vol. 1(3) (1964) 385-396. ## 55.	Hoek E., Brown E., &quot;Underground excavations in rock&quot;, Hertford, London (1980). ##  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>ارزیابی مقاومت فشاری آزاد در تثبیت و جامدسازی خاک آلوده به فنل با استفاده از رس‌های معمولی و اصلاح‌شده</TitleF>
+		<TitleE>Evaluation of the unconfined compressive strength in solidification and stabilization of a phenol-contaminated soil using ordinary and organophilic clays</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>در این تحقیق عملکرد رس&#173;های معمولی و اصلاح &#173;شده در مقاومت فشاری آزاد خاک آلوده به فنل در فن&#173;آوری تثبیت و جامدسازی بررسی شد. تمامی نمونه&#173;ها شامل2000 میلی&#173;گرم بر کیلوگرم فنل بود. از سیمان سفید (15و 30 درصد وزنی) به&#8204;عنوان جامدکننده و از رس&#173;های معمولی و اصلاح&#173; شده (8، 15 و 30 درصد وزنی) به&#8204;عنوان مواد افزودنی با عمر نمونه&#173;های 28 روزه استفاده شد. با افزایش مقدار رس&#173;ها، مقاومت فشاری آزاد کاهش یافت و این کاهش در نمونه&#173;های شامل رس اصلاح&#173; شده بیش&#8204;تر از نمونه&#173;های رس معمولی مشاهده شد. مقادیر مقاومت فشاری آزاد تمامی نمونه&#173;ها توانست استانداردهای حداقلی تعیین&#173;شده برای دفع در محل&#173;های بهداشتی از سوی کشورهای فرانسه، هلند، بریتانیا و امریکا را برآورده سازد. نمونه شامل 30 درصد سیمان سفید و 8 درصد بنتونیت، بیش&#8204;ترین مقدار مقاومت فشاری (4856 کیلوپاسکال) و نمونه شامل 15 درصد سیمان سفید و 30 درصد رس اصلاح &#173;شده، کم&#8204;ترین مقدار مقاومت فشاری آزاد (2226 کیلوپاسکال) را نشان دادند. با توجه به این&#8204;که قیمت رس اصلاح&#173;شده بیش&#8204;تر از رس معمولی است، اگر در فرآیند تثبیت و جامدسازی خاک آلوده به فنل فقط عامل مقدار مقاومت فشاری مد نظر باشد، استفاده از رس معمولی در مقایسه با رس اصلاح&#173; شده مقرون به صرفه&#173;تر خواهد بود</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Introduction
+One of the most important 1-ring aromatic organic pollutants is phenol and its related compounds. These compounds are classified as hazardous wastes base on U.S.EPA primary contaminates list. The phenolic compounds are very poisonous and these are harmful for human health and also for other biota.
+To control the movement of such hazardous organic waste in a contaminated soil, solidification/stabilization (S/S) process can be an effective alternative.&#160; Due to the negative impact of organic compounds on the cement hydration, the cement-based S/S may be not effective for controlling the movement of such pollutants. To avoid these effects, using some additives during solidification period has been recommended. One of the proposed of such compounds is organophilic clay that is the modified montmorillonite by quaternary ammonium salts (QAS). There are several researches to evaluate the organophilic clay effect on adsorption and stabilization of organic compounds during S/S process. The effectivity of S/S process can be examined by several tests such as leaching test, durability, unconfined compressive strength (UCS), etc.
+In this study, efficiency of ordinary and organophilic clay was evaluated in the solidification and stabilization process based on unconfined compressive strength of a phenol-contaminated soil.
+Material and methods
+In this study, an artificially phenol contaminated sand was considered to evaluate the effectivity of the white cement based S/S process by using two different additives of ordinary and organophilic clay.
+The contaminated sand contains 2000 ppm of phenol. S/S process was conducted on 14 samples with different amounts of white cement (15 and 30 wt%) as binder and ordinary/organophilic clay (0, 8, 15, and 30 wt % for each of them) as the additives. Two zero percent additive samples are considered as control samples.
+All samples were cured for 28 days and then UCS test was conducted for all of them.
+Results and discussion
+Unconfined compressive strength of all examined samples were ranged from 2226 to 6999 KPa. In the samples with equal amount of cement, th higher UCS values can be observed in blank samples (without any additives and phenol). By adding phenol in the examined sand, UCS of the solidified sample reduces 3 -3.5%.Moreover, results showed that UCS was reduced by increasing the amount of clays. The reduction of the samples containing organophilic clay was higher than samples containing ordinary clay. Unconfined compressive strength values of all samples met the minimum standards indicated by France, Netherlands, Britain and America for disposal in a sanitary landfill. The sample with 30% white cement and 8% bentonite was the maximum amount of UCS (4856 KPa) and the sample with 15% white cement and 30% organophilic clay was the minimum one (2226 KPa). In this study, the average cost of organophilic clay-based solidified samples was 2.3 to 2.8 times more than the average cost of the bentonite-based solidified samples.
+Conclusion
+In this study, the strength of the cement-based solidified samples contaminated by phenol was investigated. The summary of the findings of the research is as follows:
+1. By adding the phenol to pure sand, the UCS of the samples can be reduced 3-3.5 %.
+2. Addition of organophilic clay reduces the UCS of the samples more than the ordinary clay (bentonite) in the same amount.
+3. All samples met the recommended UCS level for the S/S process. The minimum UCS level is for the sample with 15% of cement and 30% of organophilic clay.
+The cost of S/S process is between 23 and 650 $/ton of contaminated soil depending on the amount of used additives and binder. The samples containing organophilic clay has a higher cost than the similar sample containing ordinary clay.
+4. To evaluate the S/S process effectivity, a leaching test of phenol (such as TCLP) is recommended &#160;./files/site1/files/0Extended_Abstract2.pdf</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>343</FPAGE>
+			<TPAGE>362</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>نیما</Name>
+				<MidName></MidName>
+				<Family>حیدرزاده</Family>
+				<NameE>nima</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Headarzadeh</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکده فنی و مهندسی، گروه عمران، تهران، ایران</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه خوارزمی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>تانیا</Name>
+				<MidName></MidName>
+				<Family>تسلیمی</Family>
+				<NameE>Tania</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Taslimi</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکده فنی و مهندسی، گروه عمران، تهران، ایران</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه خوارزمی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Solidification and stabilization</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Unconfined compressive strength</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Phenol</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Organophilic clay.</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تثبیت و جامدسازی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مقاومت فشاری آزاد</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>فنل</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>رس اصلاح‌شده</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF> 1. Department for Environment, Food and Rural Affairs (DEFRA), &quot;Soil Guidance Values for Phenol Contamination&quot;, The Environment Agency (2005) 6-34. ## 2. Michalowicz J., Duda W., &quot;Phenols-Sources and Toxicity&quot;, Polish Journal of Environmental Studies, Vol.16 (2007) 347-362. ## 3. Conner J. R., &quot;Chemical Fixation and Solidification of Hazardous Wastes&quot; 1st Edition (1990) 673-681. ## 4. Spence R. D., Shi C., &quot;Stabilization and Solidification of Hazardous, Radioactive and Mixed Wastes&quot;, CRC Press (2004) 392. ## 5. U.S.EPA, &quot;Solidification/Stabilization Resource Guide&quot;, Office of Solid Waste and Emergency Response (1999a). ## 6. U.S.EPA, &quot;Solidification/Stabilization Use at Superfund Sites&quot;, Office of Solid Waste and Emergency Response (2000). ## 7. U.S.EPA, &quot;Treatment Technologies for Site Cleanup: Annual Status Report&quot;, 12th edition (2007). 8. Lampris C., Stegemann J. A., Cheeseman C. R., &quot;Solidification/Stabilisation of Air Pollution Control Residues using Portland cement: Physical Properties and Chloride Leaching&quot;, Waste Management, Vol.29 (2009) 1067-1075. ## 9. Malviya R., Chaudhary R., &quot;Factors Affecting Hazardous Waste Solidification/Stabilization&quot;, Journal of Hazardous Materials, Vol.137 (2006b) 267-276. ## 10. U.S.EPA, &quot;Records of Decision Analysis of Superfund Sites Employing Solidification/Stabilization as Component of the Selected Remedy&quot;, Washington, DC (1994). ## 11. Tittlebaum M., Eaton H., Cartledge F., Walsh M., Roy A., &quot;Procedures for Characterizing Effects of Organics on Solidification/Stabilization of Hazardous Wastes&quot;, Hazardous and Industrial Solid Waste Testing and Disposal, Vol.6 (1986) 308-318. ## 12. Vipulanandan C., Krishnan S., &quot;Leachability and Biodegradation of High Concentration of Phenol and O-chlorophenol&quot;, Hazardous Waste &amp; Hazardous Materials, Vol.10 (1993) 27-46. ## 13. Montgomery D. M., Sollars C. J., Perry R., &quot;Optimization of Cement-based Stabilization/Solidification of Organic-containing Industrial Wastes using Organophilic Clays&quot;, Waste Management &amp; Research, Vol.9 (1991) 21-34. ## 14. Cioffi R., Maffucci L., Santoro L., Glasser F. P., &quot;Stabilization of Chloro-organics using Organophilic Bentonite in a Cement-blast Furnace Slag Matrix&quot;, Waste Management, Vol.21 (2001) 561-660. ## 15. Guray S., Vedat P., Nezih K. S., Gizem K., &quot;Properties of Steel Foundry Electric Arc Furnace Dust Solidified/Stabilized with Portland Cement&quot;, Journal of Environmental Management, Vol.85 (2007) 190-197. ## 16. Voglar G. E., Lestan D., &quot;Efficiency Modeling of Solidification/ Stabilization of Multi-metal Contaminated Industrial Soil using Cement and Additives&quot; Journal of Hazardous Materials, Vol.192 (2011) 753-762. ## 17. Montgomery D. M., Sollars C. J., Sheriff T. S., Perry R., &quot;Organophilic clays for the Successful Stabilization/Solidification of Problematic Industrial Wastes&quot;, Environmental Technology Letters, Vol.9 (1988) 1403-1412. ## 18. Alther G. R., Evans J. C., Pancoski S. E., &quot;Organically Modified Clays for Stabilization of Organic Hazardous Wastes&quot;, Conference Superfund 88, Washington DC (1988). ## 19. Hebatpuria V. M., Arafat H. A., Bishop P. L., Pinto N. G., &quot;Leaching Behavior of Selected Aromatics in Cement-based Solidification/ Stabilization under Different Leaching Tests&quot;, Environmental Engineering Science, Vol.16 (1999) 451-463. ## 20. Shin H. S., Jun K. S., &quot;Cement-based Stabilization/Solidification of Organic Contaminated Hazardous Wastes using Na-bentonite and Silica-fume&quot;, Journal of Environmental Science and Health, Part A: Toxic/ Hazardous Substances and Environmental Engineering, Vol.30 (1995), 651-668. ## 21. Jun K. S., Shin H. S., &quot;Microstructural Analysis of OPC/Silica-fume/Na-bentonite Interaction in Cement Based Solidification of Organic Contaminated Hazardous Waste&quot;, Journal of Environmental Science and Health, Part A: Toxic/Hazardous Substances and Environmental Engineering, Vol.32 (1999) 913-928. ## 22. Cadena F., &quot;Use of Tailored Bentonite for Selective Removal of Organic Pollutants&quot;, Journal of Environmental Engineering, Vol.115 (1989) 756-767. ## 23. حیدرزاده ن.، گیتی‌پور س.، &quot;تثبیت و جامدسازی هیدروکربن‌های آروماتیک چند حلقه‌ای در خاک به‌وسیلۀ سیمان و خاک رس اصلاح شده&quot;، پایان‌نامۀ کارشناسی ارشد، دانشکدۀ محیط زیست، دانشگاه تهران (1388). ## 24. Southern Clay Products Inc. (SCP), Clay Chemistry (2008b), http://www.rockwoodadditives.com/claytone/chemistry2.asp. Access date: October (2008). ## 25. Vipulanandan C., &quot;Effect of Clays and Cement on the Solidification/ Stabilization of Phenol-Contaminated Soils&quot;, Waste Management, Vol.15 (1995) 399-406. ## 26. Lo I. M. C., &quot;Solidification/Stabilization of Phenolic Waste using Organic-clay Complex&quot;, Journal of Environmental Engineering, Vol.122 (1996) 850-855. ## 27. محبی م.، گیتی‌پور س.، &quot;بررسی بازدهی روش جامدسازی و تثبیت خاک‌های آلوده به هیدروکربن‌های نفتی به‌کمک سیمان پرتلند و رس اصلاح‌شده، مطالعۀ مورد خاک آلوده به آلاینده کرسول در پالایشگاه تهران&quot; پایان‌نامهۀ کارشناسی ارشد، دانشکدۀ محیط زیست، دانشگاه تهران (1389). ## 28. Environment Agency, &quot;Contaminants in Soil: Collation of Toxicological Data and Intake Values for Humans&quot;, R&amp;D Publications, Environment Agency R&amp;D Dissemination Centre (2003). ## 29. میرمحمدی ن.، حمیدی ا.، &quot;بررسی آزمایشگاهی رفتار ترمومکانیکی خاک‌های رسی اشباع دارای ساختار در دماهای بالا&quot; پایان‌نامۀ کارشناسی ارشد، دانشکدۀ فنی مهندسی، دانشگاه خوارزمی (1394). ## 30. شرکت سیمان سفید بنوید، جدول مشخصات فیزیکی و شیمیایی سیمان سفید، بازیابی شده از آدرس http://www.benvid.com/index.aspx در اسفند (1394). ## 31. Merck Millipore, Phenol 100201, Retrieve from ## http://www.merckmillipore.com/ Access date: October 2015. ## 32. Barth E. F., Percin P. D., &quot;Stabilization and Solidification of Hazardous Waste&quot;, Pollution Technology Review, NO. 186 (1990) 390. ## 33. U.S.EPA, &quot;Stabilization/Solidification of CERCLA and RCRA Wastes, Physical Tests, Chemical Testing Procedure, Technology Screening, and Field Activities&quot;, Center for Environmental Research Information and Risk Reduction Engineering Laboratory, Office of Research and Development, Cincinnati, OH 45268, EPA/625/6-89/022 (1989). ##  34. Alibaba, Retrieve From https://www.alibaba.com/. Access date: (January 2016). ## 35. The Statistics Portal, Statista, Retrieve From http://www.made-in-china.com/. Access date: (January 2016). ## ## 1. Department for Environment, Food and Rural Affairs (DEFRA), &quot;Soil Guidance Values for Phenol Contamination&quot;, The Environment Agency (2005) 6-34. ## 2. Michalowicz J., Duda W., &quot;Phenols-Sources and Toxicity&quot;, Polish Journal of Environmental Studies, Vol.16 (2007) 347-362. ## 3. Conner J. R., &quot;Chemical Fixation and Solidification of Hazardous Wastes&quot; 1st Edition (1990) 673-681. ## 4. Spence R. D., Shi C., &quot;Stabilization and Solidification of Hazardous, Radioactive and Mixed Wastes&quot;, CRC Press (2004) 392. ## 5. U.S.EPA, &quot;Solidification/Stabilization Resource Guide&quot;, Office of Solid Waste and Emergency Response (1999a). ## 6. U.S.EPA, &quot;Solidification/Stabilization Use at Superfund Sites&quot;, Office of Solid Waste and Emergency Response (2000). ## 7. U.S.EPA, &quot;Treatment Technologies for Site Cleanup: Annual Status Report&quot;, 12th edition (2007). 8. Lampris C., Stegemann J. A., Cheeseman C. R., &quot;Solidification/Stabilisation of Air Pollution Control Residues using Portland cement: Physical Properties and Chloride Leaching&quot;, Waste Management, Vol.29 (2009) 1067-1075. ## 9. Malviya R., Chaudhary R., &quot;Factors Affecting Hazardous Waste Solidification/Stabilization&quot;, Journal of Hazardous Materials, Vol.137 (2006b) 267-276. ## 10. U.S.EPA, &quot;Records of Decision Analysis of Superfund Sites Employing Solidification/Stabilization as Component of the Selected Remedy&quot;, Washington, DC (1994). ## 11. Tittlebaum M., Eaton H., Cartledge F., Walsh M., Roy A., &quot;Procedures for Characterizing Effects of Organics on Solidification/Stabilization of Hazardous Wastes&quot;, Hazardous and Industrial Solid Waste Testing and Disposal, Vol.6 (1986) 308-318. ## 12. Vipulanandan C., Krishnan S., &quot;Leachability and Biodegradation of High Concentration of Phenol and O-chlorophenol&quot;, Hazardous Waste &amp; Hazardous Materials, Vol.10 (1993) 27-46. ## 13. Montgomery D. M., Sollars C. J., Perry R., &quot;Optimization of Cement-based Stabilization/Solidification of Organic-containing Industrial Wastes using Organophilic Clays&quot;, Waste Management &amp; Research, Vol.9 (1991) 21-34. ## 14. Cioffi R., Maffucci L., Santoro L., Glasser F. P., &quot;Stabilization of Chloro-organics using Organophilic Bentonite in a Cement-blast Furnace Slag Matrix&quot;, Waste Management, Vol.21 (2001) 561-660. ## 15. Guray S., Vedat P., Nezih K. S., Gizem K., &quot;Properties of Steel Foundry Electric Arc Furnace Dust Solidified/Stabilized with Portland Cement&quot;, Journal of Environmental Management, Vol.85 (2007) 190-197. ## 16. Voglar G. E., Lestan D., &quot;Efficiency Modeling of Solidification/ Stabilization of Multi-metal Contaminated Industrial Soil using Cement and Additives&quot; Journal of Hazardous Materials, Vol.192 (2011) 753-762. ## 17. Montgomery D. M., Sollars C. J., Sheriff T. S., Perry R., &quot;Organophilic clays for the Successful Stabilization/Solidification of Problematic Industrial Wastes&quot;, Environmental Technology Letters, Vol.9 (1988) 1403-1412. ## 18. Alther G. R., Evans J. C., Pancoski S. E., &quot;Organically Modified Clays for Stabilization of Organic Hazardous Wastes&quot;, Conference Superfund 88, Washington DC (1988). ## 19. Hebatpuria V. M., Arafat H. A., Bishop P. L., Pinto N. G., &quot;Leaching Behavior of Selected Aromatics in Cement-based Solidification/ Stabilization under Different Leaching Tests&quot;, Environmental Engineering Science, Vol.16 (1999) 451-463. ## 20. Shin H. S., Jun K. S., &quot;Cement-based Stabilization/Solidification of Organic Contaminated Hazardous Wastes using Na-bentonite and Silica-fume&quot;, Journal of Environmental Science and Health, Part A: Toxic/ Hazardous Substances and Environmental Engineering, Vol.30 (1995), 651-668. ## 21. Jun K. S., Shin H. S., &quot;Microstructural Analysis of OPC/Silica-fume/Na-bentonite Interaction in Cement Based Solidification of Organic Contaminated Hazardous Waste&quot;, Journal of Environmental Science and Health, Part A: Toxic/Hazardous Substances and Environmental Engineering, Vol.32 (1999) 913-928. ## 22. Cadena F., &quot;Use of Tailored Bentonite for Selective Removal of Organic Pollutants&quot;, Journal of Environmental Engineering, Vol.115 (1989) 756-767. ## 23. حیدرزاده ن.، گیتی‌پور س.، &quot;تثبیت و جامدسازی هیدروکربن‌های آروماتیک چند حلقه‌ای در خاک به‌وسیلۀ سیمان و خاک رس اصلاح شده&quot;، پایان‌نامۀ کارشناسی ارشد، دانشکدۀ محیط زیست، دانشگاه تهران (1388). ## 24. Southern Clay Products Inc. (SCP), Clay Chemistry (2008b), http://www.rockwoodadditives.com/claytone/chemistry2.asp. Access date: October (2008). ## 25. Vipulanandan C., &quot;Effect of Clays and Cement on the Solidification/ Stabilization of Phenol-Contaminated Soils&quot;, Waste Management, Vol.15 (1995) 399-406. ## 26. Lo I. M. C., &quot;Solidification/Stabilization of Phenolic Waste using Organic-clay Complex&quot;, Journal of Environmental Engineering, Vol.122 (1996) 850-855. ## 27. محبی م.، گیتی‌پور س.، &quot;بررسی بازدهی روش جامدسازی و تثبیت خاک‌های آلوده به هیدروکربن‌های نفتی به‌کمک سیمان پرتلند و رس اصلاح‌شده، مطالعۀ مورد خاک آلوده به آلاینده کرسول در پالایشگاه تهران&quot; پایان‌نامهۀ کارشناسی ارشد، دانشکدۀ محیط زیست، دانشگاه تهران (1389). ## 28. Environment Agency, &quot;Contaminants in Soil: Collation of Toxicological Data and Intake Values for Humans&quot;, R&amp;D Publications, Environment Agency R&amp;D Dissemination Centre (2003). ## 29. میرمحمدی ن.، حمیدی ا.، &quot;بررسی آزمایشگاهی رفتار ترمومکانیکی خاک‌های رسی اشباع دارای ساختار در دماهای بالا&quot; پایان‌نامۀ کارشناسی ارشد، دانشکدۀ فنی مهندسی، دانشگاه خوارزمی (1394). ## 30. شرکت سیمان سفید بنوید، جدول مشخصات فیزیکی و شیمیایی سیمان سفید، بازیابی شده از آدرس http://www.benvid.com/index.aspx در اسفند (1394). ## 31. Merck Millipore, Phenol 100201, Retrieve from ## http://www.merckmillipore.com/ Access date: October 2015. ## 32. Barth E. F., Percin P. D., &quot;Stabilization and Solidification of Hazardous Waste&quot;, Pollution Technology Review, NO. 186 (1990) 390. ## 33. U.S.EPA, &quot;Stabilization/Solidification of CERCLA and RCRA Wastes, Physical Tests, Chemical Testing Procedure, Technology Screening, and Field Activities&quot;, Center for Environmental Research Information and Risk Reduction Engineering Laboratory, Office of Research and Development, Cincinnati, OH 45268, EPA/625/6-89/022 (1989). ##  34. Alibaba, Retrieve From https://www.alibaba.com/. Access date: (January 2016). ## 35. The Statistics Portal, Statista, Retrieve From http://www.made-in-china.com/. Access date: (January 2016). ##  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>زیست دسترس پذیری و غلظت فلزات سنگین در خاک‌ها و گیاهان اطراف سد باطله معدن ایرانکوه </TitleF>
+		<TitleE>Bioavailability and Concentration of Heavy Metals in Soils and Plants near Irankuh mine Tailing Dams</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>معدن&#173;کاری از منابع بالقوه ورود فلزات به داخل محیط به&#173;ویژه خاک و گیاهان است. در این پژوهش غلظت و&#160; دسترس&#173;پذیری فلزات سنگین در خاک&#173;ها و گیاهان اطراف سدهای باطله معدن ایرانکوه به&#8204;عنوان بزرگ&#8204;ترین معادن سرب و روی کشور بررسی شده است. برای این منظور 31 نمونه خاک از زمین&#173;های گلخانه&#8204;ای اطراف سد باطله فرآوری معدن برداشت شد و غلظت فلزات سنگین، محتوای دسترس&#173;پذیر آن&#173;ها به&#8204;همراه برخی خواص فیزیکوشیمیایی خاک اندازه&#173;گیری شد. نتایج نشان&#8204;دهندۀ غلظت بالای فلزات Zn، Pb و Cd در نمونه&#8204;های خاک (میانگین به&#8204;ترتیب 955، 261 و 17/2 میلی&#8204;گرم بر کیلوگرم) است و با نزدیک شدن به سد باطله بر درجۀ آلودگی هر سه فلز افزوده می&#8204;شود. هم&#8204;چنین این سه فلز با سایر فلزات هم&#8204;بستگی ضعیفی داشته و از بین خواص خاک نیز با درصد رس هم&#8204;بستگی معناداری نشان می&#8204;دهند. برای استخراج فلزات از 17 نمونه خاک منطقه از محلول DTPA استفاده شد. بر اساس نتایج به&#8204;دست آمده از این روش، سهم غلظت دسترس&#173;پذیر از غلظت کل برای فلز Cd از دو فلز دیگر بیش&#8204;تر است (60 % برای کادمیم، 20 % برای روی و 10 % برای سرب) و با توجه به ماهیت قلیایی نمونه&#8204;های خاک بخش دسترس&#8204;پذیر برای هر سه فلز درصد کمی از غلظت کل آن&#173;ها را شامل می&#8204;شود. تعیین غلظت کل فلزات در سبزیجات کشت شده در خاک&#8204;های گلخانه&#8204;ای (گیاه ریحان- (Ocimum basilicumنیز نشان داد که غلظت هر سه فلز بررسی شده بسیار بیش&#8204;تر از غلظت مجاز آن در گیاهان غیرآلوده است و هم&#8204;بستگی منفی و معناداری بین غلظت فلزات در ریشه و میزان زیست&#173;دسترس&#173;پذیر آن&#173;ها در خاک دیده می&#173;شود. که با توجه به نتایج، مصرف این سبزیجات می&#8204;تواند با ایجاد خطر سلامتی برای مصرف&#8204;کنندگان در طولانی مدت همراه باشد</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Introduction
+Exploitation or processing of ores is usually associated with the production of a large amount of waste materials. These materials often have a high concentration of metals which can enter the environment through weathering or erosion. It is well-known that the measurement of the total concentration of metals cannot be an adequate for evaluating the pollution status of soil. Therefore, in most studies on soil contamination, bioavailability content of metals is determined by which can predicate the fate of the metals entering into the other parts of the environment such as plants, water or human food chain. The bioavailability of metals in the soil environment is the exchangeable and absorbable metals for plants, which depends on their exchangeability and absorption by soil organisms especially plants. This is also the function of the chemical form of each element in the soil.&#160; The main purpose of the present study was to measure the total concentrations along with the bioavailable content of metals in soils and plants around the Irankuh mine tailing dams.
+Area of study
+The Irankuh lead and zinc mine is located 20 kilometers southwest of Isfahan. This mine is of MVT type Pb-Zn deposit which occurred mainly in limestone and dolostone of lower cretaceous age. The Irankuh mine is an open-pit mine with annual extraction of 358 thousand of PbO and ZnO. The exploitation of mine is also associated with the production of a large amount of waste material which is piled in open dumps around the mine. The main minerals of ores are galena, sphalerite and pyrite.
+Materials and methods
+31 sampling sites were selected randomly for collecting agricultural soils around the tailing dams. Each soil sample is actually composite sample of four samples which are taken from a depth of 15 to 20 cm. Seven cultivated plants (Ocimum basilicum) were sampled from green houses in the vicinity of tailing dams. After drying and sieving, about 50g of the soils are chemically analyzed in order to determine the total concentration of the metals by the ICP-OES method.&#160; Plant samples after drying were changed to ash in the furnace at temperature &#62; 500 C. The concentrations of metals (Zn, Pb and Cd) were then measured by Atomic Absorption Spectrometers in their stem, roots and leaves.
+pH samples of soil were also determined using the EPA 9045 method. Walkley and Black method were used to measure the amount of organic matter. The cation exchange capacity (CEC) of soil samples was also determined based on EPA 9087 method. Soil texture determined using hydrometric method and then classified according to USDA classification. Diethylene Triamine Pentaacetic Acid (DTPA) extractable metals (bioavailable content) were determined using the method by Lindsay and Norvell (1978) and their concentrations in the DTPA extracts were determined by Atomic Absorption Spectrophotometer (AAS).
+The metal transfer from soil to plant was calculated using the transfer factor (TF: metal content in plant divided by metal content in soil).
+Results and discussion
+The soil pH of the studied samples varies from 7.36 to 8.35. Cation exchange capacity (CEC) of soil samples was estimated to be in the range of 4 to 22.2 Meq/100 g. Also, the amount of organic matter in the studied soil samples varies from 0.17 to 3.43%. The relative high levels of soil organic matter are probably due to addition of organic manure to soil through agricultural activity. The total concentration of these three matls are significantly higher than their corresponding values in the crust implying that the mining activity and tailing dams greatly elevated the concentration of these metals in soils. Statistically, there is a significant positive correlation among Zn, Pb and Cd (at confidence level of 0.01) indicating that their potential source is the same or having similar geochemical behavior in the soil. The soil clay content showed a significant correlation at the level of 0.05 with Zn, Cd and Pb. This indicates that clay fraction plays a significant role in absorption of these metals in soil. According to the results of single extraction (DTPA method), the proportion of available content for Cd is higher than that of Zn and Pb. Cadmium is often characterized by its high mobility in soil media. Based on the correlation coefficients at the confidence level of 0.01, it is also observed that the increase in total concentration of Cd increased its bioavailability content in the soil consequently increase the availability of other elements in the soil. Therefore, it can be inferred that the availability of Cd in the soils of the study area is likely to be increased in the presence of Zn and Pb because in sites where the total concentration of Pb and Zn is high, the content of Cd availability has also elevated.
+Based on the comparison of the average concentration of the metals in different parts of the plants, the concentration of metals is ordered as follows stem&#62; leaf&#62; root, which indicates the high root capacity for the accumulation of metals. The average transfer factor (TF) for Cd is obtained much higher than those of Zn and Pb. There is also a negative significantly correlation between the concentrations of Cd in the aerial parts of the plants and its bioavailability concentration in the soil. Also, there is positive and significant correlation between Zn and Cd for all three different parts and its bioavailability concentration in the soil. In the case of Pb, a significant correlation is observed between stem and root parts. This means that Cd and Zn after being absorbed by the root, are more likely being uptake by the plants due to high mobility of zinc. However due to less mobility of Pb, it is seemingly entered into the plant aerial parts after absorption by the root.
+&#160;
+Conclusion
+The concentration and degree of contamination of the studied soils is very high in terms of total Pb, Zn and Cd concentrations in agricultural soils around the Irankuh mine. The increased heavy metal contents in soils can be attributed to mining activity and tailing dams near cultivated lands. The measurement of the bioavailable content of these metals indicates that the Cd has the highest availability as compared to Zn and Pb. The average concentration of Pb and Cd in different parts of plant which is higher than the permissible limits, implying that the transfer of the available metal part (especially Cd) from the contaminated soil into the plant. Based on the calculated health risk assessment index in this study, it can generally be concluded that the gradual accumulation of these metals, especially in aerial parts of basil might have health hazards for local consumers. &#160;&#160;./files/site1/files/0Extended_Abstract3.pdf</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>363</FPAGE>
+			<TPAGE>384</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>مهسا</Name>
+				<MidName></MidName>
+				<Family>رخ بر</Family>
+				<NameE>Mahsa</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Rokhbar</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه صنعتی شاهرود، دانشکده علوم زمین 09</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه صنعتی شاهرود</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>Mahsa.Rokhbar@gmail.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>افشین</Name>
+				<MidName></MidName>
+				<Family>قشلاقی</Family>
+				<NameE>a</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>qishlaqh</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه صنعتی شاهرود، دانشکده علوم زمین 09</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه صنعتی شاهرود</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>qishlaqi@shahroodut.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>گیتی</Name>
+				<MidName></MidName>
+				<Family>فرقانی</Family>
+				<NameE>g</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>forghani</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه صنعتی شاهرود، دانشکده علوم زمین</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه صنعتی شاهرود</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>gforghani@gmail.com</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Soil</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Heavy metals</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Bioavailability</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Vegetables</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Irankuh mine.</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>خاک</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>فلزات سنگین</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>زیست دسترس‌پذیری</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سبزیجات</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>معدن ایرانکوه</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1. Siegel E. R., &quot;Environmental Geoehemistry of Potentially Toxie Metals&quot;, Springer Berlin Heidelberg, (2002) 218. ## 2. Garrett R. G., &quot;Natural sources of metals to the environment&quot;, Human and Ecological Risk Assessment, Vol.6 (2000) 945-963. ## 3. Reeve R. N., &quot;Introduction to environmental analysis&quot;, John Wiley &amp; Sons, Vol.5 (2002) 301. ## 4. Krishnamurt, G. S. R., Naidu R., &quot;Chemical speciation and bioavailability of trace metals&quot;, In: Biophysico-chemical processes of heavy metals and metalloids in soil environments, John Wiley &amp; Sons, Vol.1 (2007) 419-467. ## 5. Sanchez J., Marino N., Vaquero M. C., Ansorena J., Legorburu I., &quot;Metal pollution by old lead-zinc mines in Urumea River valley (Basque Country, Spain), Soil, biota and sediment&quot;, Water, air, and soil pollution, Vol.107 (1998) 303-319. ## 6. Teršič T., Gosar M., Šajn R., &quot;Impact of mining activities on soils and sediments at the historical mining area in Podljubelj, NW Slovenia&quot;, Journal of Geochemical Exploration, Vol.100 (2009) 1-10. ## 7. Li J., Xie Z. M., Xu J. M., Sun Y. F., &quot;Risk assessment for safety of soils and vegetables around a lead/zinc mine&quot;, Environmental Geochemistry and Health, Vol.28 28 (2006) 37-44. ## 8. داودیفرد م.، &quot;توزیع عناصر جزئی و گونه‌سازی شیمیایی آن‌ها در خاک‌های اطراف معدن ایرانکوه، جنوب‌غرب اصفهان&quot;، پایان-نامۀ کارشناسی ارشد، دانشگاه صنعتی شاهرود (1392) 126. ## 9. تیموری اصل ف.، &quot;بررسی رسوب‌شناسی و سنگ‌شناسی نهشته‌های ژوراسیک و شورابه‌های حوضه‌ای در شکل‌گیری کانسارهای منطقه ایرانکوه (جنوب غرب اصفهان)&quot;، رسالۀ کارشناسی ارشد، دانشگاه اصفهان (1389) 98 . ## 10. غضبان ف.، حاجی‌کاظمی ا.، &quot;شواهد زمین‌شناسی و ژئوشیمیایی موجود در سنگ میزبان نهشته‌های سرب، روی و باریم در ناحیه ایرانکوه غرب ایران مرکزی&quot;، سمپوزیم معدن‌کاری ایران (1373) 49-79. ## 11. Farkas A., Erratico C., Vigano L., &quot;Assessment of the environmental significance of heavy metal pollution in surficial sediments of the River Po&quot;, Chemosphere, Vol.68 (2007) 761-768. ## 12. Walkley A., Black I. A., &quot;An examination of the Degtjareff method for determining soil organic matter, and a proposed modification of the chromic acid titration method&quot;, Soil science, Vol.37 (1934) 29-38. ## 13. Muller G., &quot;Index of geoaccumulation in sediments of the Rhine River&quot;, Vol.2 (1969) 108-118. ## 14. Obiora S. C., Chukwu A., Davies T. C., &quot;Heavy metals and health risk assessment of arable soils and food crops around Pb-Zn mining localities in Enyigba, southeastern Nigeria&quot;, Journal of African Earth Sciences, Vol.116 (2016) 182-189. ## 15. Rattan R. K., Datta S. P., Chhonkar P. K., Suribabu K., Singh A. K., &quot;Long-term impact of irrigation with sewage effluents on heavy metal content in soils, crops and groundwater-a case study&quot;, Agriculture, Ecosystems &amp; Environment, Vol.109 (2005) 310-322. ## 16. US EPA IRIS, United States, Environmental Protection Agency, Integrated Risk## 17. Lindsay W. L., Norvell W. A., &quot;Development of a DTPA Soil Test for Zinc, Iron, Manganese, and Copper&quot;, Soil Sci, Soco Am. J, Vol.42 (1978) 421-428. ## 18. Riemann C., Filzmoser P., Garrett R., Dutter R., &quot;Statistical Data Analysis Explained: Applied Environmental Statistics with R&quot;, John Wiley &amp; Sons, (2011) 362. ## 19. Metson A. J., &quot;Methods of chemical analysis for soil survey samples&quot;. New Zealand Department of Scientific and Industrial Research Soil Bureau, Bulletin, Vol.12 (1956) 165-175. ## 20. Kabata-Pendias A., &quot;Trace elements in soils and plants&quot;, CRC press, (2010) 548. ## 21. Turkdogan M. K., Kilicel F., Kara K., Tuncer I., Uygan I., &quot;Heavy metals in soil, vegetables and fruits in the endemic upper gastrointestinal cancer region of Turkey&quot;, Environmental toxicology and pharmacology, Vol.13 (2003) 175-179. ## 22. Fernandez-Turiel J. L., Acenolaza P., Medina M. E., Llorens J. F., Sardi F., &quot;Assessment of a smelter impact area using surface soils and plant&quot;, Environmental Geochemistry and Health, Vol.23 (2001) 65-78. ## 23. Weinstein P., Horwell C. J., Cook A., &quot;Volcanic emissions and health&quot;, In: Essentials of Medical Geology, Springer, (2013) 805. ## 24. Clemente R., Walker D. J., Roig A., Bernal M. P., &quot;Heavy metal bioavailability in a soil affected by mineral sulphides contamination following the mine spillage at Aznalcóllar (Spain)&quot;, Biodegradation, Vol.14 (2003) 199-205. ## 25. WHO/FAO, Joint FAO/WHO Food Standard Programme Codex Alimentarius Commission 13th Session. Report of the Thirty Eight Session of the Codex Committee on Food Hygiene. Houston, United States of America. ALINORM 07/30/13 (2007). ## 26. Wang C., Li W., Yang Z., Chen Y., Shao W., Ji J., &quot;An invisible soil acidification: Critical role of soil carbonate and its impact on heavy metal bioavailability&quot;, Scientific reports, Vol.5 (2015) 1-9. ## 27. Deng H., Ye Z. H., Wong M. H., &quot;Accumulation of lead, zinc, copper and cadmium by 12 wetland plant species thriving in metal-contaminated sites in China&quot;, Environmental Pollution, Vol.13 (2004) 229-40. ## 28. Information System. http://www.epa.gov/iris/substS (2006). ## 28. Qishlaqi A., Moore F., Forghani G., &quot;Impact of untreated wastewater irrigation on soils and crops in Shiraz suburban area, SW Iran&quot;, Environmental monitoring and assessment, Vol.141 (2008) 257-273. ##   ##1. Siegel E. R., &quot;Environmental Geoehemistry of Potentially Toxie Metals&quot;, Springer Berlin Heidelberg, (2002) 218. ## 2. Garrett R. G., &quot;Natural sources of metals to the environment&quot;, Human and Ecological Risk Assessment, Vol.6 (2000) 945-963. ## 3. Reeve R. N., &quot;Introduction to environmental analysis&quot;, John Wiley &amp; Sons, Vol.5 (2002) 301. ## 4. Krishnamurt, G. S. R., Naidu R., &quot;Chemical speciation and bioavailability of trace metals&quot;, In: Biophysico-chemical processes of heavy metals and metalloids in soil environments, John Wiley &amp; Sons, Vol.1 (2007) 419-467. ## 5. Sanchez J., Marino N., Vaquero M. C., Ansorena J., Legorburu I., &quot;Metal pollution by old lead-zinc mines in Urumea River valley (Basque Country, Spain), Soil, biota and sediment&quot;, Water, air, and soil pollution, Vol.107 (1998) 303-319. ## 6. Teršič T., Gosar M., Šajn R., &quot;Impact of mining activities on soils and sediments at the historical mining area in Podljubelj, NW Slovenia&quot;, Journal of Geochemical Exploration, Vol.100 (2009) 1-10. ## 7. Li J., Xie Z. M., Xu J. M., Sun Y. F., &quot;Risk assessment for safety of soils and vegetables around a lead/zinc mine&quot;, Environmental Geochemistry and Health, Vol.28 28 (2006) 37-44. ## 8. داودیفرد م.، &quot;توزیع عناصر جزئی و گونه‌سازی شیمیایی آن‌ها در خاک‌های اطراف معدن ایرانکوه، جنوب‌غرب اصفهان&quot;، پایان-نامۀ کارشناسی ارشد، دانشگاه صنعتی شاهرود (1392) 126. ## 9. تیموری اصل ف.، &quot;بررسی رسوب‌شناسی و سنگ‌شناسی نهشته‌های ژوراسیک و شورابه‌های حوضه‌ای در شکل‌گیری کانسارهای منطقه ایرانکوه (جنوب غرب اصفهان)&quot;، رسالۀ کارشناسی ارشد، دانشگاه اصفهان (1389) 98 . ## 10. غضبان ف.، حاجی‌کاظمی ا.، &quot;شواهد زمین‌شناسی و ژئوشیمیایی موجود در سنگ میزبان نهشته‌های سرب، روی و باریم در ناحیه ایرانکوه غرب ایران مرکزی&quot;، سمپوزیم معدن‌کاری ایران (1373) 49-79. ## 11. Farkas A., Erratico C., Vigano L., &quot;Assessment of the environmental significance of heavy metal pollution in surficial sediments of the River Po&quot;, Chemosphere, Vol.68 (2007) 761-768. ## 12. Walkley A., Black I. A., &quot;An examination of the Degtjareff method for determining soil organic matter, and a proposed modification of the chromic acid titration method&quot;, Soil science, Vol.37 (1934) 29-38. ## 13. Muller G., &quot;Index of geoaccumulation in sediments of the Rhine River&quot;, Vol.2 (1969) 108-118. ## 14. Obiora S. C., Chukwu A., Davies T. C., &quot;Heavy metals and health risk assessment of arable soils and food crops around Pb-Zn mining localities in Enyigba, southeastern Nigeria&quot;, Journal of African Earth Sciences, Vol.116 (2016) 182-189. ## 15. Rattan R. K., Datta S. P., Chhonkar P. K., Suribabu K., Singh A. K., &quot;Long-term impact of irrigation with sewage effluents on heavy metal content in soils, crops and groundwater-a case study&quot;, Agriculture, Ecosystems &amp; Environment, Vol.109 (2005) 310-322. ## 16. US EPA IRIS, United States, Environmental Protection Agency, Integrated Risk## 17. Lindsay W. L., Norvell W. A., &quot;Development of a DTPA Soil Test for Zinc, Iron, Manganese, and Copper&quot;, Soil Sci, Soco Am. J, Vol.42 (1978) 421-428. ## 18. Riemann C., Filzmoser P., Garrett R., Dutter R., &quot;Statistical Data Analysis Explained: Applied Environmental Statistics with R&quot;, John Wiley &amp; Sons, (2011) 362. ## 19. Metson A. J., &quot;Methods of chemical analysis for soil survey samples&quot;. New Zealand Department of Scientific and Industrial Research Soil Bureau, Bulletin, Vol.12 (1956) 165-175. ## 20. Kabata-Pendias A., &quot;Trace elements in soils and plants&quot;, CRC press, (2010) 548. ## 21. Turkdogan M. K., Kilicel F., Kara K., Tuncer I., Uygan I., &quot;Heavy metals in soil, vegetables and fruits in the endemic upper gastrointestinal cancer region of Turkey&quot;, Environmental toxicology and pharmacology, Vol.13 (2003) 175-179. ## 22. Fernandez-Turiel J. L., Acenolaza P., Medina M. E., Llorens J. F., Sardi F., &quot;Assessment of a smelter impact area using surface soils and plant&quot;, Environmental Geochemistry and Health, Vol.23 (2001) 65-78. ## 23. Weinstein P., Horwell C. J., Cook A., &quot;Volcanic emissions and health&quot;, In: Essentials of Medical Geology, Springer, (2013) 805. ## 24. Clemente R., Walker D. J., Roig A., Bernal M. P., &quot;Heavy metal bioavailability in a soil affected by mineral sulphides contamination following the mine spillage at Aznalcóllar (Spain)&quot;, Biodegradation, Vol.14 (2003) 199-205. ## 25. WHO/FAO, Joint FAO/WHO Food Standard Programme Codex Alimentarius Commission 13th Session. Report of the Thirty Eight Session of the Codex Committee on Food Hygiene. Houston, United States of America. ALINORM 07/30/13 (2007). ## 26. Wang C., Li W., Yang Z., Chen Y., Shao W., Ji J., &quot;An invisible soil acidification: Critical role of soil carbonate and its impact on heavy metal bioavailability&quot;, Scientific reports, Vol.5 (2015) 1-9. ## 27. Deng H., Ye Z. H., Wong M. H., &quot;Accumulation of lead, zinc, copper and cadmium by 12 wetland plant species thriving in metal-contaminated sites in China&quot;, Environmental Pollution, Vol.13 (2004) 229-40. ## 28. Information System. http://www.epa.gov/iris/substS (2006). ## 28. Qishlaqi A., Moore F., Forghani G., &quot;Impact of untreated wastewater irrigation on soils and crops in Shiraz suburban area, SW Iran&quot;, Environmental monitoring and assessment, Vol.141 (2008) 257-273. ##    ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>پهنه‌بندی خطر زمین‌لغزش با استفاده از تئوری دمپستر-شفر مطالعۀ موردی: حوزۀ آبخیز زیارت، استان گلستان</TitleF>
+		<TitleE>Landslide Hazard Mapping Using Dempster-Shafer Theory- A Case Study: Ziarat Watershed, Golestan Province, Iran</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>هدف از این پژوهش ارزیابی خطر زمین&#8204;لغزش حوزۀ آبخیز زیارت استان گلستان با استفاده از تئوری دمپستر-شفر در سیستم اطلاعات جغرافیایی است. در گام اول با استفاده از گزارشات موجود و تفسیر عکس&#8204;های هوایی نقشه پراکنش نقاط لغزشی منطقۀ بررسی شده تهیه شد. از کل نقاط لغزشی (50 نقطه) 35 نقطه آن (70 درصد) برای تهیه نقشه پهنه&#173;بندی خطر و نقاط باقی&#173;مانده (30 درصد) برای ارزیابی مدل در نظر گرفته شد. در گام دوم 12 عامل مؤثر بر زمین&#8204;لغزش برای تهیۀ نقشۀ پهنه&#173;بندی خطر زمین&#8204;لغزش در نظر گرفته شد. این عوامل شامل درصد شیب، جهت شیب، ارتفاع، خطوط هم باران، زمین&#8204;شناسی، کاربری اراضی، بافت خاک، فاصله از جاده، فاصله از گسل، تراکم گسل، فاصله از رودخانه، شاخص قدرت رودخانه هستند. سپس، وزن کلاس&#173;های هر عامل مشخص شده و نقشه پهنه&#173;بندی خطر زمین&#8204;لغزش منطقه با 13 روی&#8204;کرد مدل&#173;سازی با استفاده از تئوری دمپستر- شفر تهیه شد. سرانجام برای ارزیابی مدل&#8204;ها منحنی عملکرد نسبی ترسیم و سطح زیر منحنی محاسبه شد. نتایج ارزیابی نشان داد، تئوری دمپستر-شفر برای روی&#8204;کرد ششم مدل&#8204;سازی (حذف عامل لیتولوژی) با سطح زیر منحنی9/92٪ (عالی) و انحراف معیار 045/0، بیش&#8204;ترین دقت را دارد. از این رو، نقشه خطر زمین لغزش تهیه شده برای منطقۀ بررسی شده می&#173;تواند برای برنامه&#173;ریزان و مهندسان در شناسایی مناطق مستعد خطر زمین&#8204;لغزش و ارائه راهکارهای مناسب برای کاهش و مدیریت خطر مفید باشد</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Introduction
+Landslides are natural events that one or more factors can effect in its occurrence that each of them plays a special role in this field. The hazard assessments of this phenomenon are a complicated problem due to the interference of the effective factors in its occurrence. The uncertainty that is due to ambiguous conditions of geology characteristics, hydrology, tectonics, land cover, rain, erosion, temperature fluctuations in the slope instability demonstrate the benefit of accurate methods in the study of slope instability. Since the prediction of the landslide occurrence is out of the power of current knowledge, identifying sensitive areas to landslide and ranking it can protect us from landslide dangers. According to preliminary estimates, annually 140 million dollar financial damages inflict by landslides over the country, while the loss of unrecoverable natural resources is not counted. In general, the ultimate goal of studying landslides can be found the ways that to reduce damages caused by them. Therefore, it is necessary to prepare the landslide hazard map.
+The main goal of this research is landslide hazard zonation of Ziarat watershed using Dempster-Shafer. For this purpose, 13 modeling approach (using all factors and eliminating of individual factors) to prepare the hazard maps have used. Ultimately, the accuracy of the model has been evaluated using receiver operating characteristic (ROC) curves. The study area is one of the most prone areas to the landslide in the Golestan region. Sensitive lithology units, high diversity of topography and land-use changes have increased landslide susceptibility in this area. Therefore, investigation of effective factors in landslide occurrence and providing zonation maps to take management action in this area is necessary.
+Material and methods
+The study area is located in northern Iran, Golestan province. The Ziyarat watershed with an area of about 7800 hectares lies between longitudes 54&#186; 10ʹ 13ʺE and 54&#186; 23ʹ 55ʺE, and latitudes of 36&#186; 36ʹ 58ʺN and 36&#186; 46ʹ 11ʺN. At first, extensive field observations of the study area and aerial photos in 1:25000 scales have been used. So, a total of 50 sliding points are recognized and inventory map is produced (dependent variables). Then, 70% of total points (35 points) have considered for hazard zonation maps and 30% (15 points) for model validation.
+In this research, twelve factors affecting (independent variables) landslide occurrence to provide hazard maps were applied. These factors include land-use, soil texture, geology, rainfall, slope, aspect, altitude, distance from faults, roads and rivers, stream power index (SPI) and plan curvature (CP). These factors can be divided into three broad categories which are topographical, geological and environmental conditioning parameters. The maps of these 12 factors have been produced using basis maps (DEM and Geology maps) in GIS software. The amount of Landslide density in each factor class have calculated from a combination of independent and dependent variables, and rating of classes have done based on Dempster-Shafer equations. Finally, the Landslide hazard zoning map has drawn from the summation of weighting maps in Arc GIS with 13 approaches. In this map, Value of each pixel is calculated by summing weight of all factors in that pixel. The pixel values are categorized based on natural breaks classifier into very low, low, medium, high and very high hazard zones. Then, an accuracy of zoning map has been evaluated by ROC.
+Results and discussion
+The result of effecting factors on landslide classification shows that Mobarak formation, forest and agriculture land use, areas with low distance from road and rivers, low altitudes, rainfall buffer of 550-650 mm, northwest aspect, clay-loam soil texture, areas with high stream power index, high slope amplitude and area with fault density lower than 2 km/km2 contain the most susceptibility to landslide. The result of model validation using ROC demonstrates that with eliminating lithology factor Dempster-Shafer model with 92.9% accuracy is located in the great class. Also, the model accuracy shows that with eliminating rain and altitude factors the model accuracy is decreased to 73.8% and 80.4%, respectively. So, these two factors were identified as the most effective factors in the occurrence of the landslide in the studied area. Based on the landslide zoning hazard map of the Ziarat watershed and landslide points (15 points) that are considered for model validation the 20, 40, 26.67, 13.33 and zero percent of landslides is situated in the very high, high, moderate, low and very low hazard classes.
+Conclusion
+In this research, susceptible areas to landslide in the Ziarat watershed have been mapped with the Dempster-Shafer model. For this purpose, 13 modeling approach to prepare the hazard maps have been used. The following conclusions are obtained from this study.
+- The rain and altitude factors were identified as the most effective factors in the occurrence of landslide in the Ziarat watershed.
+- Based on the landslide zoning hazard map of the Ziarat watershed 60 percent of landslides is situated in the very high to high hazard classes.
+- The produced landslide hazard map is useful for planners and engineers to reorganize the areas which are susceptible for landslide hazard, and offer appropriate methods for hazard reduction and management. ./files/site1/files/0Extended_Abstract4.pdf&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>385</FPAGE>
+			<TPAGE>404</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>کاظم</Name>
+				<MidName></MidName>
+				<Family>صابر چناری</Family>
+				<NameE>k</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>saberchenari</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه علوم کشاورزی و منابع طبیعی گرگان</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه علوم کشاورزی و منابع طبیعی گرگان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>saber.h64@gmail.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>حسین</Name>
+				<MidName></MidName>
+				<Family>سلمانی</Family>
+				<NameE>h</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>salmani</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه علوم کشاورزی و منابع طبیعی گرگان</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه علوم کشاورزی و منابع طبیعی گرگان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>مریم سادات</Name>
+				<MidName></MidName>
+				<Family>میرعابدینی</Family>
+				<NameE>ms</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>mirabedini</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه گلستان، گروه زمین شناسی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه گلستان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText> Keywords: Landslide Hazard</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Dempster-Shafer model</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Ziarat</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Golestan </KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>خطر زمین لغزش</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تئوری دمپستر-شفر</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>زیارت</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>گلستان</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>2. زارع م.، احمدی ح.، غلامی ش.، &quot;پهنهبندی و ارزیابی خطر زمین‌لغزش با استفاده از مدل‌های عامل اطمینان، ارزش اطلاعات و تحلیل سلسله مراتبی (مطالعه موردی: حوزۀ آبخیز واز)&quot;، مجله علوم و مهندسی آبخیزداری ایران، دوره 5، شماره 17 زمستان (1390) 15-22. ## 3. Remendo J., Gonzales A., Teran J., Cendrero A., Fabbri A., Chung C., &quot;Validation of landslide susceptibility maps, examples and applications from a case study in northern Spain&quot;, Natural Hazard, Vol. 21 (2003) 437-449. ##4. بهاورند س.، سوری س. &quot;پهنه‌بندی خطر زمین‌لغزش با استفاده از منطق فازی و مدل تراکم سطح (مطالعه موردی: حوضۀ کاکاشرف، جنوب‌شرقی خرم‌آباد)&quot;، نشریه زمین‌شناسی مهندسی، جلد 9، شماره 4 زمستان (1394) 3112- 3093. ## 5. Komac M. A., &quot;Landslide susceptibility model using the analytical hierarchy process method and multivariate statistics in perialpine Sloveni&quot;, Geomorphology, Vol.74 (2006) 17-28. ## 6. Pourghasemi H. R., pardhan B., gokceoglu C., dylami moezzi K., &quot;comparative assessment of prediction capabilities of Dempster-Shafer and Weights-of-evidence models in landslide susceptibility mapping using GIS&quot;, Geomatics, Natural Hazards and Risk, Vol.2, (2013a) 93-118. ## 7. فاطمیعقدا س. م.، غیومیان ج.، تشنه لب م.، اشقلی فراهانی، ع.، &quot;بررسی خطر زمین‌لغزش با استفاده از منطق فازی (مطالعۀ موردی: منطقه رودبار)&quot;، مجله علوم دانشگاه تهران، دوره 31، شمارۀ 1 (1384) 43-64. ## 8. مرادی ح.ر.، محمدی م.، پورقاسمی ح.ر.، مصطفی‌زاده ر.، &quot;تحلیل خطر زمین‌لغزش در استان گلستان با استفاده از تئوری دمپستر- شیفر، پژوهش‌های دانش زمین، دوره1، شماره 3 پاییز (1389) 1-14. ## 9. Pourghasemi H. R., Jirandeh A. G., Pradhan B., xu C., Gokceoglu C., &quot;Landslide susceptibility mapping using support vector machine and GIS at the Golestan Province, Iran&quot;, Journal of Earth System Science, Vol.12 (2013b) 349-369. ## 10. شیرانی ک.، سیف ع.، &quot;پهنه‌بندی خطر زمین‌لغزش با استفاده از روش‌های آماری (منطقۀ پیشکوه، شهرستان فریدون شهر)&quot;، مجله علوم زمین، دوره 22، شماره 85 پاییز(1391) 149-158. ## 11. صابرچناری ک.، سلمانی ح.، محمدی م.، &quot;ارزیابی خطر زمین‌لغزش با استفاده از مدل‌های ارزش اطلاعات و LNRF، نشریه اکوهیدرولوژی&quot;، دوره 2، شماره 1 بهار (1394) 116-105. ## 12. Yalcin A., &quot;GIS-based landslide susceptibility mapping using analytical hierarchy process and bivariate statistics in Ardesen (Turkey): comparisons of results and confirmation&quot;. Catena, Vol.72 (2008) 1-12. ## 13. Neuhauser B., Terhorst B., &quot;Landslide susceptibility assessment using weights-of- evidence applied to a study area at the Jurassic escarpment (SW-Germany)&quot;, Geomorphology, Vol.86 (2007) 12-24. ## 14. Lee S., &quot;Application and verification of fuzzy algebraic operators to landslide susceptibility mapping&quot;, Environmental Geology, Vol.52 (2007) 615-623. ## 15. Park N. W., &quot;Application of Dempster-Shafer theory of evidence to GIS-based landslide susceptibility analysis&quot;, Environmental Earth Science, Vol.62 (2010) 367-376## 16. Saadatkhah N., Kassim A., Min Lee L., &quot;Qualitative and Quantitative Landslide Susceptibility Assessments in Hulu Kelang area&quot;, Malaysia, EGJE journal, Vol.19 (2014) 545-563. ## 17. Wang G., Li W., Wu Y., Pei Y., Xing M., Yang D. &quot;A comparative study on the landslide susceptibility mapping using evidential belief function and weights of evidence models&quot;, Journal of Earth System Science, Vol.125 (2016) 645-662. ## 18. Zhang Z., Yang F., Chen H., Wu Y., Li T., Li W., Wang., Liu P., &quot;GIS-based landslide susceptibility analysis using frequency ratio and evidential belief function models&quot;, Environmental Earth Sciences, Vol. 75 (2016) 1-12. ## 19. Ding, Q., Chen W., Hong H., &quot;Application of frequency ratio, weights of evidence and evidential belief function models in landslide susceptibility mapping&quot;, Geocarto International, 10.1080/10106049 (2016) 1165294. ## 20. Althuwaynee O. F., Pradhan B., Lee S., &quot;A novel integrated model for assessing landslide susceptibility mapping using CHAID and AHP pair-wise comparison&quot;, International Journal of Remote Sensing, Vol. 37 (2012) 1190-1209. ## 21. Erener, A., Mutlu A., Sebnem Düzgün, H., &quot;A comparative study for landslide susceptibility mapping using GIS-based multi-criteria decision analysis (MCDA), logistic regression (LR) and association rule mining (ARM)&quot;, Engineering Geology, Vol. 203 (2016) 45-55. ## 22. رحیمی نسب ع. الف.، عبقری ه.، عرفانیان م.، ندیری، ع.، &quot;بررسی و تحلیل مدل هیبرید AHP و تراکم سطح در پهنه‌بندی خطر زمین‌لغزش، پژوهش‌های فرسایش محیطی، دورۀ 2، شمارۀ 5 بهار (1391) 1-11. ## 23. Pourghasemi H. R., Pradhan B., Gokceoglu C., &quot;Application of fuzzy logic and analytical hierarchy process (AHP) to landslide susceptibility mapping at Haraz watershed, Iran&quot;, Nat Hazards, Vol.63 (2012) 965-996. ## 24. Constantin M., Bednarik M., Jurchescu M.C., Vlaicu M., &quot;Landslide susceptibility assessment using the bivariate statistical analysis and the index of entropy in the Sibiciu Basin (Romania)&quot;, Environmental Earth Science, Vol.63 (2010) 397-406. ## 25. کریمی سنگچینی الف.، اونق، م.ف سعدالدین الف.، &quot;ارزیابی خطر و خسارت زمین لغزش در حوزۀ آبخیز چهل چای، استان گلستان&quot;، پژوهش‌های آبخیزداری (پژوهش و سازندگی)، دورۀ 26، شمارۀ 1 (بهار 1392) 74-84 . ## 26. کریمی سنگ‌چینی الف.، اونق م. ف.، سعدالدین الف.، &quot;مقایسۀ کارایی 4 مدل کمی و نیمه‌کمی پهنه‌بندی خطر زمین لغزش در حوزۀ آبخیز چهل‌چای&quot;، استان گلستان، مجله پژوهش‌های حفاظت آب و خاک، جلد 19، شمارۀ 1 (1391) 183-196. ## 27. Moore I. D., Wilson, J. P., &quot;Length-slope factors for the revised universal soil loss equation: simpliﬁed method of estimation&quot;. J Soil Water Conserv, Vol.47 (1992) 423-428. ## 28. Nefeslioglu H. A., Duman T. Y., Durmaz, S., &quot;Landslide susceptibility mapping for a part of tectonic Kelkit Valley (Easten Black Sea Region of Turkey)&quot;, Geomorphology, Vol.94 (2008) 401-418. ## 29. Dempster A. P., &quot;Upper and lower probabilities induced by a multi valued mapping&quot;. The Annals of Mathematical Statistics.Vol.38 (1967) 325-339. ## 30. Shafer G., &quot;A mathematical theory of evidence. Princeton University Press&quot;, Princeton (1976). ## 31. An P., Moon W.M., Bonham-Carter G.F., &quot;Uncertainty management in integration of exploration data using the belief function&quot;, Nonrenewable Resources, Vol.3 (1994) 60-71. ## 32. Regmi N. R., Giardino J. R., Vite, J. D., &quot;Modeling susceptibility to landslides using the weight of evidence approach: Western Colorado, USA&quot;, Geomorphology, Vol.115 (2010) 172–187. ## 33. شادفر ص.، یمانی م.، نمکی م.، پهنه‌بندی خطر زمین‌لغزش با استفاده از مدل های ارزش اطلاعاتی، تراکم سطح و LNRF درحوضۀ چالکرود، مهندسی و مدیریت آبخیز، دورۀ 3، شمارۀ 1 (1390) 40-47. ## 34. پورقاسمی ح ر.، &quot;ارزیابی خطر زمین‌لغزش با استفاده از منطق فازی (مطالعه موردی: بخشی از حوزۀ آبخیز هراز)&quot;، پایان‌نامۀ کارشناسی ارشد، دانشگاه تربیت مدرس، دانشکدۀ منابع طبیعی و علوم دریایی، (1386). ##  ##2. زارع م.، احمدی ح.، غلامی ش.، &quot;پهنهبندی و ارزیابی خطر زمین‌لغزش با استفاده از مدل‌های عامل اطمینان، ارزش اطلاعات و تحلیل سلسله مراتبی (مطالعه موردی: حوزۀ آبخیز واز)&quot;، مجله علوم و مهندسی آبخیزداری ایران، دوره 5، شماره 17 زمستان (1390) 15-22. ## 3. Remendo J., Gonzales A., Teran J., Cendrero A., Fabbri A., Chung C., &quot;Validation of landslide susceptibility maps, examples and applications from a case study in northern Spain&quot;, Natural Hazard, Vol. 21 (2003) 437-449. ##4. بهاورند س.، سوری س. &quot;پهنه‌بندی خطر زمین‌لغزش با استفاده از منطق فازی و مدل تراکم سطح (مطالعه موردی: حوضۀ کاکاشرف، جنوب‌شرقی خرم‌آباد)&quot;، نشریه زمین‌شناسی مهندسی، جلد 9، شماره 4 زمستان (1394) 3112- 3093. ## 5. Komac M. A., &quot;Landslide susceptibility model using the analytical hierarchy process method and multivariate statistics in perialpine Sloveni&quot;, Geomorphology, Vol.74 (2006) 17-28. ## 6. Pourghasemi H. R., pardhan B., gokceoglu C., dylami moezzi K., &quot;comparative assessment of prediction capabilities of Dempster-Shafer and Weights-of-evidence models in landslide susceptibility mapping using GIS&quot;, Geomatics, Natural Hazards and Risk, Vol.2, (2013a) 93-118. ## 7. فاطمیعقدا س. م.، غیومیان ج.، تشنه لب م.، اشقلی فراهانی، ع.، &quot;بررسی خطر زمین‌لغزش با استفاده از منطق فازی (مطالعۀ موردی: منطقه رودبار)&quot;، مجله علوم دانشگاه تهران، دوره 31، شمارۀ 1 (1384) 43-64. ## 8. مرادی ح.ر.، محمدی م.، پورقاسمی ح.ر.، مصطفی‌زاده ر.، &quot;تحلیل خطر زمین‌لغزش در استان گلستان با استفاده از تئوری دمپستر- شیفر، پژوهش‌های دانش زمین، دوره1، شماره 3 پاییز (1389) 1-14. ## 9. Pourghasemi H. R., Jirandeh A. G., Pradhan B., xu C., Gokceoglu C., &quot;Landslide susceptibility mapping using support vector machine and GIS at the Golestan Province, Iran&quot;, Journal of Earth System Science, Vol.12 (2013b) 349-369. ## 10. شیرانی ک.، سیف ع.، &quot;پهنه‌بندی خطر زمین‌لغزش با استفاده از روش‌های آماری (منطقۀ پیشکوه، شهرستان فریدون شهر)&quot;، مجله علوم زمین، دوره 22، شماره 85 پاییز(1391) 149-158. ## 11. صابرچناری ک.، سلمانی ح.، محمدی م.، &quot;ارزیابی خطر زمین‌لغزش با استفاده از مدل‌های ارزش اطلاعات و LNRF، نشریه اکوهیدرولوژی&quot;، دوره 2، شماره 1 بهار (1394) 116-105. ## 12. Yalcin A., &quot;GIS-based landslide susceptibility mapping using analytical hierarchy process and bivariate statistics in Ardesen (Turkey): comparisons of results and confirmation&quot;. Catena, Vol.72 (2008) 1-12. ## 13. Neuhauser B., Terhorst B., &quot;Landslide susceptibility assessment using weights-of- evidence applied to a study area at the Jurassic escarpment (SW-Germany)&quot;, Geomorphology, Vol.86 (2007) 12-24. ## 14. Lee S., &quot;Application and verification of fuzzy algebraic operators to landslide susceptibility mapping&quot;, Environmental Geology, Vol.52 (2007) 615-623. ## 15. Park N. W., &quot;Application of Dempster-Shafer theory of evidence to GIS-based landslide susceptibility analysis&quot;, Environmental Earth Science, Vol.62 (2010) 367-376## 16. Saadatkhah N., Kassim A., Min Lee L., &quot;Qualitative and Quantitative Landslide Susceptibility Assessments in Hulu Kelang area&quot;, Malaysia, EGJE journal, Vol.19 (2014) 545-563. ## 17. Wang G., Li W., Wu Y., Pei Y., Xing M., Yang D. &quot;A comparative study on the landslide susceptibility mapping using evidential belief function and weights of evidence models&quot;, Journal of Earth System Science, Vol.125 (2016) 645-662. ## 18. Zhang Z., Yang F., Chen H., Wu Y., Li T., Li W., Wang., Liu P., &quot;GIS-based landslide susceptibility analysis using frequency ratio and evidential belief function models&quot;, Environmental Earth Sciences, Vol. 75 (2016) 1-12. ## 19. Ding, Q., Chen W., Hong H., &quot;Application of frequency ratio, weights of evidence and evidential belief function models in landslide susceptibility mapping&quot;, Geocarto International, 10.1080/10106049 (2016) 1165294. ## 20. Althuwaynee O. F., Pradhan B., Lee S., &quot;A novel integrated model for assessing landslide susceptibility mapping using CHAID and AHP pair-wise comparison&quot;, International Journal of Remote Sensing, Vol. 37 (2012) 1190-1209. ## 21. Erener, A., Mutlu A., Sebnem Düzgün, H., &quot;A comparative study for landslide susceptibility mapping using GIS-based multi-criteria decision analysis (MCDA), logistic regression (LR) and association rule mining (ARM)&quot;, Engineering Geology, Vol. 203 (2016) 45-55. ## 22. رحیمی نسب ع. الف.، عبقری ه.، عرفانیان م.، ندیری، ع.، &quot;بررسی و تحلیل مدل هیبرید AHP و تراکم سطح در پهنه‌بندی خطر زمین‌لغزش، پژوهش‌های فرسایش محیطی، دورۀ 2، شمارۀ 5 بهار (1391) 1-11. ## 23. Pourghasemi H. R., Pradhan B., Gokceoglu C., &quot;Application of fuzzy logic and analytical hierarchy process (AHP) to landslide susceptibility mapping at Haraz watershed, Iran&quot;, Nat Hazards, Vol.63 (2012) 965-996. ## 24. Constantin M., Bednarik M., Jurchescu M.C., Vlaicu M., &quot;Landslide susceptibility assessment using the bivariate statistical analysis and the index of entropy in the Sibiciu Basin (Romania)&quot;, Environmental Earth Science, Vol.63 (2010) 397-406. ## 25. کریمی سنگچینی الف.، اونق، م.ف سعدالدین الف.، &quot;ارزیابی خطر و خسارت زمین لغزش در حوزۀ آبخیز چهل چای، استان گلستان&quot;، پژوهش‌های آبخیزداری (پژوهش و سازندگی)، دورۀ 26، شمارۀ 1 (بهار 1392) 74-84 . ## 26. کریمی سنگ‌چینی الف.، اونق م. ف.، سعدالدین الف.، &quot;مقایسۀ کارایی 4 مدل کمی و نیمه‌کمی پهنه‌بندی خطر زمین لغزش در حوزۀ آبخیز چهل‌چای&quot;، استان گلستان، مجله پژوهش‌های حفاظت آب و خاک، جلد 19، شمارۀ 1 (1391) 183-196. ## 27. Moore I. D., Wilson, J. P., &quot;Length-slope factors for the revised universal soil loss equation: simpliﬁed method of estimation&quot;. J Soil Water Conserv, Vol.47 (1992) 423-428. ## 28. Nefeslioglu H. A., Duman T. Y., Durmaz, S., &quot;Landslide susceptibility mapping for a part of tectonic Kelkit Valley (Easten Black Sea Region of Turkey)&quot;, Geomorphology, Vol.94 (2008) 401-418. ## 29. Dempster A. P., &quot;Upper and lower probabilities induced by a multi valued mapping&quot;. The Annals of Mathematical Statistics.Vol.38 (1967) 325-339. ## 30. Shafer G., &quot;A mathematical theory of evidence. Princeton University Press&quot;, Princeton (1976). ## 31. An P., Moon W.M., Bonham-Carter G.F., &quot;Uncertainty management in integration of exploration data using the belief function&quot;, Nonrenewable Resources, Vol.3 (1994) 60-71. ## 32. Regmi N. R., Giardino J. R., Vite, J. D., &quot;Modeling susceptibility to landslides using the weight of evidence approach: Western Colorado, USA&quot;, Geomorphology, Vol.115 (2010) 172–187. ## 33. شادفر ص.، یمانی م.، نمکی م.، پهنه‌بندی خطر زمین‌لغزش با استفاده از مدل های ارزش اطلاعاتی، تراکم سطح و LNRF درحوضۀ چالکرود، مهندسی و مدیریت آبخیز، دورۀ 3، شمارۀ 1 (1390) 40-47. ## 34. پورقاسمی ح ر.، &quot;ارزیابی خطر زمین‌لغزش با استفاده از منطق فازی (مطالعه موردی: بخشی از حوزۀ آبخیز هراز)&quot;، پایان‌نامۀ کارشناسی ارشد، دانشگاه تربیت مدرس، دانشکدۀ منابع طبیعی و علوم دریایی، (1386). ##   ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>تأثیر بافت خاک‌های کربناته برخی سواحل و جزایر خلیج‌فارس بر خردشدگی سنگ‌دانه‌ها</TitleF>
+		<TitleE>Effect of Texture on Crushability of Carbonate Sand in Northern Coasts of Persian Gulf</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>خاک&#8204;های کربناته ازلحاظ ویژگی&#8204;های مقاومتی، خردشدگی دانه&#8204;ها و نشست خاک، از خاک&#8204;های مسئله&#8204;دار در طبیعت هستند که گاهی مشکلاتی را برای مهندسان ژئوتکنیک به&#8204;وجود می&#8204;آورند. بخش اعظم این خاک&#8204;ها در بستر آب&#8204;های کم&#8204;عمق مناطق گرمسیری واقع&#8204;شده است. در ایران نیز در سواحل و جزایر خلیج&#8204;فارس و دریای عمان لایه&#8204;های نسبتاً ضخیمی از رسوبات کربناته موجود است. با توجه به اهمیت و گستردگی پروژه&#8204;هایی بزرگی نظیر ساخت پل بزرگ خلیج&#8204;فارس مابین بندرعباس و جزیره قشم، مخازن ذخیره نفت و گاز، سکوهای استخراج نفت و ساخت اسکله&#8204;ها که اخیراً در این مناطق در دست اجرا هستند، شناخت و بررسی چنین خاک&#8204;هایی اهمیت فراوانی دارد. در این تحقیق به بررسی تأثیر بافت رسوبات کربناته بر خردشدگی دانه&#8204;ها می&#8204;پردازیم. نتایج تحقیق نشان می&#8204;دهد افزایش اندازه مؤثر دانه&#8204;ها و ضریب شکل آن&#8204;ها به&#8204;صورت توانی با خردشدگی آن&#8204;ها ارتباط داشته و با افزایش هم&#8204;زمان دو پارامتر فوق میزان خردشدگی تشدید می&#8204;شود</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Carbonate soils are different from silicate soils respect to their origination and engineering behavior. Particles of these soils are mainly residual or debris of sea animals or plants with large amount of calcium carbonate. They also may be chemical sedimentation of calcium carbonate over other soil particles in specific region of seas and oceans. The most important characteristic of these soils is the crushability of their aggregates under loading which is mainly due their shape and also small voids inside of them.&#160; Crushability and subsequent volume changes in carbonate soils have caused many engineering problems in some geotechnical structures such as ...../files/site1/files/0Extended_Abstract5.pdf</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>405</FPAGE>
+			<TPAGE>426</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>محمود</Name>
+				<MidName></MidName>
+				<Family>فاطمی عقدا</Family>
+				<NameE>sm</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>fatemiaghda</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکده علوم زمین</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه خوارزمی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>fatemi@khu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>حبیب</Name>
+				<MidName></MidName>
+				<Family>شاه نظری</Family>
+				<NameE>h</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>shahnazari</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه علم و صنعت ایران، دانشکده مهندسی عمران</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه علم و صنعت ایران</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>hshahnazari@iust.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>حمیدرضا</Name>
+				<MidName></MidName>
+				<Family>کرمی</Family>
+				<NameE>h</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>karami</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکده علوم زمین</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه خوارزمی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>hkarami@iust.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>مهدی</Name>
+				<MidName></MidName>
+				<Family>تلخابلو</Family>
+				<NameE>m</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>talkhablou</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکده علوم زمین</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه خوارزمی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>talkhablou@Sazehpardazi.com</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText> Carbonate soils</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Sand</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Crushing</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Effective size</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Shape index.</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>خاک‌های کربناته</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>خردشدگی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ضریب شکل</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>اندازه مؤثر سنگ‌دانه</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1.	حسنلوراد م.، صالح‌زاده ح.، شاه‌نظری ح.، &quot;اصلاح خاک‌های ماسه‌ای کربناته با استفاده از تزریق شیمیایی&quot; مجله علمی-پژوهشی امیرکبیر، سال 41، شمارۀ (1388 )1. ## 2.	حرمی م. &quot;رسوب‌شناسی&quot; کتاب تألیفی موسسه چاپ و انتشارات آستان قدس رضوی(1367). ## 3.	قنبری ع. &quot;سلول پیشرفته تحکیم خاک&quot; ژئوتکنیک و مقاومت مصالح 86 (1379) 58-47. ## 4.	معتمد ا. &quot;رسوب‌شناسی 2 (تجزیه مواد و محیط‌های رسوبی)&quot; کتاب تألیفی چاپ دوم، موسسه انتشارات و چاپ دانشگاه تهران (1366). ## 5.	هاشم‌نژاد آ.، غفوری م.، لشکری غ.، طریق ازلی ص.، &quot;بررسی عوامل سنگ‌شناسی مؤثر در میزان سایندگی کانی‌ها به‌کمک دستگاه LPCP&quot;، نشریه زمین‌شناسی مهندسی، جلد هشتم، شمارۀ 2 (1393). ## 6.	API &quot;Recommended Practice for Planning, Designing and Constructing Fixed Offshore Platforms.&quot; American Petroleum Institute API RP-2A (2000). ## 7.	Datta M., Gulhati S. K., Rao G. V. &quot;Crushing of Calcareous Sands During Shear&quot;, Proceeding 11th Offshore Technology Conference, Houston, Texas, Vol. 3 (1979) 1459-1467. ## 8.	Douri R. H., Poulos H. G., &quot;Behaviour of pile groups in calcareous sand&quot;, Geotechnical Eng. in., Vol. 25, No.2 (1994) 3-21. ## 9.	Fookes p., Higginbottom I., &quot;The classification and description of near-shore carbonate sediments for engineering purposes&quot;, Geotechnique 25(2) (1975) 406-411. ## 10. Ghanbari A., Hamidi A., Abdolahzadeh N., &quot;A Study of the Rockfill Material Behavior in Large-Scale Tests&quot;, Civil Engineering Infrastructures Journal, 46 (2): 125-143, ISSN (2013) 2322-2093. ## 11. Hardin B., &quot;Crushing of soil particles&quot; ASCE J. Geotech. Engng. 111(10) (1985) 1177-1192. #### 12. Hashemnejad A., &quot;Utilizing water, mineralogy and sedimentary properties to predict LCPC abrasivity coefficient&quot;, Bull Eng Geol Environ DOI 10.1007/s10064-015-0779-9 (2015). #### 13. Hazen A., Discussion of &quot;dams on sand foundation&quot;, by A. C. Koenig, Transactions, American Society of Civil Engineers, 73 (1911) 199. #### 14. Indraratna B., Wijewardena L. S. S., Balasubramaniam A. S., &quot;Large-scale triaxial testing of greywacke rockfill”, Geotechnique, London, U.K. 43 (1) (1993) 37-51. ## 15. Kargar S. H. R., Salehzadeh H., Shahnazari H., &quot;Post-Cyclic Behavior of Carbonate Sand of the Northern Coast of the Persian Gulf&quot;, Marine Georesources &amp; Geotechnology, 0 (2015) 1–12. ## 16. Lee K., Farhoomand I., &quot;Compressibility and breakage of granular soil in anisotropic triaxial compression&quot;, Canadian Geotechnical Journal, IV (1) (1967) 68-86. ## 17. Leslie D. D., &quot;Large scale triaxial tests on granular soils&quot;, Proceeding of the 2 PanAmerican Conference on Soil Mechanics and Foundation Engineering, Brazil, 1 (1963) 181-202. ## 18. McClelland B., &quot;Calcareous Sediments: An Engineering Enigma&quot;, 1 st International Conference on Calcareous Sediments. Australia, Perth. 2 (1988) 777-784. ## 19. Poulos H. G., Chua E. W., Hull T. S., &quot;Settlement of model footings on calcareous sand&quot;, Geotechnical Engineering, Vol. 15 (1984) 21-3. ## 20. Poulos H., Uesugi M., Young G., &quot;Strength and deformation properties of Bass Strait carbonate sands&quot;. Geotechnical Engineering. 13(2) (1982) 189-211. ## 21. Poulos H. G., &quot;Engineering properties of Bass Strait Sediments&quot;, Special publ. of the Geol. Soc. of Australia Recent Sediments in Eastern Australia, Marine through Terrestrial, (1986) 77-859. ## 22. Salehzadeh H., Ghazanfari E., &quot;Parametric Study of Kish Carbonate Sand under Triaxial Shearing&quot;, International Journal of Civil Engineering, Vol. 2, No. 4 (2004) 223-231. ## 23. Semple R. M., &quot;Mechanical Properties of Calcareous Soils: State of the Art Report&quot;, 1st International Conference on Calcareous Sediments, Australia, Perth (1988). ## 24. Shahnazari H., Rezvani R., &quot;Effective parameters for the particle breakage of calcareous sands: An experimental study&quot;, Engineering Geology (2013) 159-98-105. ## 25. Tucker M. E., &quot;Sedimentary petrology. An introduction&quot;, Blackwell, Oxford (1981). ##  ##1.	حسنلوراد م.، صالح‌زاده ح.، شاه‌نظری ح.، &quot;اصلاح خاک‌های ماسه‌ای کربناته با استفاده از تزریق شیمیایی&quot; مجله علمی-پژوهشی امیرکبیر، سال 41، شمارۀ (1388 )1. ## 2.	حرمی م. &quot;رسوب‌شناسی&quot; کتاب تألیفی موسسه چاپ و انتشارات آستان قدس رضوی(1367). ## 3.	قنبری ع. &quot;سلول پیشرفته تحکیم خاک&quot; ژئوتکنیک و مقاومت مصالح 86 (1379) 58-47. ## 4.	معتمد ا. &quot;رسوب‌شناسی 2 (تجزیه مواد و محیط‌های رسوبی)&quot; کتاب تألیفی چاپ دوم، موسسه انتشارات و چاپ دانشگاه تهران (1366). ## 5.	هاشم‌نژاد آ.، غفوری م.، لشکری غ.، طریق ازلی ص.، &quot;بررسی عوامل سنگ‌شناسی مؤثر در میزان سایندگی کانی‌ها به‌کمک دستگاه LPCP&quot;، نشریه زمین‌شناسی مهندسی، جلد هشتم، شمارۀ 2 (1393). ## 6.	API &quot;Recommended Practice for Planning, Designing and Constructing Fixed Offshore Platforms.&quot; American Petroleum Institute API RP-2A (2000). ## 7.	Datta M., Gulhati S. K., Rao G. V. &quot;Crushing of Calcareous Sands During Shear&quot;, Proceeding 11th Offshore Technology Conference, Houston, Texas, Vol. 3 (1979) 1459-1467. ## 8.	Douri R. H., Poulos H. G., &quot;Behaviour of pile groups in calcareous sand&quot;, Geotechnical Eng. in., Vol. 25, No.2 (1994) 3-21. ## 9.	Fookes p., Higginbottom I., &quot;The classification and description of near-shore carbonate sediments for engineering purposes&quot;, Geotechnique 25(2) (1975) 406-411. ## 10. Ghanbari A., Hamidi A., Abdolahzadeh N., &quot;A Study of the Rockfill Material Behavior in Large-Scale Tests&quot;, Civil Engineering Infrastructures Journal, 46 (2): 125-143, ISSN (2013) 2322-2093. ## 11. Hardin B., &quot;Crushing of soil particles&quot; ASCE J. Geotech. Engng. 111(10) (1985) 1177-1192. #### 12. Hashemnejad A., &quot;Utilizing water, mineralogy and sedimentary properties to predict LCPC abrasivity coefficient&quot;, Bull Eng Geol Environ DOI 10.1007/s10064-015-0779-9 (2015). #### 13. Hazen A., Discussion of &quot;dams on sand foundation&quot;, by A. C. Koenig, Transactions, American Society of Civil Engineers, 73 (1911) 199. #### 14. Indraratna B., Wijewardena L. S. S., Balasubramaniam A. S., &quot;Large-scale triaxial testing of greywacke rockfill”, Geotechnique, London, U.K. 43 (1) (1993) 37-51. ## 15. Kargar S. H. R., Salehzadeh H., Shahnazari H., &quot;Post-Cyclic Behavior of Carbonate Sand of the Northern Coast of the Persian Gulf&quot;, Marine Georesources &amp; Geotechnology, 0 (2015) 1–12. ## 16. Lee K., Farhoomand I., &quot;Compressibility and breakage of granular soil in anisotropic triaxial compression&quot;, Canadian Geotechnical Journal, IV (1) (1967) 68-86. ## 17. Leslie D. D., &quot;Large scale triaxial tests on granular soils&quot;, Proceeding of the 2 PanAmerican Conference on Soil Mechanics and Foundation Engineering, Brazil, 1 (1963) 181-202. ## 18. McClelland B., &quot;Calcareous Sediments: An Engineering Enigma&quot;, 1 st International Conference on Calcareous Sediments. Australia, Perth. 2 (1988) 777-784. ## 19. Poulos H. G., Chua E. W., Hull T. S., &quot;Settlement of model footings on calcareous sand&quot;, Geotechnical Engineering, Vol. 15 (1984) 21-3. ## 20. Poulos H., Uesugi M., Young G., &quot;Strength and deformation properties of Bass Strait carbonate sands&quot;. Geotechnical Engineering. 13(2) (1982) 189-211. ## 21. Poulos H. G., &quot;Engineering properties of Bass Strait Sediments&quot;, Special publ. of the Geol. Soc. of Australia Recent Sediments in Eastern Australia, Marine through Terrestrial, (1986) 77-859. ## 22. Salehzadeh H., Ghazanfari E., &quot;Parametric Study of Kish Carbonate Sand under Triaxial Shearing&quot;, International Journal of Civil Engineering, Vol. 2, No. 4 (2004) 223-231. ## 23. Semple R. M., &quot;Mechanical Properties of Calcareous Soils: State of the Art Report&quot;, 1st International Conference on Calcareous Sediments, Australia, Perth (1988). ## 24. Shahnazari H., Rezvani R., &quot;Effective parameters for the particle breakage of calcareous sands: An experimental study&quot;, Engineering Geology (2013) 159-98-105. ## 25. Tucker M. E., &quot;Sedimentary petrology. An introduction&quot;, Blackwell, Oxford (1981). ##   ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>مدل‌سازی عددی تأثیر تسلیح خاک بر مقاومت برخاست خطوط لوله مدفون</TitleF>
+		<TitleE>Numerical Modeling of the Effects of Soil Reinforcement on Uplift Resistance of Buried Pipelines</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>تسلیح خاک به&#8204;وسیلۀ ژئوسنتتیک&#173;ها روشی مؤثر برای افزایش مقاومت برخاس] سازه&#173;های مدفون است. در این مقاله از المان مسلح&#173;کنندۀ جدیدی که شامل تعدادی صفحات مهاری است و به ژئوگرید متصل می&#173;شود و موجب افزایش مقاومت بیرون&#173;کشیدگی ژئوگرید می&#173;شود استفاده شده است که به آن سیستم مهار- شبکه گفته می&#173;شود. بررسی عددی سه&#8204;بعدی با استفاده از نرم&#173;افزار تفاضل محدود FLAC-3D برای بررسی مقاومت برخاست خطوط لولۀ مدفون در ماسۀ مسلح&#173;شده با این سیستم جدید انجام شده است. نتایج نشان می&#173;دهند که به&#8204;علت گسترده&#173;تر شدن سطح گسیختگی خاک، استفاده از این سیستم مهار-شبکه در تودۀ خاک، مقاومت برخاست خطوط لولۀ مدفون را به&#8204;طور چشم&#8204;گیری افزایش می&#173;دهد. طوری&#8204;که جهت لوله با قطر خارجی 50 میلی&#8204;متر، استفاده از سیستم مسلح&#173;کننده مهار- شبکه موجب افزایش مقاومت برخاست لوله به&#8204;میزان 3/2 برابر حالت استفاده از ژئوگرید و 7/3 برابر حالت بدون مسلح&#173;کننده می&#173;شود. در مقایسه با چند لایۀ مسلح&#173;کننده، بازدهی استفاده از یک لایۀ مسلح&#173;کننده بیش&#8204;تر است. هم&#8204;چنین بازدهی لایۀ مسلح&#173;کننده در خاک&#8204;های سست بیش&#8204;تر از خاک&#8204;های متراکم است. به&#8204;علاوه، با افزایش قطر لوله، تأثیر لایۀ مسلح&#173;کننده کم&#8204;تر خواهد بود</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>&#160;Introduction
+Recently, several studies on buried pipelines have been conducted to determine their uplift behavior as a function of burial depth, type of soil, and degree of compaction, using mathematical, numerical and experimental modeling.
+One of the geosynthetics applications is the construction of a reinforced soil foundation to increase the bearing capacity of shallow spread footings. Recently, a new reinforcement element to improve the bearing capacity of soils has been introduced and numerically studied by Hatef et al.&#160; The main idea behind the new system is adding anchors to ordinary geogrid. This system has been named as Grid-Anchor (it is not a trade name yet). In this system, a foundation that is supported by the soil reinforced with Grid-Anchor is used; the anchors are made from 10&#215;10&#215;10 mm cubic elements. The obtained results indicate that the Grid-Anchor system of reinforcing can increase the bearing capacity 2.74 times greater than that for ordinary geogrid and 4.43 times greater than for non-reinforced sand...../files/site1/files/0Extended_Abstract6.pdf
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>427</FPAGE>
+			<TPAGE>454</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>مجید</Name>
+				<MidName></MidName>
+				<Family>مهدی</Family>
+				<NameE>Majid</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Mahdi</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه تبریز، دانشکدۀ عمران</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه تبریز</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>m.mahdi@tabrizu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>هوشنگ</Name>
+				<MidName></MidName>
+				<Family>کاتبی</Family>
+				<NameE>Hooshang</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Katebi</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه تبریز، دانشکدۀ عمران</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه تبریز</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>katebi@tabrizu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText> Uplift Resistance</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Buried Pipelines</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Numerical Modeling</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Reinforced Sand</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Geogrid</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Grid-Anchor. </KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مقاومت برخاست</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>خطوط لولۀ مدفون</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مدل‌سازی عددی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>خاک مسلح</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ژئوگرید</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مهار- شبکه</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>.. Koseki J., Matsuo O., Tanaka S., &quot;Uplift Damage to Sewer Pipes in Towada City Caused by the 1994 Sanriku-Haruka-oki Earthquake&quot;, Proceedings of the second Japan-UK workshop on Implications of Recent Earthquakes on Seismic Risk, Tokyo Institute of Technology, Tokyo, (1998) 97-108. ## 2. Shinozuka M., Ballantyne D., Borcherdt R., Buckle I., O’Rourke T., Schiff A., &quot;The Hanshin-Awaji Earthquake of January 17, 1995. Performance of Lifelines&quot;, Technical Report of NCEER, Buffalo, NY, (1995). ## 3. Sitar N., &quot;Geotechnical Reconnaissance of the Effects of January 17, 1995, Hyogoken-Nambu Earthquake, Japan&quot;, Report No, UCB/EERC-95/01, Earthquake Engineering Research Center, University of California at Berkeley (1995). ## 4. Ling H. I., Mohri Y., Kawabata T., Liu H., Bruke C., Sun L., &quot;Centrifugal Modeling of Seismic Behavior of Large-Diameter Pipe in Liqueﬁable Soil&quot;, Journal of Geotechnical and Geoenvironmental Engineering, (2003) 1092-1101. ## 5. Cheuk C. Y., White D. J., Bolton M. D., &quot;Uplift Mechanics of Pipes Buried in Sand&quot;, Journal of Geotechnical and Geoenvironmental Engineering, 134(2) (2008) 154-163. ## 6- Mohri Y., Kawabata T., Fujita N., &quot;Large-scale experiment on shallow cover for buried pipeline reinforced with geosynthetics&quot;, Journal of Pipeline Systems Engineering and Practice, 52 (2001) 1-13. ## 7- Newson T. A., Deljoui P., &quot;Finite element modelling of upheaval buckling of buried offshore pipelines in clayey soils&quot;, Soil and Rock Behavior and Modeling (2006) 351-358. ## 8- Thusyanthan N. I., Ganesan S. A. Bolton M. D., Allan P., &quot;Upheaval buckling resistance of pipelines buried in clayey backﬁll&quot;, 18th International Offshore and Polar Engineering Conference, Vancouver, British Columbia, Canada (2008) 6-11. ## 9. Selvadurai A. P. S., &quot;The Enhancement of the Uplift Capacity of Buried Pipelines by the Use of Geogrids&quot;, Journal of Geotechnical and Geoenvironmental Engineering, ASCE, 124 (8) (1989). ## 10. Faizi K., Jahed Armaghani D., Momeni E., Nazir R., Tonnizam Mohamad E., &quot;Uplift Resistance of Buried Pipelines Enhanced by Geogrid&quot;, Soil Mechanics and Foundation Engineering, 51 (4) (2014). ## 11- Faizi K., Jahed Armaghani D., Sohaei H., Rashid A. S. A., Nazir R. &quot;Deformation model of sand around short piles under pullout test&quot;, Journal of Measurement, 63 (2015) 110-119. ## 12. Mosallanezhad M., Hataf N., Ghahramani A., &quot;Experimental study of bearing capacity of granular soils reinforced with innovative grid-anchor system&quot;, Geotech. Geol. Eng. 26 (3) (2008) 299-312. ## 13. Alamshahi S., Hataf N., &quot;Bearing capacity of strip footings on sand slopes reinforced with geogrid and gride-anchor&quot;, Geotext.Geomembr. 27 (3) (2009) 217-226. ## 14. Mosallanezhad M., Hataf N., Ghahramani A., &quot;Three dimensional bearing capacity analysis of granular soils reinforced with innovative grid-anchor system&quot;, Iran. J. Sci. Technol. Trans. B-Eng. 34 (2010) 319-334. ## 15. Boushehrian A. H., Hataf N., Ghahramani A., &quot;Numerical study of cyclic behavior of shallow foundations on sand reinforced with geogrid and grid-anchor&quot;, World Acad. Sci. Eng. Technol. 58 (2009) 607-610. ## 16. Boushehrian A. H., Hataf N., Ghahramani A., &quot;Modeling of the cyclic behavior of shallow foundations resting on geomesh and grid-anchor reinforced sand&quot;, Geotext.Geomembr. 29 (3) (2011) 242-248. ## 17. Hataf N., Boushehrian A. H., Ghahramani A., &quot;Experimental and numerical behavior of shallow foundations on sand reinforced with geogrid and grid-anchor under cyclic&quot;, Sci. Iran. Trans. A-Civil Eng. 17 (1) (2010) 1-10. ## 18. Mosallanezhad M., Sadat Taghavi S. H., Hataf N., Alfaro M. C., &quot;Experimental and numerical studies of the performance of the new reinforcement system under pull-out conditions&quot;, Geotext.Geomembr. 44 (1) (2016) 70-80. ## 19. Saboya F. A., Santiago P. C., Martins R. R., Tibana S., Ramires R. S., Araruna J. T., &quot;Centrifuge Test to Evaluate the Geotechnical Performance of Anchored Buried Pipelines in Sand&quot;, Journal of Pipeline Systems Engineering and Practice, ASCE, 3 (2012) 84-97. ## 20. Itasca. FLAC-3D Version 5.0. Itasca Consulting Group, Inc., Minneapolis (2012). ## 21. White D. J., Barefoot A. J., Bolton M. D., &quot;Centrifuge modeling of upheaval buckling in sand&quot;, Int. J. Phys. Model. Geotech., 21 (2001) 019-028. ## 22. Wang J., Haigh S. K., Forrest G., Thusyanthan N. I., &quot;Mobilization Distance for Upheaval Buckling of Shallowly Buried Pipelines&quot;, Journal of Pipeline Systems Engineering and Practice, ASCE, 46 (2012) 106–114. ## 23. Niroumand H., Kassim K. A., Nazir R., &quot;The Influence of Soil Reinforcement on the Uplift Response of Symmetrical Anchor Plate Embedded in Sand&quot;, Elsevier, Journal of Measurement, 46 (2013) 2608-2629. ## 24. Ghosh A., Bera A. K., &quot;Effect of Geotextile Ties on Uplift Capacity of Anchors Embedded in Sand&quot;, Journal of Geotechnical and Geoenvironmental Engineering, 28 (2010) 567-577. ##  ##. Koseki J., Matsuo O., Tanaka S., &quot;Uplift Damage to Sewer Pipes in Towada City Caused by the 1994 Sanriku-Haruka-oki Earthquake&quot;, Proceedings of the second Japan-UK workshop on Implications of Recent Earthquakes on Seismic Risk, Tokyo Institute of Technology, Tokyo, (1998) 97-108. ## 2. Shinozuka M., Ballantyne D., Borcherdt R., Buckle I., O’Rourke T., Schiff A., &quot;The Hanshin-Awaji Earthquake of January 17, 1995. Performance of Lifelines&quot;, Technical Report of NCEER, Buffalo, NY, (1995). ## 3. Sitar N., &quot;Geotechnical Reconnaissance of the Effects of January 17, 1995, Hyogoken-Nambu Earthquake, Japan&quot;, Report No, UCB/EERC-95/01, Earthquake Engineering Research Center, University of California at Berkeley (1995). ## 4. Ling H. I., Mohri Y., Kawabata T., Liu H., Bruke C., Sun L., &quot;Centrifugal Modeling of Seismic Behavior of Large-Diameter Pipe in Liqueﬁable Soil&quot;, Journal of Geotechnical and Geoenvironmental Engineering, (2003) 1092-1101. ## 5. Cheuk C. Y., White D. J., Bolton M. D., &quot;Uplift Mechanics of Pipes Buried in Sand&quot;, Journal of Geotechnical and Geoenvironmental Engineering, 134(2) (2008) 154-163. ## 6- Mohri Y., Kawabata T., Fujita N., &quot;Large-scale experiment on shallow cover for buried pipeline reinforced with geosynthetics&quot;, Journal of Pipeline Systems Engineering and Practice, 52 (2001) 1-13. ## 7- Newson T. A., Deljoui P., &quot;Finite element modelling of upheaval buckling of buried offshore pipelines in clayey soils&quot;, Soil and Rock Behavior and Modeling (2006) 351-358. ## 8- Thusyanthan N. I., Ganesan S. A. Bolton M. D., Allan P., &quot;Upheaval buckling resistance of pipelines buried in clayey backﬁll&quot;, 18th International Offshore and Polar Engineering Conference, Vancouver, British Columbia, Canada (2008) 6-11. ## 9. Selvadurai A. P. S., &quot;The Enhancement of the Uplift Capacity of Buried Pipelines by the Use of Geogrids&quot;, Journal of Geotechnical and Geoenvironmental Engineering, ASCE, 124 (8) (1989). ## 10. Faizi K., Jahed Armaghani D., Momeni E., Nazir R., Tonnizam Mohamad E., &quot;Uplift Resistance of Buried Pipelines Enhanced by Geogrid&quot;, Soil Mechanics and Foundation Engineering, 51 (4) (2014). ## 11- Faizi K., Jahed Armaghani D., Sohaei H., Rashid A. S. A., Nazir R. &quot;Deformation model of sand around short piles under pullout test&quot;, Journal of Measurement, 63 (2015) 110-119. ## 12. Mosallanezhad M., Hataf N., Ghahramani A., &quot;Experimental study of bearing capacity of granular soils reinforced with innovative grid-anchor system&quot;, Geotech. Geol. Eng. 26 (3) (2008) 299-312. ## 13. Alamshahi S., Hataf N., &quot;Bearing capacity of strip footings on sand slopes reinforced with geogrid and gride-anchor&quot;, Geotext.Geomembr. 27 (3) (2009) 217-226. ## 14. Mosallanezhad M., Hataf N., Ghahramani A., &quot;Three dimensional bearing capacity analysis of granular soils reinforced with innovative grid-anchor system&quot;, Iran. J. Sci. Technol. Trans. B-Eng. 34 (2010) 319-334. ## 15. Boushehrian A. H., Hataf N., Ghahramani A., &quot;Numerical study of cyclic behavior of shallow foundations on sand reinforced with geogrid and grid-anchor&quot;, World Acad. Sci. Eng. Technol. 58 (2009) 607-610. ## 16. Boushehrian A. H., Hataf N., Ghahramani A., &quot;Modeling of the cyclic behavior of shallow foundations resting on geomesh and grid-anchor reinforced sand&quot;, Geotext.Geomembr. 29 (3) (2011) 242-248. ## 17. Hataf N., Boushehrian A. H., Ghahramani A., &quot;Experimental and numerical behavior of shallow foundations on sand reinforced with geogrid and grid-anchor under cyclic&quot;, Sci. Iran. Trans. A-Civil Eng. 17 (1) (2010) 1-10. ## 18. Mosallanezhad M., Sadat Taghavi S. H., Hataf N., Alfaro M. C., &quot;Experimental and numerical studies of the performance of the new reinforcement system under pull-out conditions&quot;, Geotext.Geomembr. 44 (1) (2016) 70-80. ## 19. Saboya F. A., Santiago P. C., Martins R. R., Tibana S., Ramires R. S., Araruna J. T., &quot;Centrifuge Test to Evaluate the Geotechnical Performance of Anchored Buried Pipelines in Sand&quot;, Journal of Pipeline Systems Engineering and Practice, ASCE, 3 (2012) 84-97. ## 20. Itasca. FLAC-3D Version 5.0. Itasca Consulting Group, Inc., Minneapolis (2012). ## 21. White D. J., Barefoot A. J., Bolton M. D., &quot;Centrifuge modeling of upheaval buckling in sand&quot;, Int. J. Phys. Model. Geotech., 21 (2001) 019-028. ## 22. Wang J., Haigh S. K., Forrest G., Thusyanthan N. I., &quot;Mobilization Distance for Upheaval Buckling of Shallowly Buried Pipelines&quot;, Journal of Pipeline Systems Engineering and Practice, ASCE, 46 (2012) 106–114. ## 23. Niroumand H., Kassim K. A., Nazir R., &quot;The Influence of Soil Reinforcement on the Uplift Response of Symmetrical Anchor Plate Embedded in Sand&quot;, Elsevier, Journal of Measurement, 46 (2013) 2608-2629. ## 24. Ghosh A., Bera A. K., &quot;Effect of Geotextile Ties on Uplift Capacity of Anchors Embedded in Sand&quot;, Journal of Geotechnical and Geoenvironmental Engineering, 28 (2010) 567-577. ##   ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>تخمین جهت و مقدار تنش‌های برجا به‌روش تحلیل بریکات در یکی از چاه‌های نفت جنوب غرب ایران</TitleF>
+		<TitleE>Determination of Direction and Magnitude of in Situ Stresses by Borehole Breakout Method in an Oil well in the Southwest of Iran</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>تعیین جهت و مقدار تنش&#8204;های برجا پیش&#8204;نیاز اساسی در حفر چاه&#8204;های نفت و انجام عملیات توسعه میادین نظیر شکافت هیدرولیکی محسوب می&#8204;شود. تحلیل شکستگی&#8204;های برشی یکی از روش&#8204;های تعیین جهت و مقدار تنش&#8204;های برجا است. شکستگی&#8204;های برشی به&#8204;دلیل اعمال فشار گل حفاری کم&#8204;تر از مقدار بهینه، به موازات جهت تنش برجای افقی حداقل (Sh) در دیواره چاه گسترش می&#8204;یابند. در این پژوهش، جهت و مقدار این تنش&#8204;ها در یکی از چاه&#8204;های نفت منطقه اهواز به&#8204;روش تحلیل شکستگی&#8204;های برشی اندازه&#8204;گیری شده است. بر این اساس، جهت تنش برجای افقی حداکثر (SH) در امتداد E35N و جهت Sh نیز در راستای W55N قرار دارد. بزرگای تنش برجای قائم (SV) کم&#8204;تر از مقدار SH و بیش&#8204;تر از مقادیر Sh است که بیان&#8204;گر وجود رژیم تکتونیک امتدادلغز در منطقه است. تعیین جهت و مقدار این تنش&#8204;ها امکان تخمین فشار بهینه گل حفاری و انتخاب مسیر مناسب حفاری در حفر چاه&#8204;های انحرافی را فراهم می&#8204;کند</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Introduction
+Determination of in situ stress-direction and magnitude are prerequisite for any oil well drilling and oil field development such as hydraulic fracturing. One of the simplest and most widely used methods is called borehole breakout analysis. Breakouts are compression fractures made in the direction of minimum horizontal in situ stress (Sh), if drilling mud pressure be lower than optimum mud pressure. Some borehole imaging logs such as FMI, FMS and UBI are appropriate tools for wellbore fracture detection. These fractures are distinguished in the logs as dark and symmetrical points (or lines) on both sides of the well and are used as an indicator for in situ stress studies. The size and shape of these fractures are strongly depend on the magnitude of the in situ stress. Therefore, many researchers suggested that by analyzing the geometric shape of the borehole breakout is an appropriate technique for estimation of in situ stress components. ....&#160;./files/site1/files/0Extended_Abstract7.pdf
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>455</FPAGE>
+			<TPAGE>470</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>علیرضا</Name>
+				<MidName></MidName>
+				<Family>نجیبی</Family>
+				<NameE>Ali Reza</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Najibi</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه فردوسی مشهد، گروه زمین‌شناسی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه فردوسی مشهد</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>محمد</Name>
+				<MidName></MidName>
+				<Family>غفوری</Family>
+				<NameE>Mohammad</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Ghafoori</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه فردوسی مشهد، گروه زمین‌شناسی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه فردوسی مشهد</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>غلامرضا</Name>
+				<MidName></MidName>
+				<Family>لشکری پور</Family>
+				<NameE>Gholam Reza</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Lashkaripour</FamilyE>
+				<Organizations>
+				<Organization></Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه فردوسی مشهد</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>محمدرضا</Name>
+				<MidName></MidName>
+				<Family>آصف</Family>
+				<NameE>Mohammad Reza</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Asef</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه فردوسی مشهد، گروه زمین‌شناسی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه خوارزمی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>In situ stress</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Borehole Breakout</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Geomechanics</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Fracture</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Ahwaz</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تنش‌های برجا</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شکستگی‌های برشی چاه</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ژئومکانیک</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شکستگی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>اهواز</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1.	Zoback M., et al., &quot;Determination of stress orientation and magnitude in deep wells&quot;, International Journal of Rock Mechanics and Mining Sciences, 40 (7) (2003) 1049-1076. ## 2.	Walton G., et al., &quot;Borehole Breakout Analysis to Determine the In-Situ Stress State in Hard Rock&quot;, in 49th U.S. Rock Mechanics/Geomechanics Symposium 2015, American Rock Mechanics Association: San Francisco, California. ## 3.	Amadei B., Stephansson O., &quot;Rock stress and its measurement&quot;, Springer Science &amp; Business Media (1997). ## 4.	Kim G.Y., Narantsetseg B., &quot;Fractures and Breakouts Analysis from Borehole Image Logs: Preliminary Results for Interpretation of Stress History and In Situ Stress State&quot;, Marine Georesources &amp; Geotechnology, (2014) (just-accepted). ## 5.	Haimson B., Lee H., &quot;Borehole breakouts and compaction bands in two high-porosity sandstones&quot;, International Journal of Rock Mechanics and Mining Sciences, 41(2004) 287-301. ## 6.	Zoback M. D., &quot;Reservoir geomechanics&quot;, (2007). ## 7.	Leeman E., &quot;The measurement of stress in rock&quot;, National Mechanical Engineering Research Institute (1964). ## 8.	Bell J., Gough D., &quot;Northeast-southwest compressive stress in Alberta evidence from oil wells. Earth and Planetary Science Letters, 45(2) (1979) 475-482. ## 9.	Dart R. L., Zoback M. L., &quot;Wellbore breakout stress analysis within the central and eastern continental United States&quot;, The Log Analyst, 30 (01) (1989). ## 10.	Zoback M., &quot;First-and second-order patterns of tectonic stress: The World Stress Map Project&quot;, Journal of Geophysics Research, 97 (B8) (1992) 11703-11728. ## 11.	Lee H., Haimson B., &quot;Borehole breakouts and in-situ stress in sandstones&quot;, Vitrification in Assisted Reproduction, (2015) 201. ## 12.	Lin W., et al., &quot;Localized rotation of principal stress around faults and fractures determined from borehole breakouts in hole B of the Taiwan Chelungpu-fault Drilling Project (TCDP)&quot;, Tectonophysics, 482 (2010) 82-91. ## 13.	Shamir G., Zoback M. D., &quot;Stress orientation profile to 3.5 km depth near the San Andreas fault at Cajon Pass, California&quot;, Journal of Geophysical Research: Solid Earth (1978–2012), 1992. 97(B4): p. 5059-5080. ## 14.	Zajac B. J., Stock J. M., &quot;Using borehole breakouts to constrain the complete stress tensor: Results from the Sijan Deep Drilling Project and offshore Santa Maria Basin, California&quot;, Journal of Geophysical Research: Solid Earth (1978–2012), 102 (B5) (1997) 10083-10100. ## 15.	Te Kamp L., Rummel F., Zoback M., &quot;Hydrofrac stress profile to 9 km at the German KTB site&quot;, in Proc. Workshop on Rock Stresses in the North Sea (1995). ## 16.	Ask D., Ask M., &quot;Detection of potential borehole breakouts in boreholes KFM01A and KFM01B&quot;, SKB P-report in prep (2006). ## 17.	Cui J.-w., et al., &quot;Wellbore breakouts of the main borehole of Chinese Continental Scientific Drilling (CCSD) and determination of the present tectonic stress state&quot;, Tectonophysics, 475 (2009) 220-225. ## 18.	Heidbach O., et al., &quot;Global crustal stress pattern based on the World Stress Map database release 2008&quot;. Tectonophysics, 482 (1) (2010) 3-15. ## 19.	Kirsch G., &quot;Die theorie der elastizität und die bedürfnisse der festigkeitslehre&quot;, (1898) Springer. 20.	Jaeger J. C., Cook N. G. W, Zimmerman R., &quot;Fundamentals of rock mechanics&quot; (2009). 21.	Zoback M. D., et al., &quot;Well bore breakouts and in situ stress&quot;, Journal of Geophysical Research: Solid Earth, 90 (B7) (1985) 5523-5530. ## 22.	Moos D., Zoback M. D., &quot;Utilization of observations of well bore failure to constrain the orientation and magnitude of crustal stresses: application to continental, Deep Sea Drilling Project, and Ocean Drilling Program boreholes&quot;, Journal of Geophysical Research: Solid Earth (1978–2012), 95 (B6) (1990) 9305-9325. ##  ##1.	Zoback M., et al., &quot;Determination of stress orientation and magnitude in deep wells&quot;, International Journal of Rock Mechanics and Mining Sciences, 40 (7) (2003) 1049-1076. ## 2.	Walton G., et al., &quot;Borehole Breakout Analysis to Determine the In-Situ Stress State in Hard Rock&quot;, in 49th U.S. Rock Mechanics/Geomechanics Symposium 2015, American Rock Mechanics Association: San Francisco, California. ## 3.	Amadei B., Stephansson O., &quot;Rock stress and its measurement&quot;, Springer Science &amp; Business Media (1997). ## 4.	Kim G.Y., Narantsetseg B., &quot;Fractures and Breakouts Analysis from Borehole Image Logs: Preliminary Results for Interpretation of Stress History and In Situ Stress State&quot;, Marine Georesources &amp; Geotechnology, (2014) (just-accepted). ## 5.	Haimson B., Lee H., &quot;Borehole breakouts and compaction bands in two high-porosity sandstones&quot;, International Journal of Rock Mechanics and Mining Sciences, 41(2004) 287-301. ## 6.	Zoback M. D., &quot;Reservoir geomechanics&quot;, (2007). ## 7.	Leeman E., &quot;The measurement of stress in rock&quot;, National Mechanical Engineering Research Institute (1964). ## 8.	Bell J., Gough D., &quot;Northeast-southwest compressive stress in Alberta evidence from oil wells. Earth and Planetary Science Letters, 45(2) (1979) 475-482. ## 9.	Dart R. L., Zoback M. L., &quot;Wellbore breakout stress analysis within the central and eastern continental United States&quot;, The Log Analyst, 30 (01) (1989). ## 10.	Zoback M., &quot;First-and second-order patterns of tectonic stress: The World Stress Map Project&quot;, Journal of Geophysics Research, 97 (B8) (1992) 11703-11728. ## 11.	Lee H., Haimson B., &quot;Borehole breakouts and in-situ stress in sandstones&quot;, Vitrification in Assisted Reproduction, (2015) 201. ## 12.	Lin W., et al., &quot;Localized rotation of principal stress around faults and fractures determined from borehole breakouts in hole B of the Taiwan Chelungpu-fault Drilling Project (TCDP)&quot;, Tectonophysics, 482 (2010) 82-91. ## 13.	Shamir G., Zoback M. D., &quot;Stress orientation profile to 3.5 km depth near the San Andreas fault at Cajon Pass, California&quot;, Journal of Geophysical Research: Solid Earth (1978–2012), 1992. 97(B4): p. 5059-5080. ## 14.	Zajac B. J., Stock J. M., &quot;Using borehole breakouts to constrain the complete stress tensor: Results from the Sijan Deep Drilling Project and offshore Santa Maria Basin, California&quot;, Journal of Geophysical Research: Solid Earth (1978–2012), 102 (B5) (1997) 10083-10100. ## 15.	Te Kamp L., Rummel F., Zoback M., &quot;Hydrofrac stress profile to 9 km at the German KTB site&quot;, in Proc. Workshop on Rock Stresses in the North Sea (1995). ## 16.	Ask D., Ask M., &quot;Detection of potential borehole breakouts in boreholes KFM01A and KFM01B&quot;, SKB P-report in prep (2006). ## 17.	Cui J.-w., et al., &quot;Wellbore breakouts of the main borehole of Chinese Continental Scientific Drilling (CCSD) and determination of the present tectonic stress state&quot;, Tectonophysics, 475 (2009) 220-225. ## 18.	Heidbach O., et al., &quot;Global crustal stress pattern based on the World Stress Map database release 2008&quot;. Tectonophysics, 482 (1) (2010) 3-15. ## 19.	Kirsch G., &quot;Die theorie der elastizität und die bedürfnisse der festigkeitslehre&quot;, (1898) Springer. 20.	Jaeger J. C., Cook N. G. W, Zimmerman R., &quot;Fundamentals of rock mechanics&quot; (2009). 21.	Zoback M. D., et al., &quot;Well bore breakouts and in situ stress&quot;, Journal of Geophysical Research: Solid Earth, 90 (B7) (1985) 5523-5530. ## 22.	Moos D., Zoback M. D., &quot;Utilization of observations of well bore failure to constrain the orientation and magnitude of crustal stresses: application to continental, Deep Sea Drilling Project, and Ocean Drilling Program boreholes&quot;, Journal of Geophysical Research: Solid Earth (1978–2012), 95 (B6) (1990) 9305-9325. ##   ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+</ARTICLES>
+
+</JOURNAL>
+</XML>

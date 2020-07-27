@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه شهید چمران اهواز</PublisherName>
+				<JournalTitle>زمین شناسی کاربردی پیشرفته</JournalTitle>
+				<Issn>2251-7057</Issn>
+				<Volume>9</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>01</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Spectral behavior modeling of soil texture over dust center of Khuzestan province using Hyperspectral images and Random Forest model</ArticleTitle>
+<VernacularTitle>مدل‌سازی رفتار طیفی بافت خاک در کانون‌های ریزگرد استان خوزستان با استفاده از تصاویر ابر طیفی و مدل جنگل تصادفی</VernacularTitle>
+			<FirstPage>466</FirstPage>
+			<LastPage>479</LastPage>
+			<ELocationID EIdType="pii">15080</ELocationID>
+			
+<ELocationID EIdType="doi">10.22055/aag.2019.29642.1990</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>منصور</FirstName>
+					<LastName>چترنور</LastName>
+<Affiliation>گروه علوم و مهندسی خاک، دانشکده کشاورزی، دانشگاه شهید چمران اهواز، اهواز، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>احمد</FirstName>
+					<LastName>لندی</LastName>
+<Affiliation>خاکشناسی، دانشکده کشاورزی، دانشگاه شهید چمران اهواز، اهواز، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>احمد</FirstName>
+					<LastName>فرخیان فیروزی</LastName>
+<Affiliation>گروه علوم و مهندسی خاک، دانشکده کشاورزی، دانشگاه شهید چمران اهواز، اهواز، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>علی اکبر</FirstName>
+					<LastName>نوروزی</LastName>
+<Affiliation>هیئت علمی پژوهشی، پژوهشکده حفاظت خاک و آبخیزداری، تهران، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حسینعلی</FirstName>
+					<LastName>بهرامی</LastName>
+<Affiliation>گروه خاکشناسی،  دانشکده کشاورزی، دانشگاه تربیت مدرس، تهران، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>05</Month>
+					<Day>21</Day>
+				</PubDate>
+			</History>
+		<Abstract>Soil texture had an essential role in soil resistance of wind erosion. Due to useful Features of Hyperspectral images including low cost and high speed to the evaluation of soil properties, it can be used to determination of soil texture. The aim of this study was to evaluate the spectral behavior of clay, sand and silt content in susceptible soils of Khuzestan province implementing the PLS-RF model. Initially, the main factors were determined, using partial least squares regression (PLSR). Accordingly, the Random Forest model was implemented on main factors. Subsequently, the comparing of performance related to main spectral and five preprocessing methods, i.e. the Savitzky-Golay filter, the first derivative with the Savitzky-Golay filter (FD-SG), the second derivative with the Savitzky-Golay filter (SD-SG), the normalization of standard method (SNV), and the continuum removed method (CR), applied to eliminate the noise and also to increase the accuracy of the PLS-RF model. The Results showed that the best method with high performance was the continuum removal for clay content (, PRDcal=1.93) and silt content, (PRDcal=1.65). Additionally, the second derivative method was the best performance to the evaluation of sand content (PRDcal=1.98). In this study, the key wavelength for clay content was determined in the range of 1200-1210, 1800 and 2200 nm and the results for sand was 1400-1450, 1910-1930, 2200 and 2220 nm, and finally for silt was 1320, 1615, 2200 nm.</Abstract>
+			<OtherAbstract Language="FA">بافت خاک نقش مهمی در مقاومت خاک به فرسایش بادی دارد. تصاویر ابر طیفی با مزیت هزینه پایین و سرعت عمل بالا، ابزار مناسبی برای بررسی ویژگی‌های خاک از جمله بافت محسوب می‌شوند. هدف این مطالعه ارزیابی رفتار طیفی درصد رس، شن و سیلت در خاک‌های مستعد تولید ریز گرد استان خوزستان با استفاده از مدل PLS-RF است. در ابتدا فاکتورهای اصلی با مدل رگرسیون حداقل مربعات جزئی تعیین و سپس مدل جنگل تصادفی روی فاکتورهای تعیین‌شده اجرا گردید. در مرحله بعد عملکرد طیف اصلی و پیش‌پردازش‌های: فیلتر ساویتزکی و گلای، فیلتر ساویتزکی و گلای به همراه مشتق اول، فیلتر ساویتزکی و گلای به همراه مشتق دوم، روش نرمال‌سازی استاندارد و روش حذف پیوستار در حذف نویز و افزایش دقت مدل PLS-RF مقایسه شد. نتایج نشان داد که روش حذف پیوستار در دو ویژگی درصد رس (98/1= PRDCAL) و درصد سیلت) 65/1= PRDCAL) و روش مشتق دوم برای درصد شن (97/1= PRDCAL)، بهترین عملکرد را داشته‌اند. همچنین طول موج کلیدی برای درصد رس در طول موج‌های1200-1210، 1800 و 2200 نانومتر، برای درصد شن در محدوده طول موج‌های 1400 -1450، 1910-1930، 2200 و 2220 نانومتر و برای درصد سیلت خاک در محدوده طول ‌موج‌های 1320، 1615، و 2200 نانومتر مشاهده گردید.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">فیلتر ساویتزکی و گلای</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">فیلتر مشتق دوم</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">فیلترحذف پیوستار</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">طول موج کلیدی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">فاکتور اصلی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://aag.scu.ac.ir/article_15080_df8a711b407d430da2e03a47b231d1a6.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-24T05:59:57Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://jmm.iranjournals.ir/?_action=export&amp;rf=summon&amp;issue=4829</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>67</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>یک مدل ریاضی برای مدیریت بحران کالای نظامی و یک روش عددی ساده برای حل آن</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>غلامرضا</given_name>
+												<surname>کرمعلی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>امیر</given_name>
+												<surname>هاشمی</surname>
+											</person_name></contributors>
+									<abstract>اخیراً پیشرفت‌های زیادی در مدل‌سازی مدیریت بحران مالی به کمک مدل‌های ریاضی حاصل شده است. آیا می‌توان پیشرفت‌های جدید در مدل‌سازی را  برای مدیریت بحران نظامی نیز به کار برد ؟ هدف اصلی این مقاله چنین تعمیمی است. احتمال صفر نشدن ذخایر کالا در یک معادلۀ انتگرال دیفرانسیل جزئی ولترا صدق می‌کند. جواب دقیق مدل‌ مذکور، اغلب به صورت بسط نامتناهی از توابع شناخته شده، وجود دارد. بنابراین، حل این مسئله با روش‌های عددی امکان‌پذیر است. از این رو، در این مقاله روشی جدید و ساده بر اساس فرآیندهای تصادفی برای حل مسئله یاد شده با بهره‌گیری از روش تحقیق «تحقیق و توسعه» ارائه می‌نماییم. برای این منظور بسط لاگرانژ را به عنوان تقریبی از جواب استفاده می‌کنیم. سپس با استفاده از روش‌های هم محلی، می‌توان معادلۀ انتگرال دیفرانسیل جزئی را به یک دستگاه جبری تبدیل و آن را حل نمود. مثال‌های ارائه شده کارایی و دقت روش معرفی شده را نشان می‌دهند. در نهایت از این روش برای تحلیل یک مدل از مدیریت بحران نظامی که جواب دقیق آن شناخته شده نیست، استفاده می‌کنیم.</abstract>
+									<keywords>
+									
+											<keyword>مدیریت بحران</keyword>
+											<keyword>فرآیندهای تصادفی</keyword>
+											<keyword>معادله انتگرال دیفرانسیل جزئی</keyword>
+											<keyword>روش‌های عددی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>18</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_29918_5dcc6026eba2889caa35d941706d27ef.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>67</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تحلیل تعامل عوامل مؤثر بر نوآوری سازمان‌های دفاعی با استفاده از رویکرد مدل‌سازی ساختاری تفسیری (ISM)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حسین</given_name>
+												<surname>دهقانی‌پوده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>امین</given_name>
+												<surname>پاشایی هولاسو</surname>
+											</person_name></contributors>
+									<abstract>یکی از مهم‌ترین نیازهای صنایع دفاعی کشورهای در حال توسعه، تصمیم‌گیری در رابطه با چگونگی نوآوری در بخش‌های دفاعی به دلیل گستردگی مأموریت‌ها در بخش‌های مختلف عملیاتی و رزمی، فرماندهی و کنترل، فناوری، ساخت و نگهداری تجهیزات و ادوات نظامی و حتی پشتیبانی و خدمات اداری و مالی یک موضوع کلیدی محسوب می‌شود. به‌ همین‌ دلیل، مقالۀ حاضر با هدف تحلیل تعامل عوامل مؤثر بر نوآوری سازمان‌های دفاعی با استفاده از رویکرد مدل‌سازی ساختاری تفسیری (ISM) به رشته تحریر درآمده است و تلاش می‌کند به این پرسش اصلی که برای نوآوری سازمان‌های دفاعی چه عوامل و معیارهایی می‌تواند مثمرثمر باشد، پاسخ دهد. این مقاله حاصل پژوهشی است که از نظر هدف، کاربردی از نظر روش تحلیلی - پیمایشی و از نوع همبستگی است. جامعۀ آماری مورد مطالعه در این پژوهش صاحب‌نظران دانشگاهی و خبرگان آشنا به مباحث نوآوری، نوآوری سازمانی، مباحث مدیریت دولتی، مدیریت آموزشی و مدیران میانی و عالی سازمان‌های دفاعی می‌باشند که به صورت نمونه‌گیری هدفمند و بر اساس جدول مورگان تعداد 150 نفر تعیین گشت. برای جمع‌آوری اطلاعات از یک پرسشنامۀ محقق‌ساخته متشکل از 100 سؤال استفاده شد و پایایی آن 980/0 محاسبه شد و از آنجایی‌که داده‌ها نرمال بودند، برای تجزیه‌ و‌تحلیل آن‌ها از آزمون تحلیل عاملی با استفاده از نرم‌افزار لیزرل بهره‌جویی شد و برای سطح‌بندی آن‌ها از رویکرد مدل‌سازی ساختاری – تفسیری (ISM) استفاده گردید. عمده‌ترین نتایج پژوهش به این قرار است: برای دستیابی به نوآوری سازمانی سازمان‌های دفاعی محرک‌های فضای کاری مناسب؛ عوامل درونی سازمانی؛ بینش و اهداف مشترک بین کارکنان؛ برنامه‌های انگیزشی و حمایتی؛ مدیریت فناوری اطلاعات؛ مدیریت افراد؛ مدیریت دانش؛ آموزش و فرآیند یادگیری کارکنان؛ تحقیق و توسعه؛ ویژگی‌های مدیریتی؛ فرآیند محوری بودن؛ آینده‌نگری؛ مدیریت خلاقیت؛ نوآوری در رفتار؛ نوآوری در فرآیند؛ نوآوری در محصول؛ نوآوری در راهبرد و نوآوری در بازار مؤثر هستند.</abstract>
+									<keywords>
+									
+											<keyword>نوآوری</keyword>
+											<keyword>نوآوری سازمانی</keyword>
+											<keyword>نوآوری سازمان‌های دفاعی</keyword>
+											<keyword>رویکرد ساختاری تفسیری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>19</first_page>
+										<last_page>67</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_29920_5eb883a89f76895d5f24c879dcd69a11.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>67</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی و تحلیل محتوای جنگ، جهاد و پرورش نظامی در قرآن با تأکید بر مقایسه با ادیان الهی «یهودیت، مسیحیت و زردشت</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>ابوالفضل</given_name>
+												<surname>اشرفی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سید علی اکبر</given_name>
+												<surname>حسینی</surname>
+											</person_name></contributors>
+									<abstract>در این مقاله نگرش قرآن به پدیدۀ جنگ و جهاد و تبیین شاخص‌ها و کارکردهای پرورش نظامی مجاهدان با نگاهی تطبیقی به ادیان الهی «یهودیت، مسیحیت و زردشت» مورد واکاوی و بررسی قرارگرفته است. پرسش اصلی این است که با توجه به الهی و غیرتحریفی بودن خاستگاه دانش‌های قرآنی، به ‌ویژه در مقایسه با ادیان الهی مزبور، رویکردِ واقعی کمی و کیفی قرآن به جنگ و جهاد چیست و در قرآن بر چه شاخص‌ها و کارکردهایی در پرورش نظامیان و مجاهدان تأکید شده است که می‌تواند نگرش‌های نادرست به رویکرد اسلامی و قرآنی نسبت به جنگ را تبیین نماید؟ روش این پژوهش، کتابخانه‌ای و اسنادی است. نوع پژوهش به لحاظ ماهیت و روش، توصیفی است که بر اساس رویکرد روش‌شناسیِ ترکیبی(کیفی ‌ـکمیِ) جامعه‌شناسی و مفسرین قرآن کریم انجام شده است. جامعۀ آماری شامل کتب مقدس ادیان الهی مورد بررسی است. گردآوری داده‌ها براساس تحلیل محتوا و مقوله‌بندی مفاهیم و محاسبات آماری کمّی صورت گرفته است. هدف اصلی، ارائه تصویر و تفسیری واقع‎بینانه از آموزه‌های مرتبط با جنگ و جهاد در قرآن است تا بتواند به زدودن چهره خشن و جنگ طلب از اسلام کمک کند. مهمترین نتیجه پژوهش این است که قرآن دربارۀ جنگ، تصویری جامع، واقع‌بینانه، صلح‌آمیز و تعالی‌بخش ارائه می‌دهد و در اصول ساختاری و کارکردهای قرآنیِ جنگ، عزت، اقتدار، تعالی و تکامل روحانی و معنوی انسان بر اساس آموزه‌های الهی ملحوظ شده است. این دیدگاه نسبت به جنگ به تربیت مجاهدانی می‌انجامد که با انگیزه‌های الهی و هدف گسترش ارزش‌های الهی به دور از خشونتِ غیرانسانی به جهاد می‌پردازند. از دیگر نتایج آن است که نشان می‌دهد در قرآن در مقایسه با سایر ادیان الهی- از جهت کمّی و کیفی- گزاره‌های کمتری به جنگ و مفاهیم متناظر با آن اختصاص یافته است؛ داده‌های آماری بیانگر این واقعیت است که حجم آموزه‌های کتب الهی ادیان مورد نظر دربارۀ جنگ در مقایسه با قرآن (4/12 برابر) بیشتر می‌باشد.</abstract>
+									<keywords>
+									
+											<keyword>قرآن</keyword>
+											<keyword>ادیان الهی</keyword>
+											<keyword>جنگ و جهاد</keyword>
+											<keyword>جهادگران</keyword>
+											<keyword>پرورش نظامی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>68</first_page>
+										<last_page>103</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_29921_c90d7c498bebbb0f91b146bbb186c429.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>67</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تحلیلی بر نقش بازارچه‌های مشترک مرزی در ارتقای امنیت مناطق مرزنشین (مطالعۀ موردی بازارچه‌های مرزی سردشت و پیرانشهر)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>زرگار</given_name>
+												<surname>حمزه پور</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سیروس</given_name>
+												<surname>فخری</surname>
+											</person_name></contributors>
+									<abstract>بازارچه‌های مرزی به عنوان یکی از اهرم‌های مهم در ایجاد اشتغال و توسعه فعالیت‌های اقتصادی مطرح بوده و یکی از ویژگی‌های تشکیل بازارچه‌های مرزی مسئله امنیت است. بازارچه‌های مرزی با توجه به ساختارشان توانسته‌اند مسئلۀ امنیت مرزها را تا حدودی برآورده نمایند و این مسئله روی شرایط اقتصادی مناطق مرزی تأثیر به سزایی داشته است. نوشتار حاضر حاصل پژوهشی میدانی از اثرات بازارچه‌های مرزی سردشت و پیرانشهر در استان آذربایجان غربی بر ارتقای امنیت مناطق مرزنشین است که با استفاده از روش تحقیق کمی صورت گرفته است. روش انجام آن در بخش نظری، کتابخانه‌ای و اسنادی و در بخش عملی، پیمایشی و با استفاده از ابزار پرسشنامه می‌باشد. در روش اسنادی از فیش، اسناد و گزارش‌های اداری، مقالات مؤسسات و وزارت‌خانه‌ها و سازمان‌های ذیربط و در شیوه میدانی از پرسشنامه، مصاحبه و مشاهده همراه با مشارکت استفاده شده است. در این بررسی دو بازارچه «کیله» و «تمرچین» به عنوان نمونه انتخاب شده‌اند تا بررسی دقیق روی آنها انجام بگیرد. مطالعات و بررسی‌های صورت گرفته نشان داد که امنیت و توسعه در مناطق مورد بررسی با ضریب همبستگی بالا، دارای رابطه‌ای مستقیم و دو سویه با یکدیگر بودند، به گونه‌ای که طبق نظریات امنیت‌ توسعه، مناطق دارای شاخص‌های بالای توسعه اقتصادی، از ضریب امنیتی بالاتری نسبت به مناطق توسعه نیافته برخوردارند؛ بنابراین توجه به توسعه و امنیت مناطق مرزی و افزایش رفاه و درآمد اقتصادی مرزنشینان از طریق فعالیت‌های سالم اقتصادی، با حمایت و سرمایه‌گذاری دولت‌ها بر کارکرد امنیتی مرز و مرزنشینان تأثیر مثبت دارد.</abstract>
+									<keywords>
+									
+											<keyword>مرز</keyword>
+											<keyword>مناطق مرزی</keyword>
+											<keyword>امنیت</keyword>
+											<keyword>وضعیت رفاهی</keyword>
+											<keyword>بازارچه مشترک مرزی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>104</first_page>
+										<last_page>140</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_29925_f70fc55b9c4a4cc645e2441be79f17bf.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>67</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی عملکرد پژوهشی یک دانشگاه دولتی با استفاده از فرآیند تحلیل سلسله‌ مراتبی و تحلیل پوششی داده‌های شبکه‌ای</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حمید رضا</given_name>
+												<surname>قمی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مرتضی</given_name>
+												<surname>رحمانی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مرتضی</given_name>
+												<surname>خاکزار</surname>
+											</person_name></contributors>
+									<abstract>مراکز آموزش عالی، دارای نقشی راهبردی در توسعة توانمندی‌های جامعه هستند و بررسی عملکرد آن‌ها در ابعاد مختلف، همواره موردتوجه مدیران ذی‌ربط بوده است. هدف از این تحقیق، ارزیابی عملکرد پژوهشی یک دانشگاه دولتی از طریق دانشکده‌های تابعه آن و با استفاده از روش تحلیل پوششی داده‌های شبکه‌ای است؛ بدین منظور، مجموعه‌ای از شاخص‌های پژوهشی معتبر، از ادبیات موجود و نظر خبرگان تهیه و پس از شناسایی شاخص‌های در دسترس دانشگاه، مورد انتخاب قرار گرفته و جهت ترکیب و نیل به شاخص‌های کلان، به‌وسیلة فرآیند تحلیل سلسله مراتبی، موزون شدند؛ پس‌ازآن، با استفاده از مدل تحلیل پوششی داده‌های شبکه‌ای، داده‌های مرتبط با شاخص‌های کلان در دانشکده‌های تابعه دانشگاه، مورد ارزیابی قرار گرفتند. پژوهش حاضر ماهیتی توصیفی داشته، از نظر هدف کاربردی و به لحاظ روش تجزیه‌وتحلیل داده‌ها، کمّی است. با توجه به ورودی‌ها و خروجی‌های مورد استفاده در پژوهش، نتایج حاصله حاکی از فقدان کارایی نسبی دو دانشکده‌ این دانشگاه است؛ هم‌چنین دانشگاه موردمطالعه به لحاظ پژوهشی در سطح کارا ارزیابی نمی‌شود؛ این یافته بیانگر ضرورت توجه جدّی به تقویت منابع و بسترهای لازم برای رشد فعالیت‌های پژوهشی در دانشگاه مورد مطالعه می‌باشد.</abstract>
+									<keywords>
+									
+											<keyword>ارزیابی عملکرد پژوهشی</keyword>
+											<keyword>فرآیند تحلیل سلسله مراتبی</keyword>
+											<keyword>تحلیل پوششی داده‌های شبکه‌ای</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>141</first_page>
+										<last_page>167</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_29931_8988f7112801d3187f431ebcf03d1f76.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>67</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی عوامل انگیزشی دانشجویان دانشگاه افسری امام علی(ع) برای شرکت در ورزش و فعالیت‌های بدنی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>صمد</given_name>
+												<surname>بگلری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>قائدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سجاد</given_name>
+												<surname>محمدیاری</surname>
+											</person_name></contributors>
+									<abstract>هدف پژوهش حاضر بررسی  عوامل انگیزشی دانشجویان دانشگاه افسری امام علی&lt;sup&gt;(ع)&lt;/sup&gt; برای شرکت در ورزش و فعالیت­های بدنی است. روش پژوهش توصیفی – تحلیلی است. جامعۀ آماری تحقیق دانشجویان دانشگاه افسری (2500N = ) بودند که بر اساس جدول مورگان تعداد 330 نفر از آنها به روش نمونه‌گیری تصادفی طبقه­ای از سال­های یکم، دوم و سوم ( هر سال 110) نفر به عنوان نمونه انتخاب گردیدند که در مجموع تعداد 285 پرسشنامه کامل عودت داده شد. برای دستیابی به اهداف تحقیق از پرسشنامۀ انگیزش ورزشی مارکلند و اینگلدور استفاد شد. اگرچه پایایی و روایی این پرسشنامه در تحقیقات متعددی تأیید شده است، برای اطمینان از تطابق پرسشنامه با جامعۀ تحقیق روایی و پایایی آن بررسی شد. برای تعیین روایی صوربی و محتوایی از نظرات کارشناسان و متخصصان و برای بررسی روایی سازه از تحلیل عاملی تأییدی استفاده گردید که با توجه به میزان بار عاملی و میزان آماره تی تمامی گویه‌­ها پیشگوی مناسبی برای شاخص مد نظر بودند. همسانی درونی متغیرهای تحقیق با استفاده از آلفای کرونباخ به وسیلۀ مطالعۀ مقدماتی با تعداد 30 نفر از شرکت‌کنندگان بررسی شد. به منظور سازمان دادن، طبقه­بندی و خلاصه نمودن داده­های خام از آمار توصیفی و در بخش آمار استنباطی از آزمون تی تک نمونه­ای، تحلیل واریانس استفاده گردید. نتایج نشان داد که انگیزۀ قدرت دارای بالاترین نمره و انگیزه اجبار پزشکی دارای پایین­ترین نمره می­باشد. بنابرین بایستی نیازهای انگیزشی دانشجویان برآورده گردد تا تمایل آنها برای شرکت در این فعالیت­ها افزایش یابد.</abstract>
+									<keywords>
+									
+											<keyword>انگیزه ورزش</keyword>
+											<keyword>فعالیت‌های ورزشی</keyword>
+											<keyword>دانشگاه افسری امام علی(ع)</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>168</first_page>
+										<last_page>191</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_29932_4a21c01609d5e935173cc0a259b6abe0.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

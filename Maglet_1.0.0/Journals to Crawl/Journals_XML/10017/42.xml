@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه افسری امام علی(ع)</PublisherName>
+				<JournalTitle>فصلنامه مدیریت نظامی</JournalTitle>
+				<Issn>1735-5699</Issn>
+				<Volume>18</Volume>
+				<Issue>69</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2018</Year>
+					<Month>06</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Developing a domestic Military Ontology as a Semantic Infrastructure for Battle Space Command and Control</ArticleTitle>
+<VernacularTitle>تولید یک هستان‌شناسی بومی نظامی به عنوان زیرساخت معنایی سامانه‌های فرماندهی و کنترل صحنه نبرد</VernacularTitle>
+			<FirstPage>104</FirstPage>
+			<LastPage>130</LastPage>
+			<ELocationID EIdType="pii">32387</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>لیلا</FirstName>
+					<LastName>ثروتی</LastName>
+<Affiliation>دانشجوی دکتری مهندسی فناوری اطلاعات، ، دانشگاه صنعتی مالک اشتر servati@chmail.ir</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محمدرضا</FirstName>
+					<LastName>ولوی</LastName>
+<Affiliation>دانشیار مهندسی برق و کنترل، دانشگاه صنعتی مالک اشتر</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مریم</FirstName>
+					<LastName>حورعلی</LastName>
+<Affiliation>دانشگاه صنعتی مالک اشتر، مجتمع فناوری اطلاعات و ارتباطات</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2017</Year>
+					<Month>07</Month>
+					<Day>19</Day>
+				</PubDate>
+			</History>
+		<Abstract>Nowadays, there is an increasing need in military systems for more intelligent and higher semantic interactions, efficient transfer of military information, and developing a common language among forces for synchronized decision making and a coordinated action. In the same vein, ontology has become an innovative tool for military information modelling. In the present paper, using an innovative methodology which is a combination of knowledge engineering and automatic methods of data derivation, and with the purpose of modelling of military knowledge for developing a common semantic infrastructure for commanding and control systems, as well as a common language among forces, the ontology of battle field was modelled in three sub-ontologies of military, geographical and civil branches using Protégé software in OWL language. Finally, the developed ontology was evaluated using a comprehensive verification plan for coverage and credibility and correctness of ontology application. The developed ontology is the first domestic ontology which is applicable as semantic infrastructure for various command and control systems.</Abstract>
+			<OtherAbstract Language="FA">امروزه ‌برای هوشمندی بیشتر، تعاملات معنایی بالاتر، انتقال هدفمند اطلاعات و دانش نظامی و ایجاد زبانی مشترک میان نیروها، نیازهای فزاینده‌ای در حوزة سامانه‌های نظامی وجود دارد. در همین راستا، هستان‌شناسی در حوزة فناوری اطلاعات و هوش مصنوعی، به ابزاری نوین برای مدل‌سازی دانش نظامی ‌تبدیل شده است. در این مقاله با استفاده از روش‌شناسی نوینی که ترکیبی از تکنیک‌های مهندسی دانش و روش‌های خودکار استخراج اطلاعات است و با هدف مدل‌سازی دانش نظامی برای ایجاد زیرساخت معنایی مشترک و توسعة سامانه‌های فرماندهی و کنترل و ایجاد زبان مشترک میان نیروها؛ هستان‌شناسی صحنة نبرد در قالب سه زیر هستان‌شناسی نظامی، جغرافیایی و ملاحظات غیرنظامی، توسعه یافته‌ و در محیط نرم‌افزار Protégé  با زبان OWL اجرایی شده است. در نهایت هستان‌شناسی توسعه‌یافته با طرحی همه‌جانبه مورد آزمون قرار گرفت و خبرگان صحت و پوشش محتوای آن را تأیید کردند. محصول توسعه‌یافته، نخستین هستان‌شناسی بومی نظامی است که به عنوان زیرساخت معنایی سامانه‌های گوناگون فرماندهی‌وکنترل صحنه نبرد، قابلیت کاربرد دارد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">هستان‌شناسی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">صحنه نبرد</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدل‌سازی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">دانش نظامی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">فرماندهی‌وکنترل</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://jmm.iranjournals.ir/article_32387_68a051e2409bf96fc62517c1cae5374f.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

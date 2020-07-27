@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه تربت حیدریه</PublisherName>
+				<JournalTitle>علمی پژوهشی زراعت و فناوری زعفران</JournalTitle>
+				<Issn>2383-1529</Issn>
+				<Volume></Volume>
+				<Issue>مقالات آماده انتشار</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Classification of saffron using color features extracted from the image</ArticleTitle>
+<VernacularTitle>طبقه بندی زعفران با استفاده از ویژگی های رنگی استخراج شده از تصویر</VernacularTitle>
+			<FirstPage></FirstPage>
+			<LastPage></LastPage>
+			<ELocationID EIdType="pii">108551</ELocationID>
+			
+<ELocationID EIdType="doi">10.22048/jsat.2020.206278.1362</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>مرتضی</FirstName>
+					<LastName>محمد زاده مقدم</LastName>
+<Affiliation>دانشجوی دکتری، مهندسی علوم و صنایع غذایی، گروه علوم و صنایع غذایی، دانشکده کشاورزی، دانشگاه فردوسی مشهد</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مسعود</FirstName>
+					<LastName>تقی زاده</LastName>
+<Affiliation>استادیار، گروه علوم و صنایع غذایی، دانشکده کشاورزی، دانشگاه فردوسی مشهد</Affiliation>
+<Identifier Source="ORCID">0000000159608633</Identifier>
+
+</Author>
+<Author>
+					<FirstName>حسن</FirstName>
+					<LastName>صدرنیا</LastName>
+<Affiliation>دانشیار، گروه مکانیک بیوسیستم، دانشکده کشاورزی، دانشگاه فردوسی مشهد</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حمیدرضا</FirstName>
+					<LastName>پوررضا</LastName>
+<Affiliation>استاد، گروه کامپیوتر، دانشکده مهندسی، دانشگاه فردوسی مشهد</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</History>
+		<Abstract>The classification of saffron as the most expensive spice is of great importance for customers and traders. In general, two methods are currently used to classify saffron. The first method is based on the experiences of an expert and by observing the samples. The second method is destructive and is performed using laboratory methods. According to experts, the use of machine learning techniques to classify saffron is a goal due to its non-destructive nature and timely characteristics. This method can also increase the accuracy of the industrial scale grading process. In this paper, a vision machine  method is presented. Due to lack of  documented research about this subject ,a comprehensive litreture search  is presented in this work. Almost all color characteristics were extracted and used in a large number of classifiers. Experts in Iran classify saffron into three main categories based on their appearance: Pushal, Negin and Sargol. In this paper, a database consisted of 440 images from saffron for the three different classes were collected using a mobile phone camera. After applying some preprocessing steps, such as background removing, cropping etc., 21 color features were extracted using different image analysis methods. Twenty-two classifiers were employed for classification. Comparing results of different classifiers showed that the Linear Discriminant, Linear SVM, Bagged Trees and RUSBoost Trees can produce more accurate grading compared to other  classifiers when using color features. In particular,  mean classification accuracy of 82.23% was achieved in this work using Linear SVM  classifier.</Abstract>
+			<OtherAbstract Language="FA">طبقه ­بندی زعفران به عنوان گران ترین ادویه از اهمیت بالایی برای مشتریان و تجار برخوردار است. به طور کلی ، در حال حاضر دو روش برای درجه­بندی زعفران استفاده می­شود. روش اول براساس تجربیات فرد خبره و با مشاهده نمونه ها انجام می شود. روش دوم تخریبی بوده و با استفاده از متدهای آزمایشگاهی انجام می گیرد. طبق نظر متخصصان، استفاده از تکنیک­های یادگیری ماشین برای طبقه­بندی زعفران به دلیل داشتن ماهیت غیر مخرب و خصوصیات بهنگام ، یک هدف است. این روش همچنین می­تواند باعث افزایش دقت فرآیند درجه­بندی در مقیاس صنعتی شود. در این مقاله ، یک روش مبتنی بر ماشین بینایی ارائه شده است. با توجه به عدم تحقیقات مستند در مورد این موضوع ، جستجوی مشروح جامع در این کار ارائه می شود. تقریباً تمام ویژگی­های رنگ استخراج و در تعداد زیادی از طبقه­بندی کننده­ها استفاده شد. افراد خبره در ایران زعفران را بر اساس خصوصیات ظاهری به سه طبقه اصلی یعنی پوشال ، نگین و سرگل طبقه­بندی می کنند. در این مقاله ، یک بانک اطلاعاتی متشکل از 440 تصویر از زعفران برای سه کلاس مختلف با استفاده از دوربین تلفن همراه جمع­آوری شد. پس از اعمال تعدادی از مراحل پیش پردازش مانند حذف پس زمینه ، بریدن و حذف مناطق ناخواسته تصاویر و غیره ، 21 ویژگی رنگی با استفاده از روش های مختلف تحلیل تصویر استخراج شد. برای طبقه­بندی از 22 طبقه­بندیگر استفاده شدند. مقایسه نتایج طبقه­بندی کننده های مختلف نشان داد که Linear Discriminant ، Linear SVM، Bagged Trees و RUSBoost Trees می توانند در هنگام استفاده از ویژگی­های رنگی ، درجه­بندی دقیق­تری را نسبت به سایر طبقه­بندی کننده­ها ایجاد کنند. به طور خاص، دراین کار، میانگین دقت  82.23 درصد با استفاده از طبقه­بندی­کننده خطی SVM بدست آمد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">طبقه بندی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">زعفران</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">پردازش تصویر</Param>
+			</Object>
+		</ObjectList>
+</Article>
+</ArticleSet>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشکده مدیریت دانشگاه تهران</PublisherName>
+				<JournalTitle>مدیریت صنعتی</JournalTitle>
+				<Issn>2008-5885</Issn>
+				<Volume>7</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2015</Year>
+					<Month>03</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Multi-objective optimization of criminal trial process using descrete event computer simulation and design of experiment</ArticleTitle>
+<VernacularTitle>بهینه سازی همزمان چند هدفه فرایند دادرسی کیفری به کمک شبیه سازی کآمپیوتری گسسته- پیشامد و طراحی آزمایش ها</VernacularTitle>
+			<FirstPage>65</FirstPage>
+			<LastPage>82</LastPage>
+			<ELocationID EIdType="pii">52860</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/imj.2015.52860</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>لیلا</FirstName>
+					<LastName>علی زاده</LastName>
+<Affiliation>دانشجوی کارشناسی ارشد مهندسی صنایع دانشکدة مهندسی صنایع، دانشگاه آزاد واحد جنوب، تهران، ایران.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>رسول</FirstName>
+					<LastName>نورالسناء</LastName>
+<Affiliation>استاد دانشکدة مهندسی صنایع، دانشگاه علم و صنعت، تهران، ایران.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>صدیق</FirstName>
+					<LastName>رئیسی</LastName>
+<Affiliation>دانشیار دانشکدة مهندسی صنایع، دانشگاه آزاد اسلامی، واحد جنوب، تهران، ایران.</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2014</Year>
+					<Month>06</Month>
+					<Day>06</Day>
+				</PubDate>
+			</History>
+		<Abstract> Since the analysis of complex services systems by using mathematical modeling techniques, with considering the random patterns prevailing in them, is so difficult or probably impossible, improvement guidelines are often followed based on the experts&#039; experiences using qualitative methods. In the present paper, by employing a discrete event computer simulation methodology, criminal trial system has been quantitatively analyzed in a selected court in Iran and appropriate operational strategies to improve a couple of system performance indicators have been provided using sophisticated statistical tools such as design of experiments, hypothesis testing, regression analysis, sensitivity analysis and multi-objective optimization. Simulation results show possibility of a 27% reduction in average responding time on penal claims and simultaneously 80% reduction on repeated referral rate. Also, in order to examine analytical details, computer simulation model was validated using hypothesis testing method on a few dummy response variables.
+
+
+
+ </Abstract>
+			<OtherAbstract Language="FA">تجزیه و تحلیل سیستم‌های پیچیدة خدماتی با درنظرگرفتن الگوهای تصادفی آن‌ها به کمک روش‌های مدل‌سازی ریاضی بسیار پیچیده یا احتمالاً ناممکن است؛ بنابراین مشاهده می‌شود راهکارهای بهبود بیشتر متکی بر استفاده از تجربیات خبرگان فن و تحلیل‌های توصیفی است. در مقالة حاضر، با بهره‌گیری از رویکرد شبیه‌سازی کامپیوتری گسسته- پیشامد، نظام دادرسی کیفری در دادگاهی برگزیده در کشورمان تجزیه و تحلیل کمّی شد و در آن با استفاده از ابزارهای آماری مانند طراحی آزمایش‌ها، آزمون فرض، تحلیل رگرسیون، روش‌های تحلیل حساسیت و بهینه‌سازی چندهدفه، راهکارهای عملیاتی مناسب برای بهبود زوج شاخص عملکردی سیستم ارائه شد. نتایج شبیه‌سازی نشان داد با بهره‌گیری سناریوهای پیشنهادی می‌توان کاهش 27 درصدی در میانگین زمان دادرسی و به‌طور همزمان کاهش 80 درصدی در متوسط مراجعه‌های مکرر به این دادگاه انتظار داشت. همچنین، با اجرای آزمون فرض بر چند متغیرهای پاسخ مصنوعی، اعتبارسنجی مدل شبیه‌سازی برای حصول به جزئیات تحلیلی بیشتر دنبال شد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">بهینه‌سازی چندهدفه</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تابع مطلوبیت</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تجزیه و تحلیل سیستم‌های خدماتی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبیه‌سازی کامپیوتری گسسته- پیشامد</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">طراحی آزمایش‌ها</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://imj.ut.ac.ir/article_52860_54374106f64bb57d2457e5103fa482d3.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

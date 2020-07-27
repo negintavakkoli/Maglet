@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>4</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2016</Year>
+					<Month>05</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Artificial Neural Networks versus OLS Regression Models Using Principal Components Analysis in Forecasting Unexpected Returns</ArticleTitle>
+<VernacularTitle>مقایسه کارآیی مدل‏های رگرسیون با رویکرد تحلیل مؤلفه‏های اصلی (PCA) وشبکه‏های عصبی مصنوعی درپیش‏بینی بازده غیرعادی</VernacularTitle>
+			<FirstPage>1</FirstPage>
+			<LastPage>18</LastPage>
+			<ELocationID EIdType="pii">20629</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2016.20629</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>رضا</FirstName>
+					<LastName>راعی</LastName>
+<Affiliation>دانشیار دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مهدی</FirstName>
+					<LastName>بستان آراء</LastName>
+<Affiliation>دانشگاه تهران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>11</Month>
+					<Day>21</Day>
+				</PubDate>
+			</History>
+		<Abstract>Financial statements are the main source of information for stock market participants and financial ratios are the primary tool for their analysis. The main goal pursued by this research includes two major questions; First, whether it is possible to gain “unexpected returns” (in excess of expected return, determined by the Capital Asset Pricing Model) using seven financial parameters, for publicly traded companies in Tehran Stock Exchange. Second, as suggested by the research hypothesis, are artificial neural networks superior to ordinary least square regression in forecasting such returns? Based on research findings, artificial neural networks can outperform ordinary least squares models even when the regression model prediction capacity is enhanced by using principal components analysis, in terms of one-step-ahead forecasting of unexpected returns.</Abstract>
+			<OtherAbstract Language="FA">بسیاری از پژوهش‏ها در علم مالی بر پیش‏بینی دقیق بازده شرکت‏ها با در نظر داشتن ریسک سرمایه‏گذاری در سهام آن‏ها تمرکز داشته‏اند. هدف این پژوهش،بررسی امکان توضیح بازده غیرعادی(تفاوت بازده مورد انتظار حاصل از مدل قیمت‏گذاری دارایی‏های سرمایه‏ای و بازده واقعی) بااستفاده ازنسبت‏های مالی وانتخاب ابزاربهتر برای پیش‏بینی آن از بین دومدل رگرسیون چندگانه با رویکرد تحلیل مؤلفه‏های اصلی (PCA) وشبکه‏های عصبی مصنوعی(ANN) است. بر این اساس توانایی مدل شبکه‏های عصبی مصنوعی پیش‏خور با الگوریتم پس‏انتشار خطا (BPN) در پیش‏بینی برون‏ نمونه‏ایِ بازده غیرعادی سهام مورد معامله در بورس اوراق بهادار تهران در سال‏های 1384 تا 1391 به طور معناداری بیشتر از توانایی رگرسیون خطی با رویکرد تحلیل مؤلفه‏های اصلی بوده است.&lt;br /&gt; &lt;br /&gt; &lt;span lang=&quot;FA&quot;&gt; &lt;/span&gt;</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">بازده غیرعادی سهام</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبکه‏ های عصبی مصنوعی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">رگرسیون خطی با تحلیل مؤلفه‏ های اصلی (PCA)</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">پیش‏ بینی برون‏ نمونه‏ ای</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_20629_84afce1f5f7e727b02e340b2d1641d6e.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

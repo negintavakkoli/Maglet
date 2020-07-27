@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-26T05:12:11Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22055">http://aag.scu.ac.ir/?_action=export&amp;rf=summon&amp;issue=1950</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>استخراج اتوماتیک خطواره ها از تصاویر ASTER با استفاده از تبدیل هاف، برگه 1:100000 جبال بارز</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محی الدین</given_name>
+												<surname>محمدپور</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>خالد</given_name>
+												<surname>اله ویسی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>عباس</given_name>
+												<surname>بحرودی</surname>
+											</person_name></contributors>
+									<abstract>منطقه جبال بارز در کمربند ماگمایی ارومیه – دختر قرار دارد و کانه زایی های مس پورفیری موجود در منطقه ارتباط زیادی با گسل‌ها و توده‌های نفوذی گرانیتوئیدی دارند. تعداد و محل شکستگی‌ها و خطواره‌ها، راهنمای مناسبی برای اکتشاف کانه‌زایی مس پورفیری می‌باشند. در این تحقیق از یک الگوریتم تمام اتوماتیک جهت استخراج خطواره‌ها از تصاویر ماهواره‌ای ASTER استفاده شد، بطوریکه مهمترین هدف این الگوریتم، شناسایی دقیق لبه‌ها و نرخ خطای کم است. برای بهبود تشخیص لبه، حالت بهینه الگوریتم کنی و برای آشکارسازی خطواره‌ها، تبدیل هاف اعمال شد، در نهایت پس از بررسی بر روی خطواره‌های تعیین شده، گسل‌های نهایی و مرتبط با کانه‌زایی شناسایی و نقشه آن تهیه شد. با توجه به نمودار رزدیاگرام دو سیستم گسله بارزسازی شد که سیستم گسله اصلی دارای امتداد شمال غربی - جنوب شرقی می‌باشد و سیستم گسله با امتداد شمالی=جنوبی سهم ناچیزی از کل شکستگی‌های منطقه را تشکیل می‌دهد. نقشه چگالی گسل‌ها، منطقه را از نظر کانه‌زایی مس پورفیری پر پتانسیل ارزیابی کرد. برای بررسی موفقیت‌سنجی تصاویر ASTER در استخراج عوارض خطی و گسل‌های منطقه، این گسل‌ها با گسل‌های نقشه زمین‌شناسی مقایسه شد که 05/63 درصد از آنها با گسل‌های زمین شناسی همپوشانی داشتند.</abstract>
+									<keywords>
+									
+											<keyword>مس پورفیری</keyword>
+											<keyword>استخراج اتوماتیک خطواره</keyword>
+											<keyword>تشخیص لبه</keyword>
+											<keyword>الگوریتم کنی</keyword>
+											<keyword>تبدیل هاف</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>374</first_page>
+										<last_page>391</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15065_470fd3047e1aa97444cf922a940d4592.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>زیست‌دسترس‌پذیری و زیست‌انباشت فلزات سنگین در سیستم رسوب-گیاه تالاب شادگان، استان خوزستان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>نسرین</given_name>
+												<surname>یاورعشایری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>بهنام</given_name>
+												<surname>کشاورزی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>فرید</given_name>
+												<surname>مر</surname>
+											</person_name></contributors>
+									<abstract>تالاب شادگان یکی از مهمترین و ارزشمندترین زیستگاه‌های آبی کشور است که از نظر زیست‌شناختی و بوم‌شناختی اهمیت زیادی در حیات‌وحش منطقه دارد. به منظور ارزیابی گونه‌های گیاهی به عنوان اندامگان نشانگر آلودگی فلزات سنگین در مطالعات زیست‌پایشی بوم‌سامانه آبی، در این پژوهش انباشت فلزات سنگین(مولیبدن، مس، سرب، روی، آرسنیک، سلنیم، جیوه، نیکل، کبالت، کادمیم، کروم، وانادیم، منگنز، آلومینیم و آهن) در ریشه و اندام هوایی ماکروفیت‌های نی(Phragmites australis)، لوئی(Typha latifolia)، چمن‌شور(Aeluropus lagopoides)، باتلاقی‌شور(Halocnemum strobilaceum) و جگن(Scripus maritimus) تعیین شد. غلظت‌ فلزات سنگین در ریشه‌ی هر پنج گونه از اندام‌هوایی بیشتر بود که بیانگر مناسب بودن این گونه‌ها به عنوان نشانگرهای حضور و میزان آلودگی فلزات سنگین در تالاب‌ها هستند. بیشترین مقدار ضریب زیست‌انباشت مربوط به عنصر سلنیم می‌باشد. همچنین غلظت سلنیم در گیاهان از رسوب بیشتر است. ضریب انتقال کمتر از یک برای تمام عناصر در گیاه نی نشان‌دهنده توانایی کم گونه گیاهی نی برای انتقال ‎عناصر از ریشه به اندام‌های هوایی است. طبق نتایج استخراج گزینشی سه عنصر سرب، نیکل و روی بیشترین زیست‌دسترس‌پذیری را دارند.</abstract>
+									<keywords>
+									
+											<keyword>زیست‌دسترس‌پذیری</keyword>
+											<keyword>زیست‌انباشت</keyword>
+											<keyword>ماکروفیت‌های آبزی</keyword>
+											<keyword>فلزات سنگین</keyword>
+											<keyword>تالاب شادگان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>392</first_page>
+										<last_page>406</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15073_a5e23ab121e16fe5e80b69e475257500.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تاثیر لیتواستراتیگرافی سازند گچساران بر عملکرد جدایشی آن در تاقدیس‌های فرادیواره ای گسل پیشانی زاگرس درفروافتادگی دزفول جنوبی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>اسلام</given_name>
+												<surname>توکلیان</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>یساقی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مهدی</given_name>
+												<surname>نجفی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>علیرضا</given_name>
+												<surname>گلال زاده</surname>
+											</person_name></contributors>
+									<abstract>ویژگی های مکانیکی پوشش رسوبی عامل اصلی کنترل کننده سبک دگرریختی در کمربندهای چین‌-رانده است. حضور لایه‌های شکل‌پذیر به عنوان افق جدایشی در میانه توالی رسوبی زاگرس باعث دگرریختی ناهماهنگ و تفاوت بین هندسه چین‌ها در سطح نسبت به عمق می‌شوند. سازند گچساران یکی از مهمترین افق های جدایشی در کمربند چین‌-رانده زاگرس است. در این مطالعه با تلفیق داده‌های میدانی و زیرسطحی (برش‌های لرزه‌ای دو بعدی، نقشه‌های هم‌تراز زیرسطحی و داده‌های چاه‌های حفاری)، اثر عملکرد جدایشی سازند گچساران بر سبک چین‌خوردگی و گسلش در تاقدیس‌های آغاجاری، پازنان، رگ‌سفید، بی‌بی‌حکیمه، سولابدر و نرگسی در فروافتادگی دزفول جنوبی و در مجاورت پهنه گسل پیشانی زاگرس مورد بررسی قرار گرفته است. نتایج این مطالعه نشان دادند که تغییرات لیتولوژیکی سازند گچساران عامل اصلی کنترل کننده رفتار جدایشی آن در حین چین‌خوردگی است. با افزایش ضخامت نمکدر سازند گچساران عملکرداین سازند به صورت افق جدایشی موثرتر می گردد و با جابجایی بیشتر محور چین‌ها و ناهماهنگی در سطح نسبت به عمق و تغییر سبک چین‌خوردگی همراه می شود.</abstract>
+									<keywords>
+									
+											<keyword>سبک چین‌خوردگی</keyword>
+											<keyword>سازند گچساران</keyword>
+											<keyword>فروافتادگی دزفول جنوبی</keyword>
+											<keyword>افق جدایشی</keyword>
+											<keyword>مقدار نمک</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>407</first_page>
+										<last_page>422</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15074_311beb37d60868534ea46f8815598c8f.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>زیست‌چینه‌نگاری و بوم‌شناسی دیرینه نهشته‌های پالئوسن-ائوسن در برش کوه کتابی (غرب رفسنجان)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>طیبه</given_name>
+												<surname>احمدی ابراهیم آبادی</surname>
+											</person_name></contributors>
+									<abstract>نهشته‌های پالئوسن -ائوسن پیشین در غرب شهرستان رفسنجان (استان کرمان) برای اولین بار از دیدگاه زیست‌چینه‌ای و بوم شناسی دیرینه مورد بررسی قرار گرفته‌اند. رخنمون کوه کتابی با ستبرای 161 متر به طور عمده از سنگ آهک، دولومیت، شیل، مارن و ماسه سنگ‌های آهکی تشکیل شده و بر اساس ویژگی‌های سنگ شناسی به پنج واحد رسوبی قابل تقسیم است. چهل جنس و گونه از روزنبران کف‌زی و شناور از توالی این برش بدست آمد که بر پایه توزیع عمودی آنها یک زون زیستی بر اساس روزنبران شناور (Morozovella angulata Lowest occurrence zone) و سه زون زیستی از زون-های کف‌زی کم ژرفا حوضه تتیس (SBZ4-SBZ6 Biozones) براساس روزنبران کف‌زی شناسایی گردید. توالی بررسی شده در برش کتابی از نظر تغییرات فراوانی، تنوع و نحوه پراکندگی روزنبران در فاصله زمانی پالئوسن پسین- ائوسن پیشین با نهشته‌های معادل در حوضه تتیس قابل مقایسه است. همچنین تغییرات ژرفای محیط نهشتگی در ارتباط با تغییرات نوع فونا نیز مورد بحث قرار گرفته است.</abstract>
+									<keywords>
+									
+											<keyword>پالئوسن</keyword>
+											<keyword>ائوسن</keyword>
+											<keyword>روزنبران</keyword>
+											<keyword>تتیس</keyword>
+											<keyword>رفسنجان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>423</first_page>
+										<last_page>439</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15066_e1e6c78aae3fc285866bc7c66534004c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مطالعه شرایط تشکیل و پتانسیل گوهرشناسی کردیریت، کیانیت و آندالوزیت‌های موجود در هاله دگرگونی کمپلکس الوند، همدان، ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>عادل</given_name>
+												<surname>ساکی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علیرضا</given_name>
+												<surname>زراسوندی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>فاطمه</given_name>
+												<surname>مزرعه</surname>
+											</person_name></contributors>
+									<abstract>منطقه مورد مطالعه در هاله دگرگونی باتولیت الوند، استان همدان، واقع شده است. کردیریت‌های موجود درمزوسوم میگماتیت‌های منطقه بسیار درشت بلور &lt;br /&gt; می‌باشند و همراه با اسپینل (لعل) هستندکه بالا رفتن دمای دگرگونی و پدیدة ذوب بخشی سبب رشد آنها شده است. مقدار کسر مولی (xmg) کردیریت با افزایش درجه دگرگونی از زون فلدسپار پتاسیم – کردیریت تا اسپینل – کردیریت افزایش می‌یابد ( 45/0 تا 62/0). دما و فشار تشکیل کردیریت‌ها 750 درجه سانتیگراد و فشار آن معادل 4 کیلوبار می‌باشد. کیانیت به طور مشخص خاص رگه‌های کوارتزی در منطقه است، اکیاستولیت‌هایی با طول 20سانتی متر و عرض 4 سانتی متر در منطقه بوجود آمده اند که گسترس اصلی شیست‌های کیاستولیت دار در حوالی زمان آباد است، دما و فشار تشکیل این سنگ‌ها به ترتیب 628 درجه سانتیگراد و فشار حدود 4 کیلوبار می‌باشد. بر اساس مطالعات گوهر شناسی انجام شده، کردیریت‌ها برای تراش‌های دامله و فانتزی مناسب هستند،</abstract>
+									<keywords>
+									
+											<keyword>سنندج-سیرجان</keyword>
+											<keyword>همدان</keyword>
+											<keyword>کردیریت</keyword>
+											<keyword>کیانیت</keyword>
+											<keyword>گوهرسنگ</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>440</first_page>
+										<last_page>453</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15071_8f710f0927f815f9e0372fc9f0add521.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>خاستگاه کانسار آهن چغارت، ایران مرکزی: کاربردی از زمین‌شیمی میانبارهای سیال</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محیا</given_name>
+												<surname>منوچهری نیا</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سینا</given_name>
+												<surname>اسدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علی اکبر</given_name>
+												<surname>حسن نژاد</surname>
+											</person_name></contributors>
+									<abstract>کانسار آهن چغارت در زون ایران مرکزی و 12 کیلومتری شمال شرق بافق، 130 کیلومتری جنوب شرق شهرستان یزد واقع شده است. سنگ میزبان غالب در این منطقه شامل مجموعه‌ای از نفوذی‌های آذرین حد واسط تا اسیدی و دایک‌های مافیک است که در برخی از بخش‌ها به شدت دگرسان شده‌اند و به متاسوماتیت معروف‌اند. این سنگ‌های آذرین در برخی نقاط تا حد رخساره شیست سبز دگرگون شده‌اند. مگنتیت فراوانترین کانسنگ اکسیدی منطقه است که به شکل‌های لایه‌ای، توده‌ای و افشان در سنگ میزبان کانسار چغارت حضور دارد. کانه‌زایی اصلی کانسار در سازندهای پرکامبرین پسین و به شکل پر عیار (مگنتیت + آپاتیت+ آمفیبول) رُخ داده است. داده های حاصل از مطالعه میانبارهای سیال در آپاتیت همزاد با مگنتیت نشان می دهد که کان توده آهن چغارت در محدوده‌ی دمایی 370 تا 385 درجه‌ی سانتی گراد تشکیل شده است. بیشترین نرخ شوری بین 20 تا 39 درصد وزنی معادل نمک طعام تشخیص داده شد. شواهد صحرایی و ریزدماسنجی میانبارهای سیال در کانی آپاتیت‌‌ کانسار چغارت نشان می‌دهد که سیال کانسنگ ساز بسیار شبیه به ذخایر ماگمایی- گرمابی طلا- مس- اکسید آهن (IOCG) است.</abstract>
+									<keywords>
+									
+											<keyword>آهن آپاتیت‌دار</keyword>
+											<keyword>ریزدماسنجی</keyword>
+											<keyword>میانبار سیال</keyword>
+											<keyword>چغارت</keyword>
+											<keyword>بافق</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>454</first_page>
+										<last_page>465</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15067_d1dee24a35c22a65bae0ab83648fe233.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مدل‌سازی رفتار طیفی بافت خاک در کانون‌های ریزگرد استان خوزستان با استفاده از تصاویر ابر طیفی و مدل جنگل تصادفی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>منصور</given_name>
+												<surname>چترنور</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>احمد</given_name>
+												<surname>لندی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>احمد</given_name>
+												<surname>فرخیان فیروزی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>علی اکبر</given_name>
+												<surname>نوروزی</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>حسینعلی</given_name>
+												<surname>بهرامی</surname>
+											</person_name></contributors>
+									<abstract>بافت خاک نقش مهمی در مقاومت خاک به فرسایش بادی دارد. تصاویر ابر طیفی با مزیت هزینه پایین و سرعت عمل بالا، ابزار مناسبی برای بررسی ویژگی‌های خاک از جمله بافت محسوب می‌شوند. هدف این مطالعه ارزیابی رفتار طیفی درصد رس، شن و سیلت در خاک‌های مستعد تولید ریز گرد استان خوزستان با استفاده از مدل PLS-RF است. در ابتدا فاکتورهای اصلی با مدل رگرسیون حداقل مربعات جزئی تعیین و سپس مدل جنگل تصادفی روی فاکتورهای تعیین‌شده اجرا گردید. در مرحله بعد عملکرد طیف اصلی و پیش‌پردازش‌های: فیلتر ساویتزکی و گلای، فیلتر ساویتزکی و گلای به همراه مشتق اول، فیلتر ساویتزکی و گلای به همراه مشتق دوم، روش نرمال‌سازی استاندارد و روش حذف پیوستار در حذف نویز و افزایش دقت مدل PLS-RF مقایسه شد. نتایج نشان داد که روش حذف پیوستار در دو ویژگی درصد رس (98/1= PRDCAL) و درصد سیلت) 65/1= PRDCAL) و روش مشتق دوم برای درصد شن (97/1= PRDCAL)، بهترین عملکرد را داشته‌اند. همچنین طول موج کلیدی برای درصد رس در طول موج‌های1200-1210، 1800 و 2200 نانومتر، برای درصد شن در محدوده طول موج‌های 1400 -1450، 1910-1930، 2200 و 2220 نانومتر و برای درصد سیلت خاک در محدوده طول ‌موج‌های 1320، 1615، و 2200 نانومتر مشاهده گردید.</abstract>
+									<keywords>
+									
+											<keyword>فیلتر ساویتزکی و گلای</keyword>
+											<keyword>فیلتر مشتق دوم</keyword>
+											<keyword>فیلترحذف پیوستار</keyword>
+											<keyword>طول موج کلیدی</keyword>
+											<keyword>فاکتور اصلی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>466</first_page>
+										<last_page>479</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15080_df8a711b407d430da2e03a47b231d1a6.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کانسار مس حمزه‌لو: کانه زایی مس با میزبان رسوبی تیپ Redbed در سازند قرمز بالایی، شمال باختر زنجان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>آیسان</given_name>
+												<surname>قاسملو</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسین</given_name>
+												<surname>کوهستانی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>میر علی اصغر</given_name>
+												<surname>مختاری</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>افشین</given_name>
+												<surname>زهدی</surname>
+											</person_name></contributors>
+									<abstract>کانه‎زایی در کانسار حمزه‎لو درون واحدهای میکروکنگلومرایی و ماسه‎سنگی خاکستری رنگ متعلق به سازند قرمز بالایی رخ داده است. بافت کانسنگ شامل دانه‌پراکنده، سیمان بین ‌دانه‌ای، عدسی‌شکل، شبه‌لامینه‌ای، جانشینی و پیریت فرامبوئیدال می‌باشد. در افق‌های کانه‌دار، سه پهنه قرمز اکسیدان، شسته‌شده و احیایی کانه‌دار تشکیل شده است. کالکوسیت و پیریت، کانی‌های معدنی اصلی در کانسار ‎ حمزه‎لو هستند. مالاکیت، آزوریت، کوولیت، آتاکامیت، گوتیت و هماتیت در اثر فرآیندهای برون‌زاد تشکیل شده‌اند. مقایسه الگوی عناصر کمیاب و کمیاب خاکی در نمونه‎های کانه‎دار و ماسه‎سنگ‎های قرمز و خاکستری بدون کانه‎زایی، بیانگر تهی‌شدگی در میزان این عناصر در نمونه‌های کانه‌دار است. این امر می‌تواند با خروج این عناصر طی فرآیندهای شسته‌شدن و کانه‌زایی تفسیر شود. با توجه به ویژگی‌هایی مانند محیط تکتونیکی، سنگ‌شناسی، چینه‌شناسی، کانی‌شناسی، ساخت و بافت و عوامل کنترل‌کننده کانه‌زایی (وجود آثار و بقایای گیاهی، وجود گنبدهای نمکی، تخلخل و نفوذپذیری مناسب سنگ ‌میزبان، گسل‌ها و شکستگی‌ها)، کانسار حمزه‏لو در دسته‌ کانسارهای مس رسوبی تیپ Redbed قرار گرفته و از این نظر قابل مقایسه با دیگر کانسارهای مس رسوبی تیپ Redbed در منطقه ماه‌نشان می‌باشد. این کانسارها، ارتباط فضایی نزدیکی با واحدهای تبخیری و گنبدهای نمکی موجود در سازند قرمز بالایی دارند که می‌بایست در مطالعات اکتشافی مورد توجه قرار گیرد.</abstract>
+									<keywords>
+									
+											<keyword>کانسار مس با میزبان رسوبی</keyword>
+											<keyword>تیپ Redbed</keyword>
+											<keyword>سازند قرمز بالایی</keyword>
+											<keyword>حمزه‎لو</keyword>
+											<keyword>زنجان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>480</first_page>
+										<last_page>497</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15292_fc596942c17a37f043190a6100ded6da.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

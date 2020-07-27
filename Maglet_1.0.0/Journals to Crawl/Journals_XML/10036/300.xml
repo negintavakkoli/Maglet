@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title></title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">بهمن</namePart>
+				<namePart type="given">سلیمانی</namePart>
+				<affiliation>عضو هیات علمی دانشگاه شهید چمران اهواز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">علی</namePart>
+				<namePart type="given">غبیشاوی</namePart>
+				<affiliation>شرکت ملی مناطق نفت خیز جنوب اهواز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">امیدرضا</namePart>
+				<namePart type="given">توسلی کجانی</namePart>
+				<affiliation>دانشجوی کارشناسی ارشد دانشگاه شهید چمران اهواز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>1</start>
+					<end>9</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_10869_bc160f18217dab16c729ab814e505615.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title></title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">مهدی</namePart>
+				<namePart type="given">نجفی</namePart>
+				<affiliation>گروه زمین شناسی دانشکده علوم پایه دانشگاه تربیت مدرس تهران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">علی</namePart>
+				<namePart type="given">یساقی</namePart>
+				<affiliation>گروه زمین شناسی دانشکده علوم پایه دانشگاه تربیت مدرس تهران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">جاما</namePart>
+				<namePart type="given">ورجس</namePart>
+				<affiliation>موسسه تحقیقات علوم زمین CSICبارسلونا اسپانیا</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">عباس</namePart>
+				<namePart type="given">بحرودی</namePart>
+				<affiliation>گروه مهندسی معدن دانشکده فنی دانشگاه تهران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">شهرام</namePart>
+				<namePart type="given">شرکتی</namePart>
+				<affiliation>معاونت اکتشاف شرکت ملی نفت ایران تهران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>10</start>
+					<end>18</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_10870_704ca6238e06db474cb9c965410556ca.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title></title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">حسن</namePart>
+				<namePart type="given">اروجی</namePart>
+				<affiliation>گروه زمین شناسی دانشکده علوم طبیعی دانشگاه تبریز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">علی اصغر</namePart>
+				<namePart type="given">کلاگری</namePart>
+				<affiliation>گروه زمین شناسی دانشکده علوم طبیعی دانشگاه تبریز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">رسول</namePart>
+				<namePart type="given">فردوسی</namePart>
+				<affiliation>گروه زمین شناسی دانشکده علوم طبیعی دانشگاه تبریز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">کمال</namePart>
+				<namePart type="given">سیاه چشم</namePart>
+				<affiliation>گروه زمین شناسی دانشکده علوم طبیعی دانشگاه تبریز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>19</start>
+					<end>32</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_10872_70a192670c8e0d621b4dfd0a09451ddb.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title></title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">سجاد</namePart>
+				<namePart type="given">پورامینی بزنجانی</namePart>
+				<affiliation>کارشناسی ارشد شرکت ملی نفت تهران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">محمد حسین</namePart>
+				<namePart type="given">آدابی</namePart>
+				<affiliation>گروه زمین شناسی دانشکده علوم زمین دانشگاه شهید بهشتی</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>33</start>
+					<end>47</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_10873_e1aeb63693ebf60989036140c4313d2e.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title></title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">بهرام</namePart>
+				<namePart type="given">حبیب نیا</namePart>
+				<affiliation>دانشکده نفت اهواز دانشگاه صنعت نفت اهواز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">نوید</namePart>
+				<namePart type="given">دیناروند</namePart>
+				<affiliation>دانشکده نفت اهواز دانشگاه صنعت نفت اهواز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>48</start>
+					<end>53</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_10874_de2eb827ee389adff31e46361f58f6ba.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title></title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">شیما</namePart>
+				<namePart type="given">برهام وش شمس</namePart>
+				<affiliation>دانشجوی کارشناسی ارشد گروه سنجش از دور دانشگاه صنعتی خواجه نصیر الدین طوسی</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">علی</namePart>
+				<namePart type="given">محمد زاده</namePart>
+				<affiliation>گروه سنجش از دور دانشگاه صنعتی خواجه نصیر الدین طوسی</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>54</start>
+					<end>63</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_10876_e492cb736765edd05fc2f0e441076846.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title></title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">فرشاد</namePart>
+				<namePart type="given">د ارابی</namePart>
+				<affiliation>دانشجوی دکتری معدن دانشگاه صنعتی امیرکبیر تهران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">اردشیر</namePart>
+				<namePart type="given">هزار خانی</namePart>
+				<affiliation>دانشجوی دکتری معدن دانشگاه صنعتی امیرکبیر تهران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">محمدرضا</namePart>
+				<namePart type="given">زارع</namePart>
+				<affiliation>دانشجوی دکتری فیزیک دانشگاه صنعتی اصفهان</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>64</start>
+					<end>72</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_10877_9718b2851aa5049ec09023c3581c465a.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		</modsCollection>

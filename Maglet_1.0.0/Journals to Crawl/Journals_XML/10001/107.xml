@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>2016</title>
+			</titleInfo>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start></start>
+					<end></end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_22023_0c4c156b8b0414166d51d500a39a6081.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Portfolio Optimization with Clustering Methods</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mohammad</namePart>
+				<namePart type="given">Soltani-Nejad</namePart>
+				<affiliation>Dept., Faculty of Management and Accounting Shahid Beheshti University, Tehran, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Maryam</namePart>
+				<namePart type="given">Davallou</namePart>
+				<affiliation>Dept., Faculty of Management and Accounting Shahid Beheshti University, Tehran, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The portfolio selection problem and optimizing it is an important issue in investment field. This process aims to create A portfolio that incur the minimum amount of risk to the investor in different levels of return. The existence of statistical uncertainty and noise in information, which is used in the process of optimization, would hamper the performance of optimized portfolios. The purpose of this article is to eliminate the noise of correlation coefficient matrix by using clustering method. In order to do so, two clustering methods, Single Linkage and Average Linkage, are applied, and the optimized portfolio based on the Tehran Stock Exchange information from March 2007 to March 2013 is obtained. The results show that such portfolio is more reliable and provides less risk to the capital owner. For analyzing the robustness of the results in a wide range of different investment horizons and numbers of assets, a Bootstrap analysis with resampling is performed and in most cases a significant improvement was observed.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>1</start>
+					<end>16</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21104_4c956a1af858de54a2f9194562e28cba.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2016.21104</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The Optimal Portfolio of Shared Contracts of Iranian Commercial Banks in Economic Sectors (based on Post-modern Portfolio Theory)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">saeed</namePart>
+				<namePart type="given">daei-karimzadeh</namePart>
+				<affiliation>Dept., Faculty of Humanities, Islamic Azad University of Isfahan (Khorasgan), Isfahan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Among the essential activities of the Banks for the benefit of themselves and their clients (customers), is allocation of resources that one of the essential aspects of resource allocation is determining the optimal combination of payment facilities to various economic sectors. In this article using the post-modern portfolio theory Approach the meanâ -Semi variance approach, the optimal portfolio of shared facilities of Iranian commercial banks has been determined. The monthly average of the return rate for stock in companies operating in each sector (during 2008 to 2011) is used as the return rate of each sector. Results indicate that in the portfolios for the minimal variance or in most risk-averse condition,33% of the participatory facilities should be moved to the industry sector and mining,22 % of the facilities to housing sector and building and 29% facilities to agricultural sector. Also the facilities for the commercial and services sector16% is relatively risky, so that with an increase in the risk acceptance rate of the banking system and at the expense of decreased share of facilities in the industrial, mining and housing sector, the optimum share will increase to 26% and decrease with further increase in risk acceptance rate.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>17</start>
+					<end>28</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21105_801ad9587bcf655ff36f6324ff54a389.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2016.21105</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Designing a New Model for Valuation of Financial Contracts based on the Investment Risk Assessment</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">keivan</namePart>
+				<namePart type="given">mahmoudiazar</namePart>
+				<affiliation>Engineering Management Dept., Faculty of Industrial Engineering, Amirkabir University of Technology, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">ali mohammad</namePart>
+				<namePart type="given">kimiagari</namePart>
+				<affiliation>Engineering Management Dept., Faculty of Industrial Engineering, Amirkabir University of Technology, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>In this research, a new model for valuation of financial contracts is designed by using guaranteed and participation rates. In the traditional methods, valuation of these contracts is determined with the use of minimum guaranteed rate of returns such as risk free rate. However, the proposed model is based on the valuation of these contracts by guaranteed and participation rates as well as the customer&#039;s risk tolerance and investment risk. In this model, first an asset allocation model is considered in order to model market elements such as certificate of deposit, bonds and stocks. Then, conditional value at risk, as a proper risk measure, is used to determine guaranteed and participation rates and fair valuation of the contracts. To improve the validity, the model is run for both the capital markets of Iran and the United States of America. The variables used in this study are interest rate of banks, bonds and stock index from 1998 to 2012 in Iran and from 1980 to 2012 in America.  </abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>29</start>
+					<end>44</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21107_f25a7356231196b8740ab068d806b60c.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2016.21107</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The Relation between Market Competition and Dividend Policies</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">narges</namePart>
+				<namePart type="given">sarlak</namePart>
+				<affiliation>Accounting Dept., Faculty of Management, University of Qom, Qom, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Fatemeh</namePart>
+				<namePart type="given">Mirzaie</namePart>
+				<affiliation>Accounting Dept., Faculty of Management, University of Qom, Qom, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>This article investigates the relation between market competition and dividend policies. Using a sample of listed companies in the Tehran Stock Exchange in the period of 1387-1391, we find that firms in highly competitive industries prefer to pay more dividends. Research hypotheses are developed based on the outcome theory and substitution theory. In order to investigate the impact market competition on dividend policies. To test the hypothesis were used panel data regression model and logistic regression. Results indicate that there is a significant positive relation between dividends paid and market competition, return on assets and lifecycle. Also there is a significant negative relation between dividends paid and financial leverage. On the other hand, using the logit model, results indicate that there is a significant positive relationship between increase dividends paid and market competition. Results also demonstrate that there is a significant positive relation between omit dividends paid and return on assets and financial leverage. Also there is a significant negative relation between omitted dividends paid, market competition, growth opportunities and life cycle.  </abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>45</start>
+					<end>60</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21111_dd334402ac43df876c10aa0bd682ddd1.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2016.21111</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Portfolio Optimization with Clustering Methods</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">reza</namePart>
+				<namePart type="given">sheikh</namePart>
+				<affiliation>Management Dept., Faculty of Industrial Engineering and Management, University of Shahrood, Shahrood, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">behnaz</namePart>
+				<namePart type="given">ameri rad gheysari</namePart>
+				<affiliation>Management Dept., Faculty of Industrial Engineering and Management, University of Shahrood, Shahrood, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The portfolio selection problem and optimizing it is an important issue in investment field. This process aims to create A portfolio that incur the minimum amount of risk to the investor in different levels of return. The existence of statistical uncertainty and noise in information, which is used in the process of optimization, would hamper the performance of optimized portfolios. The purpose of this article is to eliminate the noise of correlation coefficient matrix by using clustering method. In order to do so, two clustering methods, Single Linkage and Average Linkage, are applied, and the optimized portfolio based on the Tehran Stock Exchange information from March 2007 to March 2013 is obtained. The results show that such portfolio is more reliable and provides less risk to the capital owner. For analyzing the robustness of the results in a wide range of different investment horizons and numbers of assets, a Bootstrap analysis with resampling is performed and in most cases a significant improvement was observed.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>61</start>
+					<end>78</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21113_734e24031a7dc1ec5f3f430433edb295.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2016.21113</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Simulation of Stock Price through Effective Internal and External Factors via System Dynamics Approach</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mohammad Hashem</namePart>
+				<namePart type="given">Mousavi Haghighi</namePart>
+				<affiliation>The Center of Agriculture and Natural Resources Research of Fars Province, Shiraz, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mojtaba</namePart>
+				<namePart type="given">Khalifeh</namePart>
+				<affiliation>Management Dept., Faculty of Economics and Management, University of Shiraz, Shiraz, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Behzad</namePart>
+				<namePart type="given">Safaei</namePart>
+				<affiliation>Management Dept., Faculty of Economics and Management, University of Shiraz, Shiraz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Hamed</namePart>
+				<namePart type="given">Saberi</namePart>
+				<affiliation>Management Dept., Faculty of Economics and Management, University of Shiraz, Shiraz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>This study is based on Mousavi and Setoudeh (2013) that simulates stock price behavior of national Iranian copper industrial companies in Iran stock exchange. This paper provides the possibility of analyzing stock price fluctuations and forecasting intrinsic stock price from internal and external viewpoints. For modeling stock behavior, some internal and external factors are identified and the relation between different variables is shown by causal diagrams using system dynamics approach. The financial variables are considered in three groups of pricing, price, and debt financing. Research model is simulated and analyzed by this approach and by using the Vensim DSS software. The overall results indicate that stock supply has important effect on stock price, and debt financing has positive impact on stock’s intrinsic value.  </abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>79</start>
+					<end>98</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21114_bd7a338af75a0996aaaf8b0510e0153b.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2016.21114</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Surveying the Relation among Volume, Stock Return and Return Volatility in the Tehran Stock Exchange: A Wavelet Analysis</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Ebrahim</namePart>
+				<namePart type="given">Abbasi</namePart>
+				<affiliation>Management Dept., Faculty of Social Sciences and Economics, University of Al-Zahra, Tehran, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Leyla</namePart>
+				<namePart type="given">Dehghan nayeri</namePart>
+				<affiliation>Management Dept., Faculty of Social Sciences and Economics, University of Al-Zahra, Tehran, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Nazila</namePart>
+				<namePart type="given">Poordadash mehrabani</namePart>
+				<affiliation>Faculty of Social Sciences and Economics, University of Al-Zahra, Tehran, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Although many studies have tried to construct a theoretical or empirical structure of relation among trading volume, stock return and return volatility in financial markets, there still is not a general consensus about it. This study discovers latent information in variables time series for 96 months (April 2007- March 2015). To do so, related time series decomposed by using the maximum overlap discrete wavelet transform and wavelet coefficients has calculated. Then the relation between the series is examined by Granger causality test. The main feature of this research is to investigate the relation between variables at different time intervals. The results show that during the 2007 to 2015, the relation between variables in different time intervals varies. As in some periods, the Granger causality test confirms the causal relation between time series, while in some other time periods it does not support the existence of such relation. </abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>99</start>
+					<end>114</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21115_75f6a78d68c5a899c88b4cfaa5a594e5.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2016.21115</identifier>
+			</mods>
+		</modsCollection>

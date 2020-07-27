@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>12</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2019</Year>
+					<Month>05</Month>
+					<Day>22</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Modeling of sawability with diamond wire saw machine based on geomechanical parameters by using ICA: a new model for production rate estimation</ArticleTitle>
+<VernacularTitle>ارائه رابطه غیرخطی مبتنی بر الگوریتم رقابت استعماری به منظور پیش ینی قابلیت برش- نرخ تولید سنگ تزئینی با استفاده از دستگاه سیم برش الماسه</VernacularTitle>
+			<FirstPage>33</FirstPage>
+			<LastPage>42</LastPage>
+			<ELocationID EIdType="pii">88500</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>عارف</FirstName>
+					<LastName>علیپور</LastName>
+<Affiliation>گروه مهندسی معدن دانشگاه صنعتی ارومیه</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مجتبی</FirstName>
+					<LastName>مختاریان</LastName>
+<Affiliation>گروه مهندسی معدن دانشگاه صنعتی ارومیه</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>رضا</FirstName>
+					<LastName>میکائیل</LastName>
+<Affiliation>گروه مهندسی معدن دانشگاه صنعتی ارومیه</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2018</Year>
+					<Month>12</Month>
+					<Day>21</Day>
+				</PubDate>
+			</History>
+		<Abstract>Performance prediction of diamond wire saws and estimation of sawability are important in the cost estimation and the planning rock cutting projects. In this paper, the performance prediction of diamond wire saws in cutting carbonate rocks is considered on 14 different carbonate rocks in stone quarries. Uniaxial compressive strength (UCS), Brazilian tensile strength (BCS), Schmidt hammer value (SHv), Los Angeles (LA) abrasion and production rate (Ph) of diamond wire saws are determined in separated reference. The scope of this study is to evaluate the capability of two different methods in order to predict production rate of carbonate rock using diamond wire saw. A non-linear model presented by Ataei et al. and new proposed non-linear model are presented. An application of Imperialist Competitive Algorithm (ICA) is used to determine the non-linear production rate estimator coefficients. According to the calculated statistical error between the forecasted and real measured values of production rate, ICA-based model has the lower values of MAPE, MAE, VARE, MEDAE and RMSE than the previous model in the literature, while it has the higher value of VAF than the previous model in the literature. It is concluded that the production rate of carbonate rock using diamond wire saw can reliably be estimated using the developed model.</Abstract>
+			<OtherAbstract Language="FA">ارائه مدل به منظور پیش بینی قابلیت برش سنگهای تزئینی با توجه به ملاحظات برنامه ریزی تولید حائز اهمیت است. محققین مختلف با مرتبط کردن پارامترهای ژئومکانیکی و ماشین برش با نرخ تولید، اقدام به ارائه روابط تخمین نموده اند. به طور عمده این مدل ها مبتنی بر رگرسیون چندمتغیره هستند. در تحقیق حاضر قابلیت برش سنگ تزئینی با اقتباس از نتایج یکی از تحقیقات مرتبط و با اندازه گیری نرخ تولید دستگاه سیم برش الماسه در عملیات برش 14 نوع سنگ کربناته نرم از معادن مختلف ایران تعیین شده است؛ پارامترهای ژئومکانیکی این سنگها شامل: مقاومت فشاری تک محوره سنگ، مقاومت کشش برزیلی، عدد چکش اشمیت و نتیجه آزمایش سایش لس آنجلس به منظور مدل سازی نرخ تولید مورد استفاده قرار گرفته است. در این پژوهش با استفاده از داده های موجود اقدام به ارائه مدل غیرخطی جدید و مبتنی بر یک الگوریتم فراابتکاری شده است. الگوریتم رقابت استعماری به منظور تخمین ضرایب مدل پیشنهادی به کار گرفته شده و تابع خطای تخمین با به کارگیری این الگوریتم کمینه شده است. ارزیابی مدل‌های تخمین بررسی شده بر مبنای آزمون‌های آماری استاندارد، مؤید برتری مدل پیشنهادی است؛ از این رو فرآیند مدل سازی طی شده به منظور کاربرد در مطالعات مرتبط آتی پیشنهاد می شود.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">سیم برش</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">قابلیت برش</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدل پیش‌بینی نرخ تولید</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سنگ تزئینی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">الگوریتم رقابت استعماری</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://www.jiraeg.ir/article_88500_0b73523bbf24045c9834420d332a9197.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

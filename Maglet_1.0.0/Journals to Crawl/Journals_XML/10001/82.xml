@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+		<JOURNAL>
+<YEAR>1395</YEAR>
+<VOL>4</VOL>
+<NO>1</NO>
+<MOSALSAL>12</MOSALSAL>
+<PAGE_NO>0</PAGE_NO>
+<ARTICLES>
+
+
+				<ARTICLE>
+				<TitleF>مقایسه کارآیی مدل‏های رگرسیون با رویکرد تحلیل مؤلفه‏های اصلی (PCA) وشبکه‏های عصبی مصنوعی درپیش‏بینی بازده غیرعادی</TitleF>
+				<TitleE>Artificial Neural Networks versus OLS Regression Models Using Principal Components Analysis in Forecasting Unexpected Returns</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>بسیاری از پژوهش‏ها در علم مالی بر پیش‏بینی دقیق بازده شرکت‏ها با در نظر داشتن ریسک سرمایه‏گذاری در سهام آن‏ها تمرکز داشته‏اند. هدف این پژوهش،بررسی امکان توضیح بازده غیرعادی(تفاوت بازده مورد انتظار حاصل از مدل قیمت‏گذاری دارایی‏های سرمایه‏ای و بازده واقعی) بااستفاده ازنسبت‏های مالی وانتخاب ابزاربهتر برای پیش‏بینی آن از بین دومدل رگرسیون چندگانه با رویکرد تحلیل مؤلفه‏های اصلی (PCA) وشبکه‏های عصبی مصنوعی(ANN) است. بر این اساس توانایی مدل شبکه‏های عصبی مصنوعی پیش‏خور با الگوریتم پس‏انتشار خطا (BPN) در پیش‏بینی برون‏ نمونه‏ایِ بازده غیرعادی سهام مورد معامله در بورس اوراق بهادار تهران در سال‏های 1384 تا 1391 به طور معناداری بیشتر از توانایی رگرسیون خطی با رویکرد تحلیل مؤلفه‏های اصلی بوده است.   </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Financial statements are the main source of information for stock market participants and financial ratios are the primary tool for their analysis. The main goal pursued by this research includes two major questions; First, whether it is possible to gain “unexpected returns” (in excess of expected return, determined by the Capital Asset Pricing Model) using seven financial parameters, for publicly traded companies in Tehran Stock Exchange. Second, as suggested by the research hypothesis, are artificial neural networks superior to ordinary least square regression in forecasting such returns? Based on research findings, artificial neural networks can outperform ordinary least squares models even when the regression model prediction capacity is enhanced by using principal components analysis, in terms of one-step-ahead forecasting of unexpected returns.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>1</FPAGE>
+						<TPAGE>18</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>رضا</Name>
+						<MidName></MidName>		
+						<Family>راعی</Family>
+						<NameE>Reza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Raei</FamilyE>
+						<Organizations>
+							<Organization>دانشیار دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار دانشگاه تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>raei@ut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مهدی</Name>
+						<MidName></MidName>		
+						<Family>بستان آراء</Family>
+						<NameE>Mahdi</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Bostanara</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mebostanara@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>بازده غیرعادی سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شبکه‏ های عصبی مصنوعی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>رگرسیون خطی با تحلیل مؤلفه‏ های اصلی (PCA)</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>پیش‏ بینی برون‏ نمونه‏ ای</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]   بارزمان، منصور. (1389). ارایه مدل بهینه ساختار سرمایه در صنایع مختلف بورس اوراق بهادار تهران با استفاده از شبکه عصبیمصنوعی،پایان‌نامه کارشناسی ارشد، دانشکده علوم اجتماعی و اقتصادی، دانشگاه شیراز.##[2]   دستگیر، محسن؛ یوسفی گورتی، وجیهه. (1393). بررسی ارتباط بین سود یا زیان شناسایی نشده ناشی از تورم، جریان‏های نقد آتی و بازده غیرعادی شرکت‏های پذیرفته شده در بورس اوراق بهادار تهران. فصلنامه علمی‏ـ‏پژوهشی مدیریت دارایی و تأمین مالی، 2 (4): 98-75.##[3]   سرابندی، نریمان. (1389). بررسی رابطه بین بازده مازاد سهام با سود هر سهم پیش­بینی شده، نسب قیمت به درآمد هر سهم، نسبت گردش حجم معاملات و معاملات عمده در بورس اوراق بهادار، پایان­نامه کارشناسی ارشد.دانشکده علوم اقتصادی،دانشکده علوم اقتصادی.##[4]   شجر، مهدی. (1388). بررسی متغیرهای بنیادی حسابداری و بازده غیرعادی سهام، پایان­نامه کارشناسی ارشد، دانشکده حسابداری و مدیریت، دانشگاه آزاد اسلامی واحد مرودشت.##[5]   عبادی، امید. (1388). پیش­بینی شاخص کل قیمت سهام در بازار بورس تهران با استفاده از شبکه­های عصبی مصنوعی،پایان­نامه کارشناسی ارشد، دانشکده اقتصاد و علوم اجتماعی، دانشگاه بوعلیسینا.##[6]   فامیلیان، مولود؛ یزدانی، سیما. (1393).مقایسه عملکرد مدل‏های شبکه عصبی مصنوعی واتورگرسیون برداری در پیش‏بینی شاخص قیمت و بازده نقدی. تحقیقات حسابداری و حسابرسی، 21.##[7]     مؤمنی، منصور؛ آذر، عادل. (1386). آمار و کاربرد آن در مدیریت. تهران: سازمان مطالعه و تدوین کتب علوم انسانی.##[8]   تقی‏زاده مهرجردی، روح‏الله؛ فاضل‌یزدی، علی؛ محبی، رضا. (1392). مدل‏سازی و پیش‏بینی کارآیی بانک‎های دولتی و خصوصی ایران با استفاده از مدل‎های شبکه عصبی مصنوعی، شبکه عصبی فازی و الگوریتم ژنتیک فصلنامه علمی‏ـ‏پژوهشی مدیریت دارایی و تأمین مالی، 1 (2): 103-126.##[9]   نیکواقبال، اکبر؛ گندلی علیخانی، نادیا؛ نادری، اسماعیل. (1393). ارزیابی مدل‏های شبکه عصبی مصنوعی ایستا و پویا در پیش‏بینی قیمت سهام. فصلنامه علمی پژوهشی دانش مالی تحلیل اوراق بهادار،7، (22): 77 تا 91.##[10]            Angelini, E., Tollo, G. di, Roli, A., (2008). A Neural Network Approach for Credit Risk Evaluation. The Quarterly Review of Economics and Finance, 48(4): 733-755.##[11]            Balkin, S. D., &amp; Ord, J. K. (2000). Automatic Neural Network Modeling for Univariate Time Series, International Journal of Forecasting, 16: 509–515.##[12]            Basu, Anup K. &amp; Ashwood, Andrew J.. (2014) The Quest for Alpha: Can Artificial Neural Networks Help? JASSA, (1): 13-18.##[13]            Brooks, C. (2002). Introductory Econometrics for Finance. Cambridge, Cambridge University Press.##[14]            Callen, J. L., Kwan, C., Yip, P., &amp; Yuan, Y. (1996). Neural Network Forecasting of Quarterly Accounting Earnings, International Journal of Forecasting, 12: 475–482.##[15]            Cao, Q., Parry, M. E.. (2009). Neural Network Earnings Per Share Forecasting Models: A Comparison of Backward Propagation and the Genetic Algorithm. Decision Support Systems, 47(1): 32-41.##[16]            Cao, Qing, Parry, Mark E., Leggio, Karyl B. (2011). The Three-Factor Model and Artificial Neural Networks: Predicting Stock Price Movement in China. Annals of Operations Research, May 2011, 185, (1): 25-44.##[17]            Carhart, Mark. (1997). On Persistence in Mutual Fund Performance, Journal of Finance. (52): 661–692.##[18]            Caudill, M. (1992). The view from now. AI Expert, (June 1992) 24-31.##[19]            Coats, P.K., Fant, L.F. (1993). Recognizing Financial Distress Patterns Using a Neural Network Tool, Financial Management, 22 (3): 142-155.##[20]            Fama, E., French, K. (1993). Common Risk Factors in the Returns on Stocks and Bonds. Journal of Financial Economics. (33): 3–56.##[21]            Holthausen, R. W., &amp; Larcker, D. F. (1992). The Prediction of Stock Returns Using Financial Statement Information. Journal of Accounting and Economics, (15): 373– 411.##[22]            Kaastra, I. Boyd, M. (1996). Designing a Neural Network for Forecasting Financial and Economic Time Series, Neurocomputing, (10): 215-236.##[23]            Long, J.A., Raudys, A.. (2000). Modelling Company Credit Ratings Using a Number of Classification Techniques. In Fifteenth European Meeting on Cybernetics and Systems Research.##[24]            Lee, Sangjae, Ch, Wu Sung. (2013). A Multi-Industry Bankruptcy Prediction Model Using Back-Propagation Neural Network and Multivariate Discriminant Analysis. Expert Systems with Applications, 40 (8): 2941–2946.##[25]            Leung, M. T., Chen A. S., Daouk, H.. (2000). Forecasting Exchange Rates Using General Regression Neural Networks. Computers and Operations Research. 27 (11): 1093-1110.##[26]            Mokhatab R., F., S.M. Manzari, S. Bostanian. (2011). Financial Health Prediction Models Using Artificial Neural Networks, Genetic Algorithm and Multivariate Discriminant Analysis: Iranian Evidence. Expert Systems with Applications, 38 (8): 10210-10217.##[27]            Mostafa, M. M,. (2010). Forecasting Stock Exchange Movements Using Neural Networks: Empirical Evidence from Kuwait. Expert Systems with Applications, 37(9): 6302-6309.##[28]            O’Conner, M. (1973). On the Usefulness of Financial Statement Analysis and the Prediction of Stock Return, Accounting Review, (48): 339-352.##[29]            Oliveira, Fagner A. de, Nobre, Cristiane N., Zárate, Luis E. (2013). Applying Artificial Neural Networks to prediction of stock price and improvement of the directional prediction index – Case study of PETR4, Petrobras, Brazil. Expert Systems with Applications, 40 (18): 7596–7606.##[30]            Olson, D. Mossman, C. (2003). Neural Network Forecasts of Canadian stock Returns Using Accounting Ratios, International Journal of Forecasting, 1-13.##[31]            Ou, J. A., &amp; Penman, S. H. (1989). Financial Statement Analysis and the Prediction of Stock Returns. Journal of Accounting and Economics, (11): 295–329.##[32]            Refenes, A. N., Azema-Barac, M. and Zapranis, A. D. (1993). Stock Ranking: Neural Networks vs Multiple Linear Regression. IEEE International Conference on Neural Networks, 141-1426.##[33]            Reinganum, M. R. (1981). Abnormal Returns in Small Firm Portfolios. Financial Analysts Journal, 52-56.##[34]            Reinganum, M. R. (1988). The Anatomy of a Stock Market Winner. Financial Analysts Journal, (39): 16-28.##[35]            St. John, C.H., Balakrishnan, N., Fiet, J. O. (2000). Modeling the Relationship between Corporate Strategy and Wealth Creation using Neural Networks. Computers and Operations Research, (27): 1077-1092.##[36]            Sureshkumar, K. K., Elango, N. M.. (2012). Performance Analysis of Stock Price Prediction using Artificial Neural Networks. Global Journal of Computer Science and Technology, Volume 12 Issue 1, pp.19-25.##[37]            Tkacz, G. (2001). Neural Network Forecasting of Canadian GDP Growth. International Journal of Forecasting, (17): 57–69.##[38]            Wansley, J., Roenfeldt, R., Cooley, P. (1983), Abnormal Returns from Merger Profiles, Journal of Financial and Quantitative Analysis, (18): 149-162.##[39]            West, D. (2000). Neural Network Credit Scoring Models. Computers and Operations Research, 27 (11): 1131-1152.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>واکنش بازار به اطلاعات مشهود و نامشهود در بورس اوراق بهادار تهران</TitleF>
+				<TitleE>Market Reaction to Tangible and Intangible Information in Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>در توجیه پدیده ضریب ارزش دفتری به ارزش بازار، دو دیدگاه موجود است. اقتصاددانان مالی معتقدند که این صرف بارده به دلیل ریسک زیاد سهام با ضریب B/M بالا است که منشأ این ریسک بازده ضعیف گذشته سهم است. در حالی که طرفداران مالی رفتاری معتقدند فراواکنشی سرمایه‌گذاران دلیل این پدیده است با تفکیک بازده گذشته به بازده مشهود و نامشهود و با استفاده از تکنیک رگرسیون‌ اثر هر بخش از بازده گذشته بر بازده آتی بررسی شد. بازده نامشهودآن بخش از بازده گذشته یک سهم است که ارتباطی به عملکرد مالی سهم ندارد، در حالی که بازده مشهود آن بخش از بازدهی یک سهم است که در اثر افشای اطلاعات مالی در قالب صورت‌های مالی به بازار ایجاد می‌شود. نتایج حاکی از آن است که بازدهی آتی سهم ارتباطی به عملکرد مالی شرکت ندارد، در حالی که بازده آتی به صورت بسیار قوی با بازده نامشهود گذشته ارتباط معکوس دارد.لذا دلیل واقعی پدیده ضریب B/M، فراواکنشی سرمایه‌گذاران روی بازده نامشهود است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>There are two interpretations concerning the book to market ratio (B/M) effect. Financial economists believe that risk premium corresponding to high B/M stocks is due to high risk of these companies which are originated from previous weak performance. On the other hand, behaviorists believe “overreaction” as the main source of this phenomena. We investigate these two interpretations more deeply in this paper. We decompose past return into two components of tangible and intangible return and investigate the effect of each component on the future returns using panel regressions technique. Intangible return is the part of return which is not related to financial performance of the firm. Tangible return is the part of return which is caused by disclosure of accounting-based information. Our findings show there is no relation between future return and past financial performance of the firm, while there is a significant negative relation between future return and past intangible return. Therefore it seems that the main cause of the B/M effect is investors’ overreaction to intangible return.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>19</FPAGE>
+						<TPAGE>36</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محمد اسماعیل</Name>
+						<MidName></MidName>		
+						<Family>فدائی نژاد</Family>
+						<NameE>Mohammad Esmaeel</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Fadaei Nejad</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه شهید بهشتی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه شهید بهشتی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>fadaeinejad@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مجتبی</Name>
+						<MidName></MidName>		
+						<Family>کامل نیا</Family>
+						<NameE>mojtaba</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>kamelniya</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه شهید بهشتی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه شهید بهشتی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>kamelniya@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>ضریب ارزش دفتری به ارزش بازار</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بازده آتی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>اطلاعات مشهود و نامشهود</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]     بولو، قاسم؛ باباجانی، جعفر؛ ابراهیمی‌میمند، مهدی. (1391). ملاحظه مجتوای اطلاعاتی اجزای سود توسط مدیران و سرمایه‌گذاران در پیش‌بینی سود، پژوهش‌های حسابداری مالی، 4 (1): 47-66.##[2]     پاکیزه، کامران؛ بشیری‌جویباری، مهدی. (1392). تأثیر ارزشیابی نادرست بر تصمیم‌های سرمایه‌گذاری شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران، مدیریت دارایی و تأمین مالی، 1، (3): 81-98.##[3]     هاشمی، سیدعباس؛ قجاوند، زیبا؛ قجاوند، سحر. (1392). بررسی تأثیر سطوح مختلف معیارهای نقدشوندگی بر صرف بازده سهام با استفاده از مدل چهار عاملی فاما و فرنچ، مدیریت دارایی و تأمین مالی، 1، (2): 69-86.##[4]   Barberis, N., Andrei S., and Robert V. (1998). A Model of Investor Sentiment, Journal of Financial Economics 49: 307–343.##[5]   Brav, A,,Christoper G,, and Paul A. G., (2000), Is the Abnormal Return Following Equity Issuances Anomalous? Journal of Financial Economics 56, 209–249.##[6]   Campbell, John Y., 1991, A variance decomposition for stock returns, Economic Journal 101, 155– 173.##[7]   Daniel, Kent D., David H., and Avanidhar S. (1998), Investor Psychology and Security Market Under- and Over-Reactions, Journal of Finance 53, 1839–1886.##[8]   Daniel, Kent D., David H., and Avanidhar S., (2001), Overconfidence, Arbitrage, and Equilibrium Asset Pricing, Journal of Finance 56, 921–965.##[9]   Daniel, Kent D., and Sheridan T. (1999), Market Efficiency in an Irrational World, Financial Analysts’ Journal, 55, 28–40.##[10]           Daniel, Kent D., and Sheridan T. (2006). Market Reactions to Tangible and Intangible Information, Journal of Finance VOL. LXI, NO. 4, 1605–1643.##[11]           DeBondt, Werner F. M., and Richard H. Thaler, (1985). Does the Stock Market Overreact? Journal of Finance 40, 793–808.##[12]           DeBondt, Werner F. M., and Richard H. Thaler, (1987). Further Evidence on Investor Overreaction and Stock Market Seasonality, Journal of Finance 42, 557–581.##[13]           DeLong, J. Bradford, Andrei Shleifer, Lawrence Summers, and Robert J.Waldmann. (1990). Positive Feedback Investment Strategies and Destabilizing Rational Speculation, Journal of Finance, 45, 375–395.##[14]           Einhorn, Hillel J., (1980). Overconfidence in Judgment, New Directions for Methodology of Social and Behavioral Science, 4, 1–16.##[15]          Fama, Eugene F., (1998). Market Efficiency, Long-Term Returns and Behavioral Finance, Journal of Financial Economics, 49, 283–306.##[16]          Fama, Eugene F., and Kenneth R. French, (1992). The Cross-Section of Expected Stock Returns, Journal of Finance, 47, 427–465.##[17]           Fama, Eugene F., and Kenneth R. French, (1993). Common Risk Factors in the Returns on Stocks and Bonds, Journal of Financial Economics, 33, 3–56.##[18]           Fama, Eugene F., and Kenneth R. French (1995). Size and Book-to-Market Factors in Earnings and Returns, Journal of Finance, 50, 131–156.##[19]           Fama, Eugene F., and Kenneth R. French, (1996). Multifactor Explanations of Asset Pricing Anomalies, Journal of Finance, 51, 55–84.##[20]           Fama, Eugene F., and James MacBeth, (1973). Risk, Return and Equilibrium: Empirical Tests, Journal of Political Economy, 81, 607–636.##[21]           Jiang, Guohua, Charles M. C. Lee, and Grace Y. Zhang, (2005). Information Uncertainty and Expected Returns, Review of Accounting Studies, 10, 185–221.##[22]           Kamelniya, Mojtaba, Seifoddini, Jalal, and NaghiAmini, (2014). Earnings and Price Momentum: Evidence from Tehran Stock Exchange, Asian Journal of Research in Banking and Finance, 4, (1): 79-91.##[23]           Lakonishok, Josef, Andrei Shleifer, and Robert W. Vishny, (1994). Contrarian Investment, Extrapolation and Risk, Journal of Finance, 49, 1541–1578.##[24]           Loughran, Tim, and Jay Ritter, (1995). The New Issues Puzzle, The Journal of Finance, 50, 23–52.##[25]           Loughran, Tim, and Jay Ritter, (1997). The Operating Performance of Firms Conducting Seasoned Equity Offerings, The Journal of Finance, 52, 1823–1850.##[26]           Loughran, Tim, and Jay Ritter, (2000). Uniformly Least Powerful Tests of Market Efficiency, Journal of Financial Economics, 55, 361–389.##[27]           Mitchell, Mark, and Erik Stafford, (2000). Managerial Decisions And Long-Term Stock Price Performance, Journal of Business, 73, 287–320.##[28]           Rendleman, Richard J., Charles P. Jones, and Henry A. Latane, (1982). Empirical Anomalies Based on Unexpected Earnings and the Importance of Risk Adjustment, Journal of Financial Economics, 10, 269–287.##[29]           Rytchkov, Oleg, (2014). Asset Pricing with Dynamic Margin Constraints, Journal of Finance, 69, 405–452.##[30]          Vuolteenaho, Tuomo, (2002). What Drives Firm Level Stock Returns? Journal of Finance, 57, 233–264.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی رابطه تقسیم سود، فرصت‌های سرمایه‌گذاری و تامین مالی خارجی در طی چرخه عمر شرکت</TitleF>
+				<TitleE>Investigating the Relationship between Dividend, Investment Opportunities and External Financing During Companiesâ Life Cycle</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>سیاست تقسیم سود همواره با سایر تصمیم‌های مالی شرکت در تعامل است و این رابطه­ تعاملی تحت تأثیر شرایط مختلف قرار می­گیرد. از جمله مهمترین عوامل تأثیرگذار بر رابطه بین سیاست تقسیم سود و سایر تصمیم‌های مالی چرخه عمر شرکت است. در این مقاله با در نظر گرفتن چرخه عمر شرکت­ها، به بررسی رابطه بین سود تقسیمی، فرصت­های سرمایه­گذاری و تامین مالی خارجی پرداخته شده است. نمونه شامل 105 شرکت، بین سال­های 1382 تا 1391 انتخاب شده است. برای آزمون فرضیه­ها از رگرسیون چندگانه به روش ترکیبی استفاده شده است. برای تفکیک شرکت­ها به مراحل چرخه عمر از پژوهش آنتونی و رامش [17] استفاده شد. نتایج حاصل از آزمون فرضیه­ها نشان می‌دهد که بین سود تقسیمی و فرصت­های سرمایه‌گذاری در مرحله رشد رابطه معناداری وجود دارد، در حالی که در مرحله بلوغ بین سود تقسیمی و فرصت­های سرمایه­گذاری رابطه معناداری وجود ندارد. علاوه بر این، در مرحله رشد بین سود تقسیمی و تامین مالی خارجی رابطه معناداری وجود ندارد، در حالی که در مرحله بلوغ بین این متغیرها رابطه معنادار وجود دارد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>In this paper, we have investigated the relationship between dividend policy, investment opportunities and external financing, taking into account the company&#039;s life cycle. We collect the required data for the sample of 105 companies in Tehran Stock Exchange, over a ten-year period from 1382 to 1391. To test the hypotheses, multiple regression model has been used. We used the Anthony and Ramesh‘s model (1992) for a breakdown of the corporate life cycle stages. The results from this study indicate that there is a significant relationship between dividend policy and investment opportunities in the growth stage, while there is no significant relationship between dividend policy and investment opportunities in the mature stage. In addition, there is no significant relationship between dividend policy and external financing in the growth stage, while there is a significant relationship between these variables in the mature stage.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>37</FPAGE>
+						<TPAGE>50</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محمدحسین</Name>
+						<MidName></MidName>		
+						<Family>ستایش</Family>
+						<NameE>MOHAMMAD HOSSEIN</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>SETAYESH</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه شیراز</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه شیراز</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>setayesh@shirazu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سمانه</Name>
+						<MidName></MidName>		
+						<Family>قوهستانی</Family>
+						<NameE>samaneh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Ghoohestani</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه شیراز</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه شیراز</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>s.ghoohestani88@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>تقسیم سود</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>فرصت‌های سرمایه‌گذاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تامین مالی خارجی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>چرخه عمر شرکت</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]   ایزدی­نیا، ناصر؛ علینقیان، نسرین. (1389). شناسایی عوامل موثر بر سود تقسیمی با به کار گیری مدل لاجیت، مجله پژوهش­های حسابداری، بهار1390، 21-38 .##[2]   بولو، قاسم؛ پارسیان، حسین؛ نعمتی، رضا. (1391). تأثیر جریان نقدی آزاد بر سیاست­های تقسیم سود طی چرخه عمر شرکت­ها، پژوهش­های کاربردی و گزارشگری مالی (1): 74-51.##[3]   پورحیدری، امید؛ خاکساری، محمد. (1387). بررسی عوامل تعیین کننده خط مشی تقسیم سود در شرکت­های پذیرفته شده در بورس اواراق بهادار تهران، مجله توسعه و سرمایه، (:2): 183.##[4]   جهانخانی، علی؛ قربانی، سعید. (1385). شناسایی و تعیین عوامل تعیین کننده سیاست تقسیم سود شرکت­های پذیرفته شده در سازمان بورس اوراق بهادار تهران، تحقیقات مالی، 17.##[5]   رحمانی، علی؛ مسجدموسوی، میرسجاد؛ قیطاسی، روح­اله. (1390). بررسی رابطه سودآوری و بازده با توجه به چرخه عمر و اندازه شرکت، تحقیقات حسابداری و حسابرسی، (9): 115-104.##[6]   ستایش،محمدحسین؛مهتری،زینب. (1390).تجزیهوتحلیلرابطهبینجریاننقدعملیاتیو تغییراتسودتقسیمیدرشرکت­هایپذیرفتهشدهدربورساوراقبهادارتهران؛مجلهدانشحسابداری (5): 171-149.##[7]   ستایش، محمدحسین؛ ذوالفقاری، مهدی. (1390). تأثیرجریان‌هاینقدیآزادوفرصت‌هایسرمایه‌گذاریبرنسبت‌های بدهیوتقسیمسودشرکت‌هایپذیرفتهشدهدربورس اوراق بهادار تهران (15): 87-71.##[8]   عباسی، ابراهیم؛ ابراهیم‌زاده‌رحیملو، بهروز. (1390). بررسی عوامل موثر بر سطح سرمایه­گذاری در شرکت­های بورس اوراق بهادار تهران؛ فصلنامه مدلسازی اقتصادی، (4): 49-62.##[9]   عرب­صالحی، مهدی؛ اخلاقی، حسنعلی. (1390). تأثیر فرصت­های سرمایه­گذاری، منابع تامین مالی و مالیات بر خط­مشی تقسیم سود شرکت­های پذیرفته شده در بورس اوراق بهادار تهران، فصلنامه بورس اوراق بهادار تهران، (16): 118-101.##[10] قربانی، سعید. ( 1384). شناسایی و تبیین عوامل تعیین کننده سیاست تقسیم سود شرکت­های پذیرفته شده در سازمان بورس اوراق بهادار تهران، رساله دکتری رشته حسابداری، دانشکده مدیریت دانشگاه تهران.##[11] قوهستانی، سمانه. (1392). بررسی رابطه بین تقسیم سود و سرمایه گذاری: با تاکید بر عدم اطمینان در جریان­های نقد، پایان­نامه کارشناسی ارشد، دانشکده مدیریت دانشگاه تهران.##[12] کرمی، غلامرضا؛ عمرانی، حامد. (1389). تأثیر چرخه عمر شرکت و محافظه­کاری بر ارزش شرکت؛ بررسی­های حسابداری و حسابرسی (59): 96-79.##[13] مهرانی، ساسان. (1373). ایجاد مدل برای رابطه بین سود، تقسیم سود و سرمایه­گذاری، پایان­نامه کارشناسی ارشد حسابداری، دانشکده مدیریت دانشگاه تهران.##[14] مهرانی، کاوه. (1384). چارچوبی برای تجزیه و تحلیل سیاست­های تقسیم سود؛ حسابدار، 144.##[15] ولی­پور، هاشم. (1389). مربوط بودن نوسانات جریان­های نقدی برای پیش­بینی بازده سهام، مجله مهندسی مالی و مدیریت پرتفوی، 2.##[16] یحیی­زاده­فر، محمود؛ عمادی، سید محمود. (1390). رابطه میان جریان نقدی آزاد، وضعیت سودآوری ومیزان سود تقسیمی شرکت­های پذیرفته شده در بورس اوراق بهادار تهران، فصلنامه بورس اوراق بهادار (14): 187-201.##[17]           Anthony, J. H. and Ramesh, K. (1992). Association between Accounting Performance Measures and Stock Prices: A Test of the Life Cycle Hypothesis, Journal of Accounting and Economics, (15): 203-27.##[18]           Bernanke, B. and Gertler, M. (1989). Agency Costs, Net Worth, and Business Fluctuations, American Economic Review, 79:14–31.##[19]           Bhattacharya, S. (1979). Imperfect Information, Dividend Policy and the “Bird in the Hand” Fallacy, Bell Journal Economic; (10): 259–70.##[20]           Black, E .L. (1998). Life – Cycle Impacts on the Incremental Relevance of Earnings and Cash Flow Measures, Journal of Financial Statement Analysis Fall, 40-56.##[21]           Brady, K.; Chira, I. and Madura, J. (2014). Special DividendDistributions, Firm Characteristics, and Economic Conditions, Journal of Applied Finance, Vol. 24 Issue 1, p58.##[22]           Brav, A.; Graham, J.; Harvey, C. and Michaely, R. (2005), Payout Policy in the 21st Century, Journal of Financial Economics, 77: 483–527.##[23]           Chaya, J. B. and Suh, J. (2009). Payout Policy and Cash-Flow Uncertainty, Journal of Financial Economics, 93: 88–107.##[24]           Daniel, N. D.; Denis, D. J. and Naveen, L. (2008). Dividends, Investment, and Financial Flexibility, Working paper.##[25]           David, H., Min, W. (2010). Corporate Investment, Financing, and Dividend Policies in the High-Tech Industry, Journal of Business Research; 63: 486–89.##[26]           DeAngelo, H. and DeAngelo, L. (1990). Dividend Policy and Financial Distress: An Empirical Investigation of Troubled NYSE Firms, Journal of Finance, 45: 1415–1431.##[27]           DeAngelo, H.; DeAngelo, L., Skinner, D. (1994). Accounting Choice in Troubled Companies, Journal of Accounting and Economics; 17: 113-143.##[28]           Deng, S., Mingqing, W. (2013). Dividends, Investment and Cash Flow Uncertainty: Evidence from China, International Review of Economics and Finance, Article in press.##[29]           Dunham, M. (2008). The Dynamic Relation among Investment, Earnings, and Dividends, ETD collection for University of Nebraska-Lincoln; AAI3307115.##[30]           Fama, E. F. (1974). The Empirical Relationships between the Dividend and Investment Decisions ofFirms, American Economic Review, 64: 304–318.##[31]           Grullon, G.; Michaely, R. and Swaminathan, B. (2002). Are Dividend Changes a Sign of Firm Maturity? Journal of Business, 75 (3): 387–424.##[32]           Gul, A. and Kealey, T. (1999). Investment Opportunity Set and Corporate Debt and Dividend Policies of Korean Companies, Review of Quantitative Finance and Accounting, 13 (4): 401-416.##[33]           Jenkins, D. S.; Kane, G. D. and Velury, U. (2004). ‘‘The Impact of the Corporate Life Cycle on the Value Relevance of Disaggregated Earnings Components, Review of Accounting and Finance, 3: 5-20.##[34]           Lintner, J. (1956). Distribution of Income of Corporations among Dividends, Retained Earnings, and Taxes, American Economic Review, 5: 97–113.##[35]           Louton, A. D. and Domian, D. L. (1995). Dividends and Investment: Further Empirical Evidence, Quarterly Journal of Business and Economics, 34: 53–64.##[36]           Merton, H.; Miller, M and Rock, K. (1985), Dividend Policy under Asymmetric Information, The Journal of Finance, 40 (4): 1031-1051.##[37]           Modigliani, F. and Miller, M. (1961). Dividend Policy, Growth, and the Valuation of Shares, Journal of Business, 34, 411-433.##[38]           Park, Y. and Chen, K. (2006). The Effect of Accounting Conservatism and Life-Cycle stages on Firm Valuation, Journal of Applied Business Research, 22: 75-92.##[39]           Phoebus, J. (1967). Investment, Dividend, and External Finance Behavior of Firms, National Bureau of Economic Research, 427-486.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>رتبه‌بندی اعتباری شرکت‌ها با استفاده از رویکرد قیمت‌گذاری اختیار تعدیلی با دیرش</TitleF>
+				<TitleE>Credit Ranking of Firms Using Option Pricing Adjusted with Duration</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>ریسک اعتباری، ریسکی است که ناشی از نکول یا کوتاهی وام‌گیرندهدر قرارداد است. در پیشینه پژوهش مطالعات زیادی از قیمت‌گذاری اختیار برای ارزیابی و تحلیل ریسک اعتباری استفاده کرده‌اند و بر اساس نوسان‌پذیری دارایی‌ها، فاصله تا نکول و به طور جامع‌تر احتمال نکول، شرکت‌ها را رتبه‌بندی کرده‌اند. در این مقاله از رویکرد جدیدی برای قیمت‌گذاری اختیار استفاده می‌شود. در این رویکرد ضمن برآورد نوسان‌پذیری دارایی‌های شرکت بدون حلّ معادلات همزمانی بلک- شولز- مرتون، از زمان تا سررسید تعدیل یافته‌ بدهی شرکت‌ها یا دیرش استفاده می‌شود. مجموعه داده‌های این پژوهش شامل 5670 شرکت از شرکت‌های فعال در بازار ایالات متحده طی دوره‌ 2001 تا 2013 است. پس از رتبه‌بندی شرکت‌ها و ترسیم منحنی ROC رویکرد این پژوهش و رویکرد پایه‌ای بلک- شولز- مرتون و رویکرد BhSh، نتیجه گرفته شد که رویکرد این مقاله، دقّت نسبتاً بالایی دارد. همچنین این پژوهش یک تحلیل مبتنی بر ریسک برای اثرات متغیرهای اختیار و سایر متغیرهای بازاری فراهم می‌کند.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Investors use credit ranking to help them to price the risks associated with fixed income securities. In literature, many studies have used option pricing for assessing and analyzing the credit risk, and they have ranked firms according to the assets volatility, distance to default and probability of default. In this paper, in addition to estimating assets volatility without solving BSM’s simultaneous equations, we use adjusted-time to maturity of debts or duration of debts. Our sample includes 5670 firms from US market during 2001 to 2013. After ranking firms and plotting ROC curves of our approach, BSM approach and BhSh approach, we conclude that our new approach has a relative high accuracy. Furthermore, this research provides a risk-based framework to analyze the effects of option variables and other market variables.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>51</FPAGE>
+						<TPAGE>68</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>عباس</Name>
+						<MidName></MidName>		
+						<Family>امین‌پور جوبنی</Family>
+						<NameE>abbas</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>aminpour joubeni</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه صنعتی امیرکبیر</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه صنعتی امیرکبیر</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>a.aminpour@aut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>ناصر</Name>
+						<MidName></MidName>		
+						<Family>شمس قارنه</Family>
+						<NameE>naser</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>shams gharneh</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه صنعتی امیرکبیر</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه صنعتی امیرکبیر</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>n.shams@aut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>اکبر</Name>
+						<MidName></MidName>		
+						<Family>اصفهانی پور</Family>
+						<NameE>akbar</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>esfahani pour</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه صنعتی امیرکبیر</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه صنعتی امیرکبیر</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>esfaha@aut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>رتبه‌بندی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>قیمت‌گذاری اختیار</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نوسان‌پذیری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>احتمال نکول</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>منحنی ROC</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]   خوانساری، رسول؛ فلاح شمس، میرپناه. (1388). ارزیابی کاربرد مدل ساختاری KMV در پیش‌بینی نکول شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. فصلنامه تحقیقات مالی، (11): 28.##[2]   Afik , Z , Arad, O, Galil, K. (2012). Using Merton Model: An Empirical Assessment of Alternatives, Working Paper.##[3]   Agarval, V, Taffler, R. (2008). Comparing The Performance of Market- Based and Accounting- Based Bankruptcy Prediction Models, Journal of Banking and Finance, 32, 1541- 1551.##[4]   Bharath, S, T., Shumway, T. (2004). Forecasting Default with the KMV-Merton Model. Working paper, University of Michigan.##[5]   Bharath , S, T. , Shumway, T. (2008). Forecasting Default with the Merton Distance to Default Model. Review of financial studies, 21, 1339- 1369.##[6]   Black, F., and M. Scholes. (1973). The Pricing of Options and Corporate Liabilities. Journal of political economy, 81, 637-654.##[7]   Campbell , L. Y, Hilscher, J. , Szilagyi, J. (2008). In Search of Distress Risk, Journal of finance, 63, 2899- 2939.##[8]   Charitou,A., Dionysia D., Neophytos L., Lenos T. (2013). Alternative Bankruptcy Prediction Models Using Option Pricing Theory, Journal of Banking and Finance, 2329-2341.##[9]   Duffie , D. L, Saita. L., Wang, K. (2007). Multi-Period Corporate Failure Prediction with Stochastic Covariates. Journal of Financial Economics, 7: 63- 81.##[10]       Engelmann, B., Hayden, E. and Tasche, D. (2003). Testing Rating Accuracy. Risk, 6: 82-86.##[11]       Fabozzi, F., (2005). The Handbook of Fixed Income securities. Seventh edition, The McGraw-Hill Companies.##[12]       Hillegist, S., Keating, E., Cram, D, Lndstedt, K. (2004). Assessing the Probability of Bankruptcy. Review of accounting studies. 5- 34.##[13]       Hull, J, C. (2009). Options, Futures, and Other Derivatives, 7th edition. University of Toronto.##[14]       Lee, W., (2011). Redifinition of the KMV Model’s Optimal Default Point Based on Genetic Algorithms- Evidence from Taiwan.##[15]       Merton, R. C. (1974). On the Pricing of Corporate Debt: The Risk Structure of Interest Rates. Journal of Finance,29: 449–70##[16]       Sobehart, J. R. and Keenan, S. (2001). Measuring Default Accurately. Credit Risk Special Report, 14, 31-33.##[17]       Vassalou, M., Xing, Y., (2004). Default Risk in Equity Returns. J. Finance 59 (2), 831-868.##[18]       Wu, Y., Gaunt, C., Gray, S. (2010). A Comparison of Alternative Bankruptcy prediction Models. Journal of Contemporary Accounting &amp; Economics, 34-45.##[19]       Doumpos, M., Nikilis, D., Zopounidis, C. and Andriosopulos, K. (2014). Combining Accounting Data and a Structural Model for Predicting Credit Ratings: Empirical evidence from European listed firms. Journal of Banking &amp; Finance, 32 (8), 1541–1551.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تأثیر نظام حاکمیت شرکتی بر شاخص واحد کارآیی مدیریت سرمایه در گردش در شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران</TitleF>
+				<TitleE>The Impact of Corporate Governance System on the Unit Index of Working Capital Management Efficiency for the Companies Listed in Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>مطالعه حاضر، به بررسی تأثیر نظام حاکمیت شرکتی بر کارآیی مدیریت سرمایه در گردش می‌پردازد. در این پژوهش، از متغیرهای درصد مالکیت سهامداران نهادی، دوگانگی وظیفه مدیر­عامل، اندازه هیأت مدیره، استقلال اعضای هیأت مدیره و کیفیت حسابرسی به عنوان ساز و­کارهای نظام حاکمیت شرکتی و از شاخص EIwcm ، برای اندازه­گیری کارآیی مدیریت سرمایه در گردش استفاده شد. در این راستا، اطلاعات 136 شرکت پذیرفته شده در بورس اوراق بهادار تهران طی سال­های 1386 الی 1390 مطالعه و بررسی شد. برای آزمون فرضیه­ها از مدل رگرسیون چند متغیره با استفاده از داده­های ترکیبی بهره گرفته شد. نتایج پژوهش، بیانگر آن است که درصد مالکیت سهامداران نهادی و دوگانگی وظیفه مدیر­عامل، اثر مثبت و معناداری بر کارآیی مدیریت سرمایه در گردش دارد، در حالی که متغیرهای اندازه هیأت مدیره، استقلال اعضای هیأت مدیره و کیفیت حسابرسی بر کارآیی مدیریت سرمایه در گردش، تأثیر معناداری نداشتند.   </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>This study investigates the effect of corporate governance mechanisms on working capital management efficiency. In this research, the variables of corporate governance mechanism consist of the percentage of institutional shareholders, CEO duality, board size, board independence and audit quality. The proxy variable for working capital management efficiency is the &quot;working capital management efficiency index&quot;. In this respect, the data of 136 companies listed in Tehran Stock Exchange during 1386 to 1390 were studied. Multiple-regression models using pooling data are used to test the hypotheses. Findings indicate that institutional shareholders and CEO duality have positive effects on the efficiency of working capital management, but the board size, board independence and audit quality appear to have no significant effect on the efficiency of working capital management.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>69</FPAGE>
+						<TPAGE>86</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محسن</Name>
+						<MidName></MidName>		
+						<Family>دستگیر</Family>
+						<NameE>mohsen</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>dastgir</FamilyE>
+						<Organizations>
+							<Organization>عضو هیات علمی دانشگاه آزاد واحد علوم تحقیقات اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>عضو هیات علمی دانشگاه آزاد واحد علوم تحقیقات</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>dr.dastgir@hashtbehesht.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مژگان</Name>
+						<MidName></MidName>		
+						<Family>جلالی جلال آبادی</Family>
+						<NameE>mozhgan</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>jalali jalal abadi</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه آزاد اسلامی واحد نجف آباد</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه آزاد اسلامی واحد نجف آباد</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mozhgan.jalali2013@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>احمد</Name>
+						<MidName></MidName>		
+						<Family>گوگردچیان</Family>
+						<NameE>ahmad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>googerdchian</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه اصفهان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>agoogerdchian@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>نظام حاکمیت شرکتی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>کارآیی مدیریت سرمایه در گردش</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>دوگانگی وظیفه مدیر‌عامل</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>استقلال اعضای هیأت مدیره و سهامداران نهادی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]   احمدی، موسی؛ عباسی، مجید. (1390). بررسیتأثیردوگانگیوظیفهمدیرعاملبرارزششرکت‌هایپذیرفتهشده دربورساوراقبهادارتهران.  فصلنامه روند پژوهش_های اقتصادی، (60): 150-113.##[2]   اسماعیل‌زاده‌مقری، علی؛ جلیلی، محمد؛ زندعباس‌آبادی، عباس. (1389). بررسی تأثیر حاکمیت شرکتی بر کیفیت سود در بورس اوراق بهادار تهران. مجله حسابداری مدیریت، (7): 90-75.##[3]   ایزدی نیا، ناصر؛ تاکی، عبداله. (1389). بررسی تأثیر مدیریت سرمایه در گردش بر قابلیت سود دهی شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران. فصلنامه علمی پژوهشی حسابداری مالی، (5): 129-120.##[4]   بدری، احمد. (1387). مبانی و ضرورت حاکمیت شرکتی، مجموعه مقالات حاکمیت شرکتی. نشر بورس اوراق بهادار تهران (مدیریت آموزش)، 17- 5.##[5]     بقایی، جواد. (1374). روش تحقیق در حسابداری. دو فصلنامه دانش و توسعه، (2): 112-97.##[6]   حسینی، سید علی؛ رهبری خرازی، مهسا. (1387). حاکمیت شرکتی و حمایت از سهام­داران، مجموعه مقالات حاکمیت شرکتی. نشر بورس اوراق بهادار تهران (مدیریت آموزش)، 98-81.##[7]   دستگیر، محسن؛ هنرمند، مهسا. (1393). بررسی تأثیر ساز و کارهای حاکمیت شرکتی بر کارآیی مدیریت سرمایه در گردش. فصلنامه علمی پژوهشی حسابداری مدیریت، (22): 88- 69.##[8]   رحیمیان، نظام الدین؛ صالح‌نژاد، سیدحسن؛ سالکی، علی. (1388). رابطه میان برخی ساز و کارهای حاکمیت شرکتی و عدم تقارن اطلاعاتی در شرکت­های پذیرفته شده در بورس اوراق بهادار تهران. مجله بررسی­های حسابداری و حسابرسی، (58): 86-71.##[9]   رسائیان،امیر؛رحیمی، فروغ؛ حنجری، سارا. (1389). تأثیرمکانیزم­هاینظارتیدرونسازمانی حاکمیتشرکتیبرسطحنگهداشتوجهنقد در بورساوراقبهادارتهران.مجله پژوهش­های حسابداری مالی، (4): 144-125.##[10] رهنمای‌رودپشتی، فریدون؛ کیائی، علی. (1387).بررسی و تبیین سرمایه در گردش در شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران.مجله دانش و پژوهش حسابداری، (13) 13-6 و 70-66.##[11] زراء‌نژاد،منصور؛انواری،ابراهیم. (1384). کاربردداده‌هایترکیبیدراقتصادسنجی. فصلنامه بررسی‌هایاقتصادی،(4):52- 21.##[12] فتحی، سعید؛ توکلی، سیدیاسین. (1388). بررسی ارتباط بین مدیریت سرمایه در گردش با عملکرد مالی بنگاه‌های اقتصادی.بررسی­های بازرگانی، (36): 116- 104.##[13] فخاری، حسین؛ یوسفعلی‌تبار، نصیبه. (1389). بررسی رابطه بین سیاست تقسیم سود و حاکمیت شرکتی در شرکت­های پذیرفته شده در بورس اوراق بهادار تهران. مجله بررسی­های حسابداری و حسابرسی، (62): 84-69.##[14] محمدی، محمد. (1388). تأثیر مدیریت سرمایه در گردش بر سودآوری در شرکت­های پذیرفته شده در بورس اوراق بهادارتهران، فصلنامه مدیریت، (14): 91- 80.##[15] نمازی، محمد؛ منفرد‌مهارلویی، محمد. (1390). بررسی تأثیر حدود عملیات شرکت بر ساختار هیأت مدیره (مورد مطالعه شرکت­های پذیرفته شده در بورس اوراق بهادار تهران). مجله دانش حسابداری، (7): 25-7.##[16] نوو، ریموند پی. (1390). مدیریت مالی. ترجمه: علی جهانخانی و علی پارساییان. تهران: انتشارات سمت.##[17] نیکو مرام، هاشم؛ محمدزاده‌سالته، حیدر. (1389). ارایهالگوییبرایتبیینارتباطبینحاکمیتشرکتیوکیفیتسود. مجله حسابداری مدیریت، (4): 80-59.##[18] واعظ، سیدعلی؛ قلمبر، محمدحسین؛ قنواتی، نسرین؛ رحمانی، فاطمه. (1393). بررسی رابطه تمرکز مالکیت و ساختار هیأت مدیره با کارآیی مدیریت سرمایه در گردش. فصلنامه علمی پژوهشی مدیریت دارایی و تأمین مالی، (4): 128-113.##[19] ولی‌پور، هاشم؛ مرادی، جواد؛ جمشیدی، علی. (1391). بررسی مقایسه‌ای و انتخاب شاخص بهینه کارآیی مدیریت سرمایه در گردش و ارتباط آن با کارآیی دارایی­ها به تفکیک صنایع در شرکت­های پذیرفته شده بورس اوراق بهادار تهران. اولین همایش ملی حسابداری و مدیریت، دانشگاه آزاد اسلامی واحد نور، 15-1.##[20] هرمزی، هادی؛ علی‌احمدی، سعید. (1391). بررسیرابطهبینمدیریتسرمایهدر گردشباحاکمیتشرکتیوتئوریسلسلهمراتبتأمین مالیدرشرکت‌هایپذیرفتهشدهدربورساوراقبهادارتهران.  فصلنامه علمی پژوهشی حسابداری مدیریت، (15): 60- 31.##[21] یعقوب نژاد، احمد؛ امیری، محمد. (1388). بررسی عوامل مؤثر بر کیفیت گزارش­های حسابرسی و تأثیر عوامل مذکور بر ضریب همبستگی تغییرات قیمت و تغییرات سود سهام. پژوهشنامه حسابداری مالی و حسابرسی، (1): 118-82.##[22]       Achchuthan, S. &amp; Kajananthan, R. (2013). Corporate Governance Practices and Working Capital Management Efficiency: Special Reference to Listed Manufacturing Companies in SriLanka.  Information and Knowledge Management, 3 (2): 216-226.##[23]       Chiou, J, R. &amp; Cheng, L. (2006). The Determinants of Working Capital Management. The Journal of American Academy of Business, Cambridge, 10 (1): 149-155.##[24]       Deloof, M. (2003). Does Working Capital Management Affect Profitability of Belgian Firm? Journal of Business, Finance and Accounting, 30, (3&amp;4): 573-587.##[25]       Filbeck, G. &amp; Krueger, T. (2005). Industry Related Differences in Working Capital Management. Mid-American Journal of Business, 20, (2): 11-18.##[26]       Gill, A. &amp; Biger, N. (2013). The Impact of Corporate Governance on Working Capital Management Efficiency of American Manufacturing Firms. Journal of ManagerialFinance, 39 (2): 116-132.##[27]       Gill, A &amp; Mathur, N. (2011). The Impact of Board Size, CEO Duality, and Corporate Liquidity on the Profitability of Canadian Service Firms. Journal of Applied Finance and Banking, 1 (3): 83-95.##[28]       Harford, J. Mansi, S.A. &amp; Maxwell, W.F. (2008). Corporate Governance and Firm Cash Holdings in the US. Journal of Financial Economics, 87 (3): 535-55.##[29]       Isshaq, Z. Bokpin, G.A. &amp; Onumah, J.M. (2009). Corporate Governance, Ownership Structure, Cash Holdings, and Firm Value on The Ghana Stock Exchange. The Journal of Risk Finance, 10 (5): 488-99.##[30]       Kienschnick, R. LaPlante, M. &amp; Moussawi, R. (2006). Corporate Working Capital Management: Determinants and Consequences. [Online] Available: http://www.fma.org/SLC/Papers/cwcmf_fma.pdf.##[31]       Panigrahi, A.K. (2014). Relationship of Working Capital with Liquidity, Profitability and Solvency:A Case Study of ACC Limited. Asian Journal of Management Research, 4 (2): 308-22.##[32]       Santanu, K. &amp; Santi, G. (2004). Working Capital Management Efficiency. The Management Accounting, 363-367.##[33]       Sen,M. Koksal,C. &amp; Oruc, E. (2010). Relation between the Efficiency of Working Capital Management and Company Size. Faculty of Economics and Administrative Science, 522-531.##[34]       Wasiuzzaman, S. &amp; Arumugam, V.C. (2013). Determinants of Working Capital Investment: A Study of Malaysian Public Listed Firms. Australasian Accounting Business and Finance Journal, 7 (2): 49-70.##[35]       Wilson T.N &amp; Nathalie V., Nakamura P. (2010). The Determinant Factors of Working Capital Management in The Brazilian Market, Availableat: http://citation.allacademic.com/meta/p_mla_apa_research_citation/4/8/9/0/4/p489041_index.html##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی عوامل مؤثر بر ریسک بازار سهام با تأکید بر جهانی‌شدن مالی در قالب رفتار پویای بازار سهام</TitleF>
+				<TitleE>Investigating the Factors Influencing on the Stock Market Risk with the Emphasis on Financial Globalization in Dynamic Behavior of Stock Market</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>جهانی شدن مالی با ویژگی‌هایی همچون افزایش تحرک سرمایه در سطح بین­المللی، کاهش موانع در مسیر سرمایه‌گذاری­های مشترک و افزایش سرمایه­گذاری مستقیم خارجی و تأثیری که بر بازار اوراق بهادار دارد، توجه بسیاری از کشورهای در حال توسعه را به خود جلب نموده است. از اینرو، در این پژوهش با مطالعه پویایی رفتار بازارهای اوراق بهادار کشورهای تولید کننده نفت منطقه خاورمیانه شامل ایران، بحرین، امارات متحده عربی، عربستان، عمان، قطر و کویت، طی سال­های 2002- 2011 با استفاده ازمدل همبستگی شرطی پویا (DCC)، این نتیجه به‌دست آمد که بازارهای اوراق­ بهادار کشورهای مورد مطالعه همبستگی پایینی با یکدیگر دارند. در نتیجه می­توان با سرمایه‌گذاری‌های مشترک در طی فرآیند جهانی شدن مالی، از منافع متنوع­سازی سبد دارایی بین­المللی بهره برد. وجود این منافع بالقوه، انگیزه مطالعه تأثیر جهانی شدن مالی بر ریسک بازار اوراق بهادار را با استفاده از روش داده­های تابلویی پویا فراهم می­کند. نتایج نشان می­دهد جهانی شدن مالی در شرایط فعلی در کشورهای مورد مطالعه، به کاهش نوسان‌های بازار اوراق بهادار منجر نمی‌شود که دلیل این امر را می­توان در ساختار مالی ناکارا و شکننده کشورهای مذکور یافت، که ضرورت توسعه کیفی و کمی هر چه بیشتر زیرساخت­های بازارهای مالی کشورهای مذکور در تعامل با کشورهای دیگر را برجسته‌تر می­سازد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>This paper examines equity market risk measured by beta-volatility of stock returns over 2002-2011 for Middle Eastern oil producing countries namely Iran, Bahrain, Qatar, Kuwait, Oman, Saudi Arabia and UAE. First, the paper examines whether the dynamic behavior of stock market returns has changed during the last decade. Using a Dynamic Conditional Correlation model we find that the stock market returns of the sampled countries are not definitely correlated in the short-term. So, international investors may get the short-term diversification benefits by diversifying their portfolios among the Middle Eastern equity markets. Second, in our dynamic panel data framework, after controlling for size and turnover, our results provide evidence in favor of the view that the broadening of the investor base by increasing degree of financial globalization doesn&#039;t reduce the total volatility of stock returns. Our results are important for Middle Eastern oil producing countries policy makers, portfolio managers, as well as academics.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>87</FPAGE>
+						<TPAGE>100</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سیدکمال</Name>
+						<MidName></MidName>		
+						<Family>صادقی</Family>
+						<NameE>Seyed kamal</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Sadeghi</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه تبریز</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه تبریز</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>sadeghiseyedkamal@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>فاطمه</Name>
+						<MidName></MidName>		
+						<Family>باقرزاده آذر</Family>
+						<NameE>fatemeh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>bagherzadeh azar</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه تبریز</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه تبریز</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>f_bagherzadeh2000@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سها</Name>
+						<MidName></MidName>		
+						<Family>موسوی</Family>
+						<NameE>soha</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>moosavi</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه تبریز</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه تبریز</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>soha750@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>جهانی شدن بازارهای مالی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ریسک بازار سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مدل همبستگی شرطی پویا</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>داده‌های تابلویی پویا</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]  ابریشمی، حمید؛ مهرآرا، محسن؛ سید شکری، خشایار. (1388). ادغام مالی و اثرات آن بر نوسانات اقتصادی در گروهی از کشورهای درحال توسعه صادرکننده نفت، فصلنامه مطالعات اقتصادانرژی، 23(6) :۱۳۵‏‎-‎‏۱۲۱‏‎.##[2]  کازرونی، علیرضا. (1378). جهانی شدن اقتصاد و راهبرد گسترش صادرات، اطلاعات سیاسی- اقتصادی، 147و 148: 190-203.##[3]  کومسا، آسفا. (1378). جهانی شدن و منطقه‌گرایی و تأثیر آن بر کشورهای در حال توسعه، مترجم: مردانی گیوی، اسماعیل،  اطلاعات سیاسی- اقتصادی، ش147و 148.##[4]  راعی، رضا؛ تلنگی، احمد. (1383). مدیریت سرمایه­گذاری پیشرفته. تهران: انتشارات سمت، چاپ اول، 113-114.##[5] AyhanKose, M., Prasad, E. S., &amp;Terrones, M. E. (2009). Does Financial Globalization Promote Risk Sharing? Journal of Development Economics. 89, 258-270.##[6] Arellano, M. &amp; Bond, B. (1991). Some Tests of Specification for Panel Data: Monte Carlo Evidence and an Application to Employment Equations. The Review of Economic Studies. 58, 277 – 297.##[7] Arestis, P., &amp;Basu, S. (2003). Financial Globalization and Regulation. The Levy Economics Institute of Board College, Working Paper, 397.##[8] Asteriou, D., Dimelis, S., &amp;Moudatsou, A. (2014). Globalization and Income Inequality: A Panel Data Econometric Approach for the EU27 Countries. Economic Modeling. 36, 592-599.   ##[9] Bley, J., &amp;Saad, M. (2011). The Effect of Financial Liberalization on Stock-Return Volatility in GCC Markets. Journal of International Financial Markets, Institution and Money. 21, 662-685.##[10]          Chinn, M., &amp; Ito, H. (2007). A New Measure of Financial Openness. Journal of Comparative Policy Analysis. 10(3), 309-322.##[11]          Drimbetas, E., Sariannidis, N., &amp;Porfiris, N. (2007). The Effect of Derivatives Trading on Volatility of the Underlying Asset: evidence from the Greek stock market. Applied Financial Economics. 17 (2), 139- 148.##[12]          Eichengreen, B., &amp;Bordo, M. D. (2002). Crises Now and Then: What Lessons From Them Last Era of Financial Globalization?.National Bureau of Economic Research Working Paper. No. 8716.##[13]          Engle, R, F. (2002). Dynamic Conditional Correlation: A Simple Class of Multivariate GARCH Models. Journal of Business Economics Statistic. 20, 339–350.##[14]          Esqueda, O. A., Assefa, T. A., &amp;Mollick, A. V. (2012). Financial Globalization and Stock Market Risk. Journal of International Financial Markets. Institutions &amp; Money. 22, 87-102.##[15]          Fischer, S. (1998). Capital Account Liberalization and the Role of the IMF, in Should the IMF Pursue Capital-Account Convertibility? Essays in International Finance, 207. 1-10.##[16]          Iwata, S., &amp; Wu, S. (2009). Stock Market Liberalization and International Risk Sharing. Journal of International Financial Markets, Institutions &amp; Money. 19, 461-476.##[17]          Gatfaoui, H. (2013). Translating Financial Integration into Correlation Risk: A Weekly Reporting&#039;s Viewpoint for the Volatility Behavior of Stock Markets. Economic Modeling. 30, 776-791.##[18]          Goel, K., &amp; Gupta, R. (2011). Impact of Globalization on Stock Market Development in India. Delhi Business Review. 12(1), 69-84.##[19]          Kenen, P, B. (2007). The Benefits and Risks of Financial Globalization. Cato Journal. 27(2), 179-184.##[20]          Kose, M, A., Prasad, E., Rogoff, K., and Wei, S. (2009). Financial Globalization: A Reappraisal. International Monetary Fund Staff Papers. 56(1), 8-62.##[21]          Lane, P.R., &amp;Milesi-Ferretti, G.M. (2007). The External Wealth of Nations Mark II: Revised and Extended Estimates of Foreign Assets and Liabilities, 1970–2004. Journal of International Economics. 73, 223–250.##[22]          Moser, G., Pointner, W., &amp;Scharler, J. (2005). Financial Globalization, Capital Account Liberalization and International Consumption Risk-Sharing. Focus on European Economic Integration Journal. 1, 98-106.##[23]                   Nezhad Haj Ali Irani, F., &amp;Nouruzi, M. R. (2011). Effects of Globalization on Policy, Economics and Financial Affairs. Economics and Finance Review. 1(3), 51-54.##[24]          Nicolo, G. D., &amp; Juvenal, L. (2010). Financial Integration, Globalization, Growth and Systemic Real Risk. Federal Reserve Bank of St. Louis Working Paper Series 2010-012B.##[25]                   Nicolo, G. D., &amp; Juvenal, L. (2014). Financial Integration, Globalization, and Real Activity. Journal of Financial Stability. 10, 65-75.##[26]          Solnik, B (1974). Why not Diversify International Rather than Domestically? Finance Analytical Journal. 30(4), 48-54.##[27]          Stiglitz, J.E. (2004). Capital-Market Liberalization, Globalization, and the IMF. Oxford Review of Economic Policy. 20, 57–71.##[28]          Torre, A. D. L., Gozzi, J. C., &amp;Schmukler, S. L. (2007). Stock Market Development under Globalization: Whither the gains from reforms?.Journal of Banking and Finance. 31, 1731-1754.##[29]          Umutlu, M., Akdeniz, L., &amp; Altay-Salih, A. (2010). The Degree of Financial Liberalization and Aggregated Stock-Return Volatility in Emerging Markets. Journal of Banking &amp; Finance. 34, 509-521.##[30]          Vongpraseuth, T., &amp; Choi, C. G. (2015). Globalization, Foreign Direct Investment, and Urban Growth Management: Policies and Conflicts in Vientiane, Laos. Land Use Policy, 42, 790- 799.##[31]          World Bank. (2012). World Development Indicators (WDI), Retrieved from www.worldbank.org.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE></ARTICLES>
+</JOURNAL>
+
+				</XML>
+				

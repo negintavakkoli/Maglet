@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-25T02:11:56Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22048">http://saffron.torbath.ac.ir/?_action=export&amp;rf=summon&amp;issue=1019</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-06-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>نقش اندازه بنه مادری، کودهای آلی و محلول‌پاشی عناصر غذایی بر رفتار بنه و جذب فسفر در زعفران (.<i>Crocus sativus</i> L)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علیرضا</given_name>
+												<surname>کوچکی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سید محمد</given_name>
+												<surname>سیدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>هما</given_name>
+												<surname>عزیزی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>روشنک</given_name>
+												<surname>شهریاری</surname>
+											</person_name></contributors>
+									<abstract>در کنار اندازه بنه مادری، مقدار فسفر بنه زعفران از عوامل مؤثر در افزایش گلدهی زعفران است. به‌منظور بررسی نقش اندازه بنه مادری، کاربرد کودهای آلی و محلول‌پاشی عناصر میکرو بر گل‌دهی، عملکرد بنه و جذب فسفر در زعفران در شرایط کنترل‌شده، آزمایشی در سال 92-1391 به‌صورت فاکتوریل در قالب طرح کامل تصادفی با 24 تیمار و سه تکرار در دانشکده کشاورزی دانشگاه فردوسی مشهد به اجرا در آمد. عامل اول، دوم و سوم این آزمایش به ترتیب شامل اندازه بنه مادری در سه سطح (1/0 تا 4 گرم (کوچک)، 1/4 تا 8 گرم (متوسط) و 1/8 تا 12 گرم (بزرگ))، منابع مختلف تغذیه آلی (کود گاوی (25 تن در هکتار)، ورمی کمپوست (10 تن در هکتار)، کمپوست (10 تن در هکتار) و شاهد) و کاربرد عناصر میکرو (آهن + روی) در دو سطح (محلول‌پاشی و عدم محلول‌پاشی) بود. بر اساس نتایج آزمایش، بیشترین عملکرد بنه‌های دختری زعفران به‌طور معنی‌دار درنتیجه کاشت بنه‌های مادری با وزن بیش از 8 گرم (اندازه درشت) به دست آمد. در بین منابع تغذیه آلی، کاربرد کود گاوی بیشترین تأثیر را در افزایش معنی‌دار عملکرد بنه‌های دختری زعفران داشت. اثر محلول‌پاشی عناصر میکرو در افزایش عملکرد بنه‌های دختری زعفران معنی‌دار بود. علاوه بر این، بیشترین درصد و مقدار جذب فسفر در بنه‌های دختری زعفران به‌طور معنی‌دار درنتیجه کاشت بنه‌های مادری 1/8 تا 12 گرمی به دست آمد. با کاهش اندازه بنه مادری غلظت و مقدار جذب فسفر در بنه‌های دختری به‌طور معنی‌داری کاهش یافت.</abstract>
+									<keywords>
+									
+											<keyword>بنه‌های دختری</keyword>
+											<keyword>عناصر میکرو</keyword>
+											<keyword>ورمی کمپوست</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>06</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>3</first_page>
+										<last_page>16</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_6182_e1f3d5238cb8aa0990be4f36394ce527.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-06-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کاربرد روش تحلیل‌پوششی‌داده‌ها در بررسی کارایی تولید زعفران (مطالعه موردی شهرستان قائن)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حدیث</given_name>
+												<surname>کاوند</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>الهام</given_name>
+												<surname>کلبعلی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمود</given_name>
+												<surname>صبوحی</surname>
+											</person_name></contributors>
+									<abstract>بخش کشاورزی برای تأمین مطالباتی مانند تولید محصول بیشتر، آلودگی کمتر و تحقق خواسته‌های مصرف‌کنندگان با توجه به کمیابی فزاینده منابع، تحت‌فشار می‌باشد. با توجه به اهمیت کارایی در رشد بهره‌وری، این شاخص می‌تواند نقش مهمی را به‌ویژه در کشورهای درحال‌توسعه برای تکامل سیستم‌های کشاورزی در جهت تأمین این مطالبات ایفا کند. هدف از این مطالعه بررسی انواع کارایی فنی، اقتصادی و تخصیصی برای تولیدکنندگان زعفران شهرستان قائن با استفاده از روش تحلیل پوششی داده‌ها بود. اطلاعات و داده‌ها از طریق تکمیل 50 پرسشنامه در سال زراعی 91-1390 جمع‌آوری‌شده است. نتایج نشان داده متوسط کارایی فنی، تخصیصی و اقتصادی در حالت بازده ثابت نسبت به مقیاس به ترتیب برابر با 86/0، 92/0 و 88/0 و در حالت بازده متغیر 89/0، 92/0 و 80/0 می‌باشد. همچنین برحسب نتایج به‌دست‌آمده، آموزش و مشاوره کشاورزان در استفاده صحیح از منابع در دسترس، ترویج و استفاده از فناوری‌های مناسب به‌گونه‌ای که باعث افزایش کارایی شود، توصیه می‌گردد.</abstract>
+									<keywords>
+									
+											<keyword>شهرستان قائن</keyword>
+											<keyword>کارایی اقتصادی</keyword>
+											<keyword>کارایی تخصیصی</keyword>
+											<keyword>کارایی فنی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>06</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>17</first_page>
+										<last_page>30</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_6183_6da93a9394edfa890f43e6cbf4288dc9.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-06-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>اثرات تغذیه خاکی و برگی بر رشد بنه و عملکرد گل زعفران (.<i>Crocus sativus</i> L) در مزرعه شش‌ساله</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>قربانعلی</given_name>
+												<surname>اسدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>پرویز</given_name>
+												<surname>رضوانی مقدم</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>فاطمه</given_name>
+												<surname>حسن زاده اول</surname>
+											</person_name></contributors>
+									<abstract>زعفران (.&lt;em&gt;Crocus sativus&lt;/em&gt; L) یکی از مهم‌ترین محصولات کشاورزی و دارویی ایران است. کاربرد صحیح عناصر غذایی در رشد بنۀ دختری و عملکرد گل زعفران دارای اهمیت ویژه‌ای است. به‌منظور مقایسه و بررسی تأثیر سطوح مختلف تغذیه خاکی و محلول‌پاشی با استفاده از کود کامل مخلوط بر تولید بنه‌های دختری و عملکرد گل زعفران، آزمایشی در سال‌های 1390 و 1391 به‌صورت فاکتوریل در قالب طرح بلوک‌های کامل تصادفی با 4 سطح کودپاشی با کود کامل مخلوط (0، 50، 100 و 150 کیلوگرم در هکتار) و 3 سطح محلول‌پاشی با کود کامل مخلوط (با غلظت 0، 5 و 10 در هزار) و در سه تکرار در مزرعه تحقیقاتی دانشگاه فردوسی مشهد اجرا شد. نتایج تجزیه واریانس حاکی از اثرات معنی‌دار تیمارهای تغذیه خاکی بر وزن بنه‌های دختری و همچنین تعداد و وزن گل و کلاله زعفران بود، اما بر تعداد کل بنه‌های دختری در واحد سطح تأثیر معنی‌داری نشان ندادند. تعداد و عملکرد بنه‌های دختری و گل زعفران تحت تأثیر غلظت‌های مختلف محلول‌پاشی و همچنین اثرات متقابل کودپاشی و محلول‌پاشی قرار نگرفتند. درمجموع نتایج این پژوهش نشان‌داد که مصرف خاکی 150 کیلوگرم در هکتار کود کامل مخلوط در اوایل اسفندماه تفاوت مثبت و معنی‌داری در عملکرد گل تر و خشک (به ترتیب 120 و 963 کیلوگرم در هکتار)، عملکرد کلاله تر و خشک (به ترتیب 5/45 و 90/7 کیلوگرم در هکتار کلاله خشک) و نیز وزن بنه‌های دختری زعفران (1646 گرم در مترمربع) نسبت به سایر تیمارها داشت، اما محلول‌پاشی عناصر غذایی در همین زمان نقشی در افزایش معنی‌دار عملکرد گل و بنه‌های دختری زعفران نداشت.</abstract>
+									<keywords>
+									
+											<keyword>بنۀ دختری</keyword>
+											<keyword>کلاله زعفران</keyword>
+											<keyword>کودپاشی</keyword>
+											<keyword>محلول‌پاشی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>06</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>31</first_page>
+										<last_page>44</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_6184_e0dc91249f10c136ce38c7d367c6f0b8.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-06-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>اثرات روش‌های مدیریت علف‌های هرز بر تراکم و زیست‌توده آن‌ها و عملکرد زعفران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حسین</given_name>
+												<surname>زارع حسینی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رضا</given_name>
+												<surname>قربانی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمدحسن</given_name>
+												<surname>راشد محصل</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>حسین</given_name>
+												<surname>رحیمی</surname>
+											</person_name></contributors>
+									<abstract>به‌منظور بررسی و مقایسه روش‌های شیمیایی و غیر شیمیایی مدیریت علف‌های هرز مزارع زعفران(&lt;em&gt;Crucus sativus&lt;/em&gt;) آزمایش‌های مزرعه‌ای طی سال‌های 1388 تا 1390 در ایستگاه تحقیقات زعفران و گیاهان دارویی شهرستان گناباد به‌صورت طرح پایه بلوک‌های کامل تصادفی با 6 تیمار و سه تکرار به اجرا درآمد. تیمارها شامل گیاه پوششی جو (&lt;em&gt;Hordeum vulgare&lt;/em&gt;)، مالچ بستر قارچ، علف‌‌کش گالانت سوپر (هالوکسی فوپ-آر- متیل) (EC%10)، علف‌کش شوالیه (مزوسولفوروم + یدوسولفوروم) (WG%6)، وجین دستی و شاهد (عدم کنترل) بودند. به‌منظور تعیین قابلیت کنترل علف‌های هرز وزن خشک علف‌های هرز و نیز وزن خشک برگ، وزن ترگل و وزن خشک کلاله زعفران اندازه‌گیری و مقایسه شد. بررسی وضعیت علف‌های هرز مزرعه نشان‌داد که علف‌های هرز غالب در محل موردمطالعه شامل جو دره (&lt;em&gt;Hordeum murinum&lt;/em&gt;)، جو موشی (&lt;em&gt;Hordeum spontaneum&lt;/em&gt;)، ازمک (&lt;em&gt;Cardaria draba&lt;/em&gt;) و بومادران (&lt;em&gt;Achillea millefolium&lt;/em&gt;) بودند. علف‌کش‌ شوالیه تأثیر قابل قبولی در کنترل علف‌های هرز برگ باریک و برگ‌پهن داشته اما به نظر می‌رسد این علف‌کش بر رشد گیاه زعفران نیز اثرات منفی داشته زیرا تراکم گیاه زعفران را در سال بعد در کرت‌های استفاده‌شده کاهش داد. علف‌کش گالانت سوپر علف‌های هرز برگ باریک را به‌خوبی کنترل نمود اما باعث کاهش عملکرد کلاله خشک و زیست‌توده برگ زعفران نیز شد. مالچ استفاده‌شده نتوانست علف‌های هرز را کنترل کند، اما باعث افزایش عملکرد نسبت به تیمار شاهد شد. گیاه پوششی جو تأثیر فراوانی در کاهش زیست‌توده علف‌های هرز برگ باریک و برگ‌پهن داشت. تیمار گیاه پوششی جو کم‌ترین زیست‌توده علف‌های هرز را سبب شده و همانند تیمار وجین دستی در کاهش زیست‌توده علف‌های هرز مؤثر بود. این گیاه پوششی به دلیل کنترل مناسب علف‌های هرز، عدم ایجاد اثرات نامطلوب بر گیاه زعفران و همچنین تولید یک محصول جنبی بر سایر روش‌های مطالعه شده در این تحقیق برتری داشت.</abstract>
+									<keywords>
+									
+											<keyword>جو</keyword>
+											<keyword>علف‌کش</keyword>
+											<keyword>کلاله زعفران</keyword>
+											<keyword>گیاه پوششی</keyword>
+											<keyword>مالچ</keyword>
+											<keyword>وجین دستی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>06</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>45</first_page>
+										<last_page>58</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_6185_801c2894925400d4c6814268d9de0cd8.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-06-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی مزیت نسبی تولید و صادرات زعفران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علیرضا</given_name>
+												<surname>کرباسی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>فاطمه</given_name>
+												<surname>رستگاری پور</surname>
+											</person_name></contributors>
+									<abstract>کشاورزی شهرستان تربت‌حیدریه با توجه به امکانات و پتانسیل‌های موجود در زمینه منابع مختلف کشاورزی از امکانات ویژه‌ای برای کشت زعفران برخوردار است. در تحقیق حاضر با استفاده از اطلاعات جمع‌آوری‌شده از جهاد کشاورزی استان خراسان رضوی و سالنامه آمار بازرگانی خارجی برای سال زراعی 92-91 به بررسی مزیت نسبی تولید زعفران در شهرستان تربت‌حیدریه با استفاده از شاخص DRC و ماتریس تحلیل سیاسی PAM و در ادامه به بررسی مزیت نسبی صادرات زعفران پرداخته شد که به این منظور از شاخص‌های مزیت نسبی آشکارشده (RCA) و مزیت نسبی آشکارشده متقارن (RSCA) استفاده گردید. نتایج نشان‌داد شهرستان تربت‌حیدریه در تولید زعفران دارای مزیت نسبی است. همچنین بر طبق شاخص NPC قیمت بازاری محصول بیش از قیمت سایه‌ای آن است و لذا تولیدکننده از یارانه بهره برده است و از بازار محصول حمایت می‌شود. بر طبق معیار EPC نیز مداخله‌های دولت به سود تولید این محصول عمل کرده است و درمجموع از بازار نهاده و محصول حمایت می‌شود. درنهایت سودآوری خالص اجتماعی نیز در همه حالات مثبت می‌باشد. همچنین بر طبق هر دو معیار مزیت نسبی صادرات در سال‌های 2012-2004 کشورهای ایران، اسپانیا و یونان به ترتیب دارای اولویت مزیت نسبی صادرات در جهان می‌باشند درحالی‌که صادرات زعفران ایران ارزش‌افزوده بالایی ندارد لذا در راستای بهبود وضعیت کنونی، پیوستن به سازمان تجارت جهانی جهت کاهش تعرفه‌های صادرات، توجه به بازاریابی محصول و ارائه تسهیلات لازم ازجمله حمایت‌های ارزی پیشنهاد می‌شود.</abstract>
+									<keywords>
+									
+											<keyword>تربت‌حیدریه</keyword>
+											<keyword>ماتریس تحلیل سیاستی</keyword>
+											<keyword>مزیت نسبی آشکارشده</keyword>
+											<keyword>مزیت نسبی آشکارشده متقارن</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>06</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>59</first_page>
+										<last_page>74</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_6186_a22084d32e076ce8ddd05805eea9d060.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-06-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی تأثیر عوامل اقلیمی مؤثر بر کشت زعفران با استفاده از فرایند تحلیل سلسله مراتبی (AHP) موردمطالعه: دهستان‌های شهرستان رشتخوار</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سعید</given_name>
+												<surname>کامیابی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مجید</given_name>
+												<surname>حبیبی نوخندان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>احمدرضا</given_name>
+												<surname>روحی</surname>
+											</person_name></contributors>
+									<abstract>مقاله حاضر، باهدف مشخص کردن معیارهای اقلیمی و شناخت رتبه عوامل مؤثر بر کشت زعفران و ارزیابی تأثیر آن در شهرستان رشتخوار از توابع استان خراسان رضوی انجام گردیده است. فرضیه اصلی تحقیق این است که شهرستان رشتخوار شرایط لازم، جهت کاشت و افزایش زیر کشت بردن، محصول زعفران را دارد و در طول تحقیق همواره این سؤال مدنظر بوده که کدام‌یک از عوامل اقلیمی تأثیر بیشتری بر کشت زعفران در شهرستان رشتخوار داشته است. روش تحقیق توصیفی-تحلیلی بر پایه گردآوری داده‌های ایستگاه‌های هواشناسی منطقه و عملکرد زعفران در منطقه موردمطالعه، دریک دوره‌ی ده‌ساله است. در این تحقیق با در نظر گرفتن عوامل اقلیمی مؤثر بر کشت زراعی زعفران از روش تحلیل سلسله مراتبی (AHP) و برای اولویت‌بندی نواحی روستایی دهستان‌های منطقه رشتخوار به منظور کشت اراضی استفاده‌شده است. فرایند تحقیق شامل گردآوری اطلاعات، محاسبات و تحلیل‌های آماری، ورود اطلاعات به نرم‌افزار Expert choice، خوشه‌بندی و ارزش‌گذاری معیارها و تلفیق اطلاعات بوده است. نتایج تحقیق نشان داد، در میان عوامل محیطی، بارش با ضریب (281/0) و دما با ضریب (137/0) بیشترین تأثیر را در کشت زعفران داشته‌اند. منابع آبی و تبخیر در این نظرسنجی نیز پایین‌ترین امتیاز را به خود اختصاص داده‌اند؛ و در میان دهستان‌های این شهرستان، دهستان حسین‌آباد شرایط مناسب‌تری جهت کشت زعفران دارد.</abstract>
+									<keywords>
+									
+											<keyword>تصمیم‌گیری چند معیاره</keyword>
+											<keyword>رتبه‌بندی</keyword>
+											<keyword>عوامل و عناصر اقلیمی</keyword>
+											<keyword>نرم‌افزار (Expert choice)</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>06</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>75</first_page>
+										<last_page>90</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_6187_3bfcba4f07791f2874d8f0b906a25de6.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-06-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر نانو نقره بر خصوصیات رشد رویشی زعفران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>نسیم</given_name>
+												<surname>رضوانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>سروش زاده</surname>
+											</person_name></contributors>
+									<abstract> آزمایشی در قالب طرح فاکتوریل و در چهار تکرار در گلخانه دانشکده کشاورزی دانشگاه تربیت مدرس انجام شد. در این آزمایش اثر پیش‌تیمار غلظت‌های صفر، 40، 80 و 120 پی‌پی‌ام محلول نانو نقره و بر‌هم‌کنش این تیمارها با شرایط تنش غرقابی و عدم تنش غرقابی بر روی ریشه‌های زعفران موردبررسی قرار گرفت. در شرایط بدون تنش غلظت‌های 40‌‌ و 80 پی‌پی‌ام نانو نقره تعداد ریشه را افزایش داد، ‌‌اما طول ریشه با پیش‌ تیمارهای آب و نانو نقره 40 پی‌پی‌ام در سطح اطمینان ‌ 99‌ درصد افزایش پیدا کرد. در شرایط تنش غرقابی کاربرد غلظت‌های 40‌ و‌80 پی‌پی‌ام اثر تنش را بر تعداد ریشه جبران کرد و کاربرد غلظت 40 پی‌پی‌ام نه‌تنها موجب جبران اثر تنش روی طول ریشه شد، بلکه میزان این صفت را به بیشتر از میزان آن در شرایط شاهد بدون تنش افزایش داد. همچنین کلیه پیش‌تیمارها موجب جبران اثر تنش بر وزن خشک و وزن تر ریشه شدند.</abstract>
+									<keywords>
+									
+											<keyword>پیش تیمار</keyword>
+											<keyword>تعداد ریشه</keyword>
+											<keyword>طول ریشه</keyword>
+											<keyword>وزن تر ریشه</keyword>
+											<keyword>وزن خشک ریشه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>06</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>91</first_page>
+										<last_page>104</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_6188_d146eb96961b095ff4e3674388a05910.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>پاییز 1396</title>
+			</titleInfo>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2017</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>پاییز 1396</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>5</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2017</text>
+				<extent unit="pages">
+					<start></start>
+					<end></end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_23322_edb67a69064d954e4c17be2a28b31a32.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Explaining the Model of Bankruptcy Prediction to Identify Healthy and Risky</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">azam</namePart>
+				<namePart type="given">ahmadyan</namePart>
+				<affiliation>Assistant Professor in Banking Department, Monetary and Banking Research Academy, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">mahsa</namePart>
+				<namePart type="given">gorji</namePart>
+				<affiliation>Master in Financial Engineering, Industrial Engineering Department, Faculty of Industrial Engineering, University of Raja, Qazvin, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2017</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Bank failure is a phenomenon that has attracted the attention of the central bank, banks and financial institutions. Since the signs of potential failure are detected before the bankruptcy, identifying warning variables, and prediction of the crisis timely provide an opportunity for managers and creditors to create preventive activities. In this paper, using the financial statements in the period 1385-1393 and Z-score index as an indicator of bankruptcy, bank failures are detected. To identify the failed banks, we use the kernel function of the index and the stress of index is calculated. Banks that are under stress point are considered risky and otherwise healthy. For estimate of model, discriminate analysis was used to identify the factors that enable to distinguish healthy and risky banks, then, using the logit model, a model was developed for predicting banks failure. To verify separation of two groups of banks we checked Wilks Lambda, F and two independent samples mean, then to evaluate the importance of the different independent variables in a model we used intercorrelation between variables. The results showed 87 percent accuracy of discriminant analysis and 98.2 percent logit model in compliance with the Iran`s banking network environment.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>5</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2017</text>
+				<extent unit="pages">
+					<start>1</start>
+					<end>18</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21174_8c748cca5c734876eaa948f377cc3191.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2017.21174</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Increasing Dividend Policy Outcomes in Terms of Financial Constraints and Competition</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">mehdi</namePart>
+				<namePart type="given">meshki miavaghi</namePart>
+				<affiliation>Associate Professor, Payame Noor University, Rasht, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">fatemeh</namePart>
+				<namePart type="given">sarfehjoo</namePart>
+				<affiliation>M.S in Accounting, Azad University, Rasht, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2017</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The main purpose of this study is to investigate the consequences of the growing dividend policy in terms of financial constraints and conpetition. The investigation covers five years 2010-2014 and the sample consists of 145 listed companies in Tehran’s Stock Exchange. The dynamic analysis is conducted using a combination of the GMM approach and instrumental variables to check for endogeneity in variables. According to the results, the reaction of the capital market and stock turnover of companies after increasing dividend in firms with financial constraints, compared with firms without financial constraints, is weaker. This is especially the case for constrained firms that are in more competitive industries.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>5</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2017</text>
+				<extent unit="pages">
+					<start>19</start>
+					<end>34</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21180_f43dd22eca6b667e4d226b144ce71bc5.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2017.21180</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Capital Structure Stability in Tehran Stock Exchange</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">manijeh</namePart>
+				<namePart type="given">ramsheh</namePart>
+				<affiliation>PhD Student Faculty of Social Sciences and Economics, Department of Accounting, Alzahra University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">gholamreza</namePart>
+				<namePart type="given">soleimani amiri</namePart>
+				<affiliation>Associate Professor, Faculty of Social Sciences and Economics, Department of Accounting, Alzahra University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">rasool</namePart>
+				<namePart type="given">eskandari</namePart>
+				<affiliation>Lecturer in Accounting and Finance, Salford Business School</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">MOHSEN</namePart>
+				<namePart type="given">GHARAHKHANI</namePart>
+				<affiliation>Assistant Professor of Financial Engineering Group, Faculty of Financial, Iranian Institute of Higher Education, Tehran, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2017</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Cross-sectional stability of the leverage means that a firm’s current high or low leverage (relative to other firms) reliably predicts a comparable relative position in future cross-sections. The extent of stability in the cross-section is gauged by assessing the explanatory power of the current cross-section for future cross-sections going forward one year at a time and extending well into the future. This study examines the stability of leverage for 113 componies in Tehran Stock Exchange over the period 1999–2012. It conducts simulations that gauge the ability of random financing and a variety of leverage targeting models to replicate the instability of the crosssection over long horizons. The results show instability in leverage ratios. Target leverage models do a good job replicating the substantial instability of the actual leverage cross-section.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>5</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2017</text>
+				<extent unit="pages">
+					<start>35</start>
+					<end>56</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21182_68a529c66db8c615bf2130ae5148c315.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2017.21182</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Factors Affecting the Behavior of Investors Regarding Phenomenographical Approach</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">s.Morteza</namePart>
+				<namePart type="given">Ghayour Baghbani</namePart>
+				<affiliation>Assistant Professor of management Department, Faculty of Management and Accounting, Imam Reza International University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">omid</namePart>
+				<namePart type="given">behboodi</namePart>
+				<affiliation>PhD student of Business Management, Islamic Azad University Shahrood Branch</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2017</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Decisions of investors in the financial markets is influenced by many factors, many of which are not justified in making rational decisions. Factors such as values, beliefs and cultural assumptions cause bias in the decision-making process that affect the behavior and decisions of the investors. The focus of this article is to provide a pattern of behavior and decision-making factors for investors with an emphasis on cultural factors. Basic assumptions are elucidated from literature review and relevant researches. The mixed method research was selected and operated in order to progress the research at the qualitative and quantitative parts. At the qualitative part, semi structured in-depth interviews were conducted with behavioral decision making experts considerating phenomenography strategy. Data from the interviews were analyzed using content analysis method according to which the questionnaire was designed. At this stage, the survey strategy was conducted, and then 500 questionnaires were distributed as available sampling method and 316 completed questionnaires were collected. The data were analyzed using SPSS and Amos Graphics softwares using structural equation modeling. The results indicate that fators such as value system, locus of control, uncertainty acceptance, habit to investment and time horizon are the main components of cultural category which besides personality, cognitive and emotional biases form investor’s decision making that lead to herding behavior. Despite the past researches confirmed the effect of time, data analysis showed that khorasan razavi investor’s behavioral model is not affected by the time factor.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>5</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2017</text>
+				<extent unit="pages">
+					<start>57</start>
+					<end>76</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21173_6b511f3f2b4d910b08f520b46e0b4efb.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2017.21173</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Investigating the Relationship between Managerial Optimism and Earnings Smoothing in Companies Listed in Tehran Stock Exchange</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">mahmood</namePart>
+				<namePart type="given">yahyazadehfar</namePart>
+				<affiliation>Professor of Finance at Business Administration Department, University of Mazandaran, Faculty of Economics and Administrative sciences</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">shahaboldin</namePart>
+				<namePart type="given">shams</namePart>
+				<affiliation>AssistantProfessor of Finance at Business
+Administration Department University of Mazandaran, Faculty of Economics and Administrative sciences</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">maryam</namePart>
+				<namePart type="given">naderi</namePart>
+				<affiliation>Master of Business Administration, University of Mazandaran, Faculty of Economics and Administrative sciences</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2017</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Earnings smoothing is concerned with and influenced by various factors. In this regard, managers&#039; properties and traits can affect the style of making decisions investigating &quot;optimism can result in our better and more precise cognition about the firms&#039; performance particularly in making decisions regarding purchasing stock.This research studies how managerial optimism can influence earnings smoothing. In this regard, 107 listed companies in Tehran Stock Exchange in a period of 11 years (2005-2015) were selected as the sample. The index of net income divided to total assests is used to assess the earnings smoothing, and the index of the number of increase in the price of stock days is used to appraise the management optimism. Also, effective variables on earnings smoothing (the dependent variable) such as agency problems, asymmetric information, and corporate governance have been used to investigate the issue in-depth. The obtained data were gathered annually by the help of &quot;Tadbir Pardaz&quot;, &quot;Rahavard Novin&quot;, and official site of Tehran Stock Exchange. Multivariable regression model was applied in order to test the research hypotheses. Data were anaysed by “Eviews8&quot; software. The results present that optimistic managers are more capabable of earnings smoothing. In other words, the financial manifests and lists of the companies administered by the optimistic managers present more smooth earnings.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>5</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2017</text>
+				<extent unit="pages">
+					<start>77</start>
+					<end>88</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21186_8bea4fc1e2a176c08759f6a48ea5f8d8.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2017.21186</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Extending Capital Asset Pricing Model for Industrial Portfolio in Tehran Stock Exchange</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Hasan</namePart>
+				<namePart type="given">Heidari</namePart>
+				<affiliation>Associate Professor of Economics, Urmia University, Faculty of Economics and Management, Department of Economics</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Ali</namePart>
+				<namePart type="given">Hidarpour</namePart>
+				<affiliation>Lecturer of Economics, West Azarbaijan Payame Nour University, Faculty of Economics and Management, Department of Economics</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2017</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>In order to model, estimate and make a comparative analysis of the behavior of systematic risk, this paper, by using daily data from 09.28.1997 to 09.22.2015, estimates and extends the traditional Capital Asset Pricing Model for industrial portfolio in Tehran Stock Exchange, with DBEKK_GARCH and Shwert_Seguin Models. Findings show that estimated systematic risk for the Iranian industrial portfolio is time-varying. Therefore, using the traditional Capital Asset Pricing Model, with constant beta, may not be a good idea for modeling systematic risk and forecasting the expected returns of capital assets, as it may lead us to misleading results. Also findings show that the traditional CAPM and Shwert_Seguin models have almost identical forecast accuracy, although their accuracy is less than the DBEKK_GARCH model. The estimated systematic risk, from DBEKK_GARCH and Shwert_Seguin models, does not show any trend behavior over time.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>5</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2017</text>
+				<extent unit="pages">
+					<start>89</start>
+					<end>104</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21177_f40aa06ebe63b3ffdc4530902020d5b9.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2017.21177</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Investigating the Effect of Managerial Overconfidence and Accrual-based Earnings Management</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">kazem</namePart>
+				<namePart type="given">ebrahimi</namePart>
+				<affiliation>Associate Prof., Accounting Department, Faculty of Economics and Management, Semnan University, Semnan. Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">sadegh</namePart>
+				<namePart type="given">sarbazi-azad</namePart>
+				<affiliation>MSc. Accounting Department Faculty of Economics and Management, Semnan University, Semnan. Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2017</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Overconfidence can be summarized as unwarranted faith in one’s intuitive reasoning, judgments, and cognitive abilities. Overconfident managers by the belief that they possess special information (that the others do not) overestimate their information integrity and consequently their firms’ future earnings and cash flows, and usually have positive perspective on firm’s future risk and return. The aim of this study is to investigate the impact of managerial overconfidence on accrual-based earnings management in 95 companies listed in Tehran Stock Exchange during the years 2006 to 2014. In this study, in order to measure managerial overconfidence, two criteria based on investment and financial leverage was implemented. The results showed that there is a positive and significant relationship between managerial overconfidence (based on both overinvestment and financial leverage) on accrual-based earnings management.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>5</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2017</text>
+				<extent unit="pages">
+					<start>105</start>
+					<end>116</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21190_19d4ebaedd64a8d16a902cc27f3720e7.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2017.21190</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Evaluation of the Effect of Investment on Future Performance Considering the Level of Firm Financial Constraint</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">REYHANE</namePart>
+				<namePart type="given">HADIAN</namePart>
+				<affiliation>Ph.D. Student, Faculty of Administrative Sciences and Economics ,University of Isfahan, Isfahan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">SEYED ABBAS</namePart>
+				<namePart type="given">HASHEMI</namePart>
+				<affiliation>Associate Professor, Faculty of Administrative Sciences and Economics ,University of Isfahan, Isfahan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">SAEED</namePart>
+				<namePart type="given">SAMADI</namePart>
+				<affiliation>Associate Professor,  Faculty of Administrative Sciences and Economics ,University of Isfahan, Isfahan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2017</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The effects of investment on firm performance depends on several factors. One of the most important factors is firm financial constraint. This study aimed to investigate the effect of investment on firms’ future profitability and buy-and-hold market adjusted returns considering the level of firm financial constraint. For statistical analysis in this study, multiple regression models were used. The firm financial constraint was measured using ordered logit regression. This research has been conducted on 120 listed companies in Tehran Stock Exchange based on data mentioned in financial annual reports between2008–2014. Results indicated different effects of investment on future profitability in constraint firms in comparison to non-constraint firms. These findings largely concur with theoretical background. However, no evidence could be found for different effects of investment on future buy-and-hold market adjusted stock return in constraint and non-constraint firms.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>5</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2017</text>
+				<extent unit="pages">
+					<start>117</start>
+					<end>132</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21196_fe762e00ffd317ff29a57b8ca9c7f8cb.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2017.21196</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Conservatism and Stock Value Performance in Financial Crisis</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">hossein</namePart>
+				<namePart type="given">Etemadi</namePart>
+				<affiliation>Associate Professor, Tarbiat Modarres University faculty of Management &amp; Economics, Accounting Department</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">leila</namePart>
+				<namePart type="given">abdoli</namePart>
+				<affiliation>Msc Student, Tarbiat Modarres University Faculty of Management &amp; Economics, Accounting Department</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2017</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The main purpose of this research is to consider the relationship between conservatism and stock value performance (measured by stock return and abnormal returns) in financial crisis. Using information in the financial statements of 71 financial distressed companies and 71 financial non-distressed companies during the period 2004 to 2014. Criteria for the classification of financial distressed companies include: (1) three consecutive years of losses report, (2) dividend every year over the previous year more than 40% declined and (3) Article 141 of the Commercial Code. To test research hypotheses multivariate regression models is utilized. The results show that for the financial non-distressed companies, there is significant negative relation between conservatism with return stock and abnormal return stock. However, for the financial distressed companies, there is significant positive relation between conservatism with return stock and abnormal return stock. In other words, the financial distressed companies adopt more conservative policies than do the financial non-distressed companies, which shows loss of value of their stock is less than that of the financial non-distressed companies.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>5</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2017</text>
+				<extent unit="pages">
+					<start>133</start>
+					<end>150</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21179_b6d373dab6f9312feb8841be7009637d.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2017.21179</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Investigating the Effect of Advertisement Cost on the Financial Performance of the Firms Listed in Tehran Stock Exchange with the Mediating Role of Brand Equity</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mohsen</namePart>
+				<namePart type="given">Akbari</namePart>
+				<affiliation>Assistant Professor, Management Department, Faculty of Humanities and Literature, University of Guilan, Rasht-Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mahsa</namePart>
+				<namePart type="given">Farkhonde</namePart>
+				<affiliation>MSc Business Management Department, Faculty of Humanities and Literature ,University of Guilin, Rasht-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Masoomeh</namePart>
+				<namePart type="given">Ghasemi Shams</namePart>
+				<affiliation>MSc Business Management Department, Faculty of Humanities and Literature ,University of Guilin, Rasht-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2017</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Considering the fact that consumers are exposed to a lot of goods and services from different suppliers, advertisement is one of the most powerful ways to echo the voice of the firms in such environments. Since advertising is an expensive activity and has a burden on companies’ budgets, managers and shareholders always like to know if it has a rational and significant output regarding their investment and expenditures (they like to know if it has a significant return on investment). This paper, seeking to answer this question of managers and shareholders, has investigated the effect of advertising costs on the financial performance of the firms listed in Tehran Stock Exchange. We used data of 88 firms from 2010-2015 and multivariate regression to analyze this data. Q Tobin is used to measure brand equity. Results show that brand equity has a mediating role in the relationship between advertising costs and financial performance.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>5</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2017</text>
+				<extent unit="pages">
+					<start>151</start>
+					<end>162</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21175_f0f97dfb99c183f472f1e728f3ba457f.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2017.21175</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Investigating the Relationship between Global Development and the Level of Cash Holdings in Companies Listed in Tehran Stock Exchange Using Panel Threshold Regression</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">saeed</namePart>
+				<namePart type="given">farzadi</namePart>
+				<affiliation>Instructor of Department of Accounting Faculty, Management and Accounting Institute of Higher Education Imam Javad (AS) Yazd</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">saber</namePart>
+				<namePart type="given">molaei</namePart>
+				<affiliation>PhD Student of Economics Faculty of Administrative Sciences and Economics, University of Isfahan</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2017</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>During recent decades, corporate globalization and the new competitive environment have led to the formation of specific attention to exports as a crucial factor to the survival and growth of many companies. In this study, the sample was divided into two groups, local and global developed companies, and the relationship between level of cash holding and the level of global development was studied. In this regard, 88 companies listed in Tehran Stock Exchange during the period 2009 to 2014 were studied. The results of the tests indicate that the trend toward globalization plays a determining role in corporate cash holdings. Also based on the results, it was evident that an inverted U relationship between exports increased in line with global development and corporate cash holdings.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>5</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2017</text>
+				<extent unit="pages">
+					<start>163</start>
+					<end>176</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21184_d8ca790c315a578bb33e562cc0eebe1f.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2017.21184</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Determining the Optimal Hedge Ratio of Gold Coin Futures; A Comparative Approach</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">seyed babak</namePart>
+				<namePart type="given">ebrahimi</namePart>
+				<affiliation>Assistant Professor at the Department of Financial Engineering, Faculty of Industrial Engineering K.N.Toosi University of Technology, Tehran,Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">ali</namePart>
+				<namePart type="given">tasbihi</namePart>
+				<affiliation>MSc Student, Department of Financial Engineering, Faculty of Industrial Engineering K.N.Toosi University of Technology, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2017</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The aim of this study is to calculate the optimal hedge ratio of gold coin future contrasts with different econometric methods and compare their hedging effectiveness with each other. Used models are OLS, VAR and VECM that estimate the hedge ratio to be static over the time and multivariate GARCH models that estimate the hedge ratio to be vary over the time. The studied time period was from Tuesday, November 25, 2008 to Monday, June 01, 2015 and we have used the future and spot prices of gold coin in this period. To increase the correlation between future and spot returns we have calculated the optimal hedge ratio with weekly returns in addition to daily returns. Finally, the comparisons show that the use of multivariate GARCH models leads to better performance in daily returns but in weekly returns, static models have better results.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>5</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2017</text>
+				<extent unit="pages">
+					<start>177</start>
+					<end>196</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21181_e780055ea5fc15c63f3349a10a4cf61c.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2017.21181</identifier>
+			</mods>
+		</modsCollection>

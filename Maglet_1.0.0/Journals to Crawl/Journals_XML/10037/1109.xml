@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1395</year>
+	<month>11</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2017</year>
+	<month>2</month>
+	<day>1</day>
+</pubdate>
+<volume>10</volume>
+<number>3</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>تحلیل پارامتری رفتار تونل حلزونی دسترسی به تاج سد بختیاری با استفاده از روش عددی (نرم افزار FLAC3D)</title_fa>
+	<title>Parametric analysis of Bakhtiary dam crest access spiral tunnel behaviuor using numerical method (FLAC3D software)</title>
+	<subject_fa>ژئوتکنیک (مکانیک خاک و سنگ)</subject_fa>
+	<subject>Geotecnic</subject>
+	<content_type_fa>علمی پژوهشی</content_type_fa>
+	<content_type>s</content_type>
+	<abstract_fa>&lt;p&gt;سد بختیاری در استان لرستان بر روی رودخانه بختیاری واقع شده است. به منظور دسترسی به تاج سد بختیاری، حفر تونلی حلزونی شکل، مورد مطالعه قرار گرفته است. از این تونل در ترازهای مختلف، تونل های دسترسی دیگری منشعب شده و به گالری های تزریق مرتبط می گردند. با توجه به اینکه در زمان بهره برداری سد، نیز از این تونل استفاده خواهد شد و جزء تاسیسات دایمی سد خواهد بود، تعیین صحیح پارامترهای مکانیکی توده سنگ برای طراحی و تحلیل پایداری تونل از اهمیت بالایی برخوردار است. برای تحلیل پایداری سازه های زیرزمینی سنگی، پارامترهای مکانیکی و مهندسی توده سنگ باید شناسایی و تعیین شوند. خصوصیات دقیق توده سنگ فقط از آزمایش های مکانیک سنگی به دست می آیند. این آزمایش ها، به دلیل گران بودن و زمان بر بودن اغلب کم انجام می شوند. تحلیل پارامتری و اولویت بندی پارامترها، می تواند برای بهینه سازی روند آزمایش ها به کار رود. هم چنین، تحلیل پارامتری به جلوگیری از اشتباهات ناشی از حدس و گمان فردی کمک می کند. در این مقاله پس از معرفی زمین شناسی منطقه و تعیین مقطع بحرانی در مسیر تونل، با استفاده از نرم افزار FLAC3D (روش عددی تفاضل محدود) به مدل سازی و تحلیل پارامترهای مکانیکی توده سنگ اطراف تونل پرداخته شده است. پارامترهای استفاده شده در تحلیل شامل مدول الاستیسیته (E)، چسبندگی توده سنگ (C)، زاویه اصطکاک داخلی (ϕ)، ضریب تنش جانبی (K) و مقاومت کششی (&amp;sigmat) است. در نهایت با توجه به نتایج حاصل از مدل سازی های عددی و تحلیل پارامتری، پارامترهای موثر بر پایداری اولویت بندی شده اند. نتایج حاصل از تحلیل نشان داد که در پروژه حاضر، پارامتر مقاومت کششی توده سنگ بر پایداری تونل تاثیر ندارد و هم چنین به ترتیب اولیت پارامترهای E، ϕ، C و K در طراحی دارای اهمیت هستند. میزان آزمایش های برجا برای پارامترهای توده سنگ می تواند مطابق با میزان حساسیت و ترتیب اهمیت پارامترها توجیه شوند.&lt;/p&gt;
+</abstract_fa>
+	<abstract>&lt;p&gt;The Bakhtiari dam has located on Bakhtiari River in province of Lorestan. In order to access the crest of the dam, the excavation of a spiral tunnel is being studied. There are other access tunnels which are branched from this tunnel in different levels and are connected to grout galleries. According to the fact that this tunnel will also be used during the operation of the dam,The correct determination of mechanical parameters of rock masses for tunnel design and stability Analysis is very important. In order to analyse the stability of the underground rock structures, the mechanical and engineering parameters of the rock mass must be known. Accurate rock mass properties can only be obtained from large in situ tests. Such tests are seldom carried out as they are very expensive and time consuming. Sensitivity analysis of parameters can be applied for the optimisation of testing schemes. Sensitivity analysis helps to avoid mistakes due to subjective conjecture. In this article, after the introduction of regional geology and determination critical section on the tunnel path, the mechanical parameters of the rock mass surrounding the tunnel are modelled and analyzed by using FLAC3D software (numerical finite difference method). Parameters conducted in the analysis include the elasticity modulus (E), cohesion of the rock mass (C), friction angle (ϕ), coefficient of lateral stress (K) and tensile strength (&amp;sigmat). Ultimately, according to the result of numerical modelling and parametric analysis, parameters affecting the stability are prioritized. The result of analysis showed that in this project, tensile strength of the rock mass does not affect the stability of the tunnel, and Also, in order of priority, E, ϕ, C, k parameters are important in design. The amount of ﬁeld tests for rock parameters can be rationalised according to their sensitivity factors.&lt;/p&gt;
+</abstract>
+	<keyword_fa>سد بختیاری , تونل حلزونی , FLAC3D , تفاضل محدود , تحلیل پارامتری , </keyword_fa>
+	<keyword>Bakhtiari dam , Spiral tunnel , FLAC3D , Finite difference , Parametric analysis , </keyword>
+	<start_page>3628</start_page>
+	<end_page>3648</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-990-1&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name></first_name>
+	<middle_name></middle_name>
+	<last_name></last_name>
+	<suffix></suffix>
+	<first_name_fa>مسعود</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>عبداللهی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>masoud.abdollahi87@yahoo.com</email>
+	<code>10031947532846003553</code>
+	<orcid>10031947532846003553</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی شاهرود، دانشکده مهندسی معدن، نفت و ژئوفیزیک</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name></first_name>
+	<middle_name></middle_name>
+	<last_name></last_name>
+	<suffix></suffix>
+	<first_name_fa>سید محمد اسماعیل</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>جلالی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>jalalisme@shahroodut.ac.ir</email>
+	<code>10031947532846003554</code>
+	<orcid>10031947532846003554</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی شاهرود. دانشیار دانشکده مهندسی معدن نفت و ؤئوفیزیک</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name></first_name>
+	<middle_name></middle_name>
+	<last_name></last_name>
+	<suffix></suffix>
+	<first_name_fa>جواد</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>احمدی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>ahmadico2003@yahoo.com</email>
+	<code>10031947532846003555</code>
+	<orcid>10031947532846003555</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>شرکت سپاسد، تهران، ایران</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXDOISerialArticleWorkRegistrationMessage xmlns:cl="http://www.medra.org/DOIMetadata/2.0/Citations" xmlns="http://www.editeur.org/onix/DOIMetadata/2.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.editeur.org/onix/DOIMetadata/2.0 http://www.medra.org/schema/onix/DOIMetadata/2.0/ONIX_DOIMetadata_2.0.xsd">
+	<Header>
+		<FromCompany>Sinaweb</FromCompany>
+		<FromPerson>Sinaweb DOI</FromPerson>
+		<FromEmail>doi@sinaweb.net</FromEmail>
+		<ToCompany>mEDRA</ToCompany>
+		<SentDate>20200723</SentDate>
+		<MessageNote>DOI Registration</MessageNote>
+		<NotificationResponse>01</NotificationResponse>
+	</Header>
+
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>.9.34.3</DOI>
+			<DOIWebsiteLink>http://iieshrm.ir/article-1-197-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Human Resource Management in Oil Industry</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText></TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>197</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Institute for International Energy Studies</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>197</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>9</JournalVolumeNumber>
+				<JournalIssueNumber>34</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201803</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Introducing a Model Organizational Silence Management at the Social Security Organization</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>naser Poursadegh</PersonName>
+						<PersonNameInverted>Poursadegh, naser</PersonNameInverted>
+						<NamesBeforeKey>naser</NamesBeforeKey>
+						<KeyNames>Poursadegh</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>naser Asghari</PersonName>
+						<PersonNameInverted>Asghari, naser</PersonNameInverted>
+						<NamesBeforeKey>naser</NamesBeforeKey>
+						<KeyNames>Asghari</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>saeed khodabandeh</PersonName>
+						<PersonNameInverted>khodabandeh, saeed</PersonNameInverted>
+						<NamesBeforeKey>saeed</NamesBeforeKey>
+						<KeyNames>khodabandeh</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201803</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2018</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>naser Poursadegh</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>.9.34.31</DOI>
+			<DOIWebsiteLink>http://iieshrm.ir/article-1-257-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Human Resource Management in Oil Industry</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText></TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>257</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Institute for International Energy Studies</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>257</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>9</JournalVolumeNumber>
+				<JournalIssueNumber>34</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201803</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Examining of The effect of staff's Trust to the managers on Organizational Silence 
+(Case: National Iranian Oil Products Distribution Company)</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Narjes Khatoon Samari</PersonName>
+						<PersonNameInverted>Samari, Narjes Khatoon</PersonNameInverted>
+						<NamesBeforeKey>Narjes Khatoon</NamesBeforeKey>
+						<KeyNames>Samari</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Hossein Safarzadeh</PersonName>
+						<PersonNameInverted>Safarzadeh, Hossein</PersonNameInverted>
+						<NamesBeforeKey>Hossein</NamesBeforeKey>
+						<KeyNames>Safarzadeh</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201803</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2018</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Hossein Safarzadeh</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>.9.34.53</DOI>
+			<DOIWebsiteLink>http://iieshrm.ir/article-1-258-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Human Resource Management in Oil Industry</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText></TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>258</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Institute for International Energy Studies</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>258</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>9</JournalVolumeNumber>
+				<JournalIssueNumber>34</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201803</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Designing a Model for Turnover Reduction
+In Iranian Oil Terminals Company (IOTC)</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Mehdi Alirahimi</PersonName>
+						<PersonNameInverted>Alirahimi, Mohammad Mehdi</PersonNameInverted>
+						<NamesBeforeKey>Mohammad Mehdi</NamesBeforeKey>
+						<KeyNames>Alirahimi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Amirhossein Amirkhani</PersonName>
+						<PersonNameInverted>Amirkhani, Amirhossein</PersonNameInverted>
+						<NamesBeforeKey>Amirhossein</NamesBeforeKey>
+						<KeyNames>Amirkhani</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Reza Rasouli</PersonName>
+						<PersonNameInverted>Rasouli, Reza</PersonNameInverted>
+						<NamesBeforeKey>Reza</NamesBeforeKey>
+						<KeyNames>Rasouli</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201803</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2018</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mohammad Mehdi Alirahimi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>.9.34.83</DOI>
+			<DOIWebsiteLink>http://iieshrm.ir/article-1-259-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Human Resource Management in Oil Industry</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText></TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>259</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Institute for International Energy Studies</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>259</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>9</JournalVolumeNumber>
+				<JournalIssueNumber>34</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201803</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>4</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Studying the influential variables in Designing Pattern of Recruitment and Selection of Human Resources Based on Merit System in Petrochemical Companies</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Hassan Rangriz</PersonName>
+						<PersonNameInverted>Rangriz, Hassan</PersonNameInverted>
+						<NamesBeforeKey>Hassan</NamesBeforeKey>
+						<KeyNames>Rangriz</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Bijan Abdollahi</PersonName>
+						<PersonNameInverted>Abdollahi, Bijan</PersonNameInverted>
+						<NamesBeforeKey>Bijan</NamesBeforeKey>
+						<KeyNames>Abdollahi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Hasanreza Zeinabadi</PersonName>
+						<PersonNameInverted>Zeinabadi, Hasanreza</PersonNameInverted>
+						<NamesBeforeKey>Hasanreza</NamesBeforeKey>
+						<KeyNames>Zeinabadi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>4</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Nazanin Teimouri</PersonName>
+						<PersonNameInverted>Teimouri, Nazanin</PersonNameInverted>
+						<NamesBeforeKey>Nazanin</NamesBeforeKey>
+						<KeyNames>Teimouri</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201803</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2018</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Nazanin Teimouri</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>.9.34.115</DOI>
+			<DOIWebsiteLink>http://iieshrm.ir/article-1-260-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Human Resource Management in Oil Industry</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText></TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>260</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Institute for International Energy Studies</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>260</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>9</JournalVolumeNumber>
+				<JournalIssueNumber>34</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201803</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>5</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Identifying and Ranking Factors Affecting Organizational Agility Based on Outsourcing
+(Case study: Semnan Province Gas Company)</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Alireza Avani</PersonName>
+						<PersonNameInverted>Avani, Alireza</PersonNameInverted>
+						<NamesBeforeKey>Alireza</NamesBeforeKey>
+						<KeyNames>Avani</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammadreza Shahab</PersonName>
+						<PersonNameInverted>Shahab, Mohammadreza</PersonNameInverted>
+						<NamesBeforeKey>Mohammadreza</NamesBeforeKey>
+						<KeyNames>Shahab</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Abolfazl Danaei</PersonName>
+						<PersonNameInverted>Danaei, Abolfazl</PersonNameInverted>
+						<NamesBeforeKey>Abolfazl</NamesBeforeKey>
+						<KeyNames>Danaei</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201803</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2018</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mohammadreza Shahab</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>.9.34.145</DOI>
+			<DOIWebsiteLink>http://iieshrm.ir/article-1-261-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Human Resource Management in Oil Industry</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText></TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>261</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Institute for International Energy Studies</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>261</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>9</JournalVolumeNumber>
+				<JournalIssueNumber>34</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201803</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>6</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Investigating the role of green intellectual capital in developing different type of organizational innovation with regard to the environmental aspect
+(Study in oil, gas and petrochemical in Khuzestan province)</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Maryam Darvishi</PersonName>
+						<PersonNameInverted>Darvishi, Maryam</PersonNameInverted>
+						<NamesBeforeKey>Maryam</NamesBeforeKey>
+						<KeyNames>Darvishi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Alireza Ziaee Bideh</PersonName>
+						<PersonNameInverted>Ziaee Bideh, Alireza</PersonNameInverted>
+						<NamesBeforeKey>Alireza</NamesBeforeKey>
+						<KeyNames>Ziaee Bideh</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201803</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2018</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Maryam Darvishi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>.9.34.171</DOI>
+			<DOIWebsiteLink>http://iieshrm.ir/article-1-262-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Human Resource Management in Oil Industry</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText></TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>262</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Institute for International Energy Studies</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>262</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>9</JournalVolumeNumber>
+				<JournalIssueNumber>34</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201803</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>7</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Measuring the Intellectual Capital in Iranian Oil Terminals Company to Identify the Ways of Maximization of its Value</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Elham Norouzi C.A</PersonName>
+						<PersonNameInverted>Norouzi C.A, Elham</PersonNameInverted>
+						<NamesBeforeKey>Elham</NamesBeforeKey>
+						<KeyNames>Norouzi C.A</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Seyed Aligholi Roshan</PersonName>
+						<PersonNameInverted>Roshan, Seyed Aligholi</PersonNameInverted>
+						<NamesBeforeKey>Seyed Aligholi</NamesBeforeKey>
+						<KeyNames>Roshan</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Milad Vafadar</PersonName>
+						<PersonNameInverted>Vafadar, Milad</PersonNameInverted>
+						<NamesBeforeKey>Milad</NamesBeforeKey>
+						<KeyNames>Vafadar</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201803</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2018</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Elham Norouzi C.A</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>.9.34.195</DOI>
+			<DOIWebsiteLink>http://iieshrm.ir/article-1-263-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Human Resource Management in Oil Industry</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText></TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>263</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Institute for International Energy Studies</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>263</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>9</JournalVolumeNumber>
+				<JournalIssueNumber>34</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201803</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>8</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Evaluating Psychological Empowerment of Managers and its Effects On their Attitudes toward Strategic Planning in theDepartment of Human Resources Development of National Iranian Oil Company</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Jafar Beykzad</PersonName>
+						<PersonNameInverted>Beykzad, Jafar</PersonNameInverted>
+						<NamesBeforeKey>Jafar</NamesBeforeKey>
+						<KeyNames>Beykzad</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Seyed Nader Rezvan</PersonName>
+						<PersonNameInverted>Rezvan, Seyed Nader</PersonNameInverted>
+						<NamesBeforeKey>Seyed Nader</NamesBeforeKey>
+						<KeyNames>Rezvan</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Ali Yavari</PersonName>
+						<PersonNameInverted>Yavari, Ali</PersonNameInverted>
+						<NamesBeforeKey>Ali</NamesBeforeKey>
+						<KeyNames>Yavari</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201803</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2018</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Seyed Nader Rezvan</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+	
+</ONIXDOISerialArticleWorkRegistrationMessage>
+ 
+  
+  
+  
+  
+ 

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشکده مدیریت دانشگاه تهران</PublisherName>
+				<JournalTitle>مدیریت صنعتی</JournalTitle>
+				<Issn>2008-5885</Issn>
+				<Volume>6</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2014</Year>
+					<Month>12</Month>
+					<Day>22</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Performance assessment and ranking of Iranian insurance companies using an integrated model with experts preferences</ArticleTitle>
+<VernacularTitle>ارائة مدل ترکیبی برای ارزیابی عملکرد و رتبه‌بندی شرکت‌های بیمة ایران با استفاده از نظر خبرگان</VernacularTitle>
+			<FirstPage>791</FirstPage>
+			<LastPage>807</LastPage>
+			<ELocationID EIdType="pii">50702</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/imj.2014.50702</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>هاشم</FirstName>
+					<LastName>عمرانی</LastName>
+<Affiliation>استادیار مهندسی صنایع، دانشگاه صنعتی ارومیه، ارومیه، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>رامین</FirstName>
+					<LastName>قاری زاده بیرق</LastName>
+<Affiliation>دانشجوی کارشناسی ارشد مهندسی صنایع، دانشگاه صنعتی ارومیه، ارومیه، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>سعید</FirstName>
+					<LastName>شفیعی کلیبری</LastName>
+<Affiliation>کارشناس مهندسی صنایع، دانشگاه پیام نور تبریز، تبریز، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2013</Year>
+					<Month>10</Month>
+					<Day>09</Day>
+				</PubDate>
+			</History>
+		<Abstract>This paper presents an integrated Data envelopment analysis (DEA) – Principal component analysis (PCA) – Analytical hierarchy process (AHP) to achieve the efficiency scores and ranks of the insurance companies. Fourteen insurance companies with thirteen input and output variables have been considered for the purpose of this study. Since the DEA model is sensitive to the number of variables in comparison to number of DMUs, to reduce data dimension, the PCA method is used. Obviously, the final ranks from PCA-DEA model is very subjective and only based on the pattern and distribution of data sets. Therefore, for incorporating the expert preferences, the AHP model is combined with two previous models and the final ranking is done by the integrated DEA-PCA-AHP and PCA-DEA model. The results of the model show that DANA, RAZI and DEY have become the best rank among insurance companies.
+
+
+
+ </Abstract>
+			<OtherAbstract Language="FA">در این مقاله، مدلی ترکیبی مبتنی بر روش‌های تحلیل سلسله‌مراتبی (AHP)- تحلیل مؤلفه‌های اصلی (PCA)- تحلیل پوششی داده‌ها (DEA) برای ارزیابی عملکرد شرکت‌های بیمه در ایران ارائه می‌شود و با استفاده از آن، چهارده شرکت بیمه با سیزده شاخص استاندارد، رتبه‌بندی می‌شوند. با توجه به ضعف مدل DEA، در مسائلی با متغیرهای زیاد و واحدهای تصمیم کم، از روش PCA برای کاهش بعد مسئله استفاده می‌شود. از طرفی، نتایج رتبه‌بندی به‌دست‌آمده از روش PCA-DEA، کاملاً عینی و تنها بر مبنای الگوی داده‌هاست؛ بنابراین، با استفاده از مدل AHP، نظرهای کارشناسی را در رتبه­بندی وارد می‌کنیم. در انتها، رتبه­بندی، یک­بار به­وسیلة مدل پیشنهادی و یک­بار با مدل PCA-DEA انجام و نتایج این دو روش، با هم مقایسه می­شوند و دربارة آنها بحث می‌‌‌‌‌‌‌شود. نتایج مدل ارائه­شده نشان می­دهد که سه شرکت بیمة دانا، رازی و دی، رتبه‌های اول تا سوم را به­دست می­آورند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">تحلیل پوششی داده‌ها</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تحلیل سلسله‌مراتبی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تحلیل مؤلفه‌های اصلی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شرکت‌های بیمة ایرانی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://imj.ut.ac.ir/article_50702_10d6e0ca5dfa0915e5d55fc7bcd8c14e.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

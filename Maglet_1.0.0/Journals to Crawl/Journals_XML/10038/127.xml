@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>9</Volume>
+				<Issue>شماره 3 و 4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>02</Month>
+					<Day>19</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Landslide potential mapping using fuzzy logic
+(case study: a part of the Nekarod watershed)</ArticleTitle>
+<VernacularTitle>پهنه‌بندی استعداد زمین‌لغزش با استفاده از روش منطق‌فازی (مطالعه موردی: بخشی از حوزه‌آبخیز نکارود)</VernacularTitle>
+			<FirstPage>19</FirstPage>
+			<LastPage>30</LastPage>
+			<ELocationID EIdType="pii">69575</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>فاطمه</FirstName>
+					<LastName>بلالی</LastName>
+<Affiliation>دانش­آموخته کارشناسی ارشد آبخیزداری، دانشگاه علوم کشاورزی و منابع طبیعی ساری</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>قربان</FirstName>
+					<LastName>وهابزاده</LastName>
+<Affiliation>دانشیار گروه آبخیزداری، دانشگاه علوم کشاورزی و منابع طبیعی ساری و</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حمیدرضا</FirstName>
+					<LastName>پورقاسمی</LastName>
+<Affiliation>. استادیار علوم و مهندسی آبخیزداری، بخش مهندسی منابع طبیعی و محیط زیست، دانشکده کشاورزی، دانشگاه شیراز</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>میلاد</FirstName>
+					<LastName>فروزانفر</LastName>
+<Affiliation>دانش­آموخته کارشناسی ارشد آبخیزداری، دانشگاه علوم کشاورزی و منابع طبیعی ساری</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2014</Year>
+					<Month>07</Month>
+					<Day>06</Day>
+				</PubDate>
+			</History>
+		<Abstract>The purpose of this study is assessment landslide susceptibility in the central part of the Nekarod watershed is located in the mazandaran province using fuzzy logic.For this purpose, initially slide points using aerial photographs and field visits identified and followed landslides distributionmap was prepared.Then each of the factors influencing landslide occurrence such as (slope degree, aspect, plan curvature, altitude, geology, land use, distance from faults, distance from roads, and distance from drainage) as a data layers in environment GIS digital and in order to perform the analysis based on fuzzy sets theory was used.Fuzzy analysis using the software Matlab 7.1, after determination membership functions for each of the factors influencing in landslide occurrence was performed and then this software outputs that degree of sensitivity calculated is for each pixel in map the study area to Arc Map environment transferred and landslide susceptibility zonation map using triangular membership function was prepared.Assessment results showed that landslide susceptibility map produced using triangular membership function, with qualitative together index (0/41483) is have high accuracy in the study area.</Abstract>
+			<OtherAbstract Language="FA">هدف از این پژوهش، ارزیابی استعداد زمین­لغزش در بخش مرکزی حوزه­آبخیز نکارود واقع در استان مازندران با استفاده از روش منطق ­فازی می­باشد. به این منظور، ابتدا نقاط لغزشی با استفاده از عکس­های هوایی و بازدیدهای میدانی مشخص و در پی آن نقشه پراکنش زمین­لغزش­ها تهیه گردید. سپس هر یک از عامل­های مؤثر بر وقوع زمین­لغزش از قبیل (درجه­شیب، جهت شیب، شکل­شیب، ارتفاع از سطح دریا، سنگ­شناسی، کاربری اراضی، فاصله از گسل، فاصله از جاده و فاصله از شبکه آبراهه) به عنوان یک لایه اطلاعاتی در محیط GIS رقومی و به منظور انجام تحلیل­های مبتنی بر تئوری مجموعه­های فازی، استفاده گردید. تحلیل­های فازی با استفاده از نرم‌افزار Matlab 7.1، پس از تعیین توابع­عضویت برای هر یک از عامل­های تأثیرگذار در وقوع زمین­لغزش، صورت پذیرفت و سپس خروجی این نرم­افزار که درجه حساسیت محاسبه شده برای هر پیکسل در نقشه محدوده مورد مطالعه می­باشد، به محیط Arc Map منتقل و نقشه پهنه­بندی استعداد زمین­لغزش با استفاده از تابع عضویت ­مثلثی تهیه گردید. نتایج ارزیابی نشان داد که نقشه استعداد زمین­لغزش تهیه شده با استفاده از تابع عضویت ­مثلثی، با شاخص­جمع کیفی(4148/0) دارای دقت و صحت بالایی در منطقه مورد ­مطالعه می­باشد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">زمین‌لغزش</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">منطق‌ فازی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تابع ‌عضویت ‌مثلثی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">حوزه ‌آبخیز نکارود</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">GIS</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://www.jiraeg.ir/article_69575_6b5e63df074ef5a0c33f33792743c1fd.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

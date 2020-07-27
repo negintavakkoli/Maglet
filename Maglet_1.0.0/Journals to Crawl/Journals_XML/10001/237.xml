@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Determining the Optimal Hedge Ratio of Gold Coin Futures; A Comparative Approach</ArticleTitle>
+<VernacularTitle>تعیین نسبت بهینۀ پوشش ریسک قراردادهای آتی سکه: رهیافت مقایسه‌ای</VernacularTitle>
+			<FirstPage>177</FirstPage>
+			<LastPage>196</LastPage>
+			<ELocationID EIdType="pii">21181</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21181</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>سیدبابک</FirstName>
+					<LastName>ابراهیمی</LastName>
+<Affiliation>استادیار، دانشگاه صنعتی خواجه ‌نصیرالدین طوسی، دانشکده مهندسی صنایع، گروه مهندسی مالی</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>علی</FirstName>
+					<LastName>تسبیحی</LastName>
+<Affiliation>دانشجوی کارشناسی ارشد مهندسی مالی،دانشگاه صنعتی خواجه‌نصیرالدین طوسی، دانشکده مهندسی صنایع، گروه مهندسی مالی</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>11</Month>
+					<Day>01</Day>
+				</PubDate>
+			</History>
+		<Abstract>The aim of this study is to calculate the optimal hedge ratio of gold coin future contrasts with different econometric methods and compare their hedging effectiveness with each other. Used models are OLS, VAR and VECM that estimate the hedge ratio to be static over the time and multivariate GARCH models that estimate the hedge ratio to be vary over the time. The studied time period was from Tuesday, November 25, 2008 to Monday, June 01, 2015 and we have used the future and spot prices of gold coin in this period. To increase the correlation between future and spot returns we have calculated the optimal hedge ratio with weekly returns in addition to daily returns. Finally, the comparisons show that the use of multivariate GARCH models leads to better performance in daily returns but in weekly returns, static models have better results.</Abstract>
+			<OtherAbstract Language="FA">هدف این پژوهش، محاسبۀ نسبت بهینۀ پوشش ریسک قرارداد آتی سکۀ بهار آزادی با استفاده از روش‌های مختلف اقتصادسنجی و مقایسۀ کارایی نتایج آنها با یکدیگر است. الگو‌های استفاده‌شده عبارت است از OLS، VAR، VECM که نسبت بهینۀ پوشش ریسک را به‌صورت ایستا و ثابت در طول زمان تخمین می‌زند و الگو‌های چندمتغیرۀ گارچ شامل CCC-GARCH، DCC-GARCH انگل و DCC-GARCH تز و تسو است که نسبت بهینۀ پوشش ریسک را به‌صورت متغیر در طول زمان تخمین می‌زند. دورۀ زمانی مدّنظر از تاریخ 05/09/1387 تا 11/03/1394 است و در این بازه از قیمت‌های نقدی و آتی سکۀ بهار آزادی استفاده شده است. برای افزایش همبستگی بین بازده‌های آتی و نقدی در محاسبۀ نسبت بهینۀ پوشش ریسک علاوه بر بازده روزانه از بازده هفتگی نیز استفاده‌ شده است. درنهایت، مقایسۀ معیار کارایی برای الگو‌های مختلف نشان می‌دهد استفاده از الگو‌های چندمتغیرۀ گارچ در بازده‌های روزانه، عملکرد بهتری دارد؛ اما در بازده‌های هفتگی این الگو­ها، کارایی بیشتری نسبت به الگو‌های ایستا نمی‌تواند حاصل کنند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">حداقل واریانس</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">قرارداد آتی سکه</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">کارایی پوشش ریسک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نسبت بهینۀ پوشش ریسک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">MGARCH</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21181_e780055ea5fc15c63f3349a10a4cf61c.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

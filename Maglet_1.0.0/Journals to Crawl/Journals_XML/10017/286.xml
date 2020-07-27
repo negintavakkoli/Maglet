@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Test</title>
+			</titleInfo>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>فصلنامه مدیریت نظامی</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه افسری امام علی(ع)</publisher>
+			</originInfo>
+			<identifier type="issn">1735-5699</identifier>
+			<part>
+				<detail type="volume">
+					<number>13</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>50</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>11</start>
+					<end>34</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://jmm.iranjournals.ir/article_3323_a87f7ccd96ad3c23098b30a703e0e8a5.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Abstract</title>
+			</titleInfo>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>فصلنامه مدیریت نظامی</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه افسری امام علی(ع)</publisher>
+			</originInfo>
+			<identifier type="issn">1735-5699</identifier>
+			<part>
+				<detail type="volume">
+					<number>13</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>50</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>35</start>
+					<end>70</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://jmm.iranjournals.ir/article_3324_cd3ff3cfafba4a8047ecf5d47f339390.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Abstract</title>
+			</titleInfo>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>فصلنامه مدیریت نظامی</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه افسری امام علی(ع)</publisher>
+			</originInfo>
+			<identifier type="issn">1735-5699</identifier>
+			<part>
+				<detail type="volume">
+					<number>13</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>50</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>71</start>
+					<end>110</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://jmm.iranjournals.ir/article_3325_f26133d328562cedbee15433e85e3250.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Abstract</title>
+			</titleInfo>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Abstract</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>فصلنامه مدیریت نظامی</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه افسری امام علی(ع)</publisher>
+			</originInfo>
+			<identifier type="issn">1735-5699</identifier>
+			<part>
+				<detail type="volume">
+					<number>13</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>50</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>111</start>
+					<end>140</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://jmm.iranjournals.ir/article_3326_8ff04a9d3877bab0e00e6ba69352eee8.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Abstract</title>
+			</titleInfo>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Abstract</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>فصلنامه مدیریت نظامی</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه افسری امام علی(ع)</publisher>
+			</originInfo>
+			<identifier type="issn">1735-5699</identifier>
+			<part>
+				<detail type="volume">
+					<number>13</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>50</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>141</start>
+					<end>174</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://jmm.iranjournals.ir/article_3327_54e52251dcaa88f8af43f232d70b7199.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Abstract</title>
+			</titleInfo>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>فصلنامه مدیریت نظامی</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه افسری امام علی(ع)</publisher>
+			</originInfo>
+			<identifier type="issn">1735-5699</identifier>
+			<part>
+				<detail type="volume">
+					<number>13</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>50</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>175</start>
+					<end>202</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://jmm.iranjournals.ir/article_3328_f4af859ed0195101123be9046063464d.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		</modsCollection>

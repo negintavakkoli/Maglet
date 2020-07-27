@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-27T00:11:17Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://www.jiraeg.ir/?_action=export&amp;rf=summon&amp;issue=8767</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مطالعه عوامل زمین‌شناسی موثر بر وقوع زمین لغزش‌های منطقه زمان آباد، جنوب شرق همدان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد حسین</given_name>
+												<surname>قبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>پریا</given_name>
+												<surname>بهزادتبار</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سعید</given_name>
+												<surname>خدابخش</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>لیلی</given_name>
+												<surname>ایزدی&shy;کیان</surname>
+											</person_name></contributors>
+									<abstract>شناخت عوامل زمین­شناسی موثر بر وقوع زمین­لغزش­ها به منظور شناخت سازوکار آن­­ها ­و ­ارائه ­روش­های تثبیت دارای اهمیت ویژه‌ای ­است. در این پژوهش با بازدیدهای صحرایی، زمین­لغزش­های منطقه زمان­آباد در جنوب شرق همدان، در 10 ایستگاه، شناسایی شده و طی ­انجام آزمون­های آزمایشگاهی ترکیب کانی­شناسی، خصوصیات فیزیکی و مکانیکی مواد تشکیل دهنده لغزش­ها تعیین گردیده‏ است. سپس با استفاده از نرم افزار(slide ver5.014.2004)  پایداری آنها در شرایط استاتیکی و دینامیکی مورد تجزیه و تحلیل قرارگرفته است. خاک‏های تشکیل دهنده لغزش­ها­ ، نهشته­های انتقال­یافته یک کانال دیرینه می­باشند که در آن­ها هفت لایه تشخیص داده شده است. از هفت لایه مذکور براساس رده بندی متحد خاک چهار لایه­SM-SP,SW ­ SC,SP-SM,و سه­لایهCL نامگذاری گردیده­اند. کانی­های رسی موجود در لایه­های رسی (CL) ایلیت، کائولینیت و مونت‌موریلونیت می‌باشند. مهم­ترین عوامل لغزش­های موجود ترکیب کانی‌شناسی رس­ها، پنجه شویی شیب، گسل­های فعال، ناهمگنی مواد شیب و وجود خزش می‏باشد. با توجه به تجزیه و تحلیل انجام شده شیب­های مستعد گسیختگی ناهمگن هستند. ایستگاه های اول و چهارم که ناهمگنی بیشتری ­دارند کمترین ضریب اطمینان را در حالت استاتیکی نشان می­دهند. به جز ایستگاه‌های 5، 9 و 10 سایر ایستگاه‏ها در حالت دینامیکی ضریب اطمینان کمتر از یک دارند.</abstract>
+									<keywords>
+									
+											<keyword>زمین شناسی</keyword>
+											<keyword>زمین لغزش</keyword>
+											<keyword>نرم افزار (ver 5.014) slide</keyword>
+											<keyword>روستای زمان آباد</keyword>
+											<keyword>همدان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>14</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68347_7f8ef51d7782cf08b91c24753acf07bb.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تعیین اندازه بلوک‌ها در سنگ‌های اولترابازیک ارتفاعات جنوب شهر مشهد</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>زهره</given_name>
+												<surname>نوربخش رزمی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>غلامرضا</given_name>
+												<surname>لشکری پور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>غفوری</surname>
+											</person_name></contributors>
+									<abstract>اولترابازیک‌های جنوب شهر مشهد بخش مهمی‌‌از افیولیت‌های مشهد را تشکیل می‌دهند. به دلیل افزایش قیمت زمین و توسعه شهر مشهد در ارتفاعات جنوبی آن و افزایش ساخت و سازها در این منطقه، مطالعه توده سنگ های اولترابازیک این منطقه و سیستم درزه‌های آن از لحاظ خصوصیات مهندسی توده‌سنگ و تأثیر آنها در ناپایداری شیب‌ها و ترانشه‌های ایجاد شده در این محدوده از اهمیت بسزایی برخوردار شده است. در این مقاله برای محاسبه RQD این سنگ‌ها سه روش تجربی مختلف استفاده شده است که نتایج حاصل از آنها همخوانی مناسبی را با هم نشان می‌‌دهند. علاوه بر تعیین شاخص کیفیت توده‌سنگ، پارامترهایی از قبیل تراکم وزنی درزه (Wjd) و حجم بلوک (Vb) نیز محاسبه شده که مشخصات بهتری از اندازه بلوک را ارائه می‌‌دهند. اندازه بلوک به عنوان یک داده ورودی بسیار مهم در بسیاری از محاسبات مهندسی سنگ است و با استفاده از روش‌های تجربی و مدلسازی‌های مختلف قابل تعیین می‌‌باشد.</abstract>
+									<keywords>
+									
+											<keyword>اندازه بلوک</keyword>
+											<keyword>اولترابازیک</keyword>
+											<keyword>خط برداشت</keyword>
+											<keyword>حجم بلوک</keyword>
+											<keyword>تراکم وزنی درزه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>15</first_page>
+										<last_page>26</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68348_e6120f5d46606b59c61eee49a20db455.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر خواص بافتی بر ویژگی‌های مهندسی کنگلومراهای منطقه فامنین، شمال خاوری استان همدان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>غلامرضا</given_name>
+												<surname>خانلری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مجتبی</given_name>
+												<surname>حیدری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مهران</given_name>
+												<surname>نوری</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>بهروز</given_name>
+												<surname>رفیعی</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>موسی</given_name>
+												<surname>اسفندیاری</surname>
+											</person_name></contributors>
+									<abstract>برای درک ارتباط میان ویژگی­های مهندسی با ویژگی­های سنگ­شناسی، تعداد هشت نمونه از کنگلومراهای سازند قم در منطقه فامنین واقع در شمال­خاور استان همدان گردآوری شد. نمونه­ها برای تعیین مقاومت فشاری تک­محوری، شاخص مقاومت بار نقطه­ای، مدول الاستیسیته، تخلخل و چگالی خشک و اشباع تحت آزمون­های آزمایشگاهی قرار گرفتند. همچنین برش‌های نازک میکروسکوپی نمونه­ها، برای تعیین ویژگی­های­ سنگ­شناسی، پارامترهای بافتی و کانی­شناسی، مورد بررسی قرار گرفتند. در این پژوهش بر پایه نتایج تجزیه و تحلیل­های آماری، روابط پیش­بینی کننده چند­متغیره برای برآورد ویژگی­های فیزیکی و مکانیکی با به­کارگیری ویژگی­های سنگ­شناسی و بافتی توسعه داده شده­اند. این مطالعه نشان می‌دهد که تاثیر پارامترهای بافتی بر روی ویژگی­های مهندسی، مهم­تر از ترکیب کانی­شناسی می­باشد. همچنین مشخص گردید که آرایش هم‌جوار P&lt;sub&gt;p&lt;/sub&gt;, Packing Proximity))، آرایش چگالی (Packing Density (P&lt;sub&gt;d&lt;/sub&gt;,، شکل دانه­ها، میانگین اندازه دانه­ها و مقدار سیمان و زمینه، ویژگی­های بافتی هستند که تاثیر چشمگیری بر روی ویژگی‌های فیزیکی و مکانیکی نمونه­ها دارند. در مطالعه حاضر رگرسیون چند­متغیره خطی در چهار گام مختلف، شامل ترکیبات مختلفی از ویژگی­های سنگ­شناسی به عنوان پارامترهای ورودی برای هر ویژگی مهندسی، مورد استفاده قرار­گرفته است. سرانجام بهترین رابطه­ها برای پیش­بینی ویژگی­های مهندسی ارائه شده است.</abstract>
+									<keywords>
+									
+											<keyword>کنگلومرا</keyword>
+											<keyword>ویژگی‌های سنگ‌شناسی و مهندسی</keyword>
+											<keyword>رگرسیون چند‌متغیره ‌خطی</keyword>
+											<keyword>سازند قم</keyword>
+											<keyword>فامنین</keyword>
+											<keyword>همدان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>27</first_page>
+										<last_page>42</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68349_6e619407d9e7a881d1da57d424aa6e30.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>اثر خصوصیات توده‎سنگ بر خردایش ناشی از آتشباری معادن سنگ آهن ایران مرکزی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مجید</given_name>
+												<surname>اکبری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>غلامرضا</given_name>
+												<surname>لشکری پور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علیرضا</given_name>
+												<surname>یاراحمدی بافقی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمد</given_name>
+												<surname>غفوری</surname>
+											</person_name></contributors>
+									<abstract>خصوصیات توده‎سنگ یکی از فاکتورهای مهم و مؤثر بر نتایج حاصل از آتشباری می‎باشد. در این پژوهش با توجه به اهمیت خردایش بهینه در معدن‎کاری سعی بر این است تا اثر این خصوصیات بر توزیع اندازه سنگ‌های خرد شده در معادن مورد مطالعه شامل  معادن سنگ آهن چغارت، چادرملو و سه چاهون مورد بررسی قرار گیرد. جهت رسیدن به این هدف خصوصیات توده‎سنگ در طول حدود 1961 متر خط پیمایش و 1771 متر پروفیل لرزه‎ای در غالب 51 بلوک انفجاری مورد ارزیابی قرار گرفت. از طرفی جهت اندازه‎گیری خردایش حاصل از آتشباری از روش پردازش تصاویر رقومی استفاده شد. بدین منظور با پردازش 1500 تصویر گرفته شده از سطح کپه‎های انفجاری، توزیع اندازه سنگ‌های خرد شده بدست آمد. بررسی تغییرات خردایش با توجه به تغییرات خصوصیات توده‎سنگ نشان داد که با افزایش فاصله‎داری ناپیوستگی‎ها، تداوم ناپیوستگی‎ها، بازشدگی ناپیوستگی‎ها، افزایش سرعت موج طولی در سنگ بکر، افزایش زبری و مواجی بودن سطح ناپیوستگی‎ها، افزایش مقاومت تراکمی تک محوری سنگ بکر و افزایش عمود بودن ناپیوستگی‎ها بر سطح آزاد بلوک انفجاری اندازه مصالح حاصل از آتشباری نیز افزایش می‎یابد.  نتایج این پژوهش بیانگر تأثیر خصوصیات توده‎سنگ به اندازه مصالح حاصل از آتشباری می‎باشد.</abstract>
+									<keywords>
+									
+											<keyword>توده‎سنگ</keyword>
+											<keyword>خردایش بهینه</keyword>
+											<keyword>آتشباری</keyword>
+											<keyword>ناپیوستگی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>43</first_page>
+										<last_page>56</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68350_5e200b8d1b44c1f290595f367d2a95fb.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>پیش بینی دوام طولانی مدت ماسه سنگ‌های سازند قرمز بالایی در مقابل پدیده ذوب - انجماد و هوازدگی نمک با استفاده از مدل تابع تخریب</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد حسین</given_name>
+												<surname>قبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رضا</given_name>
+												<surname>بابازاده</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>موسی</given_name>
+												<surname>اسفندیاری</surname>
+											</person_name></contributors>
+									<abstract>سنگ‌هایی که در معرض فرایندهای هوازدگی از قبیل ذوب - انجماد و تبلور نمک قرار می‌گیرند یکپارچگی خود را از دست داده و در طی زمان معینی تخریب می‌شوند. با افزایش تعداد و شدت چرخه‌های هوازدگی میزان این تخریب نیز بیشتر خواهد شد، هر چند که سرعت تخریب برای انواع مختلف سنگ‌ها متفاوت است. در این مطالعه دوام پذیری ماسه سنگ‌های سازند قرمز بالایی (منطقه آوج، جنوب غرب استان قزوین) در مقابل عملکرد چرخه‌های ذوب - انجماد و تبلور نمک، با استفاده از مدل تابع تخریب مورد ارزیابی قرار گرفته است. برای این منظور تعداد 9 نمونه ماسه سنگ (مشخص شده با حروف A، B، C، CG، S، S&lt;sub&gt;1&lt;/sub&gt;، Tr، Min و Sh) از بخش های مختلف سازند قرمز بالایی (در محدوده آوج – آبگرم) جمع‌آوری شده و پس از تعیین خصوصیات فیزیکی، مکانیکی و کانی‌شناسی، در معرض آزمایش‌های ذوب - انجماد و تبلور نمک قرار داده شدند. مدل تابع تخریب این امکان را به ما می‌دهد که بتوانیم پارامترهای معنی‌داری از قبیل ثابت تخریب و نیمه عمر را برای انواع مختلف سنگ‌ها محاسبه کرده و درباره تخریب آنها اظهار نظر کنیم. نتایج به دست آمده از این مدل نشان می‌دهند که پارامترهای نیمه عمر و ثابت تخریب می‌توانند در کارهای مهندسی و با صرف کمترین هزینه و زمان، جهت تعیین دوام سنگ‌ها به کار روند. همچنین این مدل نشان می‌دهد که سرعت تخریب انواع مختلف ماسه سنگ‌ها متفاوت می‌باشند.</abstract>
+									<keywords>
+									
+											<keyword>ماسه سنگ</keyword>
+											<keyword>سازند قرمز بالایی</keyword>
+											<keyword>مدل تابع تخریب</keyword>
+											<keyword>ثابت تخریب</keyword>
+											<keyword>نیمه عمر</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>57</first_page>
+										<last_page>70</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68351_389c6eca39a412f37b83e57e6add73e5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>زلزله‌های القائی در ساختگاه سدهای کرخه و کارون3</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>ناصر</given_name>
+												<surname>حافظی مقدس</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>پرویز</given_name>
+												<surname>امیدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>غلام</given_name>
+												<surname>جوان دولوئی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>زهرا</given_name>
+												<surname>حسینی</surname>
+											</person_name></contributors>
+									<abstract>در این مقاله الگوی لرزه‌خیزی در پهنه ساختگاه  دو سد مهم کرخه و کارون 3 قبل و بعد از آبگیری مورد ارزیابی قرار گرفته است. دستاوردها  نشان می‌دهد که بعد از آبگیری تغییر مشخصی در موقعیت کانون سطحی زمین‌لرزه‌ها، عمق کانونی و سایر  پارامترهای لرزه‌خیزی در پیرامون دریاچه سدهای مورد مطالعه صورت گرفته است. همچنین همبستگی خوبی بین تراز آب دریاچه سد و فراوانی زمین‌لرزه‌ها در هر دو سد مشاهده گردید. تنها اختلاف موجود در الگوی زمین‌لرزه‌های القایی دو سد این است که پاسخ  لرزه‌ای و تأخیر زمانی زمین‌لرزه‌ها نسبت به افزایش تراز آب در سد کارون کمی‌بیشتر از سد کرخه می‌باشد. این اختلاف به دلیل نفوذپذیری بیشتر سنگ کف در سد کارون 3 است.</abstract>
+									<keywords>
+									
+											<keyword>زمین‌لرزه القائی دریاچه سد</keyword>
+											<keyword>سد کرخه</keyword>
+											<keyword>سد کارون3</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>71</first_page>
+										<last_page>84</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68352_79848979d4b4e94af8abce4fa9fb9090.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تأثیر حفره‌های زیرزمینی بر پاسخ سطح زمین به روش عددی و مقایسه آن با نتایج تجربی (مطالعه موردی تونل‌های متروی کرج)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمدجواد</given_name>
+												<surname>کاظمینی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ابراهیم</given_name>
+												<surname>حق شناس</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محسن</given_name>
+												<surname>کمالیان</surname>
+											</person_name></contributors>
+									<abstract>مطالعات انجام‌شده در زمینۀ تأثیر حفرات زیرزمینی بر پاسخ لرزه­ای زمین بیشتر بر روش‌های تحلیلی متمرکز بوده که ضعف اصلی آن‌ها، ساده نمودن بیش‌ از حد مسئله به لحاظ هندسه حفره و مشخصات مصالح است. لذا نیاز به مطالعات وسیع‌تر در این زمینه با استفاده از مد‌‌ل‌سازی عددی و همچنین روش‌های تجربی و به‌ویژه با در نظر گرفتن حفرات زیرزمینی واقعی ضروری است. در پژوهش حاضر این مهم بامطالعه بر روی تونل در دست احداث خط دوی پروژه­ی قطار شهری کرج مدنظر قرار گرفت. یازده محل در مجاورت این تونل و ایستگاه­های مربوط به آن انتخاب گردید و برای آن‌ها با استفاده از برداشت­های خردلرزه­سنجی، نسبت­های طیفی خردلرزه­ها بین نقاطی در سطح زمین و نقاط مرجع در کف تونل محاسبه گردید. برای چهار محل مطالعه به روش عددی اجزا محدود نیز صورت گرفت. نتایج مطالعات تجربی در کاظمینی و همکاران (2015) ارائه گردیده است. هدف مقاله حاضر ارائه نتایج به‌ دست‌ آمده از روش عددی و مقایسه آن با نتایج تجربی است. نتایج نشان می‌دهند، حفره‌های زیرزمینی بر پاسخ‌های به‌ دست ‌آمده در سطح زمین تأثیر قابل ‌توجهی داشته، به‌طوری‌که حضور آن‌ها باعث افزایش بزرگنمایی در بازه‌های فرکانسی کوچک و بزرگ‌شده و با افزایش ابعاد حفره و نزدیک‌تر شدن به محور حفره مقادیر بزرگنمایی بیشتری قابل‌ مشاهده است.</abstract>
+									<keywords>
+									
+											<keyword>حفرات زیرزمینی</keyword>
+											<keyword>پاسخ لرزه‌ای</keyword>
+											<keyword>روش عددی</keyword>
+											<keyword>روش تجربی</keyword>
+											<keyword>خردلرزه</keyword>
+											<keyword>بزرگنمایی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>85</first_page>
+										<last_page>94</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68353_0008b6fb28183ca8b3347dc6df559eb9.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تغییرمکان‌های پی سد بتنی جیرفت با استفاده از اکستنسومتر‌های سد</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>عبداله</given_name>
+												<surname>سهرابی بیدار</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>موسی</given_name>
+												<surname>امین نژاد</surname>
+											</person_name></contributors>
+									<abstract>بهره‌برداری ایمن از سد‌ها متکی بر سه عامل سلامت سازه، پایش رفتار سد و آمادگی برای شرایط اضطرار است. یکی از روش‌های پایش رفتار سد و اجزاء وابسته آن استفاده از نتایج تجهیزات ابزار دقیق نصب شده در نقاط مختلف سازه است. سد جیرفت یک سد بتنی قوسی است که از داده‌های اکستنسومتر‌های نصب شده آن به منظور تحلیل رفتار پی طی دوره 20 ساله بهره‌برداری سد استفاده شده است. این سد در 40 کیلومتری شمال شرقی شهر جیرفت و بر روی آهک‌های الیگومیوسن ساخته شده است. اکستنسومتر‌های سد جیرفت از نوع 4 شاخه‌ای بوده و دارای حداکثر عمق 40 متر می‌باشند که در دو وجه بالادست و پایین‌دست پی نصب شده‌اند. جابجایی‌های پی سد متأثر از بارگذاری مخزن بوده و منحنی‌های بالاآمدگی پی بالادست و نشست پی پایین‌دست هماهنگی نسبی با تغییرات تراز مخزن دارد. به منظور حذف اثرات تغییرات کوتاه مدت سالیانه در تغییر شکل‌های پی از تابع میانگین متحرک استفاده شده است. بیشترین مقادیر بالاآمدگی بالادست و نشست پایین‌دست در بلوک میانی سد و به ترتیب حدود 8 و 3 میلی‌متر می‌باشد. برخی بلوک‌های در پایین‌دست سد روند عمومی نشست را نشان می‌دهند که در حال حاضر دارای نرخ کمتر از 1/0 میلی متر در سال است. با توجه به دوام و ادامه نشست پایین‌دست در سالیان اخیر در بلوک‌های مذکور لازم است پایش رفتار سد به طور مرتب به انجام رسیده و هر گونه تغییری در روند جابجایی‌ها مورد توجه قرار گیرد.</abstract>
+									<keywords>
+									
+											<keyword>ایمنی سد</keyword>
+											<keyword>بهره‌برداری سد</keyword>
+											<keyword>اکستنسومتر</keyword>
+											<keyword>رفتار پی</keyword>
+											<keyword>نرخ جابجایی</keyword>
+											<keyword>سد جیرفت</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>95</first_page>
+										<last_page>102</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68354_d97262a6a9c506ad947d62422e4a3d92.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

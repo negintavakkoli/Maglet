@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1390</year>
+	<month>6</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2011</year>
+	<month>9</month>
+	<day>1</day>
+</pubdate>
+<volume>5</volume>
+<number>1</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>ارائه روشی ساده شده برای پردازش تصویر دیجیتالی به منظور تعیین شاخص شدت ترک در خاکهای رسی متراکم شده</title_fa>
+	<title>Development of a simplified image processing technique for determining crack intensity factor of compacted clayey soils</title>
+	<subject_fa>مهندسی محیط زیست</subject_fa>
+	<subject>En. Ecosystem</subject>
+	<content_type_fa>مقاله استخراج شده از پایان نامه</content_type_fa>
+	<content_type>Research Paper</content_type>
+	<abstract_fa>ترک خوردگی در لاینرهای خاکی یکی از پدیده های متداول در محل های دفن پسماند است که عملکرد لاینرها را به شدت تحت تاثیر قرار می دهد. هدف اصلی از این تحقیق، ارائه روشی ساده و قابل اجرا بر پایه پردازش تصویر به منظور شناسایی و تحلیل ترکهای ایجاد شده در سطح لاینرهای خاکی در مقیاس آزمایشگاهی می باشد. بر این اساس با استفاده از نرم افزار MATLAB برنامه ای برای شناسایی ترک و تعیین شاخص شدت ترک تدوین شد. بر اساس نتایج اولیه این برنامه، پارامتر حد آستانه که معرف حساسیت برنامه در شناسایی تقابل رنگ هاست، به عنوان مهمترین عامل در تشخیص صحیح ترکهای موجود در سطح خاک معرفی شده و واسنجی برنامه بر اساس این پارامتر در دستور کار قرار گرفت. بدین منظور پایلوت آزمایشگاهی بررسی رفتار ترک طراحی و ساخته شد و سه نمونه مختلف خاک رسی، هر کدام با و بدون پوشش ژئوتکستایل، به مدت 10 ماه در معرض شرایط جوی قرار گرفت. پس از ثبت تغییرات الگوی ترکهای سطحی با استفاده از یک دوربین دیجیتال و در بازه های زمانی مشخص، 20 از درصد از تصاویر با شدتهای مختلف ترک انتخاب در واسنجی برنامه مورد استفاده واقع شد. در این فرایند با استفاده از نرم افزار فتوشاپ و تکنیک رویهم گذاری، ضریب کالیبراسیون ترک یابی تعیین و به برنامه اضافه شد و با استفاده از برنامه کالیبره شده شاخص شدت ترک در کلیه تصاویر محاسبه شد. همچنین دقت برنامه در تعیین شاخص شدت ترک بررسی شده که نتایج این صحت سنجی، حاکی از عملکرد مناسب برنامه پیشنهادی در تعیین شاخص شدت ترک در سطح خاکهای رسی متراکم شده می باشد.</abstract_fa>
+	<abstract>Desiccation cracking commonly occurring in compacted clayey soils typically used as landfill liners can result in poor hydraulic performance of the liner. In this research, a simplified image processing technique was developed in order to characterize desiccation cracking intensity in compacted clayey soils. Three pairs of compacted clayey soils were studied in a relatively large scale experiment to evaluate the effect of geotextile cover on desiccation cracking under real-time atmospheric conditions. Digital images were taken from the surface of soils at certain time intervals for 10 months and were analyzed to determine crack intensity factor (CIF). The key parameter in identification of cracks as accurately as possible was found to be sensitivity. Calibration process was based on using %20 of the images with different crack intensities whose crack dimensions and therefore CIF values have been already measured to compare to program output. A calibration coefficient for sensitivity was accordingly determined based on the average difference between the sensitivity introduced by the program and the actual sensitivity calculated based on an overlaying process. Result of verification of this methodology indicated that it can be reliably used to determine CIF of compacted clay soils in a simple yet accurate manner.</abstract>
+	<keyword_fa>لاینر رسی , آنالیز تصویری , نرم افزار MATLAB , ترکهای خشک شدگی , </keyword_fa>
+	<keyword>clay liner , image processing , MATLAB software , desiccation cracking , </keyword>
+	<start_page>1137</start_page>
+	<end_page>1158</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-146-1&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>Mahdi</first_name>
+	<middle_name></middle_name>
+	<last_name>Jalili Ghazizade</last_name>
+	<suffix></suffix>
+	<first_name_fa>مهدی</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>جلیلی قاضی زاده</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>mjalili@ut.ac.ir</email>
+	<code>1003194753284600144</code>
+	<orcid>1003194753284600144</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation>Ph.D. student, Faculty of Environmet, University of Tehran</affiliation>
+	<affiliation_fa>دانشجوی دکتری دانشکده محیط زیست دانشگاه تهران</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Mohammad Ali</first_name>
+	<middle_name></middle_name>
+	<last_name>Abduli</last_name>
+	<suffix></suffix>
+	<first_name_fa>محمدعلی</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>عبدلی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>mabdoli@ut.ac.ir</email>
+	<code>1003194753284600145</code>
+	<orcid>1003194753284600145</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation>Prof., Graduate Faculty of Environment, University of Tehran</affiliation>
+	<affiliation_fa>استاد دانشکده محیط زیست دانشگاه تهران</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Edwin</first_name>
+	<middle_name></middle_name>
+	<last_name>Safari</last_name>
+	<suffix></suffix>
+	<first_name_fa>ادوین</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>صفری</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>edwinsafari@yahoo.com</email>
+	<code>1003194753284600146</code>
+	<orcid>1003194753284600146</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation>Associate Research Director, Department of Civil Engineering, Queen&amp;#039;s University</affiliation>
+	<affiliation_fa>پژوهشگر ارشد دانشکده مهندسی عمران دانشگاه کوئینز، کینگستون، اونتاریو، کانادا</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Behrouz</first_name>
+	<middle_name></middle_name>
+	<last_name>Gatmiri</last_name>
+	<suffix></suffix>
+	<first_name_fa>بهروز</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>گتمیری</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>gatmiri@ut.ac.ir</email>
+	<code>1003194753284600147</code>
+	<orcid>1003194753284600147</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation>Prof., Faculty of Engineering, University of Tehran</affiliation>
+	<affiliation_fa>استاد دانشکده فنی دانشگاه تهران</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

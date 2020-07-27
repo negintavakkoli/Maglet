@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+		<JOURNAL>
+<YEAR>1394</YEAR>
+<VOL>3</VOL>
+<NO>1</NO>
+<MOSALSAL>1</MOSALSAL>
+<PAGE_NO>0</PAGE_NO>
+<ARTICLES>
+
+
+				<ARTICLE>
+				<TitleF>ارزیابی تصمیم‌های سرمایه‌گذاری با استفاده از پویایی سیستم و اختیارات سرمایه‌گذاری واقعی (مورد مطالعه در شرکت تولید باطری خودرو)</TitleF>
+				<TitleE>Evaluation of Investment Decision Using System Dynamics and Real Options</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>در مباحث مدیریت، بررسی و ارزیابی طرح های سرمایه گذاری نقش کلیدی و تعیین کننده ای دارد. معمولا منابع سرمایه گذاری روش هایی مانند نرخ بازده حسابداری، دوره بازگشت سرمایه، نرخ بازده داخلی و ارزش فعلی خالص (NPV) را جهت تصمیم گیری در این حوزه معرفی می کنند و از میان آنها روش ارزش فعلی خالص را به عنوان معتبرترین روش توصیف می نمایند. روش ارزش فعلی خالص و سایر روش های ارزیابی سنتی، با ثابت فرض کردن عوامل درگیر در سرمایه گذاری، عدم اطمینان موجود در سرمایه گذاری را در نظر نمی گیرند. هدف اصلی این پژوهش، لحاظ کردن عدم اطمینان موجود در طرح های سرمایه گذاری و ارائه الگویی جهت ارزیابی تصمیم های سرمایه گذاری با استفاده از سیستم داینامیک و اختیار سرمایه گذاری است. در الگوی طراحی شده، از اختیارت به عنوان سناریویی برای بررسی تغییرات استفاده شده است. برای تعیین متغیرهای اصلی مدل از روش تئوری برخاسته از داده‌ها استفاده گردیده است. نتایج نشان می‌دهد که سرمایه گذاری به میزان 1011*3 ریال برای ایجاد ظرفیتی جدید به اندازه 300000 واحد در ماه، به همراه کاهش قیمت فروش محصول از 1200000 ریال به 850000 ریال می تواند بیشترین سودآوری را در بازه مشخص شده یعنی پایان سال دهم، در مدل شبیه سازی شده، داشته باشد. همچنین دو اختیار توسعه و انقباض در قالب سناریویی مشخص لحاظ گردیده و نتایج مربوطه به دست آمده است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Evaluation of investment desicion has the decisive and key role in management discussions. Usually invest resources introduce methods such as accounting rate of return, payback period, internal rate of return and net present value (NPV) for decision making in this scope and describe the net present value as most reliable method. NPV and other traditional evaluation methods assume constant factors in investment and donât consider uncertainty in decision making. The main objective of this study is to provide a model for evaluating investment decisions by using of system dynamics and real option. In this study, system dynamic method with Systemic approach was used to cover the weaknesses of traditional methods such as NPV that evaluate the investment decision one-dimensionally. Also, to considering the uncertainty in the investment project, real option was applied. At the final step, real option have been used as a scenario in designed model. Grounded Theory was applied for determining the affecting variables. Obtained results showed that investing about 3*1011 Rials to creating new production capacity about 300000 units per month with reducing product sale price from 1.2 million Rials to 850000 Rials is most profitable state (scenario) of simulated model in specified time in software (end of tenth years). Also, expansion and contraction, two determined options were considered in a scenario and related results were obtained.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>1</FPAGE>
+						<TPAGE>22</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>مجید</Name>
+						<MidName></MidName>		
+						<Family>اسماعیلیان</Family>
+						<NameE>majid</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>esmaeilian</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه اصفهان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>majid_esmaelian@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مسلم</Name>
+						<MidName></MidName>		
+						<Family>علیمحمدی</Family>
+						<NameE>Moslem</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Alimohammadi Kamalabadi</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه اصفهان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>moslem_amk@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>تصمیم های سرمایه گذاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سیستم داینامیک</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>اختیار سرمایه گذاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تئوری برخاسته از داده ها</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>] افشارکاظمی؛ محمدعلی؛ماکوئی،احمد؛درمان، زهرا. (1388).تدوین استراتژی زنجیره تأمین صنعت فولاد ایران با استفاده از تحلیل پویایی سیستم‌ها، فصلنامه پژوهشنامه بازرگانی، شماره ۵0، صص ۲۰۱-224.##[2] آذر، عادل؛خدپور،آمنه. (1389). کاربرد رویکرد پویایی سیستم در فرآیند ره نگاری و سیاست‌گذاری آموزش عالی،فصلنامه علمی - پژوهشی سیاست علم و فناوری، سال دوم، شماره 4، صص 5-22.## [3] بندریان، رضا؛ موسایی، احمد. (1387). ارزشیابی و قیمت گذاری دانش فنی محصولات شیمیایی و پتروشیمیایی بر اساس روش گزینه واقعی، فصلنامه مدرس علوم انسانی، سال دوازدهم، شماره 56، صص 79 -104.## [4] دستگیر، محسن؛ حاجیان، نجمه. (1390). ارزش‌گذاری اختیارات سرمایه‌گذاری در دارایی‌های سرمایه‌ای با استفاده از مدل بلک – شولز، فصلنامه دانش و پژوهش حسابداری، شماره 27، صص 8 - 11و 62 - 64.## [5] علی، نژاد؛ ساروکلایی، مهدی. (1388).اختیارات سرمایه‌گذاری،نشریه حسابدار، شماره 213، صص 44-47.##[6] فاتح‌راد، مهدی؛کوثری، سحر. (1391). مدل‌سازی آینده تعاملی فناوری اطلاعات با استفاده از رویکرد پویایی سیستم،فصلنامه علمی–پژوهشیسیاست علم و فناوری، سال چهارم، شماره 4، صص 77-93.##[7] فتحی‌هفشجانی، کیومرث؛ موحدی، محمدمهدی؛ قاضی‌زاده مقدم، محمد. (1388).بررسی و مقایسه مدل‌های ارزیابی انعطاف‌پذیری در صنایع تولیدی،نشریه پژوهشگر، شماره 15، صص 77-88.##[8] فقیه،نظام‌الدین. (1383). سیستم‌های پویا، اصول و تعیین هویت،انتشارات سمت، تهران، چاپ اول.##[9] فلیحی، نعمت؛ ظاهری هنجنی، مرضیه. (1390). تأثیر تورم و جهانی شدن بر سود دهی کارگاه‌های بزرگ صنعتی ایران تلفیق رهیافت‌های سیستم‌های دینامیکی و اقتصاد سنجی،پژوهش‌ها و سیاست‌های اقتصادی، سال نوزدهم، شماره 58، صص 51-78.## [10] قبادی، شهلا. (1390). پویایی سیستم (کاربردی از تفکر سیستمی)، تهران: سازمان مدیریت صنعتی،چاپ سوم.##[11] Alishahi, E., Moghaddam, M. P., &amp; Sheikh-El-Eslami, M. K. (2012). A System Dynamics Approach for Investigating Impacts of Incentive Mechanisms on Wind Power Investment.Renewable energy, 37(1), 310-317.##[12] Alvesson, M., &amp;Sköldberg, K. (2009). Reflexive Methodology: New vistas for qualitative research. Sage.##[13] Aoun, D., and Hwang, J, (2008). The Effect of Cash Flow and Size on The Investment Decisions of ICT Firms: AynamicApproach, Information economics and policy. Vol. 20, 120-134.##[14] Daniel, S. (2012). Developing a Cost-Volume-Profit Model in Production Decision System Based on MAD Real Options Model. Procedia Economics and Finance, Vol. 3, 350-354.##[15] Denzin, N. K. (1996). Interpretive Ethnography: Ethnographic Practices for the 21st Century. Sage Publications.##[16] Fan, Y., Yang, R. G., &amp; Wei, Y. M. (2007). A System Dynamics Based Model for Coal Investment. Energy, 32(6), 898-905.##[17] Fontes, D. B. (2008). Fixed Versus Flexible Production Systems: A Real Options Analysis. EuropeanJournal of Operational Research, Vol. 188(1), 169-184.##[18] Ford, D. N., &amp;Sobek, D. K. (2005). Adapting Real Options to New Product Development by Modeling the Second Toyota Paradox.Engineering Management, IEEE Transactions on, 52(2), 175-185.##[19] Forrester, J. W. (1961) Industrial Dynamics. New York: John Wiley &amp; Sons.##[20] Forrester, J. W. (1968) Principles of Systems (Second Preliminary Edition). Cambridge, MA: Wright-Allen Press, Inc.##[21] Forrester, J. W. (1969) Urban Dynamics. Cambridge, MA: The M.I.T. Press.##[22] Forrester, J. W. (1971). World Dynamics, Wright. LN, Cambridge.##[23] Glaser, B. G. (1992). Basics of Grounded Theory: Emergence vs. Forcing. Mill Valley, CA.##[24] Glaser, B. G., &amp; Strauss, A. L. (1965). Discovery of Substantive Theory: A Basic Strategy Underlying Qualitative Research. American Behavioral Scientist, 8(6), 5-12.##[25] Lane D.C &amp;Oliva. R, (1998), The Greater whole: Towards a Synthesis of System Dynamics and Softsystems Methodology, European Journal of Operational Research, Vol. 107, 214-235.##[26] Menassa, C., &amp; Peña Mora, F. (2010). Hybrid Model Incorporating Real Options with Process Centric and System Dynamics Modeling to Assess Value of Investments in Alternative Dispute Resolution Techniques. Journal of Computing in Civil Engineering, Vol.24(5), 414-429.##[27] Mun, J. (2006). Real options analysis: Tools and techniques for valuing strategic investments and decisions (Vol. 320). JohnWiley &amp; Sons.##[28] Özogul, C. O., Karsak, E. E., &amp;Tolga, E. (2009). A Real Options Approach for Evaluation and Justification of a Hospital Information System. Journal of Systems and Software, Vol.82 (12), 2091-2102.##[29] Rese, M., Karger, M., &amp;Strotmann, W. C. (2009). The Dynamics of Industrial Product Service Systems (IPS2)–Using the Net Present Value Approach and Real Options Approach to Improve Life Cycle Management. CIRP Journal of Manufacturing Science and Technology, 1(4), 279-286.##[30] Shi T., Gill R. (2005); Developing Effective Policies for the Sustainable Development of Ecological Agriculture in China: The Case Study of Jinshan County with a Systems Dynamics Model, Ecological Economics, Vol.53 (2), 223-246.##[31] Spector J. M., Christensen D. L., Sioutine A. V., McCormack D. (2001); Models and Simulations for Learning in Complex Domains: Using Causal Loop Diagrams for Assessment and Evaluation, Computers in Human Behavior, Vol. 17(5), 517-545.##[32] Sterman J. (2000); Business Dynamics: Systems Thinking and Modeling for A Complex World, McGraw-Hill, New York.##[33] Strauss, A., &amp; Corbin, J. (1998). Basics of Qualitative Research: Techniques and Procedures forDeveloping Grounded Theory (2nd Ed.). Thousand Oaks, CA: Sage.##[34] Suddaby, R. (2006). From the Editors: What Grounded Theory is not. Academy of management journal, 49(4), 633-642.##[35] Tong, L., &amp; Dou, Y. (2014). Simulation study of Coal Mine Safety Investment Based on System Dynamics. International Journal of Mining Science and Technology,24(2), 201-205.##[36] Urquhart, C. (2000). An Encounter with Grounded Theory: Tackling the Practical and Philosophical Issues. Qualitative research in IS: Issues and trends, 104-140.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>ترجیح های رفتاری سرمایه‌گذاران در واکنش به متغیرهای بنیادی بر مبنای نظریه غلبه تصادفی</TitleF>
+				<TitleE>Behavioral Preferences of Investors in Reaction to the Fundamental Variables Based on Sochastic Dominance</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>در این مقاله با استفاده از تجزیه و تحلیل مبتنی بر سیگنالهای بنیادی به بررسی برتری نسبی سهام برنده-بازنده بر اساس عملکرد فعلی و آتی از منظر ترجیحات رفتاری سرمایه‌گذاران پرداخته شده است. بنابراین بر اساس عوامل مربوط به سودآوری، تغییرپذیری عایدات و رشد، سیگنالهای بنیادی (F-Score) مربوط به محتوای اطلاعاتی 7 شاخص مالی شناسایی و بر مبنای آن سهام برنده-بازنده، تعیین و رفتار آتی بازده آنها بر مبنای ترجیحات ریسک‌گریزانه سرمایه-گذاران مورد بررسی قرار گرفته است. در این تحقیق از اطلاعات مالی تمامی شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران در بازه زمانی1380 الی 1390 استفاده شده است. نتایج اولیه این تحقیق نشان دهنده وجود بازده بالاتر همزمان و آتی پرتفوی سهام برنده نسبت به سهام بازنده تا یک دوره زمانی پس از تشکیل پرتفوی و وجود رفتار مومنتومی و سپس رفتار معکوس بلندمدت آنهاست. همچنین نتایج تحقیق نشان دهنده وجود غلبه تصادفی بازده همزمان مرتبه‌های دوم و سوم سهام برنده نسبت به سهام بازنده و همچنین غلبه تصادفی مرتبه های دوم و سوم بازده دو دوره بعد سهام بازنده نسبت به سهام برنده در بازه های منفی بازار است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>In this article, the fundamental signal analysis to evaluate the relative dominance of the winner-losser stocks based on investorâs preferences has been investigated.Therefore, based on factors related to the profitability , growth and variability the signals of information content of seven financial ratios are identified and based on winner-loser stock related to investrâs preferences identified. In this study, all the financial data of listed companies in TSE for the period 1380 to 1390 are used. The results indicated that the higher current and future return of winner stock related to losser stock one Period after portfolio formation. Also the further results indicate the second and third order of stochastic dominance of winner stocks relate to losser stocks and second and third order of stochastic dominance of losser stocks relate to winner stocks in the negative market conditions.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>23</FPAGE>
+						<TPAGE>40</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>احمد</Name>
+						<MidName></MidName>		
+						<Family>بدری</Family>
+						<NameE>ahmad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>badri</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه شهید بهشتی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه شهید بهشتی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>a-badri@sbu.cc.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>عبدالمجید</Name>
+						<MidName></MidName>		
+						<Family>عبدالباقی</Family>
+						<NameE>abdolmajid</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>abdolbaghi</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه شیخ بهایی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه شیخ بهایی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>abdolbaghi@shbu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>ترجیحات سرمایه‌گذاران</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سیگنالهای بنیادی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سهام برنده_بازنده</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مومنتوم</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>غلبه تصادفی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]  باقر زاده، سعید. (1384). عوامل مؤثر بر بازده سهام در بورس اوراق بهادار تهران، پژوهش‌های مالی، شماره 19، صص 25-64.##[2]  ثقفی، علی؛ سلیمی، محمدجواد. (1384). متغیرهای بنیادی حسابداری و بازده سهام، مجله علوم اجتماعی و انسانی دانشگاه شیراز، دوره 23، شماره 2.##[3]   مشایخی، بیتا؛ فدایی‌نژاد، محمد اسماعیل؛ کلاته‌رحمانی، راحله. (1389). مخارج سرمایه‌ای،اقلام تعهدی و بازده سهام، مجله پژوهش‌های حسابداری مالی، سال دوم، شماره اول، شماره پیاپی (3)، صص 77-92.##[4]            Abarbanell, J., and B. Bushee, (1998). Abnormal Returns to a Fundamental Analysis Strategy, The Accounting Review, Vol 73, (1), 19-45.##[5]            Abarbanell, J., and B. Bushee,. (1997). Financial Statement Analysis, Future Earnings and Stock Prices, Journal of Accounting Research (35), 1-24.##[6]            Abhyankar, A., Ho, K-Y. and Zhao, H., (2008) Value Versus Growth: Stochastic Dominance Criteria. Quantitative finance,693-704.##[7]            Barrett, G., Donald, S., (2003). Consistent Tests for Stochastic Dominance. Econometrica 71, 71–104.##[8]            Beneish, M. D., C. M. Lee and R. L. Tarpley. (2001). Contextual Financial Statement Analysis through the Prediction of Extreme Returns, Review of Accounting Studies (6), 165-189.##[9]            Cho, Young-Hyun and Linton, Oliver and Whang, Yoon-Jae .(2006). Are There Monday Effects in Stock Returns: A Stochastic Dominance Approach. Journal of Empirical Finance. Vol: 14, Issue: 5, Pages: 736-755.##[10]        Davidson, R. and Duclos, J.Y., (2000). Statistical Inference for Stochastic Dominance and for the Measurement of Poverty and Inequality, Econometrica, 68, 1435–1464.##[11]        Deshmukh, Sanjay, Fatemi, Ali and Fooladi Iraj J. (2008). Complexity of Information and Trading Behavior: The Case of Dividend Increase Announcements, Journal of Economic Psychology, Vol. 29, pp.1–18, www.elsevier.com/locate/joep.##[12]        Elleuch, J. L. Trabelsi, (2009) Fundamental Analysis Strategy and the Prediction of Stock Returns, International Research Journal of Finance and Economics, ISSN, 1450-2887,Issue30, &lt;www.eurojournals.com/finance.htm&gt;.##[13]        Fong, Wai Mun and Wong, Wing Keung and Lean, Hooi Hooi. (2003). International Momentum Strategies: A Stochastic Dominance Approach.Working paper. National University of Singapore.##[14]        Fong, W. Lean, H. and Wong, W., (2008). Stochastic Dominance and Behavior toward Risk: The Market for Internet Stocks.Economic Behavior &amp; Organization. pp. 142-157.##[15]        Fong, Wai Mun. (2009). Speculative trading and stock returns: A Stochastic Dominance Analysis of the Chinese A-share market. Journal of International Financial Markets, Institutions and Money. Volume 19, Issue 4, October 2009, Pages 712-727.##[16]        Gonzalo, J. and Olmo, J. (2013). Conditional Stochastic Dominance Tests in Dynamic Settings, University of Southampton, &lt; http://www.eco.uc3m.es&gt;.##[17]       Greig, A., (1992). Fundamental Analysis and Subsequent Stock Returns, Journal of Accounting and Economics, Vol. 15, pp: 413-442.##[18]        Heiner, R. A. (1983). The Origin of Predictable Behavior. American Economic Review, 73, 560–595.##[19]        Lakonishok, J., A. Shleifer and R. Vishny. (1994). Contrarian Investment, Extrapolation and Risk, Journal of Finance (44), 1541-1578.##[20]        Lev B. and R. Thiagarajan,. (1993). Fundamental Information Analysis, Journal of Accounting Research (31), 190-214.##[21]        Meyer, Thomas O., Li, Xiaoming., Rose, Lawrence C. (2005). Comparing Mean Variance Tests With Stochastic Dominance When Assessing International Portfolio Diversification Benefits, Southeastern Louisiana University - Department of Marketing and Finance, Massey University Commerce Working Paper No. 04. 04.##[22]        Mohanram, Partha S., (2005). Separating Winners from Losers among Low Book-to-Market Stocks using Financial Statement Analysis, Working paper, Columbia Business School.##[23]        Ou, J. and S. Penman, (1989). Accounting Measures, Price-Earnings Ratio and the Information Content of Security Prices, Journal of Accounting Research (27), 111-143.##[24]        Piotroski, J., (2000). Value Investing: the use of Historical Financial Statement Information to Separate Winners from Losers, Journal of Accounting Research, vol. 38, supplement, pp 1-42.##[25]        Tse, Y.K., Zhang, X.B., (2004). A Monte Carlo Investigation of Some Tests for Stochastic Dominance. Journal of Statistical Computation and Simulation 74, 361–378.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>مطالعه رابطه بین سطح افشای داوطلبانه و هزینه‌های نمایندگی در شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران</TitleF>
+				<TitleE>The relation study of voluntary disclosure level and agency costs of listed companies of Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>در این پژوهش، رابطه بین سطح افشای داوطلبانه و هزینه‌های نمایندگی شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران مورد بررسی قرار می‌گیرد. در این راستا، تأثیر اندازه شرکت، نسبت بدهی، نسبت اعضای غیرموظف هیأت مدیره و تمرکز مالکیت نیز کنترل شده است. برای اندازه‌گیری متغیر سطح افشای داوطلبانه، چک‌لیست بوتوسان (1997) که توسط کاشانی‌پور و همکاران (1388) تعدیل شده، مورد استفاده قرار گرفته است که شامل 71 شاخص در شش بخش کلی پیشینه اطلاعاتی، خلاصه‌ای از نتایج مهم تاریخی، آماره‌های کلیدی غیرمالی، اطلاعات بخش‌ها، اطلاعات پیش-بینی و بحث و تحلیل مدیریت است. همچنین، از نسبت هزینه‌های عملیاتی به فروش، نسبت گردش دارایی‌ها و نسبت کیوتوبین به عنوان معیارهای هزینه‌های نمایندگی استفاده شده است. برای آزمون فرضیه اصلی پژوهش، رگرسیون چند متغیره با استفاده از داده‌های ترکیبی مورد استفاده قرار گرفته است. یافته‌های حاصل از بررسی 67 شرکت در دوره زمانی 1382 تا 1390 بیانگر آن است که بین نسبت هزینه عملیاتی به فروش و نسبت کیوتوبین با سطح افشای داوطلبانه به ترتیب رابطه منفی و مثبت معناداری وجود دارد؛ ولی بین نسبت گردش دارایی‌ها و سطح افشای داوطلبانه شرکت‌ها رابطه معناداری مشاهده نشد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>In this research, the relation of voluntary disclosure level and agency costs of listed companies of Tehran Stock Exchange is studied. In this regard, the effects of firm size, debt ratio, non-duty members of board and ownership concentration are considered either. In order to voluntary disclosure level measuring Botosan (1997) check list which has been adjusted by koshanipour and et al. (1388) and consists of 71 indices through six section of background information, the summery of important historical results, non-financial key statics, section data, anticipating information and managementsâ analysis and discussion has been utilized. Moreover, operating expenses to sale ratio, the asset turnover ratio and Qtubin ratio are utilized as agency costs criteria. To main hypothesis testing multivariate regression with combined data has been used. Findings resulted from exploring 67 companies during period of 1382 to 1390 essay that although there are 1) a positive significant relation between operating expenses to sale ratio and voluntary disclosure level and 2) a negative significant relation between Qtubin ratio and voluntary disclosure level, there is no significant relation between assets turnover ratio and firmsâ voluntary disclosure level.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>41</FPAGE>
+						<TPAGE>54</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>شکراله</Name>
+						<MidName></MidName>		
+						<Family>خواجوی</Family>
+						<NameE>shokrollah</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>khajavi</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه شیراز</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه شیراز</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>shkhajavi@rose.shirazu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>وحید</Name>
+						<MidName></MidName>		
+						<Family>علیزاده طلاتپه</Family>
+						<NameE>vahid</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>alizadeh talatpeh</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد حسابداری دانشکده اقتصاد، مدیریت و علوم اجتماعی دانشگاه شیراز، شیراز، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد حسابداری دانشکده اقتصاد، مدیریت</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>vahid_alizadeh7@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>سطح افشای داوطلبانه</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نسبت هزینه‌های عملیاتی به فروش</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نسبت گردش دارایی‌ها</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نسبت کیوتوبین</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]   پور‌حیدری، امید؛ حسین‌پور، حمزه. (1391). بررسی رابطه بین افشای اجباری و اختیاری با ارزش سهام شرکت‌ها، چشم‌انداز مدیریت مالی، 5، 9-28.##[2]     حساس­یگانه، یحیی؛ خیرالهی، مرشد. (1387). حاکمّیت شرکتی و شفافیت، حسابدار، 203، 74-79.##[3]   کاشانی پور، محمد؛ رحمانی، علی؛ پارچینی پارچین، سید مهدی. (1388). رابطه بین افشای اختیاری و مدیران غیرموظف، فصلنامه بررسی‌های حسابداری و حسابرسی، 57، 85-100.##[4]   کردستانی، غلامرضا؛ موسویان خلیل‌آباد، سید حمیدرضا. (1392). رقابت بین سرمایه‌گذاران آگاه برای کسب اطلاعات محرمانه و قیمت‌گذاری عدم تقارن اطلاعاتی، فصلنامه مدیریت دارایی و تأمین مالی، 2، 127-144.##[5]   مهدوی، غلامحسین؛ مهارلویی‌منفرد، محمد. (1390). ترکیب هیأت مدیره و هزینه­های نمایندگی (بررسی مفروضات تئوری مباشرت در شرکت­ های ایرانی)، تحقیقات حسابداری و حسابرسی، 10، 1-19.##[6]     نمازی، محمد. (مترجم). (1389). پژوهش­های تجربی در حسابداری: دیدگاه روش­شناختی، چاپ دوم، شیراز: انتشارات دانشگاه شیراز.##[7]   نمازی، محمد؛ زراعت­گری، رامین. (1388). بررسی کاربرد نسبت Q-توبین و مقایسه آن با سایر معیارهای ارزیابی عملکرد مدیران در شرکت­های پذیرفته شده در بورس اوراق بهادار تهران، مجله پیشرفت­های حسابداری، 1، 231-262.##[8]   ولی‌زاده لاریجانی، اعظم؛ مجتهدزاده، ویدا؛ حجازی، رضوان. (1392). تأثیر کیفیت افشا بر رابطه ارزشی اقلام صورت‌های مالی، فصلنامه مدیریت دارایی و تأمین مالی، 1، 13-26.##[9]   Aburaya, R. K. (2012). The Relationship between Corporate Governance and Environmental Disclosure: UK Evidence. Ph.DDessertation, Durham University.##[10]       Ang, J.; Cole, R.; and J. Lin. (2000). Agency Costs and Ownership Structure. The Journal of Finance, 55(1), 81-106.##[11]  Booth, P. and A. K. D. Schulz. (2004). the Impact of an Ethical Environment on Managers’ Project Evaluation Judgments Under Agency Problem Conditions. Accounting, Organizations and Society, 29(5-6), 473-488.##[12]  Botosan, C. (1997). Disclosure Level and The Cost of Equity Capital. Accounting Review, 72, 323-349.##[13]  Chuang, L.; Xiuhong, L.; and L. Zhang (2010a). Earnings Quality and the Agency Costs of Controlling Shareholder. International Conference on E-Business and E-Government, 5132-5135.##[14]  Chuang, L.; Xiuhong, L.; and L. Zhu (2010b). Earnings Quality and the Agency Costs of Managerial Discretion—the Corporate Governance Effect of Accounting Information. International Conference on E-Business and E-Government, 3924-3927.##[15]  Doukas, J. A. and C. Pantzalis (2003). Geographic Diversification and Agency Costs of Debt of Multinational Firms. Journal of Corporate Finance, 9(1), 59-92.##[16]  Doukas, J. A.; Kim, C.; and C. Pantzalis (2000). Security Analysis, Agency Costs and Company Characteristics. Financial Analysts Journal, 56(6), 54-63.##[17]  Edelen, R. M.; Evans, R.; and G. B. Kadlec. (2011). Disclosure and Agency Conflict in Delegated Investment Management: Evidence from Mutual Fund Commission Bundling. Available at: http://ssrn.com/abstract=1108768. Available online 26 March 2008.##[18]  Fama, E. F. and M. C. Jensen. (1983). The Separation of Ownership and Control. The Journal of Law and Economics, 26(2), 25-301.##[19]  Harrison, P. D. and A. Harrell. (1993). “Impact of “Adverse Selection” on Managers’ Project Evaluation Decisions”. Academy of Management Journal, 36(3), 635-643.##[20]  Healy, P.M. and K.G. Palepu. (2001). Information Assymetry, Corporate Disclosure, and The Capital Markets: A Review of The Empirical Disclosure Literature. Journal of Accounting &amp; Economics, 31, 405-440.##[21]  Hill, C. W. and T. M. Jones. (1992). Stakeholder-Agency Theory. Journal of Management Studies, 29(2), 131-154.##[22]  Holmstrom, B. R. (1979). Moral Hazard and Observability. The Bell Journal of Economics, 10(1), 74-91.##[23]  Huang, P. and Y. Zhang. (2012). Does Enhanced Disclosure Really Reduce Agency Costs? Evidence from the Diversion of Corporate Resources. The Accounting Review, 87(1), 199-229.##[24]  Jensen, M. A. (2002). Disclosure Level and Cost of Capital: Evidences from Danish Financial Market. Master Thesis, Supervisor: Thomas Plenborg, Copenhagen Business School.##[25]  Jensen, M. C. and W. H. Meckling. (1976). Theory of the Firm: Managerial Behavior, Agency Costs, and Ownership Structure. Journal of Financial Economics, 3(4), 305-360.##[26]  Jurkus, A. F.; Park, J. C.; and L. S. Woodard. (2011). Women in Top Management and Agency Costs. Journal of Business Research, 64(2), 180-186.##[27]  Karamanou, I. and N. Vafeas. (2005). The Association between Corporate Boards, Audit Committees, and Management Earning Forecasts: An Empirical Analysis. Journal of Accounting Research, 43(3), 453-486.##[28]  Meek, G.K.; Roberts, C.B.; and S.J. Gray. (1995), Factors Influencing Voluntary Annual Reports Disclosures by U.S., U.K and Continental European Multinationals Corporations, Journal of International Business Studies, 26(3), 555-572.##[29]  Nicodano, G. and A. Sembenelli. (2000). Private Benefits, Block Transaction Premiums and Ownership Structure. Available at SSRN: http://ssrn.com/ abstract=212248 , Available online 3 April 2000.##[30]  Penno, M. (1984). Asymmetry of Pre-Decision Information and ManagementAccounting. Journal of Accounting Research, Spring, 22(1), 177-91.##[31]  Petersen, C., and T. Plenborg. (2006). Voluntary Disclosure and Information Asymmetry in Denmark. Journal of International Accounting, Auditing and Taxation, 15, 127-149.##[32]  Tian, Yu and J. Chen. (2009). Concept of Voluntary Information Disclosure and Review of Relevant Studies, International Journal of Economics and Finance, 1(2).##[33]  Trueman, B. (1986). Why Do Managers Voluntarily Release Earnings Forecasts? Journal of Accounting and Economics, 8, 53-71.##[34]  Tuttle, B.; Harrell, A.; and P. D. Harrison. (1997). Moral Hazard, Ethical Considerations, and the Decision to Implement an Information System. Journal of Management Information Systems. 13(4), 7-27.##[35]  Watson, A.; Shrives, P.; and C. Marston. (2002). Voluntary Disclosure of Accounting Ratios in the UK. British Accounting Review, 34(4), 289-313.##[36]  Watts, R. and J. Zimmerman. (1986). Positive Accounting Theory. Englewood Cliffs, N. J., Prentice-Hall.##[37]  Xiaobo, D.; Lin, K.; and K. Yingxu. (2014). Are Inter-Segment Revenues Informative About Future Performance? Advances in Accounting, incorporating Advances in International Accounting, Article in press.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>پیش‌بینی شاخص قیمت بورس سهام با استفاده از شبکه عصبی و تبدیل موجک</TitleF>
+				<TitleE>Forecasting Stock Index with Neural Network and Wavelet Transform</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>  شاخص بازار سرمایه به عنوان دماسنج اقتصادی هر کشور می‌باشد. از این رو پیش‌بینی این متغییر جهت اخذ دید کلی از وضعیت اقتصادی و اخذ استراتژی‌های سرمایه‌گذاری، یکی از مسائل مهم به شمار می‌رود. از جمله روش‌های پیش‌بینی پرکاربرد در سری‌های زمانی مالی، شبکه عصبی می‌باشد که با توجه به جامعیت این روش و عدم وجود برخی از پیش‌فرض‌ها در خصوص داده‌ها، گسترش زیادی نسبت به روش‌های آماری یافته است. اما وجود نویز در سری‌های زمانی به خصوص در سری‌های زمانی مالی و اقتصادی باعث کاهش دقت پیش‌بینی شبکه عصبی می‌گردد. یکی از روش‌های نوفه‌زدایی در سری‌های زمانی، تبدیل موجک می‌باشد. این تحقیق به مقایسه بین دقت پیش‌بینی شاخص کل بورس اوراق بهادار تهران در دو مدل شبکه عصبی با استفاده از داده‌های نوفه‌زدایی شده با تبدیل موجک و شبکه عصبی با استفاده از داده‌های اولیه از ابتدای سال 1385 تا 31 خرداد 1392 می‌پردازد. نتایج حاکی از بهبود معنادار در پیش‌بینی شبکه عصبی با استفاده از داده‌های نوفه‌زدایی شده می‌باشد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Â  Stock index as time series are non-stationary and highly noisy due to the fact that stock markets are affected by a variety of factors. It is regarded as one of the most challenging application of time series forecasting. Predicting stock index with the noisy data directly is usually subject to large errors. In this paper we compare forecasting the stock index via Wavelet De-noising-based Neural Network (WDNN) with forecasting stock index via single neural network. The daily Tehran Stock index from April 2006 to June 2013 are used to compare the application of the WDNN in predicting the stock index. Experimental results show that de-noising with wavelet transform outperforms the single neural network.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>55</FPAGE>
+						<TPAGE>74</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>رضا</Name>
+						<MidName></MidName>		
+						<Family>راعی</Family>
+						<NameE>Reza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Raei</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>raei@ut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>شاپور</Name>
+						<MidName></MidName>		
+						<Family>محمدی</Family>
+						<NameE>Shapour</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mohammadi</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>shmohmad@ut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>حنظله</Name>
+						<MidName></MidName>		
+						<Family>فندرسکی</Family>
+						<NameE>Hanzaleh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Fendereski</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>hfendereski@ut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>تبدیل موجک</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شبکه عصبی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نوفه‌زدایی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>آستانه</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]   انصاری، حجت اله. (1386). بررسی تأثیر استفاده از مقیاس‌های زمانی متفاوت در محاسبه ارزش در معرض ریسک (VAR) با استفاده از نظریه موجک، پایان‌نامه کارشناسی ارشد، دانشکده مدیریت دانشگاه تهران.##[2]     آذر. عادل؛ کریمی، سیروس. (1388). پیش‌بینی بازده سهام با استفاده از نسبت‌های حسابداری با رویکرد شبکه عصبی، مجله تحقیقات مالی، 28، 20-3.##[3]   رحیمی، محمدرضا. (1391). پیش بینی دامنه‌ی تفییرات طلا با استفاده از مدل تلفیقی ARIMA و شبکه‌ی عصبی، پایان‌نامه‌ کارشناسی ارشد، دانشکده مدیریت دانشگاه تهران.##[4]   شمس، شهاب الدین. (1387). بررسی زمان مقیاس مدل قیمت‌گذاری دارایی سرمایه‌ای از طریق تبدیل موجک، پایان‌نامه‌ دکترا، دانشکده مدیریت دانشگاه تهران.##[5]   عباسی‌نژاد، حسین؛ نادری، اسماعیل. (1391). تحلیل آشوب،تجزیه موجک و شبکه عصبی در پیش‌بینی شاخص بورس تهران، فصلنامه تحقیقات مدل سازی اقتصادی، 8.##[6]   قدیمی، محمدرضا؛ مشیری، سعید. (1381). مدل‌سازی رشد اقتصادی در ایران با استفاده از شبکه‌های عصبی مصنوعی (ANN)، فصلنامه پژوهش‌های اقتصادی ایران، 12، 33-1.##[7]   قنبری، علی؛ خضری، محسن؛ ترکی سمایی، رقیه. (1388). تخمین ریسک سیستماتیک در مقیاس‌های زمانی مختلف با استفاده از آنالیز موجک برای بورس اوراق بهادار تهران، فصلنامه اقتصاد مقداری، 4، -29.##[8]   محمدعلی‌زاده، آرش. (1388). بررسی رابطه بین بازده سهام و تورم در بورس اوراق بهادار تهران در زمان مقیاس‌های مختلف با استفاده از تبدیل موجک، پایان‌نامه کارشناسی ارشد، دانشکده مدیریت دانشگاه تهران.##[9]   محمدی، شاپور؛ عباسی نژاد، حسین. (1384). تحلیل سیکل‌های تجاری ایران با استفاده از نظریه موجک‌ها، مجله تحقیقات اقتصادی ایران، 75، 20-1.##[10] نمازی، محمد؛ کیامهر، محمد مهدی. (1386). پیش‌بینی بازده روزانه سهام شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران با استفاده از شبکه‌های عصبی مصنوعی، مجله تحقیقات مالی، 44، 134-115.##[11]            Brooks. Chris. (2008). Introductory Econometrics for Finance, Cambridge University Press.##[12]            Cao. Qing, Leggio. B. Kary, Schniederjans. J. Marc. (2005). A Comparison between Famaand French&#039;s Model and Artificial Neural Network in Predicting the Chinese Stock Market, Computers &amp; Operational Research, 32, 2499-2512.##[13]            Donoho.D.L, Johnstone. I. M. (1995). Adapting to Unknown Smoothness by Wavelet Shrinkage, Journal of the American Statistical association, 90, 613-627.##[14]            Fernandez. Viviana. (2006). The CAPM and Value at Risk at Different Time-Scales, International Review of Financial Analysis, 15, 203-219.##[15]            Gency. Ramazan, Selcuk. Faruk, Witcher. Brandon. (2002). An Introdutionto Wavelet and Other Filtering Methods in Finance and Economics, Academic press.##[16]            Harvery, David I. (1997). The Evalutionof Economic Forecasts, PhdThesis.##[17]            Haven. Emmanuel, Liu. Xiaoquan, Shen. Liya. (2012). De-nisingOption Prices with the Wavelet Method, European Journal of Operational Research, 222.##[18]            Jammazi. Rania, Aloui., Chaker. (2011). Crude Oil Price Forecasting: Experimental Evidence from Wavelet Decomposition and Neural Network Modeling, Energy Economics xxx, 1-14.##[19]            Johnstone. I. M, Silverman. B. W. (1997). Wavelet Threshold Estimators for Data with Correlated Noise, Journal of the Royal Statistical Society, 95, 1-37.##[20]            Kaastra. I, Boyd. M. (1996). Designing a Neural Network for Forecasting Financial Economic Time Series, Neurocomputing, 10, 215-236.##[21]  Li. Xia, He. Kaijjian, Lai. King Keung, Zou. Yingchao. (2014). Forecasting Crude Oil Price with MultiscaleDenoisinf Ensemble Model, Mathematical Problems in Engineering, 1-19.##[22]            Misiti, Michel. Misiti, Yves. Oppenheim, Georges. Poggi, Jean-Michel. (2009). Wavelet Toolbox 4, User&#039;s Guide. Mathworks.##[23]            Ramsey. James B, Lampart. Camille. (1998). The Decomposition of Economic Relationships by Time Scale Using Wavelet: Expenditure and income, Studies in nonlinear dynamics and econometrics, 3, 23-42.##[24]            Ruey. H. (2003). Time series forecast with neural network and wavelet techniques, Submitted for the Degree of Bachelor od Engineering.##[25]            S. Maia. Andre Luis, A.T.de. Carvalho. Framcisco, B. Ludermir. Teresa. (2008). Forecasting Models for Interval-Valued Time Series, Neurocomputing, 71, 3344-3352.##[26]            Tan, Chong. (2009). Financial Time Series Forecasting Using Improved Wavelet Neural Network, Master&#039;s Thesis.##[27]            Wong. Bo.K, Selvi. Yakup. (1998). Neural Network Application in Finance: A Review and Analysis of Literature, Information &amp; Management, 34, 129-139.##[28]            Zhang. Guoqiang, Patuwo. B. Eddy, Y. Hu. Michael. (1998). Forecasting with Artificial Neural Networks: The State of the Art, International Journal of Forecasting, 14, 35-62.##[29]            Zhang. G. Peter, Qi. Min. (2005). Neural Network Forecasting for Seasonal and Trend Time Series, European Journal of Operational Research, 160, 501-514.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تأثیر سایر سازوکارهای حاکمیت شرکتی بر رابطه بین سرمایه‌گذاران نهادی و مدیریت موجودی کالا</TitleF>
+				<TitleE>The effect of corporate governance mechanisms on the relationship between institutional investors and inventory management</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>یکی از اهداف گزارشگری مالی، ارائه‌ی اطلاعاتی است که برای سرمایه‌گذاران، اعتباردهندگان و دیگر کاربران فعلی و بالقوه در تصمیم‌گیری‌های مربوط به سرمایه‌گذاری و اعتبار دهی و سایر تصمیم‌ها، سود‌مند باشد. هدف از این پژوهش، بررسی تأثیر مکانیزم‌های حاکمیت شرکتی شامل مالکیت مدیریتی، ساختار هیئت مدیره و اندازه هیئت مدیره بر رابطه بین سرمایه گذاران نهادی و مدیریت موجودی کالا در شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران است. برای تجزیه و تحلیل داده‌ها از رگرسیون چند متغیره با استفاده از گشتاورهای تعمیم یافته استفاده شده است. نمونه آماری این پژوهش شامل 47 شرکت می‌باشد که طی سال‌های 1385 تا 1390 عضو بورس بوده‌اند. متغیرهای کنترلی که در این پژوهش مورد بررسی قرار گرفته‌اند رشد شرکت، اندازه شرکت، اهرم مالی، سودآوری، چگالی سرمایه، سن و مالکیت خصوصی می‌باشند. نتایج حاصل از تجزیه و تحلیل داده‌ها نشان داد که مالکیت مدیریتی بر رابطه بین سرمایه گذاران نهادی و مدیریت موجودی کالا تأثیر معنی داری دارد. ولی ساختار و اندازه هیئت مدیره بر رابطه بین سرمایه گذاران نهادی و مدیریت موجودی کالا تأثیر معناداری ندارند.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Presenting information which is useful for investors, creditors, and other current and potential users in decision makings related to investment and validating and other decisions is one of goals in financial reporting. The aim of this research is to study corporate governance mechanisms including managerial ownership, structure of board of directors, and board size on the relationship between institutional investors and inventory management in firms enlisted in Tehran Stock Exchange. To analyze data we have used a multiple variable regression by using generalized moments. Statistical sample in this research entails 47 companies which were enlisted in Stock Exchange during the time period between 2006 and 2011. Control variables in this research were firm growth, firm size, financial leverage, profitability, capital intensity, age, and private ownership. Results of analyzing data showed that managerial ownership affected the relationship between institutional investors and inventory management meaningfully. But structure and size of board of directors did not have any meaningful effects on the relationship between institutional investors and inventory management.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>75</FPAGE>
+						<TPAGE>90</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>مهدی</Name>
+						<MidName></MidName>		
+						<Family>علی نژاد ساروکلائی</Family>
+						<NameE>mehdi</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Alinezhad Sarokolaei</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه ازاد واحد تبریز</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه ازاد واحد تبریز</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mehdi12may@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مریم</Name>
+						<MidName></MidName>		
+						<Family>بحرینی</Family>
+						<NameE>maryam</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>bahreini</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه ازاد واحد علوم و تحقیقات سیرجان</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه ازاد واحد علوم و تحقیقات سیرجان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>maryam_bahreini@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>آرزو</Name>
+						<MidName></MidName>		
+						<Family>طاهری</Family>
+						<NameE>arezoo</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>taheri</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه ازاد واحد علوم و تحقیقات سیرجان</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه ازاد واحد علوم و تحقیقات سیرجان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>miss_taheri1990@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>سرمایه گذاران نهادی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مالکیت مدیریتی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ساختار هیئت مدیره</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>اندازه هیئت مدیره</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مدیریت موجودی کالا</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]   اشرافی، آذرمیدخت؛ فرید، داریوش. (1392). مروری بر رابطه بین نقد شوندگی؛ حاکمیت شرکتی و ارزش شرکت، موسسه بین‌المللی آموزشی و پژوهشی صفا شهر. شیراز. ایران.##[2]   آقایی، محمد علی؛ چالاکی، پری. (1388). بررسی رابطه بین ویژگی‌های حاکمیت شرکتی و مدیریت سود در شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران. نشریه علمی پژوهشی تحقیقات حسابداری. انجمن حسابداری.##[3]   خدادادی، ولی؛ تاکر، رضا. (1391). بررسی تأثیر ویژگی‌های حاکمیت شرکتی بر عملکرد مالی و ارزش شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، مجله تحقیقات حسابداری و حسابرسی. سال چهارم. شماره 15.##[4]   خدادادی، ولی؛رشیدی‌باغی، محسن؛ قربانی، رامین؛ کاویانی، مریم. (1392). تاثیر ساختار مالکیت بر ارتباط بین جریان‌های نقد آزاد و استفاده بهینه از دارایی­ها، فصلنامه علمی- پژوهشی مدیریت دارایی و تامین مالی، سال اول، شماره اول.شماره پیاپی (1).##[5]   رهبر خرازی، مهسا. (1383). مطالعه و شناخت وضعیت حاکمیت شرکتی در شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران و مقایسه آن باسایر کشورها. رساله کارشناسی ارشد. دانشگاه علامه طباطبایی.##[6]   علی نژاد ساروکلائی، مهدی؛ بحرینی، مریم. (1392). تأثیر سرمایه‌گذاران نهادی و تمرکز مالکیت بر فرصت‌های سرمایه‌گذاری در شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، مجله پژوهش‌های حسابداری مالی. سال پنجم. شماره 19.##[7]   کریمی، فرزاد؛ اشرافی، مهدی. (1390). بررسی ارتباط سازوکارهای نظام راهبردی شرکتی و ساختار سرمایه در بورس اوراق بهادار تهران. مجله پژوهش‌های حسابداری مالی. سال سوم. شماره 2.##[8]   مشایخ، شهناز؛ اسماعیلی، مریم. (1385). بررسی رابطه بین کیفیت سود و برخی از جنبه‌های اصول راهبردی در شرکت‌های پذیرفته شده در بورس تهران.بررسی‌های حسابداری و حسابرسی. شماره 45.##[9]   نوروش، ایرج؛ کرمی، غلامرضا؛ وافی‌ثانی، جلال. (1388). بررسی تأثیر ساز و کارهای نظام راهبری شرکتی بر هزینه نمایندگی شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، تحقیقات حسابداری، شماره 1.##[10] نیکومرام، هاشم؛ رهنمای رود پشتی، فریدون، هیبتی، فرشاد. (1390). مبانی مدیریت مالی، جلد دوم، انتشارات ترمه. تهران. ایران.##[11] واعظ، سیدعلی؛ قلمبر، محمدحسین؛ قنواتی، نسرین؛ رحمانی، فاطمه. (1393). بررسی رابطه تمرکز مالکیت و ساختار هیأت مدیره با کارایی مدیریت سرمایه در گردش، فصلنامه علمی- پژوهشی مدیریت دارایی و تامین مالی. سال دوم. شماره چهارم. شماره پیاپی (4).##[12]            Ameer, R., (2010). The Role of Institutional Investors in the 7inventory and Cash Management Practices of Firms in Asia. Journal of Multinational Financial Management 20 (2–3), 126–143.##[13]            Anassov, J. &amp; Hankim. E. (2008). Labor and Corporate Governance: International Evidence from Restructuring Decisions.##[14]            Baldenius, T., Reichstein, S., (2005). Incentives for Efficient Inventory Management: the Role of Historical Cost. Management Science 51 (7), 1032-1045.##[15]            Baltagi, Badi Hani. (2005). Econometric Analysis of Panel Data. John Wiley &amp; Sons Inc., 3rd Edition, New York, USA.##[16]            Barker, K., Santos, J., (2010). Measuring the Efficacy of Inventory with a Dynamic Input-Output Model. International Journal of Production Economics 126 (1), 130-143.##[17]            Becker, Henrikcronqvist and RudigerFahlenbrach. (2010). E Estimating the Effects of Large Shareholders. Using a Geographic Instrument.##[18]            Borg novo, E., (2008). Differential Importance and Comparative Statics: an Application to Inventory Management. International Journal of Production Economics 111 (1), 170-179.##[19]           Banshee, B.J. (1998). The Influence of Institutional Investors on Myopic R&amp;D Investment Behavior. Accounting Review.##[20]            Chikan, A., (2009). An Empirical Analysis of Managerial Approa, ches to the role of inventories. International Journal of Production Economics 118 (1), 131-135.##[21]            Chitnomrath, Thanida, Evans, Robert and Christopher, Theo. (2011), Corporate Governance and Post-Bankruptcy Reorganization Performance: Evidence from Thailand, Asian Review of accounting, Vol. 27, No 1.##[22]            Elsayed, kh.,Wahba, H., (2013). Reinvestigating the Relationship between Ownership Structure and Inventory Management: a Corporate Governance Perspective, International Journal of production Economics.##[23]            Florackis, C. (2008), Agency Costs and Corporate Governance Mechanisms: Evidence for UK Firms, International Journal of Managerial Finance, 4: pp. 37 – 59.##[24]            Gill, A. S., &amp;Biger, N. (2013). The Impact of Corporate Governance on Working Capital ManagementEfficiency of American Manufacturing Firms. Managerial Finance. Vol. 39, No. 2, pp. 116-132.##[25]            Hill, R.C.; Griffiths, W.E. and Lim, G.C. (2007). Principles of conometrics. Fourth Edition.##[26]            Jensen, M.C. and Meckling, W.H. (1976). Theory of the Firm, Managerial Behavior, Agency Costs and Owner Ship Structure. Journal of financial Economics, vol.3No.4, pp-305-to.##[27]            John, K., Subnet, L.W., 1998. Corporate Governance and Board Effectiveness. Journal of Banking and Finance. 22, 371–401.##[28]            Kailas, G., Dimelis, D., Folios, V., (2011). An Empirical Analysis of Inventory Turnover Behavior in Greek Retail Sector: 2000-2005. International Journal of Production Economics 133 (1), 143-153.##[29]            Krivogorsky, V. (2006). Ownership, Board Structure, and Performance in Continental Europe, the international journal of accounting, 41, 176-197.##[30]            Laune Hurwitz. (2009). Corporate Governance and Firm Value during a Financial Crisis, Rev Quant Finance Acc, 34, pp. 459-481.##[31]            Lim, Mable; How, Janice and Peter Verhoeven. (2014). Corporate Ownership, Corporate Governance Reform and Timeliness of Earnings: Malaysian Evidence, Journal of Contemporary Accounting &amp; Economics.##[32]            Najjar, B. and Taylor P. (2008). The Relationship between Capital Structure and Ownership. Managerial finance, vol.12, pp.919-933##[33]            Oler, D. Picconi, M. (2009). Implications of Insufficient and excess Cash for Future Performance. Journal of Financial Economics, Vol. 65, pp. 223- 247.##[34]            Tania Chitnomrath, Robert Evans, Theo Christopher, (2011). Corporate Governance and Post-Bankruptcy Reorganization Performance: Evidence from Thailand, Asian Review of Accounting, Vol. 19 Iss: 1 pp. 50 – 67.##[35]            Tong, S. and Ning, Y. (2004). Does capital Structure Affect Institutional Investor Choices? The Journal of Investing.##[36]            Tsai, H. and Gu, Z. (2007). The Relationship between Institutional Ownership and Casino Firm Performance. Hospitality management Vo1, 26, PP. 517-530.##[37]            Tribo, J., (2007). Ownership Structure and Inventory Policy. International Journal of Production Economics 108 (1–2), 213–220.##[38]            Velury, V. and Jenkins D: S. (2006). Institutional Ownership and the Quality of Earnings. Journal of Business Research, vol.59, pp.1043-1051.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تأثیر ساختار سرمایه بر کارایی سود شرکت های پذیرفته شده صنعت خودرو و ساخت قطعات بورس اوراق بهادار تهران</TitleF>
+				<TitleE>The Effect of Capital Structure on Profit Efficiency of Companies Listed in Automotive and Parts Manufacturing Industry of Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف پژوهش حاضر بررسی تأثیر ساختار سرمایه بر کارایی سود به عنوان معیاری جامع از عملکرد مالی است. در بررسی این تأثیر، نظریه ارائه شده توسط جنسن و مکلین (1976) در باب تأثیر اهرم مالی بر هزینه‌های نمایندگی و متعاقباً بر عملکرد واحد تجاری مد نظر قرار گرفت. لذا در این پژوهش تأثیر غیر خطی اهرم مالی بر کارایی سود مورد توجه است. نمونه مورد بررسی شامل 28 شرکت فعال در صنعت خودرو و ساخت قطعات در دوره زمانی 1391-1384 است. به منظور محاسبه کارایی سود از روش تحلیل پوششی داده‌ها و به منظور بررسی تأثیر اهرم مالی بر کارایی سود از رگرسیون داده‌های ترکیبی استفاده شد. نتایج بدست آمده تأثیر غیر خطی (به شکل U وارونه) اهرم مالی را بر کارایی سود مورد تأیید قرار داد. لذا می-توان چنین گفت که در واحدهای مورد بررسی، افزایش اهرم مالی از طرفی با کاهش وجوه نقد آزاد در دسترس مدیر، هزینه‌های نمایندگی را کاهش و باعث بهبود عملکرد می‌شود و از طرفی دیگر می‌تواند با افزایش ریسک ورشکستگی، هزینه‌های نمایندگی بدهی را افزایش و عملکرد را تضعیف نماید. از دیگر یافته‌های پژوهش می‌توان به تأثیر منفی و معنادار دارایی‌های ثابت، عدم تأثیر اندازه واحد تجاری، دارایی‌های نامشهود و نرخ رشد بر کارایی سود اشاره کرد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>The aim of current research is to investigate the possible effect of capital structure on profit efficiency (comprehensive indicator of financial performance). This paper uses the Jensen and Meckling (1976) theory to assess the effect of financial leverage on agency costs and performance. Therefore, this study examines the effect of nonlinear effect of financial leverage on profit efficiency. The sample consists of 28 automotive and parts manufacturing companies listed on the Tehran Stock Exchange for the period of eight years from 1384 to 1391. Data envelopment analysis (DEA) method is used to calculate the profit efficiency and panel data regression is used to test the effect of financial leverage on profit efficiency. The results indicated that financial leverage has a nonlinear (inverted U-Shaped) impact on profit efficiency. Thus, in this industry, financial leverage growth plays a positive role in performance improvement because a reduction in the free cash flow in hands of manager and consequently, decreases agency costs. On the other hand, an increase of bankruptcy risk increases the agency costs of debt and consequently has a negative effect on performance. The findings also revealed that fixed assets have a negative and significant effect on profit efficiency, but firm size, intangible assets and growth ratio donât have any effect on profit efficiency.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>91</FPAGE>
+						<TPAGE>106</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>علی</Name>
+						<MidName></MidName>		
+						<Family>غیوری مقدم</Family>
+						<NameE>ali</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>ghayouri moghaddam</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه خلیج فارس</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه خلیج فارس</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>ali.ghauory@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>حمید رضا</Name>
+						<MidName></MidName>		
+						<Family>حاجب</Family>
+						<NameE>hamid reza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>hajeb</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه خلیج فارس</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه خلیج فارس</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>hrhajeb@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>ساختار سرمایه</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>کارایی سود</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تحلیل پوششی داده ها و داده های ترکیبی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[ زینالی، مهدی؛ جمال محمد، شیلان. (1390). بررسی تأثیر ساختار سرمایه بر اندازه، نرخ بازده سرمایه و سود هر سهم شرکت‌ها پذیرفته شده در بورس اوراق بهادار تهران (مطالعه موردی: صنعت دارو)، مجله دانش مالی تحلیل اوراق بهادار، 9، 60-43.##]2[ سجادی، سید حسین؛ محمدی، کامران؛ عباسی، شعیب. (1390). بررسی تأثیر انتخاب ساختار سرمایه بر روی عملکرد شرکت‌های بورسی، فصلنامه علمی پژوهشی حسابداری مالی، 9، 38-19.##]3[ فتحی، سعید؛ ابزری، مهدی؛ حبیبی، سلماز. (1393). فراتحلیل عوامل تعیین کننده ساختار سرمایه د رسطح شرکت،  فصلنامه مدیریت دارایی  و تامین مالی، سال دوم، شماره 4، صص. 74-55.##]4[ گجراتی، دامودار. (1995).مبانی اقتصاد سنجی. ترجمه: حمید ابریشمی، تهران: انتشارات دانشگاه تهران.##]5[ ملکی پور غربی، محمود. (1375). بررسی تحلیلی استفاده از اهرم مالی بر سودآوری شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، پایان نامه کارشناسی ارشد حسابداری، دانشگاه شهید بهشتی.##]6[ نمازی، محمد؛ شیرزاد، جلال. (1384). بررسی رابطه ساختار سرمایه با سود‌آوری شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران. بررسی‌های حسابداری و حسابرسی، 42، 95-75.##]7[ نوروسیس، ماریجا. (1948). کتاب آموزشی آنالیز آماری داده­ها با SPSS15. ترجمه: اکبر فتوحی و فریبا اصغری، تهران: کانون نشر علوم.##[8] Akhigbe, A. and McNulty, J. (2005). Profit Efficiency Sources and Differences Among Small and Large U.S. Commercial Banks, Journal of Economics and Finance, 29(3), 289-299.##[9] Ariff, M. and Can, L. (2008). Cost and Profit Efficiency of Chinese Banks: A Non-Parametric Analysis, China Economic Review. 19, 260-273.##[10] Berger, A. and Bonaccorsi di Patti, E. (2006). Capital Structure and Firm Performance: a New Approach to Testing Agency Theory and an Application to the Banking Industry, Journal of Banking and Finance, 30, 1065-102.##[11] Das, A. and Ghosh, S. (2009). Financial Deregulation and Profit Efficiency: A Non-parametric Analysis of Indian Banks, MPRA. 1-21.##[12] Dawar, V. (2014). Agency Theory, Capital Structure and Firm Performance: Some Indian Evidence, Managerial Finance, 40(12), 1190–1206.##[13] Delis, M., Fillipaki, A. and Staikouras, C. (2008). Evaluating Cost and Profit Efficiency: A Comparison of Parametric and Nonparametric Methodologies, MPRA, 1-27.##[14] Edirisinghe, N.C.P. and Zhang, X. (2008). Portfolio Selection under DEA-Based Relative Financial Strength Indicators: Case of US Industries, Journal of the Operational Research Society. 59, 842–856.##[15] Fareed, F., Aziz, Sh., Naz, S., Shahzad, F., Arshad, M. and Amen, U. (2014). Testing the Relationship between Profitability and Capital Structure of Textile Industry of Pakistan, World Applied Sciences Journal, 29(5), 605-609.##[16] Fosu, S. (2013). Capital Structure, Product Market Competition and ﬁrm Performance: Evidence from South Africa, The Quarterly Review of Economics and Finance, 53, 140–151.##[17] Himmelberg, C., Hubbard, G. and Palia, D. (1999). Understanding the Determinants of Managerial Ownership and the Link between Ownership and Performance, Journal of Financial Economics. 53, 353–384.##[18] Jensen, M. and Meckling, W. (1976). Theory of the ﬁrm: Managerial Behavior, Agency Costs and Capital Structure, Journal of Financial Economics, 3, 305–360.##[19] Lara, J. E. and Mesquita, J. M. (2003). Capital Structure and Profitability: The Brazilian Case, Academy of Business and Administration Sciences Conference, July, 11-13.##[20] Mahdavi, Gh.,GhayouriMoghaddam, A. and Alipour, S. (2012). An Investigation of Cost, Revenue and Profit Efficiency: The case of Iranian companies, African Journal of Business Management. 6(30), 8879-8888.##[21] Mahfuzeh, S. and Yadav, R. (2012). Capital Structure and Firm Performance: Evidence from Malaysian Listed Companies, Procedia – Social and Behavioral Sciences, 65, 156-166.##[22] Margaritis, D. and Psillaki, M. (2007). Capital structure and firm efficiency, Journal of Business Finance &amp; Accounting. 34, 1447-1469.##[23] Margaritis, D. and Psillaki, M. (2010). Capital Structure and Firm Performance. Journal of Banking &amp; Finance.34, 621–632.##[24] Maudos, J., and Pastor, M. (2003). Cost and Profit Efficiency in the Spanish Banking Sector (1985-1996): A Non-Parametric Approach. Applied Financial Economics, 200, 1-19. [25] Mok, V., Yeung, G., Han, Z. and Li, Z. (2007). Leverage, Technical Efficiency and Profitability: an application of DEA to foreign-invested toy manufacturing firms in China, Journal of Contemporary China, 16, 259 - 274.##[26] Myers, S. (1977). Determinants of Corporate Borrowing, Journal of Financial. Economics, 5, 147–175.##[27] Ray, S. C., and Das, A. (2010). Distribution of Cost and Profit Efficiency: Evidence From Indian Banking. European Journal of Operational Research, 201, 297-307.##[28] Roden, D. M., and Lewellen, W. G. (1995). Corporate Capital Structure Decision: Evidence from Leveraged Buyouts, Financial Management, 24, 76-87.##[29] Srairi, S. (2010). Cost and Profit Efficiency of Conventional and Islamic Banks in GCC countries, J. Prod Anal, 34, 45-62.##[30] SusantoChahyadi, C. (2008). What do weKnow About Capital Structure of Privatized Firms? A Study of Evolution and Determinants of Capital Structure of Privatized Firms, Ph.D. dissertation, Oklahoma University.##[31] Yu, M. (2013). State ownership and ﬁrm performance: Empirical Evidence From Chinese Listed Companies, China Journal of Accounting Research,.6(2), 75–87.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تأثیر سیاست مالی بر قیمت دارایی‌ها و نااطمینانی آن در ایران</TitleF>
+				<TitleE>Effects of fiscal policies on asset prices and its uncertainty in Iran</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>   یکی از موضوع های مورد توجه و تأثیرگذار در مسائل اقتصادی بازار دارایی هاست . به لحاظ نظری اگر بازار دارایی ها از نظر اطلاعات کارا عمل کرده و افراد عقلایی رفتار کنند ، قیمت دارایی­ها منعکس کننده اطلاعات موجود در باره وقایع مورد انتظار است . از سویی دیگر از جمله موضوع های مهم که به گونه ای گسترده در اقتصاد کلان مطرح است ، انتخاب سیاست ها و ابزارهای مناسب در جهت از بین بردن عدم تعادل و ایجاد ثبات اقتصادی است . در این تحقیق شوک های سیاست مالی بر روی قیمت دارایی ها شامل قیمت مسکن ، قیمت سهام و نرخ ارز مورد بررسی قرار خواهدگرفت . بدین منظور با استفاده از مدل خودرگرسیون برداری ساختاری (SVAR) ، 5 متغیره و داده های فصلی سال های 1369-1390 به بررسی تأثیر شوکهای مالی بر متغیرهای نامبرده در ایران پرداخته می شود . نتایج حاکی از آن است که مخارج دولت تأثیر معنی داری بر قیمت هریک از متغیرهای بازار دارایی ها دارد و یکی از عوامل مهم برای توضیح نوسانات این متغیرها به حساب می آید . برای محاسبه روابط پویای بین نااطمینانی متغیرها از رهیافت BEKK در مدلهای GARCH استفاده شد. کواریانس­های محاسبه شده بین متغیرها ، حاکی از رابطه منفی بین قیمت سهام و نرخ ارز با مخارج دولت، و رابطه مثبت قیمت مسکن با مخارج دولت می­باشد.   </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Â   One of the interesting topics in economic issues isÂ asset markets . According to the theory ,if the asset market is efficient in information contextÂ and behave rationally, asset prices will reflect the information about the expected events . On the other hand, another important issue that is widely discussed in macroeconomics , is selection of appropriate policies and tools in order to eliminate the imbalances and instability of the economy . The aim of this study is to investigate the effects of government spending and income shocksÂ on asset prices such as housing prices , stock prices, and exchange rate by using structural vector autoregressive model (SVAR) with 5 variables and quarterly data from 1369 to 1390. The results showed that government spending has a significant effect on housing prices , stock prices, and exchange rate, and isÂ the most important variables to explain the volatility of these asset prices . BEKK approach in GARCH Models is used to estimate the dynamic relationship between the variables uncertainty. The estimated covariance between the variables, show the negative relationship between stock prices and government spending, and between exchange rate and government spending, but the positive relationship between housing prices and government spending is estimated.  Â </CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>107</FPAGE>
+						<TPAGE>130</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سید جمال الدین</Name>
+						<MidName></MidName>		
+						<Family>محسنی زنوزی</Family>
+						<NameE>S. Jamaledin</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>M. Zonouzi</FamilyE>
+						<Organizations>
+							<Organization>دانشکده اقتصاد و مدیریت، دانشگاه ارومیه</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشکده اقتصاد و مدیریت، دانشگاه ارومیه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>jmzonouzi@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>حسن</Name>
+						<MidName></MidName>		
+						<Family>حیدری</Family>
+						<NameE>Hassan</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Heidari</FamilyE>
+						<Organizations>
+							<Organization>دانشکده اقتصاد و مدیریت، دانشگاه ارومیه</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشکده اقتصاد و مدیریت، دانشگاه ارومیه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>h.heidari@urmia.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>فرزانه</Name>
+						<MidName></MidName>		
+						<Family>طالبی</Family>
+						<NameE>Farzaneh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Talebi</FamilyE>
+						<Organizations>
+							<Organization>دانشکده اقتصاد و مدیریت، دانشگاه ارومیه</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشکده اقتصاد و مدیریت، دانشگاه ارومیه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>farzanehtalebi86@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>سیاست مالی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>قیمت مسکن</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>قیمت سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>قیمت ارز</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]    ابراهیمی‌، ایلناز؛ توکلیان‌، حسین. (1389)‌. عملکرد بخش واقعی‌، ویژه‌نامه تازه‌های اقتصاد‌، سال هشتم‌، 131، 16- 4.##[2]     بانک مرکزی جمهوری اسلامی ایران‌، بانک اطلاعات سری‌های زمانی اقتصادی‌، نشریات و پژوهش‌ها (نماگرهای اقتصادی).##[3]   توکلیان‌، حسین. (1390).‌ نگاهی به بازدهی انواع دارایی‌ها با تأکید بر بازار سکه‌، طی دوره 90-1385‌، ویژه‌نامه تازه‌های اقتصاد‌، سال نهم‌، 133، 123- 117.##[4]   جعفری‌، سوسن. (1383). تأثیرشوک‌های اقتصادی برشاخص قیمت بورس اوراق بهادار تهران، پایان‌نامه کارشناسی ارشد رشته علوم اقتصادی دانشگاه تهران.##[5]   جعفری صمیمی‌، احمد؛ علمی‌، زهرا. (1386). عوامل موثر بر تعیین رفتار شاخص قیمت مسکن در ایران، فصلنامه پژوهش‌های اقتصادی ایران‌، 9(32)، 53-31.##[6]   حیدری، حسن؛ بشیری‌، سحر. (1391).‌ بررسی رابطه نا اطمینانی نرخ ارز و شاخص قیمت سهام در بورس اوراق بهادار تهران: مشاهداتی بر پایه مدل VAR-GARCH، فصلنامه مدل سازی اقتصادی‌، 9‌، 92-71.##[7]     زمان‌زاده‌، حمید. (1390). یک دهه عملکرد اقتصاد ایران در آینه شاخص‌های کلان اقتصادی‌، ویژه‌نامه تازه‌های اقتصاد‌، 129‌، صص 35-43.##[8]     زمان زاده‌، حمید. (1390). مدیریت نرخ ارز در اقتصاد ایران‌، ویژه‌نامه تازه‌های اقتصاد‌، 130‌، 41-48.##[9]     سایت سازمان بورس اوراق بهادار تهران.##[10]  سیلان‌، کامبیز. (1374). اثرافزایش نرخ ارز در بازار آزاد بر تورم، پایان نامه کارشناسی ارشد رشته برنامه ریزی اقتصادی‌، دانشگاه علامه طباطبائی.##[11]          شهبازی‌، کیومرث؛ کلانتری‌، زهرا. (1391). اثرات شوک‌های سیاست‌های پولی و مالی بر متغیر‌های بازار مسکن در ایران (با رهیافت SVAR)، فصلنامه پژوهش‌های اقتصادی‌، 20(61)، 77-104.##[12]  طاهری‌، حامد؛ صارم صفاری‌، میلاد. (1390).‌ بررسی رابطه بین نرخ ارز و شاخص قیمت بورس اوراق بهادار تهران (با استفاده از رویکرد ARDL)‌، فصلنامه روند پژوهش‌های اقتصادی‌، 19(60)، 80- 63.##[13]  عباسی‌، ابوالفضل. (1389). کسری بودجه و کارایی بازار سهام: شواهد تجربی در ایران، پایان نامه کارشناسی ارشد رشته علوم اقتصادی دانشگاه ارومیه.##[14]  عباسیان، عزت الله؛ مرادپور اولادی، مهدی. (1387). سیاست‌های پولی و مالی، دانشکده علوم اقتصادی دانشگاه تهران.##[15]  عباسی نژاد، حسین؛ یاری، حمید. (1388). تأثیر شوک‌های نفتی بر قیمت سهام در ایران، فصلنامه پژوهش‌های اقتصادی‌، 9(1)، 59-77.##[16]  فیروز زارع، علی؛ برجی، معصومه. (1388)‌. بررسی وضعیت بازار مسکن در مناطق شهری با تأکید بر شهر مشهد، فصلنامه پژوهش‌های بازرگانی، 9، 1-14.##[17]  قلی‌زاده، علی‌اکبر؛ طهوری‌متین‌، مسعود. (1390). انتخاب سبد دارایی‌ها در دوره رکود و رونق قیمت مسکن، فصلنامه پژوهش‌های اقتصادی‌، 11(3)، 92-71.##[18]  کازرونی‌، علیرضا؛ افشاری‌، مجید؛ ایمان‌پورنمین، آرام. (1389).‌‌ اثر باز بودن اقتصاد بر بی ثباتی نرخ واقعی ارز (مطالعه موردی ایران)، فصلنامه پژوهش‌های بازرگانی‌، 57، 85- 65.##[19]  مهرآرا‌، محسن؛ و معینی‌، علی واحراری‌، مهدی و‌هامونی‌، امیر. (1388).‌ الگوسازی پیش‌بینی شاخص بورس اوراق بهادار تهران و تعیین متغیرهای موثر برآن، فصلنامه پژوهش‌ها و سیاست‌های اقتصادی‌، 17(50)‌، 31-51.##[20]  ناجی میدانی‌، علی اکبر؛ فلاحی‌، محمدعلی؛ ذبیحی‌، مریم. (1389).‌ بررسی تأثیر پویای عوامل کلان اقتصادی بر نوسانات قیمت مسکن در ایران (1369- 1389) ، مجله دانش و توسعه‌، 18(31)، 183- 58.##[21]            Afonso, A. &amp; R. M. Souso. (2009). The Macroeconomic Effects of Fiscal Policy, Working Paper, No. 991 Available at www. ecb. europa. eu.##[22]            Angello Luca &amp; castrovitor &amp; M. sousa Ricardo. (2012). How does fiscal policy react to wealth composition and asset prices? Journal of macroeconomics, 34, 874-890.##[23]            Brunner, Karl. (1961) Some Major Problems in Monetary Theory. American Economic Review, Proceeding, 47-56.##[24]            Christiano, L. , Eichenbaum, M. &amp; C. Evans. (2001), Onetary policy shocks: what have we learned and to what end? In: J. B Taylor and M. woodford (eds) Handbook of Macroeconomics, Vol. 1, Elsevier: North. Holland, 65-148.##[25]            Cagan, Philip. (1972). The Channels of Monetary Effects on Interest Rates. New York: Columbia University Press.##[26]            Elbourn, A. (2008), The UK Housing Market and the transmission of Monetary policy: an SVAR Approach, Journal of Housing Economics, 17, 65-87.##[27]            Gupta, Rangan; Jooste, Charl; Matlou, Kanyane (2014), A time-varying approach to analysing fiscal policy and asset prices in South Africa, Journal of Financial Economic Policy, 6(1), 46-63(18).##[28]            Laopodis, Nikiforos. (2009). Fiscal Policy and Stock Market Efficiency: Evidence for the United States, The Quarterly Review of Economics and Finance (49), 633-650.##[29]            Lee U. (2004). U. S. Asset Returns and Fiscal Policy: New Empirical Investigation. Quarterly, Journal of Business and economic.##[30]            Miller. K &amp; G. Showfang. (2001). Is there a long –run relationship between stock returne and monetary variables, Evidence form an emerging market Applied financial economic, 641-649.##[31]            Smith, Stephen, D. (1999). What do Asset Prices Tell Us About the future? Federal Reserve Bank of Atlanta. Economic Review, 84(1), 4–13.##[32]            Tagkalakis ,Athanasios. (2011). fiscal policy and financial market movement, Journal of banking &amp; finance, 35,231-251.##[33]            Tavares, jose &amp; Valkanov, Rossen, (2003). Fiscal policy and asset returns European finance associations meetings and universidade, Nova Lisbon.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE></ARTICLES>
+</JOURNAL>
+
+				</XML>
+				

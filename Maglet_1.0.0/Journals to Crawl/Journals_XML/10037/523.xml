@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1398</year>
+	<month>5</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2019</year>
+	<month>8</month>
+	<day>1</day>
+</pubdate>
+<volume>13</volume>
+<number>2</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>کاربرد ماشین بردار پشتیبان در تفکیک زون‌های دگرسانی هیدروترمال با استفاده از سنجنده آستر   </title_fa>
+	<title>Application of Support Vector Machine Algorithm to Discriminate the Hydrothermal Alteration Zones Using ASTER Sensor</title>
+	<subject_fa>ژئوفیزیک مهندسی</subject_fa>
+	<subject>En. Geophisic</subject>
+	<content_type_fa>مقاله مستقل</content_type_fa>
+	<content_type>Original Manuscript</content_type>
+	<abstract_fa>&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;در این پژوهش با استفاده از سنجنده آستر تلاش شده است کاربرد الگوریتم ماشین بردار پشتیبان در تفکیک دگرسانی&#8204;های هیدروترمال ذخایر مس پورفیری بررسی &#8204;شود. برای آموزش این الگوریتم در مجموع 2204 پیکسل از مناطق کانی&#8204;سازی شده انتخاب شد. باندهای 4، 6، 7 و 8 سنجنده آستر برای شناسایی دگرسانی&#8204;های فیلیک و آرژیلیک و 9 باند محدودۀ مرئی و مادون قرمز نزدیک برای شناسایی دگرسانی پروپیلیتیک به&#8204;عنوان ورودی این الگوریتم انتخاب شدند. به&#8204;منظور ارزیابی خطای طبقه&#8204;بندی، ماتریس درهم آمیختگی بررسی شد. نتایج ماتریس در هم آمیختگی بیان&#8204;گر آن است که خطای طبقه&#8204;بندی برای زون فیلیک و آرژیلیک نسبتاً بالاست و امکان تفکیک این دو زون به سادگی امکان&#8204;پذیر نیست در حالی&#8204;که دگرسانی پروپیلیتیک به&#8204;خوبی طبقه&#8204;بندی شده است. هم&#8204;چنین این تحقیق تابع خطای جدیدی به&#8204;نام خطای کور را تعریف کرد که با استفاده از ماتریس درهم آمیختگی نسبت پیکسل&#8204;های دگرسان طبقه&#8204;بندی نشده را محاسبه می&#8204;کند. بر اساس مقدار این خطا، ماشین بردار پشتیبان 6/73 درصد از پیکسل&#8204;های دگرسان را طبقه&#8204;بندی نمی&#8204;کند. هم&#8204;چنین صحت کل طبقه&#8204;بندی الگوریتم ماشین بردار پشتیبان برابر06/66 درصد و ضریب کاپا برابر6522/0 است.&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:14.0pt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;</abstract_fa>
+	<abstract>&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br&gt;
+This work intends to apply ASTER images to discriminate hydrothermal alteration zones in Kerman Cenozoiic Magmatic Belt (KCMB). Band ratio, principal component analysis, Crosta and color composite images are important methods to analyze satellite images. Previous researches showed that these techniques are not able to discriminate hydrothermal alteration zones and they usually detect vegetation covering as alteration zones. The reason is found in the spectral signature of vegetation and alteration minerals. It means that they present the same interaction when face with electromagnetic energy in different wavelengths. Hydroxyl-bearing minerals are the important products of hydrothermal alteration. Clays, which contain Al-OH- and Mg-OH-bearing minerals and hydroxides in alteration zones, are distinguished by absorption bands in the 2.1&amp;ndash;2.4 &amp;micro;m range of ASTER data. Solving these problems is difficult when using standard image-processing techniques such as band rationing, principal component analysis, or spectral angle mapper. In recent years, several attempts were made to extract altered regions in the areas covered with vegetation. To overcome this problem, this research uses ASTER data by applying support vector machine (SVM) algorithmn. SVM is a new technique for data classification in remote sensing application. This paper aims to investigate the potential of SVM algorithm in mapping of hydrothermally altered areas. In many applications, SVM has been shown to provide higher performance than traditional learning machines and has been introduced as powerful tools for solving classification problems. The adopted dataset contains three ASTER scenes using SWIR and VNIR bands, covering the Meiduk porphyry copper deposit, Kader, Abdar and Iju occurrences located in Kerman Province, southeast Iran.&lt;br&gt;
+&lt;strong&gt;Material and methods&lt;/strong&gt;&lt;br&gt;
+This work has been prepared on three ASTER level 1B scenes. Two scenes were acquired on 18&lt;sup&gt;th&lt;/sup&gt; April 2000 and another scenes on 15&lt;sup&gt;th&lt;/sup&gt; June 2007. These scenes were georeferenced by using an orthorectified ETM&lt;sup&gt; + &lt;/sup&gt;&amp;nbsp;image,&amp;nbsp; in&amp;nbsp; UTM projection and WGS-84 ellipsoid as a datum.&amp;nbsp; The first two data sets were corrected for Crosstalk. Atmospheric corrections were also performed by using Fast Line of Sight Atmospheric Analysis of Spectral Hypercubes (FLAASH). The data sets were then mosaicked.&amp;shy;&amp;shy; Internal Average Relative Reflectance (IARR) correction was also applied. In this part, the training and test samples of the ASTER data are presented. The adopted image is a multispectral satellite image that contains 2204 training pixels which 516 pixels are related to arjillic zone, 1278 pixels are related to phyllic zone and 500 pixels are pertinent to propylitic zone (Fig. 1).&lt;br&gt;
+&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;br&gt;
+&lt;strong&gt;Fig. 1. Training pixels for learning SVM algorithm; Red pixels: arjillic; Green pixels: phyllic; Blue pixels: propylitic&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Results and discussion&lt;/strong&gt;&lt;br&gt;
+ASTER bands 4, 6, 7 and 8 were applied for determination of phyllic and arjilic zones and 9 bands of ASTER for propylitic alteration. In order to evaluate the developed algorirhm, confusion matrix was used and validation showed that discrimination of phylic and arjilic is not possible but propylitic zone could be identified by SVM. Also, the present research introduced a new error function, so called blind error, which is calculated using confusion matrix. Based on blind error, SVM did not classify 73.6 percent of the alteration pixels. But the remained pixels were classified with accuracy of 66.06%. Honarmand et al. (2011) and Mojedifar et al. (2013) studied the field samples of the present study area. Their studies showed that sericitization is the most widespread form of hydrothermal alteration at the Iju, Serenu, Chahfiroozeh, Meiduk, Parkam, Kader and Abdar porphyry copper deposits. Two types of phyllic alteration could be found in the study area including ferric-iron-rich and iron-oxide poor phyllic alteration. ASTER images were also analyzed by band rationing and principal component analysis (PCA) in order to compare their results with the SVM classified image. A comparison of the field data with altered areas mapped by PCA reveals errors in the classified map. Vegetation cover and sedimentary rocks are enhanced, which are erroneously identified as areas of alteration. The band ratio approach yields similar errors to those produced by the PCA method. These problems are less evident in the classified image obtained by SVM. The qualitative assessment of the accuracy of these methods indicates that SVM algorithm could be a reliable technique for alteration mapping, provided that the nature of the training areas is well known.&lt;br&gt;
+&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;br&gt;
+A comparison of the results obtained from traditional classification methods and support vector machine algorithm was performed in order to map hydrothermal alteration. Since the known occurrence of mineralization in the study area is consistent with the mapped distribution of hydrothermal alteration using SVM, this method is suggested to apply in exploring for hydrothermal alteration in other parts of the Iranian Cenozoic magmatic belt.&lt;a href=&quot;./files/site1/files/132/6Extended_Abstracts.pdf&quot;&gt;./files/site1/files/132/6Extended_Abstracts.pdf&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;</abstract>
+	<keyword_fa>دگرسانی آرژیلیک, دگرسانی فیلیک, دگرسانی پروپیلیتیک, مس پورفیری, ماشین بردار پشتیبان</keyword_fa>
+	<keyword>Phyllic, Arjilic, Prophylitic, Porphyry Copper, Support vector machine</keyword>
+	<start_page>317</start_page>
+	<end_page>338</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-1563-1&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>Saeed </first_name>
+	<middle_name></middle_name>
+	<last_name>Mojeddifar</last_name>
+	<suffix></suffix>
+	<first_name_fa>سعید</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>مجدی فر</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>mojeddifar@yahoo.com</email>
+	<code>10031947532846003691</code>
+	<orcid>10031947532846003691</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی اراک</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Nastaran </first_name>
+	<middle_name></middle_name>
+	<last_name>Ostadmahdi Eragh</last_name>
+	<suffix></suffix>
+	<first_name_fa>نسترن</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>استاد مهدی عراق</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>nasim.ostadmahdi@gmail.com</email>
+	<code>10031947532846003692</code>
+	<orcid>10031947532846003692</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی اراک</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

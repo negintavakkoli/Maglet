@@ -1,0 +1,1242 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" 
+
+"journalpublishing3.dtd">
+
+<article 
+article-type="research-article"
+dtd-version="3.0" xml:lang="en" 
+xmlns:mml="http://www.w3.org/1998/Math/MathML"
+xmlns:xlink="http://www.w3.org/1999/xlink" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+>
+
+<front>
+
+<journal-meta>
+
+  <journal-id journal-id-type="publisher">1</journal-id>
+  <issn>2228-6837</issn>
+
+  <publisher>
+
+	<publisher-name>Kharazmi University</publisher-name>
+  </publisher>
+
+</journal-meta>
+
+
+
+<article-meta>
+
+  <article-id pub-id-type="publisher-id">2647</article-id>
+
+  <article-categories>
+	<subj-group>
+	  <subject>Geotecnic</subject>
+
+	</subj-group>
+  </article-categories>
+
+  <title-group>
+	<article-title>Rock Block Detection using 3-D Geometrically Modelling of Jointed Rock Mass</article-title>
+
+  </title-group>
+
+  
+
+
+  <contrib-group>
+
+  
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname></surname>
+		<given-names></given-names>
+	  </name> 
+	</contrib> 
+	
+
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname></surname>
+		<given-names></given-names>
+	  </name> 
+	</contrib> 
+	
+
+  </contrib-group>
+
+  
+			<aff>
+
+			
+	</aff>
+ 
+ 
+  
+
+
+  <pub-date pub-type="pub">
+
+	<day>1</day>
+	<month>2</month>
+
+	<year>2019</year>
+
+  </pub-date>
+
+  <volume>12</volume>
+
+  <issue>3</issue>
+
+  <fpage>373</fpage>
+
+  <lpage>390</lpage>
+
+  
+			  <history>
+
+				<date date-type="received">
+
+				  <day>20</day>
+				  <month>05</month>
+				  <year>2017</year>
+				</date>
+
+			  </history>
+
+		
+			  <history>
+
+				<date date-type="accepted">
+
+				  <day>10</day>
+				  <month>09</month>
+				  <year>2017</year>
+				</date>
+
+			  </history>
+
+		
+</article-meta>
+
+</front>
+
+
+
+<body>
+
+Introduction
+Safety and sustainability of infrastructures which were placed in or on rock mass mainly control by geometrically size distribution and physical and mechanical characteristics of rock blocks that is created by intersection of discontinuities. hence identification of rock blocks has a key role in mechanical analysis and hydraulic behaviour of jointed rock mass. Detection process of blocks have many applications in rock mechanic which could be referred to their use in the numerical methods like discrete element method or in analysis of continuous deformation of discontinuities. As pioneer researchers, Goodman and Shi, Warburton and Heliot could be known as leaders in the field of diagnosis of rock mass blocks. Warburton provides a method based on geometric parameters of rock mass and developed a software based on it. Warburton in his work assumed discontinuities as parallel and infinite. In the earlier works, discontinuities were considered as infinite panes. So, just convex blocks were distinguishable. Concave blocks were diagnosis in more detailed researches that is created by finite discontinuities. Basically, methods based on finite planes was classified into two branches. Aforementioned branches were based on blocks detection based on topology concepts and assemble of block elements. Lin at al. presented detection method that assumed discontinuities as finite planes and worked based on topology theory. This method could realize convex and concave blocks of rock mass. Ikegawa and Hudson, Jing presented the similar methods using more accurate process. Sharma et al. presented an equation for calculating the volume of rock blocks in their work. Ferreira provided a method based on graph theory which is better than other method considering time and complicity. Based on this method, firstly vertices were detected in two dimensions and then created a graph based in vertices and edges which in next step constitute polygons that are form in two-dimension blocks. In the present research, it is developed high-speed algorithms to identify the blocks. New method was developed in MATLAB software that by assuming infinite discontinuities and inclusion of a set of joints. we have identified created blocks and calculated their volume and at last block volume histogram were draw that paves the way to obtain their distribution function.
+Material and methods
+Infinite planes are used to simulate of discontinuities.in this study, each discontinuity is represented by a plane in a three-dimensional Euclidean space. To identify the block, a certain volume of rock mass space should be considered as study region. The studied volume is called domain. By the intersection of discontinuity planes in space, rocky blocks are created in the domain. First, vertices should be recognized at first as first step in block detection. Then, edges are diagnoses and after that it's time to specify the polygons and finally, polyhedron or blocks are obtained by joining edges together. Each vertex in space is created by the intersection of three nonparallel planes. In fact, the vertex is the interface of three planes in the Euclidean space. The next element in the block metric process is the diagnosis of the edges or the blocks' edges. All edges are sections on the lines which created by the intersection of the planes in space. first the parallel vector of all the lines resulting from the intersection of the pair of planes is obtained.
+After detection of edges, it&#8217;s time to identify polygons that form key element of blocks. Each polygon of a block is formed from their constituent unit. In this step, polygons belong to each discontinuity plane is identified separately. Some edges are determined that are start from the end of selected edge between other edges. In this state, if there is just one edge, that edge is record as the next edge of first polygon. If there is more than one edge from the edge of the selected edges, the angle is calculated between each possible of end edge with the selected edge.
+In the next step, it&#8217;s time to diagnosis polyhedrons that have created by discontinuities intersection. In the previous step, possible polygons were obtained for each discontinuity. In this stage, it is used the principle which is designed this algorithm that two polygons that formed a block have a common edge. So, the first polygon of first discontinuity is consider as first polygon of first block to recognize block.
+Results and discussion
+According to the developed algorithm, MATLAB software was used to model the discontinuities. The computational and graphic capabilities of this software have created a lot of attractions for most researchers to use its potential. The strengths of this software are high computing power with its graphical accuracy. The code developed in MATLAB is called RockBlock2 that is designed using a graphical user interface (GUI) to make it easy to use. To illustrate how the program works, there are 29 discontinuities given to the program. The program first takes the dip and dip direction of discontinuities along with the desired point on it and calculates the parameters that make up the equation of discontinuity planes.
+Input data is stored in a separate Excel file that was previously introduced to the program. In the next step, the program attempts to identify the vertices. The program stores the coordinates of each corner, with the assignment of a number to it, in the matrix of the corners, which is in fact the Excel file that was previously introduced to the program to use in the next steps, after recognizing vertices on the area.
+Identifying the edges is the next step that the program done. At this stage, the program begins to identify each single edge using the data from the previous step that means the coordinates of the corners and the algorithm defined.
+The coordinates of the beginning and end of each edge along with its number are stored and maintained in the edge matrix in the Excel file format. In the stage of identifying the polygons, the polygons are formed by joining the edges together. This matrix is a special matrix that its matrix matrices are matrix itself. The matrix of polygons is a row matrix; whose number is the number of discontinuities. Because, as it mentioned in the chapter of the algorithm, the polygons are found by separation of discontinuities. Therefore, each column of the polygons matrix is consisting of faces that are on a certain discontinuity.
+The next step begins the process of identifying the blocks, or the same polygons by the program. At this step, the program starts the identification process using the features found in the previous step and the algorithm defined for it. At this stage, the identified blocks are stored in the blocks matrix. By identifying blocks, the program calculates the volume of each block and finally draw its volume histogram. In fact, a volume histogram is presented to illustrate how the block volume is distributed. Obtaining the distribution of blocks or, in other words, achieving a block probability distribution function is an essential step in the behavior of rock mass. Because one of the most important consequences of the presence of discontinuities is the fragmentation of the rock material under the block intervals. By having the block distribution function, it is possible to produce a blockbuster method using random methods, such as Monte Carlo, and to analyze it in various and arbitrary modes.
+Conclusion
+To identify and study the rocky blocks created by discontinuities, a hierarchical algorithm was designed and developed in MATLAB software. This algorithm identifies and records blocks, consisting of blocks, edges, and facets of the blocks forming components, including stone blocks. This algorithm, which is written for user-friendly ease with the use of graphical coding capabilities, shows a very fast performance using the parallel computing power of MATLAB software. The developed code calculates the dip and dip direction of discontinuities using the geometric properties, and calculates the blocks created in three dimensions and calculates their volume. This histogram code displays the calculated volumes.
+The results show that the developed code with its fast performance, while identifying the blocks, calculates and records their volumes without errors. The ability to display the step-by-step process of identifying blocks is one of the clear features of this code. Information about edge is also records and is available for auxiliary applications. Histogram of block volume is one of the most important results of the developed code, which can have different applications.
+Identification of created rocky blocks is used both in the stability analysis and rock mass simulations such as Discrete Fracture Network modeling. Determination of block volume distribution function which is done using histogram is one of the most important uncertainties in three-dimensional rock masses behavior that can play a key role in optimizing the design of structures involved in rock mass. Therefore, considering the key role of blocks volume, identifying and calculating block volumes and, consequently, plotting their histogram and determining the distribution function governing them, has a key role in the static and dynamic analysis of rock base structures.&#160;./files/site1/files/123/1Extended_Abstract.pdf
+</body>
+
+</article>
+
+
+  <article-id pub-id-type="publisher-id">2537</article-id>
+
+  <article-categories>
+	<subj-group>
+	  <subject>En. Geology</subject>
+
+	</subj-group>
+  </article-categories>
+
+  <title-group>
+	<article-title>Influence of Engineering Geological Properties of Silica Aggregate on the Engineering Features of Artificial Stone  </article-title>
+
+  </title-group>
+
+  
+
+
+  <contrib-group>
+
+  
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname></surname>
+		<given-names></given-names>
+	  </name> 
+	</contrib> 
+	
+
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname></surname>
+		<given-names></given-names>
+	  </name> 
+	</contrib> 
+	
+
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname></surname>
+		<given-names></given-names>
+	  </name> 
+	</contrib> 
+	
+
+  </contrib-group>
+
+  
+			<aff>
+
+			
+	</aff>
+ 
+ 
+  
+
+
+  <pub-date pub-type="pub">
+
+	<day>1</day>
+	<month>2</month>
+
+	<year>2019</year>
+
+  </pub-date>
+
+  <volume>12</volume>
+
+  <issue>3</issue>
+
+  <fpage>391</fpage>
+
+  <lpage>408</lpage>
+
+  
+			  <history>
+
+				<date date-type="received">
+
+				  <day>13</day>
+				  <month>06</month>
+				  <year>2016</year>
+				</date>
+
+			  </history>
+
+		
+			  <history>
+
+				<date date-type="accepted">
+
+				  <day>14</day>
+				  <month>06</month>
+				  <year>2017</year>
+				</date>
+
+			  </history>
+
+		
+</article-meta>
+
+</front>
+
+
+
+<body>
+
+Introduction
+Artificial stone is a type of building material that consists of natural aggregates, binders, such as cement or polymeric resin and some additives. The aggregates used for the production of the artificial stone are generally supplied from the wastes and scraps of quarries and industrial stone manufactories. Accordingly, the produced rock has a significant economic value.
+The mixing design includes more than 80% of natural aggregates and less than 20% additives and binders, such as various types of polymer resin or cement. Due to the fact that artificial stones are designed purposefully and according to engineering patterns, so the stone has different designs and colors and thus can meet the diversity of consumer desire and is an appropriate alternative for natural stones in the building industry. Due to a large number of various rock mines and industrial workshops in Iran, it has the ability to produce artificial stones.
+Material and method
+The purpose of this paper is to investigate the effect of silicate aggregates on the properties of artificial stones, the aggregates of the three types of natural stone tuff, andesite and granite were selected. The basis of this selection is the mineralogical variety, the textural diversity and the easy accessibility of these three stone types. The binder used in the manufacture of these artificial stones is an unsaturated polyester resin, accounted for 11% of the samples. The crushed and graded samples were poured into the mold after mixing with resin from 85% to 15% and were subjected to a compression pressure of 12 MPa for 24 hours.
+Results and discussion
+The summary of the results of the experiments carried out in Table 1 is presented.
+Table 1. Summary of the results of the experiments on the samples
+
+
+	
+		
+			Rock type
+			Water absorption percentage
+			Point load index
+			Uniaxial compressive strength
+			Brazilian tensile strength
+			Weight loss
+			(5 cycles)
+		
+		
+			Tuff
+			Natural
+			4.84
+			10.57
+			145
+			21.53
+			-0.0172
+		
+		
+			Artificial
+			11.48
+			6.19
+			63
+			12/66
+			-0.0126
+		
+		
+			Change rate
+			▲
+			▼
+			▼
+			▼
+			▼
+		
+		
+			Andesite
+			Nature
+			1.35
+			10.48
+			84
+			12.83
+			0.0046
+		
+		
+			Artificial
+			8.47
+			1.83
+			34
+			5.86
+			-0.0417
+		
+		
+			Change rate
+			▲
+			▼
+			▼
+			▼
+			▲
+		
+		
+			Granite
+			Nature
+			3.01
+			1.82
+			41
+			10.10
+			-0.0032
+		
+		
+			Artificial
+			0.42
+			3.56
+			51
+			10.34
+			0.0083
+		
+		
+			Change rate
+			▼
+			▲
+			▲
+			▲
+			▼
+		
+	
+
+By reviewing the results, it can be seen that the sample of artificial granite has all the desired indices of a building stone. In comparison to natural granite, the percentage of water absorption and its weight loss is lower; conversely, the point load index, uniaxial compressive strength, and tensile strength of the Brazilian are more. Electronic image observations also show more homogeneity between resin and aggregates but on the other hand, artificial tuff and andesite haven&#8217;t got favorable indices, in comparison with natural stones.
+Conclusion
+The conclusion of the research can be summarized as follows:
+The following results were obtained by the preparation of three samples of artificial stone from three types of natural stones: Tuff, andesite and granite, and performing physical and mechanical tests and studying the mineralogical and texture characteristics of the stones:
+Mineralogical studies by a polarizing microscope and XRD irradiation analysis showed that the texture of both tuff and andesite contains unstable minerals such as opal and glass materials (amorphous), alongside other minerals. On the other hand, they have a microcrystal texture that includes abundant empty spaces. In contrast, granite is mainly composed of quartz, feldspar and biotite minerals, and the stone fabric has a coherent crystalline structure.
+Artificial granite has all the desired indices in comparison to natural granite. That way, the percentage of water absorption and its lost weight are reduced; on the contrary, the point load index, uniaxial compressive strength, and Brazilian tensile strength increase. While artificial tuff and andesite&#8217;s indices are not favorable in comparison to natural stone. On the other hand, their water absorption has increased, while their resistance index is lower than the natural stone. The lost weight of these two samples also shows varying conditions.
+SEM electronic images taken from the artificial granite sample show good homogeneity between resin and aggregate compared to natural granite while artificial andesite and tuff specimens show the presence of empty spaces and dispersed resin materials.
+Thus, it is concluded that the artificial stone samples made from granite aggregates are more suitable for mineralogical, physical and engineering properties than andesite and tuff../files/site1/files/123/2Extended_Abstract.pdf
+</body>
+
+</article>
+
+
+  <article-id pub-id-type="publisher-id">2538</article-id>
+
+  <article-categories>
+	<subj-group>
+	  <subject>Geotecnic</subject>
+
+	</subj-group>
+  </article-categories>
+
+  <title-group>
+	<article-title>Effect of tire Powders on Dynamic Behavior and Liquefaction Resistance of Saturated Sands</article-title>
+
+  </title-group>
+
+  
+
+
+  <contrib-group>
+
+  
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname>Bahadori</surname>
+		<given-names>Hadi</given-names>
+	  </name> 
+	</contrib> 
+	
+
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname>farzalizadeh</surname>
+		<given-names>roohollah</given-names>
+	  </name> 
+	</contrib> 
+	
+
+  </contrib-group>
+
+  
+			<aff>
+
+			
+	</aff>
+ 
+ 
+  
+
+
+  <pub-date pub-type="pub">
+
+	<day>1</day>
+	<month>2</month>
+
+	<year>2019</year>
+
+  </pub-date>
+
+  <volume>12</volume>
+
+  <issue>3</issue>
+
+  <fpage>409</fpage>
+
+  <lpage>428</lpage>
+
+  
+			  <history>
+
+				<date date-type="received">
+
+				  <day>14</day>
+				  <month>06</month>
+				  <year>2016</year>
+				</date>
+
+			  </history>
+
+		
+			  <history>
+
+				<date date-type="accepted">
+
+				  <day>30</day>
+				  <month>01</month>
+				  <year>2017</year>
+				</date>
+
+			  </history>
+
+		
+</article-meta>
+
+</front>
+
+
+
+<body>
+
+Introduction
+When saturated sandy soils are subjected to seismic loadings, the pore water pressure gradually increases until liquefaction happens and settlement occurs during and after an earthquake. The mentioned problem is attributed to rearrangement of grains and redistribution of voids within the soils. Over the years many methods have been presented to increase liquefaction resistance. However, the main methods utilized in liquefaction mitigation are classified as densification, solidification, drainage and reinforcement techniques. Utilizing scrap tires in soils is a kind of soil reinforcement which has a wide range of application.
+Waste material expulsion is one of the environmental problems each country faces. Accumulation of non-degradable polymeric materials in landfills has serious environmental consequences. Efforts to find new ways of soil reinforcement have drawn the attention of researchers towards the use of new recycled materials like scrap tires derivatives. Derivatives of scrap tires have different applications in civil engineering such as reinforcing soft soil, as a drainage layer in landfills and as filler materials.
+Material and methods
+In this paper a series of 1g shaking table tests were performed to investigate on the effect of tire powders-sand mixture in reducing liquefaction potential, settlements after earthquake and pore water generation. Shaking table is made of Plexiglas with inner dimensions of 200&#215;50&#215;70 cm. At bottom of the container a void chamber is made by using a number 200 sieve so that the saturation process could be done gradually and uniformly. A plastic plate was rigidly fixed at the center of container to separate reinforced and unreinforced samples from each other and waterproofing carefully. Therefore two models (reinforced and unreinforced) can be tested at once with the same input acceleration. An absorbing layer of foam with 2 cm thickness was employed to decrease the effect of boundary conditions in order to avoid a direct confrontation model with a rigid container. Firoozkuh No. 161 sand and tire powders were used for the mixture in reinforced side, and pure sand in unreinforced side. In this study 4 mixture ratio (TC=5%, 10%, 15% and 20%) were done. Both of unreinforced (pure sand) and reinforced (tire powders-sand mixture) models were prepared by wet tamping method, in which soil is mixed with 5% water. Each model was prepared in six layers. The required weight for each layer was considered based on the desired density (relative density is zero) and exact volume of the layer. Each portion was placed into the model container and then tamped to reach desired level. Carbon dioxide (CO2) was allowed to pass through the specimen at a low pressure in order to replace the air that trapped in the pores of the specimen. Then water was allowed to flow upward through the bottom of the container at low pressures in order to flush out the CO2 that cause increasing the final degree of saturation. Vibration with approximate uniform amplitude and 2 Hz frequency was applied to the container.
+Results and discussion
+Results indicate that acceleration within the soil tends to be increased towards the soil surface. On the other hand, after initial liquefaction (that occurred at un-reinforced models), acceleration is decreased due to the increase in excess pore water pressure. Also, it can be seen that the increase in tire powders ratio remarkably reduces the maximum excess pore-water pressure ratio. The settlement of the tire powders-reinforced models is significantly less than the unreinforced models, and with the increase of the tire powder percentage shows a very small increase of volume. The outcomes show that the value of the mean damping ratio versus the shear strain range of 0.01 is increased with the increase in tire powder content. Shear modulus is obtained from the ratio of the difference in maximum and minimum stress and strain developed in desired loop. The maximum of the shear modulus in reinforced models is more than the unreinforced models.
+Conclusion
+The main aim of the present paper was to investigate the influence of reinforcing a saturated sandy soil with tire powders on the soil dynamic properties and the mitigation of liquefaction potential. The following conclusions were drawn from this research.
+- The increase of pore-water pressure leads to a reduction in soil shear stiffness and acceleration amplitude.
+- Reinforcing sand with tire powders reduces the excess pore-water pressure ratio because of liquefaction and increases liquefaction resistance.&#160;
+- Reinforcing sand with tire powders decreases settlement caused by liquefaction.
+- The damping ratio decreases at large shear strain as liquefaction occurs.
+- Maximum shear modulus and mean damping ratio of reinforced soil has been increased with increasing tire powder content in the mixture../files/site1/files/123/3BahadoriFarzali.pdf
+</body>
+
+</article>
+
+
+  <article-id pub-id-type="publisher-id">2568</article-id>
+
+  <article-categories>
+	<subj-group>
+	  <subject>Geotecnic</subject>
+
+	</subj-group>
+  </article-categories>
+
+  <title-group>
+	<article-title>Experimental and Numerical Modeling of Hydraulic Fracturing in Loshan Sandstone</article-title>
+
+  </title-group>
+
+  
+
+
+  <contrib-group>
+
+  
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname></surname>
+		<given-names></given-names>
+	  </name> 
+	</contrib> 
+	
+
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname>Akrami</surname>
+		<given-names>Abbas </given-names>
+	  </name> 
+	</contrib> 
+	
+
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname>Jafari</surname>
+		<given-names>Ebrahim </given-names>
+	  </name> 
+	</contrib> 
+	
+
+  </contrib-group>
+
+  
+			<aff>
+
+			
+	</aff>
+ 
+ 
+  
+
+
+  <pub-date pub-type="pub">
+
+	<day>1</day>
+	<month>2</month>
+
+	<year>2019</year>
+
+  </pub-date>
+
+  <volume>12</volume>
+
+  <issue>3</issue>
+
+  <fpage>429</fpage>
+
+  <lpage>448</lpage>
+
+  
+			  <history>
+
+				<date date-type="received">
+
+				  <day>12</day>
+				  <month>10</month>
+				  <year>2016</year>
+				</date>
+
+			  </history>
+
+		
+			  <history>
+
+				<date date-type="accepted">
+
+				  <day>11</day>
+				  <month>06</month>
+				  <year>2017</year>
+				</date>
+
+			  </history>
+
+		
+</article-meta>
+
+</front>
+
+
+
+<body>
+
+Introduction
+Hydraulic fracturing is used in the oil industry in order to increase the index of production and processing in wells whose efficiency has been dropped due to long-term harvest or the rocks around the well are low permeable. Since the hydraulic fracturing operation is costly, it is of special importance to determine the pressure required for hydraulic fracturing and the suitable pump for this operation to the project managers.
+The hydraulic fracturing technique refers to the process of initiation and extension of fractures in rocks caused by the hydraulic pressure applied by a fluid. This technique was developed by Clark (19). Haimson and Fairhorst (20) continued the research on the initiation and extension of fracture. Hubbert and Willis conducted comprehensive studies on the mechanics of hydraulic fracturing to determine the direction and condition of principal stresses using the hydraulic fracturing process. Since then, numerous studies and modellings have been conducted to investigate the factors effecting the hydraulic fracturing.
+The present research is important because experimental and numerical modeling were used to calculate the hydraulic fracturing pressure for different conditions and to select the suitable pump for the operation.
+These simulations are aimed to investigate the fracture pressure in Loshan sandstone to determine a relationship between the pressure needed for fracturing and the confining pressure.
+Material and methods
+The specimen examined in this study is the Loshan sandstone. Sandstone is a sedimentary rock which is formed in all geological periods and is mainly consisted of fine sand particles, different minerals and has various colors. This rock is mainly formed in the shallow seas, deltas, along the coasts, and in hot deserts. Moreover, materials such as clay and silicon oxide contributed to the cementation of its particles.
+The rock sample of Loshan sandstone is a calcareous sandstone with a limestone-silica structure whose cement is calcareous (Figure 1). The main and secondary minerals in this rock include calcite, feldspar alkaline, quartz, and opaque minerals. The diagenesis of this rock includes sericitization, chertization, and calcification. The main shapers of this rock are shaped and semi-shaped quartzes with calcite.
+The physical and mechanical properties of the specimens are presented in Table 1.
+Table 1. Physical and mechanical properties of the Loshan sandstone
+
+	
+		
+			Effective Porosity (%)
+			Dry unit weight (KN/m3 )
+			Tensile strength (MPa) 
+			Poisson&#8217;s ratio
+			Uniaxial compressive strength (MPa) 
+			Elastic modulus (GPa)
+		
+		
+			7.5
+			21.60
+			6
+			0.21
+			54.62
+			12..22
+		
+	
+
+&#160;
+&#160;
+Figure 1. Loshan sandstone
+Results and discussion
+Fracture pressures in the developed models are listed in table 2. The Fracture pressures obtained from numerical modeling had a 10% difference with the experimental modeling results.
+Table 2. Experimental ant numerical modeling results
+
+
+	
+		
+			Fracture pressures obtained from experimental modeling
+			Fracture pressures obtained from numerical modeling
+			Confining pressure (MPa)
+			Axial stress
+			(MPa)
+			Model number
+		
+		
+			14.58
+			13.8
+			2
+			2.26
+			1
+		
+		
+			15.7
+			15
+			2.5
+			2.5
+			2
+		
+		
+			11.16
+			9.9
+			0
+			5
+			3
+		
+		
+			11.39
+			9.9
+			0
+			7
+			4
+		
+	
+
+Figure 2 shows the relationship between the pressure required to initiate hydraulic fracturing and confining pressure for Loshan sandstone. There was a linear relationship between fracture pressure and confining pressure. Thus, with an increase of the confining pressure, the pressure required to initiate hydraulic fracturing increased. The relationship between the fracture pressure and the confining pressure for Loshan sandstone is in the form of Equation (1).
+Pf = 1.7386 &#963;3+ 11.242&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (1)
+&#160;
+&#160;
+Figure 2. Relationship between fracture pressure and confining pressure
+Conclusion
+The following conclusions were drawn from this research.
+1. The increase of lateral stress led to an increase in the fracture pressure. &#160;
+2. Changes in the axial stress did not significantly change the fracture pressure.
+3. The results of numerical modellings were well consistent with those of the experimental modellings.
+4. Unlike other studies conducted in this field, the numerical modellings in this study were performed without any initial pre-determinations for the crack-less models. Results show that in most cases, cracks initiate from the center and are extended toward both ends of the sample. The crack extension direction was parallel to the borehole axis inside the sample and perpendicular to the lateral stress. This is fully consistent with the observations in the experimental models.
+./files/site1/files/123/4Extended_Abstract.pdf
+</body>
+
+</article>
+
+
+  <article-id pub-id-type="publisher-id">2808</article-id>
+
+  <article-categories>
+	<subj-group>
+	  <subject>Geotecnic</subject>
+
+	</subj-group>
+  </article-categories>
+
+  <title-group>
+	<article-title>Identification of Suitable Areas for Hazardous waste Disposal in Chaharmahal and Bakhtiari Province using Geographic Information Systems and Analytic Hierarchy Process</article-title>
+
+  </title-group>
+
+  
+
+
+  <contrib-group>
+
+  
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname>Khalaji Pirbalouti</surname>
+		<given-names>Javad </given-names>
+	  </name> 
+	</contrib> 
+	
+
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname>Hafazi Moghadas</surname>
+		<given-names>Naser </given-names>
+	  </name> 
+	</contrib> 
+	
+
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname> Lashkaripour</surname>
+		<given-names>Gholam Reza</given-names>
+	  </name> 
+	</contrib> 
+	
+
+  </contrib-group>
+
+  
+			<aff>
+
+			
+	</aff>
+ 
+ 
+  
+
+
+  <pub-date pub-type="pub">
+
+	<day>1</day>
+	<month>2</month>
+
+	<year>2019</year>
+
+  </pub-date>
+
+  <volume>12</volume>
+
+  <issue>3</issue>
+
+  <fpage>449</fpage>
+
+  <lpage>466</lpage>
+
+  
+			  <history>
+
+				<date date-type="received">
+
+				  <day>13</day>
+				  <month>08</month>
+				  <year>2018</year>
+				</date>
+
+			  </history>
+
+		
+			  <history>
+
+				<date date-type="accepted">
+
+				  <day>13</day>
+				  <month>08</month>
+				  <year>2018</year>
+				</date>
+
+			  </history>
+
+		
+</article-meta>
+
+</front>
+
+
+
+<body>
+
+Introduction
+Hazardous waste (solid, liquid or contained gases) is a waste with properties that make it potentially dangerous or harmful to human health or the environment. Site selection and suitable conditions for hazardous wastes landfill is considered as the final stage of waste management that they have high sensivity. The purpose of this study is to identify prone areas to hazardous waste landfill for Chaharmahal and Bakhtiari province using geographic information systems (GIS) as an important tool for the analysis of potential sites and the Analytical Hierarchy Process (AHP) and to provide solutions to optimize the positioning is executed. Firstly, criteria and limitations of environmental, economic, social and physical were determined, then layers of the criteria in GIS were prepared. In this study, the inappropriate areas were first removed from the model, and the suitability of remaining regions as a categorize criterion considered. Categorize criteria for paired comparison using AHP as an efficient tool for determining the relative weight parameters are used to measure and rank the expert choice application imposed. Then the implement paired comparison of the relative weights of the criteria and sub-criteria and criteria for each category were determined. After calculating the net weight and normal weight, normal weight based on standard maps in the GIS environment has been classifieds. Finally, by combining maps and applying criteria FA map, the final map was extracted.
+Material and methods
+The purpose of this research is to identify and prioritize appropriate areas of special waste disposal using multi-criteria decision-making methods. In order to locate using the GIS, first, identifying, evaluating and selecting criteria and constraints for the construction of landfill, in order to reduce the economic, environmental, and health costs. In the multi-criteria evaluation method, criteria are the basis of decision making, so that a set of criteria is combined and combined to achieve a single combination. In this paper, a two-stage process was used to locate the landfill site. In the first stage, which is recognized as the identification stage of prohibited areas according to different criteria, the study area is divided into two appropriate and inappropriate classes that will be eliminated as prohibited areas for the construction of landfills. In the second stage, the various factors are ranked and weighted according to the relative importance and, finally, places that receive the appropriate points are introduced as areas susceptible to the dumping of special wastes. In order to obtain the digital data of the criteria in the GIS environment from the digital elevation map (DEM), the specifications of the piezometric wells information are available from the regional water organization of the province. The available data such as geological map of the province at a scale of 1: 250,000, satellite images of Landsat and map of land suitability of the province, rainfall data of the synoptic stations of the province and the data of the Environmental Protection Agency were used. In general, the following steps have been taken in the process of locating:
+- Identification of effective locating factors (limitations and factors)
+- Digitizing and providing the required layers of information using the GIS package
+- Identify and eliminate prohibited and inappropriate areas for landfill construction
+- Classification and weighting of the factors and layers of information sought
+- Integration of layers and the provision of a mapped rate and talent to determine the appropriate areas.
+Results and discussion
+1. Set limits
+In this study, in order to select suitable sites for landfill particular, the criteria and limitations were determined. The information layers for each of the criteria were provided in the GIS environment.
+2. Classification and weighting criteria
+In the second stage, which is the stage of weighting and rating, of 14 effective criteria were used in site selection. AHP is one of the most efficient techniques, multi-criteria decision. This method is based on comparing factors and to study various scenarios to give managers and decision makers. This technique is one of the most comprehensive system designed for decision-making with multiple criteria.
+3. Editor hierarchy to locate
+Hierarchical structure is a graphical representation of a real complex problem, which mainly target the problem and at the next general criteria, sub-criteria and options are the way in AHP is used to calculate points based on comparison test.
+4. Shipping Weight Matrix Binary comparison and decision-making
+After compiling a hierarchical structure, the next step is to evaluate the elements by comparing the test. In general, if the number of options and criteria respectively m and n are then paired comparison matrix of options for comparison matrix m &#215; m and n &#215; n matrix will be a couple of criteria.
+5. After weighing and preparing the normal weight of the options, the normalized weights in the GIS environment were added to the criteria map and the Raster and Weighted layers of each criterion were prepared. Due to the wide area of the studied area, the size of each pixel was 50 * 50 m. Then, using the Raster Module, the Criterion Map was combined and a zoning map was prepared for the special waste disposal site.
+Conclusions
+In the present study, according to various criteria influencing the Hierarchical Analysis Process for prioritizing the criteria in decision making, based on the results, the talent map of the area was prepared for special waste dumping, in which according to the final score of the layers, the area was classified into four appropriate, relatively suitable, relatively inappropriate and inappropriate classes. Suitable areas were 12.64%, relatively fairly 32.47%, relatively inappropriate 30.43%, and inappropriate zones 9.58% of the area of the talent map were included.
+./files/site1/files/123/5Extended_Abstract.pdf
+</body>
+
+</article>
+
+
+  <article-id pub-id-type="publisher-id">2531</article-id>
+
+  <article-categories>
+	<subj-group>
+	  <subject>Geotecnic</subject>
+
+	</subj-group>
+  </article-categories>
+
+  <title-group>
+	<article-title>Jet-Grouting Columns Performance of Foundation Improvement- A case study</article-title>
+
+  </title-group>
+
+  
+
+
+  <contrib-group>
+
+  
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname>Sabermahani</surname>
+		<given-names>Mohsen </given-names>
+	  </name> 
+	</contrib> 
+	
+
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname>Ghalehnovi</surname>
+		<given-names>Valiollah </given-names>
+	  </name> 
+	</contrib> 
+	
+
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname>Elahi</surname>
+		<given-names>Hamidreza </given-names>
+	  </name> 
+	</contrib> 
+	
+
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname>Atashband</surname>
+		<given-names>Shaham </given-names>
+	  </name> 
+	</contrib> 
+	
+
+  </contrib-group>
+
+  
+			<aff>
+
+			
+	</aff>
+ 
+ 
+  
+
+
+  <pub-date pub-type="pub">
+
+	<day>1</day>
+	<month>2</month>
+
+	<year>2019</year>
+
+  </pub-date>
+
+  <volume>12</volume>
+
+  <issue>3</issue>
+
+  <fpage>467</fpage>
+
+  <lpage>486</lpage>
+
+  
+			  <history>
+
+				<date date-type="received">
+
+				  <day>14</day>
+				  <month>05</month>
+				  <year>2016</year>
+				</date>
+
+			  </history>
+
+		
+			  <history>
+
+				<date date-type="accepted">
+
+				  <day>08</day>
+				  <month>02</month>
+				  <year>2017</year>
+				</date>
+
+			  </history>
+
+		
+</article-meta>
+
+</front>
+
+
+
+<body>
+
+Introduction
+Jet-grouting is a soil improvement technique which was originated in Japan. Jet-grouting method consist of disaggregation of soil or weak rock and its mixing with, and partial replacement by, a cement agent; the disaggregation is achieved by means of a high energy jet of a fluid which can be the cement agent itself. Jet-grouting techniques can be grouped into three main systems, which are named single, double and triple fluid, depending on the number of fluids injected into the subsoil, namely, grout (usually water&#8211;cement mixture), air and grout, and water plus air and grout. In the beginning, jet grouting was mostly viewed as a means of improving the subsoil properties for the foundations of large structures. Nowadays, its application are diversified for use in foundations, excavations, tunneling, water barriers and underpinning. This paper studies foundation improvement by jet-grouting in one of Iran northern cities and seeks the optimum design parameters for jet-grout columns in saturated and unsaturated sand. Results of cement grouting as one-fluid jet-grouting method together with site geotechnical characteristics are presented. Diameters of jet-grouted columns, uni-axial strength of soil-cement cores and core recovery index are surveyed as the most important parameters for performance assessment of improved foundation and the primary design is modified and the project completed based on the results.
+Material and methods
+Design parameter of jet-grout columns were assumed according to guidelines and previous expertise as followsed: single-fluid jet-grout method with 450 bar injection pressure and rod withdrawal speed of 0.5 cm/sec with a grout density of 1600 gr/cm3. Monitor rotation speed was set to 30 rpm. Soil strata consists of a 5 meter sand with some gravels followed by a 7 meter clayey silt with the average SPT numbers of 30 and 7, respectively. To investigate the effectiveness of design parameters, jet-grout columns head were uncovered by excavating its nearby soil and columns diameter were measured. Several core samples were prepared from columns with a L/D ratio of 2 and an average diameter of 74 mm by means of a triple tube core barrel after 28 days of columns installation. The volume of core samples were calculated by multiplying its length to its average cross section (calculated from the average diameter of cores) and their unit weight were obtained by dividing its weight to its volume. Uniaxial compression test conducted in the deformation-control mode with the strain rate of 1 percent on all samples. Core samples were tested in different ages from 34 to 85 days and uniaxial compression strength (UCS) of samples were corrected by age correction factor according to soil type suggested by Sližytė et al.
+Results and discussion
+It is observed that the average diameter of columns that are constructed in unsaturated sand with design parameters mentioned in material and methods section, is one meter and the average diameter of columns that are constructed in saturated sand with the same density as unsaturated sand is 0.8 meter. This could be due to the dissipation of fluid jet energy under the water.
+The modified obtained values from uniaxial compression test show that the strength of samples varies from 28 to 90 kg/cm2. By omitting the lower, an upper 5 precent of the data as irrelevant data, the average UCS of the remaining part is equal to 57 kg/cm2. By applying a geotechnical safety factor of 2.5 to the modified a filtered UCS values, a UCS of 40 kg/cm2 is obtained as the structural strength of get-grout column.
+Conclusion
+-It is observed that utilizing one-fluid jet-grout method with 450 bar injection pressure in saturated silty sand with mean SPT number 30, rod withdrawal speed of 0.5 cm/sec and grout density of 1600 gr/cm3 will result in 80 cm diameter jet-grout columns, while the same parameters will result in a 100 cm column in unsaturated sand which can be due to fluid jet energy dissipation under water.
+-Considering the common design parameter for jet-grout columns in Iran, which are the same as the design parameters discussed in this paper, the UCS of get-grout columns in near shore silty sand with a safety factor of 2.5 is about 40 kg/cm2.&#160;
+./files/site1/files/123/6Extended_Abstract.pdf
+</body>
+
+</article>
+
+
+  <article-id pub-id-type="publisher-id">2626</article-id>
+
+  <article-categories>
+	<subj-group>
+	  <subject>En. Geology</subject>
+
+	</subj-group>
+  </article-categories>
+
+  <title-group>
+	<article-title>Evaluation of the Effect of Rock Texture on Engineering Properties in Carbonate Rocks  </article-title>
+
+  </title-group>
+
+  
+
+
+  <contrib-group>
+
+  
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname></surname>
+		<given-names></given-names>
+	  </name> 
+	</contrib> 
+	
+
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname></surname>
+		<given-names></given-names>
+	  </name> 
+	</contrib> 
+	
+
+  </contrib-group>
+
+  
+			<aff>
+
+			
+	</aff>
+ 
+ 
+  
+
+
+  <pub-date pub-type="pub">
+
+	<day>1</day>
+	<month>2</month>
+
+	<year>2019</year>
+
+  </pub-date>
+
+  <volume>12</volume>
+
+  <issue>3</issue>
+
+  <fpage>487</fpage>
+
+  <lpage>514</lpage>
+
+  
+			  <history>
+
+				<date date-type="received">
+
+				  <day>26</day>
+				  <month>02</month>
+				  <year>2017</year>
+				</date>
+
+			  </history>
+
+		
+			  <history>
+
+				<date date-type="accepted">
+
+				  <day>10</day>
+				  <month>09</month>
+				  <year>2017</year>
+				</date>
+
+			  </history>
+
+		
+</article-meta>
+
+</front>
+
+
+
+<body>
+
+Introduction
+Texture coefficient (TC) is a method of quantification rock texture by using the image of rock thin sections and image analysis. Many researchers have studied the effect of TC on engineering properties in different rock types (Ozturk et al., 2014). Also, some researchers are expressed that engineering properties of sedimentary rocks are mainly influenced by rock texture (Fahy and Guccione, 1979; Ulusay et al., 1994; Eberli et al., 2003; Khanlari et al., 2016; Ajalloeian et al., 2017). Carbonate rocks which are mainly sedimentary rocks are used in many different projects in Iran. In this research by using of TC, rock texture is quantified and also effects of TC are investigated on engineering properties of some carbonate rocks.
+Grain shape and size can be quantified by the length (L), width (W), area (A) and perimeter (P) which are used to formulate the tow coefficients including aspect ratio (AR) and form factor (FF). Also, packing density can be quantified by area weighting of grains (AW) which is the relative proportion of matrix and grains. Angle factor (AF) is used to quantify the angular orientation of grains that is calculated only for elongated grains. The AF is computed by class weighted system applied to acute angular differences between elongated grains (Howarth and Rowlands, 1986, 1987).
+High values of these factors can be interpreted as a rock texture which influences the geotechnical properties. The quantitative assessment of rock texture is formulated by these factors in Eq. (1) (Howarth and Rowlands, 1987).&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Eq. (1)
+where N0 and N1 are the numbers of grains whose aspect ratio is below and above tow, respectively; FF0 and AR1 are the arithmetic mean of discriminated FF and AR, respectively; and AF1 is proposed to divide the AF value by 5 (AF1=AF/5).
+TC equation is presented to evaluate mechanical properties like strength and drillability in different rocks, but some researchers found a high correlation between TC with other engineering properties of rocks. Generally, many researchers proposed TC as a good approach of describing and classifying different rocks and predicting some engineering properties in some rocks (Howarth and Rowlands, 1987; Ersoy and Waller, 1995; Ozturk et al., 2004; Alber and Kahraman, 2009; Ozturk and Nasuf, 2013; Ozturk et al., 2014).
+Material and methods
+28 samples of carbonate rocks were gathered from different Formation of Iran. Rock thin section for each sample was made to calculate TC value. TC was determined by a new method of image analysis. Also, some rock mechanics tests including unit weight, water absorption, porosity, point load index, uniaxial compressive strength (UCS), slake durability index and Los Angeles abrasion loss are conducted. Rock samples are tested according to the international standard ISRM (2007). The dependent variable is engineering properties and the independent variable is TC. The best nonlinear relations with highest correlations (R2) were aimed to predict the engineering properties, to clarify the relationships between them. The efficiency of each prediction equations was investigated by the root mean square error (RMSE) and value account for (VAF). In each samples belonging to the same Formation, regression analysis has been done and compared to the results of all samples and also for UCS and previous equations presented by other researchers. 
+Results and discussion
+There is a significant correlation between TC with some engineering properties. Highest correlation is between TC and UCS (R=0.942) and the lowest with point load index (R=0.635). Overall, when the TC increased, parameters like unit weight, point load index, USC, and durability index increased too, but water absorption, porosity, and Los Angeles abrasion decreased. Increasing TC is correlated with enhancing geomechanical properties of carbonate rocks. Improving engineering properties of rocks (like UCS, Brazilian tensile strength, Young&#8217;s modulus, density, shore hardness, porosity and point load index) by increasing TC value are presented by different researchers on different rocks (Howarth and Rowlands, 1987; Ersoy and Waller, 1995; Azzoni et al., 1996; Ozturk et al., 2004; Alber and Kahraman, 2009; Ozturk and Nasuf, 2013; Ozturk et al., 2014). However, in this research, data is limited to carbonate rocks that are abundant sedimentary rocks. Some researcher mentioned that geomechanical properties of sedimentary rocks are mainly influenced by texture (e.g. Fahy and Guccione, 1979; Ulusay et al., 1994; Eberli et al., 2003). In addition, It is mentioned that the strength of carbonate rocks are related to the various textural parameters (Tugrul and Zarif, 2000; Torok and Vasarhelyi, 2010; Jensen et al., 2010; Ajalloeian et al., 2016). Carbonate rocks don't have varied mineralogy's, but the texture in these rocks could be variable.
+Results show that the highest correlation index is between TC and UCS and its correlate according to the other investigation (Howarth and Rowlands, 1987; Ozturk et al., 2004). TC equation doesn&#8217;t cover all the criteria of rock texture, but it has a good correlation with some engineering properties of carbonate rocks. It can be possible to predict UCS, density and water absorption with VAF accuracy with more than 70 percent and lowest RMSE. TC can be showed some engineering properties of carbonate rocks. Therefore, it can be used in the preliminary design of the project for rock mechanic purposes and obviously, time and cost will be reduced. Moreover, it is very useful for a situation that suitable and enough samples cannot be extracted. It is important that rock samples don&#8217;t have any alteration and weathering of minerals and macroscopic heterogeneity.
+&#160;
+&#160;
+Conclusion
+In this research, the effect of texture coefficient as a factor that represents the texture of rocks on physical, mechanical and durability properties of carbonate rocks in some parts of Iran was evaluated. Furthermore, it is a time-consuming process to determine the TC of rock, but preparing rock thin sections and microscopic analyses are a part of the preliminary studies in engineering geology. When image analysis methods which are used to determine TC, the time is shortened and accuracy will be increased. TC can be calculated simply by image analysis, but it doesn't cover all the criteria of rock texture. In addition, in TC equation, some factors play an important role, but some factors don&#8217;t have a direct effect, and these factors are not fully acknowledged in the original concept of TC. TC equation is presented to evaluate mechanical properties like strength and drillability in different rocks, but some researchers found a high correlation between TC with other engineering properties of rocks. The results indicate that TC value has a direct correlation with UCS, density, durability index and point load index and also, has a reverse correlation with water absorption, Los Angeles abrasion loss and porosity. The strong relationship is between TC and UCS (R2=0.92) and the weak relationship is between TC and porosity (R2=0.58). With regression analysis and TC value, it could be predicted UCS, density and water absorption with accuracy more than 70% VAF which considering previous equations and the proposed equation obtained from this research for UCS., it is showed that although the same trend exists, the noticeable difference is available. However, more studies are needed for investigating by more samples and different rock types and statistical analysis.&#160;
+./files/site1/files/123/7Extended_Abstract.pdf
+</body>
+
+</article>
+
+
+  <article-id pub-id-type="publisher-id">2640</article-id>
+
+  <article-categories>
+	<subj-group>
+	  <subject>Geotecnic</subject>
+
+	</subj-group>
+  </article-categories>
+
+  <title-group>
+	<article-title>Evaluation of the Effect of Moisture on Interface Shear Strength Parameters of Lime Stabilized Clayey Soil-Geogrid with Sifferent Aperture Size</article-title>
+
+  </title-group>
+
+  
+
+
+  <contrib-group>
+
+  
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname>Mahbubi-Motlagh</surname>
+		<given-names>Nazanin </given-names>
+	  </name> 
+	</contrib> 
+	
+
+	<contrib contrib-type="author">
+
+	  <name>
+
+		<surname>Mahboubi Ardakani</surname>
+		<given-names>Ahmad-Reza </given-names>
+	  </name> 
+	</contrib> 
+	
+
+  </contrib-group>
+
+  
+			<aff>
+
+			
+	</aff>
+ 
+ 
+  
+
+
+  <pub-date pub-type="pub">
+
+	<day>1</day>
+	<month>2</month>
+
+	<year>2019</year>
+
+  </pub-date>
+
+  <volume>12</volume>
+
+  <issue>3</issue>
+
+  <fpage>515</fpage>
+
+  <lpage>542</lpage>
+
+  
+			  <history>
+
+				<date date-type="received">
+
+				  <day>23</day>
+				  <month>04</month>
+				  <year>2017</year>
+				</date>
+
+			  </history>
+
+		
+			  <history>
+
+				<date date-type="accepted">
+
+				  <day>27</day>
+				  <month>08</month>
+				  <year>2017</year>
+				</date>
+
+			  </history>
+
+		
+</article-meta>
+
+</front>
+
+
+
+<body>
+
+Introduction
+Many studies have shown that the lime stabilization method can increase the strength and hardness of cohesive soils. Increasing these parameters is dependent on several factors such as curing time, lime content, clay minerals, soil particle size and moisture content.
+When lime is added to moisture clay soils, a number of reactions occur to improve soil properties: 1- short-term and 2- long-term reactions. The short-term reactions include cation exchange, flocculate and carbonation; whereas, the long-term reactions include pozzolanic reactions. Since adding lime changes clay particles structure, it can change shear strength parameters.
+Using geogrids as reinforcement in soil mass creates a composite system in which the soil tolerates compressive stresses. The elements of the reinforcement are also responsible for tensile stresses and interaction the reinforcement elements and soil increases the strength and ductility. The mechanism of stress transfer is based on interaction between soil and reinforcement. Accordingly, one of the most important issues in the analysis and design of reinforced soil structures is determination of frictional resistance parameters in soil-geogrid interface (adhesion and friction angle) which is discussed in this paper.
+Stability and performances of reinforced earth structures significantly depend on the shear behavior of interface soil-geogrid in different weather conditions. Factors such as rainfall, seepage of groundwater and seasonal changes influence on soil moisture content. Changes in moisture content or soil dry density change interface soil-geogrid resistance. Increasing moisture content reduces the shear strength of reinforced soil and sometimes leads to large deformation or failure of system.
+In this study, clayey soil with low plasticity (CL), hydrated lime for soil stabilization and two types of geogrid with different aperture size for reinforcing were used. In order to improve the brittle behavior of lime stabilized soils and to increase ductility of the samples, in the present study, lime stabilization and geogrid reinforcement was investigated, simultaneously. The interface shear strength parameters of treated soil with different lime content-geogrid and reinforcement coefficient were determined by direct shear tests. In addition, to study the effect of moisture content on interface shear strength soil-geogrid, all samples were subjected to shear in optimum and higher moisture content because the long-term performance of reinforced cohesive soils exposed to seasonal variations is evaluated.
+Material and methods
+The selected soil for the study is clayey soil from south region of Tehran, Iran. According to Unified Soil Classification System (USCS), the soil was classified as CL (clay of low plasticity).
+In this study, three series of specimens were prepared and tested as follows:
+
+	Stabilized samples with 0, 2, 4 and 6% lime for 7 days curing time
+	Reinforced samples by geogrid (with and without transverse ribs of geogrid)
+	Reinforced stabilized samples with different lime contents (0, 2, 4, 6 and 8%) by geogrid (with and without transverse ribs of geogrid) for 7 days curing times
+
+To investigate the effects of bearing resistance provided by the transverse members of the geogrid and their contribution to the overall strength for reinforced soil sample, numerous tests were conducted with the geogrid without transverse members (all the samples had the same number of longitudinal members of the geogrid).
+Direct shear tests were carried out on specimens based on ASTM D5321 at constant horizontal displacement rate of 1 mm/min.
+Results and discussion
+The results reveal that the shear strength of the stabilized soil increased and there are maximum values in an optimum lime content which is about 4%. Increasing lime content to an optimum lime content of clay caused the maximum changes in clay minerals because of cementitious and pozzolanic reactions and increases the strength of the clayey soil. Reduction of strength by adding lime to the soil more than the optimum content may be caused by the following reasons:
+1. Stopping pozzolanic reactions because of finishing reactance during reaction
+2. Making difficult the release of limewater (Ca OH 2) in the cementitious context of soil.
+Until SiO2 and AL2O3 are not finished, pozzolanic reactions continue and produce cementitious product, thus the shear strength increases and improves the long-term performance of the stabilized soils.
+Reinforced soil samples have higher shear strength relative to samples without reinforcement subjected to the same normal stress. This increase in shear strength is mainly attributed to the interlocking of soil particles that penetrate through geogrid apertures. In addition, geogrids restrain particles&#180; movement and thus increase the mobilized frictional resistance at particle contact points.
+Increasing in lime content to 4% (optimum lime content in this study) has significant effect on the development of adhesion and then decreases gradually with increasing of lime content from 4 to 6%, while friction angles remain constant approximately.
+Adhesion and friction angles decrease with increasing moisture content.
+The results show that the reinforced stabilized specimen with 4% lime has the maximum value of reinforcement efficiency. The increase in moisture content can significantly reduce the reinforcement efficiency.
+It is clearly observed that the reinforcement coefficient of reinforced stabilized sample by geogrid that has smaller aperture opening size (4&#205;4 mm) is higher than reinforced stabilized sample by another geogrid (10&#205;10 mm) in optimum and higher than optimum moisture content.
+Conclusion
+One hundred and twenty samples in 3 specimen categories including lime treated, reinforced and reinforced treated samples were prepared for the current study for 7 days curing time in optimum content and higher than optimum content. The main results can be concluded as:
+The test results indicate that the shear strength of stabilized clayey samples increases after 7 days curing time due to pozzolanic reactions.
+The results show that reinforced samples have higher shear strength relative to unreinforced samples.
+Adhesion and friction angles and reinforcement efficiency decrease with increasing moisture content.
+The reinforcement coefficient of reinforced stabilized sample by geogrid 1 that has smaller aperture opening size is higher than by geogrid 2. In general, interaction between particles and geogrid with smaller mesh size is stronger because of matching the size of soil particles and meshes../files/site1/files/123/8Extended_Abstract.pdf
+&#160;
+</body>
+
+</article>
+

@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+<JOURNAL>
+<YEAR>1391</YEAR>
+<VOL>5</VOL>
+<NO>2</NO>
+<MOSALSAL>11</MOSALSAL>
+<PAGE_NO>1326</PAGE_NO>
+
+
+<ARTICLES>
+
+	<ARTICLE> 
+		<TitleF>بررسی شکست ذرات مصالح سنگریزه‌ای در آزمایش سه محوری</TitleF>
+		<TitleE>Assessment of particle breakage in rockfill materials using triaxial testing</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>در همه مصالح سنگریزه¬ای تحت اثر تنش¬های اعمالی زیاد، شکست دانه ها رخ می¬دهد. شکست دانه‌ها و خرد شدن آنها به دانه‌های کوچک‌تر باعث کاهش مقاومت برشی و افزایش تغییرشکل می‌شود. معمولاً شکست دانه‌ها که در آزمایش‌های سه محوری مشاهده می‌شود را با شاخص شکست مارسال، ، بیان می‌کنند. در این مقاله روشی برای محاسبه در هر سطح از کرنش محوری در آزمایش‌های سه محوری ارائه می‌گردد. بدین منظور از اصل مینیمم انرژیRowe استفاده می‌شود. پارامتر کلیدی در روش یاد شده برای محاسبه ، مقدار ، زاویه اصطکاک مصالح بدون درنظرگرفتن اتساع و شکست ذرات، می‌باشد. بررسی‌ها و آزمایش‌های صورت گرفته نشان داد که ، زاویه اصطکاک مصالح سنگریزه¬ای در تنش¬های محدود کننده موثر کمتر از kPa 200 به شرط ایجاد شرایط حجم ثابت و در کرنش نظیر حالت حجم ثابت می‌باشد. همچنین تغییرات نسبت انرژی شکست و فاکتور شکست مارشال با تنش محدود کننده در کرنش نظیر گسیختگی با رابطه خطی قابل ارائه است.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>All rockfill materials subjected to stresses above the normal geotechnical ranges exhibit considerable particle breakage. Particle breakage and crushing of the large particles to smaller ones result in a lower strength and higher deformability. The breakage of particle that is observed in the large scale triaxial tests, is usually expressed quantitatively by the Marsal breakage index, . This paper presents a method for calculating at any axial strain level in the large triaxial tests. The model used Rowe’s minimum energy principle ratio. The key parameter in modeling , is the friction angle which excludes dilation and breakage effects, . The results indicate that the internal friction angles at confining pressure equal and less than 200 kPa at the constant volume state is a unique value. Moreover, there is a linear relationship between the variation of energy spent on particle breakage to Marsal Breakage index with confining pressure, at failure axial strain.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>1193</FPAGE>
+			<TPAGE>1216</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>عطاء</Name>
+				<MidName></MidName>
+				<Family>آقایی آرایی</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>مرکز تحقیقات ساختمان و مسکن</Organization>
+				</Organizations>
+				<Universities>
+				<University>مرکز تحقیقات ساختمان و مسکن</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>aghaeiaraei@bhrc.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>عباس</Name>
+				<MidName></MidName>
+				<Family>سروش</Family>
+				<NameE>A</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Sorosh</FamilyE>
+				<Organizations>
+				<Organization>هیأت علمی</Organization>
+				</Organizations>
+				<Universities>
+				<University>هیأت علمی</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>soroush@aut.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>سعید</Name>
+				<MidName></MidName>
+				<Family>هاشمی طباطبایی</Family>
+				<NameE>S</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Hashemi tabatabaee</FamilyE>
+				<Organizations>
+				<Organization>هیأت علمی</Organization>
+				</Organizations>
+				<Universities>
+				<University>هیأت علمی</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>htabatabaei@bhrc.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>عباس</Name>
+				<MidName></MidName>
+				<Family>قلندرزاده</Family>
+				<NameE>A</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>ghalandarzadeh</FamilyE>
+				<Organizations>
+				<Organization>هیأت علمی</Organization>
+				</Organizations>
+				<Universities>
+				<University>هیأت علمی</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>aghaland@ut.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>واژه‌ها  مصالح سنگریزه‌ای</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شکست دانه‌ها</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سه‌محوری</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>واژه‌ها  مصالح سنگریزه‌ای</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شکست دانه‌ها</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سه‌محوری</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>پیش‌بینی نرخ نفوذ TBM با استفاده از روش شبکه عصبی‌ مصنوعی(مطالعه موردی مترو تبریز)</TitleF>
+		<TitleE>Predicting of TBM penetration rate using the artificial neural networks (case study- Tabriz subway)</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>امروزه ماشین‎های تونل‎بری TBM‎ (Tunnel Boring Machine) بطور وسیعی در حفر تونل‎ها بخصوص تونل‎های شهری استفاده می‎شوند. این ماشین‎ها بر اساس روش نگهداری سینه‌کار و دیواره‌های تونل، دارای انواع مختلفی می‌باشند. یکی از انواع این ماشین‌ها، سپرهای تعادلی فشار زمین EPB (Earth Pressure Balance) می‌باشد که جهت حفاری خط 1 متروی تبریز مورد استفاده قرار گرفته است. عوامل مختلفی نظیر شرایط زمین‎شناسی، خصوصیات توده سنگ، شیب مسیر و همچنین مشخصات ماشین بکار رفته بر میزان کارآیی این ماشین‎ها تأثیر می‎گذارد. یکی از راههای پیش‎بینی میزان کارآیی این ماشین‎ها، تخمین نرخ نفوذ آنها می‎باشد. در این تحقیق میزان نرخ نفوذ TBM در خط 1 متروی تبریز توسط شبکه عصبی مصنوعی پیش‌بینی گردیده است. پیش‌بینی این پارامتر، کمک شایانی در انجام مراقبت و دقت بیشتر در برخورد با مناطق دردسرساز با دانستن زمان برخورد به این مناطق و همچنین استفاده از فشار EPB مناسب در آنها می‌نماید. از نتایج مهم حاصل از این تحقیق می‌توان به پیش‌بینی میزان نرخ نفوذ با دقت قابل قبول و همچنین تعیین پارامترهای مؤثر به وسیله آنالیز حساسیت صورت گرفته توسط شبکه عصبی اشاره کرد.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Tunnel boring machines (TBM) are widely used in excavating urban tunnels. These kinds of machines have different types based on supporting faces and tunnel walls. One type of these machines, is the Earth Pressure Balance (EPB) type that was used in excavating the Line 1 Tunnel of Tabriz Metro. Different parameters such as geological conditions, rock mass properties, dip and machine specifications affect the efficiency of the machine. One method of predicting the efficiency of these machines is to estimate their penetration rates. In this study the value of TBM penetration rates are predicted by an artificial neural network. Predicting of this parameter is so effective for conducting in high risk regions by understanding the time of facing to these regions. The main result of this study is to forecast the penetration rate with an acceptable accuracy and to determine the effective parameters through sensitivity analysis measured by an artificial neural network.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>1217</FPAGE>
+			<TPAGE>1234</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>حسین</Name>
+				<MidName></MidName>
+				<Family>اینانلو عربی شاد</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد اسلامی واحد تهران جنوب</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد اسلامی واحد تهران جنوب</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>jegeo1382@gmail.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>غلامرضا</Name>
+				<MidName></MidName>
+				<Family>لشکری پور</Family>
+				<NameE>Gholam</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Lashkaripour</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه فردوسی مشهد</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه فردوسی مشهد</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>lashkaripour@um.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>.مجید</Name>
+				<MidName></MidName>
+				<Family>اکبری</Family>
+				<NameE>M</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Akbari</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>sadeghi@um.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Predicting of TBM penetration rate</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Tabriz Metro Tunnel</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Artificial neural network</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>sensitivity analysis</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>کلمات کلیدیپیش‌بینی نرخ نفوذ</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تونل متروی تبریز</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شبکه عصبی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>آنالیز حساسیت</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>پیش‌بینی جابجایی‌های زمین اطراف تونل در اثر حفاری با ماشین‌های EPB (مطالعه موردی: خط 3 متروی تهران)</TitleF>
+		<TitleE>Prediction of ground movements around tunnel due to excavation by EPB machines (Case study three line of Tehran subway)</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>رشد و توسعه شهرهای بزرگ نیازمند استفاده از شبکه‌های زیرزمینی در ایجاد زیرساخت‌ها و تسهیلات حمل و نقل شهری است. ساخت تونل در زمین‌های نرم معمولاً جابجایی خاک را به دنبال دارد که می‌تواند تاثیر جدی در پایداری و سلامت سازه‌های موجود داشته باشد. به منظور کاهش این جابجایی‌ها به ویژه در نواحی شهری، مجریان در ساخت تونل‌ها بیش از پیش از ماشین‌های حفر تونل (TBM) استفاده می‌کنند. از اینرو در نواحی شهری، پیش‌بینی جابجایی‌های زمین ناشی از حفر تونل چالش بزرگ مهندسی به شمار می‌رود. در این مقاله به منظور پیش‌بینی جابجایی‌های خاک که در حین ساخت بخشی از تونل خط 3 متروی تهران با استفاده از ماشین حفاری EPB (فشار تعادلی زمین) ایجاد می‌شوند، از یک مدل عددی سه بعدی و نرم افزار ABAQUS استفاده شده است. این بررسی شامل اکثر مؤلفه‌های تونل‌سازی سپری مانند فشار سینه کار، فشار تزریق، ماشین حفاری و تماس اصطکاکی سپر و خاک است. نتایج نشان می دهد که نشست سطحی ماکزیمم در این قسمت 5/2 سانتیمتر است که 5/0 سانتیمتر از حد مجاز آن بیشتر می‌باشد. همزمان با نشست‌های سطحی جابجایی‌های افقی در داخل توده خاک به وجود می‌آیند، که در دو جهت افقی شکل متفاوتی داشته و با افزایش عمق افزایش پیدا می‌کنند.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>The development of large cities requires the use the underground networks for the construction of transportation infrastructures and facilities. Construction of tunnels in soft grounds induces generally soil movement, which could seriously affect the stability and integrity of existing structures. In order to reduce such movements, in particular in urban areas, contractors use more and more the tunnel boring machines (TBM) for the construction of tunnels. Hence in urban environment, Prediction of the ground movements caused by the tunnel excavation is a major engineering challenge. In this paper is used a three-dimensional numerical model and ABAQUS cod for the prediction of soil movements induced during tunnel construction in part of the line 3 of Tehran subway using EPB excavation machine. This investigation include most shield tunneling components such as face pressure, the grouting pressure, excavation machine and frictional contact with soil and shield. Observations of the results demonstrate that the maximum surface settlement in this section is 2.5 cm that is 0.5 cm more than the its allowable value. Simultaneously with surface settlements occur horizontal movements within soil mass, which have different forms in two horizontal directions, and with the expansion of depth they increasing.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>1235</FPAGE>
+			<TPAGE>1250</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>سعید</Name>
+				<MidName></MidName>
+				<Family>حسینی</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد واحد تهران جنوب</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد واحد تهران جنوب</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>saeed.hosseini63@gmail.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>کورش</Name>
+				<MidName></MidName>
+				<Family>شهریار</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه امیرکبیر</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه امیرکبیر</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>k.shahriar@aut.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>مسعود</Name>
+				<MidName></MidName>
+				<Family>منجزی</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه تربیت مدرس</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه تربیت مدرس</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>monjezi@modares.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Urban tunnels</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>EPB Shield tunneling</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ground movements</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>3D modeling</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ABAQUS</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تونل‌های شهری</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تونلسازی سپری EPB</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>جابجایی‌های زمین</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مدلسازی سه بعدی</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>محاسبه تغییرات بازشدگی دهانه درزه‌های سنگی در اثر انحلال به روش تجربی و نظری (مطالعه موردی، ژیپسیت‌های مخزن سد چم شیر)</TitleF>
+		<TitleE>Calculation of the changes of rock joint apertures affected by dissolution through experimental and theoretical methods (A case study: Gypsites of Chamshir dam reservoir)</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>در نواحی کارستیک، مطالعات تفصیلی پدیده­هایی از قبیل فرار آب از محل سازه­های هیدرولیکی و فرونشست زمین در مناطق مسکونی و معدنی، اهمیت زیادی دارد. در این پژوهش، ثابت سرعت انحلال نمونه­های ژیپسیت سازند گچساران، اخذ شده از محل مخزن سد چم‌شیر، برابر 3-10× 24/0 سانتی‌متر بر ثانیه اندازه‌گیری شده است. سپس میزان تغییرات باز شدگی دهانۀ درزۀ نمونه‌ها، با استفاده از روش‌های نظری و تجربی (استفاده از مقادیر تغییرات آب‌گذری درزه‌ها و اندازه‌گیری مستقیم) محاسبه گردیده است. نتایج پژوهش‌ها نشان داد که میزان بازشدگی پیش‌بینی شده برای درزه‌ها به روش نظری با مقدار اندازه‌گیری شده با استفاده از مقادیر تغییرات آب‌گذری درزه‌ها تطابق کم‌تری دارد، در حالی‌که با مقدار اندازه‌گیری شده به روش مستقیم (اندازه‌گیری با استفاده از کولیس) انطباق بیش‌تری دارد. هم‌چنین بر اساس پژوهش انجام شده چنان‌چه ژیپسیت‌های واقع در مخزن پس از آب‌گیری سد در مجاورت جریان آب قرار گیرند، مقدار بازشدگی درزه‌ای با دهانۀ اولیه 5/0 سانتی‌متر پس از حدود 278 روز به 10 سانتی‌متر افزایش می‌یابد. این افزایش دهانۀ درزه در مقایسه با عمر مفید سد توجه ویژه به موضوع آب‌بندی مخزن سد را الزامی می­کند</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>In the karstic areas, detailed studies of phenomena such as seepage of water from hydraulic structures and land subsidence in the residential and quarry areas  is of  higher importance. In this study, the dissolution rate constant of gypsite samples of Gachsaran Formation, obtained from the Chamshir dam reservoir, were measured equal to 0.24×10-3 cm/sec. Then, the changes of amounts of joint apertures using theoretical and experimental (by changes of joint water flowing and direct measurement) methods were calculated. The results showed that the predicted aperture for joints calculated through theoretical method is less consistent with the measured value of the changes of joint water flowing while the value measured by direct method (measured using a caliper) compliance is higher. Also based on research findings, if gypsites of the dam reservoir are exposed to the water flow, the amount of aperture of a joint with 0.5 cm initial opening will increase to 10 cm after about 278 days. This increase in joint aperture compared with the useful life of the dam draws for special attention to water tightening of dam reservoir.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>1251</FPAGE>
+			<TPAGE>1268</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>مجتبی</Name>
+				<MidName></MidName>
+				<Family>حیدری</Family>
+				<NameE>M</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Haedari</FamilyE>
+				<Organizations>
+				<Organization>هیأت علمی دانشگاه بوعلی سینا همدان</Organization>
+				</Organizations>
+				<Universities>
+				<University>هیأت علمی دانشگاه بوعلی سینا همدان</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>Khanlari@basu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>محمدحسین</Name>
+				<MidName></MidName>
+				<Family>قبادی</Family>
+				<NameE>Mh</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Ghobadi</FamilyE>
+				<Organizations>
+				<Organization>هیأت علمی</Organization>
+				</Organizations>
+				<Universities>
+				<University>هیأت علمی</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>gobadi@basu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>مهدی</Name>
+				<MidName></MidName>
+				<Family>ترابی کاوه</Family>
+				<NameE>M</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Torabi Kaveh</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه بوعلی سینا</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه بوعلی سینا</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Dissolution</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Gypsite</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>aperture of joints</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>theoretical method</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>experimental method</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Chamshir dam</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>انحلال</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ژیپسیت</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>بازشدگی درزه ها</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>روش نظری</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>روش تجربی</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>پهنه بندی خطر زمین لغزش با استفاده از شبکه عصبی مصنوعی مطالعه موردی: حوضه کشوری (نوژیان)</TitleF>
+		<TitleE>Landslide hazard zonation using artificial neural networks A case study: Keshvari watershed (Nozhiyan)</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>حوضه آبریز کشوری در جنوب شرقی شهر خرم آباد در استان لرستان قرار دارد. این حوضه از نظر تقسیم بندی زمین ساخت ایران در زاگرس چین خورده قرار می گیرد. با توجه به نوع سازند های زمین شناسی، وضعیت توپوگرافی و وسعت آن، این حوضه از پتانسیل لغزش بالایی برخوردار بوده و از نظر لغزشی ناپایدار است. در این تحقیق برای پهنه بندی خطر زمین لغزش در این حوضه از روش شبکه عصبی مصنوعی با ساختار پرسپترون چند لایه و الگوریتم یادگیری پس انتشار خطا استفاده شده است. نتایج بدست آمده از شبکه عصبی مصنوعی نشان دهنده ساختار نهایی 1-11-9 برای پهنه بندی خطر زمین لغزش در این حوضه است. بر اساس این پهنه بندی 81/23، 53/7، 49/6، 68/18، 47/43 درصد از مساحت منطقه به ترتیب در کلاس های خطر خیلی کم، کم، متوسط، زیاد و خیلی زیاد قرار گرفته است.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>The Keshvari watershed is located at south east of Khorramabad city in Lorestan province. This area is one part of the folded Zagros zone based on structural geology classification. By consider the type of geological formations, topographic conditions and its area, this watershed is very unstable and capable for occurring landslide. In this study, artificial neural network (ANN) with structure of multi-layer percepteron and Back Propagation learning algorithm used for zonation of landslide risk. The results of ANN showed the final structure of 9-11-1 for zonation of landslide risk in Keshvari watershed. According this zonation, 23.81, 7.53, 6.49, 18.68 and 43.47 percent of area are located in very low, low, moderate, high and very high risk classes, respectively.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>1269</FPAGE>
+			<TPAGE>1286</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>سلمان</Name>
+				<MidName></MidName>
+				<Family>سوری</Family>
+				<NameE>salman</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>soori</FamilyE>
+				<Organizations>
+				<Organization>لرستان- کوهدشت- بخش رومشگان- روستای اسداباد</Organization>
+				</Organizations>
+				<Universities>
+				<University>لرستان- کوهدشت- بخش رومشگان- روستای اسداباد</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>soorisalman@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>غلامرضا</Name>
+				<MidName></MidName>
+				<Family>لشکری پور</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشکده علوم - دانشگاه فردوسی مشهد</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشکده علوم - دانشگاه فردوسی مشهد</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>lashkaripour@ferdowsi.um.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>محمد</Name>
+				<MidName></MidName>
+				<Family>غفوری</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشکده علوم - دانشگاه فردوسی مشهد</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشکده علوم - دانشگاه فردوسی مشهد</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>ghafoori@ferdowsi.um.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>طاهر</Name>
+				<MidName></MidName>
+				<Family>فرهادی نژاد</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>سازمان مطالعات جهاد کشاورزی و منابع طبیعی</Organization>
+				</Organizations>
+				<Universities>
+				<University>سازمان مطالعات جهاد کشاورزی و منابع طبیعی</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>farhadinejad@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Landslide</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>zonation</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Keshvari watershed</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Artificial neural network</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>زمین لغزش</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>پهنه بندی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>حوضه کشوری</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شبکه عصبی مصنوعی</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>ارزیابی آسیب پذیری لرزه‏ای دیوارهای حایل بنایی غیر وزنی</TitleF>
+		<TitleE>Seismic Assessment of Thin Masonry Retaining Wall</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>در این مقاله با استفاده از روش مونونوبه و اکابه در مورد یک دیوار حایل بنایی غیروزنی محاط در یک قاب ساختمانی (میانقاب حایل بنایی) ، به محاسبه نیروهای دینامیکی ناشی از زلزله و اثرات آن بر دیوار پرداخته شده است. در روش مونونوبه و اکابه دیوار حایل صلب فرض شده و وضعیت غالب شکست، لغزش پای دیوار حایل و یا چرخش دیوار حایل حول پاشنه آن می‏‏‏‏باشد. درحالی‏که وضعیت غالب خرابی در یک میانقاب حایل بنایی، شکست در بدنه دیوار تحت نیروهای عمود بر صفحه می‏‏‏‏باشد. در چنین حالتی توزیع نیروی لرزه‏ای وارده بر دیوار اهمیت می‏یابد. بر این اساس در این مقاله بر مبنای روش مونونوبه و اکابه یک توزیع برای نیروهای لرزه‏ای وارد بر میانقاب حایل بنایی پیشنهاد شده است. همچنین با بررسی عملکرد عمود بر صفحه میانقاب‏های ‏بنایی به لحاظ مقاومت و معیار پذیرش، به تحلیل نحوه خرابی در بدنه دیوار ناشی از بارهای عمود بر صفحه پرداخته شده است. در ادامه روش بهسازی لرزه‏ای مورد نظر در خصوص میانقاب‏های ‏حایل بنایی آسیب پذیر ارایه شده و با معرفی یک مثال کاربردی، نتایج روش پیشنهادی با نتایج یک نرم افزار عددی کنترل شده است. در انتها ‏نیز با توجه به شرایط مختلف قابل پیش بینی برای میانقاب‏های ‏حایل بنایی، راهکار بهسازی لرزه‏ای بصورت کاربردی ارایه شده است.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>In this paper, using Mononobe &#38; Okabe method, seismic force and its effects on thin masonry retaining wall inside structural frame (Masonry retaining infill) are presented. In this method, retaining wall has been assumed to be rigid and the prevailing failure mode is sliding of wall bed joint or wall rotation around its toe, whereas the prevailing failure mode of masonry retaining infill is usually flexural cracking in middle zone of wall under out of plane seismic force. In this case, the seismic force distribution is important. Accordingly in this paper, a distribution for seismic forces on masonry retaining infill has been proposed. Also with regard to out of plane behavior of masonry retaining infill in terms of strength and acceptance criteria aspect, failure in body of wall due to out of plane loads has been analyzed. Then, the desired seismic rehabilitation method in case of vulnerable masonry retaining infills has been presented and as a practical example, results of the proposed method with the results of numerical software have been controlled. Finally, according to various conditions predicted for masonry retaining infills, Seismic Retrofit solutions are presented for practical applications.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>1287</FPAGE>
+			<TPAGE>1312</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>حسن</Name>
+				<MidName></MidName>
+				<Family>قاسم زاده</Family>
+				<NameE>H</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Ghasemzadeh</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه صنعتی خواجه نصیرالدین طوسی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه صنعتی خواجه نصیرالدین طوسی</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>ghasemzadeh@kntu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>حسین</Name>
+				<MidName></MidName>
+				<Family>علی نوری</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه صنعتی خواجه نصیرالدین طوسی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه صنعتی خواجه نصیرالدین طوسی</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>hossein_alinouri1984@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Thin masonry retaining infill</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Mononobe &amp; Oakabe method</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Failure</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Seismic rehabilitation</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Seismic force distribution</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>کلمات کلیدی  میانقاب حایل بنایی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>روش مونونوبه و اکابه</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شکست</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>بهسازی لرزه‏ای</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>توزیع نیروی لرزه‏ای</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>ارائه روش جدیدی برای برآورد مقاومت سنگ درزه دار با استفاده از ضریب درزه داری</TitleF>
+		<TitleE>Development of a New Method to Estimate Rock Strength Using Joint Factor</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>ناپیوستگی ها دارای ویژگی¬هایی همچون جهت یابی، تعداد دسته و فراوانی هستند که می¬توانند در مقاومت سنگ مؤثر واقع شوند. نمونه های سنگ به ترتیب دارای یک، دو و سه دسته ناپیوستگی متقاطع، فراوانی های مختلف و زاویه شیب صفحه ناپیوستگی ها با جهت افقی برابر با 0، 30، 45، 60 و 90 درجه آماده سازی شدند. با افزایش تعداد دسته ناپیوستگی و فراوانی آنها تعداد قطعات به صورت تصاعدی افزایش یافت. طوری که بخشی از نمونه های دارای سه دسته ناپیوستگی که یکی از دسته های آنها دارای چهار ناپیوستگی موازی بود از 20 قطعه سنگ تشکیل می شدند و مصداق سنگ به شدت درزه دار بودند. ضریب درزه داری و مقاومت فشاری یک محوری نمونه ها و زاویه اصطکاک در امتداد سطح درزه در برش مستقیم تعیین شدند. مقاومت فشاری یک محوری نمونه های دارای یک، دو و سه دسته ناپیوستگی در جهت افقی یا قائم کمتر از مقاومت نمونه سنگ سالم نشان داد. مقاومت یک محوری سنگ دارای ناپیوستگی به ویژه وقتی که جهت یافتگی 60 درجه نسبت حالت افقی بود، حدوداً به مقدار صفر نزدیک می شد. این شدت کاهش مقاومت برای نمونه های دارای دو و سه دسته ناپیوستگی متقاطع و عمود برهم در زاویه جهت یافتگی ناپیوستگی ها با حالت افقی برابر 30 درجه نیز اتفاق افتاد. تحلیل نتایج نشان داد که رابطه بین نسبت مقاومت فشاری یک محوری نمونه های درزه دار به مقاومت فشاری یک محوری سنگ سالم (ضریب ناهمسانگردی) و ضریب درزه داری (Jf) حاصل از این تحقیق با رابطه ارائه شده توسط رامامورتی دارای تفاوت قابل توجهی است. ویژگی های ناپیوستگی ها توأماً نقش اساسی در مقاومت توده سنگ دارند.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Discontinuities have properties such as orientation, number of set and frequency that can affect the rock strength. Rock specimens having one, two and three cross- sets of discontinuities, various frequencies and orientations of 0, 30, 45, 60 and 90 degrees were prepared. The numbers of rock pieces increased progressively with an increase of frequency and set of discontinuities. As specimens having three sets of discontinuities that one of their sets had four number of parallel discontinuities were consisted 20 rock pieces and they represented jointed rock mass. Joint factor, uniaxial compressive strength and friction angle along the discontinuity surface in direct shear were determined. The uniaxial compressive strength of specimens having one, two and three sets of discontinuities in horizontal and vertical direction was less than the uniaxial compressive strength of intact rock. The uniaxial compressive strength of specimens approached approximately to zero value particularly when the orientation of discontinuities was 60 degrees. This considerable decrease of strength was occurred also for specimens having two and three sets of discontinuities at orientation of 30 degrees. The analysis of results showed that the relationship between ratio of uniaxial compressive strength of jointed specimens to the uniaxial compressive strength of intact rock specimens (anisotropy factor) and joint factor of this research is considerably different with the suggested relationship by Ramamurthy. Properties of discontinuities have altogether essential role on the strength of rock mass.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>1313</FPAGE>
+			<TPAGE>1326</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>حسن</Name>
+				<MidName></MidName>
+				<Family>مومیوند</Family>
+				<NameE>Hassan</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Moomivand</FamilyE>
+				<Organizations>
+				<Organization>استادیار دانشگاه ارومیه</Organization>
+				</Organizations>
+				<Universities>
+				<University>استادیار دانشگاه ارومیه</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>h.moomivand@urmia.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>میرعلی</Name>
+				<MidName></MidName>
+				<Family>محمدی</Family>
+				<NameE>Mir Ali</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Moomivand</FamilyE>
+				<Organizations>
+				<Organization>دانشیار دانشگاه ارومیه</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشیار دانشگاه ارومیه</University>
+				</Universities>
+				<Countries>
+				<Country></Country>
+				</Countries>
+				<EMAILS>
+				<Email>m.ahmadi@urmia.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>discontinuity set</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>strength</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>anisotropy</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>joint factor</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تعداد دسته ناپیوستگی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مقاومت</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ناهمسانگردی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ضریب درزه داری</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+</ARTICLES>
+
+</JOURNAL>
+</XML>

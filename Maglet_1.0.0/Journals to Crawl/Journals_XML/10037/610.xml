@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+<JOURNAL>
+<YEAR>1396</YEAR>
+<VOL>11</VOL>
+<NO>1</NO>
+<MOSALSAL>29</MOSALSAL>
+<PAGE_NO>156</PAGE_NO>
+
+
+<ARTICLES>
+
+	<ARTICLE> 
+		<TitleF>بررسی اثرات ساختگاهی با استفاده از روش تجربی و عددی در کرج</TitleF>
+		<TitleE>Site Effects Estimation using Experimental and Numerical Methods in Karaj City</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>به&#8204;منظور برآورد اثرات ساختگاهی در شهر کرج از تحلیل طیفی &#160;روی داده&#8204;های میکروترمور در 37 نقطه شهر در راستای پروفیل شمالی- جنوب غربی استفاده گردید که فرکانس غالب آن در محدوده&#8204;ی4/0 تا 2 هرتز بود. نتایج نسبت طیفی &#160;تحت اثر شرایط محلی ساختار زمین&#8204;شناسی منطقه است بر مبنای این فرض می&#8204;توان منحنی تئوری را با شناخت از ساختار زمین&#8204;شناسی منطقه تولید کرد. بنابراین مدل&#8204;سازی یک&#8204;بعدی با استفاده از نرم&#8204;افزار Deepsoil به روش خطی در سطوح کرنش پایین با توجه به داده های زمین شناسی، درون چاهی و آرایه ای انجام شد و نتایج حاصل با مدل تجربی قیاس شدند. نتیجه مدل&#8204;سازی یک&#8204;بعدی نمایانگر وجود کنتراست مؤثر در عمق 200 تا 300 متر است. همچنین با در نظر گرفتن سازند کرج به&#8204;عنوان پی&#8204;سنگ در دو کیلومتری زمین در مدل&#8204;سازی عددی شاهد ایجاد توابع بزرگنمایی در محدوده بسامدهای کمتر از یک هرتز هستیم که ناشی از کنتراست عمیق در اثر تفاوت جنس سنگ&#8204;بستر است که با قله&#8204;های مدل تجربی مطابقت دارد.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/1Extended_Abstract.pdfExtended Abstract
+(Paper pages1-28)
+Introduction
+The earthquake is one of the most devastating natural disasters that always threats human societies in terms of health and financial issues. Iran is one of the most seismic prone countries of the world due to locating on Alpine- Himalayan Orogenic belt. On the other hand, growing population and increased construction of tall buildings, increases the damages caused by large earthquakes, especially in large cities. Karaj is one of the most populous cities in Iran which there has been considerable industrial and economic development in recent years. When an earthquake occurs, seismic waves radiate away from source and travel rapidly through the earth crust. When these waves reach the ground surface, they produce shaking that may last from several seconds to a few minutes. During earthquakes, different alluviums with different structures show various reactions. It is well-accepted that, besides the earthquake magnitude and fault distance, local geologic conditions, known as site effects, can also exert significant influences on characteristics of the seismic waves such as amplitude, frequency content and duration of strong ground motion at a given location. The seismic ground motion at any site is influenced by the type of soil in that region. Younger and softer soils usually amplify ground motion more than older soils or bedrocks .
+There are theoretical and experimental methods to evaluate the site response. In the present study, the Nakamura's H/V spectral ratio method has been used to evaluate the resonance frequency in 37 locations at Karaj site. In addition, a preliminary 1-D site response modelling has been conducted using Deepsoil program according to downhole, array and geology data. Site frequencies obtained from modelling are presented and compared with site frequencies obtained through microtremor measurements.
+Materials and Methods 
+Single station microtremor measurements at the Karaj site were carried out by the International Institute of Earthquake Engineering and Seismology (IIEES) in 2012 with a three-component broadband seismometer (Guralp CMG-6TD). In the present study, we have used 37 microtremor data along the north-southwest profile because at this profile, geological section was available and these stations contained geotechnical boreholes data. Dynamic range of sensor changes between 0.033 -50 Hz and has a natural period of 1 second. 24-bit analog-to-digital (A/D) converter digitized the recorded data. The recording system was operated continuously for about 30 minutes with sampling frequency of 100 Hz. The use of ambient vibrations for analysis of the local site effects has been studied in detail in the framework of the European research project SESAME (Site Effects Assessment Using Ambient Excitations). The recommended guidelines on the H/V spectral ratio technique are the result of the comprehensive and detailed analysis performed by the SESAME participants during three years of investigations (2001-2004).
+H/V spectral ratio was carried out by the Geopsy software. The process starts by converting data from binary format to ASCII format. After DC offset removal, eighth order Butterworth band pass filter used within the range of 0.1 Hz to 50 Hz. The Anti-triggering algorithm STA/LTA has been selected to reject energetic transients from ambient vibration recordings, so STA and LTA were considered respectively 1 and 30 second. Minimum and maximum STA/LTA thresholds were selected between 0.2 and 2.5. For each station, the time-series of the record is divided into windows of 40 to 100 seconds in three components with an overlap of 50%. Also, a cosine taper with the length of 5% of the total window length was used at each end.
+The amplitude spectra of each selected window is computed with a fast Fourier transform (FFT) and smoothed using the Konno-Ohmachi function (Bandwidth=40). Then, two horizontal components are merged by squared average. Finally, the H/V spectral ratio of Nakamura is applied for each individual window, and the final predominant frequency is obtained by averaging the H/V spectral ratio of all window. The presence of clear peak on H/V spectral ratio curve is indicative of the impedance contrast between the uppermost surface soil and the underlying hard rock, where large peak values are generally associated with sharp velocity contrasts, and is likely to amplify the ground motion. The H/V spectral ratio in some stations shows a clear peak and at the others might show two or multiple peaks which represents the geologically complex areas. Calculated dominant frequency changes between 0.4 and 2 Hz. These low values indicate the existence of basement at greater depths and large thickness of sediments on basement (Parolai et al., 2002).
+Site modelling
+The results of H/V spectral ratio are affected by the local geologic structure. Based on this assumption, we can produce theoretical H/V curve with knowledge of the geologic structure in the area. One-dimensional modelling is a suitable method to evaluation of the site response due to the local geology which requires geotechnical and geophysical data. In the one-dimensional modelling, it is assumed that all boundaries are horizontal in the infinite media and the response of a soil deposit is predominantly caused by SH-wave propagating vertically from the underlying bedrock. In this present study, one-dimensional modelling was carried out using Deepsoil software. Due to the very small deformations in soils by microtremor and producing a low levels of strain, we applied the linear method to evaluate the ground seismic response during mild earthquake shakes. In this software, homogeneous and isotropic soil profile is considered as N horizontal layers. The site response (transfer function) is evaluated by parameters such as layer thickness (m), density (&#961;), shear modulus (G), and damping factor of layers (&#946;), which are obtained from available geotechnical boreholes.
+Usually, engineering bedrock is considered for the purpose of numerical modelling. According to TC4 (1994), the seismic bedrock was defined as a layer with a shear wave velocity of more than 600 m/s. Shima (1978) recommended that the upper crust with a shear wave velocity of about 3000 m/s, is adopted as bedrock when large scale structures with longer vibration period are being considered. International building code (ICC2000) has defined the seismic bedrock by a shear wave velocity of more than 760 m/s. According to Unified Building Code (UBC97), bedrock is defined into two groups: A (very hard rock with a speed of more than 1500 m/s) and B (rock with a speed of 760 to 1500 m/s). Therefore, the proposed values of the shear wave velocity are different for considering seismic bedrock. In order to consider the uncertainty of the shear wave velocity in the present one-dimensional modelling, three scenarios for the bedrock, were performed with three speeds of 760 m/s (based on engineering bedrock), 1300 m/s (bedrock geology), and 2500 m/s (corresponding to tuff-andesite of the Karaj basement) at different depths, according to the regional geological map. Then, three scenarios of the numerical modelling were compared with microtremor transfer function.
+1. One-dimensional modelling at the Karaj site using downhole data for engineering bedrock (&#62; 760 m/s)
+In order to access the shear wave velocity profile for 1-D modelling, downhole data from 21 boreholes were used in nine sites which were available up to the maximum depth of 50 meters at 20 boreholes and 96 meters at A09 borehole. Low thickness of alluvium (about 17-85 meters) was considered with engineering bedrock (&#62;760 m/s) for numerical modelling. The results represent higher frequency range compared with the microtremor data. In some previous studies where engineering bedrock had been defined by shear wave velocity values between 700 to 800 m/s in 1-D modelling, the results of the theoretical model is incompatible with experimental results. Thus, it seems that it is not suitable to consider the engineering bedrock in 1-D modelling.
+2. One-dimensional modelling at Karaj site using microtremor array data for geology bedrock (&#62; 1300 m/s)
+By considering the seismic bedrock (&#62;760 m/s) at depths of 17 to 85 meters and calculating the one-dimensional transfer function, the peaks in higher frequency compared with the experimental method is observed. According to reliability of experimental H/V results which has been proved by researchers around the world (Haghshenas et al., 2008), the difference between the transfer function results in experimental and theoretical methods indicates that two variables of shear wave velocity or depth of bedrock and alluvium thickness have not been properly modeled. It seems that in order to get better results, it&#8217;s necessary to analysis by considering the geology bedrock at greater depth. Tchalenko, et al., (1974) considered lower part of Plio-Quaternary sediments of Hezardareh Formation and Miocene marl-limestone of Upper Red Formation as the bedrock in the Karaj plain. Shafiee and Azadi (2006) computed shear wave velocity characteristics of these geological units throughout Tehran city. Therefore, a mean velocity of 1300 m/s was considered for the geology bedrock during the modelling.
+In order to access the shear wave velocity profiles at greater depths, microtremor array stations were designed by seven seismometer with 100 m radius at A09 (site 8) borehole. As it can bee seen, a clear contrast at a depth of about 230 m is observed. Therefore, the modelling was carried out by taking 230 m alluvial thickness on geology bedrock according to lithology of the region. The result of this modelling has shown a peak at frequency range of 0.87 Hz that is compatible with the microtremor peaks at this site. In other site this modelling was performed using array and downhole data. The results indicated that the first effective contrast occurs at depth of 200 to 300 meters.
+3. One-dimensional modelling at the Karaj site for basement (&#62; 2500 m/s)
+Transfer functions obtained from the previous model, did not cover low frequency peaks in the experimental methods. Therefore, the presence of other low-frequency peaks is either due to the geometry of the sedimentary basin or deep contrast. It seems that due to the geology of the region, tuff- andesite of the Karaj Formation as basement plays an important role in the creation of low-frequency peaks. Therefore, to obtain a better model, deep contrast was considered about 2 kilometers due to differences in the type of bedrock with a shear wave velocity of 2500 m/s. For this purpose, according to the properties of the Upper Red Formation, an average constant speed of 1400 (m/s) was considered in modelling and by changing the thickness of this layer, the modelling was continued in a trial and error manner until the numerical model is consistent with microtremor peaks. The modelling results in nine site indicate that there is basement at the depth of 2000 to 2250 meters.
+Two-dimensional model of the Karaj site
+Using the one-dimensional analysis and evaluation of the geological map of the area, two dimensional geological structure was rebuilt in studied profiles. Green and gray tuffs and igneous rocks of Karaj Formation outcrops in north of Karaj and constitute the Alborz Mountains. This Mountains eroded by the action of rivers and were deposited in the form of large alluvial fans. Coarse sandy sediments were deposited near mountains wherein energies of rivers and streams were extremely high (site 1 to 4). Furthermore, fine-grained sediments were deposited at far distances by decreasing in the energy of streams (site 5 to 9). Berberian et al (1985) divided B Formation in two parts: heterogeneous deposits of sand, gravel, rock and clay in north of Tehran (Qbn) and silts and clays of Kahrizak (Qbs) in south of Tehran. According to 1-D modelling, thickness of this layer is about 200 to 300 m which has been deposited on geology bedrock. As mentioned before, lower parts of Hezardareh Formation at the north of Karaj and Upper red Formation in the south west of Karaj are considered as geology bedrock. Upper Red Formation was deposited with unconformity on tuff-andesite of the Karaj basement at depths of 2000 to 2250 meters.
+Conclusions
+The use of empirical methods based on microtremor is an efficient way to estimate the site effects in Karaj city, although the use of earthquake records could provide better evidence of the depth and geometry of basement. One-dimensional modelling of shear wave velocity profiles obtained from downhole data and considering the engineering bedrock (&#62; 760 m/s) at depths of 17 to 85 meters, is not a good way to estimate the dominant frequency of alluvium. By considering the greater depth of alluvium and using shear wave velocity profiles obtained from microtremor array, 1-D modelling was carried out for geology bedrock (1300 m/s). Therefore, peak frequency in transfer function at the range of 0.87 Hz has been associated with effective contrast at depths of 200 to 300 meters. It seems that Karaj basement (&#62; 2500 m/s) with about 2 kilometers depth plays an important role in the production of low-frequency peaks in transfer function.
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>1</FPAGE>
+			<TPAGE>28</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>نسترن</Name>
+				<MidName></MidName>
+				<Family>احسانی</Family>
+				<NameE>ehsani</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>پژوهشگاه بین‌المللی زلزله‌شناسی و مهندسی زلزله</Organization>
+				</Organizations>
+				<Universities>
+				<University>پژوهشگاه بین‌المللی زلزله‌شناسی و مهندسی زلزله</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>nastaranehsani_geo@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>محمدرضا</Name>
+				<MidName></MidName>
+				<Family>قائمقامیان</Family>
+				<NameE>Mohammad Reza</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Ghayamghamian</FamilyE>
+				<Organizations>
+				<Organization>پژوهشگاه بین‌المللی زلزله‌شناسی و مهندسی زلزله</Organization>
+				</Organizations>
+				<Universities>
+				<University>پژوهشگاه بین‌المللی زلزله‌شناسی و مهندسی زلزله</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>محسن</Name>
+				<MidName></MidName>
+				<Family>فضلوی</Family>
+				<NameE>Fazlavi</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه بین المللی امام خمینی (ره)</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه بین المللی امام خمینی (ره)</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>ابراهیم</Name>
+				<MidName></MidName>
+				<Family>حق شناس</Family>
+				<NameE>Ebrahim</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Haghshenas</FamilyE>
+				<Organizations>
+				<Organization>پژوهشگاه بین‌المللی زلزله‌شناسی و مهندسی زلزله</Organization>
+				</Organizations>
+				<Universities>
+				<University>پژوهشگاه بین‌المللی زلزله‌شناسی و مهندسی زلزله</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Site effects</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Microtremor</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Spectral ratios H/V</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>1D site modeling</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>اثر ساختگاه</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>میکروترمور</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تحلیل طیفیH/V</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>فرکانس غالب</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مدل‌سازی یک‌بعدی</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>5. Bard P. Y. &quot;Lecture Notes on Seismology, Seismic Hazard Assessment and Risk Mitigation&quot;, International Training Course, Potsdam (2000) 160.  6. Borcherdt R. D., Gibbs J. F. &quot;Effects of local geological conditions in the San Francisco bay region on ground motions and the intensities of the 1906 earthquake&quot;, Bulletin of Seismological Society of America, Vol. 66 (1976) 467-500. 7. Dedual E. &quot;Zur Geologic des mittleren und unteren Karaj-Tales, Zentral-Elburz (Iran)&quot;, Mitt. Geol. Inst ETH u. Univ. Zurich, n.s., 76 (1967) 123. 8. Field E. H., Jacob K. H. &quot;The Theoretical response of sedimentary layers to ambient seismic noise&quot;, Geophysic Research Letters, Vol. 20-24 (1993) 2925-292. 9. Haghshenas E., Bard P. Y., Theodulidis N., SESAME WP04 Team (2008), &quot;Empirical evaluation of microtremor H/V spectral ratio,Bulletin of Earthquake Engineering, Vol. 6 (1993) 75-108. 10. Harutoonian P., Chapman B., Leo C. J., Liyanapathirana S., &quot;Characterisation of an urban site by ambient noise HVSR method: resonance frequencies and site amplifications&quot;, GeoFlorida 2010, Advances in Analysis, Modeling &amp; Design, Vol. 199 (2010) 1152-1161. 11. Hashash Y.M.A., Groholski D. R., Phillips C. A., Park D. &quot;Deepsoil V5.0, User Manual and Tutorial&quot;, University of Illinoist at Urbana-Champaign(2009). 12. ICC 2000, &quot;International building code&quot;, International Code Council. (n.d.). 13. Jafari M. K., Ghayamghamian M. R., Davoodi M., Kamalian M., Sohrabi-Bidar A., &quot;Site effects of the 2003 Bam, Iran Earthquake&quot;, Earthquake Spectra, Vol. 21(S1) (2005) 125-136. 14. Kamalian M., Jafari M. K., Ghayamghamian M. R., Shafiee A., Hamzehloo H., Haghshenas E., Sohrabi-bidar A., &quot;Site effect microzonation of Qom, Iran&quot;, Engineering Geology, Vol. 97 (2008) 63-79. 15. Konno K., Omachi T., &quot;Ground-Motion Characteristics Estimated from Spectral Ratio between Horizontal and Vertical Components of Microtremor&quot;, Bulletin of Seismological Society of America, Vol. 88 (1998) 228-241. 16. Kramer S. L. &quot;Geotechnical Earthquake Engineering&quot;, Prentice Hall (1996) 653. 17. Lermo J., Chavez-Garcia F. J. &quot;Site effect evaluation using spectral ratio with only one station&quot;, Bulletin of Seismological Society of America, Vol. 83 (1993) 1574-1594. 18. Nakamura Y., &quot;A method for dynamic characteristics estimation of subsurface using microtremor on the ground surface&quot;, Quaterly Report of the Railway Technical Research Institue, Vol. 30, No. 1 (1989) 25-30. 19. Parolai S., Bormann P., Milkereit C., &quot;New relationships between Vs thickness of sediments, and resonance frequency calculated by H/V ratio of seismic noise for the Cologne area (Germany)&quot;, Bulletin of Seismological Society of America, Vol. 92 (2002) 2521-2526. 20. Purnachandra Rao N., Ravi Kumar M., Seshunarayana T., Shukla A. K., Suresh G., Pandey Y., Dharma Raju R., Pimprikar S. D., Chandra 19, Das, Kalpna Gahalaut, Mishra P. S., Harsh Gupta &quot;Site amplification studies towards seismic microzonation in Jabalpur urban area&quot;, central India, Physics and Chemistry of the Earth, Vol. 36 (2011) 1247-1258. 21. Rieben E. H., &quot;Geological Observations on Alluvial Deposits in Northern Iran&quot;, Geological Survey of Iran, Report No.9 (1966). 22. Rieben E. H., &quot;The geology of the Tehran plain&quot;, American Journal of Science, Vol. 253 (1955) 617-639. 23. Stöcklin J., A. Setudehnia, &quot;Stratigraphic lexicon of Iran. Part 1: central, north and east Iran&quot;, Geological Survey of Iran, Report no. 18 (1971) 376. 24. SESAME, &quot;Guidelines For The Implementation Of The H/V Spectral Ratio Technique On Ambient Vibrations Measurements&quot;, Processing And Interpretation (2004) 62. 25. Tchalenko J. S., Berberian M., Iranmanesh H., Bailly M., Arsovsky M., &quot;Tectonic framework of Tehran region, geological survey of Iran&quot;, Report No. 29 (1974) 7-46. 26. &quot;Technical Committee for Earthquake Geotechnical Eng&quot;, (TC4) Revised Manual for Zonation on Seismic Geotechnical Hazards, Japanese Society of Soil Mechanics and Foundation Eng (1999). 27. ICBO, &quot;Uniform building code, International Council of Building Officials&quot; (1997). 28. Wathelet M., &quot;Geopsy Online Documentation&quot;, www.geopsy.org (2007). ## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>شناسایی و تثبیت خاک‌های واگرا: مطالعه موردی کانال انتقال آب سیمین دشت-گرمسار</TitleF>
+		<TitleE>I Identification and Stabilization of Dispersive Soils: Case Study of Water Transfer Canal of Simindasht-Garmsar </TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>وجود املاح در بعضی از خاک&#173;های ریزدانه رسی باعث ایجاد پدیده&#173;ی واگرایی در این خاک&#173;ها می&#173;شود. عدم شناسایی دقیق رس&#173;های واگرا خسارات و خرابی&#173;هایی را به دنبال خواهد دشت زیرا ذرات خاک&#173;های رسی واگرا تحت شرایط خاصی متفرق شده و به سرعت شسته می&#173;شوند. در منطقه&#173;ی سیمین دشت (واقع در استان سمنان)، برخی از سازه&#173;های هیدرولیکی به&#173;علت قرارگیری بر روی این نوع خاک&#173;ها دچار آسیب&#173;های جدی شده&#173;اند. از اینرو در این تحقیق به بررسی خاک&#173;های اطراف کانال انتقال آب در منطقه&#173;ی مذکور و ارزیابی میزان واگرایی این خاک&#173;ها پرداخته و در نهایت روش&#173;های اصلاح این خاک&#173;ها پیشنهاد شده است. بدین منظور نمونه&#173;هایی از خاک محل تهیه و پس از تعیین مشخصات خاک، نمونه&#173;های مذکور تحت آزمایش&#173;های کرامب، هیدرومتری دوگانه و تست&#173;های شیمیایی قرار گرفتند. نتایج حاصل بیانگر واگرایی خاک این منطقه به خصوص در اطراف کانال انتقال آب سیمین دشت بوده است. در این تحقیق تأثیر افزودن سیمان، آهک و آلومینیوم نیترات بر کاهش واگرایی نمونه&#173;های خاک با انجام آزمایش&#173;های پین&#173;هول مورد بررسی واقع شد. نتایج آزمایش&#173;های انجام شده بر روی نمونه&#173;های اصلاح شده نشان داده که افزودن %5 سیمان، یا %5 آهک (بدون برطرف شدن کامل پدیده آبشستگی)، یا %3 آلومینیوم نیترات به خاک بسیار واگرا، و همچنین افزودن %3 سیمان، یا %5 آهک، یا %3 آلومینیوم نیترات به خاک واگرای این منطقه، موجب تثبیت آن خواهد شد.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/2Extended_Abstract.pdfExtended Abstract
+(Paper pages 29-50)
+Introduction
+In some soils, special phenomena happen with increases in their moisture content that sometimes inflict major damages on development projects. Dispersive soils are one type of such soils. The physico-chemical properties of the particles in dispersive soils cause them to disperse and separate from each other upon contact with water. If dispersive clays are not accurately identified, they will cause damages and failures. In the Simin Dasht region of Semnan Province, some hydraulic structures have incurred serious damages because they are located on dispersive soils.
+The present research studied the soils around the canal transferring water from the Simin Dasht to Garmsar. This 37-kilometer long canal is situated in Semnan Province between the Simin Dasht and the Garmsar diversion Dams. Scouring and soil erosion under the concrete lining of the canal has led to the destruction of the structure. After visiting the site and taking soil samples, double hydrometer and pinhole tests were performed. The effects of adding various amounts of cement, lime and aluminum nitrate on amending dispersive clays were studied and compared in the Simin Dasht region of Semnan Province.
+Experiments
+The effects of the quantities of cement, lime and aluminum amendment materials on stabilization of dispersive soils in the Simin Dasht region of Semnan Province were investigated. Two types of dispersive clayey soils were amended. Table 1 presents the characteristics of the soils. The effects of various amounts of lime, cement, and aluminum nitrate on reduction in the degree of dispersion in the tested soils were studied. The cement, lime, and soil samples were dried at 40˚C for 24 hours. It must be mentioned that the amount of added lime, cement, and aluminum nitrate were zero, 3, 5, and 7 percent.
+Table1. Characteristics of dispersive soils used in this reserch
+
+
+	
+		
+			Gs
+			Optimum Moisture (%)
+			Plasticity Index, PI (%)
+			Plastic limit, PL (%)
+			Liquid limit, LL (%)
+			Natural water content (%)
+			Soil
+		
+		
+			2.72
+			15
+			2.54
+			15.09
+			17.63
+			13.84
+			A
+		
+		
+			2.66
+			11
+			6.33
+			16.11
+			22.44
+			3.02
+			B
+		
+	
+
+
+
+Results
+Average changes in discharge passing through the dispersive soil samples A and B, and through samples of these soils amended with lime, cement, and aluminum nitrate in pinhole tests are presented in Figures 1(a-f), respectively. Figure 1a indicates that the behavior of the A soil samples amended with lime did not follow any specific trend, but we can cautiously say that soil A will become non-dispersive when lime is added at 4.5 percent at all moisture contents. Increases in the quantities of the cement added to the dispersive soils A and B to stabilize them independent of the moisture content of the soils were also investigated (Figure 1c, d). Behavior of the A soil samples stabilized with aluminum nitrate followed a specific trend (Figure 1 e, f) contrary to those amended with the other stabilizers.
+Conclusions
+Results of the tests show that dispersion in soil A was amended (without completely preventing the occurrence of the scouring phenomenon) by the addition of cement or lime at 5 percent or aluminum nitrate at 3 percent. Moreover, dispersion in soil B was amended by the addition of cement at 3 percent, lime at 5 percent, or aluminum nitrate at 3 percent. Aluminum nitrate was a better and more effective amendment material for the dispersive soils compared to lime. Therefore, aluminum ions replaced the other ions in the structure of dispersive clays more suitably compared to calcium ions. Comparison of the results obtained from the pinhole tests performed on soil samples amended with aluminum nitrate, lime, and cement suggests that it took a shorter time for the samples to be stabilized with aluminum nitrate compared to the other two amendment materials.
+
+
+
+Figure1 Variation of discharge due to soil stabilization, Lime (a and b), Cement (d and c), Aluminum nitrate (e and f)
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>29</FPAGE>
+			<TPAGE>50</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>عبدالحسین</Name>
+				<MidName></MidName>
+				<Family>حداد</Family>
+				<NameE>Abdolhosein</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Haddad</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه سمنان، دانشکدۀمهندسی عمران</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>حامد</Name>
+				<MidName></MidName>
+				<Family>جاودانیان</Family>
+				<NameE>Hamed</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Javdanian</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه شهرکرد، دانشکدۀ فنی و مهندسی</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>فائزه</Name>
+				<MidName></MidName>
+				<Family>ابراهیم پور</Family>
+				<NameE>Faezeh</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Ebrhimpour</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه سمنان، دانشکدۀ مهندسی عمران</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Dispersive soil</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Pinhole test</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Double hydrometer test</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Crumb test</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Soil stabilization</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>خاک واگرا</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>پین هول</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>هیدرومتری دوگانه</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>کرامب</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تثبیت خاک</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>3. ICOLD Bulletin, &quot;Dispersive soils in Embankment Dams&quot; No. 77 (1990). 4. Foster M., Fell R., Spannagle M., &quot;A method for assessing the relative likelihood of failure of embankment dams by piping&quot;, Canadian Geotechnical Journal, Vol. 37, No. 5 (2000) 1025-1061. 5. Van de Graaff R., Patterson R.A., &quot;Explaining the mysteries of salinity sodicity, SAR and ESP in on-site practice&quot;, Conference: Advancing On-site Wastewater Systems, University of Armidale, New England, September (2001) 25-27. 6. Edgar H.N., &quot;Soil mechanics note No. 13: Dispersive clays. Soil Conservation Service&quot;, United States Department of Agriculture, Washington, D.C. (1991)11-12. 7. Indraratna B., Nutalaya P., Kuganenthira N., &quot;Stabilization of a dispersive soil by blending with fly ash&quot;, Quarterly Journal of Engineering Geology and Hydrogeology, Vol. 24, No. 3 (1991) 275-290. 8. Umesh T.S., Dinesh S.V., Sivapullaiah P.V., &quot;Characterization of dispersive soils. Materials Sciences and Applications&quot;, Vol. 2, No. 6, (2011) 629-633. 9. Sherard J.L., Decker R.S., Pyker N.L., &quot;Piping in earth dams of dispersive clays&quot;, Specially Conference on Performance of Earth and Earth-Supported Structures, ASCE, Vol. 1, Part 1 (1972) 584-626. 10. Fan H., Kong L., &quot;Empirical equation for evaluating the dispersivity of cohesive soil&quot;, Canadian Geotechnical Journal, Vol. 50, No. 9 (2013) 989-994. 11. Flores-Berrones R., Lopez-Acosta N.P., &quot;Internal erosion due to water flow through earth dams and earth structures&quot;, INTECH Open Access Publisher (2011) 283-306. DOI: 10.5772/24615. 12. Fan H.H., Kong L.W., &quot;Study on the dispersivity of the dam core soil of the Ningmute Reservoir on the Yellow River&quot;, In Proceedings of the 3rd International Conference on Problematic Soils, Adelaide, Australia, 7-9 April (2010) 89-96. 13. Ebrahimpour F., &quot;Identification of dispersive soils in semnan and their stabilization. M.Sc. Dissertation&quot;, Department of Civil Engineering, Semnan University, Semnan, Iran (2012). 14. ASTM Standard D6572: &quot;Standard test method for determining dispersive characteristics of clayey soils by crumb test&quot;, American Society for Testing and Materials, West Conshohocken, Pa. (2009). 15. Emerson W.W., &quot;A classification of soil aggregrates based on their coherence in water&quot;, Australian Journal of Soil Research, Vol. 5 (1967) 47-57. 16. Kinney J.L., &quot;Laboratory procedures for determining the dispersibility of clayey soils&quot;, Report No. REC-ERC-79-10, USBR, Denver, Colorado (1979). 17. ASTM Standard D4221: &quot;Standard test method for dispersive characteristics of clay soil by double hydrometer&quot;, American Society for Testing and Materials, West Conshohocken, Pa. (2009). 18. Bell F., &quot;Lime stabilization of clay minerals and soila&quot;, Engineering Geology, Vol. 42 (4) (1996) 223-237. 19. Kolias S., Kasselouri-Rigopoulou V., Karahalios A., &quot;Stabilisation of clayey soils with high calcium fly ash and cement&quot;, Cement &amp; Concrete Composites 27 (2005) 301-313. 20. ASTM Standard D4647: &quot;Standard test method for identification and classification of dispersive clay by the pinhole test&quot;, American Society for Testing and Materials, West Conshohocken, Pa. (2009). 21. ASTM Standard D1557: &quot;Standard Test Methods for Laboratory Compaction Characteristics of Soil Using Modified Effort (56,000 ft-lbf/ft3 (2,700 kN-m/m3))&quot;, American Society for Testing and Materials, West Conshohocken, Pa. (2009). ## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>مهندسی ارزش بر اساس رفتارنگاری تونل طی مرحلۀ حفاری (مطالعۀ موردی تونل حکیم)</TitleF>
+		<TitleE>Value Engineering Based on Monitoring During Tunnel Excavation Phase-a Case Study of Hakim Tunnel</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>ارائه یک مدل زمین&#8204;شناسی، تخمین پارامترهای طراحی و انتخاب کلاس حفاری و نگهداری با حداقل کردن ریسک، تامین ایمنی و کاهش هزینه، چالش اصلی فرآیند ساخت تونل در زمین&#8204;های نرم است. بنابراین انجام مطالعات کافی&#8204;، تفسیر، تحلیل و پردازش این داده&#8204;ها در یک مدل واحد با قابلیت به&#8204;روز رسانی برای برنامه&#8204;ریزی فرآیند ساخت یک تونل&#8204;، از اهمیت به سزایی در موفقیت یک پروژه تونلزنی برخوردار است. بزرگراه حکیم یکی از بزرگراه&#8204;های اصلی کلان شهر تهران به 9 طول کیلومتر&#8204; است که از محل اتصال بزرگراه رسالت و بزرگراه کردستان بعد از تونل رسالت آغاز می&#8204;شود و در بزرگراه لشگری به پایان می&#8204;رسد. غرب این بزرگراه از منطقه پارک جنگلی چیتگر عبور می&#8204;کند. با توجه به محدودیت&#8204;ها و الزامات زیست محیطی طرح، تونل دوقلو حکیم با سطح مقطع حفاری 186 مترمربع و طول کلی 3256 متر به روش تونلزنی جدید اتریشی در امتداد مسیر این بزرگراه در محدوده عبوری از پارک چیتگر در حال ساخت است. در فاز اولیه طراحی یک کلاس حفاری و نگهداری پیشنهاد شد. طی مراحل حفاری با استفاده از مشاهدات میدانی، نتایج رفتارنگاری و ابزاربندی و بررسی مدل&#8204;های زمین&#8204;شناسی، رفتار و طبقه&#8204;بندی زمین مورد بررسی و بازبینی مجدد قرار گرفت و کلاس حفاری و نگهداری بهینه&#8204;سازی شد. بهینه&#8204;سازی طرح باعث شد که در هزینه&#8204;های ساخت حدود 10 درصد صرفه&#8204;جویی شود.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/3Extended_Abstract.pdfExtended Abstract
+(Paper pages 51-72)
+Introduction
+Value engineering is considered an efficient alternative to improve design and construction process of urban tunneling projects. Application of value engineering techniques can provide investigating all aspects of a project in a team work, creative and short-time manner which contribute to precisely identify a project&#8217;s quality improvement issues, construction time and costs.
+Hakim Expressway one of the capital's main highways in Tehran metropolis with 9 Km in length, starts from the junction of Resalat expressway and Kurdistan expressway after Resalat tunnel and ends in Lashgari expressway. The west extended this highway passing through the area of Chitgar forest park. Due to environmental constraints, the Hakim twin tunnels with cross-section of 186 m2 excavation areas and total length of 3256 m to the NATM/SEM method in this area were excavated (Figure 1).
+In preliminary design of Hakim tunnel project, on category of excavation and support system was suggested. During the tunnel&#8217;s excavation operation, the behavior and classification of the tunnel were investigated from field observation, instrumentation and monitoring of geological models and subsequently, further excavation process was modified in accordance with value engineering. The aim of using value engineering approach in this project was to reduce the costs without any decrease in quality, employer satisfaction along with minimum risk and as well as improving operational and practical aspects. Ultimately, establishment of the value engineering approach on Hakim tunneling project leads to 10% reduction in construction costs as well as relevant quality with the least challenges (Figure 2).
+General Geology
+The city of Tehran is founded on Quaternary alluvium, which has been geologically classified by Rieben [1]. The city is located at the foot of the Alborz mountain range, which is basically composed of Eocene pyroclastic deposits (green tuff) and other volcanic rocks. The geology and the morphology of the Tehran region is similar to that for other cities located at the foot of mountains.
+Rieben (1966) divided the Tehran coarse-grained alluvia into four categories, identified as A, B, C and D, where A is the oldest and D the youngest (Figure 3).
+Hakim tunnel project locates on foothills of northern Tehran, crossing the hills of Chitgar forest park. Results of field surveys indicate that alluvial deposits in tunnel track belong to C (ramps and tunnel portal) and A formations (in most parts of tunnel track).
+
+
+
+Geotechnical characterization
+Table1 summarizes soil input parameters. Two soil types were considered for the model with 8- meter-height overburden. First layer (No.1) starts from surface with a 1 meter thickness. Second layer (No. 2) has 7 meter thickness.
+Table1. Summary of the geotechnical parameters
+
+
+	
+		
+			Parameter
+			Unit
+			Layer No. 1
+			Layer No. 1
+		
+		
+			Internal friction angle (CU)
+			Deg.
+			29
+			33
+		
+		
+			Cohesion (CU)
+			Kg/cm2
+			0.15
+			0.45
+		
+		
+			Density
+			Kg/cm3
+			18.5
+			20
+		
+		
+			Poisson ratio of unloading/reloading
+			Kg/cm2
+			0.2
+			0.2
+		
+		
+			Secant deformation modulus
+			Kg/cm2
+			550
+			900
+		
+		
+			Power of stress level of stiffness
+			
+			0.5
+			0.5
+		
+		
+			Stiffness unloading
+			Kg/cm2
+			1650
+			2700
+		
+	
+
+During tunnel excavation using field observations, the results of the monitoring and reviewing the geological model, ground behavior and classification were re-examined to optimization of the excavation and support class (Figures 4, 5).
+Detailed analysis before excavation and continuation of studies led to two excavation and support classes purposed for Hakim tunnel. Both classes of excavation and support due to ground conditions are modeled and analyzed using software Plaxis. For verification, the results of numerical analysis using monitoring and field observations were compared during the tunnel excavation. The results of monitoring compliance with the results of numerical analysis were appropriate.
+Implementation and construction costs were calculated for different sections of two excavation and support classes in accordance to contraction documents to evaluate the effect of optimization in design (Figures 6, 7)
+&#160;
+
+Figure4. Excavation sequence in excavation and support class &#8220;A&#8221;
+
+
+
+Results
+Results indicate that in both classes maximum costs are related to excavation section while minimum costs are for invert and mucking. In all concrete spray operations there was just a %3.5 increase in costs. Overall savings in excavation and support was about %10 which is significant (Figure 8).
+
+
+Figure8. Savings percentage comparison in excavation and support classes A and B
+
+
+
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>51</FPAGE>
+			<TPAGE>72</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>مجید</Name>
+				<MidName></MidName>
+				<Family>طارمی</Family>
+				<NameE>Majid</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Taromi</FamilyE>
+				<Organizations>
+				<Organization>باشگاه پژوهشگران جوان و نخبگان، واحد تهران جنوب، دانشگاه آزاد اسلامی، تهران، ایران</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد اسلامی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>majid.taromi@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>مازیار</Name>
+				<MidName></MidName>
+				<Family>حسینی</Family>
+				<NameE>Maziar</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Hosseini</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد اسلامی، واحد تهران جنوب</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>سید مهدی</Name>
+				<MidName></MidName>
+				<Family>پورهاشمی</Family>
+				<NameE>Seyed Mahdi</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Pourhashemi</FamilyE>
+				<Organizations>
+				<Organization>سازمان مهندسی و عمران شهر تهران</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>مجید</Name>
+				<MidName></MidName>
+				<Family>صادقی</Family>
+				<NameE>Majid</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Sadeghi</FamilyE>
+				<Organizations>
+				<Organization>سازمان مهندسی و عمران شهر تهران</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Hakim tunnel</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Excavation and support class</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Monitoring</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Sequential excavation</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Value engineering</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تونل حکیم</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>کلاس حفاری و نگه‌داری</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>رفتارنگاری</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>حفاری مرحله‌ای</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مهندسی ارزش</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>4. &quot;Value Methodology Standard and Body of Knowledge&quot;, SAVE International, june (2007). 5. Omigbodun A., Value engineering and optimal building projects, Journal of Architectural Engineering 7 (2) (2001) 40-43. 6. Dell’Isola A., Value Engineering: Practical Applications for Design Construction, Maintenance &amp; Operations, John Wiley &amp; Sons Inc., New Jersey, USA (1997) xxii. 8. Rieben E.H., &quot;The Geology of the Tehran Plain&quot;, Am. J. Sci. Vol. 253 (1955) 617-639. 9. JICA &quot;The study of seismic microzonation of the greater Tehran Area in the Islamic epublic of Iran. Draft final report in 3 Volumes. Japan International Cooporation Agency (JICA) and Center for Earthquake and Enviromental Studies of Tehran (CEST) Tehran Municipilaty&quot;, Pacific Consultant International (PCI) and OYO corporation (2000). 10. Brinkgreve R.B.J., Vermeer P.A. &quot;Manual of Plaxis 3D Tunnel&quot;, Rotterdam: A.A. Balkema (2001). ##تونل حکیم، کلاس حفاری و نگهداری، بهینه‌سازی، حفاری مرحله‌ای، هزینه ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>اصلاح شاخص سایش شیمازک به منظور بهبود کاربرد‌های آن در مهندسی سنگ</TitleF>
+		<TitleE>Modification of Schimazek Abrasivity Index for Improving its Application in Rock Engineering</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>تاکنون شاخص&#8204;ها و روش&#8204;های مختلفی برای ارزیابی قابلیت سایندگی سنگ&#8204;ها ارائه شده است. به طور کلی این شاخص&#8204;ها را می&#8204;توان به دو دسته روش&#8204;های مبتنی بر ذات سنگ و روش&#8204;های مبتنی بر ابزار&#8204;های ابتکاری تقسیم&#8204;بندی نمود. روش شاخص شیمازک یکی از قوی&#8204;ترین و پرکاربردترین روش&#8204;های ارزیابی سایندگی سنگ است. این شاخص بر مبنای اندازه&#8204; دانه&#8204;ها، مقاومت کششی برزیلی و میزان کوارتز محتوی معادل ارائه شده است. با توجه به اینکه ارزش هر سه پارامتر فوق در شاخص شیمازک یکسان در نظر گرفته شده است، لذا در بعضی مواقع این شاخص قدرت تشخیص مناسبی را ندارد. در این تحقیق سعی شده است تا با استفاده از روش تحلیل سلسله مراتبی فازی دلفی (FDAHP) وزن هر یک از سه معیار فوق در سایندگی سنگ اعمال شده و بر طبق این وزن&#8204;ها شاخص شیمازک اصلاح شود. در مرحله بعد برای اعتبارسنجی شاخص جدید 10 نمونه سنگ ساختمانی مورد مطالعه قرار گرفته و شاخص سایندگی قدیمی و اصلاح شده آن&#8204;ها محاسبه شده است. سپس سرعت برش هر سنگ تبت شده و رابطه ریاضی بین سرعت برش و شاخص قدیمی و شاخص جدید به دست آمده است. نتایج نشان می&#8204;دهد که شاخص سایندگی شیمازک جدید توانایی به مراتب بالاتری نسبت به شاخص قدیمی دارد.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/4Extended_Abstract.pdfExtended Abstract
+(Paper pages 73-90)
+Introduction
+Up to now, various indexes and methods have been presented for evaluating the abrasivity of rocks. In total, these methods can be divided to two main groups; the methods based on nature of rocks, methods based on heuristic tools. Schimazek F-abrasivity index is one of the most powerful and applicable indexes for evaluating the rock abrasiveness. This index uses the grain size, Brazilian tensile strength and equivalent quartz content for abrasivity analysis. Since the values of these parameters are equal in Schimazek index, therefore, in some cases this index doesn't have suitable ability to distinguish and classify the rock abrasiveness. This paper tries to modify the Schimazek index considering the weights of its applied parameters.
+Material and Methods
+In this research, Fuzzy Delphi Analytical Hierarchy Process (FDAHP) has been used to calculate the weight of dominant parameters in rock abrasivity. For this purpose several questioners have been distributed and the expert opinions were collected. The results showed that the quartz content, grain size and tensile strength have the weight of 0.4, 0.31 and 0.29 respectively and new Schimazek F-abrasivity index is as presented in equation (1).
+&#160;&#160; &#160;
+In the next stage, in order to facilitate the application of new index, a new classification system was developed. This classification and related weighing graphs (Figure 1) help to change the discontinuous classification to continuous one.
+Results and discussions
+In order to verify the application of the new developed index, ten ornamental stones have been studied and the old and modified Schimazek indexes were calculated for all of them. Then, the cutting rate (sawing rate) of each stone was recorded in laboratory and the mathematical relationships between new and old indexes have been achieved. The results show that the new Schimazek abrasivity index has higher ability to predict the cutting rate than old one (Figure 2).&#160;
+
+&#160;
+Figure1. Continuous weighting for parameters of Schimazek F-abrasivity index
+
+
+Figure2. Regression of old and new Schimazek F-abrasivity index with cutting rate of granite ornamental stones
+Conclusion
+Generally it could be concluded that, the main weakness of Schimazek F-abrasivity index which is the equality of parameters&#8217; importance, has been removed by idea developed and confirmed in this study. The different weights which allocated to grain size, Brazilian tensile strength and equivalent quartz content in study, improves the Schimazek index applicability in rock engineering applications specially rock cutting and drilling. Therefore, it is recommended to use new method instead of old one in future applications.
+&#160;
+
+
+
+
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>73</FPAGE>
+			<TPAGE>90</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>محمد</Name>
+				<MidName></MidName>
+				<Family>عطایی</Family>
+				<NameE>M</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Ataei</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه صنعتی شاهرود، دانشکده معدن، نفت و ژئوفیزیک</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>ataei@shahroodut.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>سیدهادی</Name>
+				<MidName></MidName>
+				<Family>حسینی</Family>
+				<NameE>sh.</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>hosseini</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه صنعتی اصفهان، دانشکده مهندسی معدن</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>رضا</Name>
+				<MidName></MidName>
+				<Family>میکائیل</Family>
+				<NameE>S.H</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Hoseinie</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه صنعتی ارومیه، دانشکده مهندسی معدن</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>abrasivity index has higher ability than old one. کلیدواژگان [English]	rock</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>abrasivity</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Schimazek index</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>cutting rate.</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سنگ</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سایندگی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شاخص شیمازک</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سرعت برش</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1.	Ataei M., Mikaiel R., Sereshki F., Ghaysari N., &quot;Predicting the production rate of diamond wire saw using statistical analysis&quot;, Arabian Journal of Geosciences. 5 ((2011)) 1289-1295. 2.	Ataei M., Mikaeil R., Hoseinie S. H., Hosseini S. M., &quot;Fuzzy analytical hierarchy process approach for ranking the sawability of carbonate rock&quot;, International Journal of Rock Mechanics &amp; Mining Sciences, 50 (2012) 83-93. 3.	Buyuksagis I.S., Goktan R.M., &quot;Investigation of marble machining performance using an instrumented block-cutter&quot;, Journal of Materials Processing Technology, 169 (2005) 258-262. 4.	Buyuksagis I.S., &quot;Effect of cutting mode on the sawability of granites using segmented circular diamond sawblade&quot;, Journal of Materials Processing Technology, 183 (2007) 399-406. 5.	Chen Chao-Shi, Liu Ya-Ching, &quot;A methodology for evaluation and classification of rock mass quality on tunnel engineering. Tunnelling and Underground Space Technology 22 (2007) 377-387.  6.	Cheng Jao-Hong, Tang Chih-Huei, &quot;An Application of Fuzzy Delphi and Fuzzy AHP for Multi-criteria Evaluation on Bicycle Industry Supply Chains&quot;, Wseas Transactions on System and Control. Issue 1, Volume 4, January (2009).  7.	Cheng Jao-Hong, Tang Chih-Huei, Chih-Ming Lee, &quot;An Application of Fuzzy Delphi and Fuzzy AHP on Evaluating Wafer Supplier in Semiconductor Industry&quot;,Wseas Transactions on System and Control. Issue 5, Volume 6, May (2009).  8.	Ersoy A., Waller M. D., &quot;Textural characterization of rocks&quot;, J. of Engineering Geology, June, VoL. 39, Issues 3-4 (1995a) 123-136.  9.	 Ersoy A., Atici U. &quot;Performance characteristics of circular diamond saws in cutting different types of rocks&quot;, Diamond and Related Materials, 13 (2004) 22-37. 10.	 Ersoy A., Buyuksagis S., Atici U., &quot;Wear characteristics of circular diamond saws in the cutting of different hard and abrasive rocks, Wear&quot;, 258 (2005) 1422-1436. 11.	 Eyuboglu AS., Ozcelik Y., Kulaksiz S., Engin IC., &quot;Statistical and microscopic investigation of disc segment wear related to sawing Ankara andesites, Int. J. Rock Mech. Min. Sci. 40 (2003) 405-414. 12.	 Fener M., Kahraman S., Ozder M.O, &quot;Performance Prediction of Circular Diamond Saws from Mechanical Rock Properties in Cutting Carbonate Rocks&quot;, Rock Mech. Rock Engng. 40 (5) (2007) 505-517. 13.	 Hoseinie S. H., Ataei M., Osanloo M., &quot;A new classification system for evaluating rock penetrability&quot;, International Journal of Rock Mechanics &amp; Mining Sciences 46 (2009) 1329-1340. 14.	 Kahraman S., Fener M., Gunaydin O., &quot;Predicting the sawability of carbonate rocks using multiple curvilinear regression analysis&quot;, International Journal of Rock Mechanics &amp; Mining Sciences, 41 (2004) 1123-1131. 15.	 Liu YC., Chen CS., &quot;A new approach for application of rock mass classification on rock slope stability assessment&quot;, Eng Geol 89 (2007) 129-43. 16.	 Mikaeil R., Yousefi R., Ataei M., Abasian Farani R., &quot;Development of a New Classification System for Assessing of Carbonate Rock Sawability&quot;, Archives of Mining Sciences, Vol. 56, No. 1 (2011a) 57-68. 17.	 Mikaeil R., Ataei M., Yousefi R., &quot;The application of a fuzzy analytical hierarchy process to the prediction of vibration during rock sawing&quot;, Mining Science and Technology, 21 (2011b) 611-619. 18.	 Mikaeil R., Ozcelik Y., Ataei M., Yousefi R., &quot;Ranking the sawability of dimension stone using Fuzzy Delphi and multi-criteria decision-making techniques&quot;, International Journal of Rock Mechanics &amp; Mining Sciences; 58 (2013) 118-126. 19.	 Tutmez B., Kahraman S., Gunaydin O., &quot;Multifactorial fuzzy approach to the sawability classification of building stones&quot;, Construction and Building Materials 21 (2007) 1672-1679. 20.	 Thuro K, &quot;Drillability prediction- geological influences in hard rack drill and blast tunneling&quot;, Geol Runsch, 86 (1997) 426-438. 21.	 Wright D. N., Cassapi V.B., &quot;Factors influencing stone sawability&quot;, Industrial Diamond Review, 2 (1985) 84-87. 22.	 Wei X., Wang CY, Zhou ZH., &quot;Study on the fuzzy ranking of granite sawability&quot;, J. Mater. Process, Technol,139 (2003) 277-80. ## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>ارزیابی کارایی روش‌های ارزش اطلاعات، تراکم سطح، LNRF و نسبت فراوانی در پهنه‌بندی خطر زمین‌لغزش در منطقه پشت‌دربند، کرمانشاه</TitleF>
+		<TitleE>Comparative Study of Information Value, Density Area, LNRF, Frequency Ratio Mmethods in Landslide Zoning at Poshtdarband Region, Kermanshah Province</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>زمین&#8204;لغزش به سبب امکان رخداد آن در محیط&#8204;های طبیعی مختلف و به سبب عوامل طبیعی و مصنوعی متفاوت موثر برآن، نسبت به سایر مخاطرات طبیعی جایگاه خاصی دارد. زمین&#8204;لغزش ها به علت فراوانی رخدادشان، هر ساله موجب خسارات سنگینی می گردند که جبران برخی از آنها هزینه و وقت فراوانی می&#8204;طلبد. به این سبب مطالعه و بررسی این پدیده مخصوصا در مناطقی که در مسیر پیشرفت و توسعه قرار دارند، امری ضروری است. از بهترین روش&#8204;های مطالعه زمین&#8204;لغزش ها پهنه&#8204;بندی خطر آن می باشد، که از دیرباز مورد توجه محقیقن بوده است. در این روش منطقه مورد بررسی با توجه به عوامل موثر در بروز پدیده زمین&#8204;لغزش، به پهنه&#8204;های با خطر کم تا خطر خیلی زیاد تقسیم&#8204;بندی می شوند. این پهنه&#8204;بندی می تواند در برنامه&#8204;ریزی های منطقه&#8204;ای کمک شایانی داشته باشد. روش&#8204;های متفاوتی برای این منظور ارائه و توسعه داده شده است. در این نوشتار از چهار روش ارزش اطلاعات، تراکم سطح، LNRF و نسبت فراوانی که از روش&#8204;های آماری دو متغیره می باشند، در پهنه&#8204;بندی خطر زمین&#8204;لغزش منطقه پشت&#8204;دربند استفاده شده است. نتایج بیانگر آن است که روش نسبت فراوانی با اختلاف جزئی نسبت به روش تراکم سطح از میان روش&#8204;های بکار برده شده برای پهنه&#8204;بندی منطقه نتایج مطلوب تری بدست می دهد.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/5Extended_Abstract.pdf&#160;Extended Abstract
+&#160;(Paper pages 91-114)
+Introduction
+Due to possibility of occurrence in various natural environments and the variety of natural and artificial factors that affect landslides, landslide has special importance in natural hazards. Depending on the landform, several factors can cause or accelerate the landslide. According to previous researches, Human activities, land morphology, geological setting, slope, aspect, climate conditions, proximity to some watershed features such as rivers and faults are the most important parameters. Landslides occur frequently each year and they can cause heavy losses which compensating some of them requires a lot of money and time.
+Assessing landslide related hazards with only limited background information and data is a constant challenge for engineers, geologists, planners, landowners, developers, insurance companies, and government entities.
+The landslide occurrence in terms of time and place are not easily predictable, for this reason, Landslide Hazard Zonation (LHZ) or Landslide Susceptibility Zonation (LSZ) maps are used to predict the happening of landslides. A landslide susceptibility map depicts areas likely to have landslides in the future by correlating some of the principal factors that contribute to landslides with the past distribution of slope failures. These maps are basic tools for land-use planning, especially in mountain areas. Landslide susceptibility mapping relies on a rather complex knowledge of slope movements and their controlling factors. The reliability of landslide susceptibility maps mostly depends on the amount and quality of available data, the working scale and the selection of the appropriate methodology of analysis and modeling.
+Such maps are obtained by dividing of a region into near-homogeneous domains and weighting them according to the degree of possible hazard of a landslide. There are two ways to do landslide hazard zonation: (i) a qualitative approach that is based on expert knowledge of the target area and portrays susceptibility zoning in descriptive terms; and, (ii) a quantitative approach based on statistical algorithms. In the present study of landslide susceptibility zonation, bivariate statistical methods (information value, density area, LNRF, frequency ratio) were used. In bivariate statistical analysis, each factor map is combined with the landslide distribution map and weighting values based on landslide densities are calculated for each parameter class.
+Materials and Methods
+The best method for studying landslides, which has long been of interest to researchers, is hazard zonation. In this method due to the affecting factors in landslide occurrence, the study area is classified into areas with low to very high risk. Such zonation could be of great help in regional planning. Different methods have been developed for this purpose. In this research four bivariate statistical methods namely information value, density area, LNRF, and frequency ratio are used to investigate the hazard zonation in Poshtdarband region, Kermanshah province. The study began with the preparation of a landslide inventory map. The instability factors used in this study included geology, land use, normalized difference moisture index (NDMI), slope gradient, aspect, distance from faults, distance from surface water, distance from roads, profile curvature and plan curvature. Landslide area ratio was calculated in classes of effective factors maps and weighted by four bivariate statistical methods. In addition, landslide hazard zonation maps were obtained from algebraic sum of weighted maps with regard to breakpoints of frequency curve. Finally, by using density ratio (Dr) Index through all four methods hazard classes were compared and with the help of quality sum (Qs) and precision (P) indexes these four methods were compared and evaluated.
+Results and Discussion
+If the landslide susceptibility analyses are performed effectively, they can help engineers, contractors, land use planners, etc. minimize landslide. In this study, bivariate statistical methods were applied to generate landslide susceptibility maps using the instability factors. The bivariate approach computes the frequency of landslides with respect to each input factor separately, and the final susceptibility map is a simple combination of all the factors irrespective of their relative significance in causing landslides in a particular region.
+In table 1 subclasses of instability factors which had the highest value in different methods, are summarized.
+The density ratio indexes (Dr), quality sum indices (Qs) and precision indices (P) were used to compare the methods. By overlaying the landslide inventory map of the study area and landslide hazard zonation maps, quality sum (Qs) and precision (P) indices introduce a suitable model for the studied region, and density ratio index (Dr) introduces division precision among the zones or hazard classes in each zonation model.
+Table1. subclasses of instability factors in different methods which had the 
+highest value
+
+
+	
+		
+			&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; factor methods
+			aspect
+			Slope
+			distance from surface water 
+			land use 
+			plan curvature
+			profile curvature
+			distance from fault
+			distance from the roads
+			NDMI 
+		
+		
+			information value
+			N, NE
+			&#62;40
+			&#62;1000
+			forest
+			concave
+			concave
+			&#60;500
+			&#62;1000
+			-0.17_ -0.408
+		
+		
+			density area
+			N, NE
+			&#62;40
+			&#62;1000
+			forest
+			concave
+			concave
+			&#60;500
+			&#62;1000
+			-0.17_ -0.408
+		
+		
+			LNRF
+			SW, S
+			10-20
+			&#62;1000
+			pasture
+			Convex
+			convex
+			&#60;500
+			&#62;1000
+			-0.17_ -0.408
+		
+		
+			frequency ratio
+			N, NE
+			&#62;40
+			&#62;1000
+			forest
+			concave
+			concave
+			&#60;500
+			&#62;1000
+			-0.17_ -0.408
+		
+	
+
+The density ratio for information value method in the very high hazard class is accounted 1.700495. These values for density area, frequency ratio, and LNRF methods are, 3.407827, 3.402257, and 1.694628 respectively.
+Method precision (P) values for information value, density area, frequency ratio, and LNRF methods are 0.160826, 0.241024, 0.240672 and 0.16942 respectively.
+Conclusion 
+
+
+	Frequency ratio, density area and information value methods showed that forest land use, slope and slope shape factors have the highest impacts on a landslide occurrence.
+	The LNRF method showed that geology factors, pasture land use and distance from surface water had the greatest role in landslide making.
+	For frequency ratio, information value, and density area methods, the effective factors in landslide are the same, however through the LNRF method, the three factors which have the greatest impact on landslide happening, are generally different from the three other methods.
+	The density ratio values show that density area and frequency ratio methods respectively have more accuracy and applicability within all used methods for separating hazard classes in the study area.
+	The quality sum (Qs) results indicate that although there are minor differences, the frequency ratio compared to the density area method was more accurate and more applicable for separating landslide hazard in the Poshtdarband region.
+	The calculated results of P index indicated that among the used methods, the density area method with a nuance of the frequency ratio method is the most suitable method for the study area.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>91</FPAGE>
+			<TPAGE>114</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>محمدحسین</Name>
+				<MidName></MidName>
+				<Family>قبادی</Family>
+				<NameE>Mohammad Hosein</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Ghobadi</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه بوعلی‌سینا همدان، گروه زمین‌شناسی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه بوعلی‌سینا همدان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>سیدحسین</Name>
+				<MidName></MidName>
+				<Family>جلالی</Family>
+				<NameE>Seyed Hosein</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Jalali</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه بوعلی‌سینا همدان، گروه زمین‌شناسی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه بوعلی‌سینا همدان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>بهمن</Name>
+				<MidName></MidName>
+				<Family>ساعدی</Family>
+				<NameE>Bahman</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Saedi</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه بوعلی‌سینا همدان، گروه زمین‌شناسی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه بوعلی‌سینا همدان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>نوشین</Name>
+				<MidName></MidName>
+				<Family>پیروزی نژاد</Family>
+				<NameE>Noshin</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Pirouzinajad</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه تبریز</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه تبریز</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Landslide zonation</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Information value</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Density area</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>LNRF</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Frequency ratio</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Bivariate statistical methods</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Poshtdarband area.</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>پهنه‌بندی خطر زمین‌لغزش</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>روش‌های آماری دو متغیره</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>پشت‌دربند</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>25.	Teimouri M., Graee P., &quot;Evaluation of AHP and Frequency Ratio Methods in Landslide Hazard Zoning (Case Study: Bojnord Urban Watershed, Iran)&quot;, International Research Journal of Applied and Basic Sciences, Vole, 3 (9) (2012) 1978-1984. 26.	Gupta R.P., Joshi B.C., &quot;Landslide hazard zoning using the GIS approach-A case study from the Ramganga catchment&quot;, Himalayas, Engineering Geology, 28 (1) (1990) 119-131. 27.	Nandi A., Shakoor A., &quot;A GIS-based landslide susceptibility evaluation using bivariate and multivariate statistical analyses&quot;, Engineering Geology 110 (2009) 11-20. 28.	Yalcin A., &quot;GIS-based landslide susceptibility mapping using analytical hierarchy process and bivariate statistics in Ardesen (Turkey): Comparisons of results and confirmations&quot;, Catena 72 (2008) 1-12. 29.	Yalcin A.S., Reis A.C., Aydinoglu T., Yomralioglu A., &quot;GIS-based comparative study of frequency ratio, analytical hierarchy process, bivariate statistics and logistics regression methods for landslide susceptibility mapping in Trabzon&quot;, NE Turkey, Catena 85 (2011) 274-287.## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>اثر شیب شیروانی بر جابه‌جایی نسبی طبقات قاب‌های خمشی فولادی در ساختگاه‌های باخاک‌‌ نرم</TitleF>
+		<TitleE>Effect of Slope on Interstory Drift of Steel Moment Resistant Frames in Soft Soil  </TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>عوامل مختلفی در بحث اندرکنش خاک و سازه باید در نظر گرفته شود؛ که از جمله آنها می&#8204;توان خواص مصالح لایه&#8204;های زیرسطحی، توپوگرافی و هندسه ساختگاه و خصوصیات حرکت ورودی را نام برد. مطالعات نشان می&#8204;دهد که امواج لرزه&#8204;ای در برخورد با نامنظمی&#8204;های توپوگرافی دچار شکست&#160; شده و باعث &#8204;ایجاد حرکات لرزه&#8204;ای شدیدتری نسبت به حالت بدون شیب در سطح زمین می&#8204;شوند. در&#8204;این مقاله تاثیر اثرات توپوگرافی بر روی جابه&#8204;جایی نسبی طبقات سه سازه با سیستم قاب خمشی فولادی بررسی شده است. برای این منظور&#160; 6 مدل ترکیبی از خاک- سازه و توپوگرافی در نظر گرفته شده است. 3 سازه 6، 9 و 12 طبقه در دو فاصله نزدیک و دور از شیب 20 درجه قرار داده شده و 10 رکورد زمین&#8204;لرزه ثبت شده &#160;بر روی سنگ بستر به مدل&#8204;ها اعمال گردید. جابه&#8204;جایی نسبی طبقات به عنوان معیار بررسی تاثیر توپوگرافی در نظر گرفته شده است. نتایج نشان داد توپوگرافی سبب افزایش جابجایی نسبی طبقات می شود اما این افزایش در سازه ها و طبقات مختلف، متفاوت می باشد. درصد افزایش جابه&#8204;جایی نسبی ناشی از تاثیرات شیب با افزایش تعداد طبقات کاهش می&#8204;یابد. به گونه&#8204;ای که در سازه 6 طبقه تا 25 درصد، سازه 9 طبقه تا 15 درصد و سازه 12 طبقه تا 6 درصد رشد، در میانگین مقادیر جابه جایی نسبی طبقات ملاحظه شد. همچنین در سازه&#8204;های 9 و 12 طبقه در برخی از طبقات کاهش جابه&#8204;جایی نسبی طبقه مشاهده شد.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/6Extended_Abstract.pdfExtended Abstract
+(Paper pages 115-134)
+Introduction
+Different factors should be considered in investigating soil- structure interaction for which we can refer to underground layers material properties, site shape and topography and entry motion. It has been showed that seismic waves will be reflected and makes more strange seismic waves in comparison with the state of without slope. To investigate the topography effects the various assumptions such as considering the rigid and compliant bedrock, half space, stimulations with different frequencies, slopes with different angles, different heights of slopes, and soil type were evaluated.&#160; In this study topography effects on interstory drift of three structures with steel moment resistant frame system is considered, for this aim 6 combined model of soil- structure and topography is investigated. Three structures of 6, 9 and 12 story placed in near and far from of crest of a slope and 10 earthquake on bedrock has been applied to models. Interstory drift is considered as a criteria for investigating topography effect.
+Material and Methods
+This paper examines 3 planar steel moment resistant frame (SMRF) which have been previously designed by&#160;Karavasilis et al (2007)&#160;according to&#160;EC3&#160;and&#160;EC8. These structures have 3 bays, and 6, 9, 12 stories. The length of each bay and the height of each story are 5 and 3 m, respectively. Furthermore, the amount of dead and live loads are considered in accordance with the current study&#160;(Minasidis et al 2014). The study frames were modeled in ABAQUS software in the form of two-dimensional (Figure&#160;2). A36 steel is used in the models and the yield strength of steel is 235 MPa. Modeling of the behavior of steel was implemented using the yield criterion of VON MISES and taking into account the non-linear behavior of materials and Poisson's ratio of 0.3. A kinematic material hardening of 3% is assumed for the nonlinear elements and a Rayleigh damping of 5% is assumed for the first two modes of each frame.
+In this study,&#160;&#160; a slope with &#945;=20 is considered. The characteristics of the slope and the soil of the region are obtained by borehole in different point based on&#160;Ghanbari et al 2011&#160;study.
+
+
+
+
+Figure1. Growth percentage in average amount of interstory drift
+The desired slope has a height of 30 m. The depth of the bedrock is considered equal to 60 m. The numerical analyses were performed with the Finite element method, for nonlinear soil with VS=238 m/s, Poisson&#8217;s ratio v=0.35 and mass density &#961;=1800 kg/m3. Moreover, to estimate the distribution of response, 10 records located on the bedrock (shear wave velocity is more than 650 m/s) have been used. To reduce the near source effect records are selected in such a way that they have no pulse in velocity time history and Distance from source to site greater than 10 km considered
+Result
+Result showed that interstory drift of structures increases due to topography effects, but this increase varies for different structures and earthquakes. Growth percentage in average amount of interstory drift are 25, 15 and 6 percent for structures with 6, 9 and 12 story respectively. Also for structure 9 and 12 story, interstory drift was decrease in some stories. 
+&#160;
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>115</FPAGE>
+			<TPAGE>134</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>جعفر</Name>
+				<MidName></MidName>
+				<Family>محمدی تکانتپه</Family>
+				<NameE>j</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>mohammaditekantape</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکده فنی مهندسی</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>m.tekantape@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>غلامرضا</Name>
+				<MidName></MidName>
+				<Family>نوری</Family>
+				<NameE>ghr</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>nouri</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکده فنی مهندسی</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>r.nouri@khu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>علی</Name>
+				<MidName></MidName>
+				<Family>قنبری</Family>
+				<NameE>ali</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>ghanbari</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکده فنی مهندسی</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>ghanbari@khu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>توپوگرافی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شیب</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>زلزله حوزه دور</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>جابه‌جایی نسبی طبقه</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>قاب خمشی فولادی</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>[1]. Ashford SA, Sitar N. (1997). Analysis of topographic amplification of inclined shear waves in a steep coastal bluff. Bulletin of the Seismological Society of America; 87(No. 3):692–700.##[2]. Tripe. R, Kontoe. S, K.C.Wong. T. (2013) Slope topography effects on ground motion in the presence of deep soil layers. Soil Dynamics and Earthquake Engineering; 50:72-84.##[3] George B, Achilleas G. (2005) numerical evaluation of slope topography effects on seismic ground motion. Soil dynamics and earthquake engineering, 25, 547–558## [4]. Assimaki. D, Gazetas. G. (2004) Soil and topographic amplification on canyon banks and the 1999 Athens earthquake. Earthquake engineering 8(no. 1):1–43.##[5]. Bouckovalas.g, Papadimitriou (2005) numerical evaluation of slope topography effects on seismic ground motion. Soil dynamics and earthquake engineering, 25:547–58##[6]. Samuela. R, Ernesto.c, Giovanni. B. (2014) Coupling of topographic and stratigraphic effects on seismic response of slopes through 2d linear and equivalent linear analyses. Soil dynamics and earthquake engineering, 67, 66–84##[7]. Euro code 8. (2005) design of structures for earthquake resistance; part 1: general rules. Seismic actions and rules for buildings, European committee for standardization. Brussels.##[8]. Idriss I, seed b. (1967),”response of earth banks during earthquakes”, soil mech found div ASCE; 93(sm 3):61–82.##[10]. Karavasilis TL, Makris N, Bazeos N, Beskos DE. Dimensional response analysis of multistory regular steel MRF subjected to pulse-like earthquake ground motions. Structural Engineering ASCE 2010; 136:921–32. ##[12]. Pacific earthquake engineering research center (peer) online strong motion database, http://peer.berkeley.edu/smcat/.##[13]. Minasidis. G, Hatzigeorgiou, D.E .Beskos G.D. (2014). SSI in steel frames subjected to near-fault earthquakes. Soil Dynamics and Earthquake Engineering; 66:56-68##[9] قنبری.ع، زرنگ زاده.س، رضایی.ف، شیخ زکریایی،س، (1389)،&amp;quot;مطالعه ویژگی‌های ژئوتکنیکی رسوبات آبرفتی کرج&amp;quot;، پژوهشکده علوم زمین، سازمان زمین شناسی و اکتشافات معدنی کشور##[11] آیین نامه طراحی ساختمان‌ها دربرابر زلزله، آیین نامه 2800، ،1394، مرکز تحقیقات راه، مسکن و شهرسازی ، ویرایش چهارم ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>تأثیر بارگذاری دینامیک چرخه‌ای روی خصوصیات مکانیکی و رفتار خستگی سنگ های تونالیتی</TitleF>
+		<TitleE> Effect of Cyclic Loading on the Mechanical Properties and Fatigue Behavior of Tonalite Rocks </TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>در این پژوهش رفتار خستگی سنگ&#8204;های تونالیت &#160;تحت بارگذاری چرخه&#8204;ای تک&#8204;محوره بررسی شد. بدین&#8204;منظور دو نوع بارگذاری نیرو کنترل و جابه&#8204;جایی کنترل استفاده شد. آزمون&#8204;های نیرو کنترل در ترازهای تنش متغییر و دامنۀ بارگذاری ثابت (82% مقاومت تک&#8204;محوری) و فرکانس یک هرتز انجام شد. آزمون جابه&#8204;جایی کنترل به&#8204;صورت پله&#8204;ای با افزایش دامنۀ بارگذاری انجام شد. نتایج آزمون&#8204;های خستگی انجام شده توسط پارامترهای آسیب خستگی شامل کرنش بیشینه و کمینۀ محوری، کرنش بیشینه و کمینۀ جانبی، مدول&#173;های مماسی و متقاطع، چقرمگی و انرژی وارفتگی مورد ارزیابی قرار گرفت. نتایج نشان داد که این تیپ سنگی کاهش چشم&#8204;گیری در مقاومت خود به&#8204;دلیل آسیب خستگی نشان می&#8204;دهد. از بین پارامترهای آسیب خستگی، پارامتر کرنش جانبی آسیب سه&#8204;مرحله&#8204;ای خستگی را به بهترین شکل نشان می&#8204;دهد. این مطلب مؤید این نکته است که ترک&#8204;های ایجاد شده در راستای بارگذاری جهت یافته&#173;اند. هم&#8204;چنین، آزمون&#173;های جابه&#8204;جایی کنترل نشان داد که رفتار این تیپ سنگی از نوع کرنش نرم&#8204;شوندگی است.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/7Extended_Abstract.pdfExtended Abstract
+&#160;(Paper pages 135-156)
+Introduction
+Many civil structures (e.g. tunnel walls, bridge pillars, dam abutments and road foundations) are subjected to both static and dynamic loads. Cyclic loading leads to occurring fatigue phenomenon. Fatigue is the tendency of materials to break, or the process of damage accumulation, under cyclic loading. It was found that the dynamic fatigue strength can be reduced by 30-70 percent on average compared to uniaxial compression strength. Different materials show different response when they are subjected to cyclic loading. Some materials become stronger and more ductile, while others become weaker and more brittle. Although it is clear that the mechanical properties of rock under dynamic loads varied dramatically from those under static loads, the nature of dynamic failure in rock remains unclear, especially in cyclic loading condition. Fatigue behavior of rocks was rarely studied in respect to other materials such as steel and soil. The performed researches on fatigue behavior of rocks indicated that fatigue life will be decreased by increasing load amplitude in logarithmic and exponentially pattern. Also, strain softening is the dominated behavior of rocks against cyclic loading. Furthermore, some parameters such as maximum load level, confining pressures, amplitude, and loading frequency have considerable effects on fatigue behavior of rocks. However, available data on fatigue behavior remain insufficient for solving the practical tasks of predicting rock bursts and earthquakes. Obtained results are inconclusive and sometimes discordant. The aim of the current work was to assess tonalite rock fatigue behaviour under different loading conditions to describe the fatigue damage process of the granitic rock.
+Material and methods
+Several core samples were prepared to perform this research. The core samples were prepared with a L/D ratio of 2.5 with an average diameter of 54 mm. Before the fatigue tests, the physical and mechanical properties of the rocks were measured. Uniaxial compressive strength test (UCS) has been done on 5 core samples. The tests were performed in the load-control mode with a 1.6 kN/s loading rate. The tests were conducted to obtain the physico-mechanical parameters of the rocks in static loading condition, and provided a reference for subsequent dynamic tests. The cyclic tests were performed in both load and displacement control modes. To record axial and lateral strains during the fatigue tests, four strain gauges have been employed with arrangement of two axial and two laterals. Also, three acoustic emission sensors were installed on top, mean and bottom of the core samples to record cracking sound. In order to doing the tests a servocontrol Instron machine with 500 kN capacity was employed. The fatigue tests were conducted with three different maximum loads, 1 Hz frequency, and constant amplitude (0.82 of uniaxial compressive strength). The maximum stress level (the ratio of maximum cyclic stress to static strength) was varied 0.80, 0.85, and 0.90. The amplitude level (the ratio of amplitude stress to static strength) ranged from 0.50 to 0.70 and 0.90. Finally, Multi stages loading with increasing amplitude were applied for the displacement control tests. The results of fatigue tests have been evaluated by fatigue damage parameters including maximum and minimum axial strain, maximum and minimum lateral strain, tangent and secant modulus, toughness and hysteresis energy.
+Results and discussion
+The obtained results indicated that during fatigue process failure occurs below the maximum strength loading condition as a result of accumulative damage. Analysis of the fatigue test results showed that the fatigue failure consisted of three stages: fatigue crack formation (initiation phase I), stable crack propagation (uniform velocity phase II), and unstable crack propagation resulting in a sudden breakdown (accelerated phase III). By comparing the axial and lateral deformation, it was found that lateral deformation is more sensitive to fatigue. At higher stress levels, considerable part of fatigue life is response to crake development, whereas at lower stress levels, crack acceleration phase of fatigue life is distinguishable. Descending trend of loading and unloading tangent modulus shows a scatter pattern. This behavior may be related to the calculation method and loading condition, as well as microstructure and behavior of the rock mass. In spite of tangent modulus results, the three-stages of damage process (especially phase I and II) for secant modulus in both loading and unloading conditions are clear. The result is due to the method of calculation and increase in axial strain with increasing number of cycles. Brittle behavior of this type of rock leads acceleration phase to be hidden and unclear in most of fatigue damage parameters. A dramatic decrease of toughness and hysteresis energy in the first few cycles is due to the closing of pre-existing micro fractures. In fact, during the initial cycle, the rock behaves in a more ductile fashion than in the next few cycles. Thereafter, toughness begins to increase slowly, then steadily, and finally rapidly. A similar behavior was found for hysteresis energy as well. This fact indicated that cracks generated in parallel to loading direction. Fatigue displacement control tests show a strain softening behavior for the granitic rocks. This behavior is highlighted in variation of maximum stress during the tests. This parameter, especially in final step of loading, shows distinguishable decreasing trend.
+Conclusion
+The tonalite rocks were subjected to uniaxial cyclic loading in both load and displacement control mode. The following conclusions were drawn from this research.
+-Accumulated fatigue damage occurs in an obvious three-stage process. This is the result of the micro-fracturing mechanism in the fatigue process.
+-By comparing axial and lateral strain damages, it was found that crack propagation occurred in the loading direction and crack opening occurred in the lateral direction. So, among fatigue damage parameters, lateral strain shows the best three-stage fatigue damage behavior.
+- Strain softening was found as rock response to cyclic displacement control loading.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>135</FPAGE>
+			<TPAGE>156</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>علی‌اکبر</Name>
+				<MidName></MidName>
+				<Family>مؤمنی</Family>
+				<NameE>Aliakbar</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Momeni</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه صنعتی شاهرود</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>Ali_moomeni@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>غلامرضا</Name>
+				<MidName></MidName>
+				<Family>خانلری</Family>
+				<NameE>Gholamreza</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Khanlari</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه بوعلی سینا همدان</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>مجتبی</Name>
+				<MidName></MidName>
+				<Family>حیدری</Family>
+				<NameE>Mojtaba</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Heidari</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه بوعلی سینا همدان</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>یاسین</Name>
+				<MidName></MidName>
+				<Family>عبدی لر</Family>
+				<NameE>Yasin</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Abdilor</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه لرستان</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>cyclic loading</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>fatigue damage</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>strain softening</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>loading amplitude</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>بارگذاری سیکلی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>آسیب خستگی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>کرنش نرم شوندگی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>دامنۀ بارگذاری</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1. Brighenti G., &quot;Reactions of rock to fatigue loading&quot;, Proc. 4th Int. Con. On Rock Mechanics, Montreux, 1(1979) 65-70. 2. Stavrogin A.N., Tarasov B.G., &quot;Experimental physics and rock mechanics&quot;, Balkem, Rotterdam (2001) 356. 3. Singh S.K., &quot;Fatigue and strain hardening behaviour of Graywacke from the Flagstaff formation, New South Wales&quot;, Eng. Geol. 26: 171-9. 4. Zhenyu T., Haihong M., &quot;Technical note: an experimental study and analysis of the behaviour of rock under cyclic loading&quot;, Int. J. Rock. Mech. Min. Sci. Geomech. Abstr. 27(1) (1990) 51-6. 5. Tien Y.M., Lee D.H., Juang C.H., &quot;Strain, pore pressure and fatigue characteristics of sandstone under various load conditions&quot;, Int. J. Rock. Mech. Min. Sci. Geomech. Abstr. 27(4) (1990) 283-9. 6. Zhao M.J., Xu R., &quot;The rock damage and strength study based on ultrasonic velocity&quot;, Chin. J. Geotech. Eng. 22(6) (2000) 720-2. 7. Akesson U., Hansson J., Stigh J., &quot;Characterisation of microcracks in the Bohus granite, western Sweden, caused by uniaxial cyclic loading&quot;, Eng. Geol. 72 (2004) 131-142. 8. Xiao J.Q., Ding D.X., Xu, G., &quot;Inverted S-shaped model for nonlinear fatigue damage of rock&quot;, Int. J. Rock. Mech. Min. Sci. 46 (3) (2009) 643-8. 9. Xiao J.Q., Ding D.X., Jiang F.L., Xu, G., &quot;Fatigue damage variable and evolution of rock subjected to cyclic loading&quot;, Int. J. Rock. Mech. Min. Sci. 47 (2010) 461-468. 10. Erarslan N., Williams D. J., &quot;Investigating the Effect of Cyclic Loading on the Indirect Tensile Strength of Rocks&quot;, Rock. Mech. Rock. Eng. 45 (2012) 327-340. 11. Chen Y. L., Ni J., Shao W., Zhou Y.C., Javadi A., Azzam R., Coalescence of fractures under uni-axial compression and fatigue loading&quot;, Rock. Mech. Rock. Eng. 45 (2012) 241-249. 12. Khanlari G.R., Momeni A., Karakus Murat., &quot;Assessment of Fatigue Behavior of Alvand Monzogranite Rocks&quot;, Journal of Engineering Geology, Kharazmi university 8 (1) (2014) 2003-2020. 13. Momeni A., Karakus M., Khanlari, G.R., Heidari M., &quot;Effects of cyclic loading on the mechanical properties of a granite&quot;, Int. J. Rock. Mech. Min. Sci. 77 (2014) 89-96. 14. International Society for Rock Mechanics, &quot;Rock characterization testing and monitoring. In: Brown ET (ed) ISRM suggested methods&quot;, Pergamon press, Oxford (1981).   ##1. Brighenti G., &quot;Reactions of rock to fatigue loading&quot;, Proc. 4th Int. Con. On Rock Mechanics, Montreux, 1(1979) 65-70. 2. Stavrogin A.N., Tarasov B.G., &quot;Experimental physics and rock mechanics&quot;, Balkem, Rotterdam (2001) 356. 3. Singh S.K., &quot;Fatigue and strain hardening behaviour of Graywacke from the Flagstaff formation, New South Wales&quot;, Eng. Geol. 26: 171-9. 4. Zhenyu T., Haihong M., &quot;Technical note: an experimental study and analysis of the behaviour of rock under cyclic loading&quot;, Int. J. Rock. Mech. Min. Sci. Geomech. Abstr. 27(1) (1990) 51-6. 5. Tien Y.M., Lee D.H., Juang C.H., &quot;Strain, pore pressure and fatigue characteristics of sandstone under various load conditions&quot;, Int. J. Rock. Mech. Min. Sci. Geomech. Abstr. 27(4) (1990) 283-9. 6. Zhao M.J., Xu R., &quot;The rock damage and strength study based on ultrasonic velocity&quot;, Chin. J. Geotech. Eng. 22(6) (2000) 720-2. 7. Akesson U., Hansson J., Stigh J., &quot;Characterisation of microcracks in the Bohus granite, western Sweden, caused by uniaxial cyclic loading&quot;, Eng. Geol. 72 (2004) 131-142. 8. Xiao J.Q., Ding D.X., Xu, G., &quot;Inverted S-shaped model for nonlinear fatigue damage of rock&quot;, Int. J. Rock. Mech. Min. Sci. 46 (3) (2009) 643-8. 9. Xiao J.Q., Ding D.X., Jiang F.L., Xu, G., &quot;Fatigue damage variable and evolution of rock subjected to cyclic loading&quot;, Int. J. Rock. Mech. Min. Sci. 47 (2010) 461-468. 10. Erarslan N., Williams D. J., &quot;Investigating the Effect of Cyclic Loading on the Indirect Tensile Strength of Rocks&quot;, Rock. Mech. Rock. Eng. 45 (2012) 327-340. 11. Chen Y. L., Ni J., Shao W., Zhou Y.C., Javadi A., Azzam R., Coalescence of fractures under uni-axial compression and fatigue loading&quot;, Rock. Mech. Rock. Eng. 45 (2012) 241-249. 12. Khanlari G.R., Momeni A., Karakus Murat., &quot;Assessment of Fatigue Behavior of Alvand Monzogranite Rocks&quot;, Journal of Engineering Geology, Kharazmi university 8 (1) (2014) 2003-2020. 13. Momeni A., Karakus M., Khanlari, G.R., Heidari M., &quot;Effects of cyclic loading on the mechanical properties of a granite&quot;, Int. J. Rock. Mech. Min. Sci. 77 (2014) 89-96. 14. International Society for Rock Mechanics, &quot;Rock characterization testing and monitoring. In: Brown ET (ed) ISRM suggested methods&quot;, Pergamon press, Oxford (1981).    ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+</ARTICLES>
+
+</JOURNAL>
+</XML>

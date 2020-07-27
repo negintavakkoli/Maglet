@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه تربت حیدریه</PublisherName>
+				<JournalTitle>علمی پژوهشی زراعت و فناوری زعفران</JournalTitle>
+				<Issn>2383-1529</Issn>
+				<Volume>7</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2019</Year>
+					<Month>12</Month>
+					<Day>22</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Classification of saffron based on its apparent characteristics using artificial neural networks</ArticleTitle>
+<VernacularTitle>درجه بندی زعفران بر اساس ویژگی های ظاهری با استفاده از شبکه های عصبی مصنوعی</VernacularTitle>
+			<FirstPage>521</FirstPage>
+			<LastPage>535</LastPage>
+			<ELocationID EIdType="pii">93065</ELocationID>
+			
+<ELocationID EIdType="doi">10.22048/jsat.2019.149440.1316</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>سید احسان</FirstName>
+					<LastName>یثربی</LastName>
+<Affiliation>مربی، گروه مهندسی کامپیوتر، دانشگاه تربت‌حیدریه ، تربت حیدریه، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>ایمان</FirstName>
+					<LastName>ذباح</LastName>
+<Affiliation>مربی، گروه کامپیوتر دانشگاه آزاد اسلامی واحد تربت‌حیدریه ، تربت حیدریه، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>بهناز</FirstName>
+					<LastName>بهزادیان</LastName>
+<Affiliation>دانشجو، کارشناسی کامپیوتر دانشگاه تربت‌حیدریه، تربت حیدریه، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>علی</FirstName>
+					<LastName>ماروسی</LastName>
+<Affiliation>استادیار، گروه مهندسی کامپیوتر، دانشگاه تربت‌حیدریه، تربت حیدریه، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>رویا</FirstName>
+					<LastName>رضایی</LastName>
+<Affiliation>مربی، گروه علوم و صنایع غذایی دانشگاه آزاد اسلامی واحد تربت‌حیدریه و مدیر واحد R&amp;D شرکت زعفران کیان توس، تربت حیدریه، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2018</Year>
+					<Month>11</Month>
+					<Day>02</Day>
+				</PubDate>
+			</History>
+		<Abstract>Saffron is an important commercial good in Iran and it is important to pay attention to its mechanization from production to packaging. Upon arrival of the saffron to the laboratory&#039;s qualitative process, an initial assessment is carried out by an expert on the basis of the apparent features. However, human error in determining the quality of saffron based on its apparent features is inevitable; use of artificial intelligence techniques can be effective in reducing human errors while mechanizing the system. It was a diagnostic study and its database consisted of 113 samples of saffron with 7 features, which were collected by the researchers on October 2016 from the valid laboratory of Saffron and under the supervision of an expert. Sample qualitative analysis was performed with the help of features in 4 different classes including excellent, good, average and second grade average. Artificial neural networks have been used to classify saffron. After analyzing and comparing the generated models using multilayer perceptron neural networks and learning vector neural network, the highest accuracy of classification on the training and testing samples was obtained with 75.93 and 75.75%, respectively. The accuracy obtained indicated that the multi-layer perceptron neural network model can be used as a decision maker by an expert or independently in saffron lab centers.</Abstract>
+			<OtherAbstract Language="FA">زعفران به‌عنوان یک کالای تجاری مهم در کشور به­شمار می‌آید و توجه به مکانیزه کردن آن از مرحله تولید تا بسته‌بندی اهمیت زیادی دارد. در بدو ورود زعفران به فرایند کیفی سنجی در آزمایشگاه ، ارزیابی اولیه بر اساس مشخصات ظاهری زعفران توسط شخص خبره انجام می‌شود. لیکن بروز خطای انسانی در تشخیص کیفیت زعفران بر مبنای ویژگی‌های ظاهری آن امری اجتناب‌‌ناپذیر‌ است؛ استفاده از تکنیک‌های مبتنی بر هوش مصنوعی می‌تواند ضمن مکانیزه کردن سیستم، در کاهش خطاهای انسانی نیز تأثیرگذار باشد. این مطالعه از نوع تشخیصی بوده و پایگاه داده آن مشتمل بر 113 نمونه زعفران با 7 ویژگی می‌باشد که توسط محققین این پژوهش، در مهر‌ماه 1396 از آزمایشگاه‌ معتبر زعفران و تحت نظارت شخص خبره جمع‌آوری‌ شده است. کیفی سنجی نمونه‌ها به کمک ویژگی‌ها در 4 کلاس مختلف زعفران پوشال درجه‌یک (نگین)، پوشال درجه دو (خوب)، پوشال درجه سه (معمولی) و پوشال درجه چهار (معمولی درجه‌دو) انجام ‌شده است. به‌منظور درجه­بندی زعفران، از روش‌های مبتنی بر شبکه‌های عصبی مصنوعی استفاده‌شده ‌است. پس از تحلیل و مقایسه مدل‏های تولیدشده با استفاده از دو نوع شبکه‌ عصبی پرسپترون چندلایه و شبکه عصبی بردار یادگیر، بالاترین دقت کلاس‌بندی روی نمونه‌های آموزش و آزمون به ترتیب با 75/93 و 75/75 درصد حاصل شد. دقت به‌دست‌آمده نشان‌دهنده آن است که مدل شبکه عصبی پرسپترون چندلایه می‌تواند به‌عنوان یک تصمیم گیر در کنار شخص خبره و یا به‌صورت مستقل در مراکز آزمایشگاهی زعفران مورد استفاده قرار ‌گیرد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">داده کاوی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">کیفی سنجی زعفران</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">یادگیری ماشین</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">هوش مصنوعی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://saffron.torbath.ac.ir/article_93065_94a69946bf7ff69683d92f4b8b2f6853.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>ارائه چارچوب شناسایی شایستگی‌های مدیران ورزشی بر اساس مدل‌ تصمیم‌گیری چندشاخصه</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">الهام</namePart>
+				<namePart type="given">ابراهیمی</namePart>
+				<affiliation>استادیار پژوهشکده اقتصاد و مدیریت پژوهشگاه علوم انسانی و مطالعات فرهنگی</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>هدف: هدف پژوهش ارائه چارچوب شناسایی شایستگی‌های مدیران ورزشی در اداره کل ورزش و جوانان استان تهران است. روش‌شناسی: برای نیل به هدف پژوهش سه گام اساسی طی شد. در گام نخست، مدل شایستگی مدیران ورزشی از طریق ادبیات موجود شناسایی و با تشکیل گروه‌های کانون تأیید شد. در گام دوم، وزن شایستگی‌ها با استفاده از روش دیمتل فازی با مشارکت ۱۲ نفر از مدیران ارشد سازمان تعیین شد. در گام نهایی، براساس تکنیک تاپسیس فازی ۸ نفر از کاندیداهای تصدی پست مدیریت اولویت‌بندی شدند.یافته‌ها: هفت شایستگی (آگاهی از قوانین و فرآیندهای کسب و کار، آشنایی با دانش و قوانین ورزش، سرپرستی و مدیریت منابع انسانی، مهارت‌های ارتباطی و روابط عمومی، اقتصاد و امور مالی، مهارت‌های رهبری و هوش و آگاهی سیاسی) برای مدیران ورزشی احصا شد. ابعاد این شایستگی‌ها با تشکیل گروه‌های کانون تأیید و نهایی شدند. با تعیین وزن شایستگی‌ها، درجه اهمیت نسبی آن‌ها مشخص شد و سه شایستگی هوش سیاسی، مهارت‌های رهبری و مدیریت منابع انسانی، بیشترین وزن را در مدل به‌دست آوردند. از تکنیک تاپسیس فازی برای اولویت‌بندی دقیق کاندیداهای تصدی پست مدیریت استفاده شد و رتبه‌بندی آن‌ها برای ورود به مخزن استعدادها مشخص گردید. نتیجه‌گیری: چارچوب و فرایند معرفی شده برای شناسایی شایستگی‌های مدیریتی در سایر سازمان‌های ورزشی نیز قابل کاربرد است؛ هرچند به تبع سازمان ممکن است شایستگی‌های متفاوتی برای مدیران هر سازمان احصا گردد. وزن‌دهی شایستگی‌ها در عمل کمتر به‌کار گرفته می‌شود؛ اما در عین حال رویکرد مفیدی برای تعیین اهمیت نسبی شایستگی‌ها است.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت منابع انسانی در ورزش</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه صنعتی شاهرود</publisher>
+			</originInfo>
+			<identifier type="issn">‪۲۳۸۳-۱۴۹۹</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>1</start>
+					<end>17</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://shm.shahroodut.ac.ir/article_1745_572a7fa93a58c5cf44189d94582e7f06.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22044/shm.2020.8414.1988</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>شناسایی و اولویت‌بندی شاخص‌های ارزیابی عملکرد مربیان و بازیکنان تیم‌های ملی فوتبال ایران با استفاده از روش بازخورد 360 درجه و فرآیند تحلیل سلسله‌مراتبی</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">طاها</namePart>
+				<namePart type="given">جلالی</namePart>
+				<affiliation>دانشجوی دکتری مدیریت ورزشی دانشگاه خوارزمی، تهران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">نجف</namePart>
+				<namePart type="given">آقایی</namePart>
+				<affiliation>دانشیار مدیریت ورزشی دانشگاه خوارزمی، تهران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>هدف: هدف از این تحقیق، شناسایی و اولویت‌بندی شاخص‌های ارزیابی عملکرد مربیان و بازیکنان تیم‌های ملی فوتبال جمهوری اسلامی ایران می‌باشد.روش‌شناسی: این تحقیق در دو بخش و با استفاده از یک روش تحقیق آمیخته انجام گرفت. در کنار مرور نظام‌مند، با استفاده از روش بازخورد 360 درجه، منابع ارزیابی‌کننده انتخاب شدند تا شاخص‌های ارزیابی عملکرد شناسایی گردند. شرکت‌کنندگان در این تحقیق شامل مربیان، ورزشکاران، اساتید دانشگاه، پیشکسوتان، داوران، اصحاب رسانه‌ها و هواداران فوتبال بودند. شیوه نمونه‌گیری این تحقیق، غیر تصادفی هدفمند است. مطالعه حاضر علاوه بر شناسایی شاخص‌ها، اولویت‌بندی آن‌ها توسط صاحب‌نظران با استفاده از روش فرایند تحلیل سلسله مراتبی(AHP) را نیز شامل می‌شود . ابزار مورداستفاده این تحقیق، پرسشنامه محقق ساخته بود و تحلیل داده‌های آن با استفاده از نرم‌افزار Expert Choice انجام گرفت.یافته‌ها: نتایج این تحقیق نشان داد که پنج مقوله &quot;ویژگی‌های فنی&quot;، &quot;ویژگی‌های شخصیتی&quot;، &quot;ویژگی‌های اخلاقی و رفتاری&quot;، &quot;ویژگی‌های روان‌شناختی و ارتباطی&quot; و &quot;ویژگی‌های مدیریتی&quot; شاخص‌های ارزیابی عملکرد مربیان تیم‌های ملی فوتبال بودند. برای یک بازیکن تیم ملی فوتبال نیز، شاخص‌های ارزیابی عملکرد شامل سه مقوله &quot;ویژگی‌های فنی&quot;، &quot;ویژگی‌های اخلاقی و رفتاری&quot; و &quot;ویژگی‌های شخصیتی&quot; می‌باشند. نتیجه‌گیری: نتایج تحقیق حاضر، شاخص‌های جدیدی نسبت به مطالعات مرتبط در گذشته معرفی نمود. به نظر می‌رسد که رویکرد بازخورد 360 درجه در انتخاب منابع ارزیابی‌کننده نتایج این تحقیق را نسبت به مطالعات مشابه متمایز ساخته است. محقق علاوه بر پیشنهاد‌های کاربردی مربوط به هر شاخص، پژوهش در زمینه ارزیابی عملکرد بازیکنان و جبران اغفال پژوهشی موجود را به پژوهشگران آینده پیشنهاد می‌دهد.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت منابع انسانی در ورزش</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه صنعتی شاهرود</publisher>
+			</originInfo>
+			<identifier type="issn">‪۲۳۸۳-۱۴۹۹</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>19</start>
+					<end>44</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://shm.shahroodut.ac.ir/article_1740_f756363ce229b76d33cb98c6aa79def2.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22044/shm.2020.8059.1924</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>نظریه سقف شیشه‌ای در حوزه ورزش بانوان: مقایسه تطبیقی و ارائه یک مدل کمی</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">اکرم</namePart>
+				<namePart type="given">مهدی زاده</namePart>
+				<affiliation>دانشجوی دکترای دانشگاه تبریز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">فاطمه</namePart>
+				<namePart type="given">عبدوی</namePart>
+				<affiliation>استادیار دانشگاه تبریز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">مصطفی</namePart>
+				<namePart type="given">افشاری</namePart>
+				<affiliation>استادیار پژوهشگاه تربیت بدنی و علوم ورزشی</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>هدف: هدف از انجام این تحقیق تبیین مدل احساس سقف شیشه‌ای در زنان سطوح ارشد مدیریتی ورزش ایران و مقایسه آن با کشورهای منتخب بود. روش شناسی: تحقیق از نوع کاربردی و از نظر روش گردآوری اطلاعات آمیخته می باشد. جامعه آماری مدیران و کارشناسان خبره ورزشی در حوزه بانوان، ورزشکاران و اعضای هیئت‌علمی بود که به‌صورت هدفمند برای مصاحبه‌های کیفی انتخاب وبا نمونه‌گیری گلوله برفی و انتخاب خبرگان با حداکثر نوسان مورد مصاحبه قرار گرفت. جامعه آماری در بخش کمی کلیه مدیران زن وزارت ورزش و جوانان، فدراسیونهای ورزشی، ادارات کل ورزش و جوانان و کارشناسان خبره زن وزارت ورزش و جوانان بودند که با نمونه گیری کل شمار تعداد 94 پرسشنامه و 19 نفر به روش در دسترس و هدفمند و از طریق ایمیل و واتزآپ به عنوان مدیران زن خارج از کشور انتخاب و پرسشنامه تکمیل کردند. یافته ها: اولویتبندی موانع مدیریتی برای زنان در سطوح ارشد مدیریتی ورزش ایران نشان داد بالاترین اولویت مربوط به موانع مدیریتی و پایین ترین اولویت مربوط به موانع فردی می‌باشد. بین موانع فرهنگی (55/21=t)، موانع اجتماعی(26/17=t)، موانع سازمانی(98/29=t)، موانع مدیریتی(72/11=t)، موانع قانونی (92/22=t)، موانع سیاسی(63/17=t) و همچنین میزان احساس سقف شیشه ای(019/24=t) در مدیران ورزشی زن ایران و سایر کشورها تفاوت معنی داری وجود دارد ودر تمامی موارد میانگین موانع احساس شده در مدیران ورزشی زن ایرانی بالاتر بود (01/0=p)، اما بین موانع فردی و خانوادگی تفاوت معنی داری مشاهده نشد.نتیجه گیری: نتایج نشان داد به طور معنی‌داری احساس سقف شیشه‌ای در نمونه‌های تحقیق بالاتر از متوسط قرار دارد(01/0=p، 18/6=t).</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت منابع انسانی در ورزش</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه صنعتی شاهرود</publisher>
+			</originInfo>
+			<identifier type="issn">‪۲۳۸۳-۱۴۹۹</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>45</start>
+					<end>59</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://shm.shahroodut.ac.ir/article_1739_27f1232c0a740684915535489e462cd0.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22044/shm.2020.7995.1905</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>اثر سرمایه فکری بر نوآوری و چابکی سازمانی کارکنان ادارات ورزش و جوانان: نقش میانجی اخلاق حرفه‌ای</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">مهدی</namePart>
+				<namePart type="given">سلیمی</namePart>
+				<affiliation>استادیار مدیریت ورزشی، دانشکده علوم ورزشی، دانشگاه اصفهان</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">فاطمه</namePart>
+				<namePart type="given">کشوری</namePart>
+				<affiliation>کارشناس ارشد مدیریت ورزشی، دانشکده تربیت‌بدنی و علوم ورزشی، دانشگاه آزاد اسلامی واحد خوراسگان.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>هدف: هدف از پژوهش حاضر بررسی اثر سرمایه فکری بر نوآوری و چابکی سازمانی با توجه به نقش میانجی اخلاق حرفه‎ای بود. روش شناسی: جامعه آماری را کلیه کارکنان ادارات ورزش و جوانان استان اصفهان تشکیل دادند که بر این اساس حجم نمونه 260 نفر تعیین و به صورت تصادفی طبقه ای گزینش گردیدند. برای جمع آوری داده ها پیرامون متغیر سرمایه فکری از پرسشنامه بونتیس، چانگ و ریچاردسون، متغیر نوآوری سازمانی از پرسشنامه استاندارد چوپانی، متغیر چابکی سازمانی از پرسشنامه استاندارد جعفر نژاد و شهائی، و متغیر اخلاق حرفه ای از پرسشنامه استاندارد کاردوزیر و براون استفاده شد. همچنین تحلیل داده ها بر اساس مدل سازی معادلات ساختاری در محیط نرم افزار اسمارت پی ال اس انجام پذیرفت. یافته ها: نتایج نشان داد سرمایه فکری با ضریب 24/0 بر نوآوری سازمانی، با ضریب 48/0 بر چابکی سازمانی، و با ضریب 92/0 بر اخلاق حرفه ای اثر مثبت و معناداری دارد. همچنین سرمایه فکری به طور غیرمستقیم و از مسیر میانجی اخلاق حرفه ای با ضریب 69/0 بر نوآوری سازمانی، و با ضریب 52/0 بر چابکی سازمانی اثر مثبت و معنادار دارد. نتیجه گیری: اگرچه توسعه سرمایه فکری به طور مثبت بر نوآوری و چابکی سازمانی اثرگذار است، با این حال ارتقاء اخلاق حرفه ای در کارکنان می تواند این اثرگذاری ها را به طور قابل توجهی بیشتر نماید.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت منابع انسانی در ورزش</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه صنعتی شاهرود</publisher>
+			</originInfo>
+			<identifier type="issn">‪۲۳۸۳-۱۴۹۹</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>61</start>
+					<end>79</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://shm.shahroodut.ac.ir/article_1728_baec8c052a1c913bbac96c16d45ff47f.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22044/shm.2020.6763.1705</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>شناسایی و اولویت‌بندی معیارهای شایستگی مدیران اماکن و فضاهای ورزشی</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">حسین</namePart>
+				<namePart type="given">حسن بیگی</namePart>
+				<affiliation>کارشناسی ارشد مدیریت ورزشی، دانشکده علوم ورزشی، دانشگاه تربیت دبیر شهید رجائی، تهران، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">عباس</namePart>
+				<namePart type="given">نظریان مادوانی</namePart>
+				<affiliation>استادیار مدیریت ورزشی، دانشکده علوم ورزشی، دانشگاه تربیت دبیر شهید رجائی، تهران، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">امیر حسین</namePart>
+				<namePart type="given">منظمی</namePart>
+				<affiliation>استادیار مدیریت ورزشی، دانشکده علوم ورزشی، دانشگاه تربیت دبیر شهید رجائی، تهران، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>هدف: پژوهش حاضر با هدف شناسایی و اولویت‌بندی معیارهای شایستگی مدیران اماکن و فضاهای ورزشی انجام شد.روش‌شناسی: تحقیق از نوع توصیفی-تحلیلی است که به‌ صورت پیمایشی انجام ‌شد. جامعه آماری، مدیران اماکن و فضاهای ورزشی دولتی و خصوصی شهر تهران بود. طبق جدول مورگان تعداد 169 نفر به‌ عنوان نمونه آماری در نظر گرفته شد. ابزار اندازه-گیری پرسشنامه محقق‌ساخته بود. با استفاده از نظرات متخصصین، روایی و پایایی پرسشنامه بررسی و مورد تأیید قرار گرفت. از تحلیل عاملی اکتشافی و تأییدی برای بررسی روایی سازه و از آزمون رتبه‌ای فریدمن برای اولویت‌بندی معیارهای شناسایی‌شده استفاده شد.یافته‌ها: نتایج نشان داد که انگیزه شغل به ‌عنوان یکی از زیر مؤلفه‌های مؤلفه ویژگی‌های شخصیتی دارای بیشترین بار عاملی (71/0) است و توانمندی در برنامه‌ریزی، نظارت و ارزشیابی در مدیریت اماکن ورزشی با بار عاملی (79/0)، همین‌طور آگاهی از امور اداری در مدیریت امور ورزشی با بار عاملی (81/0) و در نهایت آگاهی از امور فنی ساختمان ورزشی با (70/0) دارای بیشترین بار عاملی بود.نتیجه‌گیری: بهره‌مندی از نتایج تحقیق و اولویت‌بندی صورت‌گرفته، می‌تواند جهت انتخاب و ارزیابی مدیران بر اساس شایستگی آن‌ها مفید باشد. مدیران اماکن و فضاهای ورزشی که از شایستگی‌های لازم برخوردارند، می‌توانند نقش مهمی در توفیق ورزش داشته باشند و موجب توسعه گرایش آحاد مردم به ورزش، همچنین توسعه تندرستی و بهداشت اجتماعی شوند.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت منابع انسانی در ورزش</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه صنعتی شاهرود</publisher>
+			</originInfo>
+			<identifier type="issn">‪۲۳۸۳-۱۴۹۹</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>81</start>
+					<end>97</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://shm.shahroodut.ac.ir/article_1729_25fadfcd645136a00e14ed0f22a5a787.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22044/shm.2020.7121.1764</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>طراحی نقشه راهبردی پژوهشگاه علوم ورزشی با استفاده از تکنیک کارت امتیازی متوازن</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">نازنین</namePart>
+				<namePart type="given">راسخ</namePart>
+				<affiliation>استادیارمدیریت ورزشی، پژوهشگاه تربیت بدنی و علوم ورزشی</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">محمد</namePart>
+				<namePart type="given">جوادی پور</namePart>
+				<affiliation>دانشیار دانشکدة روانشناسی و علوم تربیتی، دانشگاه تهران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">زیبا</namePart>
+				<namePart type="given">استوان</namePart>
+				<affiliation>کارشناس ارشد تربیت بدنی و علوم ورزشی، پژوهشگاه تربیت بدنی و علوم ورزشی</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>روش شناسی: این تحقیق بر مبنای استراتژی، توصیفی؛ برمبنای هدف، کاربردی و در قلمرو مطالعات سازمانی به شمار می رود. بدین منظور شواری راهبری پژوهشگاه علوم ورزشی تشکیل و استراتژی های پژوهشگاه علوم ورزشی در مناظر چهار گانه کارت امتیازی متوازن چیدمان گردید. سنجه های مرتبط با استراتژی ها پس از بررسی اسناد و معیارهای ارزیابی عملکرد سازمان های بالا دستی و سازمانهای مشابه انتخاب و پس از نظرسنجی از ذی نفعان پژوهشگاه نهایی و درنهایت اهداف کمی، اقدامات و ابتکارات تدوین و در شورای راهبری تصویب گردید. از جمله اهم سنجه ها از منظر مالی، می توان به نسبت درامد پژوهشی پژوهشگاه به کل درآمد پژوهشگاه، درآمد حاصل از تجاری سازی و یا فروش دستاوردهای پژوهش و فناوری به ازاء هر پژوهشگر(میلیون ریال)؛ از منظر مشتری، تعداد مقالات چاپ شده مشترک در مجلات معتبر علمی – پژوهشی (ISC-ISI و ...) خارجی به ازاء هر پژوهشگرو تعداد اختراعات مشترک ثبت شده در مراجع علمی معتبر خارجی به ازاء هر پژوهشگر؛از منظر فرایندهای داخلی، سرانه ثبت اختراع ملی و سرانه ثبت اختراع بین المللی؛و از منظر رشد و یادگیری، به تعداد دوره های آموزشی جهت مهارت افزایی کارشناسان و تعداد دوره های آموزشی توانمند سازی اعضای هیئت علمی اشاره کرد. نتیجه گیری: نتایج نشان داد آنچه در نتیجه احصاء سنجه ها بدست می آید وجود متری برای اندازه گیری عمکلرد پژوهشگاه علوم ورزشی است که از ان طریق بتوان به اهداف استراتژیک سازمان نایل آمد.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت منابع انسانی در ورزش</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه صنعتی شاهرود</publisher>
+			</originInfo>
+			<identifier type="issn">‪۲۳۸۳-۱۴۹۹</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>99</start>
+					<end>118</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://shm.shahroodut.ac.ir/article_1699_75e42d180471910c629c73b19859e401.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22044/shm.2020.7446.1805</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>اثرگذاری شایعه، حمایت و تبعیض سازمانی بر بی‌تفاوتی کارکنان ادارات تربیت‌بدنی وزارت آموزش‌وپرورش</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">حسن</namePart>
+				<namePart type="given">فتحی</namePart>
+				<affiliation>دانشجوی دکتری، دانشکده علوم ورزشی، واحد کرمانشاه، دانشگاه آزاد اسلامی، کرمانشاه، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">بهرام</namePart>
+				<namePart type="given">یوسفی</namePart>
+				<affiliation>دانشیار مدیریت ورزشی، دانشگاه رازی، کرمانشاه، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">شهاب</namePart>
+				<namePart type="given">بهرامی</namePart>
+				<affiliation>استادیار، گروه تربیت‌بدنی دانشکده علوم ورزشی، واحد کرمانشاه، دانشگاه آزاد اسلامی، کرمانشاه، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>هدف: هدف تحقیق بررسی اثرگذاری شایعه، حمایت سازمانی ادراک شده و تبعیض بر بی‌تفاوتی سازمانی در کارکنان ادارات تربیت‌بدنی وزارت آموزش‌وپرورش بود.روش شناسی: روش تحقیق از نوع توصیفی- همبستگی بود و تحقیق به شیوه پیمایشی اجرا شد. 180 نفر از کارکنان ادارات تربیت‌بدنی وزارت آموزش‌وپرورش به عنوان نمونه انتخاب شدند. برای جمع‌آوری داده‌ها پرسشنامه جمعیت شناختی، پرسشنامه استاندارد شایعه‌سازمانی مقیمی و غفاری (1395)، پرسشنامه حمایت سازمانی ادراک شده (POSQ) ایزانبرگر و همکاران (1990)، پرسشنامه بی‌تفاوتی سازمانی دانایی فرد و همکاران (1389) و پرسشنامه محقق ساخته تبعیض سازمانی استفاده گردید. برای تجزیه‌وتحلیل داده‌ها از آمار توصیفی و همچنین برای تعیین روابط خطی بین متغیرها از مدل سازی معادلات ساختاری (SEM استفاده شد.یافته ها: نتایج نشان داد شایعه‌سازمانی با ضریب مسیر 45/0pc= بر حمایت سازمانی ادراک شده، با ضریب مسیر 59/0pc= بر تبعیض سازمانی و در نهایت با ضریب مسیر 43/0pc= بر بی‌تفاوتی سازمانی دارای اثر مستقیم است. همچنین حمایت سازمانی ادارک شده با ضریب مسیر 39/0- pc= و تبعیض سازمانی 61/0pc= بر بی‌تفاوتی سازمانی اثرگذار هستند.نتیجه گیری: نتایج تحقیق موید این امر هستند که بی‌تفاوتی سازمانی خود به خود شکل نمی گیرد، بلکه تابعی از متغیرهایی است که جهت بررسی و رفع آن باید اثرات آنها را نیز مد نظر قرار داد؛ بنابراین جامع نگری و سیستمی عمل کردن برای کاهش بی‌تفاوتی در کارکنان ادارات تربیت‌بدنی وزارت آموزش‌وپرورش لازم است. در راستای این امر باید حمایت سازمانی را افزایش داده، تبعیض سازمانی را کاهش داده و شایعه‌سازمانی را مدیریت کرد.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت منابع انسانی در ورزش</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه صنعتی شاهرود</publisher>
+			</originInfo>
+			<identifier type="issn">‪۲۳۸۳-۱۴۹۹</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>119</start>
+					<end>136</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://shm.shahroodut.ac.ir/article_1730_7a7eb4dad5ebb372f867912725e45e90.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22044/shm.2020.7663.1851</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>بررسی رابطه‌ بین مؤلفه‌های سکوت و بی‌تفاوتی سازمانی با اهمال‌کاری سازمانی معلمان تربیت‌بدنی</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">رضا</namePart>
+				<namePart type="given">عبدالهی گدللو</namePart>
+				<affiliation>کارشناس ارشد مدیریت ورزشی دانشگاه ارومیه</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">سید محمد</namePart>
+				<namePart type="given">کاشف</namePart>
+				<affiliation>استاد مدیریت ورزشی دانشگاه ارومیه</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>هدف: هدف از پژوهش حاضر بررسی رابطه ی اهمالکاری سازمانی با مؤلفه های سکوت و بیتفاوتی سازمانی معلمان تربیت بدنی بود.روش شناسی: این پژوهش از نوع توصیفی _ همبستگی، جامعه آماری پژوهش؛ معلمان تربیت بدنی شهرستانهای شاهین دژ و بوکان در سال 1396 با حجم 142 نفر بود. روش نمونه گیری از نوع تصادفی ساده، حجم نمونه با توجّه به مدل کرجسی _ مورگان، 103 نفر در نظر گرفته شد. جهت جمع‌آوری داده‌ها از پرسشنامه‌ی اهمالکاری سازمانی (SOP) (با پایایی 0/84 = α)، سکوت سازمانی (OSQ) (با پایایی 0/79 = α) و پرسشنامه ی بیتفاوتی سازمانی (OIQ) (با پایایی 0/87 = α) استفاده شد و داده‌های جمع‌آوری شده با استفاده از روش رگرسیون تجزیه و تحلیل گردید. یافته ها: نتایج نشان داد که با اطمینان 95 درصد متغیرهای سکوت و بیتفاوتی سازمانی به گونه‌ی معنی‌داری توان تبیین 30/6=R2 درصد متغیر اهمالکاری سازمانی را دارا هستند (0/553= R، 21/351= (97، 2)F و 0/05 &gt; P). در این زمینه سهم متغیر بیتفاوتی سازمانی (0/568 =بتا ) در سطح اطمینان 95 درصد معنی‌دار بود (0.05 &gt; P)، اما سهم متغیر سکوت-سازمانی (0/568 =بتا ) معنی دار نبود (0/05 &lt; P). نتیجه گیری: در راستای پاسخگویی هرچه بیشتر سازمانها، به نیازها و چالشهای گوناگون و توسعه ی سازمانهای خود، پیشنهاد میشود تلاش در جهت توسعه توانمندیهای کارکنان و چارةجویی رفع سکوت و بیتفاوتی سازمانی آنان، بعنوان یک الویت جدی در دستور کار سیاستگذاران و برنامه ریزان و مدیران عالی سازمانها قرار گیرد، تا از میزان اهمالکاری کارکنان کاسته شود.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت منابع انسانی در ورزش</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه صنعتی شاهرود</publisher>
+			</originInfo>
+			<identifier type="issn">‪۲۳۸۳-۱۴۹۹</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>137</start>
+					<end>150</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://shm.shahroodut.ac.ir/article_1731_f18b1bde5af1de7c77dfb1cc7cff5b85.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22044/shm.2020.7927.1911</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>نقش تعدیلی تعهد سازمانی و رضایت شغلی در تأثیر بازاریابی درونی بر تمایل به ترک خدمت کارکنان ادارات ورزش و جوانان استان خراسان شمالی</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">زهرا</namePart>
+				<namePart type="given">نیکخواه فرخانی</namePart>
+				<affiliation>استادیار مدیریت دانشگاه بجنورد</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">محمد</namePart>
+				<namePart type="given">ریحانی</namePart>
+				<affiliation>استادیار مدیریت ورزشی دانشگاه بجنورد</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>هدف از پژوهش حاضر، بررسی نقش تعدیلی تعهد سازمانی و رضایت شغلی در تأثیر بازاریابی درونی بر تمایل به ترک خدمت کارکنان ادارات ورزش و جوانان استان خراسان شمالی بود. روش پژوهش از نوع توصیفی- همبستگی و به لحاظ هدف کاربردی بوده است که به‌صورت میدانی انجام‌شده است. جامعه آماری پژوهش را کلیه کارکنان ادارات ورزش و جوانان شهرستان‌های استان خراسان شمالی تشکیل می دادند که شمار آن‌ها به 185 نفر می‌رسید. نمونه آماری با بهره‌گیری از فرمول نمونه گیری کوکران از جامعه محدود 124 نفر برآورد شده که 130 پرسشنامه با بهره‌گیری از روش نمونه‌گیری طبقه‌ای در میان جامعه آماری توزیع گردید. جهت جمع‌آوری داده‌ها از استراتژی پیمایش بهره گرفته شد و پرسشنامه ای که مبتنی بر پرسشنامه‌های استاندارد بازاریابی درونی، تعهد سازمانی، رضایت شغلی و تمایل به ترک خدمت تدوین و دراختیار پاسخ دهندگان قرار گرفت. نتایج نشان داد، بازاریابی درونی برتعهدسازمانی، رضایت شغلی و تمایل به ترک خدمت کارکنان ادارات ورزش وجوانان استان خراسان شمالی تأثیرگذار بوده و رضایت شغلی می تواند تعدیل گر رابطه میان بازاریابی درونی و تمایل به ترک خدمت کارکنان باشد. همچنین مؤلفه‌های بازاریابی درونی نیز بر مولفه های یادشده اثرگذار بوده و از میان این مؤلفه‌ها «بالندگی منابع انسانی» بیشترین و «چشم‌انداز» کمترین تأثیر را داشته است. باتوجه به یافته‌های پژوهش حاضر می‌توان گفت، مدیران ورزش و جوانان استان خراسان شمالی می توانند با ارائه رویکردی سیستماتیک به آموزش و داشتن برنامه‌های مدون آموزشی و استقرارنظام جامع ارزیابی عملکرد مبتنی بر شایستگی زمینه ساز بهبود نگرش‌های شغلی کارکنان دراین سازمان شوند.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت منابع انسانی در ورزش</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه صنعتی شاهرود</publisher>
+			</originInfo>
+			<identifier type="issn">‪۲۳۸۳-۱۴۹۹</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>151</start>
+					<end>167</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://shm.shahroodut.ac.ir/article_1744_e6e77984d2a55873553338795e0ab9f7.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22044/shm.2020.8071.1929</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>تأثیر مدیریت برند داخلی بر رضایت شغلی کارکنان ورزشی با تأکید بر نقش میانجی جو رقابتی محیط کار</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">محبوب</namePart>
+				<namePart type="given">شیخعلی زاده</namePart>
+				<affiliation>استادیار مدیریت ورزشی،گروه تربیت بدنی و علوم ورزشی، واحد اهر، دانشگاه آزاد اسلامی، اهر، ایران.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">مهدی</namePart>
+				<namePart type="given">بشیری</namePart>
+				<affiliation>استادیار مدیریت ورزشی، گروه علوم ورزشی، دانشگاه شهید مدنی آذربایجان، تبریز، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>هدف: جو رقابتی محیط کار تاثیر عمده‌ای بر روی انگیزه و رفتار کارکنان دارد و سازمان‌های ورزشی دارای جو سازمانی خاصی هستند که پویا بودن آن می‌تواند باعث ارتقاء رضایت شغلی کارکنان گردد. هدف پژوهش حاضر بررسی تاثیر مدیریت برند داخلی بر رضایت شغلی کارکنان سازمان ورزشی با تاکید بر نقش میانجی جو رقابتی محیط کار می‌باشد.روش شناسی: روش تحقیق مطالعه حاضر، توصیفی-همبستگی است که به صورت پیمایشی انجام شده است. 120 نفر از کارکنان اداره کل و ادارات ورزش و جوانان استان آذربایجان شرقی، پرسشنامه‌های مدیریت برند داخلی پونجایسری و ویلسون (2007)، رضایت شغلی ویسوکی و کروم (1991) و پرسشنامه محقق ساخته جو رقابتی محیط کار را به طور داوطلبانه تکمیل نمودند. جهت تحلیل داده ها از آزمون مدل معادلات ساختاری مبتنی بر حداقل روش مربعات جزئی استفاده شد. یافته‌ها: نتایج نشان داد که مدیریت برند داخلی بر رضایت شغلی و جو رقابتی تاثیر مستقیم و معناداری دارد. همچنین نقش میانجی جو رقابتی محیط کار بر رابطه بین مدیریت برند داخلی و رضایت شغلی مورد تایید قرار گرفت (001/0=P). بررسی برازش مدل نیز نشان داد که مدل ارائه شده پژوهش از برازش مناسبی برخوردار می‌باشد (362/0=GOF). نتیجه گیری: می‌توان گفت که مدیریت برند داخلی منجر به تعهد کیفیت رفتاری و رضایت شغلی کارکنان ورزشی می شود.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت منابع انسانی در ورزش</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه صنعتی شاهرود</publisher>
+			</originInfo>
+			<identifier type="issn">‪۲۳۸۳-۱۴۹۹</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>169</start>
+					<end>183</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://shm.shahroodut.ac.ir/article_1742_e7f5b3ee5191e67fd39659a6f1562a10.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22044/shm.2020.8152.1943</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>طراحی مدل مدیریت استعداد جهانی با تأکید بر توسعه سرمایه انسانی در سازمان های ورزشی</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">کیوان</namePart>
+				<namePart type="given">موسوی چشمه کبودی</namePart>
+				<affiliation>دانشجوی دکتری مدیریت منابع انسانی ، دانشکده علوم اقتصادی، دانشگاه لرستان، خرم آباد، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">محمد</namePart>
+				<namePart type="given">حکاک</namePart>
+				<affiliation>دانشیار گروه مدیریت، دانشکده علوم اقتصادی، دانشگاه لرستان، خرم آباد، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">رضا</namePart>
+				<namePart type="given">سپهوند</namePart>
+				<affiliation>دانشیار گروه مدیریت، ، دانشکده علوم اقتصادی، دانشگاه لرستان، خرم آباد، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">امیرهوشنگ</namePart>
+				<namePart type="given">نظرپوری</namePart>
+				<affiliation>دانشیار گروه مدیریت، دانشکده علوم اقتصادی، دانشگاه لرستان، خرم آباد، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>هدف:مدیریت استعداد جهانی می تواند تاثیرات مثبت قابل توجهی بر عملکرد سازمان ها داشته باشد. شناسایی فرایندها، بسترها و عوامل ایجاد کننده مدیریت استعداد جهانی می تواند در بهبود عملکرد سازمان های ورزشی موثر واقع شود. هدف از این تحقیق طراحی مدل مدیریت استعداد جهانی با تاکید بر توسعه سرمایه انسانی در سازمان های ورزشی ایران است.روش شناسی:این تحقیق با روش تحقیق کیفی و با ماهیت اکتشافی- بنیادی انجام گرفت. از طریق نمونه گیری هدفمند گلوله برفی و بر اساس مصاحبه های عمیق، داده های تحقیق از متخصصان و مدیران سازمان‌ها جمع آوری شد. بر اساس روش نظریه داده بنیاد سیستماتیک، داده ها پس از کد گذاری تجزیه و تحلیل شدند. یافته ها:نتایج نشان داد که عوامل محیطی و هوشمندی استراتژیک به عنوان عوامل علی، سلامت محیط کار به عنوان بستر حاکم، ساختار درون سازمانی به عنوان عوامل مداخله گر، انضباط مدیریتی به عنوان کنش ها و تعاملات و مسئولیت پذیری و حس تعلق به سازمان و همچنین حزانت از شان کارمند به عنوان پیامد های مدل مدیریت استعداد جهانی مطرح شدند.نتیجه گیری: بر اساس مدل طرح شده توصیه می شود که نقش عوامل مختلف موثر بر مدیریت استعداد جهانی مد نظر قرار گرفته و برای ترویج و رشد این مهم تدابیر نظام مندی اندیشیده شود.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت منابع انسانی در ورزش</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه صنعتی شاهرود</publisher>
+			</originInfo>
+			<identifier type="issn">‪۲۳۸۳-۱۴۹۹</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>207</start>
+					<end>224</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://shm.shahroodut.ac.ir/article_1743_b7d141dee5bfd4f7bc73449e449dc327.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22044/shm.2020.7999.1906</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>تدوین مدل نظری راهبردها و پیامدهای به‌کارگیری منابع انسانی شایسته در ادارات تربیت بدنی دانشگاه‌های سراسر کشور (نظریه زمینه‌ای)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">علیرضا</namePart>
+				<namePart type="given">خادم لو</namePart>
+				<affiliation>دکتری مدیریت ورزشی دانشگاه فردوسی مشهد</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">مهدی</namePart>
+				<namePart type="given">طالب پور</namePart>
+				<affiliation>دانشیار مدیریت ورزشی دانشگاه فردوسی مشهد</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">محمد</namePart>
+				<namePart type="given">کشتی دار</namePart>
+				<affiliation>دانشیار مدیریت ورزشی دانشگاه فردوسی مشهد</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">وحید</namePart>
+				<namePart type="given">ساعت چیان</namePart>
+				<affiliation>استادیار دانشگاه بین‌المللی امام رضا(ع)</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>هدف، شناسایی راهبردها و پیامدهای بکارگیری منابع انسانی شایسته در سازمانها و ویژه سازمانهای ورزشی دانشگاه است. روش شناسی: بمنظور تحقق این هدف از روش‌شناسی کیفی و روش تحقیق نظریه داده بنیاد استفاده شد. از نظر هدف در زمره تحقیقات کاربردی قرار داشت. جامعه تحقیق شامل نخبگان ورزش دانشگاهی (شامل مدیران و کارشناسان ارشد ورزش دانشگاهی) بود و نمونه‌گیری آزمودنیها بصورت نظری و گلوله برفی صورت گرفت. ابزار جمع‌آوری داده‌ها، مصاحبه نیمه ساختاریافته بود و داده‌های حاصل از مصاحبه‌ها به روش زمینه‌ای، کدگذاری شده، تجزیه و تحلیل گردید.یافته‌ها: نتیجه گروه‌بندی کدها، نشان دهنده 9 مقوله اصلی، 46 مقوله فرعی و 58 مفهوم بود که در قالب مدل پارادایمی شامل: راهبردها (تفکر راهبردی، تحول سازمانی و نوآوری سازمانی) و پیامدها (توسعه فرهنگ سازمان، توسعه سازمانی، بهره‌وری، توسعه اجتماعی، مقوله محیطی و پرورش تفکر استراتژیک) در سازمان‌های ورزشی دانشگاهها پدیدار شد.نتیجه‌گیری: با توجه به طیف مخاطبان ورزش دانشگاهی که شامل دانشجویان، کارمندان و اساتید است و همچنین گزینه‌های غیرورزشی جذاب و جایگزین ورزش دانشگاهی موجود؛ اگر متولیان ورزش دانشگاهها نتوانند با تکیه بر شایستگی‌های منابع انسانی و با تحقق راهبردهایی مانند تفکر راهبردی، تحول سازمانی و نوآوری سازمانی زمینه توسعه فرهنگ سازمانی، توسعه سازمانی، بهره‌وری، توسعه اجتماعی، پرورش تفکر ایدئولوژیک و توجه به مقولات محیطی را فراهم نمایند، قادر به جلب رضایت جامعه مخاطب خود نخواهد بود.لذا توصیه می‌شود که مدیران بالادستی ورزش دانشگاهی طرح‌های کارشناسی شده را جهت شناسایی و پیاده‌سازی شایستگی‌های لازم برای کارکنان ورزش دانشگاه اجرا و نیروی انسانی را بر اساس شایستگی‌ها، جذب و استخدام نمایند.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت منابع انسانی در ورزش</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>دانشگاه صنعتی شاهرود</publisher>
+			</originInfo>
+			<identifier type="issn">‪۲۳۸۳-۱۴۹۹</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>185</start>
+					<end>205</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://shm.shahroodut.ac.ir/article_1700_8dad4a40e2be9900ced0a32f66794306.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22044/shm.2019.7919.1892</identifier>
+			</mods>
+		</modsCollection>

@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+		<JOURNAL>
+<YEAR>1398</YEAR>
+<VOL>7</VOL>
+<NO>4</NO>
+<MOSALSAL>27</MOSALSAL>
+<PAGE_NO>0</PAGE_NO>
+<ARTICLES>
+
+
+				<ARTICLE>
+				<TitleF>اندازه‏ گیری ریسک سیستمیک با استفاده از کسری نهایی مورد انتظار و ارزش در معرض خطر شرطی و رتبه‌بندی بانک‌ها</TitleF>
+				<TitleE>Measuring systemic risk in the financial institution via dynamic conditional correlation and delta conditional value at risk mode and bank rating</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>ریسک سیستمیک به خطر شکست سیستم مالی یا شکست کل بازار اطلاق می‌شود. این ریسک می‌تواند از بی‌ثباتی یا بحران در مؤسسات مالی نشأت بگیرد و در اثر سرایت به کل نظام مالی انتقال یابد. به‌عبارتی ریسک سیستمیک به میزان به‌ هم‌پیوستگی در یک سیستم مالی اشاره دارد جایی‌که شکست در یک نهاد مالی می‌تواند به بحران کل سیستم منجر شود. در مقاله حاضر به تخمین ریسک سیستمیک با استفاده از دو روش کسری نهایی موردانتظار و ارزش در معرض خطر شرطی با استفاده از مدل‏های نوسان شرطی پویا در بین بانک‏های تجاری پرداخته شده است. نتایج پژوهش نشان می‌دهد در سنجش ریسک سیستمیک بین بانک‌های تجاری دو روش کسری نهایی مورد انتظار و ارزش در معرض خطر شرطی نتایج مشابه ارائه می‌کنند. پژوهش حاضر با استفاده از شاخص صنعت بانکداری و با بکارگیری مدل‏های آستانه‏ای خودهمبستگی برداری به تعریف یک آستانه به‌منظور مدل‌سازی بحران پرداخته است. پژوهش حاضر از این لحاظ نوآوری دارد که با استفاده از مدل‏های اماری (الگوی همبستگی شرطی پویا یکی از روش‏های مبتنی بر گارچ چند متغیره) و داده‏های دردسترس به دنبال رتبه‏بندی بانک‏های تجاری با استفاده از دو رویکرد کسری نهایی مورد انتظار و ارزش در معرض خطر شرطی است</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Systematic risk (in economics often called aggregate risk or undiversifiable risk) is vulnerability to events which affect aggregate outcomes such as broad market returns, total economy-wide resource holdings, or aggregate income. In many contexts, events like earthquakes and major weather catastrophes pose aggregate risks they affect not only the distribution but also the total amount of resources. In this paper we study systemic risks in the Iranian banking sector by using two famous systemic risk measures theMES (marginal expected shortfall) and CoVaR. To compute both measures we employ Engle&#039;s dynamic conditional correlation model. Our empirical analysis shows, first, that although these two systemic risk measures differ in defining the contributions to systemic risk, both are qualitatively very similar in explaining the cross-sectional differences in systemic risk contributions across banks. Last, using a threshold VAR model, we suggest an overall systemic risk measure – the aggregateMES – and its associated threshold value for use as an early warning indicator. The paper is innovative in terms of the use of statistical models (dynamic conditional correlation model) and available data Looking for the rating of commercial banks using by approaches MES and COVAR.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>1</FPAGE>
+						<TPAGE>16</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>رضا</Name>
+						<MidName></MidName>		
+						<Family>عیوضلو</Family>
+						<NameE>reza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>eivazlu</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه مدیریت مالی و بیمه ،  دانشکده مدیریت، دانشگاه تهران، تهران، ایران 
+تهران، بزرگراه جلال آل احمد، جنب پل گیشا، دانشکده مدیریت دانشگاه تهران، اتاق 130</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه مدیریت مالی و بیمه ،  دانشکده</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>eivazlu@ut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مهدی</Name>
+						<MidName></MidName>		
+						<Family>رامشگ</Family>
+						<NameE>mehdi</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>rameshg</FamilyE>
+						<Organizations>
+							<Organization>کارشناسی ارشد مالی-حقوق مالی، دانشکده مدیریت، دانشگاه تهران، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناسی ارشد مالی-حقوق مالی، دانشکده مدیریت،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mehdirameshg@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>ریسک سیستمیک</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>کسری نهایی موردانتظار (MES)</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ارزش در معرض خطر شرطی (COVAR)‏</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مدل همبستگی شرطی پویا (DCC)</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مدل‏های آستانه‏ای خودهمبستگی برداری</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] احمدیان، الف.، و گرجی، م. (1395). تبیین مدل ورشکستی جهت شناسایی بانک‌های سالم و در معرض خطر. مجلۀ علمی و پژوهشی مدیریت دارایی و تأمین مالی، 5 (3)، 18-1.##[2] حاجیها، ز.، و صفری، ف. (1397). بررسی ارتباط ریسک سیستمیک سهام و چولگی بازدهی سهام. نشریۀ عملی و پژوهشی مدیریت دارایی و تأمین مالی، 6 (1)، 10-1.##[3] حیدری، ح.، محمدزاده، ی.، و رفاه‌کهریز، آ. (1397). بررسی تأثیر نرخ ارز بر بازده سهام صنعت دارو در بورس اوراق بهادار تهران با استفاده از رهیافت مارکف سوئیچینگ. مدیریت دارایی و تأمین مالی، 6 (2)، 56-35.##[4] دانش‌جعفری، د.، بت‌شکن، م.، محمدی، ت.، و پاشازاده، ح. (1396). بررسی ریسک سیستمیک بانک‌های منتخب نظام بانکی در ایران با استفاده از روش همبستگی شرطی پویا (DCC). نشریۀ پولی و بانکی، 10 (33)، 480-457.##References##[5] Acerbi, C., &amp; Tasche, D. (2002). On the coherence of expected shortfall. Journal of Banking &amp; Finance, 26 (7), 1487-1503. https://doi.org/10.1016/S0378-4266(02) 00283-2.##[6] Adrian, T., &amp; Brunnermeier, M. K. (2016). CoVaR. American Economic Review, 106 (7), 1705-1741. Doi: 10.3386/w17454.##[7] Ahmadyan, A., &amp; Gorji, M. (2017). Explaining the model of bankruptcy prediction to identify healthy and risky banks. Asset Management and Financing, 5 (3), 1-18. (in persian). Doi: 10.22108/ amf.2017.21174.##[8] Balke, N. S. (2000). Credit and economic activity: Credit regimes and nonlinear propagation of shocks. Review of Economics and Statistics, 82 (2), 344-349. Doi: 10.1162/rest.2000.82.2.344.##[9] Battaglia, F., &amp; Gallo, A. (2017). Strong boards, ownership concentration and EU banks’ systemic risk-taking: Evidence from the financial crisis. Journal of International Financial Markets, Institutions and Money, 46, 128-146. Doi: 10.1016/j.intfin. 2016.08.002.##[10] Brownlees, C. T., &amp; Engle, R. (2012). Volatility, correlation and tails for systemic risk measurement. Available at SSRN, working paper. 1611229.##[11] Danesh Jafari, D., Botshekan, M. H., Mohammadi, T., &amp; Pashazadeh, H. (2017). Analysis of the systemic risk in the banking system using dynamic conditional correlation (DCC). Journal of Monetary and Banking Researches, 10 (33), 457-480. (in persian).##[12] Heidari, H., Mohammadzadeh, Y., &amp; Refah-Kahriz, A. (2018). An investigation of the effect of exchange rate on the pharmaceutical industry stock return in Tehran Stock Exchange: An application of the markov switching approach. Asset Management and Financing, 6(2), 35-56. (in persian). Doi: 10.22108/amf.2017. 21370.##[13] Engle, R. (2002). Dynamic conditional correlation: A simple class of multivariate generalized autoregressive conditional heteroskedasticity models. Journal of Business &amp; Economic Statistics, 20 (3), 339-350. Doi: 10.1198/0735001022 88618487.##[14] Engle, R., Jondeau, E., &amp; Rockinger, M. (2014). Systemic risk in Europe. Review of Finance, 19 (1), 145-190. Doi: 10.1093/rof/rfu012.##[15] Girardi, G., &amp; Ergün, A. T. (2013). Systemic risk measurement: Multivariate GARCH estimation of CoVaR. Journal of Banking &amp; Finance, 37 (8), 3169-3180. Doi: 10.1016/j.jbankfin.2013.02.027.##[16] Hajiha, Z., &amp; Safari, F. (2018). The examination of relationship between stock systematic risk and skewness of returns. Asset Management and Financing, 6 (1), 1-10. (in persian).##[17] Lo, M. C., &amp; Zivot, E. (2001). Threshold cointegration and nonlinear adjustment to the law of one price. Macroeconomic Dynamics, 5 (4), 533-576.##[18] Yun, J., &amp; Moon, H. (2014). Measuring systemic risk in the Korean banking sector via dynamic conditional correlation models. Pacific-Basin Finance Journal, 27, 94-114. Doi: 10.1016/j.pacfin.2014.02.005.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>نقش ارزش بازار در رابطه بین بازده دارایی‌ها و بازده حقوق صاحبان سهام با قیمت سهام در بورس اوراق بهادار تهران</TitleF>
+				<TitleE>The Role of Market Capitalization in the Relationship Between ROA, ROE and Stock Prices in Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>نسبت‌های مالی از پرکاربردترین ابزارهای ارزیابی شرکت‌ها و سرمایه‌گذاری‌ها تلقی می‌شود. از مهم‌ترین این معیارها نسبت‌های بازده دارایی‌ها و بازده حقوق صاحبان سهام است. پژوهش حاضر به دنبال کسب شواهدی پیرامون نقش ارزش بازار در ارتباط بین بازده دارایی‌ها و بازده حقوق صاحبان سهام با قیمت سهام و در مقایسه باارزش دفتری آن‌ها است. این پژوهش بر اساس داده‌های 136 شرکت حاضر در بورس اوراق بهادار تهران طی سال‌های 1386 تا 1394 صورت گرفته است. بدین منظور از هشت مدل رگرسیونی چند متغیره استفاده‌شده است. نتایج نشان داد که هر دو نسبت‌ها به ارزش دفتری و بازار رابطه معنادار مثبت با قیمت سهام دارد اما قدرت آن‌ها یکسان نیست. ارزش بازار ارتباط قوی‌تری نسبت به ارزش دفتری داراست، بازده دارایی‌ها در حدود 66% از تغییرات قیمت سهام را توضیح می‌دهد و ترکیب بازده دارایی‌ها به ارزش دفتری و بازده حقوق صاحبان سهام به ارزش بازار قوی‌ترین ارتباط را با تغییرات قیمت سهام دارد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Financial ratios analysis is considered among the most widely used tools for evaluating the performance of companies and investments. In this regard, ROA and ROE ratios are among the most important criterias. This study seeks evidence about the role of market capitalization in the relationship between return on assets and return on equity with Stock prices and is compared with their book value. This study was conducted on 136 companies listed on the Tehran Stock Exchange between 2008-2016. In order to test hypotheses, we used of 8 multivariate regression. The results indicate that both of ratios with book value and market value have a significant and positive relationship with stock prices; But the strength of this relationship is not the same, market value has more strongest relation than book value, return on assets can explain the stock price changes alone and about 66% and Combined return on assets to book value and return on equity to market value have strongest correlation with the stock price changes.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>17</FPAGE>
+						<TPAGE>30</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>علی اکبر</Name>
+						<MidName></MidName>		
+						<Family>چهار محالی</Family>
+						<NameE>AliAkbar</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Chaharmahali</FamilyE>
+						<Organizations>
+							<Organization>گروه حسابداری &amp;amp;ndash; دانشکده مدیریت و حسابداری- دانشگاه آزاد اسلامی (تهران شمال)- تهران &amp;amp;ndash; ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه حسابداری &amp;amp;ndash; دانشکده مدیریت</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>a.chaharmahali@iau-tnb.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>جواد</Name>
+						<MidName></MidName>		
+						<Family>زاهدی</Family>
+						<NameE>Javad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Zahedi</FamilyE>
+						<Organizations>
+							<Organization>گروه حسابداری، دانشکده حسابداری و مدیریت، دانشگاه آزاد اسلامی واحد مشهد، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه حسابداری، دانشکده حسابداری و مدیریت،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>zahedi.acc@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>رضا</Name>
+						<MidName></MidName>		
+						<Family>محمدی</Family>
+						<NameE>Reza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mohammadi</FamilyE>
+						<Organizations>
+							<Organization>گروه مدیریت، دانشکده حسابداری و مدیریت، دانشگاه آزاد اسلامی واحد مشهد، مشهد، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه مدیریت، دانشکده حسابداری و مدیریت، دانشگاه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>rezamohammadi.2969@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>بازده دارایی‌ها</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بازده حقوق صاحبان سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ارزش بازار</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ارزش دفتری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>قیمت سهام</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>ابراهیمی، م. و سعیدی، ع. (1389). «اثرات متغیرهای حسابداری وویژگی​های شرکت بر قیمت سهام شرکت​های پذیرفته شده در بورس اوراق بهادار تهران». بررسی​های حسابداری و حسابرسی ایران، (62)7، 16-1.##هاشمی، ع. و بهزادفر، ف. (1390). «ارزیابی رابطه محتوای اطلاعاتی اقلام تعهدی و نسبت‌های مالی منتخب با قیمت سهام شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران». پژوهش​های حسابداری مالی، (1)3، 76-55.##پاکدین امیری، م. پاکدین امیری، م. پاکدین امیری، ع. (1388). «اولویت بندی عوامل مالی موثر بر شاخص قیمت در بورس اوراق بهادار تهران با استفاده از روش TOPSIS». تحقیقات مالی، (26)10، 76-61.##رضایی، ع. و سلطانی، ا. (1382).مقدمه ای بر تحلیل رگرسیون کاربردی . دانشگاه صنعتی اصفهان: اصفهان##صالح‌نژاد، ح. و غیور، و. (1389). «تاثیر نرخ بازده دارایی ها و نرخ بازده حقوق صاحبان سهام و اهرم مالی بر قیمت سهام شرکت های پذیرفته شده در بورس اوراق بهادار تهران». پژوهشگر، (18)7، 17-27.##میری، ح.؛ ابراهیمی، ک. و موسوی، ح. (1389). «بررسی روابط بین نسبت های مالی و قیمت سهام در صنایع کانی های غیرفلزی». حسابداری مالی، (5)2، 140-157.##نمازی، م. و رستمی، ن. (1385). بررسی رابطه بین نسبت‌های مالی و نرخ بازده سهام شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران. بررسیهای حسابداری و حسابرسی، (13)2، 105-127.##References##Aktas, R., &amp; Unal, S. (2015). The relationship between financial efficiency ratios and stock prices: An empirical investigation on insurance companies listed in borsa istanbul. Finansal Araştırmalar ve Çalışmalar Dergisi, 7(12), 1-16. DOI: 10.14784/jfrs.53994.##Anandarajan, A., Hasan, I., Isik, I., &amp; McCarthy, C. (2006). The role of earnings and book vcalues in pricing stocks: Evidence from Turkey. Advances in International Accounting, 19, 59–89. DOI: 10.1016/S0897-3660(06)19003-0.##Arkan, T. (2016). The importance of financial ratios in predicting stock price trends: A case study in emerging markets. Finanse, Rynki Finansowe, Ubezpieczenia, 1 (79), 13–26. DOI: 10.18276/frfu.2016. 79-01.##Bernard, V. L. (1995). The feltham-ohlson framework: Implications for empiricists. Contemporary Accounting Research, 11 (2), 733–747. DOI: 10.1111/j.1911-3846.1995. tb00463.x.##Dichev, I. (1997). Measuring value relevance in accounting–based variables. Journal of Accounting Research, 37 (2), 319-352. DOI: 10.2139/ssrn.94328.##Dimitropoulos, P. E., &amp; Asteriou, D. (2009). The value relevance of financial statements and their impact on stock prices: Evidence from Greece. Managerial Auditing Journal,24 (3), 248-265. DOI: 10.1108/02686900910941131.##Ebrahimi, M., &amp; Saeedi, A. (2011). The effects of accounting variables and firm’s characteristics on stock prices of companies listed in TSE. The Iranian Accounting and Auditing Review, 17 (62), 1-16. (in persian).##Francis, J., LaFond, R., Olsson, P., &amp; Schipper, K. (2005). The market pricing of accruals quality. Journal of Accounting and Economics, 39, 295-327. DOI: 10.1016/ j.jacceco.2004.06.003.##Hashemi, S. A., &amp; Behzadfar, F. (2011). The evaluation of the relationship between the informational content of accruals and selected financial ratios with stock price of listed companies in Tehran Stock Exchange. Financial Accounting Researches, 3(1), 55-76. (in persian).##Kabajeh, M. A., AL Nu’aimat, S. M., &amp; Dahmash, F. N. (2012). The relationship between the ROA, ROE and ROI Ratios with jordanian insurance public companies market share prices. International Journal of Humanities and Social Science, 2(11), 115-120.##Kohansal, M. R., Dadrasmoghaddam, A., Karmozdi, K. M., &amp; Mohseni, A. (2013). Relationship between financial ratios and stock prices for the food industry firms in stock exchange of Iran. World Applied Programming, 3(10), 512-521. (in persian).##Miri, S. H., Ebrahimi, S. K., &amp; Mousavi, S. H. (2010). The relationship between financial ratios and stock prices in non-metallic minerals industries. Financial Accounting, 2(5), 140-157. (in persian).##Namazi, M., &amp; Rostami, N. (2006). The relationship between financial ratios and stock returns in Tehran Stock Exchange Market. The Accounting and Auditing Review, 13(2), 105-127. (in persian).##O&#039;Connor, M. C. (1973). On the usefulness of financial ratios to investors in common stock. The Accounting Review, 48 (2), 339-352.##Ou, J. A., &amp; Sepe, J. F. (2002). Analysts earnings forecasts and the roles of earnings and book value in equity valuation. Journal of Business Finance &amp; Accounting, 29, 287-316. DOI: 10.1111/1468-5957.00433.##Pakdin Amiri, M., Pakdin Amiri, M., &amp; Pakdin Amiri, A. (2010). Prioritize effective financial factors on price stock in Tehran Stock Exchange with Using TOPSIS method. Financial Research, 10(26), 61-76. DOI: 10.22059/JFR.2015.57314.##(in persian).##Rezaei, A., &amp; Soltani, A. (2004). An introduction to applied regression analysis. Isfahan: Isfahan University of Technology Press. (in persian).##Saeidi, P. &amp; Okhli, A. (2012). Studying the effect of assets return rate on stock price of the companies accepted in Tehran Stock Exchange. Business and Economic Horizons, 8 (2), 12-22. DOI: 10.15208/ beh.2012.7. (in persian).##Salehnejad, S. H., &amp; Ghayour, V. R. (2010). The effect of ROA, ROE and financial leverage on the stock prices of listed companies in Tehran Stock Exchange. Journal of Industrial Strategic Management, 7 (18), 17-27. (in persian).##Williamson, R. W. (1984). Evidence on the selective reporting of financial ratios. The Accounting Review, 59 (2), 296-299.##www.tse.ir##www.ladoc.ir##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>سرمایه‌ گذاران خبره و راهبرد معاملاتی اقلام تعهدی</TitleF>
+				<TitleE>Sophisticated Investors and Accruals Trading Strategy</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>در این پژوهش به‌کارگیری «راهبرد اقلام تعهدی سنتی» و «راهبرد اقلام تعهدی نسبی» توسط سرمایه‌گذاران خبره، آزمون شده است. همچنین، مقایسه‌ای بین سرمایه‌گذاران خبره‌ای که از راهبرد اقلام تعهدی سنتی و نسبی استفاده می‌کنند و سرمایه‌گذاران خنثی نسبت به این راهبردها، از حیث کسب بازده مازاد و بازده تعدیل شده بر اساس ریسک، انجام شد. بدین منظور داده‌های 950 سال-شرکت مربوط به شرکت های سرمایه‌گذاری پذیرفته شده در بورس اوراق بهادار تهران به صورت فصلی بین سال‌های 1390 تا 1397 جمع‌آوری و برای آزمون فرضیه‌ها از آزمون t استفاده شد. نتایج نشان داد سرمایه‌گذاران خبره، از راهبردهای یاد شده استفاده نمی‌کنند. البته استفاده از راهبردهای مذکور توسط زیرنمونه ای از سرمایه‌گذاران خبره، تایید شد. همچنین نتایج نشان داد سرمایه‌گذاران خبره‌ای که از راهبرد اقلام تعهدی سنتی استفاده می‌کنند، بازده مازاد و بازده تعدیل شده بر اساس ریسک بیشتری در مقایسه با سرمایه‌گذاران خنثی نسبت به این راهبرد، کسب نمی‌کنند. اما در مورد راهبرد اقلام تعهدی نسبی، شواهدی از کسب بازده مازاد و بازده تعدیل شده بر اساس ریسک بیشتر، یافت شد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>This study examines whether sophisticated investors implement traditional accruals strategy and percent accruals strategy. Moreover we compare the amount of excess return and risk adjusted return of accruals strategy sophisticated investors and of those who are neutral to accruals strategy. For this purpose, we collect quarterly data of 950 observation of investment companies listed in Tehran Stock Exchange for the years 2011-2018. The hypotheses were tested using one sample t test. The results show that sophisticated investors do not implement accruals strategy. But implementation of accruals strategy by a subsample of sophisticated investors was verified. The results show traditional accruals strategy sophisticated investors do not earn excess return and risk adjusted return in compare with those who are neutral to traditional accruals strategy regardless of return measures. But there is some evidence that percent accruals strategy sophisticated investors earn excess return and risk adjusted return in compare with those who are neutral to percent accruals strategy.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>31</FPAGE>
+						<TPAGE>48</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سید احسان</Name>
+						<MidName></MidName>		
+						<Family>حسینی</Family>
+						<NameE>Seyed Ehsan</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Hosseini</FamilyE>
+						<Organizations>
+							<Organization>گروه حسابداری، دانشکده علوم اداری و اقتصاد، دانشگاه اصفهان، اصفهان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه حسابداری، دانشکده علوم اداری و اقتصاد،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>seied.ehsan.hosseini@ase.ui.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سید عباس</Name>
+						<MidName></MidName>		
+						<Family>هاشمی</Family>
+						<NameE>Seyed Abbas</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Hashemi</FamilyE>
+						<Organizations>
+							<Organization>دانشیار، گروه حسابداری، دانشکده مدیریت و اقتصاد، اصفهان، دانشگاه اصفهان، اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار، گروه حسابداری، دانشکده مدیریت و</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>a.hashemi@ase.ui.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>ناهنجاری اقلام تعهدی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>راهبرد اقلام تعهدی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سبد مصون‌سازی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سرمایه‌گذار خبره</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>فرضیه بازار کارا</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] آقایی، م.، نیکزادقادیکلایی، م. و احمدیان، و. (1394). بررسی میزان اطمینان سرمایه‌گذاران بورس اوراق بهادار تهران نسبت به پایداری اقلام تعهدی سود. مدیریت دارایی و تأمین مالی، 3 (4)، 30-15.##[2] بدری، الف. و اسکینی، س. (1391). آزمون تجربی استراتژی سرمایه‌گذاری معکوس با استفاده از تحلیل پوششی داده‌ها. دانش حسابداری، 3 (10)، 156-137.##[3] سعیدی، ع.، و باقری، س. (1390). راهبرد سرمایه‌گذاری معکوس در بورس اوراق بهادار تهران. تحقیقات مالی، 12 (30)، 75-94.##[4] شهریاری، س. و سلیم، ف. (1393). بررسی و آزمون قیمت‌گذاری نادرست اقلام تعهدی غیرعادی در بورس اوراق بهادار تهران طی سال‌های 81 تا 89. مدیریت دارایی و تأمین مالی، 2 (3)، 16-1.##[5] فروغی، د.، و رهروی‌دستجردی، ع. (1395). نابهنجاری‌های بازار و بازده‌های غیرعادی. پیشرفت‌های حسابداری، 8 (1)، 127-158.##[6] کردستانی، غ.، و شاهسوند، م. (1392). مقایسۀ بازده اضافی سبد سهام تشکیل‌شده براساس اقلام تعهدی سنتی و نسبی (درصدی). بررسی‌های حسابداری و حسابرسی، 20 (3)، 123-101.##[7] کرمی، غ.، و مرشدزاده بافقی، م. (1393). ناهنجاری ناشی از عایدات، ناهنجاری ناشی از اقلام تعهدی و رابطۀ میان آن دو. دانش حسابداری، 5 (19)، 26-7.##[8] مشایخی، ب.، فدایی‌نژاد، م.، و کلاته‌رحمانی، ر. (1389). مخارج سرمایه‌ای، اقلام تعهدی و بازده سهام. پژوهش‌های حسابداری مالی، 2 (1)، 92-77.##[9] مهرانی، س.، و نونهال‌نهر، ع. (1387). بررسی امکان به‌کارگیری راهبرد معاملاتی معکوس در بورس اوراق بهادار تهران. بررسی‌های حسابداری و حسابرسی، 15 (1)، 46-25.##[10] هاشمی، ع.، حمیدیان، ن.، و ابراهیمی، خ. (1392). بررسی نابهنجاری اقلام تعهدی با در نظر گرفتن ریسک ناتوانی مالی در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. حسابداری مالی، 5 (19)، 20-1.##[11] Aghaei, M. A., Nikzad Ghadikolaee, M., &amp; Ahmadian, V. (2016). Investigate investor confidence from rate of stability of accruals component in Tehran Stock Exchange.Asset Management &amp; Financing, 3 (4), 15-30. (In Persian).##[12] Ali, A., Chen, X., Yao. T., &amp; Yu, T. (2008). Do mutual funds proﬁt from the accruals anomaly? Journal of Accounting Research, 46, 1-26. Doi: 10.1111/j.1475-679X.2007.00263.x##[13] Badri, A., &amp; Eskini, S. (2012). Contrarian investment strategy: An empirical test based on data envelopment analysis. Journal of Accounting Knowledge, 3 (10), 137-156. (In Persian). Doi: 10.22103/jak.2012.448##[14] Ball, R., Gerakos, J., Linnainmaa, J., &amp; Nikolaev, V. (2016). Accruals, cash ﬂows and operating proﬁtability in the cross section of stock returns. Journal of Financial Economics, 121, 28-45. Doi: 10.1016/j.jfineco.2016.03.002##[15] Banz, R. W. (1981). The relationship between return and market value of common stocks. Journal of Financial Economics, 9, 3-18. Doi: 10.1016/0304-405X (81)90018-0##[16] Bushee, B., &amp; Raedy, J. (2003). Factors affecting the implementability of stock market trading strategies. Working Paper, University of Pennsylvania and University of North Carolina, Chapel Hill. Doi: 10.2139/ssrn.384500##[17] Calluzzo, P., Moneta, F., &amp; Topaloglu, S. (2018). When anomalies are publicized broadly, do institutions trade accordingly? Management Science, Forthcoming, Avalable at:https://papers.ssrn.com/ sol3/papers.cfm?abstract_id=2660413. Doi: 10.1287/mnsc.2018.3066##[18] Fairﬁeld, P., Whisenant, J., &amp; Yohn, T. (2003). Accrued earnings and growth: Implications for future proﬁtability and market mispricing. The Accounting Review, 78 (1), 353–371. Doi: 10.2308/accr. 2003.78.1.353##[19] Fama, E. F. (1970). Efficient capital markets: A review of theory and empirical work. The Journal of Finance, 25 (2), 383-417. Doi: 10.2307/2325486##[20] Foroghi, D., &amp; Rahrovi Dastjerdi, A. (2016). Market anomalies and abnormal returns. Journal of Accounting Advances, 70, 127-158. (In Persian). Doi: 10.22099/jaa.2016.3855##[21] French, K. R. (1980). Stock returns and the weekend effect. Journal of Financial Economics, 8, 55-69. Doi: 10.1016/0304-405X (80)90021-5##[22] Fu, J. (2018). Sophistication of the Chinese mutual funds and mispricing of accruals. Journal of International Accounting Research, Forthcoming,Avalable at:https://aaajournals.org/ doi/abs/10.2308/jiar-52257. Doi: 10.2308/jiar-52257##[23] Godfrey, J., Hodgson, A., &amp; Holmes, S. (2003). Accounting Theory. Australia: John Wiley &amp; Sons Australia, Ltd.##[24] Green, J., Hand, J., &amp; Soliman, M. (2011). Going, going, gone? The demise of the accruals anomaly. Management Science, 57 (5), 797-816. Doi: 10.1287/mnsc.1110.1320##[25] Hafzalla, N., Lundholm, R., &amp; Van Winkle, E. (2011). Percent accruals. The Accounting Review, 86 (1), 209-236. Doi: 10.2308/accr.00000011##[26] Hashemi, S. A., Hamidian, N., &amp; Ebrahimi, K. (2013). An investigation of accruals anomaly considering the risk of financial disability in Tehran Stock Exchange. Quaterly Financial Accounting, 5 (19), 1-20. (In Persian).##[27] Hirshleifer, D., Teoh, S., &amp; Yu, J. (2011). Short arbitrage, return asymmetry and the accrual anomaly. Review of Financial Studies, 24 (7), 2429-2461. Doi: 10.1093/rfs/hhr012##[28] Jacobs, H., &amp; Müller, S., (2017). Anomalies across the globe: Once public, no longer existent?Available at: SSRN: https://ssrn.com/abstract=2816490. Doi: 10.2139/ssrn.2816490##[29] Karami, G., &amp; Morshedzadeh Bafghi, M. (2015). Earnings-based anomaly, accrual-based anomaly and the relationship between them. Journal of Accounting Knowledge, 5 (19), 7-26. (In Persian). Doi: 10.22103/jak.2015.882##[30] Keim, D. B. (1983). Size-related anomalies and stock returns seasonality: Further empirical evidence. Journal of Financial Economics, 12, 13-32.##[31] Khan, M. (2008). Are accruals mispriced? Evidence from tests of an intertemporal capital asset pricing model. Journal of Accounting and Economics, 45 (1), 55-77. Doi: 10.1016/j.jacceco. 2007.07.001##[32] Kim, Y. J., Lee, J., Lee, S. J., &amp; Sunwoo, H. (2017). Do mutual funds exploit the accrual anomaly? Korean evidence. Pacific-Basin Finance Journal, 46 (2), 227-242. Doi: 10.1016/j.pacfin.2017.09.008##[33] Kordestani, G., &amp; Shahsavand, M. (2013). The compare of excess returns of portfolio based on traditional accruals and percent accruals. Journal of Accounting and Auditing Review, 20 (3), 101-123. (In Persian). Doi: 10.22059/acctgrev. 2013.35678##[34] Lev, B., &amp; Nissim, D. (2006). The persistence of the accruals anomaly. Contemporary Accounting Research, 23 (1), 193–226. Doi: 10.1506/C6WA-Y05N-0038-CXTB##[35] Mashayekhi, B., Fadaei Nejad, M., &amp; Kalate Rahmani, R. (2010). Capital investments, accruals and stock returns. Financial Accounting Researches, 2 (1), 77-92. (In Persian).##[36] McLean, R., &amp; Pontiff, J. (2016). Does academic research destroy stock return predictability? Journal of Finance, 71 (1), 5-32. Doi: 10.1111/jofi.12365##[37] Mehrani, S., &amp; Nonahal Nahr, A. (2008). An investigation of implementing contrarian trading strategy in Tehran Stock Exchange. Journal of Accounting and Auditing Review, 15 (1), 25-46. (In Persian).##[38] Nallareddy, S., &amp; Ogneva, M. (2017). Accrual quality, skill and the cross-section of mutual fund returns. Review of Accounting Studies, 22 (2), 503-542. Doi: 10.1007/s11142-017-9389-z##[39] Novy-Marx, R. (2013). The other side of value: The gross proﬁtability premium. Journal of Financial Economics, 108, 1-28. Doi: 10.1016/j.jfineco.2013.01.003##[40] Saeedi, A., &amp; Bagheri, S. (2011). Contrarian strategy in Tehran Stock Exchange. Financial Research Journal, 12 (30), 75-94. (In Persian).##[41] Sewell, M. (2012). The efficient market hypothesis: Empirical evidence. International Journal of Statistics and Probability, 1 (2), 164-178. Doi: 10.5539/ijsp.v1n2p164##[42] Shahryari, S., &amp; Salim, F. (2014). Examination of the mispricing of abnormal accruals on the Tehran Stock Exchange from 1381 to 1389. Asset Management &amp; Financing, 2 (3), 1-16. (In Persian).##[43] Sloan, R. G. (1996). Do stock prices fully reflect information in accruals and cash flows about future earnings? Accounting Review, 71 (3), 289-315.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تأثیر حجم معاملات، زمان تا سررسید، تعداد موقعیت‌های تعهدی باز در بازده معاملات آتی سکۀ بهار آزادی</TitleF>
+				<TitleE>The Effect of Trade Volume, Time-to-Maturity and Open Interest on the Return of Gold Coid Future Trades</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>اهداف: راه‌اندازی بازار آتی در بورس کالای ایران، فرصت پوشش ریسک ناشی از نوسان‌های قیمت و فضای جدیدی را برای سودآوری ایجاد کرد. روش: با توجه به اینکه تنها قرارداد آتی فعال در ایران، قراردادهای آتی سکۀ تمام بهارآزادی در بورس کالای ایران است، جامعۀ آماری پژوهش، قراردادهای آتی سکۀ تمام بهار آزادی طرح امام خمینی(ره) تحویل اردیبهشت، تیر، شهریور، آبان، دی و اسفند در سال 1393 و تحویل تمامی ماه‎های‎ سال 1392 است که داده‎های آن شامل قیمت پایانی قراردادهای مذکور است و به‌صورت روزانه جمع‎آوری شده‎ است. متغیرهای پژوهش شامل بازده معاملات به‌عنوان متغیر وابسته، حجم معاملات، تعداد موقعیت تعهدی باز و زمان تا سررسید به‌عنوان متغیرهای مستقل است. این پژوهش از دیدگاه روش و ماهیت از نوع همبستگی است و برای آزمون فرضیه‌های پژوهش، از آزمون همبستگی و رگرسیون استفاده شده است. نتایج: نتایج پژوهش نشان می‌دهد متغیر زمان تا سررسید در بازده معاملات آتی، تأثیر معناداری داشته است. در بررسی دو مورد دیگر، حجم معاملات و تعداد موقعیت‎های تعهدی باز، در بازده معاملات آتی، تأثیر معناداری ندارد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Objectives:The main purpose of this research is to study the effect of trade volumes, Open positions and Time to maturity on future trading returns of Gold Coin in Iran Mercantile Exchange. In this research, contract volumes, open positions and time to maturity are the independent variables and the return of contracts is the dependent variable. Method: Considering the subject, statistical population includes 15 samples of future contracts on Gold coin in Iran Mercantile Exchange. The research data has been gathered among the listed future contracts on with maturity data of 2013 and 2014. The linear Regression with fixed effects has been used to test the assumptions. Results: The results have revealed that there is a leaner relationship between the effects of time-to-maturity and the returns of future contracts, and there is no significant linear relationship between the volume and number of Open positions and the return of future contracts.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>49</FPAGE>
+						<TPAGE>62</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>فاطمه</Name>
+						<MidName></MidName>		
+						<Family>میرزاده</Family>
+						<NameE>fatemeh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>mirzadeh</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی دکترای مالی - مهندسی مالی دانشکدۀ مدیریت و علوم اجتماعی دانشگاه آزاد اسلامی، واحد تهران شمال، تهران، ایران5</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی دکترای مالی - مهندسی مالی دانشکدۀ</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mirzadeh_taraneh@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>علیرضا</Name>
+						<MidName></MidName>		
+						<Family>حیدرزاده هنزایی</Family>
+						<NameE>Alireza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Heidarzadeh hanzaee</FamilyE>
+						<Organizations>
+							<Organization>استادیار و عضو هیأت علمی گروه مدیریت مالی دانشکدۀ مدیریت و علوم اجتماعی، دانشگاه آزاد اسلامی، واحد تهران شمال، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار و عضو هیأت علمی گروه مدیریت مالی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>a_heidarzadeh@iau-tnb.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>علی</Name>
+						<MidName></MidName>		
+						<Family>سعیدی</Family>
+						<NameE>Ali</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Saeedi</FamilyE>
+						<Organizations>
+							<Organization>دانشیار و عضو هیأت علمی گروه مدیریت مالی دانشکدۀ مدیریت و علوم اجتماعی دانشگاه آزاد اسلامی، واحد تهران شمال، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار و عضو هیأت علمی گروه مدیریت مالی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>ali_saeedi@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>بازده معاملات آتی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تعداد موقعیت‎های تعهدی باز</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>حجم معاملات</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>زمان تا سررسید</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>قراردادهای آتی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>حسینی، م. (1388). «قراردادهای آتی و چالش‌های فقهی آن». فصل‌نامه علمی-تخصصی مطالعات اقتصاد اسلامی.سال دوم/شماره اول. ص 113-117.##موسوی بجنوردی، م. (1378). گزارش دومین همایش مدیریت مالی ایران. ص 247.##محمدزادگان، ه.؛ شریعت‌پناهی، م. و قائمی، م. (1391). بررسی رابطه بین زمان تا سررسید قراردادهای آتی سکه طلاء در بورس کالای ایران. پایان‌نامه کارشناسی ارشد. مجله دانش مالی. دانشکده علوم اقتصادی.##صالح‌پور، ز.؛ قائمی، م. و منجذب، م. (1391). بررسی رابطه قیمت با حجم معاملات و تعداد موقعیت‌های تعهدی باز قرارداد آتی سکه طلاء در بورس کالای ایران. پایان‌نامه کارشناسی ارشد. دانشکده علوم اقتصادی.##یحیی‌زاده‌فر، م.؛ ابونوری، ا. و شبابی، ه. (1384). «بررسی اثر روزهای هفته بر بازده سهام بورس اوراق بهادار تهران و مقایسه آن با سایر بازارهای نوظهور». مجله علوم اجتماعی و انسانی. دانشگاه شیراز، شماره 43.ص 178-196.##صادقی، م. و بدری، آ. (1385). «بررسی اثر روزهای مختلف هفته بر بازدهی؛ نوسان‌پذیری و حجم معاملات در بورس اوراق بهادار تهران». مجله پیام مدیریت. شماره 17 و 18. ص 55-83.##شیرزادی، س. راعی، ر. (1385). «بررسی الگوی تغییرات فصلی در بورس اوراق بهادار تهران». پژوهش های اقتصادی، دوره 8. شماره 31. ص 147-170.##خادمی، س.؛ اسدی، ح. و علامه تبریزی، آ (1387). بررسی اثر بازگشت حجم معاملات در بورس اوراق بهادار تهران. دانشگاه شهید بهشتی. دانشگده مدیریت و حسابداری.##Aba Abdallahi, S., Kouhy, R., &amp; Zaheid, M. (2014). Trading Volume and Return Relationship in the Crude Oil Futures Markets, Studies in Economics and Finance. 31(4): 426-438.##Chandra Patti, P. (2008). The relationship between price volatility, trading volome and market depth: Evidence from an emerging Indian Stock index futures market, South Asian Journal of Management, 15(2):25-46.##Duong, H. N., &amp; Kalev, P. S. (2008). The Samuelson hypothesis in futures markets: An analysis using intraday data; Journal of Banking and Finance, 32(4): 489-500.##Galloway, T. M., &amp; Kolb, R. W. (1996). Futures prices and the maturity effect; The Journal of Futures Markets, 16(7): 809-828.##Hosseini, M. (2009). Future Contracts and Jurisprudential Challenges. Islamic Economy Studies. 2(3): 93-117. (in Persian).##Khadem Al-Malwa, S., Asadi, H., &amp; Alam Tabriz, A. (2008). Investigating the Effect of Holiday on Returns and Volume of Transactions In Tehran Stock Exchange. Faculty of Management and Accounting, Master Thesis, Shahid Beheshti University. (in Persian).##Kumar, B., &amp; Pandey, A. (2010). Price Volatility, Trading Volume and Open Intrest: Evidence from Indian Commodity Market, Available at SSRN: https://ssrn.com/abstract=1658844 or http://dx.doi.org/10.2139/ssrn.1658844##Lee, S. (2005). Forecasting Conditional Volatillity of Returns by Using the Relationship among Returns, Trading Volume and Open interest in Commodity Futures Markets, A Dissertation Submitted to the faculty of Purdue University. Available at: URL: http//www.proquest. com/##Milonas, N. (1984) Price variability and the maturity effect in futures markets; Journal of Futures Markets, 6: 443-460.##Mohammadzadehgun, H., Shariat Panahi, M., &amp; Qaemi, M. (2013). Relationship between Time-to-Maturity with the Price of Futures Contracts on Gold Coin in Iran Mercantile. Master Thesis, Faculty of Finance Sciences,Economic Sciences University. (in Persian).##Mousavi Bujnourdi, M. K. (2000). Report the Second World Conference on Financial Management of Iran: 247. (in Persian).##Rutledge, D. J. S. (1976). A note on the variability of futures prices; Review of Economics and Statistics, 58: 118-120.##Sadeghi, M., &amp; Badri, A. (2006). Effect of different weekly days on returns, volatility and volume of transactions in Tehran Stock Exchange. Master&#039;s Thesis. Faculty of Management and Accounting, Shahid Beheshti University. (in Persian).##Saleh pour, Z. (2013). Investigating the Relation of Price Volatility with Trade Volume, and Open Interest Futures Contracts on Gold Coin in Iran Mercantile. Mseter Thesis, Faculty of Finance Sciences. Economic Sciences University. (in Persian)##Samuelson, P. A. (1976). Proof that properly anticipated prices fluctuate randomly; Industrial Management Review, 6(2): 41-49.##Yahyazadefar, M. Aboonoori, E. Shababi, H. (2005). Investigating the effect of weekdays on stock return in Tehran Stock Exchange and comparing with other emerging markets. The Jorunal of Humanities and Social Sciences of Shiraz University. 84, 43: 178-196. (in Persian).##Shirzadi, S., &amp; Raei, R. (2006). Investigating seasonal changes pattern in Tehran Stock Exchange and comparing it with other emerging markets. Economics Research, 8(4), 147-170. (in Persian).##Wall, W. D. (2003). Volatility, volume and maturity in electricity futures, Applied FinancialEconomics, 9(3): 283-287.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>اثر تعاملی محدودیت‌های تأمین مالی و اعتماد به‌ نفس بیش از اندازۀ مدیران بر حق‌الزحمۀ حسابرسی</TitleF>
+				<TitleE>The Interactive Effect of Financing Constraints and Management`s Over-Confidence on Audit Fees</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>اهداف: هزینه‌‌های مربوط به روابط قراردادی در نتیجۀ تفاوت تابع مطلوبیت مدیران و صاحبان سهام ایجاد می‌‌شود. حسابرسی مستقل راهکاری اثربخش برای محدودکردن اختیارات مدیران در روابط نمایندگی به شمار می‌‌آید. محور اصلی پژوهش، بررسی تغییر اثر تعاملی بین اعتماد به ‌نفس بیش از اندازۀ مدیران و حق‌الزحمۀ حسابرسی با توجه به نقش محدودیت تأمین مالی است.
+روش: در طی دورۀ زمانی 1385 تا 1395 اطلاعات مربوط به شرکت‌‌های پذیرفته‌شده در بورس اوراق بهادار تهران گردآوری و برای آزمون فرضیه‌ها از الگوی رگرسیونی داده‌‌‌های ترکیبی استفاده شده است.
+نتایج: نتایج پژوهش نشان می‌دهد اعتماد به ‌نفس بیش از اندازه و محدودیت تأمین مالی سبب تغییر حق‌الزحمۀ حسابرسی می‌‌شود. نتایج فرضیه بیان‌کنندۀ این است که محدودیت تأمین مالی اثر معناداری بر تعامل مشترک اعتماد به نفس بیش از اندازۀ مدیران و حق‌‎الزحمۀ حسابرسی دارد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Objectives: Agency problems arise as a result of the conflict of interests between managers and shareholders. Auditing is considered as an effective way to limit the power of managers in contractual relationships. The basis of this paper is examining the role of funding constraints in changing the interactive effect between managers’ over-confidence and auditing fees.
+Method: The data of the companies, listed in the Tehran Stock Exchange for the period 2006 to 2016, have been extracted and the combined data regression model has been used to test the research hypotheses.
+Results: The results indicate that excessive self-confidence and financial constraints lead to changes in audit fees. Also, the results indicate that financing constraints have a significant effect on the joint interaction of management`s over-confidence and the audit fees.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>63</FPAGE>
+						<TPAGE>80</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>ولی</Name>
+						<MidName></MidName>		
+						<Family>خدادادی</Family>
+						<NameE>vali</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>khodadadi</FamilyE>
+						<Organizations>
+							<Organization>دانشیار، گروه حسابداری، دانشکدۀ اقتصاد و علوم اجتماعی، دانشگاه شهید چمران، اهواز، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار، گروه حسابداری، دانشکدۀ اقتصاد و</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>vkhodadadi@scu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محسن</Name>
+						<MidName></MidName>		
+						<Family>رشیدی باغی</Family>
+						<NameE>mohsen</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>rashidi baghi</FamilyE>
+						<Organizations>
+							<Organization>استادیار، گروه حسابداری، دانشکدۀ اقتصاد و علوم اداری، دانشگاه لرستان، لرستان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار، گروه حسابداری، دانشکدۀ اقتصاد و</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>rashidi.m@lu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مسعود</Name>
+						<MidName></MidName>		
+						<Family>طاهری نیا</Family>
+						<NameE>masood</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>taherinia</FamilyE>
+						<Organizations>
+							<Organization>استادیار، گروه حسابداری، دانشکدۀ اقتصاد و علوم اداری، دانشگاه لرستان، لرستان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار، گروه حسابداری، دانشکدۀ اقتصاد و</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>ma.taherinia@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>اعتماد به نفس بیش از اندازه</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>حق‌الزحمۀ حسابرسی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>محدودیت تأمین مالی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] تهرانی، ر.، و حصارزاده، ر. (1388). تأثیر جریان‌‌های نقد آزاد و محدودیت در تأمین مالی بر بیش‌ سرمایه‌‌گذاری و کم ‌سرمایه‌‌گذاری. تحقیقات حسابداری و حسابرسی، 1 (3)، 67-50.##[2] حساس‌یگانه، ی.، حسنی‌القار، م. و مرفوع، م. (1394). بیش‌اطمینانی مدیریت و حق‌الزحمۀ حسابرسی. فصلنامۀ بررسی‌های حسابداری و حسابرسی، 22 (3)، 384-362.##[3] خدادادی، و.، و حاجی‌‌زاده، س. (1390). تئوری نمایندگی و حق‌الزحمۀ حسابرسی مستقل: آزمون فرضیۀ جریان نقد آزاد. دانش حسابداری مالی، 1 (2)، 92-76.##[4] لاری‌دشت‌بیاض، م.، صالحی، م. و سخاوت‌پور، م. (1397). بررسی رابطۀ محدودیت مالی، ساختار دارایی‌ها و تأمین مالی در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. مدیریت دارایی و تأمین مالی، 6 (1)، 196-181.##[5] محمدی، الف.، سبزعلی‌پور, ف. و دهقانی، ف. (1397). بررسی رابطۀ شفافیت شرکتی و محدودیت در تأمین مالی در شرکت‌های پذیرفته‌شدۀ بورس اوراق بهادار تهران. مدیریت دارایی و تأمین مالی، 6 (1)، 216-201.##[6] مهدوی، غ.، و رستگاری، ن. (1397). کیفیت حسابرسی و محدودیت در تأمین مالی. مدیریت دارایی و تأمین مالی، 6 (3)، 117-132.##[7] نصیرزاده، ف.، عباس‎‌زاده، م. و ذوالفقارآرانی، م. (1396). بررسی تأثیر خوش‌بینی مدیران و عدم تقارن اطلاعاتی ناشی از آن بر روی ریسک سقوط قیمت سهام. فصلنامۀ حسابداری مالی، ۹ (۳۴)، 70-35.##[8] واعظ، س.، رمضان‌احمدی، م. و رشیدی‌باغی، م. (1392). تأثیر کیفیت حسابرسی بر حق‌الزحمۀ حسابرسی شرکت‌‌های بورسی. مجلۀ دانش حسابداری مالی، 3 (1)، 114-92.##References##[9] Alti, A. (2003). How sensitive is investment to cash flow when financing is frictionless? Journal of Finance, 58: 708-723. Doi: https://doi.org/10.1111/1540-6261.00542.##[10] Angelopoulou, E., &amp; Gibson, H. D. (2007). The balance sheet channel of monetary policy transmission: Evidence from the UK. Economical, 76 (304): 675-703. Doi: https://www.jstor.org/stable/ 40268893.##[11] Armstrong, C., Core, D. Taylor, R. &amp; Verrechia, R. (2011). When does information asymmetry affect the cost of capital? Journal of Accounting Research, 49 (1): 2-40. Doi: https://doi.org/10.1111/ j.1475-679X.2010.00391.x.##[12] Astana, S., &amp; Boone, J. (2012). Abnormal audit fee and audit quality. Auditing: Journal of Practice &amp; Theory, 31 (3): 2-23. Doi: https://doi.org/10.2308/ajpt-10294.##[13] Beasley, M. S., Carcelo, D. Hermanson, R. &amp; Neal, T. (2010). Fraudulent financial reporting 1998–2007: An analysis of U.S. public companies. Durham, NC: COSO.##[14] Ben-Ali, C., &amp; Lesage, C. (2012). Audit pricing and nature of controlling shareholder: Evidence from France, China. Journal of Accounting Research, 6 (1): 22-34. Doi: https://doi.org/10.1016/j.cjar. 2012.08.002.##[15] Ben-David, I., Graham, J. R. &amp; Harvey. C. R. (2013). Managerial miscalibration. The Quarterly Journal of Economics, 128 (4): 1548-1584. Doi:  https://doi.org/ 10.1093/qje/qjt023.##[16] Bolton, P., Brunnermeier, M. K. &amp; Veldkamp. L. (2013). Leadership, coordination and corporate culture. Review of Economics Studies, 80 (2): 512-538. Doi: https://www.jstor.org/stable/ 43551494.##[17] Boyle, D., DeZoort, F. &amp; Hermanson, D. (2015). The effect of alternative fraud model use on auditors’ fraud risk judgments. Journal of Accounting and Public Policy, 34 (6): 578-596. Doi: 10.1016/j.jaccpubpol.2015.05.006.##[18] Bruynseels, L., Knechel, W. R. &amp; Willekens, M. (2011). Auditor differentiation, mitigating management actions and audit-reporting accuracy for distressed firms. Auditing: A Journal of Practice &amp; Theory, 30 (1): 1-20. Doi: https://doi.org/10.2308/aud.2011.30.1.1.##[19] Butzen, P., Fuss, C. &amp; Vermeulen, P. (2002). The interest rate and crédit channels in Belgium: An investigation with micro-level firm data. Brussels Economic Review, 45 (3), 5-36. Doi: https://dipot.ulb. ac.be/dspace/bitstream/2013/11809/1/ber-0220.pdf.##[20] Casterella, J., Francis, J. Lewis, B. &amp; Walker, P. (2004). Auditor industry specialization, client bargaining power and audit pricing. Auditing: A Journal of Practice &amp; Theory, 23 (1): 124-140.##[21] Choi, J. H., Kim, C. F. Kim, J. B. &amp; Zang, Y. S. (2010). Audit office size, audit quality and audit pricing. Auditing: A Journal of Practice &amp; Theory, 29 (1): 74-97. Doi: https://doi.org/10.2308/aud. 2004.23.1.123.##[22] Demerjian, P., Lev, B. Lewis, M. &amp; McVay. S. (2013). Managerial ability and earnings quality. The Accounting Review, 88 (2), 464-499. Doi: https://doi.org/ 10.2308/accr-50318.##[23] DeMeyere, M., Bauwhede, H. &amp; Cauwenberge, P. (2018). The impact of financial reporting quality on debt maturity: The case of private firms. Accounting and Business Research, 48 (7), 759-781. Doi: https://doi.org/10.1080/00014788.2018.1431103.##[24] DeVilliers, C., Hay, D. &amp; Zhang, Z. (2013). Audit fee stickiness. Managerial Auditing Journal, 29 (1), 2-26. Doi: https://doi.org/10.1108/MAJ-08-2013-0915.##[25] Dichev, I. D., &amp; Tang, V. W. (2009). Earnings volatility and earnings predictability. Journal of Accounting and Economics, 47 (1): 160-182. Doi: https://doi.org/10.1016/j.jacceco.2008.09.005.##[26] Efendi, J., Srivastava, A. &amp; Swanson. E. (2007). Why do corporate managers misstate financial statements? The role of option compensation and other factors. Journal of Financial Economics, 85 (3): 677-708. Doi: https://doi.org/10.1016/ j.jfineco.2006.05.009.##[27] Englmaier, F. (2011). Commitment in R&amp;D tournaments via strategic delegation to overoptimistic managers. Managerial and Decision Economics, 32 (1): 64-69. Doi: https://doi.org/10.1002/mde.1518.##[28] Ericson, R., &amp; Pakes. A. (1995). Markov-perfect industry dynamics: A framework for empirical work. The Review of Economic Studies, 62 (1): 53-83. Doi: 10.2307/2297841.##[29] Farre-Mensa, J., &amp; Ljungqvist, A. (2013). Do measures of financial constraints measure financial constraints? The Review of Financial Studies, 29 (2), 271-308. Doi: https://doi.org/10.1093/rfs/hhv052.##[30] Ferguson, A., Lennox, C. &amp; Taylor, S. (2005). Audit fee rigidities in the presence of market frictions: Evidence and explanations. Working paper, University of New South Wales.##[31] Frank, D., &amp; Obloj, T. (2014). Firm-specific human capital, organizational incentives and agency costs: Evidence from retail banking. Strategic Management Journal, 35 (9), 1279-1301. Doi: https://doi.org/10.1002/smj.2148.##[32] Ge, W., Matsumoto, D. &amp; Zhang, J. (2011). Do CFOs have style? An empirical investigation of the effect of individual CFOs on accounting practices. Contemporary Accounting Research, 28 (4), 1141-1179. Doi: https://doi.org/ 10.1111/j.1911-3846.2011.01097.x.##[33] Gul, F. A., Khedmati, M. Lim, E. K. &amp; Navissi., F. (2018). Managerial ability, financial distress and audit fees. Accounting Horizons, 32 (1), 29-51. Doi: https://doi.org/10.2308/acch-51888.##[34] HasasYeganeh, Y., HasaniAlghar, M. &amp; Marfou, M. (2015). Managerial overconfidence and audit fees. Journal of Accounting and Auditing Review, 22 (3), 363-384. (In Persian).##[35] Hesarzadeh, R., &amp; Tehrani, R. (2008). The impact of free cash flows and financing restrictions on over-investment and under-investment. Accounting Research, 3 (3), 50-67. (In Persian).##[36] Hirshleifer, D., Low, A. &amp; Teoh H. (2012). Are overconfident CEO better innovators? The Journal of Finance, 67 (4), 1458-1498. Doi: https://doi.org/ 10.1111/j.1540-6261.2012.01753.x.##[37] Hoitash, R., Markelevich, A. &amp; Barragato, C. (2007). Auditor Fees and Audit Quality. Managerial Auditing Journal, 22 (8), 761-786. Doi: https://doi.org/10.1108/02686900710819634.##[38] Kaplan, S. N., &amp; Zingales. L. (1997). Do investment–cash flow sensitivities provide useful measures of financing constraints? Quarterly Journal of Economic, 112 (1), 169-216. Doi: https://www.jstor.org/ stable/2951280.##[39] Khodadadi, V., &amp; Hajizadeh, S. (2012). Agency theory and audit fees; Test of free cash flow hypothesis. Empirical Research of Financial Accounting, 01 (2), 76-92. (In Persian).##[40] Koussis, N., Martzoukos, S. H. &amp; Trigeorgis, L. (2007). Real R&amp;D options with time-to-learn and learning-by-doing. Annals of Operations Research, 151 (1), 29-55. Doi: https://doi.org/10.1007/s10479-006-0127-3.##[41] Krishnan, G., &amp; Wang, C. (2015). The relation between managerial ability and audit fees and going concern opinions. Auditing: A Journal of Practice &amp; Theory, 34 (3), 139-160. Doi: https://doi.org/10.2308/ajpt-50985.##[42] LariDashtbayaz, M., Salehi, M. &amp; Sekhavatpoor, M. (2018). The relationship between financial constraints, the structure of assets and financing in companies listed in tehran stock exchange. Asset Management and Financing, 6 (1), 181-196. (In Persian).##[43] Lin, Y., Hu, Y. &amp; Chen, M. (2005). Managerial optimism and corporate investment: Some empirical evidence from Taiwan. Pacific-Basin Finance Journal, 13 (5), 523-546. Doi: https://doi.org/10.1016/ j.pacfin.2004.12.003.##[44] Madsen, P., &amp; Desai, V. (2010). Failing to learn. The effects of failure and success on organizational learning in the global orbital launch vehicle industry. Academy of Management Journal, 53 (3), 452-476. Doi: https://doi.org/10.5465/ amj.2010.51467631.##[45] Mahdavi, G., &amp; Rastegari, N. (2018). Audit quality and financial constraints. Asset Management and Financing, 6 (3), 117-132. (In Persian).##[46] March, G. (1991). Exploration and exploitation in organizational learning. Organization Science, 2 (1), 71-87. Doi: https://www.jstor.org/stable/2634940.##[47] March, G., &amp; Shapira, Z. (1987). Managerial perspectives on risk and risk taking. Management Science, 33 (11), 1404-1418. Doi: https://doi.org/10.1287/ mnsc.33.11.1404.##[48] Menon, K., &amp; Williams, D. (2001). Long term trends in audit fees. Auditing: Journal of Practice and Theory, 20 (1), 116-136. Doi: https://doi.org/10.2308/aud.2001. 20.1.115.##[49] Mohammadi, E., Sabzalipour, F. &amp; Dehghani, F. (2018). Examining the relationship between corporate transparency and financial constraints of Listed Companies in Tehran Stock Exchange. Asset Management and Financing, 6 (1), 201-216. (In Persian).##[50] Moore, A., &amp; Healy, P. (2008). The trouble with overconfidence. Psychological Review, 115 (2), 503-517. Doi: 10.1037/0033-295X.115.2.502.##[51] Nasirzadeh, F., Abbaszadeh, M. R. &amp; zolfagharArani, M. H. (2018). Examining the impact of overconfidence of managers and the resulting information asymmetry on risk of falling of stock prices. Quarterly Financial Accounting Journal, 9 (34), 35-70. (In Persian).##[52] Patel, K., Pereira, R. A. &amp; Zavodov, K. V. (2009). Mean‐Reversion in REITs discount to NAV &amp; risk premium’. Journal of Real Estate Finance and Economics, 39 (3), 229-247. Doi: https://doi.org/10.1007/ s11146-009-9185-z.##[53] Purnanandam, A. (2008). Financial distress and corporate risk management: Theory and evidence. Journal of Financial Economics, 87 (3), 707-739. Doi: https://doi.org/10.1016/j.jfineco.2007.04.003.##[54] Saleem, E., &amp; Alzoubi, S. (2018). Audit quality, debt financing and earnings management: Evidence from Jordan. Journal of International Accounting, Auditing and Taxation, 30, 69-84. Doi: https://doi.org/10.1016/j.intaccaudtax.2017.12.001.##[55] Shapiro, C. (1983). Premiums for high quality products as returns to reputations, Quarterly Journal of Economics, 97, 659-679. Doi: https://doi.org/10.2307/1881782.##[56] Shyti, A. (2013). Overconfidence and Entrepreneurial Choice under Ambiguity. Academy of Management Proceedings, 2013 (1). Doi: https://doi.org/10.5465/ ambpp.2013.13508abstract.##[57] Silva, F., &amp; Carreira, C. (2012). Measuring firms&#039; financial constraints: A rough guide. Notas Econ_omicas, 36, 23-46. Doi: http://gemf.fe.uc.pt/ workingpapers/pdf/2012/gemf_2012-14.pdf.##[58] Tan, K. J. K. (2017). Why do overconfident REIT CEOs issue more debt? Mechanisms and value implications. Abacus, 53, 319-348. Doi: https://doi.org/10.1111/abac.12111.##[59] Vaez, S. A., RamzanAhmadi, M. &amp; RashidiBaqhi, M. (2014). The effect of audit quality on audit fees in Companies Listed in Stock Exchange. Empirical Research of Financial Accounting, 1 (1), 87-107. (In Persian).##[60] Villiers, C., Hayb, D. &amp; Zhang, Z. (2014). Audit fee stickiness. Managerial Auditing Journal, 29 (1), 2-26.##[61] Wolfe, D. T., &amp; Hermanson, D. R. (2004). The fraud diamond: Considering the four elements of fraud. The CPA Journal, 74 (12), 38-42.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>سوگیری‌های رفتاری، حجم غیرنرمال معاملات و بازده غیرعادی سهام</TitleF>
+				<TitleE>Behavioral Bias, Abnormal Volume, and Abnormal Return</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف: هدف از انجام پژوهش حاضر بررسی تأثیر سوگیری‌های رفتاری شامل فرااعتمادی، اثر ‌تمایلاتی و توجهات ‌سرمایه‌گذاران بر حجم غیرنرمال و بازده غیرعادی است.
+روش: برای این منظور نمونه‌ای متشکل از 325 شرکت پذیرفته‌شده در بورس تهران، در بازۀ هفتگی و طی سال‌های1390 تا 1395 با استفاده از روش رگرسیون داده‌های ترکیبی نامتقارن بررسی شده ‌است.
+نتایج: نتایج نشان می‌دهد توجهات سرمایه‌گذاران و اثر تمایلاتی موجب ایجاد حجم غیر‌نرمال می‌شود.دربارۀ بازده غیرعادی نیز توجهات سرمایه‌گذاران در الگوی رگرسیونی معنی‌دار است. نکتۀ مهم بررسی روابط علی زنجیره‌وار و درواقع، تأثیر سوگیری‌های رفتاری مؤثر بر حجم غیر‌نرمال در ایجاد بازده غیرعادی است. در نمونۀ بررسی‌شده توجهات سرمایه‌گذاران عامل ایجاد حجم غیر‌نرمال و سپس بازده غیرعادی است. دربارۀ فرااعتمادی، رابطۀ این سوگیری با حجم غیرنرمال و بازده غیرعادی معنی‌دار نیست و فرااعتمادی از عوامل ایجاد حجم غیرنرمال و بازده غیرعادی محسوب نمی‌شود.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Objectives: This research evaluates the effects of overconfidence, disposition effect and investors’ attention on the abnormal volume and abnormal returns of stocks through Interruption in independent variables.
+Method: It uses the unbalanced panel data regression technique to study a sample of 325 listed firms in Tehran Stock Exchange at weekly intervals between 2011 and 2016.
+Resutls: The results show that disposition effect and investors’ attention cause abnormal volume. In addition, with regards to abnormal return, the effect of investors&#039; attention on abnormal return is significant in the regression model. The important point in this study is the investigation of the effect of behavioral biases on abnormal volume while generating abnormal returns. The results indicate that only investors’ attention causes both abnormal volume and abnormal returns. Also, in the case of overconfidence, the relationship between this bias and abnormal volume and abnormal returns is not significant.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>81</FPAGE>
+						<TPAGE>96</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محمد</Name>
+						<MidName></MidName>		
+						<Family>اصولیان</Family>
+						<NameE>Mohammad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Osoolian</FamilyE>
+						<Organizations>
+							<Organization>استادیار، گروه مدیریت مالی، دانشکدۀ مدیریت و حسابداری، دانشگاه شهید بهشتی، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار، گروه مدیریت مالی، دانشکدۀ مدیریت</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>m_osoolian@sbu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مژگان</Name>
+						<MidName></MidName>		
+						<Family>بازچی</Family>
+						<NameE>Mozhgan</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Bazchi</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد، گروه مدیریت مالی، دانشکدۀ مدیریت و حسابداری، دانشگاه شهید بهشتی، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد، گروه مدیریت مالی، دانشکدۀ مدیریت</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>m.bazchi@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>حجم غیر‌‌نرمال</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بازده غیرعادی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>توجهات سرمایه‌گذار</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>اثر تمایلاتی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>فرااعتمادی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] اسلامی‌بیدگلی، غ.، و تهرانی، الف. (1389). بررسی رابطۀ اعتماد بیش از حد سرمایه‌گذاران انفرادی و حجم مبادلات آنها در بورس اوراق بهادار تهران. پژوهشنامۀ اقتصادی، 10 (4)، 253-231.##[2] بدری، الف.، و کوچکی، الف. (1392). حجم معاملات و بازده سهام: شواهدی از بورس اوراق بهادار تهران براساس تحلیل مالی رفتاری. فصلنامۀ علمی - پژوهشی حسابداری مالی، 5 (18)، 24-1.##[3] جهانخانی، ع.، قراگزلو، ف.، و نوفرستی، م. (1388). بررسی اطمینان بیش از اندازۀ سرمایه‌گذاران و حجم معاملات در بورس اوراق بهادار تهران. چشم‌‎انداز مدیریت، 8 (30)،##[4] فلاح‌شمس، م.، و رضازاده، الف. (1392). اثر تمایلی زیان‌گریزی سرمایه‌گذاران براساس حجم معاملات IPO در بورس اوراق بهادار تهران. دانش مالی تحلیل اوراق بهادار، 6 (1)، 86-75.##[5] موسوی، م.، و آقابابایی، م. (1396). تأثیر اطمینان بیش از حد بر رفتار سرمایه‌گذاران: شواهدی از بورس اوراق بهادار تهران. دانش مالی تحلیلی اوراق بهادار (مطالعات مالی)، 10 (34)، 37-25.##[6] Amihud, Y. (2002). Illiquidity and stock returns: Cross-Section and time-series effect. Journal of Financial Markets, 5 (1), 31-56. DOI: 10.1016/S1386-4181(01) 00024-6.##[7] Andry, H., &amp; Hasler, M. (2013). Investor attention and stock market volatility. The Review of Financial Studies, 38 (1), 33-70. https://doi.org/10.1093/rfs/hhu059.##[8] Aouadi, A., Arouri, M., &amp; Teulon, T. (2013). Investor attention and stock market activity: Evidence from France. Economic Modelling, 35, 674-681.##[9] Badri, A., &amp; Kochaki, A. (2013). Trading volume &amp; returns evidence of Tehran Stock Exchange. Journal of Financial Accounting, 5 (18), 1-24. (In persian).##[10] Baker, M., &amp; Wurgler, J. (2006). Investor sentiment and the cross‐section of stock returns. The Journal of Finance, 61 (4), 1645-1680. https://doi.org/10.1111/j.1540-6261.2006.00885.x.##[11] Barber, B. M., &amp; Odean, T. (2008). The behavior of individual investors. Journal of Financial Risk Management, 5 (4), 114-131. https://doi.org/10.1093/rfs/hhm079.##[12] Barberis, N., &amp; Huang, M. (2001). Mental accounting, loss aversion and individual stock returns. Journal of Finance, 56, 1247-1295. http://dx.doi.org/ 10.1111/ 0022-1082.00367.##[13] Ben-Rephael, A., &amp; Da, Z., &amp; Israelsen, R. D. (2017). It depends on where you search: Institutional investor attention and underreaction to news. The Review of Financial Studies, 30 (9), 3009-3047. https://doi.org/10.1093/rfs/hhx031.##[14] Carhart, M. M. (1997). On persistence in mutual fund performance. Journal of Finance, 52, 57-82. https://doi.org/ 10.1111/j.1540-6261.1997.tb03808.x.##[15] Chen, S. S. (2012). Revisiting the empirical linkages between stock returns and trading volume. Journal of Banking and Finance, 36, 1781-1788. https://doi.org/ 10.1016/j.jbankfin.2012.02.003.##[16] Chen, T. (2017). Investor attention and global stock returns. Journal of Behavioral Finance, 18 (3), 358-372. https://doi.org/ 10.1080/15427560.2017.1331235.##[17] Chiang, T. C., &amp; Wong, W. K. (2010). New evidence on the relation between return volatility and trading. Journal of Forecasting, 29, 502-515. https://doi.org/ 10.1002/for.1151.##[18] Chordia, T., Huh, S., &amp; Subrahmanyam, A. (2007). The croos section of expected trading activity. Review of Inancial Studies, 20 (3), 709-740. https://doi.org/10.1093/ rfs/hhl014.##[19] Chou, R., &amp; Wang, Y. (2011). A test of the different implications of the overconfidence and disposition hypothese. Journal of Banking and Finance, 35, 2037-2046. https://doi.org/10.1016/j.jbankfin. 2011.01.018##[20] Connolly, R., Stivers, C., &amp; Sun, L. (2005). Stock market uncertainty and the stock-bond return relation. The Journal of Financial and Quantitative Analysis, 40 (1), 161-194. https://doi.org/10.1017/ S0022109000001782.##[21] Daniel, K., &amp; Hirshleifer, D. (2015). Overconfident investors, predictable returns and excessive trading. Journal of Economic Perspective, 29 (4), 61-88. DOI: 10.1257/ jep.29.4.61.##[22] Dellavigna, S., &amp; Pollet, J. (2009). Investor inattention and friday earnings announcements. Journal of Finance, 64 (2), 709-749. https://doi.org/10.1111/j.1540-6261.2009.01447.##[23] Edmands, A., Giego, D., &amp; Norli, Q. (2007). Sports sentiment and stock returns. Journal of Finance, 62 (4), 1987-1998. https://doi.org/10.1111/j.1540-6261.2007.01262.x.##[24] Eslami Bidgoli, G., &amp; Tehrani, A. (2007). The correlation between individual investors and overconfidence and volume: Evidence from TSE. Economics Research, 10 (4), 231-253. (In persian).##[25] Fallah Shams, M., &amp; Rezazade, E. (2013). Investors disposition effect in order of IPO trading volume. Journal of Finance Analysis in Stock Market, 6 (1), 75-86.##(In persain).##[26] Fama, E, F., &amp; MaceBeth, J. D. (1973). Risk return and equilibrium: Empirical test. Journal of Political Economy, 81, 607-636. http://dx.doi.org/10.1086/260061.##[27] Frazzini, A. (2006). The disposition effect and underreaction to news. The Journal of Finance, 61 (4), 2017-2046. https://doi.org/10.1111/j.1540-6261. 2006. 00896.x.##[28] Gervais, S., &amp; Odean, T. (2001). Learning to be overconfident. The Review of Financial Studies, 14, 13-27. https://doi.org/10.1093/rfs/14.1.1.##[29] Glaser, M., &amp; Weber, M. (2009). Which past returns effect trading volume? Journal of Financial Markets, 12, 10-31. https://doi.org/10.1016/j.finmar.2008.03.001.##[30] Grinblatt, M., &amp; Keloharju, M. (2009). Sensation seeking, overconfidence and trading activity, Journal of Finance, 64 (2), 549-578. https://doi.org/10.1111/j.1540-6261.2009.01443.x.##[31] Jahankhani, A., Gharagozlou, F., &amp; Nofresti, M. (2009). Investors overconfidence and trading volume: Evidence from TSE. Journal of Management Perspective, 8 (30), 105-123. (In persian).##[32] Jones, A, L., &amp; Bandopadhyaya, A. (2005). Measuring investor sentiment in equity markets. Journal of Asset Management, 7 (3), 208-215. Doi:10.1057/ palgrave.jam.2240214.##[33] Kahneman, D. (1973). Attention &amp; Effect. New Jersey: Engelwood Cliffs, Prentice Hall. Doi: 10.2307/1421603.##[34] Kahneman, D., &amp; Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47 (2), 263 -292. Doi: 10.2307/1914185.##[35] Kaustia, M. (2004). Market-wide impact of the disposition effect: Evidence from IPO trading volume. Journal of Financial Markets, 7, 207–235. https://doi.org/ 10.1016/j.finmar.2003.11.002.##[36] Lee, B. S., &amp; Rui, O. M. (2002). The dynamic relationship between stock returns and trading volume: Domestic and cross-country evidence. Journal of Banking and Finance, 26, 51-78. https://doi.org/ 10.1016/S0378-4266(00)00173-4.##[37] Li, Z., Seiler, M., &amp; Sun, H. (2017). Prospect theory, reverse disposition effect and the housing market. Journal of Finance Analysis in Stock Market, 10 (10), 67-83. http://dx.doi.org/10.2139/ssrn.2939186.##[38] Lou, D. (2014). Attracting investor attention through advertising. Review of Financial Studies, 19, 217-248. https://doi.org/10.1093/rfs/hhu019.##[39] Mosavi, M., &amp; Aghababaie, M. A. (2017). The effect of overconfidence on investors behavior: Evidence from TSE. Financial Knowledge of Securities Analysis, 10 (34), 25-37. (In persian).##[40] Odean, T. (1998). Volume, volatility, price and profit when all traders are aboue average. Journal of Finance, 53 (6), 1887-1934. https://doi.org/10.1111/0022-1082. 00078.##[41] Oehler, A,. Heilmann, K., Lager,V., &amp; Oberlander, M. (2003). Coexistence of disposition investors and momentum traders in stock markets: Experimental evidence. Journal of International Financial Markets, Institutions and Money, Elsevier, 13 (5), 503-524. https://doi.org/ 10.1016/S1042-4431(03)00020-9.##[42] Peng, L., &amp; Xiong, W. (2006). Investor attention, overconfidence and category learning. Journal of Financial Economics, 80 (3), 563-602. https://doi.org/10.1016/ j.jfineco.2005.05.003.##[43] Persaud, A. (1996). Investors’ Changing Appetite for Risk: A New Approach to Short-Run Developments on the Foreign Exchanges, FX Research Notes. New York: J.P. Morgan Securities Ltd.##[44] Pompian. M. (2006). Behavioral Finance and Wealth Management. Translated by: Ahmad Badri, Tehran: Keyhan.##[45] Ricciardi, V. (2008). The psychology of risk: The behavioral finance perspective. Journal of Investment Management, 100 (10), 98-100. https://doi.org/10.1002/ 9780470404324.hof002010.##[46] Seashole, M., &amp; Wu, G. (2007). Redictable behavior, profits and attention. Journal of Empirical Finance, 14 (5), 590-610. https://doi.org/10.1016/j.jempfin. 2007.03.002.##[47] Shefrin, H., &amp; Statman, M. (1985). The disposition to sell winners too early and ride losers too long: Theory and evidence. The Journal of Finance, 40 (3), 777-790. https://doi.org/10.1111/j.1540-6261.1985. tb05002.x.##[48] Statman, M., Thorley, S., &amp; Vorkink, K. (2006). Investor overconfidence and trading volume. The Review of Financial Studies, 19 (4), 1531-1565. Doi: 10.2139/ssrn.168472.##[49] Thaler, R. (2016). Behavioral economics: Past, present and future. American Economic Review, 106 (7), 1577-1600.Doi: 10.1257/aer.106.7.1577.##[50] Waweru, N. M., Munyoki, E., &amp; Uliana, E. (2008). The effects of behavioural factors in investment decision-making: a survey of institutional investors operating at the Nairobi Stock Exchange. International Journal of Business and Emerging Markets, 1(1), 24-41. Doi: 10.1504/IJBEM.2008.019243.##[51] Waweru, M. N., Munyoki, E., &amp; Uliana, E. (2008). The effects of behavioural factors in investment decision-making: a survey of institutional investors operating at the Nairobi Stock Exchange. International Journal of Business and Emerging Markets, 1 (1), 24-41. Doi: 10.1504/IJBEM.2008.019243.##[52] Yuan, Y. (2015). Market-wide attention, trading and stock returns. Journal of Financial Economics, 116 (3), 548-564. http://dx.doi.org/10.2139/ssrn.1105532.##[53] Zaiane, S. (2015). Behavioral bias &amp; individual investment. Journal of Social Science, 3 (1), 13-19. Doi: 10.15604/ ejss.2015.03.01.002.##Zia, L., Aindu, L., &amp; Hashmi, H. (2017). Testing overconfidence bias pakestani stock market. Cognet Economics &amp; Finance, 10 (3), 22-31.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی تأثیر تمایلات و رفتار معاملاتی سرمایه‌گذاران فردی بر بازده مازاد: الگوی تجدیدنظرشدۀ فاما و فرنچ</TitleF>
+				<TitleE>Investigating the Impact of Investor&#039;s Sentiment and Trading Behavior on Excess Return: Revised Fama and French Five Factor Model</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>اهداف: از دهۀ 1990 همواره تعیین ارزش منصفانۀ دارایی‌های مالی و اینکه آیا این ارزش تنها به عوامل بنیادی در الگو‌های قیمت‌گذاری بستگی دارد یا از عوامل رفتاری و روان‌شناختی نیز تأثیر می‌گیرد، مسئله‌ای بحث‌برانگیز بوده است. رشتۀ مالی رفتاری به مسائلی توجه کرده و الگو‌های قیمت‌گذاری دارایی‌های جایگزینی را ارائه داده است که جنبه‌های رفتاری تصمیم‌گیری را در بر می‌گیرند. هدف از انجام پژوهش حاضر، بررسی تأثیر همزمان معیارهای تمایلات و رفتار معاملاتی سرمایه‌گذاران حقیقی بر قیمت‌گذاری دارایی‌های سرمایه‌ای در 77 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران در دورۀ 1395 تا 1388 با روش داده‌های ترکیبی است.
+روش: به این منظور الگوی تجدیدنظرشدۀ پنج‌عاملی فاما و فرنچ با افزودن معیارهای تمایلات سرمایه‌گذار و رفتار معاملاتی سرمایه‌گذار فردی ایجاد شد.
+نتایج: نتایج تجربی نشان داد این دو عامل تأثیر بااهمیتی بر بازده مازاد در الگوی پنج‌عاملی دارند. در شرایطی که تمام سرمایه‌گذاران منطقی نیستند، تصمیم‌گیرندگان جوانب روان‌شناختی سرمایه‌گذار را برای درک چگونگی قیمت‌گذاری دارایی‌ها به کار می‌گیرند.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Objectives: Since the 1990s, the determination of the fair value of financial assets and whether this value depends only on fundamental factors in pricing models or is influenced by behavioral and psychological factors has always been a debatable issue. The behavioral finance field focuses on issues and proposes asset pricing models that incorporate behavioral decision-making aspects. The purpose of this study is to investigate the simultaneous effect of the criteria of the sentiment and individual investors trading behavior on the pricing of capital assets in 77 listed firms in Tehran Stock Exchange during the period from 2009 to 2014, using combination data method.
+Method: For this purpose, a revised Fama and French five-factor model is created by adding sentiment and individual investors trading behavior.
+Results: The experimental results showed that these two factors have a significant effect on the return on the five-factor model. In a situation where all investors are not rational, decision-makers can use the investor&#039;s psychological aspects to understand how asset pricing works.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>97</FPAGE>
+						<TPAGE>116</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سیده زهرا</Name>
+						<MidName></MidName>		
+						<Family>نصیری</Family>
+						<NameE>seyedeh zahra</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>nasiri</FamilyE>
+						<Organizations>
+							<Organization>گروه حسابداری، دانشکده علوم اقتصادی و ادرای، دانشگاه مازندران ، بابلسر ، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه حسابداری، دانشکده علوم اقتصادی و ادرای،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>za.nasiri@stu.umz.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>یحیی</Name>
+						<MidName></MidName>		
+						<Family>کامیابی</Family>
+						<NameE>yahya</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>kamyabi</FamilyE>
+						<Organizations>
+							<Organization>گروه حسابداری، دانشکده علوم اقتصادی و اداری، دانشگاه مازندران، بابلسر، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه حسابداری، دانشکده علوم اقتصادی و اداری،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>y.kamyabi@umz.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>الگوی پنج‌عاملی فاما و فرنچ</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مالی رفتاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تمایلات سرمایه‌گذار</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>رفتار معاملاتی سرمایه‌گذاران فردی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] حیدرپور، ف.، و تاری‌وردی، ی.، و محرابی، م. (1392). تأثیر گرایش‌های احساسی سرمایه‌گذاران بر بازده سهام. دانش مالی تحلیل اوراق بهادار،##6 (1)، 13-1.##[2] خداپرست‌شیرازی، ج.، قاسمی، م.، و رحمان‌ستایش، ع. (1389). بررسی تأثیر رفتار گله‌ای در تشکیل حباب‌های عقلائی. مطالعات اقتصادی، 1 (2)، 51-27.##[3] دستگیر، م.، و بزاز زاده، ح. (1385). تأثیر افشا بر ریسک سیستماتیک. پژوهشنامۀ اقتصادی، 6 (1)، 250-235.##[4] دولو، م.، و پاپایی، س. (1396). رفتار جمعی سرمایه‌گذاران در سطوح خرد و کلان و تأثیر آن در نوسان‌های بازار. مدیریت دارایی و تأمین مالی، 5 (2)، 166-149.##[5] سرلک، ک.، علیپوردرویش، ز. و وکیلی‌فرد، ح. (1391). تأثیر تصمیم‌گیری احساسی سرمایه‌گذاران و متغیرهای تکنیک بنیادی بر بازده سهام در بورس اوراق بهادار تهران. دانش مالی تحلیل اوراق بهادار، 5 (4)، 12-1.##[6] کاردان، ب.، ودیعی، م.، و ذوالفقارآرانی، م. (1396). نقش تمایلات رفتاری (احساسات و هیجانات) سرمایه‌گذاران در ارزش‌‎گذاری شرکت. دانش حسابداری، 8 (4)، 35-7.##[7] کامیابی، ی.، راسخی، س.، و نصیری، ز. (1396). شاخص تمایلات سرمایه‌گذار و قیمت‌گذاری دارایی سرمایه‌ای. پژوهشنامۀ اقتصاد کلان،##12 (24)، 171-149.##[8] مهرانی، ک.، و معدنچی‌زاج، م. (1397). آزمون اثر احساسات و الگوی رفتار معاملات سرمایه‌گذاران بر بازده مازاد سهام در بورس اوراق بهادار تهران. استراتژی مدیریت مالی، 6 (2)، 167-140.##[9] وکیلی‌فرد، ح.، فروغ‌نژاد، ح.، و خوشنود، م. (1392). ارزیابی رفتار سرمایه‌گذاران در بورس اوراق بهادار تهران با روش فرایند تحلیل شبکه‌ای. مدیریت دارایی و تأمین مالی، 1 (2)، 34-19.##[10] Aharoni, G., Grundy, B., &amp; Zeng, Q. (2013). Stock returns and the Miller Modigliani valuation formula: Revisiting the Fama French analysis. Journal of Financial Economics, 110, 347-357. doi:org/10.1016/j.jfineco.2013.08.003##[11] Akerlof, G. A., &amp; Shiller, R. J. (2009). Animal Spirits, Princeton and Oxford: Princeton University Press.##[12] Baker, M., &amp; Stein, J. C. (2004). Market liquidity as a sentiment indicator. Journal of Financial Markets, 7 (3), 271–299. doi:org/10.1016/j.finmar.2003.11.005##[13] Baker, M., &amp; Wurgler, J. (2006). Investor sentiment and the cross-section of stock returns. Journal of Finance, 61, 1645–1680.##[14] Baker, M., &amp; Wurgler, J. (2007). Investor sentiment in the stock market. Journal of Economic Perspective, 21 (2), 129–151. doi:10.1257/jep.21.2.129.##[15] Barberis N., Shleifer A., &amp; Vishny R. (1998). A model of investor sentiment. Journal of Financial Economics, 49, 307-343. doi:org/10.1016/S0304-405X (98) 00027-0.##[16] Black, F. (1986). Noise. Journal of Finance, 41, 529-543. doi:org/10.1111/ j.1540-6261.1986.tb04513.x##[17] Brown, G. W., &amp; Cliff, M. T. (2004). Investor sentiment and the Near-Term Stock Market. Journal of Empirical Finance, 11 (1): 1-27. doi: 10.1016/ j.jempfin.2002.12.001##[18] Changsheng, H., &amp; Yongfeng, W. (2012). Investor sentiment and assets valuation. Systems Engineering Procedia, 3, 166-171. doi:10.1016/j.sepro.2011. 11.023##[19] Chen, H., Chong, T. T. L., &amp; Duan, X. (2010). A principal component approach to measuring investor sentiment. Quantitative Finance, 10 (4), 339–347.##[20] Chuang, V, Ch., Ouyang, L, Y., &amp; Lo, W, Ch. (2010). The impact of investor sentiment on excess returns: A taiwan stock market case. International Journal of Information and Management Sciences, 21, 13-28.##[21] Ciccone, S. (2003). Does analyst optimism about future earnings distort stock prices? Journal of Behavioral Finance, 4 (2), 59-64. doi:org/10.1207/ S15427579JPFM0402_02##[22] Dastgir, M., &amp; Bazzazzadeh, H. R. (2006). The impact of disclosure on systematic risk. Economics Research, 6 (1), 235-249. (In Persian).##[23] Davallou, M., &amp; Papaei,S. (2017). Micro and macro herding by investors and their effects on market volatility. Asset Management&amp; Financing, 5 (2), 149-166.doi: 10.22108/amf.2017.21578. (In Persian).##[24] Debata, B., Dash, S. R., &amp; Mahakud, J. (2017). Investor sentiment and emerging stock market liquidity, Finance Research Letters, 26, 15-31. doi:10.1016/j.frl.017. 11.006##[25] DeBondt W., &amp; Thaler, R. (1987). Further evidence on investor overreaction and stock market seasonality. Journal of Finance, 42, 557-581.doi:10.1111/j.1540-6261.1987.tb04569.x##[26] DeBondt, W. F. M., &amp; Thaler, R. (1985). Does the stock market overreact? Journal of Finance, 40, 793–805.##[27] DeLong, B., Shleifer, A., Summers, L. H., &amp; Waldmann, R. J. (1990). Noise trader risk in financial market. Journal of Political Economy, 90, 703-738. doi:org/ 10.1086/261703##[28] Dhaoui, A. (2015). What does matter in economy today: When human psychology drives financial markets? Arab Economics and Business Journal, 10, 39-47. doi:org/10.1016/j.aebj.2014.12.002##[29] Dhaoui, A., &amp; Bensalah, N. (2017). Asset valuation impact of investor sentiment: A revised fama-french five factor model. Journal of Asset Management, 18 (1),##16-28. doi: 10.1057/s41260-016-0027-2.##[30] Dhaoui, A., Bourouis, S., &amp; Boyacioglu, M. A. (2013). The impact of investor psychology on stock markets: Evidence from france. Journal of Academic Research in Economics, 5, 35-59.##[31] Fama, E., &amp; French, K. (1993). The cross-section of expected stock returns. Journal of Finance, 47 (2), 427–465.##[32] Fama, E., &amp; French, K. (2015). A five-factor asset pricing model. Journal of Financial Economics, 116 (1), 1-22. doi:org/10.1016/j.jfineco.2014.10.010.##[33] Han, B., &amp; Kumar, A. (2013). Speculative retail trading and asset prices. Journal of Financial and Quantitative Analysis, 48 (2), 377-404. doi:org/10.1017/ S0022109013000100##[34] He, Z., He, L., &amp; Wen, F. (2019). Risk Compensation and Market Returns: The role of investor sentiment in the stock market. Emerging Markets Finance and Trade, 55 (3), 704-718. doi:org/10.1080/ 1540496X.2018.1460724##[35] Hydarpur, F., Tariverdi, Y., &amp; Mehrabi, M. (2013). Effect of sentimental tendency on stock returns. Journal of Financial Knowledge of Securities Analysis, 6 (1),##1-13. (In Persian).##[36] Jackson, A. (2003). The aggregate behavior of individual investors. London Business School, Working paper.##[37] Jones, C. (2001). A century of stock market liquidity and trading cost. Working Paper, Columbia University. doi: 10.2139/ ssrn.313681##[38] Kamyabi, Y., Rasekhi, S., &amp; Nasiri, Z. (2018). Investor sentiment index and capital asset pricing. Iranian Economic Journal: Macroeconomics, 12 (24), 149-171. doi: 10.22080/iejm.2018.1941. (In Persian).##[39] Kardan, B., Vadeei, M. H., &amp; ZolfagharArani, M. H. (2018). The role of behavioral tendencies (sentiment) of investors in valuation of the company. Journal of Accounting Knowledge, 8 (4), 7-35. doi:10.22103/jak.2017.10630.2454.##(In Persian).##[40] Keynes, J. M. (1936). The general theory of employment interest and money. London: McMillan.##[41] Khodaparast Shirazi, J., Ghasemi, M. R., &amp; Rahman Setayesh, A. (2011). Investigation of the effect of herding behavior in the formation of rational bubbles. Journal of Economic Studies,##1 (2), 27-51.(In Persian).##[42] Kim, T., &amp; Ha, A. (2010). Investor sentiment and market anomalies. 23rd Australasian Finance and Banking Conference, 1-24.##[43] Kim, M., &amp; Park, J. (2015). Individual investor sentiment and stock returns: Evidence from the Korean stock market. Emerging Markets Finance and Trade, 51, S1–S20. 10.1080/1540496X.2015.1062305##[44] Lao, L., Tian, Sh., &amp; Zhao, Q. (2018). Will order imbalances predict stock returns in extreme market situations? Evidence from China. Emerging Markets Finance and Trade, 54, 921-934. doi:org/10.1080/ 1540496X.2016.1278364##[45] Lee, C. M. C., Shleifer, A., &amp; Thaler, R. H. (1991). Investor sentiment and the closed-end fund puzzle. Journal of Finance, 46 (1), 75-109. doi:10.2307/ 2328690.##[46] Lintner, J. (1965). Security prices, risk and maximal gains from diversification. Journal of Finance,20, 587–615. doi:org/ 10.1111/j.1540-6261.1965. tb02930.x##[47] Mehrani, K., &amp; Madanchi Zaj, M. (2018). The test of the effect of investor trading behavior and investors’ sentiment on excess return in Tehran Stock Exchange. Journal of Financial Management Strategy, 6 (2), 140-167.doi: 10.22051/jfm.2018. 16581.1445. (In Persian).##[48] Mokhtar, A. (2016). An empirical examination of the behavioral CAPM. Journal of Finance and Investment Analysis, 5 (3), 15-57.##[49] Novy-Marx, R. (2013). The other side of value: The gross profitability premium. Journal of Financial Economics, 108, 1-28. doi:org/10.1016/j.jfineco.2013.01.003##[50] Park, J. W., &amp; Kim, M. H. (2014). Investment performance of individual investors: Evidence from the korean stock market. Emerging Markets Finance and Trade, 50, 194–211.##[51] Sarlak, K., Alipour Dervish, Z., &amp; Vakili Fard, H. R. (2012). The impact of sentimental decision investors and fundamental variables techniques on stock returns in Tehran Stock Exchange. Financial Knowledge of Securities Analysis, 5 (4), 1-12.(In Persian).##[52] Sharpe, W. J. (1964). Capital asset prices: A theory of market equilibrium under conditions of risk. Journal of Finance, 19, 425–442.##[53] Shleifer, A., &amp; Vishny, R. (1997). The limits of arbitrage, Journal of Finance, 52, 35-55. doi:org/10.1111/j.1540-6261.1997. tb03807.x##[54] Vakilifard, H., Foroughnejad, H., &amp; Khoshnood, M. (2013). Evaluation investor&#039;s behavior in Tehran Stock Exchange with analytic network process (ANP). Asset Management&amp; Financing, 1 (2), 19-34.(In Persian).##[55] Walther, B. R., &amp; Willis, R. H. (2013). Do investor expectations affect sell-side analysts’forecast bias and forecast accuracy? Review of Accounting Studies, 18, 207-227. doi: 10.1007/s11142-012-9204-9##[56] Wilder, J. W. (1978). New concepts in technical trading systems. United States of America, North Carolina: Hunter publishing company.##[57] Yang, C., &amp; Gao, B. (2014). The term structure of sentiment effect in stock index futures market. The North American Journal of Economics and Finance, 30, 171–182.##[58] Yang, C., &amp; Zhou, L. (2015). Investor trading behavior, investor sentiment and asset prices. North American Journal of Economics and Finance, 34, 42–62.doi: 10.1016/j.najef.2015.08.003##[59] Yang, C., &amp; Zhou, L. (2016). Individual stock crowded trades, individual stock investor sentiment and excess returns. North American Journal of Economics and Finance, 38, 39–53. doi: 10.1016/j.najef. 2016.06.001##[60] Ying, C. (1966). Stock Market Prices and Volume of Sales. Econometrica, 34, 676–686.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE></ARTICLES>
+</JOURNAL>
+
+				</XML>
+				

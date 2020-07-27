@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1396</year>
+	<month>8</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2017</year>
+	<month>11</month>
+	<day>1</day>
+</pubdate>
+<volume>11</volume>
+<number>2</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>مطالعۀ عددی عملکرد شمع‌های غیر‌متصل به کلاهک و شمع‌های معمولی</title_fa>
+	<title>A Numerical Study on Contact and Noncontact Pile Performance</title>
+	<subject_fa>ژئوتکنیک (مکانیک خاک و سنگ)</subject_fa>
+	<subject>Geotecnic</subject>
+	<content_type_fa>علمی پژوهشی</content_type_fa>
+	<content_type>s</content_type>
+	<abstract_fa>&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;در&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;این&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;پژوهش&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;با&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;استفاده&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;از&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;روش&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;اجزاء&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;محدود&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;و&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;به&#8204;کارگیری&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;نرم&amp;shy;افزار&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;LTR&quot;&gt;&lt;span style=&quot;font-size:9.0pt;&quot;&gt;ABAQUS/CAE V۶.۱۳-۱&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt; رفتار شمع&amp;shy;های متصل و غیرمتصل به کلاهک بررسی شده است و شرایط تنش، نشست و بار در خاک و شمع با یک&#8204;دیگر مقایسه شده است. در حالت معمول استفاده از شمع ضمن کاهش مقدار بار انتقالی به خاک سطحی، منجر به کاهش نشست می&amp;shy;شود. در حالی که در شمع&amp;shy;های متصل به کلاهک در صورت وارد کردن یک لایه تغییرشکل&#8204;پذیر بین دال و سرشمع توزیع فشار یک&#8204;نواخت&#8204;تری در قسمت زیرین دال ایجاد می&amp;shy;شود و عکس العمل&amp;shy;های تکیه&amp;shy;گاهی بین دال و سرشمع کاهش می&amp;shy;یابند. در این بررسی با لحاظ کردن خاک زیرین و لایه میانی به&#8204;ترتیب از نوع ماسه و ماسه سیلیسی وضعیت نشست و تنش در خاک&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;و مقدار بار شمع در حالت&amp;shy;های تک و گروه شمع، در دو حالت متصل و غیرمتصل به کلاهک بحث و بررسی شده است. نتایج نشان می&amp;shy;دهد با افزایش تعداد شمع، کاهش نشست در حالت متصل بیش&#8204;تر از حالت غیرمتصل است. هم&#8204;چنین اصطکاک جداری منفی در شمع&amp;shy;های غیرمتصل بر خلاف شمع&amp;shy;های متصل که در تمام طول شمع وجود دارد، در قسمتی از میانه طول شمع ایجاد می&#8204;شود که دلیل آن نابرابر بودن نشست دال، شمع و خاک سطحی است. نیروی سرشمع&amp;shy;ها نیز در حالت متصل بیش&#8204;تر از حالت غیرمتصل است که نشان&#8204;دهندۀ تأثیر مثبت اجرای لایۀ میانی در کاهش بار و مقطع طراحی کوچک&#8204;تر برای شمع است. به&#8204;طورکلی نتایج بررسی&amp;shy;ها نشان می&amp;shy;دهد &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;عملکرد شمع&amp;shy;های غیرمتصل به کلاهک از نظر نشست و باریری بهتر از نوع شمع&amp;shy;های متصل است. هم&#8204;چنین در این تحقیق بررسی پارامتری در سیستم شمع غیرمتصل برای بهینه&#8204;یابی ابعادی انجام شد که در نتیجه آن ضخامت ۱ متر برای لایه میانی، ضخامت ۶/۱ متر برای دال و قطر ۵/۰ متر و طول ۱۹ متر برای شمع به&#8204;صورت بهینه به&#8204;دست آمد.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;
+&amp;nbsp;</abstract_fa>
+	<abstract>&lt;strong&gt;&lt;a href=&quot;./files/site1/files/2.pdf&quot;&gt;./files/site1/files/2.pdf&lt;/a&gt;Extended Abstract&lt;/strong&gt;&lt;br&gt;
+(Paper pages175-200)&lt;br&gt;
+&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br&gt;
+In weak soils with low bearing capacity, the load transfer is done using piles. Therefore, by creating an interposed layer separating the pile from the raft, reactions between raft and pile head will be reduced and the load-bearing role of shallow soil will be more than contact pile situation. Normally, the pile head and shallow soil have a settlement equal to the raft. Thus, the relative settlement of pile and soil in pile head is equal to zero and at the bottom is high and the body friction mobilizes upward. In addition, a portion of load is tolerated by shallow soil and the other portion is tolerated by the pile head, which would be transferred to deeper soil layers. In noncontact state, with the formation of a hard soil layer on which the raft is located, soil mechanical parameters will be improved; while in contact state, the settlement will be decreased by reducing the amount of transferred load to the shallow soil. The transferred load to the shallow soil increases vertical and horizontal stress around piles, so bearing capacity of piles is increased.&lt;br&gt;
+&lt;strong&gt;Methodology&lt;/strong&gt;&lt;br&gt;
+In this study, a parametric study has been performed concerning contact and noncontact piles using finite element software namely, ABAQUS/CAE software version 6.13.1 and the obtained results were compared (with what? The sentence is incomplete). Thus, simulations are &lt;s&gt;is&lt;/s&gt; done for states of 0, 1, 4 and 9 piles for each of the contact and noncontact piles (total of 8 simulations). In the present research two models were taken to investigate the optimum mesh sizes, 12 models for parametric studies on parameters of piles&amp;rsquo; length, piles&amp;rsquo; diameter, thickness of the raft and interposed layer and one model for verification study. Models in both contact and noncontact have been considered with a one meter interposed layer. Raft width and thickness were selected 7.5 and 1.6 m, respectively. Width and depth of the soil mass used in the model were 32 and 26 m, respectively, and the distance between the bottom of the pile and the soil mass was 13 m. In all cases, the diameter of piles was 0.5 m and distance between piles were 5 and 2.5 m in 4 and 9 states, respectively. The geotechnical parameters and model dimensions used, were selected according to the Fioravante &amp; Girettis (2010) [1]. Sand and silica-sand with the defined properties were used for the soil mass and the interposed layer, respectively. Since Drucker-Prager criteria has better ability to express the behavior of coarse-grained soils, this criterion was used in the modeling [2]. The purpose of this study is to investigate the influence of interposed layer on bearing capacity and settlement of pile. Hence, because of simplifying the process of modeling, parameters of main soil and interposed layer are mostly similar. Piles and raft are made of concrete with an elasticity modulus of 21 GPa, Poisson's ratio of 0.2 and density of 2300 kg/m&lt;sup&gt;3&lt;/sup&gt;. The crack growth analysis with the compressive stress-plastic strain was used to express the fracture behavior of concrete [2, 3 &amp; 4]. In the present study, frictional and vertical contacts between surfaces were considered for conducting interactions between different materials.&lt;a name=&quot;OLE_LINK21&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK20&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK19&quot;&gt; For frictional contact, the penalty formulation with the fixed friction coefficient of tan&amp;delta; was used where &amp;delta; is the angle of friction. The penalty formulations and hard contact were applied between two surfaces for the normal contact. Interactions were considered in the modeling including raft-soil mass, raft-interposed layer, pile-raft, interposed layer-soil mass, interposed layer-pile and the soil-pile [5 &amp; 6]. &lt;/a&gt;Coefficient of soil lateral pressure used in this study corresponds to k&lt;sub&gt;0&lt;/sub&gt;=0.65 which is introduced in many geotechnical conditions [7]. A uniform distributed vertical load 500 kPa was applied on the raft. For getting results in every portion of loading time, this amount is applied in order of 5 kPa in each time interval. To accelerate the process of analysis and because of the symmetry of all models in two directions of X and Y, the quarter model technique was used, so that movements in the direction perpendicular to the sheet and rotation around perpendicular axes on the sheet were not allowed on the border of symmetry. The boundaries of the models due to the enough distance from the piles were considered in a way that lateral displacement and rotation around the vertical axis was not allowed. Furthermore, the bottom of the soil mass was considered as complete fix due to the enough distance from the pile foot.&lt;br&gt;
+&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;br&gt;
+In this research, a numerical &amp;ndash; parametric study is performed on special kind of piles named noncontact piles and results are compared with contact piles. Results of this study can be summarized as follows:&lt;br&gt;
+1. By increasing the number of piles from 1 to 9, the settlement reduced more in a noncontact state showing more effectiveness of implementing 9 contactpiles and thus requiring more piles in this case.&lt;br&gt;
+2. Soil surface stress differences in noncontacts states from 4 to 9 piles was less than contact state (approximately 1/7) indicating that more piles is needed to conduct the contact state.&lt;br&gt;
+3. Stress changes in the soil under the pile in noncontact state by adding piles from 1 to 4 was higher than adding piles from 4 to 9 indicating the suitability of using 4 noncontact piles; while, in the contact state, the stress changes in the soil under the pile in both cases from 1 to 4 piles and from 4 to 9 piles was noteworthy showing the necessity of using the ninth pile.&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;br&gt;
+4. Unlike the states of 4 and 9 piles, the negative friction in noncontact state and 1 pile was seen along the piles, which can be due to the fewer piles and the effect of interposed layer density as well as soil mass at greater depthsbecause of lesser effect of piles in load-bearing.&lt;br&gt;
+5. The ratio of heads load in the contact to the noncontact piles was about 2.5 to 4 reflecting the positive impact of using interposed layer on load reduction and smaller cross-layer design for piles. In addition, the ratio of heads load in the contact to the noncontact piles was higher for 4 piles than 9 piles that represented the suitability of using 4 piles.&lt;br&gt;
+6. Based on the results of geometric parametric studies it is found that:&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;br&gt;
+(A) By resizing the elements from 0.25 to 0.5 m, the results had not changed and only time of analysis was increased.&lt;br&gt;
+(B) Among three values of 0.5, 1 and 1.5 m for interposed layer thicknesses, the thickness of 1 m was enough and had a good effect on the stress distribution and involving shallow soil in bearing vertical stress.&lt;br&gt;
+(C) The raft thickness of 1.6 m was appropriate so that with this thickness, the resultant effect of increasing vertical loads (raft weight) and increased rigidity due to increased raft thickness caused the stress and settlements remain in a reasonable range.&lt;br&gt;
+(D) Due to the increased friction by increasing in diameter, the optimal diameter of 0.5 m was achieved for piles which reduced the settlement by receiving more load.&lt;br&gt;
+(E) Among three pile lengths of 10, 19 and 25 m, the optimal length was 19 m; so that by further increase in the length, stresses and settlements were not noticeably changed.In total, noncontact piles had better performance compared to contact piles in similar conditions.&lt;br&gt;
+&lt;strong&gt;Reference&lt;/strong&gt;&lt;br&gt;
+1. Fioravante V., Giretti D., &amp;quot;Contact versus noncontact piled raft foundations&amp;quot;, Can. Geotech. J. 47 (2010) 1271-1287.&lt;br&gt;
+2. Saba H., &amp;quot;Verification of nonlinear condition of anchored walls in various loading&amp;quot;, Thesis document of Amirkabir University of Tehran, Iran (2003).&lt;br&gt;
+3. Fioravante V., &amp;quot;Load transfer from a raft to a pile with an interposed layer&amp;quot;, Geotechnique 61, No. 2 (2011) 121-132.&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;br&gt;
+4. Dastani H., Shariati M., &amp;quot;Numerical and experimental analysis of controlling of crack propagation route in a plane under cyclic uniaxial loading by creating openness&amp;quot;, Thesis document of Shahrood Industrial University of Shahrood, Iran (2014).&lt;br&gt;
+5. Randolph M. F., Wroth C. P., &amp;quot;Application of the failure state in undrained simple shear to the shaft capacity of driven piles&amp;quot;, Geotechnique, Vol. 31, 1 (1981) 143-157.&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;br&gt;
+6. Poulos H. G., Small J. C., Ta L. D., Sinha J., Chen L., &amp;quot;Comparison of some methods for analysis of piled rafts&amp;quot;, Proc. 14th Int. Conf. Soil Mech. Found. Engng, Hamburg, Balkema, Rotterdam, Vol. 2 (1997) 1119-1124.&lt;br&gt;
+7. mottaghi A., &amp;quot;3D static and dynamic analysis of pile group with considering soil-pile interaction&amp;quot;, 6th National Congress of Civil Engineering, Iran, Semnan (2012).</abstract>
+	<keyword_fa>شمع­ های غیرمتصل, شمع ­های متصل, نشست, باربری شمع, ABAQUS</keyword_fa>
+	<keyword>Noncontact piles, contact piles, settlement, pile bearing, ABAQUS/CAE</keyword>
+	<start_page>175</start_page>
+	<end_page>200</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-1395-3&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name></first_name>
+	<middle_name></middle_name>
+	<last_name></last_name>
+	<suffix></suffix>
+	<first_name_fa>مهدی</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>خداپرست</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>khodaparast@qom.ac.ir; mahdikhodaparast@yahoo.com</email>
+	<code>10031947532846001717</code>
+	<orcid>10031947532846001717</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه قم</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name></first_name>
+	<middle_name></middle_name>
+	<last_name></last_name>
+	<suffix></suffix>
+	<first_name_fa>علی محمد</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>رجبی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>amrajabi@ymail.com; amrajabi@ut.ac.ir</email>
+	<code>10031947532846001718</code>
+	<orcid>10031947532846001718</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه تهران</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name></first_name>
+	<middle_name></middle_name>
+	<last_name></last_name>
+	<suffix></suffix>
+	<first_name_fa>مسعود</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>شکری</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>Geotechnic83@gmail.com</email>
+	<code>10031947532846001719</code>
+	<orcid>10031947532846001719</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه قم</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

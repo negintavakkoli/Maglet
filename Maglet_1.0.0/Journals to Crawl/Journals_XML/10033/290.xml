@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-25T02:26:35Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22048">http://saffron.torbath.ac.ir/?_action=export&amp;rf=summon&amp;issue=2424</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-05-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی خصوصیات بنه‌های دختری زعفران (.<i>Crocus sativus</i> L) در پاسخ به تاریخ کاشت، مدیریت آبیاری و کاشت گیاهان همراه</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علیرضا</given_name>
+												<surname>کوچکی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>پرویز</given_name>
+												<surname>رضوانی مقدم</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حمید رضا</given_name>
+												<surname>فلاحی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>مهسا</given_name>
+												<surname>اقحوانی شجری</surname>
+											</person_name></contributors>
+									<abstract>انتخاب و تهیه بنة مناسب از عوامل مهم کسب عملکرد مطلوب در زراعت زعفران می‌باشد. به‌منظور مطالعه اثر برخی فاکتورهای زراعی بر رشد بنه‌های دختری زعفران، آزمایشی در فاصله سال‌های 90-1388 به‌صورت کرت‌های دو بار خردشده بر مبنای طرح پای‌ بلوک‌های کامل تصادفی در مزرعه تحقیقاتی دانشکده کشاورزی دانشگاه فردوسی مشهد اجرا شد. فاکتورهای آزمایشی شامل تاریخ کاشت (اول خرداد، اول مرداد و اول مهرماه سال 1388)، مدیریت آبیاری (آبیاری و عدم انجام آبیاری پس از هر تاریخ کاشت و تکرار آن در سال دوم به‌عنوان آبیاری تأخیری بهاره، آبیاری تابستانه و آبیاری زودهنگام پاییزه) و کاربرد گیاهان همراه در مزرعه زعفران [شبدر ایرانی (&lt;em&gt;Trifolium resupinatum&lt;/em&gt;)، خلر (&lt;em&gt;Lathyrus sativus&lt;/em&gt;) و شاهد] بودند. در پایان چرخة دوم رشد زعفران (بهار سال 1390) نمونه‌برداری از بنه‌های دختری صورت گرفت و پاسخ رشدی آن‌ها به فاکتورهای آزمایشی، مورد بررسی قرار گرفت. نتایج نشان داد که با تأخیر در کاشت از خرداد به مهرماه، تعداد بنه‌های دختری و تعداد ریشه‌های انقباضی در هر کلون به ترتیب 25 و 33 درصد افزایش یافت. با این وجود، مقادیر وزن کل بنه‌های دختری در هر کلون، تعداد جوانه گل‌دهنده در هر بنه، تعداد کل جوانه‌ها در هر بنه و نیز وزن و قطر هر بنه دختری در تاریخ کاشت خردادماه به ترتیب 21، 70، 40، 32 و 37 درصد بیشتر از تاریخ کاشت مهرماه بود. تیمار آبیاری، موجب افزایش 12 درصدی تعداد بنه‌های دختری و ریشه‌های انقباضی در هر کلون و کاهش 19 درصدی تعداد جوانه گل‌دهنده، کاهش 11 درصدی تعداد کل جوانه‌ها و نیز کاهش 19 درصدی وزن تک بنه و کاهش 8 درصدی قطر هر بنة دختری شد. کاربرد گیاهان همراه نیز بر برخی از خصوصیات زراعی بنه‌های دختری زعفران مانند وزن کل بنه‌های دختری موجود در هر کلون (8 درصد)، نسبت وزن بنه به پوشال (14 درصد)، تعداد جوانه‌ های گل‌دهنده (10 درصد) و وزن متوسط هر بنة دختری (10 درصد) تأثیر مثبت داشت. در مجموع، کاشت بنه‌های زعفران در طول دوره استراحت حقیقی، عدم انجام آبیاری پس از کاشت، پرهیز از آبیاری تابستانه در اول مردادماه و کاربرد گیاهان همراه، متوسط وزن بنه‌های دختری تولیدشده به‌عنوان مهم‌ترین عامل اثرگذار بر عملکرد زعفران را افزایش داد.</abstract>
+									<keywords>
+									
+											<keyword>آبیاری تابستانه</keyword>
+											<keyword>جوانه گل‌دهنده</keyword>
+											<keyword>خلر</keyword>
+											<keyword>خواب حقیقی</keyword>
+											<keyword>شبدر ایرانی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>05</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>3</first_page>
+										<last_page>18</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_11895_48fdccc3fb693e6b25401231a4d93e6c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-05-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر تراکم کاشت بر عملکرد گل و بنه دو نوع زعفران (.<i>Crocus sativus</i> L) اسپانیایی و ایرانی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>رامین</given_name>
+												<surname>نظریان</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسین</given_name>
+												<surname>صحابی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حسن</given_name>
+												<surname>فیضی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>احمد</given_name>
+												<surname>احمدیان</surname>
+											</person_name></contributors>
+									<abstract>جهت بررسی اثر تراکم کاشت بر عملکرد گل و بنه دو نوع زعفران ((&lt;em&gt;Crocus sativus &lt;/em&gt;L. اسپانیایی و ایرانی آزمایشی طی دو سال زراعی (94-93، 93-92) در مزرعه تحقیقاتی دانشکده کشاورزی دانشگاه فردوسی مشهد انجام شد. آزمایش به‌صورت فاکتوریل و در قالب بلوک‌های کامل تصادفی با سه تکرار انجام گرفت. فاکتور A نوع بنه (ایرانی و اسپانیایی) و فاکتور D تراکم کاشت (40، 48 و 60 بنه در مترمربع) در نظر گرفته شد. نتایج آزمایش نشان داد که اثرات تراکم‌های مختلف کاشت و نوع بنه بر تعداد گل، وزن‌تر گل، وزن خشک (کلاله + خامه) و تعداد بنه‌های دختری تولیدشده معنی‌دار بود (P&lt;0.01). درحالی‌که اثرات نوع بنه بر وزن‌تر و خشک بنه‌های دختری تولیدشده معنی‌دار نبود. بیشترین تعداد گل (25/30 در مترمربع)، وزن‌تر گل (125/15 گرم در مترمربع) و وزن خشک کلاله + خامه (16/0 گرم در مترمربع) مربوط به تراکم کاشت 48 بنه در مترمربع (d2) بود. همچنین بیشترین تعداد گل (21/27)، وزن‌تر گل (58/13 گرم در مترمربع) و وزن خشک گل (144/0 گرم در مترمربع) را بنه‌های ایرانی تولید کرد. درحالی‌که بیشترین تعداد بنه‌های دختری (83/222 بنه در مترمربع) با وزن‌‌تر (92/694 گرم در مترمربع) و وزن خشک (32/270 گرم در مترمربع) متعلق به نوع اسپانیایی بود. اثر سال نیز بر شاخص‌های گل و بنه زعفران معنی‌دار بود به‌طوری‌که بیشترین مقادیر در سال دوم آزمایش حاصل شد&lt;strong&gt;.&lt;/strong&gt; P</abstract>
+									<keywords>
+									
+											<keyword>بنه دختری</keyword>
+											<keyword>تراکم بنه</keyword>
+											<keyword>عملکرد زعفران</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>05</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>19</first_page>
+										<last_page>27</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_11893_e07d922ff0878e0c7f2ee7aae4da8d25.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-05-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر مقادیر مختلف تراکم و وزن بنه مادری بر عملکرد بنه و گل زعفران (.<i>Crocus sativus</i> L) در شرایط اقلیمی مشهد</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حمید رضا</given_name>
+												<surname>توکلی کاخکی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>مختاریان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد حسین</given_name>
+												<surname>بیناباجی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>حسن</given_name>
+												<surname>حمیدی</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>رامین</given_name>
+												<surname>اسمی</surname>
+											</person_name></contributors>
+									<abstract> به‌منظور بررسی اثر تراکم و وزن بنه مادری بر ویژگی‌های زراعی و رفتار بنه‌های دختری زعفران آزمایشی طی سال‌های 93-1389 به‌صورت اسپلیت پلات در زمان در قالب بلوک‌های کامل تصادفی با 12 تیمار و سه تکرار در مزرعه تحقیقاتی مرکز تحقیقات کشاورزی و منابع طبیعی خراسان رضوی به اجرا درآمد. عامل‌های مورد بررسی در آزمایش شامل سه سطح تراکم بنه (40،،80 و 160 بنه در مترمربع) و چهار سطح وزن اولیه بنه‌های مادری شامل (3 ≥، 6-3، 9-6 و 12-9 گرم) بودند که به‌صورت فاکتوریل در کرت‌های اصلی و عامل زمان در کرت‌های فرعی قرار گرفتند. نتایج حاصل از تجزیه واریانس نشان داد که اثر تراکم، وزن بنه مادری و سال بر وزن بنه‌های دختری، معنی‌دار بود. اما اثر متقابل تراکم × وزن بنه مادری و همچنین اثر متقابل تراکم × وزن بنه مادری × سال برای اکثر صفات اندازه‌گیری شده معنی‌دار نبود. نتایج مقایسه میانگین اثر تراکم × وزن بنه مادی بر تعداد بنه‌های دختری نشان داد که در بین تیمارهای مورد آزمایش استفاده از بنه‌های مادری 12-9 گرم با تراکم 160 بنه در مترمربع بیشترین تولید تعداد کل بنه‌های دختری (771 در مترمربع) در واحد سطح را به همراه داشت. بنه‌های مادری با وزن بالاتر، تعداد بنه‌های دختری بیشتری در گروه‌های وزنی مختلف تولید نموده‌اند. همچنین نتایج نشان داد که بنه‌های مادری در گروه‌های وزنی کمتر قادر به تولید بنه‌های دختری با وزن بیشتر از وزن بنه مادری اولیه بودند. با افزایش تراکم و وزن بنه مادری تعداد گل، وزن گل و عملکرد کلاله خشک به‌طور معنی‌داری افزایش یافت، به‌طوری‌که بیشترین وزن خشک کلاله زعفران در واحد سطح (65/0 گرم بر مترمربع) از بنه‌های مادری با وزن 12-9 گرم به دست آمد.</abstract>
+									<keywords>
+									
+											<keyword>بنه دختری</keyword>
+											<keyword>تعداد بنه</keyword>
+											<keyword>وزن بنه</keyword>
+											<keyword>وزن خشک کلاله</keyword>
+											<keyword>وزن گل</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>05</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>29</first_page>
+										<last_page>40</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_11894_0e1a3eec74e5e36c02537b6ca1d4ec3d.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-05-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی دانش بومی زعفران‌کاران پیرامون مسائل مرتبط با آبیاری (مطالعه موردی: خراسان جنوبی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حسین</given_name>
+												<surname>خزیمه نژاد</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>همایون</given_name>
+												<surname>فرهنگ فر</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد علی</given_name>
+												<surname>بهدانی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>مجتبی</given_name>
+												<surname>حسن پور</surname>
+											</person_name></contributors>
+									<abstract>زعفران‌کاران استان خراسان جنوبی اگرچه زحمت زیادی برای تولید هرچه بیشتر این محصول، متحمل می‌شوند، اما به‌اندازه مطلوب، برداشت ندارند. این امر می‌تواند ناشی از عدم اطلاعات کافی آنان در رابطه با کشت علمی گیاه زعفران باشد. در این تحقیق، هدف آن است که با ارزیابی دانش بومی کشاورزان منطقه در مورد مسائل مرتبط با آبیاری زعفران، نقاط ضعف و قوت آنان مورد بررسی قرار گیرد تا بتوان از طریق انتقال یافته‌های این پژوهش به متولیان و کشاورزان، قدم‌های مؤثری در جهت افزایش عملکرد، برداشت. برای بررسی این موضوع، پرسشنامه‌ای محقق‌ ساخت (شامل 11 پرسش در مورد مسائل مرتبط با آبیاری زعفران و 14 پرسش پیرامون اطلاعات عمومی و سؤالات ترویجی) به تعداد 235 عدد در بین جامعه آماری زعفران‌کاران استان خراسان جنوبی به‌صورت تصادفی (برای اینکه نمونه، نماینده جمعیت تحت مطالعه باشد) توزیع گردید. متغیر وابسته، نمره کل آزمودنی‌ها برای پاسخ صحیح آن‌ها بود. مقایسه آماری بین میانگین سطوح مختلف هر یک از متغیرهای مستقل (با اثر معنی‌دار) با استفاده از نرم‌افزار SAS و روش توکی-کرامر انجام شد. کسانی که در کلاس‌های ترویجی شرکت نموده بودند، افرادی که بومی استان خراسان جنوبی بودند و همچنین کسانی که محصولات خود را بیمه کرده بودند در سطح معنی‌دار 1 درصد، به سؤالات بیشتری، پاسخ صحیح دادند. افرادی که در روستا زندگی می‌کردند در سطح معنی‌دار 5 درصد، به سؤالات بیشتری، پاسخ صحیح دادند. با توجه به نتایج تحقیق حاضر، افزایش سطح دانش کشاورزان منطقه از طریق برنامه‌ریزی‌های کوتاه‌مدت و بلندمدت، ضروری به‌نظر می‌رسد.</abstract>
+									<keywords>
+									
+											<keyword>آبیاری</keyword>
+											<keyword>تحقیق مشاهده‌ای</keyword>
+											<keyword>گیاه نقدینه</keyword>
+											<keyword>عملکرد</keyword>
+											<keyword>سطح آگاهی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>05</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>41</first_page>
+										<last_page>50</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_11896_788e02f1d861cec544f2259d22ebf7bd.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-05-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>برآورد کارایی سود زراعت زعفران در شهرستان تربت‌حیدریه</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>عباس</given_name>
+												<surname>جلالی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رضا</given_name>
+												<surname>اسفنجاری کناری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سمیه</given_name>
+												<surname>شیرزادی لسکوکلایه</surname>
+											</person_name></contributors>
+									<abstract>در مطالعه حاضر کارایی سود زراعت زعفران و عوامل مؤثر بر آن با استفاده از رهیافت تابع تولید مرزی تصادفی و تخمین همزمان مدل سود رفتاری در مزارع زعفران شهرستان تربت‌حیدریه مورد تجزیه ‌و تحلیل قرار گرفت. برای انجام تحقیق از اطلاعات 81 کشاورز در سال 1393 که به‌صورت تصادفی مورد مصاحبه قرارگرفته‌اند، استفاده شد. نتایج نشان داد که میانگین کارایی سود مزارع زعفران برابر با 4/61 درصد می‌باشد و 3/51 درصد از مزارع دارای کارایی سود پایین‌تر از 50 درصد هستند. بر اساس یافته‌های حاصل از تابع سود مرزی هزینه سموم دارای اثر منفی بر میزان سود واحدها بوده است. هزینه آب، هزینه ماشین‌آلات، سابقه کار، اندازه واحد زراعی و شرکت در کلاس‌های آموزشی- ترویجی دارای اثر مثبت و معنی‌داری بر کارایی سود می‌باشند. بر اساس نتایج مطالعه، فراهم کردن شرایط لازم جهت دسترسی آسان‌تر و ارزان‌تر کشاورزان به تجهیزات مدرن و همچنین ترغیب کشاورزان به تخصیص بهینه نهاده‌ها و کاهش هزینه‌ها گامی مؤثر در جهت افزایش سودآوری کشاورزان خواهد بود.   </abstract>
+									<keywords>
+									
+											<keyword>سودآوری</keyword>
+											<keyword>سود رفتاری</keyword>
+											<keyword>مدل مرز تصادفی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>05</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>51</first_page>
+										<last_page>62</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_11899_158f5cf6d2283ef7f082faa44b4e1d5e.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-05-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی اثرات اقتصادی اجتماعی کشت زعفران بر خانوارهای روستایی با تأکید بر کشاورزی پایدار (نمونه مورد مطالعه: دهستان بالاولایت، شهرستان باخرز)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>خدیجه</given_name>
+												<surname>بوذرجمهری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>فهیمه</given_name>
+												<surname>شیخ احمدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>خدیجه</given_name>
+												<surname>جوانی</surname>
+											</person_name></contributors>
+									<abstract>پژوهش حاضر با هدف بررسی اثرات اجتماعی، اقتصادی زعفران بر خانوارهای روستایی با روش توصیفی- تحلیلی و توسط مطالعات میدانی و کتابخانه‌ای صورت گرفته است. جامعه آماری موردنظر تمام خانوارهای 13 روستای دهستان بالاولایت شهرستان باخرز (2908N=) می‌باشد که از این میان 272 خانوار به صورت تصادفی انتخاب شده‌اند. پرسشنامه‌ای جهت گردآوری اطلاعات تنظیم شد و بر اساس جمعیت روستاهای دهستان در روستاها توزیع شد. روایی پرسشنامه توسط اساتید گروه جغرافیا و برنامه‌ریزی روستایی و ترویج و آموزش کشاورزی مورد بررسی قرار گرفت. ضریب اعتبار پرسشنامه نیز توسط نرم‌افزار SPSS برابر با 81/0 بدست آمد. نتایج تحقیق حاکی از آن است که شرایط زیست‌محیطی منطقه برای کشت زعفران مناسب می‌باشد، زیرا سطح معنی‌داری هر سه متغیر در نظر گرفته‌شده «شرایط کم‌آبی منطقه و نیاز کم زعفران به آب»، «کیفیت مناسب خاک برای کشت زعفران»، «فصل مناسب برداشت» برابر با 000/0 که از 05/0 کمتر است. همچنین نتیجه آزمون T-Test نشان می‌دهدکه سطح معنی‌داری برای شاخص‌های انسانی، آموزش و ترویج کشت زعفران و داشتن تجربه و دانش بومی زعفران‌کاری برابر با 000/0 بدست آمده است. در ادامه اثرات مثبت اجتماعی- اقتصادی کشت زعفران بر خانوارهای روستایی به اثبات رسیده است به‌طوری‌که درآمد زعفران در مقایسه با سایر محصولات کشاورزی خانوار با سطح معنی‌داری برابر با 000/0 و میانگین بالای 3 (38/3) تأیید شده است.</abstract>
+									<keywords>
+									
+											<keyword>اثرات اجتماعی</keyword>
+											<keyword>اثرات اقتصادی</keyword>
+											<keyword>پایداری کشاورزی</keyword>
+											<keyword>زعفران</keyword>
+											<keyword>شهرستان باخرز</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>05</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>63</first_page>
+										<last_page>73</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_11902_1922f6711ab590d6ae33847bbb1a10a6.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

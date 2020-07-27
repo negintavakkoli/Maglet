@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+		<JOURNAL>
+<YEAR>1387</YEAR>
+<VOL>1</VOL>
+<NO>2</NO>
+<MOSALSAL>0</MOSALSAL>
+<PAGE_NO>101</PAGE_NO>
+<ARTICLES>
+
+
+				<ARTICLE>
+				<TitleF>ارزیابی خصوصیات ژئومکانیکی توده‌ سنگ مسیر تونل انتقال سد درونگر جهت طراحی سیستم نگهدارنده</TitleF>
+				<TitleE>Assessment of geomechanical properties of rock masses for preliminary support design of diversion tunnel at the Daroongar dam site</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>در این مقاله پارامترهای ژئومکانیکی توده های سنگی و تمهیدات سیستم نگهدارنده مقدماتی برای تونل انتقال  سد درونگر، بر اساس دو روش تجربی و عددی مورد بررسی قرار گرفته است. در روش تجربی از سه سیستم طبقه بندی RMR (طبقه بندی ژئومکانیکی توده سنگ)، Q (شاخص کیفی تونل بری) و GSI (اندیس مقاومت زمین شناسی) به منظور برآورد کیفیت توده سنگهای در برگیرنده تونل انتقال و برآورد سیستم نگهدارنده مقدماتی استفاده شده است. همچنین در روش عددی از روش اجزای مشخص) نرم افزار (UDEC  استفاده شده است. آزمایش های مقاومت فشاری تک محوره و سه محوره سنگ بکر, مدول الاستیسیته, وزن مخصوص, تخلخل و درصد جذب آب بر روی نمونه های سنگی بدست آمده از حفاری, در آزمایشگاه مکانیک سنگ انجام شد. همچنین به منظور تخمین پارامترهای مقاومتی توده سنگی (مانند مقاومت فشاری تک محوره توده سنگ، مقاومت کششی، مدول الاستیسیته توده سنگ، ثابت های هوک – بران و پارامترهای مقاومتی موهر-کلمب) از معیار تجربی هوک - بران استفاده شده است. در نهایت اینکه با استفاده از دو روش تجربی و عددی بر میزان دقت و اعتمادپذیری طراحی تونل افزوده شده است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>  This paper presents the geomechanical parameters and the results of preliminary support design of the Daroongar diversion tunnel using some empirical and numerical methods. The rock mass rating (RMR), geological strength index (GSI) and rock mass quality (Q) systems were used for estimation of quality of rock masses properties for preliminary support design of tunnel. Also distinct element method (UDEC program) was used for stability analysis of the tunnel. Samples obtained from drilling were tested in the laboratory, included of uniaxial strength (UCS), deformation parameters, unit weight and porosity. In order to estimate strength parameters of rock mass (compressive strength of rock masses, tensile strength of rock masses, deformation modulus and Hoek-Brown constants) Hoek-Brown failure criterion was used.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>1</FPAGE>
+						<TPAGE>14</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محمد</Name>
+						<MidName></MidName>		
+						<Family>غفوری</Family>
+						<NameE>Mohammad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Ghafoori</FamilyE>
+						<Organizations>
+							<Organization>1-       استاد، گروه زمین شناسی دانشکده علوم دانشگاه فردوسی مشهد</Organization>
+						</Organizations>
+						<Universities>
+							<University>1-       استاد،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>ghafoori@ferdowsi.um.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>غلامرضا</Name>
+						<MidName></MidName>		
+						<Family>لشکری پور</Family>
+						<NameE>Gholamreza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Lashkaripour</FamilyE>
+						<Organizations>
+							<Organization>   استاد، گروه زمین شناسی دانشکده علوم دانشگاه فردوسی مشهد</Organization>
+						</Organizations>
+						<Universities>
+							<University>   استاد، گروه زمین شناسی دانشکده</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>lashkaripour@um.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>صادق</Name>
+						<MidName></MidName>		
+						<Family>طریق ازلی</Family>
+						<NameE>Sadegh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Tarigh azali</FamilyE>
+						<Organizations>
+							<Organization>   کارشناسی ارشد زمین‌شناسی مهندسی، گروه زمین شناسی دانشکده علوم دانشگاه فردوسی مشهد</Organization>
+						</Organizations>
+						<Universities>
+							<University>   کارشناسی ارشد زمین‌شناسی مهندسی،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>sadeghazali@outlook.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>ژئومکانیک</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>توده سنگ</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تونل انتقال آب</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>اجزای مشخص</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مقاومت</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>Barton, N.  (2002). Some new Q-value correlations to assist in site characterization and tunnel design, Int. J. Rock Mech. Min. Sci. 39, pp. 185–216.##Barton, N.R., Lien, R. and Lunde, J. (1974). Engineering classification of rock masses for the design of tunnel support. Rock Mech. 6, 189-236.##Bieniawski, Z.T. (1989). Engineering rock mass classifications, Wiley, New York, 251p.##Cai, M., Kaiser, P.K., Uno, H., Tasaka, Y., Minami, M., (2004). Estimation of rock mass deformation modulus and strength of jointed hard rock masses using the GSI system. Int. J. Rock Mech. Min. Sci., 41, 3-19##Deere, D.U. and Miller, R.P. (1966). Engineering classification and index properties of rock. Technical Report No. AFNL-TR-65-116. Albuquerque, NM: Air Force Weapons Laboratory.##Diederichs, M.S., Hoek, E. (1989). DIPS 2.2. Advanced Version Computer Programme, Rock Engineering Group, Department of Civil Engineering, University of Toronto.##Grimstad, E. and Barton, N. (1993). Updating the Q-System for NMT. Proc. Int. Symp. on Sprayed Concrete - modern Use of Wet Mix Sprayed Concrete for Underground Support, Fagernes, (eds Kompen, Opsahl and Berg). Oslo: Norwegian Concrete Assn.##Gurocak, Z., Solanki, P. and Zaman, M. M. (2007). Empirical and numerical analyses of support requirements for a diversion tunnel at the Boztepe dam site, eastern Turkey, Engineering Geology, 91, pp. 194–208##Hoek, E. and Diederichs, M.S., (2006). Empirical estimation of rock mass modulus, Int. J. Rock Mech. Min. Sci. 43,  pp. 203–215.##Hoek, E., (2000). Rock Engineering. Course Notes by Evert Hoek. Balkema, Rotterdam. 313 p.##Hoek, E., Carranza-Torres, C.T., and Corkum, B. (2002). Hoek-Brown failure criterion –2002 edition. Proc. North American Rock Mechanics Society Meeting in Toronto.##Hoek, E., Kaiser, P.K. and Bawden, W.F. (1995). Support of Underground Excavations in Hard Rock. Balkema, Rotterdam, 215p.##Hoek, E., Marinos, P. and Benissi, M. (1998). Applicability of the Geological Strength Index (GSI) classification for very weak and sheared rock masses. The case of the Athens Schist Formation. Bull.  Engg.  Geol.  Env.  57, 151-160.##ISRM (1981). Suggested Methods for the Quantitative Description of Discontinuities in Rock Masses. Rock Characterization, Testing and Monitoring, London. Pergamon, Oxford, 221 p.##ITASCA. (2000). Universal distinct element code, Version 3.1, User&#039;s manual. ITASCA Consulting Group, Inc., USA.##Ramamurthy, T. (2004). A geo-engineering classification for rocks and rock masses, Int. J. Rock Mech. Min. Sci. 41, pp. 89–101.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>ارزیابی ژئومکانیکی واحدهای رسوبی سازند آغاجاری در پهنه زاگرس</TitleF>
+				<TitleE>Geomechanical evaluation of sedimentary rocks units of  Aghajari formation in Zagros zone</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>رسوبات جوان سازند آغاجاری در جنوب و جنوب‌غربی ایران دارای بیرون‌زدگی‌های گسترده‌ای می‌باشند. به دلیل این گستردگی، ساختگاه تعداد زیادی از پروژه‌های عمرانی در این سازند واقع شده‌اند. بنابراین آشنایی با ویژگی‌های سنگ‌‌شناسی و پارامترهای ژئومکانیکی واحدهای مختلف این سازند در پهنة زاگرس می‌تواند جهت تهیه یک بانک اطلاعات ژئوتکنیکی، مفید واقع شود. این بانک اطلاعاتی در مطالعات اولیه بسیاری از پروژه‌های مهندسی و تهیه نقشه‌های زمین‌شناسی مهندسی این پهنه، مورد استفاده خواهد بود. در این بررسی ضمن تفکیک این سازند به سه بخش شمال‌غربی، مرکزی و جنوب‌شرقی در پهنة زاگرس، پارامترهای ژئومکانیکی آنها بر اساس داده‌های بدست آمده از آزمون‌های آزمایشگاهی مکانیک سنگ و همچنین اطلاعات حاصل از پروژه‌های اجرا شده در این پهنه، مورد مقایسه و ارزیابی قرار گرفته است. به علاوه ضرایب تبدیل مقاومتی بر اساس نتایج آزمون‌های ساده و ارزان قیمت ارائه شده است. پایداری هر یک از واحدهای سنگی این سازند در برابر فرآیندهای هوازدگی با استفاده از آزمایش دوام‌پذیری نیز مورد ارزیابی قرار گرفته است. در آزمایش‌های سه‌محوری ضمن تعیین سطوح مختلف تنش اصلی در هنگام شکست، پارامترهای φ، c، mi و ciσ محاسبه و شرایط انتقال از رفتار شکننده به شکل‌پذیر نیز مورد ارزیابی قرار گرفته است. ارزیابی اجمالی نتایج بدست آمده نشان می‌دهد که واحدهای سنگی سازند آغاجاری واقع در بخش مرکزی نسبت به دو بخش شمال‌غربی و جنوب‌شرقی این پهنه، دارای مقادیر مقاومتی بالاتری هستند. این نتیجه ممکن است به این فرضیه منجر شود که واحدهای این بخش احتمالاً به دلیل قرار گرفتن در محدوده عملکرد گسل‌های امتدادلغز هندیجان و کازرون، فرآیندهای دیاژنتیکی را سریع‌تر طی کرده‌‌اند.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Recent sediments of Aghajari formation are dominating parts of south and southwest of Iran. This has led to the fact that many of the important developing projects are located on this formation. Therefore a thorough understanding of geomechanical characteristics of various units of this formation could profit such projects at various stages of implementation. Furthermore, these studies would support formation of a geotechnical and geomechanical data bank that can be used in preliminary studies of engineering structures and preparing large scale engineering geological maps of the region. To undertake the proposed research systematically, the Zagros range was divided in three district of northwest, central and southeast. Then the geomechanical characterizations of Aghajari units were undertaken based on the results of rock mechanics laboratory tests and the information acquired from the executed projects in the region. Beside this, durability test of every unit of this formation also was carried out to evaluate the weatherability. The analyses of the test results yielded a comprehensive set of coefficients to evaluate the various mechanical strengths from some simple inexpensive laboratory tests, and the geomechnical behaviors of these rocks are studied. The strength conversion factors have been presented implicitly. The detailed triaxial tests revealed the principal stress response of the total set of the representative samples with respect to various confining pressures. Meanwhile, shear strength parameters c and φ were determined and the transition condition from brittle to ductile behavior evaluated. An assessment of the results inferred that the rock units of Aghajari formation in central part of the study area have higher strength parameters compared to two other adjacent units. This conclusion may lead to this hypothesis that due to confinement in two strike slip faults restriction, Kazerun and Hendijan faults, these rocks have undergone the diagenetic process more rapidly and intensely. The detail of the undertaken studies is presented in the paper.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>15</FPAGE>
+						<TPAGE>30</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>داریوش</Name>
+						<MidName></MidName>		
+						<Family>طاهری</Family>
+						<NameE>Dariush</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Taheri</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی دورة دکترای زمین‌شناسی مهندسی دانشگاه تربیت مدرس</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی دورة دکترای زمین‌شناسی مهندسی دانشگاه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>عبدالهادی</Name>
+						<MidName></MidName>		
+						<Family>قزوینیان</Family>
+						<NameE>Abdolhadi</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Ghazvinian</FamilyE>
+						<Organizations>
+							<Organization>استادیار، گروه مکانیک سنگ دانشکده فنی و مهندسی دانشگاه تربیت مدرس ghazviniana@modares.ac.ir</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار، گروه مکانیک سنگ دانشکده فنی و مهندسی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محمدرضا</Name>
+						<MidName></MidName>		
+						<Family>نیکودل</Family>
+						<NameE>Mohammadreza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Nikudel</FamilyE>
+						<Organizations>
+							<Organization>استادیار،‌ گروه زمین‌شناسی مهندسی دانشکده علوم پایه دانشگاه تربیت</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار،‌ گروه زمین‌شناسی مهندسی دانشکده</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>nikudelm@modares.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>ماشاالله</Name>
+						<MidName></MidName>		
+						<Family>خامه چیان</Family>
+						<NameE>Mashaallah</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Khamehchian</FamilyE>
+						<Organizations>
+							<Organization>دانشیار،‌ گروه زمین‌شناسی مهندسی دانشکده علوم پایه دانشگاه تربیت مدرس</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار،‌ گروه زمین‌شناسی مهندسی دانشکده</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>سازند آغاجاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>پهنة زاگرس</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مقاومت فشاری تک‌محوری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شاخص بارنقطه‌ای</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مقاومت کششی برزیلی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>امواج الاستیک</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>آقانباتی س.ع.، (1383) زمین‌شناسی ایران، سازمان زمین‌شناسی و اکتشاف معدنی کشور.##خامه‌چیان م.، (1369) بررسی ویژگی‌های فیزیکی و مکانیکی سنگهای مارنی- رسی، پایان‌نامه کارشناسی‌ارشد، دانشگاه تربیت مدرس.##دوست‌محمدی ر.، (1378) تحلیل پایداری و طراحی پوشش بتونی تونلهای انحراف آب سدگتوند علیا، پایان‌نامه کارشناسی ارشد، دانشگاه تهران.##شریفی ا.، (1384) بررسی ویژگی‌های زمین‌شناسی مهندسی ساختگاه سدهای شمیل و نیان (استان هرمزگان) به منظور طراحی پرده آب‌بند، پایان نامه کارشناسی ارشد، دانشگاه تربیت مدرس.##شمسی فراشاه ح.، (1381) بررسی رفتار توده‌‌های‌سنگی اطراف تونل اهرم- فراشبند و تحلیل پایداری تونل، پایان‌نامه کارشناسی ارشد، دانشگاه امیرکبیر.  ##فاروق‌حسینی م.، (1376) درآمدی بر مکانیک سنگ، انتشارات سالکان.##فتحی برفه ع.، (1383) تعیین خصوصیات مکانیکی مارن‌های سازندهای دوران سوم زاگرس و ارائه معیار شکست، پایان نامه کارشناسی ارشد، دانشگاه تربیت مدرس.##فهیمی‌فر ا.، سروش ح.، (1380) آزمایشهای مکانیک سنگ: مبانی نظری و استانداردها، انتشارات شرکت سهامی آزمایشگاه فنی و مکانیک خاک، جلد اول.##مرادیان ذ.، (1384) تعیین خصوصیات مکانیکی و ارزیابی کارایی معیارهای شکست در پیش‌بینی رفتار ماسه‌سنگ نرم، پایان نامه کارشناسی ارشد، دانشگاه تربیت مدرس.##مهندسین مشاور مهاب قدس، (1383) گزارش ژئوتکنیک طرح کنترل پایداری و علاج بخشی سد تنظیمی انحرافی کرخه.##Abdullah H., Dhawan A.K. (2002) Some Implications of Empiricism and Assumptions in Laboratory Testing, International Journal of Rock Mechanics &amp; Mining Sciences, Vol. 41, 374-380.##Aversa S., Evangelista A. (1993) Some Aspects of the Mechanical Behavior of Structured Soils and Soft Rocks, Geotechnical Engineering, Vol. 1, 268-275.##Bell F.G. (2000) Engineering Properties of Soils and Rocks, University of Natal, Durban, South Africa, Fourth Edition. ##Bieniawski Z.T. (1974) Stimating the Strength of Rock Materials, J.S. African Insitute of Mining &amp; Metallurgy, Vol. 74, 312-320.##Bieniawski Z.T. (1975) Point Load Test in Geotechnical Practice, Engineering Geology, Vol. 9, 1-11.##Broch E., Franklin J.A. (1972) The Point Load Strength Test, International Journal of Rock Mechanics &amp; Mining Science, Geomech. Absr., Vol. 22, No. 2, 61-70.##Brown E.T. (1981) Rock Caracterization Testing and Monitoring: ISRM Suggested Methods, Pergamon Press, Oxford, UK, pp 211.##Franklin J.A., Chandra R. (1972) The Slake Durability Index, International Journal of Rock Mechanics &amp; Mining Science International Journal of Rock Mechanics &amp; Mining Science, Vol. 9, 325-342.##Gamble J.C. (1971) Durability Plastisity Classification of Shales and Other Argillaceous Rock, ph.D. Thesis, University of Illinots.##Gunsallus K.L., Kulhawy F.H. (1986) A ComParative Evaluation of Rock Strength Measures, International Journal of Rock Mechanics &amp; Mining Science, Geomech. Abstr, Vol. 21, 231-248.##Kahraman S. (2001) Evaluation of Simple Methods for Assessing the Uniaxial Compressive Strength of Rock, International Journal of Rock Mechanics &amp; Mining Sciences, Vol. 38, 981–994.##Lavrov A., Vervoort A. (2002) Theoretical Treatment of Tangential Loading Effects on the Brazilian Test Stress Distribution, International Journal of Rock Mechanics &amp; Mining Sciences, Vol. 39, 275–283.##Norbury D.R. (1986) The Point Load Test in Site Investigation Practice. In: HawkinsAB, Editor, Geol. Soc. Eng. Geol. Spec. Publ, No. 2, 325-329.##Ramamurthy T. (2001) Shear Strength Response of Some Geological Materials in Triaxial Compression, International Journal of Rock Mechanics &amp; Mining Science, Vol. 38, 683-697.##Read J.R.L., Thornton P.N., Regan W.M. (1980) A Rational Approach to the Poin Load Test, In: Proceedings of the Australian-New Zealand Geomech Conference, Vol. 1, Wellington, New Zealand, 35-39.##Report of ISSMFE Technical Committee on Soft Rocks and Indurated Soils and Proceedings of Discussion Session (1989) Recent Advances in Soft Rock Research, No.5, XII, ICSMFE, Rio De Janiro.##Ulusay R., Sonmez H. (2000) Factors Affecting the Durability of Selected Weak and Claybearing Rocks from Turkey, with particular emphasis on the influence of the number of drying and wetting cycles, Engineering Geology, Vol. 57, 215–237##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی اثر تغییر زاویه نوک کاوشگر دینامیکی DCP بر تکرارپذیری نتایج آنها</TitleF>
+				<TitleE>Assessment of the effect of DCP tip angle on its results repeatability</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>استفاده از کاوشگرهای دینامیکی در ارزیابی­های زمین شناسی مهندسی و ژئوتکنیکی نسبت به روش هایی مانند گمانه زنی اقتصادی تر، سریع تر و حمل آن به نقاطی با دسترسی دشوار راحت­تر است. کاوشگر دینامیکیDCP  نوع خیلی سبک کاوشگرهای دینامیکی با عمق کاوش 1 تا 2/1 متر است و در ارزیابی CBR اساس و زیراساس راه ها به کار رفته است. در این تحقیق امکان توسعه کاربرد این کاوشگر و اثر تغییر در زاویه راس مخروط نفوذ بر نتایج آن بررسی گردیده است. بررسی  تکرارپذیری نتایج و توابع مختلف توزیع احتمال مربوطه، بر تکرارپذیر بودن نتایج حاصل از کاوشگر DCP دلالت دارد. با توجه به مقادیر ضریب تعیین  (R2) بهترین توزیع احتمال نتایج حاصله، مربوط به توزیع لوگ نرمال و بعد از آن، توزیع نرمال است. بررسی اثر تغییر در زاویه راس مخروط در آزمایش هایDCP  نشان داد که تکرارپذیرترین نتایج مربوط به مخروط با زاویه راس90 درجه  بوده و مخروط با زاویه رأس 30 درجه دارای بیشترین خطا می باشد. مخروط نفوذ استاندارد (60 درجه) نیز دارای دقت مناسبی بوده و نتایج آن قابل قبول است. </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Dynamic probing for the assessment of engineering geology and geotechnical projects is a cheaper, quicker and easier method than other methods. The Dynamic Cone Penetrometer is a light weight type of dynamic penetrometer. This device has used to determine CBR of pavement bases and sub bases up to 1 to 1.2 m depths. The aims of this study are to extend application of DCP and assessment of the tips angle effect on repeatability of DCP results. Assessment of the repeatability results and probability distribution functions show that the results are repeatable. The coefficient of determination (R2) show the best distribution functions are lognormal and then normal for the mean of results. Assessment of the effect of tip angle on repeatability is shown the tip with 90° angle is more repeatable than other tips.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>31</FPAGE>
+						<TPAGE>42</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سید داود</Name>
+						<MidName></MidName>		
+						<Family>محمدی</Family>
+						<NameE>Seyed davood</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mohammadi</FamilyE>
+						<Organizations>
+							<Organization>  دانشجوی دورة دکترای زمین‌شناسی مهندسی دانشگاه تربیت مدرس</Organization>
+						</Organizations>
+						<Universities>
+							<University>  دانشجوی دورة دکترای زمین‌شناسی مهندسی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>s_d_mohammadi@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محمدرضا</Name>
+						<MidName></MidName>		
+						<Family>نیکودل</Family>
+						<NameE>Mohammadreza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Nikudel</FamilyE>
+						<Organizations>
+							<Organization>استادیار،‌ گروه زمین‌شناسی مهندسی دانشکده علوم پایه دانشگاه تربیت مدرس  nikudelm@yahoo.com</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار،‌ گروه زمین‌شناسی مهندسی دانشکده</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>nikudelm@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>حسن</Name>
+						<MidName></MidName>		
+						<Family>رحیمی</Family>
+						<NameE>Hasan</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Rahimi</FamilyE>
+						<Organizations>
+							<Organization>   استاد، دانشکده مهندسی آبیاری، دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>   استاد، دانشکده مهندسی آبیاری،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کاوشگر دینامیکی DCP</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>توابع توزیع احتمال</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ضریب تغییرات</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تکرارپذیری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>زاویه راس مخروط</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>خداپرست، مهدی (1384) توسعه تکنیک های شناسایی خاکها با کاوشگرهای دینامیکی. رساله دکتری مهندسی عمران، دانشکده فنی، دانشگاه تهران، 125 صفحه.## اسماعیلیان، مهدی (1385)راهنمای جامع SPSS 14 &quot; انتشارات موسسه فرهنگی هنری دیباگران تهران، 574 صفحه.##American Society of Testing Materials (2003) Standard Test Method for Use of the Dynamic Cone Penetrometer in Shallow Pavement Applications. ASTM D 6951-03, ASTM International, West Conshohocken, PA.##BS 5930 (1999) Code of Practice for Site Investigation.  British Standard Institution; 192 p.##Butcher, A.P.; Mcelmeel, K. and Powel, J.J.M. (1995) Dynamic probing and its use in clay soils. Proceeding of Advance in Site Investigation Practice; Thomas Telford; London; pp. 383-395.##Card¸ G.B.; Roche¸ D.P.; Herbert¸ S.M. (1990) Application of continuous dynamic probing in ground investigation. Field Testing in Engineering Geology; Geological Society Engineering Geology Special Publication No 6; pp. 129-135.##Clayton C.R.I., SimonsI, N.E. and Matthew, F.M.C. (1995) Site Investigation. 2nd edition; Blackwell Science; Inc.; 592 p.##DIN 4094 (1974) Dynamic and static penetrometers, Dimensions of apparatus and method of operation. Deutsches Institut fur Normung e. V. Berlin.##Edill, T.B., Benson, C.H. (2005) Investigation of the DCP and SSG as alternative methods to determine subgrade stability, department of civil and environmental engineering, university of Wisconsin-Madison.##Fakher A., Khodaparast M. and Jones C.J.F.P. (2006) The use of the Mackintosh Probe for site investigation in soft soils. Quarterly Journal of Engineering Geology and Hydrogeology, 39, 189–196.##Lee, I.K.; White W.; Ingles, O.G.; 1983.Geotechnical Engineering. Copp Clark Pitman; Inc. pp. 57-89.##Mohammadi, S.D., Nikudel, M.R., Khamehchiyan, M. (2007) The use of Dynamic Cone Penetrometer (DCP) to determine some useful relationships for sandy and clayey soils. Proceeding of first Sri Lankan Geotechnical Society (SLGS) International Conference on Soil and Rock Engineering, Colombo.##Scala, A.J. (1959) Simple Method of Flexible Pavement Design Using Cone Penetrometers, In Proceedings of 2ndAustralian – New Zealand Conference on Soil Mechanics and Foundation Engineering, New Zealand.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی عوامل مؤثر در وقوع زمین لغزش در جنوب غرب خلخال با استفاده از جداول توافقی و آزمون های آماری مربع کای</TitleF>
+				<TitleE>Study on effective factors causing landslide in the southwest of Khalkhal by using crosstables and chi-square method</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>این پژوهش به منظور شناخت و بررسی عوامل مؤثر در وقوع زمین‎لغزش‎های منطقه خلخال و بومی سازی مدلهای آماری انجام شده است. موارد استفاده نتایج آن در برنامه­ریزی­های توسعه مسکونی، عمرانی، کشاورزی، منابع طبیعی، زیست محیطی و اقتصادی خواهد بود. با شناسائی و ثبت زمین­لغزش­های منطقه با استفاده از عکس­های هوایی موجود و پیمایش صحرائی و با تولید نقشه‎های پایه زمین شناسی، شیب، کاربری اراضی، بارش، پراکنش رودخانه­ها، جاده­ها، ابنیه­ها و چاه­های فاضلاب، در مقیاس 50000 :1، مطالعات آماری داده­های تهیه شده با استفاده از نرم­افزارهای کامپیوتری به روش جداول توافقی و آزمون مربع­ کای انجام شد. همچنین مقادیر ضرایب و توافق برای تک­تک عوامل مؤثر محاسبه و با یکدیگر مقایسه شدند. نتایج نشان داد که تفاوت های معنی‎دار بین نوع رده‎های مختلف عوامل و وقوع حوادث حرکات دامنه‎ای وجود دارد و میزان این اختلافات براساس نوع عامل متفاوت است. براساس ضرایب توافق، ترتیب تأثیر عوامل مختلف در وقوع لغزش­های منطقه مشخص شده و با مقایسه مقادیر باقیمانده­ها، مؤثرترین رده از هر عامل نیز تعیین گردید. نتایج نشان داد که عامل لیتولوژی در صدر عوامل مؤثر در وقوع لغزش­های منطقه است. در نهایت با توجه به نوع عوامل مؤثر در وقوع لغزش­های منطقه راهکارهای اولیه­ای برای کاهش خسارات مستقیم و غیر مستقیم آنها پیشنهاد شد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Landslides, which happen usually in rural regions of southwest Khalkhal, not only cause considerable economic loss, but also provide social and cultural damages. This may effect the development project that are going to be implement in this area. This study was conducted to understand and analyze the contributing factors to these landslides and slope movements, so that the findings could be used in planning different projects such as new construction developments, improvement of agriculture, protecting the soil resources, environmental issues, and economic activities.  After identifying all the landslides of the region, based on the existing aerial photos and the compiled field data, basic geological maps, slope gradients, land use, distribution of the landslides, annual rainfall, and length of the rivers and roads,   the area of the buildings and the number of the waste water wells were prepared at 1:50000 scale. Then , statistical analysis based on cross table and chi – square method were applied.  The coefficient values and the correlation of each factor with the landslides and slope movements were calculated and compared with one another.  The results showed that there are significant differences between different types of factors and their contribution to slope movements, and the degree of difference varied from factor to factor.  The results also showed that rock composition is the main factor which contributed to landslide occurrence.  Other factors such as land use, distance from major faults, slope condition and rivers’ undercutting played a role obtained in landslide occurrence.  Based on the results, practical and scientific methods were recommended for lowering the amount of direct and indirect damages.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>43</FPAGE>
+						<TPAGE>62</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>رضا</Name>
+						<MidName></MidName>		
+						<Family>طلائی</Family>
+						<NameE>Reza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Talayi</FamilyE>
+						<Organizations>
+							<Organization>مربی پژوهشی مرکز تحقیقات کشاورزی و منابع طبیعی اردبیل</Organization>
+						</Organizations>
+						<Universities>
+							<University>مربی پژوهشی مرکز تحقیقات کشاورزی و منابع</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محسن</Name>
+						<MidName></MidName>		
+						<Family>شریعت جعفری</Family>
+						<NameE>Mohsen</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Shariat jafari</FamilyE>
+						<Organizations>
+							<Organization>مربی پژوهشی پژوهشکده حفاظت خاک و آبخیزداری کشور</Organization>
+						</Organizations>
+						<Universities>
+							<University>مربی پژوهشی پژوهشکده حفاظت خاک و آبخیزداری</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mshariatj@hotmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>زمین لغزش</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>جداول توافقی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>آزمون آماری مربع کای</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>اسماعیلیان، مهدی (1385) راهنمای جامع  SPSS14. موسسه فرهنگی هنری دیباگران تهران. 576 صفحه.##انصاری، فرهاد. و بلورچی، محمدجواد (1374) زمین لغزش در استان اردبیل، مدیریت لرزه زمین ساخت و ژئوتکنیک، سازمان زمین‎شناسی کشور. 46 صفحه. حائری، سید محسن،  سمیعی، امیر حسین (1376) روش جدید پهنه بندی مناطق شیب دار در برابر خطر لغزش زمین با تاکید بر بررسی های پهنه بندی استان مازندران. فصلنامه علمی پژوهشی علوم زمین. شماره 23-24: 2-15.##طلائی، رضا، غیومیان، جعفر، شریعت جعفری، محسن، علی اکبرزاده، اسماعیل (1383) بررسی عوامل مؤثر در لغزش خیزی جنوب غرب خلخال. سازمان تحقیقات و آموزش کشاورزی وزارت جهاد کشاورزی، پژوهشکده حفاظت خاک و آبخیزداری، 153 صفحه.##فاطمی عقدا، سید محمود، غیومیان، جعفر و اشقلی فراهانی،عقیل (1382) ارزیابی کارایی روش های آماری در تعیین پتانسیل خطر زمین لغزش. فصلنامه علمی پژوهشی علوم زمین، شماره 47-48: 28- 47.##کمک پناه، علی، حافظی مقدسی، ناصر (1373) روشهای پهنه‎بندی خطر لغزش. مجموعه مقالات اولین کارگاه تخصصی بررسی راهبردهای کاهش خسارات زمین لغزه در کشور. موسسه بین‎المللی زلزله‎شناسی و مهندسی زلزله. صفحه 390  تا 414.##مهدویفر، محمدرضا (1376) پهنه بندی خطر زمین لغزش منطقه خورش رستم(جنوب غرب شهرستان خلخال. پایان نامه کارشناسی ارشد، دانشگاه تربیت مدرس، 155 صفحه.##نیک اندیش، نسرین، میرصانعی، رضا (1374) نگرشی بر زمین لغزش ای استان اردبیل. معاونت آبخیزداری، 63 صفحه.##هاشمی طباطبائی، سعید (1377)  پهنه‎بندی خطر زمین‎لغزش در بخشی از استان اردبیل. وزارت مسکن و شهرسازی. مرکز تحقیقات ساختمان و مسکن. سازمان مسکن و شهر سازی استان اردبیل. جلد 2، 72 صفحه.##Aleotti P, Ghowdhury R (1999) Landslide hazard assessment: summary review and new perspectives.  Bulletin of Engineering Geology and the Environment  58: 21-44.##Anbalagan R (1992) Landslide hazard evalution and zonation mapping in mountainous terrain. Eng. Geol.  32: 269-277.##Ayalew L, Yamagishi H (2005) The application of GIS-based logistic regression for landslide susceptibility mapping in the Kakuda-Yahiko Mountains, Central Japan. Geomorphology 65:15-31.##Carrara A (1989) Landslide hazard mapping by statistical methods: a &quot; black box &quot;model approach. In: Siccardi F, Bras RL (Eds) Proc., Int. Workshop on Natural Disasters in European-mediterranea Countries,C. D. S., Genova,  205-224.##Carrara A, Cardinali M, detti R, Guzzeti F, Pasqui V,  Reichenbach P (1991) GIS techniques and statistical models in evaluating landslide hazard. Earth Surf. Processes Landforms 16: 427-445.##Chung CJ (2006) Using likelihood ratio functions for modeling the conditional probability of occurrence of future landslides for risk assessment. Computers and geosciences 32: 1052-1068.##Dai FC, Lee CF, Hgai YY (2002) Landslide risk assessment and management: An overview.  Engineering Geology 64: 65-87.##Derose RC (1991) Post deforestaion soil loss from steepland–hillslopoes in Taranaki; Newzea-land  earth suarface processes and land form. Vol. 18.##Donati L, Turrini MC (2002) An objective method to rank the importance of the factors predisposing to landslides with the GIS methodology: application to an area of the Apennines(Valnerina, Perugia, Italy). Engineering Geology 63: 277-289.##Duman TY, Can T, Gokceoglu C, Nefesliglu HA, Sonmes H (2006) Applicatoin of logistic regression for landslide susceptibility zoning of Gekmece Area, Istanbul, Turkey. Environ Geol 51: 241- 256.##Eberhardt E, Thuro K, Luginbuehl (2005) Slope instability mechanisms in dipping interbedded conglomerates and weathered marls- the 1999 Rufi landslide, Switzerland. Engineering Geology 77: 35-56.##Gómez H, Kavzoglu T (2005) Assessment of shallow landslide susceptibility using artificial neural networks in Jabonosa River Basin, Venezuela. Engineering Geology 78: 11-27.##Gritzner ML, Marcus WA, Aspinall R, Custer SG  (2001) Assessing landslide potential using GIS, soil wetness modeling and topographic attributes, Payette River, Idaho. Geomorphology 37: 149-165.##Gromko GJ (1974) Review of expansive soils. Journal of the geotechnical engineering, ASCE, Vol. 100. 6: 667-687.##Guariguata MR (1990) Landslide disturbance and forest regeneration in the Upper Luquillo Mountains of  Puerto Rico. J. Ecol. 78:814-832.##Hunt RE (1984) Geotechnical engineering investigataon manual. McGraw Hill,  896 pp.##Iida T (1999) A stochastic hydro-geomorphological model for shallow landsliding due to rainstorm. Catena  34: 293-313.##Jibson RW, Keefer DK (1988) Statistical analysis of factors affecting landslide distribution in the New Madrid seismic zone, Tennessee ana Kentucky. In: Johnson AM, Burnham CW, Allen CR Muehlberger W (Eds.) Richard H Jahns Memorial Volume, Eng. Geol.  27: 509-542.##John RD, Anne-Gaelle A, James DS, Lavs B (2006) Validation of a region-wide model of landslide susceptibility in the Manawatu-Wanganui region of New Zealand. Geomorphology 1-4: 70-79.##Kinnear PR and Gray CD (1999) SPSS for Windows made simple. (3rd ed.) Hove(UK): Psychology Press. 433 pp.##Knapen A, Kitutu MG, Poesen J, Breugelmans W, Deckers J, Muwanga A (2006)  Landslides in a densely populated county at the footslopes of Mount Elgon(Uganda): Characteristics and causal factors. Geomorphology  73: 149-165. ##Komac M (2006) A landslide susceptibility model using the Analytical Hierarchy Process method and multivariate statistics in perialpine Slovenia. Geomorphology 74: 17-28.##Lan HX, Zhou CH, Wang LJ, Zhang HY and Li RH (2004) Landslide hazard spatial analysis and prediction using GIS in the Xiaojiang watershed, Yunnan, Chaina. Engineering Geology 76: 109-128.##Maharaj RJ (1993) Landslide processes and landslide susceptibility analysis from an upland watershed: a case study from St. Andrew, Jamaica, West Indies. Eng. Geol.  34: 53-79.##Mehrotra G, Kanungo D, Mahadeviah K (1996) Landslide hazard assessment- A need for environmental  management. Proc. 7th International Symposium on Landslides, Trondheim, Norway: 315-320.##Okamoto T, Larsen  JO,  Matsuura S, Asano S, Takeuchi Y, Grande L (2004) Displacement properties of landslide masses at the initiation of failure in quick clay deposits and the effects of meteorological and hydrological factors. Engineering Geology 72: 233-251.##Oneill MW, Neder P (1980) Methodology for foundations on expansive clays. Journal of the geotechical engineering division , clay,  gt 12 : 1345-1366.##Pike RJ (1988) The geometric signature: quantifying landslide terrain type from digital elevation models. Math. Geol. 20: 491-511.##Prandina L, Guidicini G, Bottura  JA,  Poncao W, Cantos  AR (1977)  Behavior of the vegetation  in slope stability: A critical review. Int. Ass.  Engn. Geol.  Bull., vol. 16.  pp. 551##Rautela P, Lakhera RC (2000) Lanslide riske analysis between Giri and Tons Rivers in Himachal Himalaya(India). JAG, Vol. 2, 3/4: 153-160.##Saldivar-Sali A, Einstein HH (2007) A landslide risk rating system for Baguio, Philippines. Engineering Geology, Article in press.##Sherard GI, Dunnigan LP,  Decher RS (1977) Some engineerring problems with dispersive clay. ASTM STP 623: 3-12.##Shuzui H (2001) Process of slip-surface development and formation of slip-surface clay in landslides in Tertiary volcanic rocks, Japan. Engineering Geology 61:199-219.##Siegel S, Castellen NJ (1988)  Nonparametric statistics for the behavioral sciences.(2nd ed.). NewYork: McGraw-Hill. 372 pp.##Steel RGD, Torrie JH (1997)  Principles and procedures of statistics, A bmaterial  approach, 2nd ed., Mc Grow-Hill Co., New York. 666 pp.##Thomas  G (2003) Landslide occurrence as a response to land use change : a review of evidence from New Zealand. Catena, Vol. 51, 1-3: 297-314.##Uromeihy A, Mahdavifar MR (2000) Landslide hazard zonation of the Khorshrostam area, IRAN. Bull. Eng. Geol. Env.  58 : 207-213.##Walker L R, Zarin DJ, Fetcher N, Myster RW, Johnson AH (1996) Ecosystem development and plant succession on landslides in the Caribbean. Biotropica 28: 566-576.  ##Wang C, Esaki T, Xie M, Qui C (2006) Landslide and debris-flow hazard analysis and prediction using GIS in Minamata-Hougawachi area,  Japan. Environ. Geol.  51:91-102.##Yesilnacar E, Topal T (2005) Landslide susceptibility mapping: A comparison of logistic regression and neural networks methods in a medium scale study, Hendek region(Turkey). Engineering Geology  79: 251-266.##Zhang WJ, Chan YM, Zhan LT (2006) Loading/unloading response ratio theory applied in predicting deep-seated landslide triggering. Eng. Geol. Vol. 82 , 4: 234-240.##Zhou G, Esaki T, Mitani Y, Xie M, Mori J (2003) Spatial probabilistic modeling of slope failure using an integrated GIS Monte Carlo simulation approach. Eng. Geol. 68: 373-386.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>استفاده از روش منشأیابی در تعیین سهم واحدهای سنگ‌شناسی حوضه پلدشت در تولید رسوب</TitleF>
+				<TitleE>Determinining contributions of lithological types of Pouldasht basin to sediment yield using sediment source fingerprinting techniques</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>به دلیل‌ وجود مشکلات زیاد در کاربرد روشهای‌ سنتی‌، روش انگشت­نگاری، ردیابی یا بعبارتی منشأیابی به‌ عنوان‌ روشی جایگزین‌ و مناسب مورد توجه ‌محققین‌ مختلف‌ قرار گرفته‌ است. در این روش‌، خصوصیات فیزیکی‌، ژئوشیمیایی‌ و آلی‌ رسوب و منابع رسوب برای‌ تعیین‌ منابع‌ اصلی‌ رسوب و اهمیت نسبی‌ آنها مورد استفاده قرار می­گیرند. در روش یاد شده با استفاده از ترکیبی مناسب از خصوصیات جدا کننده منابع‌ رسوب، سهم منابع رسوب در تولید رسوب تعیین می­شود. در این تحقیق، سعی شده است با بهره­گیری از ترکیبی مناسب از عناصر ژئوشیمیایی که قادر به جداسازی واحدهای سنگ­شناسی در یکی از زیر حوضه­های حوضه ایستگاه پخش سیلاب پلدشت واقع در شهرستان ماکو از استان آذربایجان غربی است سهم واحدهای یاد شده تعیین شود. بعد از برداشت 106 نمونه معرف از واحدهای سنگ­ شناسی و 6 نمونه رسوب از انتهای حوضه نسبت به تجزیه 18 عنصر ژئوشیمیایی اقدام شد. با بهره­گیری از روش تحلیل تشخیص، حدود 12 عنصر از 18 عنصر به عنوان ترکیب مناسب انتخاب شدند. در آخر با استفاده از ترکیب یاد شده و مدل­های چند متغیره ترکیبی سهم واحدهای مارن، کنگلومرا، آهک و دولومیت، شیل و اسلیت و رسوبات کواترنری به ترتیب برابر با 9/53، 75/29، 85/8،  5/7 و 0 درصد بدست آمد. میانگین خطای نسبی تقریبا برابر با 5/17 درصد و متوسط ضریب کارایی مدل حدود 99/0 است. روش منشأیابی رسوب به عنوان روشی با ارزش برای کسب اطلاعات از منابع رسوب تشخیص داده شد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Because of the many problems associated with traditional procedures for identifying sediment sources, fingerprinting method, based on physical, chemical and organic properties of sediment and source materials, are increasingly being used as a valuable and effective alternative approach to assembling such information. In this method, a suitable composite (set) of diagnostic properties and a multivariate mixing model are employed to estimate the relative contributions of sediment sources to sediments yield. In this study, using a suitable composite of geochemical elements capable of discriminating subareas underlain by individual lithological types of the study basin and a multivariate mixing model, the contributions of lithological types to sediments yield were determined. The study basin is the main subbasin of Pouldasht water spreading station basin, located in Makoo township, West Azarbaijan province. The lithological subereas were categorized in five groups as sediment sources. Over 106 representative source material samples and 6 sediment samples were collected from lithological groups and sediments deposited in the river bed respectively. Then, the samples were analyzed to determine the concentrations of 18 geochemical elements. 12 out of the 18 geochemical elements were selected as a suitable composite fingerprint using discriminant function analysis. Mean contributions from the lithological subereas of Marl, Conglomerate, Limestone and dolomite,  Shale and Slate, and Quaternary sediments were estimated to be 53.9, 29.75, 8.85, 7.5 and 0 percent respectively. Mean absolute error and model efficiency of the method were estimated to be 17.5% and 0.99 respectively. The fingerprinting approach to source ascription is seen as providing valuable information regarding sediment sources in the study basin.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>63</FPAGE>
+						<TPAGE>74</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>شاهرخ</Name>
+						<MidName></MidName>		
+						<Family>حکیم خانی</Family>
+						<NameE>Shahrokh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Hakimkhani</FamilyE>
+						<Organizations>
+							<Organization>استادیار، دانشکده منابع طبیعی، دانشگاه ارومیه  Hakimkhani@yahoo.com</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار، دانشکده منابع طبیعی، دانشگاه ارومیه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>حسن</Name>
+						<MidName></MidName>		
+						<Family>احمدی</Family>
+						<NameE>Hasan</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Ahmadi</FamilyE>
+						<Organizations>
+							<Organization>استاد، دانشکده منابع طبیعی، دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استاد، دانشکده منابع طبیعی، دانشگاه تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>جعفر</Name>
+						<MidName></MidName>		
+						<Family>غیومیان</Family>
+						<NameE>Jafar</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Ghayoumian</FamilyE>
+						<Organizations>
+							<Organization>استادیار پژوهشی، مرکز تحقیقات حفاظت خاک و آبخیزداری</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار پژوهشی، مرکز تحقیقات حفاظت خاک و</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>عناصر ژئوشیمیایی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>منابع رسوب</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>واحدهای سنگ شناسی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>پلدشت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تحلیل تشخیص</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>منشأیابی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>امیری، منوچهر.)1381( منشأیابی کلوئیدها (رسها) و سیلتهای ایستگاه پخش سیلاب کبودرآهنگ، مرکز تحقیقات حفاظت خاک و آبخیزداری، گزارش نهایی طرح تحقیقاتی، 101صفحه.##حکیم خانی، شاهرخ.، احمدی. حسن.، غیومیان. جعفر.، فیض نیا. سادات و قنادها. محمد رضا.(1385) تعیین ترکیب مناسبی از عناصر ژئوشیمیایی برای جداسازی واحدهای سنگ­شناسی حوضه پخش سیلاب پلدشت، مجله منابع طبیعی (در دست چاپ).##فیض‌نیا، سادات.(1374) مقاومت سنگها در مقابل فرسایش در اقالیم مختلف ایران، مجله منابع طبیعی، شماره 47، صفحه 116- 95.##قدیمی عروس محله، فریدون.، پورمتین. افشین.(1381) تجزیه و تحلیل آماری منشاء رسوب در پایین دست حوزه آبخیز قره چای از استان مرکزی، مجموعه مقالات همایش ملی مدیریت اراضی – فرسایش خاک و توسعه پایدار، اراک، 4 - 2 بهمن 1380، صفحه 341- 328.##عطاپور، عباس.، حکیم خانی. شاهرخ.(1382) تعیین سهم زیرحوزه های حوزه آبخیز چنداب در تولید رسوب با بکارگیری کانی های رسی، مجموعه مقالات سومین همایش آبخوانداری، دستاوردها و چشم اندازهای آینده، ارومیه، 4 و 5 شهریور 1382، صفحه 74 – 82.##Bottrill LJ, Walling DE, Leeks GJL (2000) Using recent overbank deposits to investigate contemporary sediment sources in larger river basins. In: Foster, I. D. L. (Ed.). Tracers in Geomorphology. Wiley, Chichester, pp. 369-387.##Collins AL, Walling DE, Leeks GJL (1997) Source type ascription for fluvial suspendedsediment based on a quantitative composite fingerprinting technique. Catena, 29, 1–27.##Collins AL, Walling DE (2004) Documenting catchment suspended sediment sources: problems, approaches and prospects. Progress in Physical Geography, 28: 159–196.##Collins AL, Walling DE, Sichingabula HM, Leeks GJL (2001) Suspended sediment source fingerprinting in a small tropical catchment and some management implications. Applied Geography, 21: 387-412.##Collins AL, Walling DE (2002) Selecting fingerprint properties for discriminating potential suspended sediment sources in river basins. Journal of Hydrology, 261: 218-244.##Foster IDL, Lees JA (2000) Tracers in geomorphology. In: Foster, I.D.L. (Ed.). Tracers in Geomorphology. Wiley, Chichester, pp. 3-20.##Foster IDL, Lees JA, Owens PN, Walling DE (1998) Mineral magnetic characterisation of sedimentsources from an analysis of lake and floodplain sediments in the catchments of the Old Mill reservoir andSlapton Ley, South Devon, UK. Earth Surface Processes and Landforms 23, 685–703.##Foster IDL, Walling DE (1994) Using reservoir deposits to reconstruct changing sediment yields and sources in the catchment of the Old Mill Reservoir, South Devon, UK, over the past 50 years. Hydrological Sciences Journal, 39:, 347-368.##Garrad PN, Hey RD )1989) Sources of suspended and deposited sediment in a Broadland river. Earth Surface Processes and Landforms, 14: 41-62.##Grimshaw DL, Lewin J (1980) Source identification for suspended sediment. Journal of Hydrology, 47: 151—162.##He Q, Walling DE (1996) Interpreting particle size effects in the absorption of 137Cs and unsupported 210Pb by mineral soils and sediments. Journal of Environmental Radioactivity 30, 117-137.##He Q, Owens PN (1995) Determination of suspended sediment provenance using caesium-137, unsupported lead-210 and radium-226: a numerical mixing model approach. In: Foster IDL, Gumell AM, Webb BW (Eds.). Sediment and Water Quality in River Catchments. Wiley, Chichester, pp. 207-227.##Horowitz AJ, Elrick K (1987) The relation of stream sediment surface area, grain size, and composition to trace element chemistry. Appl. Geochem., 2, 437-451.##Loughran RJ, Campbell BL (1995) The identification of catchment sediment sources. In: Foster IDL, Gumell AM, Webb BW (Eds.). Sediment and Water Quality in River Catchments. Wiley, Chichester, pp. 189-205.##Nash JE, Sutcliffe JE (1970) River flow forecasting through conceptual models. Part 1:  A discussion of principles. Journal of Hydrology 10: 282-290.##Oldfield F, Rummery TA, Thompson R, Walling DE (1979) Identification of suspended sediment sources by means of mineral magnetic measurements: some preliminary results. Water Resources Research, 15: 211-219.##Owens PN, Walling DE, Leeks GJL (2000) Tracing fluvial suspended sediment sources in the catchment of the River Tweed, Scotland, using composite fingerprints and a numerical mixing model. In: Foster IDL (Ed.). Tracers in geomorphology.Jon Wiley, Chichester, pp. 291-308.##Peart MR, Walling DE (1988) Techniques for establishing suspended sediment sources in two drainage basins in Devon, UK: a comparative assessment. In: Bordas MPD. E. Walling DE. Sediment budgets: IAHS Publication No. 174: 269–279 (Wallingford).##Rowan JS, Goodwill P, Franks SW (2000) Uncertainty estimation in fingerprinting suspended sediment sources. In: Foster IDL (Ed.). Tracers in Geomorphology. John Wiley, Chichester, 279-290.##Skopp JM (2000) Physical properties of primary particles. In: Samner ME (Ed.). Handbook of soil science, CRC press, B3-B24.##Stone M, Saunderson H (1992) Particle size characteristics of suspended sediment in southern Ontario rivers tributary to the Great Lakes. Geological Society Special Publication, 57: 31-45.##Takken I, Beuselinck L, Nachtergaele J, Govers G, Poesen, J, Degraer G (1999) Spatial evaluation of a physically-based distributed erosion model (LISEM). Catena, 37: 431-447.##Walden J, Slattery MC, Burt TP (1997) Use of mineral magnetic measurements to fingerprint suspended sediment sources: approaches and techniques for data analysis. Journal of Hydrology, 202: 353–372.##Wall GJ, Wilding LP (1976) Mineralogy and related parameters of fluvial suspended sediments in Northwestern Ohio. Journal of Environmental Quality, 5: 168-173.##Wallbrink PJ, Olley JM, Murray AS, Olive LJ (1998) Determining sediment sources and transit times of suspended sediment in the Murrumbidgee River, NSW, Australia using fallout 137Cs and 210Pb. Water Resour. Res. 34 (4): 879–887.##Walling DE, Woodward JC (1995) Tracing sources of suspended sediment in river basins: a case study of the River Culm, Devon, UK. Marine and Freshwater Research, 46, 327–336.##Walling DE (2005) Tracing suspended sediment sources in catchments and river systems. Science of the Total Environment, 344: 159– 184.##Walling DE, Owens PN, Leeks GJL (1999) Fingerprinting suspended sediment sources in the catchment of the River Ouse, Yorkshire, UK. Hydrological Processes, 13: 955–975.##Walling DE, Peart MR, Oldfield F, Thompson R (1979) Suspended sediment sources identified by magnetic measurements. Nature, 281: 110–113.##Walling DE, Russell MA, Hodgkinson RA, Zhang Y (2002) Fine-grained sediment budgets for two small lowland agricultural catchments in the UK. Catena, 47: 323-353.##Walling DE, Collins AL (2000) Integrated assessment of catchment sediment budgets: A technical manual. University of Exeter, 168p.##Yu L, Oldfield F (1993) Quantitative sediment source ascription using magnetic measurements in a reservoir system near Nijar, S. E. Spain. Earth Surface Processes and Landforms, 18: 441-454.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تأثیر برداشت شن و ماسه بر خصوصیات ریخت‌سنجی رسوبات بستر رودخانه</TitleF>
+				<TitleE>Effects of sand and gravel mining on bed sediment
+ morphometric characteristics</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>برداشت مصالح از بستر رودخانه­ها منجر به تغییرخصوصیات هیدرولیکی و هندسی رودخانه شده و با افزایش گل­آلودگی و طبعاً انرژی جریان، ضمن تشدید فرسایش و ایجاد مخاطرات زیست­محیطی، پارامترهای ریخت­سنجی رسوبات بستر را نیز تحت تأثیر قرار می­دهد. تحقیق حاضر با هدف بررسی نقش­ برداشت دو معدن شن و ماسه بر خصوصیات ریخت­سنجی رسوبات بستر در رودخانه &quot;واز&quot; واقع در استان مازندران صورت گرفت. به منظور انجام تحقیق پس از تعیین چهار مقطع قبل و بعد از محدوده­های برداشت شن و ماسه، رسوبات بستر به روش ترکیبی نمونه­برداری و مجموعه خصوصیات ریخت­سنجی رسوبات بستر شامل میانگین، جورشدگی، چولگی، کشیدگی، نَما، قطرهای ده، پنجاه و نود درصد، درصد شن، ماسه، سیلت و رس، قطرهای بزرگ، متوسط و کوچک، فاکتور شکل، قطر ظاهری، کرویت، گردشدگی، نسبت پهنی و بافت رسوبات تعیین شد. بررسی نتایج علاوه بر تائید شرایط نسبی هیدرولیکی مشابه در مقاطع قبل و بعد از معادن مورد مطالعه، نشان داد که فعالیت­های برداشت شن و ماسة رودخانه­ای بر تمام خصوصیات ریخت­سنجی بررسی شده به غیر از کرویت و بافت رسوبات تأثیر داشته است. </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Exploitation of materials from river beds changes hydraulic and geometric characteristics of rivers which increases the flow turbidity and flow energy. It consequently accelerates erosion, causes environmental hazards and also affects the bed sediment morphometyric characteristics. The present research was conducted in Vaz River located in Mazandaran Province, Iran, to study the effects of exploitation of two sand and gravel mines on morphometric characteristics of bed sediment. To achieve the study purpose, four cross sections were selected in the study river before and after each mine. The bed sediment were then sampled using combining technique and the important bed sediment characteristics viz. mean, standard deviation, skewness, kurtosis, mode, d10,d50, d90, gravel, sand, mud, large, medium and small diameters, shape factor, nominal diameter, sphericity, roundness, width ratio and sediment texture were then determined. The results of the study, despite of general similarities in hydraulic characteristics of cross sections before and after mines, revealed that the sand and gravel mining activities have had significant effects on all of the studied morphometric characteristics except sphericity and sediment texture.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>75</FPAGE>
+						<TPAGE>86</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سید حمیدرضا</Name>
+						<MidName></MidName>		
+						<Family>صادقی</Family>
+						<NameE>Seyedhamidreza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Sadeghi</FamilyE>
+						<Organizations>
+							<Organization>1- دانشیار، گروه مهندسی آبخیزداری، دانشکده منابع طبیعی و علوم دریایی دانشگاه تربیت مدرس</Organization>
+						</Organizations>
+						<Universities>
+							<University>1- دانشیار، گروه مهندسی آبخیزداری، دانشکده</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>sadeghi@modares.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>عبدالواحد</Name>
+						<MidName></MidName>		
+						<Family>خالدی درویشان</Family>
+						<NameE>Abdol Vahed</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Khaledi Darvishan</FamilyE>
+						<Organizations>
+							<Organization>دانش­آموخته گروه مهندسی آبخیزداری، دانشکده منابع طبیعی و علوم دریایی دانشگاه تربیت مدرس vahedkhaledi@yahoo.com</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانش­آموخته گروه مهندسی آبخیزداری، دانشکده</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>لیلا</Name>
+						<MidName></MidName>		
+						<Family>غلامی</Family>
+						<NameE>Leila</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Gholami</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی گروه مهندسی آبخیزداری، دانشکده منابع طبیعی و علوم دریایی دانشگاه تربیت مدرس lgholami_7777@yahoo.com</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی گروه مهندسی آبخیزداری، دانشکده منابع</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>lgholami_7777@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>برداشت شن و ماسه</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ریخت‌سنجی رسوبات بستر</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>گراولومتر</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>رودخانة واز</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>استان مازندران</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>خالدی درویشان، عبدالواحد. (1383) بررسی تأثیر برداشت شن و ماسه بر خصوصیات ریخت­سنجی رسوبات بستر رودخانه، سمینار کارشناسی ارشد مهندسی آبخیزداری، دانشکده منابع طبیعی دانشگاه تربیت مدرس، 36 ص.##خالقی، پرویز. (1377) نیمرخ جنگلهای خزر (واز رود)، انتشارات موسسه تحقیقات جنگلها و مراتع؛ تهران، 380 ص.##شفاعی­بجستان، محمود. (1373) هیدرولیک رسوب، انتشارات دانشگاه شهید چمران؛ اهواز، 438 ص.##متولی، صدرالدین. (1374) مکانیسم فرسایش توده­ای و روش های پیشگیری و مبارزه با آن در حوزه آبخیز واز بخش چمستان نور، پایان نامه کارشناسی ارشد، گروه جغرافیا، دانشکده ادبیات و علوم انسانی، دانشگاه شهید بهشتی، 243 ص.##Ahmad Bakri, A.G., Aminuddin, AB.G., Nor Azazi, Z., Zorkeflee, A. H. and Chang, C.K. (2002), Determination of Manning’s Flow Resistance Coefficient for Rivers in Malaysia, 1st International Conference on Managing Rivers in The 21st Century: Issues and Challenges, 104-110.##Arcement, G.J. and Schneider, V.R. (1980), Guide for Selecting Manning’s Roughness Coefficient for Natural Channels and Flood Plains (Metric Version), United States Geological Survey Water-Supply (USGS), Paper 2339.##Blott, S.J. and Pye, K. (2001), Gradistat: A Grain Size Distribution and Statistics Package for the Analysis of Unconsolidated Sediment, Earth Surface Processes Landforms, 10(26): 1237-1248.##Brown, A.V., Lyttle, M.M. and Brown, K.B. (1998), Impacts of Gravel Bed Streams, Transactions of the Amrican Fisheries Society, 127(6): 979-994.##Clifford, N.J. (2001), Conservation and the River Channel Environment, In: A. Warren 2  J. R. French (eds) Habitate Conservation, John Wiley and Sons, Ltd, 356: 68-104.##Demir, T. (2003), Downstream Changes in Bed Material Size and Shape Characteristics in a Small Upland Stream, Cwm Treweryn, in South Wales, Bulletin of Earth Sciences Application and Research Centre of Hacettepe University, 33-47.##Fripp, J.B. and Diplas (1993), Surface Sampling in Gravel Stream, Journal of Hydraulic Engineering, 119 (4): 473-490.##Gomez, B. (2001), Downstream Fining in a Rapidly Aggrading Gravel Bed River, Water Resources Research, 37 (6): 1813-1823.##Healy, T. and Wo, K. (2002), Sediment Characteristics and Bed Level Changes in Relation to Sand Extraction and Damming of a Sand-Gravel River: The Lower Waikato River, New Zealand, Journal of Hydrology (NZ) 41(2): 175-196.##Kochel, R.C. and Baker, V.R. (1988), Paleoflood Analysis Using Slackwater Deposits, Flood Geomorphology, John Wiley and Sons Publications: 357- 376.##Lagasse, P.F., Simons, D.B. and Winkley, B.R. (1980), Impact of Gravel Mining on River System Stability, Journal of the Waterway Port Coastal and Ocean Division, 106(3): 389-404.##Leeder, M.R. (1988), Sedimentology: Process and Product, Fletcher and Son Ltd, 344 pp.##Lee, H.Y., Fu, D.T. and Song, M.H. (1993), Migration of Rectangular Mining Pit Composed of Uniform Sediments, Journal of Hydraulic Engineering, 119(1): 64-80.##Mass-Plaa, J., Montanerb, J. and Solab, J. (1999), Groundwater Resources and Quality Variations Caused by Gravel Mining in Costeal Streams, Journal of Hydrology, 216: 197-213##Marstona, R.A., Bravard, J.P. and Greenc, T. (2003), Impacts of Reforestation and Gravel Mining on the Malnant River, Haute-Savoie, French Alps, Geomorphology, 55: 65-74.##Mosley, M.P. and Tindale, D.S. (1985), Sediment Variability and Bed Material Sampling in Gravel-Bed Rivers, Earth Surface Processes Landforms, 10(5): 465-482.##Vignati, D. (2003), Characterisation of Bed Sediment and Suspention of the River Po (Italy) During Normal and High Flow Conditions, Water Research, (37): 2847-2864.##Rinaldi, M., Wyzga, B. and Surian, N. (2005), Sediment Mining in Alluvial Channels: Physical Effects and Management Perspecives, River Research and Applications 21(7): 805-828.##Williams, G.P. (1983), Paleohydrological Methods and Some Examples from Swidish Fluvial Environment, Cobble and Boulder Deposits, Geogr. Ann., 65A: 227-243.##Williams, G.P. and Costa, J.E. (1988), Geometric Measurment after a Flood, Flood Geomorphology, John Wiley and Sons Publications: 65-75.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تحلیل زمین ساخت- رسوبی رسوبات پلیو- کواترنری مرتفع دامنه جنوبی میشوداغ در شمال باختری ایران</TitleF>
+				<TitleE>Tectono-sedimentary analysis of high-altitude Plio-Quaternary sediments, southern slope of Mishow-Dagh, northwest of Iran</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>در این مقاله نقش فعالیتهای زمین­ساختی در سامانه رودخانه­ای و ایجاد فضای رسوبگذاری برای رسوبات پلیوکواترنری دامنه جنوبی رشته کوهستانی میشوداغ به عنوان بخش مهمی از سامانه فرابوم فروبوم شمال دریاچه ارومیه در شمال باختری ایران، مورد بررسی قرار گرفته است. نتیجه عملکرد این فعالیت­ها به همراه سایر فرآیندهای محیطی و زمین ریخت­شناسی، تحمیل ساز و کارهای کنترلی متعدد بر چگونگی رسوبگذاری در محیط­های رسوبی منطقه بوده است. بررسی­های انجام شده بر روی رسوبات پلیو- کواترنری منطقه از طریق تفسیر نقشه­های زمین­شناسی و توپوگرافی، عکس­های هوایی و به ویژه بازدیدهای میدانی، حاکی از وجود چندین مرحله فرگشتی در سامانه­های رسوبگذاری بخش­های مختلف منطقه می­باشد. بر این اساس، پنج دوره فرگشتی برای رسوبات فوق با عناوین رسوبات کنگلومرای نیمه متراکم، Qt1، Qt2، Qt3و Qt4 طرح شده است و در هریک از آنها نقش فعالیت­های زمین­ساختی در ایجاد فضای رسوبگذاری مورد بررسی قرار گرفته است. بر اساس نتایج این پژوهش، سیمای توپوگرافی و زمین­ریختی فعلی منطقه به شدت از فعالیت­های زمین­ساختی کواترنری متأثر شده است و بر طبق شواهد موجود فعالیت­های زمین­ساختی کواترنری مهمترین  نقش را در ایجاد فضای رسوبگذاری و شکل­گیری شبکة آبراهه­ای  ناموافق داشته­اند. سابقه تشکیل شبکه رودخانه­ای ناموافق با ساختار زمین­شناسی منطقه به دوره بعد از کوهزایی پاسادنین و قبل از شروع رسوبگذاری واحد Qt1 بر     می­گردد. با توجه به این که شواهدی مبنی بر حرکات بالاآمدگی در هسته اصلی کوهستان در دوره­های اخیر زمین­شناسی و به ویژه در کواترنری وجود ندارد، لذا  باید دلیل افزایش تدارک رسوبی رودخانه­ها و بجاگذاری رسوبات کواترنری گسترده منطقه را در عوامل دیگری غیر از    فعالیت­های زمین­ساختی مانند تغییرات اقلیمی جستجو نمود. با این حال شواهد ژئومورفولوژی مبتنی بر ویژگی­های سامانه­های رودخانه­ای منطقه، حاکی از پائین رفتن بستر دریاچه ارومیه در اثر عملکرد گسل شرفخانه در پلئیستوسن پایانی و هولوسن است که همزمان با اثر تغییرات اقلیمی، افت سطح آب دریاچه ارومیه را سبب شده است. در مجموع، این مقاله مطالعه­ای موردی را که می­تواند به درک چگونگی برگشت چشم انداز در نواحی فعال زمین ساختی بیانجامد، در اختیار می­گذارد. </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>This study investigates the role of tectonic activities in fluvial systems and produce of accommodation space for Plio-Quaternary sediments of Southern slope of Mishow-Dagh horst which is an important structural element within the horst-graben system of north of the Orumia Lake, northwest of Iran. The result of these activities and other environmental and geomorphologic processes has been to impose control mechanisms in quality of sedimentation in sedimentary environments of the study area. Investigations on Plio-Quaternary sediments via interpretation of geological, topographical and areal photos and especially field studies, indicate that several evolution stages are occurred in sedimentary systems in the study area. Based on all constraints, a five stage evolutionary model of deposits as moderately consolidated conglomerate, Qt1, Qt2, Qt3 and Qt4 are proposed and then, the role of tectonic activities assessed on each of them. The results of study showed that present topographic and geomorphologic landscape of study area hardly influenced by Quaternary tectonic activities and this factor was played the main role in produce of accommodation space and formation of transverse drainage network. The record of formation of transverse drainage network referred to after the Pasadanian orogeny and before the beginning of stage Qt1 sedimentation. Since there are not witnesses based on uplift movements in central part of Mishow-Dagh in recent geologic times and especially Quaternary, therefore, it should be look for the reason of the increase in sediment yield of fluvial systems and spread sedimentation in Quaternary, in other factors such as climatic changes. However, geomorphologic witnesses based on fluvial systems properties, indicate that the Orumia Lake bed subsided in Pleistocene and Holocene as the result of Sharafkhaneh fault activities, that probably synchronous to Quaternary climatic changes(?) caused falling of Orumia Lake water surface. In particular, this paper provides a case study that contributes to the understanding of landscape development within tectonically active zones.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>87</FPAGE>
+						<TPAGE>101</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>داوود</Name>
+						<MidName></MidName>		
+						<Family>مختاری</Family>
+						<NameE>Davood</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mokhtari</FamilyE>
+						<Organizations>
+							<Organization>1-      دانشیار، گروه پژوهشی جغرافیا دانشگاه تبریز</Organization>
+						</Organizations>
+						<Universities>
+							<University>1-      دانشیار،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>d.mokhtari@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>تحلیل‌های زمین ساخت- رسوبی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>رسوبات پلیو- کواترنری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>رسوبات رودخانه‌ای</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شبکه آبراهه‌ای ناموافق</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>فضای رسوبگذاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>دامنه جنوبی میشوداغ</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شمال باختری ایران</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>جداری عیوضی، جمشید. (1381). ژئومورفولوژی ایران. انتشارات دانشگاه پیام نور.##رضایی مقدم، محمد حسین. (1374)پژوهش در تشکیل کوهپایه‌ها و دشتهای انباشتی دامنة جنوبی میشو داغ، با تاکید بر مورفوکلیما ومورفوتکتونیک. پایان­نامة دکتری. دانشکدة علوم انسانی و اجتماعی، دانشگاه تبریز.##سازمان‌ زمین‌شناسی کشور. (1373). نقشة زمین‌شناسی به مقیاس 100000 :1 مرند.##مختاری، داود. (1381). عوامل مؤثر در گسترش و تکامل مخروط افکنه‌های کواترنری در دامنه شمالی میشو داغ (آذربایجان- ایران) و ارزیابی توانهای محیطی آن. پایان­نامه دورة دکتری. دانشکده علوم انسانی و اجتماعی دانشگاه تبریز.##مختاری، داود. (1384) الف. نقش نوزمین ساخت در تکامل سامانه های رودخانه ای در کواترنر، مطالعه موردی: رودخانه های دامنه شمالی میشوداغ. علوم زمین . شماره 57.##مختاری، داود. (1384)ب. اشکال مختلف مخروط افکنه ای در اطراف تودة کوهستانی میشوداغ (شمال غرب ایران) با تأکید بر نقش فعالیتهای تکتونیکی کواترنر در ایجاد آنها. گزارش طرح تحقیقاتی. دانشکدة علوم انسانی و اجتماعی، دانشگاه تبریز.##مختاری، داود. (1385). اسارت رودخانه و آثار آن در سیستم رودخانه ای، مطالعه موردی: رودخانه باغلار در دامنه شمالی میشوداغ (شمال غرب ایران). گزارش طرح تحقیقاتی، دانشگاه تبریز.##Al-Bataina, B. A., Al-Taj, M. M., Atallah, M. Y. (2005). Relation between radon concentrations and morphotectonics of the Dead Sea transform in Wadi Araba, Jordan. Radiation Measurements 40, 539-543.##Becker, L.P., Fahrnberger, W., Hermann, S.W. (2000). The role of escape tectonics for dispersion of large scale landslides - examples from the crystalline basement of the Eastern Alps. EGS XXV General Assembly, Nice, France.##Blair, T.C. (1999). Alluvial fan and catchment initiation by rock avalanching, Owens Valley, California: Geomorphology 28. p. 201-221.##Blair, T. C. and Mcpherson. J.G. (1994). Alluvial fan processes and forms. In: A.D.Abrahams and A.J.Parsons(eds.). Geomorphology of desert environment. Chapman &amp; Hall. London.##Bull, W.B. )1962(. Relations of alluvial-fan size and slope to drainage- Basin Size and lithology in Western Fresno County, California. U.S.Geol.Surv.Prof.Pap.450-B, 51-53.##Calvache, M.L., Viseras, C., Fernandez, J. (1997). Controls on fan development- evidence from fan morphometry and Sedimentology: Sierra Nevada, E Spain: Geomorpholog 21, p. 69-84.##Chen,Y.C., Sung,Q.,Cheng,K.Y. (2003). Along-strike variations of morphotectonic features in the western foothills of Taiwan: tectonic implications based on stream-gradient and hypsometric analysis. Geomorphology,56:109-137.##Dehandschutter&#039;s,B.(2001). Study of the structural evolution of continental basins in Altai, Central Asia. doctorate thesis in Geology, Free University of Brussels.##El Hamdouni, R., Irigaray, C., Fernandez, T., Sanz de Galdeano, C., Chacon, J. (2000). Active tectonics as a factor of mass movement. A case study. Fehler! Textmarke nicht definiert.##Galadini, F., Galli,P., Cittadini,A., Giaccio, B. (2001). Late Quaternary fault movements in the Mt. Baldo-Lessini Mts. Sector of the southalpine area (northern Italy). Netherlands Journal of  Geosciences/ Geologie en Mijnbouw 80 (3-4):187-208.##Garcia,A.F., Zhu,Z., KuT.L., Sanz de Galdeano,C., Chadwick,O.A.,Chacon Montero, J. (2003). Tectonically driven landscape development within the eastern Alpujarran Corridor, Betic Cordillera, SE Spain (Almeria). Geomorphology 50. p. 83-110.##Garcia-Melendez, E., Goy, J. L., Zazo, C. (2003). Neotectonics and plio-Quaternary landscape development within the eastern Huercal-Overa Basin ( Betic Cordilleras, southeast Spain). Geomorphology 50. p. 111- 133.##Grant,L. B.,With  Eric,P. I.,Runnerstorm,R.,Gath, E. M. (2002). Active deformation and earthquake potential of southern Los Angeles Basin , Orange County, California. External Grant Award No. 01HQGR0117.##Guccione,M.J., Mueller,K., Champion,J., Shepherd, S., Carlson,S.D., Odhiambo,B., Tate,A. (2001). Stream response to repeated coseismic folding, Tiptonville dome, New Madrid seismic zone. Geomorphology ,43,p. 313-349.##Guerra-Merchán, A., Serrano, F., Ramallo, D. (2004). Geomorphic and sedimentary Plio–Pleistocene evolution of the Nerja area (northern Alboran basin, Spain). Geomorphology 60,89-105.##Hesterberg,T.C., Stanford,D.C., and  Merritts,D.J. (1995). Tectonic Deformation Estimation using Stream Gradients: Nonparametric Function Estimation from Difference Data using Splines and Conjugate Gradients. Computing Science and Statistics, 32, 246-254, Interface Foundation of North America, Fairfax Station, VA.##Hirst, J. P. P., Nichols, G. J. (1986). Thrust tectonic controls on Miocene alluvial distribution patterns, southern Pyrenees. In: Allen PA, Homewood P, editors. Foreland Basins, vol. 8. Int Assoc Sediment Spec Publ; p. 247–58.##Keller, E.A., Pinter, N. (2002). Active tectonics: Earthquakes, Uplift, and Landscape. Prentice Hall, Pup.##Keller, E.A., Rockwell, T.K. (1984). Tectonic geomorphology, Quaternary chronology, and paleoseismicity. In: J.E.Costa and P. J.Fleisher(eds.)., Developments and applications of geomorphology.,Springer –verlog Pub., pp.203-239.##Li, Y. Yang, J. Tan, l. and Duan, F. (1999). Impact of tectonics on allvial landforms in the Hexi Corridor. Northwest China. Geomorphology 28. PP. 299-308.##Luzo´n, A. (2001). Ana´lisis Tectosedimentario de los materiales Terciarios continentales del sector central de la Cuenca del Ebro (provincias de Huesca y Zaragoza.) PhD thesis, Zaragoza Univ., Spain.##Luzo´n, A., Gonza´lez, A., Munoz, A., Sa´nchez-Valverde, B. (2002). Upper Oligocene–Lower Miocene shallowing upward lacustrine sequences controlled by periodic and non-periodic processes (Ebro Basin, Spain). J Paleolimnol  28:441– 6.##Machette, M.N. (2000). Active. Capable, and potentially active faults – a palaeoseismic perspective. Journal of Geodynamics 29.387-392.##Mial, A. D. (1990).   Principles of sedimentary basin analysis. Springer-Verlag Pub.,##Milla´n Garrido, H., Pueyo Morer, E., Aurell Cardona, M., Luzo´n Aguado, A., Oliva Urc‎´a, B., Mart‎´nez Pena, B. (2000). Actividad tecto´nica registrada en los depo´ sitos terciarios del frente meridional del Pirineo central. Rev Soc Geol Esp 13: 279–300.##Modenesi-Gauttieri, M. C., Hiruma, S. H., Riccomini, C. (2002). Morphotectonics of a high plateau on the northwestern flank of the Continental Rift of southeastern Brazil. Geomorphology 43, 257-271.##Munoz, A., Arenas, C., Gonza´lez, A., Luzo´n, A., Pardo, G., Villena, J. (2002). Ebro Basin (Northeastern Spain). In: Gibbons W, Moreno T, editors. Geology of Spain. London7 Geological Society; p. 301– 9.##Munoz, J. A., Mart‎´nez, A., Verge´s,  J. (1986). Thrust sequences in the eastern Spanish Pyrenees. J Struct Geol  8:399– 405.##Panizza, M., Castaldini, D., (1987). Neotectonic research in applied geomorphological studies. Zeitchrift fur Geomorphologie Supplementband.Vol.63, 173-211. ##Pascucci, V., Costantini, I. A., Martini, P., Dringoli, R. (2006). Tectono-sedimentary analysis of a complex, extensional, Neogene basin formed on thrust-faulted, Northern Apennines hinterland: Radicofani Basin, Italy. Sedimentary Geology 183, 71-79.##Puigdefa`bregas, C., Munoz, J. A., Verge´s, J. (1992). Thrusting and foreland basin evolution in the Southern Pyrenees. In: Mc Clay KR, editor. Thrust tectonics. Chapman &amp; Hall;  p. 247–54.##Puigdefa`bregas, C., Souquet, P. (1986). Tectosedimentary cycles and depositional sequences of the Mesozoic and Tertiary from the Pyrenees. Tectonophysics 129:173– 203.##RFAFJ( The Research Group for Active Faults of Japan). (1980). Active faults in and around Japan: distribution and degree of activity. Journal of Natural Disaster Science. Vol. 2(2), 61-99.##Riba, O., Reguant, S., Villena, J. (1983). Ensayo de s‎´ntesis estratigra´fica y evolutiva de la Cuenca terciaria del Ebro. In:Libro Jubilar JM R‎´os, editor.Geolog‎´a de Espana, Tomo II. Instituto Geolo´gico y Minero de Espana; p.131–59.##Schuum,S.A.,Dumont,J.F.,Halbrook,J.M. (2000). Active Tectonics and Alluvial Rivers.Cambridge University Press.NewYork.##Schoorl, J. M., Veldkamp, A. (2003). Late Cenozoic landscape development and its tectonic implications for the Guadalhorce valley near Alora (Southern Spain).  Geomorphology 50. p. 43-57.##Slemmons, D.B., McKinney, R. (1977). Difination of &quot; active fault&quot; . US Army Engineer Waterways Expriment Station, Soils and Pavements Laboratory. miscellaneous paper S,77-8, Vicksburg.##Snyder,N.P.,Whipple,K.X.,Tucker,G.E.,Merrits,D.J. (2003). Channel response to tectonic forcing:field analysis of stream morphology and hydrology in the Mendecino triple junction region, northern California. Geomorphology 53. p.97-127.##Sorriso-Valvo, M., Sylvester, A.G. (1993). The relationship between geology and landforms along a coastal mountain front, northern Calabria, Italy: Earth Surface processes and landforms 18, 257-273.##Stewart, I. S., Hancock, P. L. (1992). Neotectonics. In: Twiss &amp; Moores. Structural geology. 370-409.##Stokes, M., Mather, A. E. (2000). Response of Plio-Pleistocene alluvial systems to tectonically induced base-level changes, Vera Basin, Southeast Spain. Journal of the geological society 157. p. 303-316.##Stokes, M., Mather, A. E. (2003). Tectonic origin and evolution of transverse drainage: the Rio Almanzora, Betic Cordillera, Southeast Spain. Geomorphology 50. p. 59-81.##Süzen, M. L., Toprak, V., Rojay, B. (2006). High-altitude Plio–Quaternary fluvial deposits and their implication on the tilt of a horst, western Anatolia, Turkey. Geomorphology 74, 80-99.##Villena, J., Pardo, G., Pe´rez, A., Munoz, A., Gonza´lez, A. (1996a). The Tertiary of the Iberian margin of the Ebro Basin: sequence stratigraphy. In: Friend P, Dabrio C, editors. Tertiary Basins of Spain, The Stratigraphic Record of Crustal Kinematics. World and Regional Geology Series. Cambridge University Press; p. 77– 82.##Villena, J., Pardo, G., Pe´rez, A., Munoz, A., Gonza´lez, A. (1996b). Tertiary of the Iberian margin of the Ebro Basin: paleogeography and tectonic control. In: Friend P, Dabrio C, editors. Tertiary Basins of Spain: The Stratigraphic Record of Crustal Kinematics World and Regional Geology Series. Cambridge7 Cambridge University Press; p. 83– 8.##Viseras, C., Calvache, M. L., Soria, J. M., Fernandez, J. (2003). Differential features of alluvial fans controlled by tectonic or eustatic accommodation space. Examples from the Betic Cordillera, Spain. Geomorphology 50. p. 181-202.##Viseras, C., Maldonado, A. (1999). Facies architecture, seismic stratigraphy and development of a high latitude basin: the powell Basin(Antarctica). Marine geology, 157:69-87.##Wisniewski,P.A., Pazzaglia,F.J. (2002). Epirogenic Controls on Canadian River Incision and Landscape Evolution, Great Plains of Northeastern New Mexico. The Journal of Geology, 2002, volume 110, p. 437 456##Winter,Th., Niviere,B., Giamboni,M. (2000). Active tectonics and seismic hazard in Sundgau area. EUCOR_URGENT Annual Report.                                                                                   ##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE></ARTICLES>
+</JOURNAL>
+
+				</XML>
+				

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+<ags:resource>
+					<dc:title><![CDATA[Automatic lineament extraction from ASTER  images using the Hough transform, JabalBarez 1:100000 sheet]]></dc:title>
+					<dc:creator>
+					<ags:creatorPersonal><![CDATA[Mohammadpour, Mahyadin]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Allahveisi, Khaled]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Bahroudi, Abbas]]></ags:creatorPersonal>
+
+			</dc:creator>
+			<dc:publisher>
+				<ags:publisherName><![CDATA[Shahid Chamran University of Ahvaz]]></ags:publisherName>
+			</dc:publisher>
+			<dc:date><dcterms:dateIssued><![CDATA[2020]]></dcterms:dateIssued></dc:date>
+				<dc:subject><![CDATA[porphyry copper]]></dc:subject>
+				<dc:subject><![CDATA[automatic lineament extraction]]></dc:subject>
+				<dc:subject><![CDATA[edge detection]]></dc:subject>
+				<dc:subject><![CDATA[CANNY algorithm]]></dc:subject>
+				<dc:subject><![CDATA[Hough transform]]></dc:subject>
+			<dc:description>
+				<ags:descriptionNotes><![CDATA[Includes references]]></ags:descriptionNotes>
+				<dcterms:abstract><![CDATA[The Jebal Barez area is situated in the Urmia-Dokhtar magmatic belt, and the porphyry copper mineralization in this region has close relationship with faults and granitoid masses. Determination of the structural lineaments is a good guide to identify the location of copper mineralization in the region. In this paper, an automatic algorithm was used to extract the lineaments from ASTER images. This algorithm can highly reduce user errors and runtime. In this paper, the CANNY algorithm was used as an edge-detector filter while Hough transform was used to extract linear features from satellite imagery. Finally, after investigating and detecting their operation, the faults associated with copper mineralization were recognized in the region. According the rose-diagram, two fault systems were highlighted that the main fault system is located along the NW-SE, and the fault system along the N-S boundary forms a small fraction of the total fractures in the region. the fault density map of the area shows a high potential for porphyry copper mineralization. In order to investigate the success of the ASTER images in extracting faults in the region these faults were compared with the faults of geology map, that 63.05% of them had overlapping with geology faults.]]></dcterms:abstract>
+			</dc:description>
+            <dc:identifier scheme="dcterms:URI"><![CDATA[http://aag.scu.ac.ir/article_15065_470fd3047e1aa97444cf922a940d4592.pdf]]></dc:identifier>
+			<dc:identifier scheme="ags:DOI"><![CDATA[10.22055/aag.2019.25774.1850]]></dc:identifier>
+			<dc:type><![CDATA[Journal Article]]></dc:type>
+			<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+			<dc:language><![CDATA[Persian]]></dc:language>
+			<dc:source><![CDATA[http://aag.scu.ac.ir/]]></dc:source>
+			<dc:source><![CDATA[Journal of Advanced Applied Geology]]></dc:source>
+		</ags:resource>
+<ags:resource>
+					<dc:title><![CDATA[Bioavailability and bioaccumulation of heavy metals in the sediment-plant system of Shadegan Wetland, Khuzestan Province]]></dc:title>
+					<dc:creator>
+					<ags:creatorPersonal><![CDATA[Yavar Ashayeri, Nasrin]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Keshavarzi, Behnam]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Moore, Farid]]></ags:creatorPersonal>
+
+			</dc:creator>
+			<dc:publisher>
+				<ags:publisherName><![CDATA[Shahid Chamran University of Ahvaz]]></ags:publisherName>
+			</dc:publisher>
+			<dc:date><dcterms:dateIssued><![CDATA[2020]]></dcterms:dateIssued></dc:date>
+				<dc:subject><![CDATA[Bioavailability]]></dc:subject>
+				<dc:subject><![CDATA[Bioaccumulation]]></dc:subject>
+				<dc:subject><![CDATA[Aquatic Macrophytes]]></dc:subject>
+				<dc:subject><![CDATA[Heavy metals]]></dc:subject>
+				<dc:subject><![CDATA[Shadegan Wetland]]></dc:subject>
+			<dc:description>
+				<ags:descriptionNotes><![CDATA[Includes references]]></ags:descriptionNotes>
+				<dcterms:abstract><![CDATA[Shadegan Wetland is one of the most important and valuable aquatic habitats in the country that has great importance in terms of biological and ecological in the region's Wildlife. In order to evaluate plant species as an indicator organism of heavy metal pollution in biomonitoring studies of the aquatic ecosystem, the levels of heavy metal accumulation (Mo, Cu, Pb, Zn, As, Se, Hg, Ni, Co, Cd, Cr, V, Mn, Al and Fe) in shoot and root of the macrophytes Typha latifolia, Halocnemum strobilaceum, Aeluropus lagopoides, Phragmites australis and Scripus maritimus was determined. All five species exhibited significantly higher concentrations of metals in roots than in aboveground organs. These species are therefore suitable for use as indicators of the presence and level of heavy metal contaminants in wetlands. Selenium was the most mobile element through the plant tissues with an average bioaccumulation factor exceeds 1. Selenium concentration in the plants was more than levels detected in sediments. Translocation factor values for Phragmites australis were all below 1, suggest-ing low-efficiency plants for metal translocation from roots to shoots. Sequential extractions of sediment samples indicated that three elements including Pb, Ni, and Zn had the most bioavailability.]]></dcterms:abstract>
+			</dc:description>
+            <dc:identifier scheme="dcterms:URI"><![CDATA[http://aag.scu.ac.ir/article_15073_a5e23ab121e16fe5e80b69e475257500.pdf]]></dc:identifier>
+			<dc:identifier scheme="ags:DOI"><![CDATA[10.22055/aag.2019.28736.1947]]></dc:identifier>
+			<dc:type><![CDATA[Journal Article]]></dc:type>
+			<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+			<dc:language><![CDATA[Persian]]></dc:language>
+			<dc:source><![CDATA[http://aag.scu.ac.ir/]]></dc:source>
+			<dc:source><![CDATA[Journal of Advanced Applied Geology]]></dc:source>
+		</ags:resource>
+<ags:resource>
+					<dc:title><![CDATA[Influence of the Gachsaran Formation lithostratigraphy on its decoupling behaivior on Zagros Frontal Fault hanging wall anticlines in the southern Dezful Embayment]]></dc:title>
+					<dc:creator>
+					<ags:creatorPersonal><![CDATA[Tavakolian, Eslam]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Yassaghi, Ali]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Najafi, Mehdi]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Golalzadeh, Alireza]]></ags:creatorPersonal>
+
+			</dc:creator>
+			<dc:publisher>
+				<ags:publisherName><![CDATA[Shahid Chamran University of Ahvaz]]></ags:publisherName>
+			</dc:publisher>
+			<dc:date><dcterms:dateIssued><![CDATA[2020]]></dcterms:dateIssued></dc:date>
+				<dc:subject><![CDATA[Folding style]]></dc:subject>
+				<dc:subject><![CDATA[Gachsaran Formation]]></dc:subject>
+				<dc:subject><![CDATA[Dezful Embayment]]></dc:subject>
+				<dc:subject><![CDATA[Detachment Horizon]]></dc:subject>
+				<dc:subject><![CDATA[Salt content]]></dc:subject>
+			<dc:description>
+				<ags:descriptionNotes><![CDATA[Includes references]]></ags:descriptionNotes>
+				<dcterms:abstract><![CDATA[The mechanical properties of incompetent rocks play a crucial role in controlling the deformation style of fold-thrust belts. Disharmonic folding occurs due to the act of detachment layers, in which surficial fold shapes doesn’t reflect their deeper geometry. The Gachsaran Formation is the most significant detachment layers across the Zagros folded belt zone. In this study, field data, interpretation of subsurface data (2D seismic lines, UGC maps and well data) together with surface geological mapping, permit to measure crestal shift of anticlines, Aghajari, Pazanan, Rage-sefid, BibiHakimeh, Sulabdar and Nargesi in the southern Dezful Embayment. The results show the effect of the Gachsaran Formation on the folding style. Since the Gachsaran Formation has different lithology in the southern Dezful Embayment, the results of this study indicated that salt content and thickness variations of the Gachsaran Formation controls its behavior as a decoupling level and their effect on disharmonic, change in folding styles and in shifting of folds’ hinge zone.]]></dcterms:abstract>
+			</dc:description>
+            <dc:identifier scheme="dcterms:URI"><![CDATA[http://aag.scu.ac.ir/article_15074_311beb37d60868534ea46f8815598c8f.pdf]]></dc:identifier>
+			<dc:identifier scheme="ags:DOI"><![CDATA[10.22055/aag.2019.28863.1954]]></dc:identifier>
+			<dc:type><![CDATA[Journal Article]]></dc:type>
+			<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+			<dc:language><![CDATA[Persian]]></dc:language>
+			<dc:source><![CDATA[http://aag.scu.ac.ir/]]></dc:source>
+			<dc:source><![CDATA[Journal of Advanced Applied Geology]]></dc:source>
+		</ags:resource>
+<ags:resource>
+					<dc:title><![CDATA[Biostratigraphy and paleoecology of Paleocene-Eocene deposits in Kuh–e-Ketabi section (West of Rafasanjan)]]></dc:title>
+					<dc:creator>
+					<ags:creatorPersonal><![CDATA[Ahmadi, Tayebeh]]></ags:creatorPersonal>
+
+			</dc:creator>
+			<dc:publisher>
+				<ags:publisherName><![CDATA[Shahid Chamran University of Ahvaz]]></ags:publisherName>
+			</dc:publisher>
+			<dc:date><dcterms:dateIssued><![CDATA[2020]]></dcterms:dateIssued></dc:date>
+				<dc:subject><![CDATA[Paleocene]]></dc:subject>
+				<dc:subject><![CDATA[Eocene]]></dc:subject>
+				<dc:subject><![CDATA[Foraminifera]]></dc:subject>
+				<dc:subject><![CDATA[Tethys]]></dc:subject>
+				<dc:subject><![CDATA[Rafsanjan]]></dc:subject>
+			<dc:description>
+				<ags:descriptionNotes><![CDATA[Includes references]]></ags:descriptionNotes>
+				<dcterms:abstract><![CDATA[Abstract.  The biostratigraphy and paleoecology of Paleocene - Early Eocene deposits in the west of Rafsanjan city (Kerman Province) were studied for the first time. The Kuh – e - Ketabi sequence, the measured profile has about 161 m thick, mainly consists of limestone, dolostone, marl, shale, dolomitic limestone, and calcareous sandstone. Based on lithological characteristics, the studied section could be divided into 5 informal rock units. Forty genera and species of benthonic and planktonic foraminifera have been obtained from the section. One planktonic biozone (Morozovella angulata Lowest occurrence zone) and three shallow-water Tethyan foraminiferal biozones (SBZ4 – SBZ6) have been recognized based on the foraminiferal distribution in the stratigraphic column. From the view of abundance, diversity and distribution of foraminifera the Late Paleocene - Early Eocene part of the studied section is comparable with an equivalent sequence of the Tethyan Basin. Also, environmental depth changes are discussed based on faunal changes.]]></dcterms:abstract>
+			</dc:description>
+            <dc:identifier scheme="dcterms:URI"><![CDATA[http://aag.scu.ac.ir/article_15066_e1e6c78aae3fc285866bc7c66534004c.pdf]]></dc:identifier>
+			<dc:identifier scheme="ags:DOI"><![CDATA[10.22055/aag.2019.28036.1914]]></dc:identifier>
+			<dc:type><![CDATA[Journal Article]]></dc:type>
+			<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+			<dc:language><![CDATA[Persian]]></dc:language>
+			<dc:source><![CDATA[http://aag.scu.ac.ir/]]></dc:source>
+			<dc:source><![CDATA[Journal of Advanced Applied Geology]]></dc:source>
+		</ags:resource>
+<ags:resource>
+					<dc:title><![CDATA[Study of the formation conditions and gemology potential of cordierite, Kyanite and Andalusites in the metamorphic aureole of Alvand Complex, Hamedan, Iran]]></dc:title>
+					<dc:creator>
+					<ags:creatorPersonal><![CDATA[Saki, Adel]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Zarasvandi, Alireza]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Mazraeh, Fatemeh]]></ags:creatorPersonal>
+
+			</dc:creator>
+			<dc:publisher>
+				<ags:publisherName><![CDATA[Shahid Chamran University of Ahvaz]]></ags:publisherName>
+			</dc:publisher>
+			<dc:date><dcterms:dateIssued><![CDATA[2020]]></dcterms:dateIssued></dc:date>
+				<dc:subject><![CDATA[Sanandaj-Sirjan]]></dc:subject>
+				<dc:subject><![CDATA[Hamedan]]></dc:subject>
+				<dc:subject><![CDATA[Cordierite]]></dc:subject>
+				<dc:subject><![CDATA[Kyanite]]></dc:subject>
+				<dc:subject><![CDATA[Gemstone]]></dc:subject>
+			<dc:description>
+				<ags:descriptionNotes><![CDATA[Includes references]]></ags:descriptionNotes>
+				<dcterms:abstract><![CDATA[The study area is located in the metamorphic aureole of Alvand Complex Hamedan province. Structurally, the study area is placed in the Sanandaj-Sirjan metamorphic zone. The cordierites in the mesosome of the migmatites have coarse crystals and are accompanied by spinel (lal), which has formed due to the increasing of metamorphism temperature and partial melting processes. The molar fraction (Xmg) of cordierite increases with the increasing degree of metamorphism from the zone of K-feldspar-cordierite to spinel- cordierite (0.45 to 0.620).The approximate temperature for the cordierites in the mesosome of the migmatites is estimated to be 750 ° C and the pressure is ~ 4 kb. Kyanite is specifically hosted by quartz veins in the region, but it is also found in the adjacent of metamorphosed rocks and in the vicinity of veins. The existence of kyanite veins indicates that it's not limited to high pressure facies, but may be formed by hydrothermal pressures. Chiastolite with 20 cm long and 4 cm wide, which is the main outcrop of the Chiastolite schists around Zaman –bad. According to the results of geothermobarometry, the temperature and pressure of Chiastolie schists are 628 ° C, and pressure is about 4 kbar. According to gemology studies, Cordierites are suitable for cabochon and fantasy cut, the high level resistant of this]]></dcterms:abstract>
+			</dc:description>
+            <dc:identifier scheme="dcterms:URI"><![CDATA[http://aag.scu.ac.ir/article_15071_8f710f0927f815f9e0372fc9f0add521.pdf]]></dc:identifier>
+			<dc:identifier scheme="ags:DOI"><![CDATA[10.22055/aag.2019.28506.1938]]></dc:identifier>
+			<dc:type><![CDATA[Journal Article]]></dc:type>
+			<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+			<dc:language><![CDATA[Persian]]></dc:language>
+			<dc:source><![CDATA[http://aag.scu.ac.ir/]]></dc:source>
+			<dc:source><![CDATA[Journal of Advanced Applied Geology]]></dc:source>
+		</ags:resource>
+<ags:resource>
+					<dc:title><![CDATA[Origin of Choghart iron ore deposit, Central Iran: Applied to the fluid medium middle class]]></dc:title>
+					<dc:creator>
+					<ags:creatorPersonal><![CDATA[Manouchehry Nya, Mahya]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Asadi, Sina]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Hassannezhad, Aliakbar]]></ags:creatorPersonal>
+
+			</dc:creator>
+			<dc:publisher>
+				<ags:publisherName><![CDATA[Shahid Chamran University of Ahvaz]]></ags:publisherName>
+			</dc:publisher>
+			<dc:date><dcterms:dateIssued><![CDATA[2020]]></dcterms:dateIssued></dc:date>
+				<dc:subject><![CDATA[Apathetic iron]]></dc:subject>
+				<dc:subject><![CDATA[micro-metering]]></dc:subject>
+				<dc:subject><![CDATA[middle run-off fluid]]></dc:subject>
+				<dc:subject><![CDATA[Choghart]]></dc:subject>
+				<dc:subject><![CDATA[Bafgh]]></dc:subject>
+			<dc:description>
+				<ags:descriptionNotes><![CDATA[Includes references]]></ags:descriptionNotes>
+				<dcterms:abstract><![CDATA[Choghart iron deposit is located in central Iran and 12 km north east of Bafgh, 130 km southeast of Yazd city. The dominant host rock in this area is the complex of intermediate-acidic igneous infiltrations and Mafic dykes, which have been highly altered in some parts and are known as metasomatitis. These igneous rocks have been transformed in some places to the extent of the green schist facies. Magnetite is the most abundant oxidizing ore in the region, in layered, massive and diffuse forms in the host rock of Choghart deposit. The main ore mineralization of the deposit occurred in the late Precambrian formations of high-grade (magnetite + apatite + amphibole). The data from the study of fluid transitions in monolithic apatite with magnetite shows that the Changar iron mass canal is in the range of 370 to 385 ° C. The highest salinity rate was found to be 20-39% by weight, equivalent to salt. Field evidence and micro-measurements of fluid transitions in Chaghart mineral deposit apatite show that ore-bearing fluid is very similar to that of magmatic-hydrothermal deposits of gold-copper-iron oxide (IOCG).]]></dcterms:abstract>
+			</dc:description>
+            <dc:identifier scheme="dcterms:URI"><![CDATA[http://aag.scu.ac.ir/article_15067_d1dee24a35c22a65bae0ab83648fe233.pdf]]></dc:identifier>
+			<dc:identifier scheme="ags:DOI"><![CDATA[10.22055/aag.2019.28137.1918]]></dc:identifier>
+			<dc:type><![CDATA[Journal Article]]></dc:type>
+			<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+			<dc:language><![CDATA[Persian]]></dc:language>
+			<dc:source><![CDATA[http://aag.scu.ac.ir/]]></dc:source>
+			<dc:source><![CDATA[Journal of Advanced Applied Geology]]></dc:source>
+		</ags:resource>
+<ags:resource>
+					<dc:title><![CDATA[Spectral behavior modeling of soil texture over dust center of Khuzestan province using Hyperspectral images and Random Forest model]]></dc:title>
+					<dc:creator>
+					<ags:creatorPersonal><![CDATA[Chatrenor, Mansour]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Landi, Ahmad]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Farrokhian Firouzi, Ahmad]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Noroozi, Aliakbar]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Bahrami, Hosseinali]]></ags:creatorPersonal>
+
+			</dc:creator>
+			<dc:publisher>
+				<ags:publisherName><![CDATA[Shahid Chamran University of Ahvaz]]></ags:publisherName>
+			</dc:publisher>
+			<dc:date><dcterms:dateIssued><![CDATA[2020]]></dcterms:dateIssued></dc:date>
+				<dc:subject><![CDATA[Random forest model]]></dc:subject>
+				<dc:subject><![CDATA[Second derivative filter]]></dc:subject>
+				<dc:subject><![CDATA[Continuum removal filter]]></dc:subject>
+				<dc:subject><![CDATA[Key wavelength]]></dc:subject>
+				<dc:subject><![CDATA[main factors]]></dc:subject>
+			<dc:description>
+				<ags:descriptionNotes><![CDATA[Includes references]]></ags:descriptionNotes>
+				<dcterms:abstract><![CDATA[Soil texture had an essential role in soil resistance of wind erosion. Due to useful Features of Hyperspectral images including low cost and high speed to the evaluation of soil properties, it can be used to determination of soil texture. The aim of this study was to evaluate the spectral behavior of clay, sand and silt content in susceptible soils of Khuzestan province implementing the PLS-RF model. Initially, the main factors were determined, using partial least squares regression (PLSR). Accordingly, the Random Forest model was implemented on main factors. Subsequently, the comparing of performance related to main spectral and five preprocessing methods, i.e. the Savitzky-Golay filter, the first derivative with the Savitzky-Golay filter (FD-SG), the second derivative with the Savitzky-Golay filter (SD-SG), the normalization of standard method (SNV), and the continuum removed method (CR), applied to eliminate the noise and also to increase the accuracy of the PLS-RF model. The Results showed that the best method with high performance was the continuum removal for clay content (, PRDcal=1.93) and silt content, (PRDcal=1.65). Additionally, the second derivative method was the best performance to the evaluation of sand content (PRDcal=1.98). In this study, the key wavelength for clay content was determined in the range of 1200-1210, 1800 and 2200 nm and the results for sand was 1400-1450, 1910-1930, 2200 and 2220 nm, and finally for silt was 1320, 1615, 2200 nm.]]></dcterms:abstract>
+			</dc:description>
+            <dc:identifier scheme="dcterms:URI"><![CDATA[http://aag.scu.ac.ir/article_15080_df8a711b407d430da2e03a47b231d1a6.pdf]]></dc:identifier>
+			<dc:identifier scheme="ags:DOI"><![CDATA[10.22055/aag.2019.29642.1990]]></dc:identifier>
+			<dc:type><![CDATA[Journal Article]]></dc:type>
+			<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+			<dc:language><![CDATA[Persian]]></dc:language>
+			<dc:source><![CDATA[http://aag.scu.ac.ir/]]></dc:source>
+			<dc:source><![CDATA[Journal of Advanced Applied Geology]]></dc:source>
+		</ags:resource>
+<ags:resource>
+					<dc:title><![CDATA[Hamzelou Cu deposit: Redbed type sediment-hosted copper mineralization in the Upper Red Formation, NW Zanjan]]></dc:title>
+					<dc:creator>
+					<ags:creatorPersonal><![CDATA[Ghasemlou, Aisan]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Kouhestani, Hossein]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Mokhtari, Mir Ali asghar]]></ags:creatorPersonal>
+<ags:creatorPersonal><![CDATA[Zohdi, Afshin]]></ags:creatorPersonal>
+
+			</dc:creator>
+			<dc:publisher>
+				<ags:publisherName><![CDATA[Shahid Chamran University of Ahvaz]]></ags:publisherName>
+			</dc:publisher>
+			<dc:date><dcterms:dateIssued><![CDATA[2020]]></dcterms:dateIssued></dc:date>
+				<dc:subject><![CDATA[Sediment-hosted Cu mineralization]]></dc:subject>
+				<dc:subject><![CDATA[Redbed type]]></dc:subject>
+				<dc:subject><![CDATA[Upper Red Formation]]></dc:subject>
+				<dc:subject><![CDATA[Hamzelou]]></dc:subject>
+				<dc:subject><![CDATA[Zanjan]]></dc:subject>
+			<dc:description>
+				<ags:descriptionNotes><![CDATA[Includes references]]></ags:descriptionNotes>
+				<dcterms:abstract><![CDATA[The Hamzelou Cu deposit, 70 km northwest of Zanjan, is located in the Central Iranian zone. Copper mineralization in this deposit occurred in grey microconglomerate and sandstone units of the Upper Red Formation. Disseminated and cemented textures along with lens-shaped, solution seems, replacement, and framboidal pyrite are the main ore textures at Hamzelou deposit. The ore horizons contain red oxidized zone, bleached zone and mineralized reduced zone. Chalcocite and pyrite are the main ore minerals at the Hamzelou deposit. Malachite, azurite, covellite, atacamite, goethite and hematite are formed during supergene processes. Comparison of Chondrite normalized trace elements and REE patterns of barren red and grey host sandstones and mineralized samples indicate that mineralized samples show lower concentrations of trace elements and REE relative to host rocks. This signature indicate mobility of these elements during bleaching and mineralization processes. Based on tectonic setting, petrography, stratigraphy, mineralogy, ore structure and texture, and ore controlling factors (presence of plant fossils, salt domes, porosity and permeability of host rocks, faults and fractures), the Hamzelou deposit is a sediment-hosted Redbed type Cu deposit and is comparable with other Redbed type Cu deposits of the Mahneshan area. These deposits have close spatial relationship with evaporites and salt domes in the Upper Red Formation that must be investigated during exploration studies.]]></dcterms:abstract>
+			</dc:description>
+            <dc:identifier scheme="dcterms:URI"><![CDATA[http://aag.scu.ac.ir/article_15292_fc596942c17a37f043190a6100ded6da.pdf]]></dc:identifier>
+			<dc:identifier scheme="ags:DOI"><![CDATA[10.22055/aag.2020.29873.1999]]></dc:identifier>
+			<dc:type><![CDATA[Journal Article]]></dc:type>
+			<dc:format><dcterms:medium><![CDATA[text]]></dcterms:medium></dc:format>
+			<dc:language><![CDATA[Persian]]></dc:language>
+			<dc:source><![CDATA[http://aag.scu.ac.ir/]]></dc:source>
+			<dc:source><![CDATA[Journal of Advanced Applied Geology]]></dc:source>
+		</ags:resource>
+
+</ags:resources>

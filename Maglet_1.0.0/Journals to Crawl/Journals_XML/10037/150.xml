@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXDOISerialArticleWorkRegistrationMessage xmlns:cl="http://www.medra.org/DOIMetadata/2.0/Citations" xmlns="http://www.editeur.org/onix/DOIMetadata/2.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.editeur.org/onix/DOIMetadata/2.0 http://www.medra.org/schema/onix/DOIMetadata/2.0/ONIX_DOIMetadata_2.0.xsd">
+	<Header>
+		<FromCompany>Sinaweb</FromCompany>
+		<FromPerson>Sinaweb DOI</FromPerson>
+		<FromEmail>doi@sinaweb.net</FromEmail>
+		<ToCompany>mEDRA</ToCompany>
+		<SentDate>20200726</SentDate>
+		<MessageNote>DOI Registration</MessageNote>
+		<NotificationResponse>01</NotificationResponse>
+	</Header>
+
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.14.1.53</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2830-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2830</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2830</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>14</JournalVolumeNumber>
+				<JournalIssueNumber>1</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>202005</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Bearing Capacity of Strip Foundation on Slope Based on Finite Element Limit Analysis Method</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Mahdi Aminpour1</PersonName>
+						<PersonNameInverted>Aminpour1, Mohammad Mahdi</PersonNameInverted>
+						<NamesBeforeKey>Mohammad Mahdi</NamesBeforeKey>
+						<KeyNames>Aminpour1</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Maleki</PersonName>
+						<PersonNameInverted>Maleki, Mohammad</PersonNameInverted>
+						<NamesBeforeKey>Mohammad</NamesBeforeKey>
+						<KeyNames>Maleki</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>202005</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2020</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mohammad Mahdi Aminpour1</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.14.1.105</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2804-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2804</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2804</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>14</JournalVolumeNumber>
+				<JournalIssueNumber>1</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>202005</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>The study of engineering geological properties of peridotites in Harsin, Kermanshah province (A case study)</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Hossein Ghobadi</PersonName>
+						<PersonNameInverted>Ghobadi, Mohammad Hossein</PersonNameInverted>
+						<NamesBeforeKey>Mohammad Hossein</NamesBeforeKey>
+						<KeyNames>Ghobadi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mehrdad Amiri</PersonName>
+						<PersonNameInverted>Amiri, Mehrdad</PersonNameInverted>
+						<NamesBeforeKey>Mehrdad</NamesBeforeKey>
+						<KeyNames>Amiri</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Farhad Aliani</PersonName>
+						<PersonNameInverted>Aliani, Farhad</PersonNameInverted>
+						<NamesBeforeKey>Farhad</NamesBeforeKey>
+						<KeyNames>Aliani</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>202005</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2020</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mehrdad Amiri</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.14.1.149</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2823-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2823</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2823</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>14</JournalVolumeNumber>
+				<JournalIssueNumber>1</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>202005</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>A laboratory study on the effect of anchor shape on the displacement of stabilized wall with helical anchors</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Emad Mahmoudi Mehrizi1</PersonName>
+						<PersonNameInverted>Mahmoudi Mehrizi1, Mohammad Emad</PersonNameInverted>
+						<NamesBeforeKey>Mohammad Emad</NamesBeforeKey>
+						<KeyNames>Mahmoudi Mehrizi1</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Younos Daghigh</PersonName>
+						<PersonNameInverted>Daghigh, Younos</PersonNameInverted>
+						<NamesBeforeKey>Younos</NamesBeforeKey>
+						<KeyNames>Daghigh</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Javad Nazariafshar</PersonName>
+						<PersonNameInverted>Nazariafshar, Javad</PersonNameInverted>
+						<NamesBeforeKey>Javad</NamesBeforeKey>
+						<KeyNames>Nazariafshar</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>202005</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2020</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mohammad Emad Mahmoudi Mehrizi1</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.14.1.175</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2809-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2809</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2809</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>14</JournalVolumeNumber>
+				<JournalIssueNumber>1</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>202005</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>4</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Application of 3D numerical simulation to process the plate loading test results-Beheshtabad dam as a case study</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Saeed Mahdavi</PersonName>
+						<PersonNameInverted>Mahdavi, Saeed</PersonNameInverted>
+						<NamesBeforeKey>Saeed</NamesBeforeKey>
+						<KeyNames>Mahdavi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mehrnosh Haghighat</PersonName>
+						<PersonNameInverted>Haghighat, Mehrnosh</PersonNameInverted>
+						<NamesBeforeKey>Mehrnosh</NamesBeforeKey>
+						<KeyNames>Haghighat</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Maryam Mokhtari</PersonName>
+						<PersonNameInverted>Mokhtari, Maryam</PersonNameInverted>
+						<NamesBeforeKey>Maryam</NamesBeforeKey>
+						<KeyNames>Mokhtari</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>202005</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2020</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Saeed Mahdavi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+	
+</ONIXDOISerialArticleWorkRegistrationMessage>
+ 
+  
+  
+  
+  
+ 

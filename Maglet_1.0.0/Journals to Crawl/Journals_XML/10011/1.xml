@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Exploring Relevance as Truth Criterion on the Web and Classifying Claims in Belief Levels</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>1</FirstPage>
+			<LastPage>12</LastPage>
+			<ELocationID EIdType="pii">75786</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75786</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Fairouz</FirstName>
+					<LastName>Zendaoui</LastName>
+<Affiliation>Laboratoire de la Communication dans les Systèmes Informatiques, Ecole Nationale Supérieure d’Informatique, BP 68M, 16309, Oued-Smar, Alger, Algérie.</Affiliation>
+<Identifier Source="ORCID">0000-0002-8270-1614</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Walid Khaled</FirstName>
+					<LastName>Hidouci</LastName>
+<Affiliation>Laboratoire de la Communication dans les Systèmes Informatiques, Ecole Nationale Supérieure d’Informatique, BP 68M, 16309, Oued-Smar, Alger, Algérie.</Affiliation>
+<Identifier Source="ORCID">0000-0002-8290-1093</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>1999</Year>
+					<Month>11</Month>
+					<Day>30</Day>
+				</PubDate>
+			</History>
+		<Abstract>The Web has become the most important information source for most of us. Unfortunately, there is no guarantee for the correctness of information on the Web. Moreover, different websites often provide conflicting information on a subject. Several truth discovery methods have been proposed for various scenarios, and they have been successfully applied in diverse application domains. In this paper, we have attempted to answer the question whether the truth is relevant. We conducted an experimental study in which we analyzed and compared the results of two different truth discovery methods: Relevance-based sources ranking and Majority vote. We have found that the truth is not always held by the most relevant sources on the web. Sometimes the truth is given by the majority vote of the crowd. In addition, we have proposed a method of presenting the results of truth discovery with gradual degrees of belief. A method that allows to configure and target the desired level of trust.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Truth discovery</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Source ranking</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Relevance</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Uncertainty</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Belief degree</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75786_6f3581260c5de5bf2e7865e39a0f9591.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Classification of Brain Tumor by Combination of Pre-Trained VGG16 CNN</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>13</FirstPage>
+			<LastPage>25</LastPage>
+			<ELocationID EIdType="pii">75788</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75788</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Ouiza Nait</FirstName>
+					<LastName>Belaid</LastName>
+<Affiliation>Laboratoire de la Communication dans les Systèmes Informatiques, Ecole Nationale Supérieure d’Informatique, BP 68M, 16309, Oued-Smar, Alger, Algérie.</Affiliation>
+<Identifier Source="ORCID">0000-0002-2948-7284</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Malik</FirstName>
+					<LastName>Loudini</LastName>
+<Affiliation>Laboratoire de la Communication dans les Systèmes Informatiques (LCSI), École Nationale Supérieure d’Informatique (ESI), BP 68M, 16309, Oued-Smar, Alger, Algérie.</Affiliation>
+<Identifier Source="ORCID">0000-0003-4936-4019</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>In recent years, brain tumors become the leading cause of death in the world. Detection and rapid classification of this tumor are very important and may indicate the likely diagnosis and treatment strategy. In this paper, we propose deep learning techniques based on the combinations of pre-trained VGG-16 CNNs to classify three types of brain tumors (i.e., meningioma, glioma, and pituitary tumor). The scope of this research is the use of gray level of co-occurrence matrix (GLCM) features images and the original images as inputs to CNNs. Two GLCM features images are used (contrast and energy image). Our experiments show that the original image with energy image as input has better distinguishing features than other input combinations; accuracy can achieve average of 96.5% which is higher than accuracy in state-of-the-art classifiers.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Brain tumor</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Deep learning</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">VGG16 CNN</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">GLCM features</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75788_e36c948ee9258c82b9398f136692f3f5.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Online Buying Behavior among University Students: A Cross Cultural Empirical Analysis</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>26</FirstPage>
+			<LastPage>39</LastPage>
+			<ELocationID EIdType="pii">75789</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75789</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Maqsood Hussain</FirstName>
+					<LastName>Junaidi</LastName>
+<Affiliation>Assistant Professor, Department of Supply Chain Management, College of Business, University of Jeddah, Jeddah, Kingdom of Saudi Arab.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Mohammad Saleh</FirstName>
+					<LastName>Miralam</LastName>
+<Affiliation>Associate Professor, Vice Dean of Post Graduate Studies and Scientific Research, Department of Business Administration College of Business, University of Jeddah, Jeddah, Kingdom of Saudi Arab.</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>Internet users all over the world are increasing day by day and showing great interest for online shopping. The main reason for the high usage of the internet is the affordable price of mobile gadgets and low internet tariff plans. Consumer behavior is influenced by various factors such as culture, social class, reference groups relationship, family, income level and income independency, age, gender, etc. The purpose of this study was to find out the differences in buying behaviors among the university students. The study was carried out using google survey with a sample size of 236 students randomly selected from the university of India and Saudi Arabia. The study shows that University students of both countries have more online shopping experience because they use the internet more frequently and they have larger internet usage. Nowadays Students are more computer professionals and those who use the internet for their study work and assignments work are more active in online shopping. As per student’s opinion, they said few things remember in our mind when coming to payment options credit card is the safest option or using online services like pay pal and google wallet services also a good way but finally, cash on delivery is the best way of shopping online. The result of this study would contribute marketers who want to penetrate the market in India and in Kingdom of Saudi Arab, who are already present in the market and desire to take care of the loyalty and satisfaction of their customers.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Consumer behavior</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Online buying behavior</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Loyalty</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Customer Satisfaction</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Internet</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75789_12fa952daa829400044dc7a0762ba88b.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Implementation of Face Recognition Algorithm on Fields Programmable Gate Array Card</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>40</FirstPage>
+			<LastPage>58</LastPage>
+			<ELocationID EIdType="pii">75790</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75790</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Fatima</FirstName>
+					<LastName>Zohra Allam</LastName>
+<Affiliation>Signal and Communication Laboratory, Department of Electronics, National Polytechnic School, Algeria.</Affiliation>
+<Identifier Source="ORCID">0000-0002-2273-8685</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Latifa</FirstName>
+					<LastName>Hamami-Mitiche</LastName>
+<Affiliation>Signal and Communication Laboratory, Department of Electronics, National Polytechnic School, Algeria.</Affiliation>
+<Identifier Source="ORCID">0000-0002-4697-8288</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Hicham</FirstName>
+					<LastName>Bousbia-Salah</LastName>
+<Affiliation>Signal and Communication Laboratory, Department of Electronics, National Polytechnic School, Algeria.</Affiliation>
+<Identifier Source="ORCID">0000-0002-6416-5491</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>The evolution of today&#039;s application technologies requires a certain level of robustness, reliability and ease of integration. We choose the Fields Programmable Gate Array (FPGA) hardware description language to implement the facial recognition algorithm based on &quot;Eigen faces&quot; using Principal Component Analysis. In this paper, we first present an overview of the PCA used for facial recognition, then use a VHSIC Hardware Description Language (VHDL) simulation and design platform, which is the ISE. We describe the operation of each block and implement, thereafter, the computation of the global centered images. This corresponds to the first step of the PCA algorithm to assess its performance. The comparison of the results of this implementation with that of MATLAB confirmed the operability and effectiveness of this method for centralizing images. We also implemented the last part of this algorithm which is the computation of the Manhattan distance. The tests have given very satisfactory results.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Fields programmable gate array</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">VHSIC Hardware description language</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Principal component analysis</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Manhattan Distance</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75790_9e26283627419afb6c2c32b7fa0b2427.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Revolution of Artificial Intelligence and the Internet of Objects in the Customer Journey and the Air Sector</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>59</FirstPage>
+			<LastPage>69</LastPage>
+			<ELocationID EIdType="pii">75791</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75791</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Hadjer</FirstName>
+					<LastName>Saadi</LastName>
+<Affiliation>Lecturer, Instrumentation Laboratory (LNS), Faculty of Electronics and Informatics, USTHB, Algiers.</Affiliation>
+<Identifier Source="ORCID">0000-0003-2559-9323</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Rachida</FirstName>
+					<LastName>Touhami</LastName>
+<Affiliation>Professor, Instrumentation Laboratory (LNS), Faculty of Electronics and Informatics, USTHB, Algiers.</Affiliation>
+<Identifier Source="ORCID">0000-0003-0918-8022</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Mustapha C.E.</FirstName>
+					<LastName>Yagoub</LastName>
+<Affiliation>Professor, School of Electrical Engineering and Computer Science, University of Ottawa, Ottawa, ON Canada K1N 6N5.</Affiliation>
+<Identifier Source="ORCID">0000-0002-8763-7738</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>Artificial intelligence (AI) is a discipline interested in the processes and methods that allow a machine to perform tasks related to human intelligence. It offers many opportunities related to problem solving, quick decision-making, increasing efficiency and reducing costs. Because of its so various fields of application, artificial intelligence is at the heart of the new industrial revolution. Algeria aims to present its AI strategy by 2020. In this paper, we are interested in defining AI, its potential fields of application, and in particular, its influence in the customer journey and position of RFID (&lt;em&gt;Radio-Frequency Identification&lt;/em&gt;) in the chain; application in the aviation sector and its relationship to the Internet of Things are also described through examples.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Artificial Intelligence</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">RFID</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Browses customer</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Airline industry, IoT</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75791_7ff08f9f143d3795ea40ab59ad734265.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Improving LoRaWAN Performance Using Reservation ALOHA</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>70</FirstPage>
+			<LastPage>78</LastPage>
+			<ELocationID EIdType="pii">75792</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75792</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Dina M.</FirstName>
+					<LastName>Ibrahim</LastName>
+<Affiliation>Department of Information Technology, College of Computer, Qassim University, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0002-7775-0577</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>LoRaWAN is one of the new and updated standards for IoT applications. However, the expected high density of peripheral devices for each gateway, and the absence of an operative synchronization mechanism between the gateway and peripherals, all of which challenges the networks scalability. In this paper, we propose to normalize the communication of LoRaWAN networks using a Reservation-ALOHA (R-ALOHA) instead of the standard ALOHA approach used by LoRa. The implementation is a library package placed on top of the standard LoRaWAN; thus, no modification in pre-existing LoRaWAN structure and libraries is required. Our proposed approach is based on a distributed synchronization service that is suitable for low-cost IoT end-nodes. R-ALOHA LoRaWAN gives better performance in comparison with the previous models; Pure-ALOHA LoRaWAN, Slotted-ALOHA LoRaWAN, and TDMA LoRaWAN. It significantly improves the performance of network regarding the probability of collision, the maximum throughput, and the maximum duty cycle.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Wireless networks, LoRaWAN</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Reservation ALOHA, Synchronization</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75792_c914abe3476b0d83dc9de2b587ac44da.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Policy Model for Sharing Network Slices in 5G Core Network</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>79</FirstPage>
+			<LastPage>89</LastPage>
+			<ELocationID EIdType="pii">75793</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75793</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Mohammad Ali</FirstName>
+					<LastName>Hammoudeh</LastName>
+<Affiliation>Department of Information Technology, College of Computer, Qassim University, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0002-9735-2365</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>As mobile data traffic increases, and the number of services provided by the mobile network increases, service load flows as well, which requires changing in the principles, models, and strategies for media transmission streams serving to guarantee the given nature of giving a wide scope of services in Flexible and cost-effective. Right now, the fundamental question remains what number of network slices will be cost effective for slice managing and giving the required functionality. So, the aim is to improve the efficiency of mobile network by forming an ideal slice in a multi-service communication network. In this paper, we propose a model to demonstrate network resource allocation system that forms devoted network slices to serve particular types of services independently on shared infrastructure. This model solves the problem of creating a strategy to form multi-service core mobile communication network slices, which allow the providing of a wide scope of services with certain quality indicators according to the effective dynamic configuration of the system. A resource management system model is created, to provide a method that considers costs related with excessive resource allocation, and also reduces the number of network recalculations, allowing for a reasonable proportion of management costs and Qualities of Service.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Network functions virtualization</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Network slicing</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">5G</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Evolved packet core</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75793_0c9993b930302813d64c19e64143e968.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Comparative Study between Hologram Technology and Augmented Reality</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>90</FirstPage>
+			<LastPage>106</LastPage>
+			<ELocationID EIdType="pii">75794</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75794</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Doaa M.</FirstName>
+					<LastName>Elmahal</LastName>
+<Affiliation>Department of Information Technology, College of Computer, Qassim University, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0001-6787-6304</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Asma S.</FirstName>
+					<LastName>Ahmad</LastName>
+<Affiliation>Department of Information Technology, College of Computer, Qassim University, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0001-5011-3562</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Alaa T.</FirstName>
+					<LastName>Alomaier</LastName>
+<Affiliation>Department of Information Technology, College of Computer, Qassim University, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0002-2144-2639</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Reem F.</FirstName>
+					<LastName>Abdlfatah</LastName>
+<Affiliation>Department of Information Technology, College of Computer, Qassim University, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0002-3014-4158</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Dina M.</FirstName>
+					<LastName>Hussein</LastName>
+<Affiliation>Department of Information Technology, College of Computer, Qassim University, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0002-7775-0577</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>The great development witnessed by our current age has led to the emergence of many diverse modern technologies, one of these advanced technologies is Hologram technology and Augmented reality technology, These two technologies are somewhat similar to somewhat, as it can be said that they perform almost the same purpose, and at the same time, Hologram technology differs from augmented reality in several aspects, as the way in which the three-dimensional images are created and the properties of that images itself. This paper aims to compare and study the similarities and differences between Hologram technology and Augmented reality technology. It is a standard comparison as the comparison takes place according to a number of different aspects of both technologies. Comparing the characteristics of the two technologies showed that there is no one of them excels over the other, but according to different systems and situations, it is maybe better and more appropriate to use one of them than using the other one.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Hologram</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Three-dimensional image</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">augmented reality</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Hologram fan</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">technology</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75794_e53c558e9317df1c37454a5d1d4e4e07.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Top Benefits and Hindrances to Cloud Computing Adoption in Saudi Arabia: A Brief Study</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>107</FirstPage>
+			<LastPage>122</LastPage>
+			<ELocationID EIdType="pii">75795</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75795</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Arwa</FirstName>
+					<LastName>Albelaihi</LastName>
+<Affiliation>Department of Information Technology, College of Computer, Qassim University, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0001-7135-5894</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Nabeel</FirstName>
+					<LastName>Khan</LastName>
+<Affiliation>Department of Information Technology, College of Computer, Qassim University, Buraydah, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0002-0505-5604</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>Cloud computing is an emerging concept of information technology that in many countries has an influence on many companies. The research was conducted to evaluate cloud computing adoption in Saudi Arabia; Benefits and hindrances for small and medium-sized enterprises (SMEs). The qualitative research approach is performed by interviews with the management of a variety of SMEs active in the information and communication technology (ICT) industry. This paper illustrates a significant positive correlation between the use of cloud computing and organizational quality performances. The paper concluded that the knowledge level of SMEs on the accessibility of cloud services is below average scale. The greatest challenges about the cloud service are privacy and security in the cloud among providers and users for the Saudi Arabian firms.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Cloud Computing</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Benefit</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Hindrance</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Adoption of Technology</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">SMEs</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Saudi Arabia</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75795_88df02847a800de247362cb33fba74b6.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Using Machine Learning Algorithms for Automatic Cyber Bullying Detection in Arabic Social Media</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>123</FirstPage>
+			<LastPage>130</LastPage>
+			<ELocationID EIdType="pii">75796</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75796</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Bedoor Y.</FirstName>
+					<LastName>AlHarbi</LastName>
+<Affiliation>Department of Information Technology, College of Computer, Qassim University, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0002-3125-9248</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Mashael S.</FirstName>
+					<LastName>AlHarbi</LastName>
+<Affiliation>Department of Information Technology, College of Computer, Qassim University, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0002-8919-8900</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Nouf J.</FirstName>
+					<LastName>AlZahrani</LastName>
+<Affiliation>Department of Information Technology, College of Computer, Qassim University, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0001-9696-8662</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Meshaiel M.</FirstName>
+					<LastName>Alsheail</LastName>
+<Affiliation>Information Technology Dept., College of Computer, Qassim University, Qassim, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0002-2991-7299.</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Dina M.</FirstName>
+					<LastName>Ibrahim</LastName>
+<Affiliation>Department of Information Technology, College of Computer, Qassim University, Saudi Arabia.</Affiliation>
+<Identifier Source="ORCID">0000-0002-7775-0577</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>Social media allows people interact to express their thoughts or feelings about different subjects. However, some of users may write offensive twits to other via social media which known as cyber bullying. Successful prevention depends on automatically detecting malicious messages. Automatic detection of bullying in the text of social media by analyzing the text &quot;twits&quot; via one of the machine learning algorithms. In this paper, we have reviewed algorithms for automatic cyberbullying detection in Arabic of machine learning, and after comparing the highest accuracy of these classifications we will propose the techniques Ridge Regression (RR) and Logistic Regression (LR), which achieved the highest accuracy between the various techniques applied in the automatic cyberbullying detection in English and between the techniques that was used in the sentiment analysis in Arabic text, The purpose of this work is applying these techniques for detecting cyberbullying in Arabic.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Cyberbullying</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Machine Learning (ML)</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Sentiment analysis</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Cyberbullying Detection in Arabic</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75796_38e99c269fdd70ebb3d0484afa88f3f2.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>The Impact of Dynamic Balanced Scorecard in Knowledge-Intensive Organizations’ Business Process Management: A New Approach Evidenced by Small and Medium-Size Enterprises in Latin America</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>131</FirstPage>
+			<LastPage>152</LastPage>
+			<ELocationID EIdType="pii">75797</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75797</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Fernando</FirstName>
+					<LastName>Yanine</LastName>
+<Affiliation>Associate Professor, School of Engineering, Universidad Finis Terrae, Av. Pedro de Valdivia 1509, Providencia; Santiago.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Felisa M.</FirstName>
+					<LastName>Cordova</LastName>
+<Affiliation>Professor and Director of the School of Engineering, Universidad Finis Terrae, Av. Pedro de Valdivia 1509, Providencia; Santiago, Chile.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Claudia</FirstName>
+					<LastName>Duran</LastName>
+<Affiliation>Academic; Faculty of Engineering, Department of Industry, Universidad Tecnológica Metropolitana, Av. José Pedro Alessandri 1242, Ñuñoa, Santiago, Chile.</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>Dynamic Balanced Scorecard (DBSC) is an effective business performance management control tool for dealing with business uncertainty, performance monitoring, evaluation and forecasting. DBSC has been proposed and utilized extensively over the years as an effective tool to manage and control the dynamics of business processes (BP) and their performance. However, there is little evidence of its application in knowledge-intensive (KI) organizations and how they can develop and enhance key aspects of their business processes, such as product-service systems innovation, and sustainability, for example. Moreover, the literature does not mention nor does it provide a vision or a DBSC model in cases where business process management (BPM), linked to knowledge creation and organizational transformation initiatives, are factored in the DBSC model. Hence this article explores this vein and aims to demonstrate the advantages of DBSC in this type of scenarios, with stark contrast of failed organizations of the past, particularly in small and medium-size enterprises (SME). Most of the private sector in developing countries like Chile is comprised of SMEs, which thrive and seek to grow sustainably adhering to a global economic trend. The DBSC model being shown here illustrates SMEs strategy, which reveals how intrinsic characteristics of knowledge-intensive organizations can foster sustainability and innovation in BPM.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Dynamic Balanced Scorecard (DBSC)</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">model</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Knowledge-intensive Organizations</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Business Process Management</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Small and Medium-Size Enterprises (SME)</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75797_fdfcf27fbc3c6779e9dabc1522c586b1.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Green Energy Generation in Buildings: Grid-Tied Distributed Generation Systems (DGS) With Energy Storage Applications to Sustain the Smart Grid Transformation</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>153</FirstPage>
+			<LastPage>162</LastPage>
+			<ELocationID EIdType="pii">75798</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75798</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Antonio</FirstName>
+					<LastName>Sanchez-Squella</LastName>
+<Affiliation>Assistant Professor; Dept. of Electrical Engineering, Universidad Técnica Federico Santa María, Santiago, Chile.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Fernando</FirstName>
+					<LastName>Yanine</LastName>
+<Affiliation>Associate Professor, School of Engineering, Universidad Finis Terrae, Av. Pedro de Valdivia 1509, Providencia; Santiago, Chile.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Aldo</FirstName>
+					<LastName>Barrueto</LastName>
+<Affiliation>Assistant Professor; Dept. of Electrical Engineering, Universidad Técnica Federico Santa María, Santiago, Chile.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Antonio</FirstName>
+					<LastName>Parejo</LastName>
+<Affiliation>Department of Electronic Technology, Escuela Politécnica Superior, University of Seville, Seville, Spain.</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>The challenge of electricity distribution’s upgrade to incorporate new technologies is big, and electric utilities are mandated to work diligently on this agenda, thus making investments to ensure that current networks maintain their electricity supply commitments secure and reliable in face of disruptions and adverse environmental conditions from a variety of sources. The paper presents a new model based on energy homeostasis for power control and energy management using tariffs differentiation as incentive, considered by ENEL, the largest electric utility in Chile. The model optimizes grid-tied distributed generation (DG) systems with energy storage, in line with the utility’s green energy program, part of its Smart Grid Transformation, aimed at installing grid-tied DG systems with solar generation and energy storage in Santiago, Chile. Results present different tariff options, system’s capacity and energy storage alternatives, in order to compare proposed strategies with the actual case, where no green energy is present. The results show the advantage of the proposed tariffs scheme and power-energy management model based on different scenarios, providing a good and safe option for installing DG solutions to the grid.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Electric tariffs</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Energy homeostasis</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">distributed generation</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Electric utility</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Green energy</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Power and energy management</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75798_5a184ef024663f4f5af28c647044a030.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>The Role of Parental Mediation in the Relationship between Adolescents’ Use of Social Media and Family Relationships in Saudi Arabia</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>163</FirstPage>
+			<LastPage>183</LastPage>
+			<ELocationID EIdType="pii">75799</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75799</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Najwa</FirstName>
+					<LastName>Albeladi</LastName>
+<Affiliation>PhD Candidate, Department of Neuroscience, Psychology &amp; Behaviour, University of Leicester, George Davies Centre, Leicester, LE1 7HA, UK,</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Emma</FirstName>
+					<LastName>Palmer</LastName>
+<Affiliation>Reader in Forensic Psychology, Department of Neuroscience, Psychology &amp; Behaviour, University of Leicester, George Davies Centre, Leicester, LE1 7HA, UK,</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>This study aimed to examine the impact of parenting mediation strategies on family relationships and social media use among Saudi adolescents. To achieve the aim, a quantitative research design was used, involving questionnaires with data collected from 393 Saudi students aged 13-18 years. Pearson correlation and hierarchical multiple regression analyses were performed. The key findings of this study showed that Snapchat and Instagram were the most popular social media sites among Saudi adolescents, and parenting mediation strategies were affected by family relationships. Just over a third of participants (35.62%) reported that they spent 3-5 hours per day on social media with another 30.79% spending more than 6 hours per day on social media. Family relationships were found to strongly predict the social integration and social media addiction. The data showed a significant negative correlation between excessive use of social media and two components of family relationships (cohesion and expressiveness). Moreover, the results suggest that lower levels of family expressiveness and higher levels of family conflict were associated with social media addiction. The parenting mediation strategies were shown to predict the cohesiveness and expressiveness of family relationships. Finally, technical and monitoring parenting mediation strategies were found significant associated with the social media use and the family relationships. These results contribute to formulating guidelines for parents and policymakers in developing countries such as Saudi Arabia to protect their children from the social media risks.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Parenting mediation strategies</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Social media use</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">family relationships</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Adolescents</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Saudi Arabia</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75799_65e3e454b1a1d7437ec0deb3276a4abd.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>12</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>06</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>IRHM: Inclusive Review Helpfulness Model for Review Helpfulness Prediction in E-commerce Platform</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>184</FirstPage>
+			<LastPage>197</LastPage>
+			<ELocationID EIdType="pii">75800</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2020.75800</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Yasamyian</FirstName>
+					<LastName>Almutairi</LastName>
+<Affiliation>Master student in Information system at king Abduziz University, Jeddah, Saudi Arabia.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Manal</FirstName>
+					<LastName>Abdullah</LastName>
+<Affiliation>Associated Professor in king Abuduziz University, Jeddah, Saudi Arabia.</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract>Online reviews have become essential aspect in E-commerce platforms due to its role for assisting customers’ buying choices. Furthermore, the most helpful reviews that have some attributes are support customers buying decision; therefore, there is needs for investigating what are the attributes that increase the Review Helpfulness (RH). This research paper proposed novel model called inclusive review helpfulnessmodel (IRHM) can be used to detect the most attributes affecting the RH and build classifier that can predict RH based on these attributes. IRHM is implemented on Amazon.com using collection of reviews from different categories. The results show that IRHM can detect the most important attributes and classify the reviews as helpful or not with accuracy of 94%, precision of 0.20 and had excellent area under curve close to 0.94.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Review helpfulness</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Recommender System</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Machine learning</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Sentiment analysis</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_75800_0bbe6364b966d46314f4fd6fca4c0657.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

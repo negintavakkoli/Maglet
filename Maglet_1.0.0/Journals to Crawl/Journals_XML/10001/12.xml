@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>5</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>12</Month>
+					<Day>22</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Credit Risk Management of Banking Customers Using Support Vector Machine Optimized by Genetic Algorithm with Data Mining Approach</ArticleTitle>
+<VernacularTitle>مدیریت ریسک اعتباری مشتریان بانکی با استفاده از روش ماشین بردار تصمیم بهبودیافته با الگوریتم ژنتیک با رویکرد داده‌کاوی</VernacularTitle>
+			<FirstPage>17</FirstPage>
+			<LastPage>32</LastPage>
+			<ELocationID EIdType="pii">21191</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2017.21191</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>میثم</FirstName>
+					<LastName>جعفری اسکندری</LastName>
+<Affiliation>استادیار گروه مهندسی صنایع، دانشکده مهندسی صنایع، دانشگاه پیام نور تهران، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>میلاد</FirstName>
+					<LastName>روحی</LastName>
+<Affiliation>کارشناسی ارشد گروه مهندسی صنایع، دانشکده مهندسی صنایع، دانشگاه پیام نور تهران ،ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>04</Month>
+					<Day>06</Day>
+				</PubDate>
+			</History>
+		<Abstract>Credit risk management, credit scoring and risk assessment of customers is an important issue in banking industry. Credit scoring is important because if the banks fail to earn resource allocation and create a balance between the processes of mobilizing and allocating resources, they are typically faced with many problems in the future. According to official figures released by the Central Bank of Iran in recent years, the rate of bad loans increased, since the systemic strict validation to evaluate and measure the credit risk of customers do not exist. In this paper, we try to predict customer’s recovery rate index with data mining techniques. Markedly, in recent years in the world new method for measuring customer risk rather than default probability measure has been considered, but due to low precision of forecasting models widely different approaches in research and modeling is investigated. The method used in this paper is support vector regression model whose parameters selection is optimized with genetic algorithm.</Abstract>
+			<OtherAbstract Language="FA">مدیریت ریسک اعتباری، رتبه‌بندی اعتباری و ارزیابی میزان ریسک مشتریان، در کنار جذب منابع از اهمیت بالایی برای بانک‌ها برخوردار است؛ زیرا اگر بانک‌ها با تخصیص بهینۀ منابع و کسب درآمد بین فرایند تجهیز و تخصیص منابع خود نتوانند توازن ایجاد کنند، در آینده با مشکلات زیادی روبه‌رو می‌شوند. براساس آمارهای رسمی منتشرشده از سوی بانک مرکزی ج.ا.ا در سال‌های اخیر، میزان مطالبات معوق بانک‌ها بسیار افزایش‌ یافته است؛ زیرا سیستم اعتبارسنجی دقیقی برای ارزیابی اعتبار و اندازه‌گیری میزان ریسک مشتریان وجود ندارد. در این پژوهش، الگویی با استفاده از روش‌های داده‌کاوی برای پیش‌بینی شاخص نرخ وصول مشتریان ارائه می‌شود. رویکردی که در سال‌های اخیر در دنیا به‌عنوان روشی جدید برای اندازه‌گیری ریسک مشتریان به‌جای اندازه‌گیری احتمال نکول مدّنظر قرارگرفته است. نتایج نشان می‌دهد الگوی پیشنهادی این پژوهش، دقت بیشتری دارد. به‌طور کلی، هدف پیش‌بینی درصد وصول مطالبات قراردادهای با احتمال ریسک مطالباتی بالا قبل از اعطای تسهیلات است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">ریسک اعتباری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ماشین بردار تصمیم</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مطالبات ریالی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نرخ وصول</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21191_73805096c7a50a561d5501be2350061d.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1394</year>
+	<month>12</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2016</year>
+	<month>3</month>
+	<day>1</day>
+</pubdate>
+<volume>9</volume>
+<number>4</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>شناسایی مشخصات اهداف استوانه‌ای پنهان در تصاویر GPR با استفاده از دو روش هوشمند شبکه‌های عصبی و تطبیق الگو</title_fa>
+	<title>Detecting Cylindrical Targets Characteristics Hidden in GPR Images Using Artificial Neural Network and Template Matching</title>
+	<subject_fa>ژئوفیزیک مهندسی</subject_fa>
+	<subject>En. Geophisic</subject>
+	<content_type_fa>علمی پژوهشی</content_type_fa>
+	<content_type>s</content_type>
+	<abstract_fa>رادار نفوذی زمین (GPR) روش ژئوفیزیکی غیرمخرب و با قدرت تفکیک زیاد است که از بازتاب امواج الکترومغناطیسی با فرکانس بالا برای آشکارسازی اشیاء مدفون استفاده می‌کند. در پژوهش حاضر این روش برای تعیین پارامترهای هندسی اهداف استوانه‌ای مدفون نظیر انواع ساختارهای تونلی استفاده شده است. دست‌یابی به‌چنین مقصودی براساس تعیین روابط پنهان بین پارامترهای هندسی اهداف استوانه‌ای و پارامترهای هذلولی پاسخ GPR، با استفاده از روش‌های هوشمند شبکه‌های عصبی مصنوعی و شناخت الگو، انجام شده است. برای این منظور پاسخ GPR مدل‌های مصنوعی استوانه‌ای شکل تولید شده با مدل‌سازی پیش‌رو به‌ روش اختلاف محدود دوبعدی، به‌عنوان الگو در الگوریتم‌های شبکه‌های عصبی مصنوعی و تطبیق الگو استفاده شده است. ساختار شبکه عصبی استفاده شده براساس استخراج ویژگی‌های متمایز و منحصر به‌فرد (مقادیر ویژه و نرم مقادیر ویژه) از تصاویر GPR و تعیین تمام پارامترهای هندسی اهداف، به‌طور هم‌زمان بنا شده است. عملیات تطبیق الگو نیز با به‌کارگیری دو روش شباهت مختلف هم‌آمیخت حوزۀ فضایی و هم‌بستگی متقابل نرمالیزه شده در حوزۀ عدد موج دوبعدی، صورت گرفت. نتایج پژوهش نشان می­دهد که هر دوروش هوشمند استفاده شده، قابلیت کاربرد برجا، سریع، دقیق و خودکار را برای اهداف ژئوتکنیکی واقعی دارند، هرچند درمجموع روش شبکه­های عصبی نسبت به‌ روش تطبیق الگو خطای کم‌تر و در نتیجه قدرت تخمین بیش‌تر برای پارامترهای هندسی اهداف استوانه­ای مدفون دارد. </abstract_fa>
+	<abstract>Ground-Penetrating Radar (GPR) is a non-destructive and high-resolution geophysical method which uses high-frequency electromagnetic (EM) wave reflection off buried objects to detect them. In current research this method has been used to identify geometrical parameters of buried cylindrical targets such as tunnel structures. To achieve this aim, relationships between the geometrical parameters of cylindrical targets with the parameters of GPR hyperbolic response have been determined using two intelligent pattern recognition methods known as artificial neural network and template matching. To this goal GPR responses of synthetic cylindrical objects produced by 2D finite-difference method have been used as templates in the neural network and template matching algorithms. The structure of applied neural network has been designed based on extracting discriminant and unique features (eigenvalues and the norm of eigenvalues) from the GPR images and predicting all geometrical parameters of the targets, simultaneously. Also the template matching operation carried out using two diverse similarity approaches, spatial domain convolution and normalized cross correlation in 2D wave number domain. The results of the research show that both two employed intelligent methods can be applied for in situ, real-time, accurate and automatic interpretation of real GPR radargrams, however in general the neural network method has led to less error and better estimation than template matching to predict the geometrical parameters of the cylindrical tar</abstract>
+	<keyword_fa>رادار نفوذی زمین (GPR) , مشخصات هندسی اهداف استوانه ای , شبکه های عصبی مصنوعی , تطبیق الگوی آماری , همبستگی متقابل نرمالیزه شده , </keyword_fa>
+	<keyword>Ground-Penetrating Radar (GPR) , Geometrical parameters of cylindrical targets , Artificial neural network , Template matching , Normalized cross correlation , </keyword>
+	<start_page>3069</start_page>
+	<end_page>3092</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-625-1&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>Reza</first_name>
+	<middle_name></middle_name>
+	<last_name>Ahmadi</last_name>
+	<suffix></suffix>
+	<first_name_fa>رضا</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>احمدی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>rezahmadi@gmail.com</email>
+	<code>100319475328460082</code>
+	<orcid>100319475328460082</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation>PhD student of University of Tehran Academic member of Arak University of Technology</affiliation>
+	<affiliation_fa>دانشجوی دکترای دانشگاه تهران عضو هیئت علمی دانشگاه صنعتی اراک</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Nader</first_name>
+	<middle_name></middle_name>
+	<last_name>Fathianpour</last_name>
+	<suffix></suffix>
+	<first_name_fa>نادر</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>فتحیانپور</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>fathian@cc.iut.ac.ir</email>
+	<code>100319475328460083</code>
+	<orcid>100319475328460083</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation>Academic member of Isfahan university of technology</affiliation>
+	<affiliation_fa>عضو هیئت علمی دانشگاه صنعتی اصفهان</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Gholam-Hossain</first_name>
+	<middle_name></middle_name>
+	<last_name>Norouzi</last_name>
+	<suffix></suffix>
+	<first_name_fa>غلامحسین</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>نوروزی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>norouzih@ut.ac.ir</email>
+	<code>100319475328460084</code>
+	<orcid>100319475328460084</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation>Academic member of university of Tehran</affiliation>
+	<affiliation_fa>عضو هیئت علمی دانشکده مهندسی معدن دانشگاه تهران</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

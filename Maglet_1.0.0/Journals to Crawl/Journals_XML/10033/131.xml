@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Optimizing Corm Size and Density in Saffron (Crocus sativus L.) Cultivation by Central Composite Design</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mehdi</namePart>
+				<namePart type="given">Nassiri Mahallati</namePart>
+				<affiliation>Professor, Department of Agronomy, Faculty of Agriculture, Ferdowsi University of Mashhad</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Alireza</namePart>
+				<namePart type="given">Koocheki</namePart>
+				<affiliation>Professor, Department of Agronomy, Faculty of Agriculture, Ferdowsi University of Mashhad</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Afsaneh</namePart>
+				<namePart type="given">Amin Ghafouri</namePart>
+				<affiliation>PhD in Agroecology, Department of Agronomy, Faculty of Agriculture, Ferdowsi University of Mashhad</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mansore</namePart>
+				<namePart type="given">Mahluji Rad</namePart>
+				<affiliation>PhD students in Agroecology, Department of Agronomy, Faculty of Agriculture, Ferdowsi University of Mashhad</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2015</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>In order to determine the optimal use of corm size and density, an experiment was conducted by central composite design at the Research Station, the Ferdowsi University of Mashhad, Iran, during two growing seasons of 2008-2009 and 2009-2010. The treatments were designed based on low and high levels of corm size (3 and 7 g) and density (50 and 150 corm.m-2). Central point in each treatment was repeated 5 times and a total of 13 experimental treatments were designed. Economic yield, corm diameter, number of daughter corms, number of mother corms, number of flowers and fresh weight of flowers were measured as dependent variables, and the response surface of these variables to experimental factors was estimated by the polynomial regression model. The results indicated a positive effect of corm size and density on economic yield, corm diameter, dry weight of tunic, number of daughter corms, number of mother corms, number of flowers and fresh weight of flowers. The optimum level of corm size and density were 7 g and 250 plant.m-2, respectively.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Saffron agronomy and technology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University Of Torbat Heydarieh</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1529</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2015</text>
+				<extent unit="pages">
+					<start>161</start>
+					<end>177</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://saffron.torbath.ac.ir/article_10386_1678b3325debe1afa7d5a95aa56efa6c.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22048/jsat.2015.10386</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The Effect of Different Levels of Salinity Stress on Some Physiological Characteristics of Saffron (Crocus Sativus L.)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Majid</namePart>
+				<namePart type="given">Rostami</namePart>
+				<affiliation>Assistant Professor, Department of Agronomy, Faculty of Agriculture, University of Malayer, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Behrooz</namePart>
+				<namePart type="given">Mohmmad Parast</namePart>
+				<affiliation>Assistant Professor, Department of Biology, Faculty of Science, University of Malayer, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Rahil</namePart>
+				<namePart type="given">Golfam</namePart>
+				<affiliation>Former M.Sc. Student of Plant Physiology, Department of Biology, Faculty of Science, University of Malayer, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2015</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Salinity is a common stress in many parts of the world especially in Iran that decreases the yield and quality of many crops. In order to investigate the effects of different levels of salinity stress on some physiological indices of saffron, an experiment was conducted in the Malayer University in 2012. The experiment was arranged based on a completely randomized design (CRD) with four replications and six levels of salinity (i.e. 0, 2, 4, 6, 8 and 10 dS m-1). The results showed that the effect of salinity on chlorophyll a and chlorophyll b content was not significant. However, increasing the salinity stress up to 6 dS m-1 resulted in an increase of these photosynthetic pigments. The effect of salinity stress on leaf carotenoides and xantophyll content were significant and higher salinity stress resulted in an increase of these pigments. Moreover, the effect of salinity on leaf proline was not significant, but the amount of leaf glucose content increased by increasing salinity stress, significantly. The effects of experimental treatments on leaf dry weight, leaf length and relative water content were significant and negative, but there was no significant effect on leaf number. By increasing the concentration of salt, the mean weight of replacement corms decreased significantly whereas the corms number increased up to 4 dS.m-1 and then decreased significantly.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Saffron agronomy and technology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University Of Torbat Heydarieh</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1529</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2015</text>
+				<extent unit="pages">
+					<start>193</start>
+					<end>179</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://saffron.torbath.ac.ir/article_10379_486d289cd55e4e6e8ed5b0e2f8a9a05d.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22048/jsat.2015.10379</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Study on Effect of Type of Explant and Hormone on Callus Induction and Regeneration in Saffron (Crocus sativus L.)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mohsen</namePart>
+				<namePart type="given">Sajjadi</namePart>
+				<affiliation>M.Sc. plant Biotechnology, Azarbaijan Shahid Madani University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Maghsoud</namePart>
+				<namePart type="given">Pazhouhandeh</namePart>
+				<affiliation>Assistant Professor, Dept of Plant Biotechnology, Faculty of Agriculture, , Azarbaijan Shahid Madani University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2015</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Saffron (Crocus sativus L.) is one of the medicinal plants that contain active components and medicinal materials. Tissue culture of saffron can improve the quality and quantity of the saffron product, increase its export and the farmers’ income. In this study, 36 different types of hormone combinations in the dark and 9 different treatments of hormone combinations in cold (4°C), using different saffron explants (bulb, leaf, scales around leaf and distal parts of the leaf) were studied in tissue culture. To investigate the growth of corms, the callus formation and the regeneration rate, three replications for each treatment were used and the length of shoot (cm), the callus formation percentage and the regeneration percentage were measured and statistical analysis was performed. Among the types of explants, only explants from bulbs produced the callus on MS medium containing 2 mg.l-1 BAP and 1 mg.l-1 IBA in both the dark and cold conditions. The highest percentage of regeneration was obtained in MS medium with hormonal composition of 0.3 mg.l-1 TDZ, 1 mg.l-1 BAP, 2 mg.l-1 IBA and 0.01 mg.l-1 GA3 in the cold conditions.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Saffron agronomy and technology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University Of Torbat Heydarieh</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1529</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2015</text>
+				<extent unit="pages">
+					<start>195</start>
+					<end>202</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://saffron.torbath.ac.ir/article_10390_7f1854e8bd7cd79d684ce4f99543605a.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22048/jsat.2015.10390</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Evaluation of the Extinction Coefficient, Radiation Absorption and Use Efficiency of Saffron (Crocus sativus L.)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Seyyedeh Maliheh</namePart>
+				<namePart type="given">Mirhashemi</namePart>
+				<affiliation>PhD. Student in Crop Ecology, Department of Agronomy, Faculty of Agriculture, Ferdowsi University of Mashhad, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mohammad</namePart>
+				<namePart type="given">Bannayan</namePart>
+				<affiliation>Associate Professor in Crop Ecology, Department of Agronomy, Faculty of Agriculture, Ferdowsi University of Mashhad, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Ahmad</namePart>
+				<namePart type="given">Nezami</namePart>
+				<affiliation>Professor in Crop Ecology, Department of Agronomy, Faculty of Agriculture, Ferdowsi University of Mashhad, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mahdi</namePart>
+				<namePart type="given">Nassiri Mahallati</namePart>
+				<affiliation>Professor in Crop Ecology, Department of Agronomy, Faculty of Agriculture, Ferdowsi University of Mashhad, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2015</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Leaf area index, light extinction coefficient and radiation use efficiency are important eco-physiological characteristics for realization of crops growth, development and radiation absorption. In order to determine the leaf area index (LAI), light extinction coefficient (K) and radiation use efficiency (RUE) of saffron during the first and second growing seasons, four experiments were started in 2011 and ended in 2014, at the Research Farm of the Agriculture Faculty, the Ferdowsi University of Mashhad, Iran. Saffron corms with weights between 13 to15 g and density of 50 plant.m2 were cultivated in 2011 and 2012. In all experimental years during the growing season, crop sampling was taken for required measurements including the leaf area index and shoot dry weight of saffron once every 14 days. The results showed that by increasing the age of saffron from 1 year to two years, the maximum LAI of saffron increased from 0.33 to 1.81, and light extinction coefficient decreased from 1.20 to 0.54. The increasing trend of LAI was coincident with fraction of absorbed radiation for all four years of the experiment. In the first and the second growing seasons, the amount of fraction of absorbed radiation gradually increased with increasing LAI and at 1083 and 1034 GDD reached its maximum value, respectively. In saffron farms when the plant was one year old and two years old, the mean value of RUE was 0.68 and 1.73 g.MJ-1 PAR, respectively. These results indicate that by increasing the saffron age and LAI, the value of K decreases and consequently radiation absorption and use efficiency will‎ increase.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Saffron agronomy and technology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University Of Torbat Heydarieh</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1529</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2015</text>
+				<extent unit="pages">
+					<start>203</start>
+					<end>216</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://saffron.torbath.ac.ir/article_10385_d92920ddfcad7d505ca356e90affe7f3.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22048/jsat.2015.10385</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Study of the Effective Factors on the Commerce of Iranian Saffron</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Somayeh</namePart>
+				<namePart type="given">Koochakzadeh</namePart>
+				<affiliation>Facualy member of Vali-e-Asr University of Rafsanjan</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Alireza</namePart>
+				<namePart type="given">Karbasi</namePart>
+				<affiliation>Professor of Agricultural Economic, Ferdowsi University of Mashhad, Mashhad</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2015</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Considering the role of the foreign commerce in economic development of the country and the emphasis of economy planners to develop non-oil exports, and also to get released from the single-product economy, it is necessary to pay more attention to one product economy. Among the export products with substantial privilege, saffron is considered as an important product in the economy. This is because of its special position in the occupation of farmers in the agriculture sector and having a considerable exchange income for the country. The importance of saffron as a valuable export product in the country’s economy and also in world economy becomes more obvious now. To keep Iran’s position as the greatest producer and exporter of saffron in world markets and increase the export of this valuable product, a study of the problems of export and its effective factors could be an important step in this case. Therefore, this research studied the effective factors on saffron commerce in Iran during the period of 2001-2013. In this study, the gravity model and the method of economy measuring panel is used. The result showed that the gross internal production and the population of importing countries and exchange rate with coefficients: 1.55, 0.015, and 0.54 have positive and considerable effect on Iranian saffron.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Saffron agronomy and technology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University Of Torbat Heydarieh</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1529</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2015</text>
+				<extent unit="pages">
+					<start>217</start>
+					<end>227</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://saffron.torbath.ac.ir/article_10383_4c1d6fedfbceb22061778f8867c7a4b3.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22048/jsat.2015.10383</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Efficiency of Saffron Farmers in Shahyk Region of Ghaen City, Iran (Application of Data Envelopment Analysis Using the Efficient and Inefficient Frontiers)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Karim</namePart>
+				<namePart type="given">Naderi Mahdei</namePart>
+				<affiliation>Assistant Professor, Department of Agricultural Extension and Education, Bu-Ali Sina University, Hamedan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">S.M.Jafar</namePart>
+				<namePart type="given">Esfahani</namePart>
+				<affiliation>Ph.D Student of Agricultural Development, Bu-Ali Sina University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2015</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Addressing the special conditions of saffron growing areas, and planning the optimum use of its production factors need specific attention and determination of the efficiency of saffron farms seems to be necessary. Thus, the current study attempts to measure the efficiency of saffron fields by using bounded data envelopment analysis to give an overall assessment of the performance of the farms. The necessary data was collected by interviewing and filling 36 questionnaires by the saffron farmers of the city of Ghaen, Iran and the data were analyzed by GAMS software. The results showed that average optimistic output and input oriented efficiency is 1.259 and 0.849, respectively. Also, 13.8% of the farms are located on the inefficiency frontiers. 47 percent of the farms are surrounded by efficient and inefficient frontier that reflects the overuse of inputs and potential to produce more and reduce the use of inputs. According to the results, it may be suggested that the efficient farms should be considered as a pattern and we should present training of need assessment in inefficient farms in order to enhance farmers’ efficiency with appropriate and scientific planning.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Saffron agronomy and technology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University Of Torbat Heydarieh</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1529</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>3</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2015</text>
+				<extent unit="pages">
+					<start>229</start>
+					<end>240</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://saffron.torbath.ac.ir/article_10389_7462985bff56b7298a74f94bd40bf3aa.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22048/jsat.2015.10389</identifier>
+			</mods>
+		</modsCollection>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>8</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>03</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Modeling Value at Risk of Futures Contract of Bahar Azadi Gold Coin with Considering the Historical Memory in Observations
+Application of  FIAPARCH-CHUNG Models</ArticleTitle>
+<VernacularTitle>مدل‏سازی ارزش در معرض ریسک قراردادهای آتی سکۀ بهار آزادی با درنظرگرفتن حافظۀ تاریخی در مشاهدات: کاربردی از الگو‏های FIAPARCH-CHUNG</VernacularTitle>
+			<FirstPage>57</FirstPage>
+			<LastPage>82</LastPage>
+			<ELocationID EIdType="pii">23828</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2018.107307.1189</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>مجتبی</FirstName>
+					<LastName>بیگ خورمیزی</LastName>
+<Affiliation>مهندسی مالی، دانشکده صنایع، دانشگاه آزاد اسلامی، واحد تهران جنوب، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>میثم</FirstName>
+					<LastName>رافعی</LastName>
+<Affiliation>گروه اقتصاد امور عمومی، دانشکده اقتصاد، دانشگاه خوارزمی، تهران, ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2017</Year>
+					<Month>10</Month>
+					<Day>19</Day>
+				</PubDate>
+			</History>
+		<Abstract>&lt;strong&gt;Objective: &lt;/strong&gt;Value-at-Risk (VaR) is a standard tool for measuring potential risk of economic losses in financial markets, thus it is largely used in controlling and predicting a wide variety of risks such as market, credit, and financial risks. &lt;br /&gt;&lt;strong&gt;Method:&lt;/strong&gt; Applying criteria information, this study shows that the best model for measuring the volatility of coin’s futures return, during the period 2013/12/17 to 2016/10/27, is MA(1)-FIAPARCH-CHUNG (2, d, 1). According to the applied model, the VAR, for short- and long-term positions, was calculated and, then, to confirm the accuracy of the applied VAR, Kupic test was run. &lt;br /&gt;&lt;strong&gt;Resutls: &lt;/strong&gt;Our findings indicate that asymmetry evaluation and long-term memory of return volatility can ensure a more accurate VAR model which enhances the quality of the risk management process in the Tehran Futures Market.</Abstract>
+			<OtherAbstract Language="FA">&lt;strong&gt;هدف:&lt;/strong&gt; ارزش در معرض ریسک ابزاری استاندارد و مناسب برای اندازه‌گیری ریسک بالقوۀ زیان‌های اقتصادی در بازارهای مالی است که امروزه به‌طور وسیعی برای کنترل و پیش‌بینی انواع ریسک‌ بازاری، اعتباری و مالی استفاده می‌شود.&lt;br /&gt; &lt;strong&gt;روش: &lt;/strong&gt;در این مطالعه با بهره‏گرفتن از معیارهای اطلاعات نشان داده شد بهترین الگویی که می‌تواند طی دورۀ 26/9/1392 تا 6/8/1395 نوسانات بازده آتی‌های سکۀ بهار آزادی را نمایش دهد، الگوی MA(1)-FIAPARCH-CHUNG(2,d,1) است. در ادامه ارزش در معرض ریسک، با توجه به الگوی ذکرشده در دو موقعیت خرید و فروش برای این دارایی سنجیده و برای تأیید خوب‌بودن فرایند محاسبۀ ارزش در معرض ریسک از آزمون کوپیک استفاده شد.&lt;br /&gt; &lt;strong&gt;نتایج: &lt;/strong&gt;طبق نتایج، ارزیابی ویژگی عدم‌تقارن و حافظۀ ‏بلندمدت در نوسانات بازده ممکن است سبب انتخاب الگوی ارزش در معرض ریسک مناسب برای عملکرد مدیریت ریسک در بازار آتی‌های سکۀ تهران شود و تحلیل‏ها در این پژوهش می‏تواند ابزاری باارزش برای فعالیت در بورس کالای ایران محسوب شود.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">ارزش در معرض ریسک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">حافظۀ بلندمدت</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نوسان</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">قرارداد آتی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سکه</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_23828_c34e0e04601862bf0e85bd5435bd1ba6.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

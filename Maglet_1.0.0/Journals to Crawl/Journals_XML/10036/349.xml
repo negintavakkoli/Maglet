@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-26T07:01:39Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22055">http://aag.scu.ac.ir/?_action=export&amp;rf=summon&amp;issue=1941</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>محاسبه مقدار کوتاه شدگی و رانش در بخش شمالی پهنه زمیندرز سیستان جهت تعیین بردارهای جنبشی همگرایی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>ناصر</given_name>
+												<surname>احمدی کمیجانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد مهدی</given_name>
+												<surname>خطیب</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>ابراهیم</given_name>
+												<surname>غلامی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>غلامرضا</given_name>
+												<surname>میراب شبستری</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>محمدحسین</given_name>
+												<surname>زرین کوب</surname>
+											</person_name></contributors>
+									<abstract>در طی فرگشت کمربندهای کوهزادی، شاهد دگرریختی در واحدهای سنگی میباشیم. برای پی بردن بمیزان و نحوه دگرریختی، میبایست توزیع کرنش، در فازهای مختلف محاسبه گردد. با استفاده از ساختارهای سطحی، کرنش صورت گرفته را میتوان در مقیاسهای مختلف، از ریزساختاری تا ناحیه ای محاسبه نمود. در این پژوهش، بکمک باز نمودن چینها و کرنش ایجاده شده در زمان تشکیل گسلها، میزان کوتاه شدگی محاسبه گردید. همچنین برآوردی از میزان رانش صورت گرفته بمنظور تعیین بردارهای جنبشی همگرا انجام گردید. این امر در پهنه شمالی زمیندرز سیستان در خاور ایران، برروی مقطع عرضی با روند 60 N از روستای نازدشت در باختر تا خاور روستای خوشاب، انجام شده است. &lt;br /&gt; براساس محاسبات میزان کوتاه شدگی برروی چینها، 3/27 درصد و میزان کوتاه شدگی برروی گسلها، 6/13درصد میباشد. میزان بردارهای رانشی در چینها، بسوی شمال خاور و جنوب باختر بترتیب 4/7 و 6/11درصد میباشد. همچنین میزان بردارهای رانشی که بواسطه عملکرد گسلها صورت گرفته، بسوی شمال خاور و جنوب باختر بترتیب 35/19و 82/22 درصد است. بنابراین از زمان شروع همگرایی دو صفحه افغان و لوت، میزان بردارهای جنبشی صفحه افغان نسبت به صفحه لوت، 7/7 درصد بیشتر میباشد و جهت انتقال زمین‌ساختی و فرورانش بترتیب بسوی جنوب باختر و شمال خاور میباشد.</abstract>
+									<keywords>
+									
+											<keyword>کوتاه شدگی</keyword>
+											<keyword>چین خوردگی</keyword>
+											<keyword>گسلش امتدادلغز</keyword>
+											<keyword>راندگی</keyword>
+											<keyword>پهنه زمین‌درز سیستان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>232</first_page>
+										<last_page>255</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15063_6ab4ef753f433fa314cf453b003871ed.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>پیش‌بینی نشست حداکثر در حفاری مکانیزه تونلهای دوقلو به روش سپر تعادلی فشار زمین (EPB) با استفاده از مدل ترکیبی نظارت شده هوش مصنوعی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>قدرت</given_name>
+												<surname>برزگری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>عطا الله</given_name>
+												<surname>ندیری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حسام</given_name>
+												<surname>جاوید</surname>
+											</person_name></contributors>
+									<abstract>در این مقاله از پارامترهای دخیل در نشست حداکثر سطح زمین در اثر حفاری تونل به روش سپر تعادلی فشار زمین شامل فشار تعادلی جبهه‌ی کار ، فشار تزریق دوغاب پشت لاینینگ، نرخ نفوذ ماشین، زاویه انحراف قائم ماشین، سطح آب زیرزمینی، عمق تونل و مشخصات خاک (عدد نفوذ استاندارد ، مدول الاستیسیته خاک، چگالی خشک خاک، چسبندگی خاک و اصطکاک داخلی خاک) مربوط به بخشی از مسیر تونلهای دوقلوی خط یک قطار شهری تبریز در حدفاصل بین ایستگاههای قونقا تا گازران به عنوان ورودی مدلهای شبکه عصبی مصنوعی و منطق فازی برای پیش‌بینی نشست حداکثر استفاده شده است. مقایسه نتایج به دست آمده از مدل-سازی با نشست‌های اندازه‌گیری شده در خط یک متروی تبریز نشان داد که با وجود توانایی هر دو مدل هوش مصنوعی در تخمین نشست در حفاری مکانیزه، ولی هنوز امکان تدقیق نتایج با استفاده از مدل هوش مصنوعی مرکب وجود دارد. لذا خروجی دو مدل منفرد به عنوان ورودی مدل نروفازی استفاده شد و نتایج بدست آمده (97/0 R2=و 78/0(RMSE= نشان از کاهش حداقل 27 درصد RMSE نسبت به مدلهای منفرد دارد.</abstract>
+									<keywords>
+									
+											<keyword>نشست</keyword>
+											<keyword>حفاری به روش سپر تعادلی فشار زمین</keyword>
+											<keyword>هوش مصنوعی مرکب</keyword>
+											<keyword>شبکه عصبی مصنوعی</keyword>
+											<keyword>منطق فازی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>256</first_page>
+										<last_page>271</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15060_7efc7f095614fa8b0a02d8cef7406482.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تحلیل لرزه زمین ساخت و خطر زلزله در محدوده شهرهای دزفول و شوش</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>عباس</given_name>
+												<surname>چرچی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سید ساجدالدین</given_name>
+												<surname>موسوی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>بهزاد</given_name>
+												<surname>شاه آبادی</surname>
+											</person_name></contributors>
+									<abstract>در این تحقیق وضعیت لرزه‌زمین‌ساخت و تحلیل خطر زمین‌لرزه شهرستان‌های دزفول و شوش تا شعاع 50 کیلومتری مورد توجه قرار گرفت. این موضوع می-تواند به ایمن‌سازی سازه‎های مهم و مکان‌یابی مناسب تاسیسات و سازه‌های جدید در سطح این شهرستان‌ها کمک کند. به همین دلیل در این تحقیق با بررسی شرایط زمین شناسی منطقه اقدام به شناسایی گسل‌های محدوده مطالعاتی و تعیین ابعاد و هندسه آنها شده است. هم‌چنین، پیشینه لرزه‌خیزی این منطقه مورد ارزیابی قرار گرفت. در این مقاله برآورد پارامترهای جنبش زمین به روش آماری-احتمالاتی و در سطوح احتمال وقوع مختلف انجام شده است. نتایج نشان می-دهند که بیشینه بزرگی زلزله مبنای طرح (احتمال 64 درصد) برای دوره های بازگشت 25، 50، 100 و 200 ساله در این منطقه بترتیب 4/5، 6/5، 9/5 و 1/6 ریشتر برآورد شد. نتایج حاصل از رابطه میرایی دانووان موید آن است که بیشینه شتاب قابل انتظار و مبنای طرح برای شهر دزفول بترتیب 22/0 و g 33/0 است. این مقدار برای شهر شوش بترتیب 24/0 و g 36/0 است. نقشه‌های پهنه‌بندی تهیه شده مبین آن است که، بخش‌های شمالی و میانی گستره مورد مطالعه از بیشترین خطر برخوردار می باشند. بنابراین، باید نسبت به مقاوم‌سازی و تقویت بافت‌های فرسوده و تاریخی اقدام نمود.</abstract>
+									<keywords>
+									
+											<keyword>لرزه زمین ساخت</keyword>
+											<keyword>تحلیل احتمالاتی</keyword>
+											<keyword>خطر زلزله</keyword>
+											<keyword>دزفول</keyword>
+											<keyword>شوش</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>272</first_page>
+										<last_page>283</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15062_8934877b81198b283dc04ef32b919854.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مسیریابی بهینه آزادراه پل زال-خرم آباد با استفاده ازسنجش از دور و GIS و ملاحظات زیست محیطی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>کاظم</given_name>
+												<surname>رنگزن</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سید ساجدین</given_name>
+												<surname>موسوی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>عظیم</given_name>
+												<surname>صابری</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>سهیلناز</given_name>
+												<surname>درویشی</surname>
+											</person_name></contributors>
+									<abstract>آزادراه‌ها یکی از مهمترین شریانهای حیاتی جامعه بوده که نقش مهمی را در تخریب محیط‌زیست داشته و از معضلات اساسی در حفظ و تنوع زیستی هستند. آزادراه پل زال-خرم آباد در جنوب غربی کشور علیرغم داشتن مزایای اقتصادی فراوان، مخطرات زمین‌شناسی و مشکلات عدیده‌ای را برای محیط‌زیست بصورت زمین‌لغزشها، تغییر کاربری اراضی و کاهش جمعیت گونه‌های جانوری و گیاهی داشته است. به همین دلیل در این پژوهش، تعیین مسیر بهینه بر مبنای ملاحظات زیست‌محیطی مدنظر قرار گرفته است. هشت عامل شیب، چینه‌شناسی، گسل، فاصله از آبراهه، پوشش گیاهی، ارتفاع، کاربری اراضی و مناطق حفاظت شده از منظر زمین‌شناسی مهندسی، زیست‌محیطی و اقتصادی به روش فازی و AHP استانداردسازی شده‌اند. این تحقیق نشان می‌هد که عوامل مناطق حفاظت شده، چینه‌شناسی، پوشش گیاهی و کاربری اراضی با وزن 166/0، 165/0، 147/0و 123/0 بیشترین تاثیر در انتخاب مسیر جدید دارند. در نهایت، این عوامل براساس وزن نسبی در محیط GIS با یکدیگر ترکیب شده و مسیر پیشنهادی انتخاب گردید. این مسیر نسبت به مسیر فعلی 15 کیلومتر کوتاهتر و مخاطرات زمین‌شناسی و اثرات زیست‌محیطی کمتری دارد. بنابراین، توصیه می‌شود که این فرآیند برای سایر آزادراه‌های احداث شده و یا در حال احداث به منظور کاهش پیامدهای زیست محیطی پروژه بکار گرفته شود.</abstract>
+									<keywords>
+									
+											<keyword>ملاحظات زیست محیطی</keyword>
+											<keyword>سنجش از دور</keyword>
+											<keyword>مسیر بهینه</keyword>
+											<keyword>آزادراه پل زال-خرم آباد</keyword>
+											<keyword>فازی و AHP</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>284</first_page>
+										<last_page>299</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15058_e0ef9d0d0fb4a1c93a3314bbcfd6e884.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تحلیل تنش دیرینه در منطقه شیرشتر (یکی از شاخه‌های شمالی گسل نهبندان)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>ایوب</given_name>
+												<surname>سهیمی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سید مرتضی</given_name>
+												<surname>موسوی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد مهدی</given_name>
+												<surname>خطیب</surname>
+											</person_name></contributors>
+									<abstract>از دیدگاه زمین ساخت منطقه مورد مطالعه در زون زمیندرز سیستان واقع شده است. هدف این پژوهش بررسی تغییرات راستای تنش بیشینه (σ1) در طول تاریخچه‌ی زمین ساخت منطقه با کمک نشانگرهای ساختاری موجود در منطقه شیرشتر (جنوب شرق سربیشه) می‌باشد که از جمله این نشانگرها می‌توان به گسل‌ها، برگوارگی‌ها و رگه‌ها اشاره کرد. برای بررسی تغییرات تنش دیرین منطقه از روش‌های مختلف تحلیل تنش دیرینه بر روی مشخصات هندسی حرکتی گسل‌های منطقه به کمک نرم افزارهای مربوطه استفاده شده است که نتایج به دست آمده نشان می‌دهد که منطقه مورد پژوهش دو راستای رژیم تنشی را در طول تاریخچه زمین ساختی بر اساس سن واحدهای سنگی تجربه کرده است. راستای اولیه تنش بیشینه به صورت شمال باختری – جنوب خاوری از زمان کرتاسه تا قبل از ائوسن بر منطقه حاکم بوده و راستای تنش شمال خاوری – جنوب باختری از زمان ائوسن تا زمان کنونی حاکم بوده است که با راستای رژیم کنونی منطقه همخوانی دارد. همچنین با تلفیق نتایج بدست آمده از تحلیل تنش با نتایج بدست آمده از جنبش‌شناسی برگوارگی‌ها و رگه‌های منطقه مورد مطالعه، تغییرات راستای تنش بیشینه (σ1) چرخش ساعتگرد را نشان می‌دهد.</abstract>
+									<keywords>
+									
+											<keyword>زون زمیندرز سیستان</keyword>
+											<keyword>منطقه شیرشتر</keyword>
+											<keyword>تحلیل تنش دیرین</keyword>
+											<keyword>جنبش شناسی برگوارگی‌ها و رگه‌ها</keyword>
+											<keyword>چرخش ساعتگر</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>300</first_page>
+										<last_page>315</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15059_976d1dd5a746869ad3743c4d2a45b8cb.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی مس رگه ای شورک و زون گوسان همراه (شمال غرب بیرجند) بر اساس دگرسانی، کانی سازی، زمین شیمی و سیالات درگیر</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مریم</given_name>
+												<surname>جاویدی مقدم</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد حسن</given_name>
+												<surname>کریم پور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>آزاده</given_name>
+												<surname>ملکزاده شفارودی</surname>
+											</person_name></contributors>
+									<abstract>محدوده شورک بخشی از پهنه آتشفشانی-نفوذی در بلوک لوت، شمال‌غرب‌ شهر بیرجند است. طی پی‌جویی اولیه در این منطقه توسط پردازش داده‌های ماهواره‌ای آستر به روش نقشه برداری زوایای طیفی، دگرسانی‌های پروپلیتیک، آرژیلیک و اکسیدهای آهن بارزسازی شدند. این گستره‌ شامل برونزدهایی از سنگ‌های آتشفشانی (با ترکیب آندزیتی تا ریولیتی) بوده که واحد‌های نیمه‌عمیق و عمیق با ترکیب گابرویی تا دیوریتی در آنها نفوذ نموده‌اند. کانی‌سازی رگه‌ای در دو مرحله شکل گرفته که شامل، 1. کوارتز-پیریت-کالکوسیت-کالکوپیریت-بورنیت±فاهلور±اسفالریت همراه با دگرسانی آرژیلیکی- سیلیسی و 2. کوارتز-کالکوسیت-گالن±اسفالریت همراه با دگرسانی سیلیسی-کربناتی می‌باشد. مطالعه سیالات درگیر اولیه در بلورهای کوارتز همزمان با مرحله اول و دوم کانی‌سازی رگه‌ای، متوسط دمای همگن شدن به ترتیب 267 و 215 درجه سانتی‌گراد را نشان می‌دهند. بر پایه مطالعات سرمایش، میانگین دمای ذوب آخرین قطعه یخ (Tfmice) در این دو مرحله به ترتیب برابر با 4/19 و 1/11 درصد وزنی نمک طعام است. اختلاط، رقیق شدگی توسط آب‌های جوی و جوشش طی تحول سیالات گرمابی و شکل-گیری رگه‌ها موثر بوده است. بر پایه شواهدی چون کنترل ساختاری کانی‌سازی، نوع دگرسانی، کانی‌شناسی ساده ذخیره و داده‌های دماسنجی، کانسار شورک مشابه کانسارهای اپی‌ترمال می‌باشد. حضور متعدد رگه‌های اپی‌ترمال مس در مقیاس وسیع نشان دهنده پتانسیل اقتصادی بالای این محدوده می‌باشد.</abstract>
+									<keywords>
+									
+											<keyword>کانی‌سازی</keyword>
+											<keyword>سیالات درگیر</keyword>
+											<keyword>اختلاط</keyword>
+											<keyword>اپی‌ترمال</keyword>
+											<keyword>شورک</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>316</first_page>
+										<last_page>340</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15056_b8b1645b2e69355c6959ebfd9fa33f01.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>جداسازی آنومالی‌های زمین‌شیمیایی فلزات سرب و روی با استفاده از روش‌ آماری کلاسیک (Mean+nSTEV)، شاخص سینگولاریتی، سنجش از دور و عوامل ساختاری در ورقه 1:100000 خُنداب؛ بخش شمالی زون ملایر-الیگودرز-اصفهان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمدامین</given_name>
+												<surname>جعفری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>کنعانیان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>احد</given_name>
+												<surname>نظرپور</surname>
+											</person_name></contributors>
+									<abstract>در این مطالعه از روش آمار کلاسیک، شاخص سینگولاریتی، سنجش از دور، نمودار شواهد وزنی (WofE) و تجزیه و تحلیل ساختاری برای جداسازی آنومالی-های ژئوشیمیایی از زمینه برای فلزات سرب و روی در منطقه مورد مطالعه بکار گرفته شد. روش آمار کلاسیک (Mean+nSTEV) نشان داد که مقدار آستانه برای فلزات سرب و روی به ترتیب 75/30 ppm و 18/153 ppm است. در نقشه‌های بدست آمده از روش شاخص سینگولاریتی آنومالی‌های ضعیف و پنهان بهتر نمایش داده شده و همپوشانی بهتری با سنگ آهک که به عنوان سنگ میزبان در ذخایر سرب و روی (نوع MVT)، تراکم گسل‌ها و دگرسانی‌های موجود در منطقه مورد مطالعه، نشان می‌دهد. علاوه بر این، آنومالی‌های بدست آمده از این روش همپوشانی بالایی با معادن سرب و روی موجود در منطقه نشان می-دهند. بطور کلی در این مطالعه مشخص گردید که عیار فلز سرب در جنوب و شمال‌شرق و عیار فلز روی در شمال‌شرق و مرکز محدوده بیشترین میزان آنومالی را از خود نشان می‌دهند که در این مناطق احتمال وجود مناطق کانساری از نوع MVT بسیار بالا است. از طرفی آنومالی‌های بدست آمده با واحدهای آهک کرتاسه و گسلش منطقه که در کانه‌زایی سرب و روی ارتباط مستقیمی دارد، انطباق بالایی را نشان می‌دهند.</abstract>
+									<keywords>
+									
+											<keyword>زمین‌شیمی</keyword>
+											<keyword>آمار کلاسیک</keyword>
+											<keyword>شاخص سینگولاریتی</keyword>
+											<keyword>سرب و روی</keyword>
+											<keyword>خنداب</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>341</first_page>
+										<last_page>356</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15061_adbc997ba02e1b1730ff08b734cd6169.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی هیدروژئوشیمیایی و تعیین منشاء آلودگی چشمه سرگرو دهلران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید یحیی</given_name>
+												<surname>میرزائی ارجنکی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>منوچهر</given_name>
+												<surname>چیت سازان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>زهرا</given_name>
+												<surname>پیری</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>حاجی</given_name>
+												<surname>کریمی</surname>
+											</person_name></contributors>
+									<abstract>آلودگی و شوری آب‌های زیرزمینی خصوصاً در سازند های کربناته از جمله چالش‌های مهم مدیریت آب می‌باشد. بررسی منابع آلاینده نشان می‌دهد شرایط تکتونیکی می تواند باعث تداخل منابع الاینده با آب‌های کارستی گردد. لذا شناخت آلودگی‌ها همچنین درک مکانیسم حاکم بر این فرایند کمک زیادی به تعیین محل تداخل و ارائه راهکار جهت خروج آب قبل از آلودگی می‌نماید. چشمه سرگرو یکی از چشمه‌های مهم دهلران می‌باشد که به دلیل کیفیت پایین مورد بهره‌برداری قرار نمی‌گیرد به منظور بررسی‌های هیدروشیمیایی، در یک بازه 10 ساله، داده‌های کیفی چشمه جمع‌آوری شد همچنین جهت تکمیل داده‌ها چهار مرحله نمونه برداری در منطقه صورت پذیرفت. جهت تحلیل داده‌ها از روش های گرافیکی، نمودارای ترکیبی، نسبت‌های یونی، نمودارهای تبادل یونی همچنین روابط تعیین کننده شوری استفاده گردید. نتایج بررسی‌ها نشان داد آب چشمه از لحاظ شرب و کشاورزی غیر قابل مصرف می‌باشد. بررسی نسبت های یونی و تبادلات یونی نشان داد مقادیر غلظت مولی کلر در تمامی دوره با سدیم تطابق نداشته همچنین سایر نسبت های یونی در منطقه موید تبادل یونی معکوس و یا تداخل شورابه عمیق نفتی می‌باشد. بررسی میزان برم و ید اندازه‌گیری شده و نسب وزنی آنها با کلر نیز تایید کننده اختلاط شورابه نفتی با آب چشمه می‌باشد.</abstract>
+									<keywords>
+									
+											<keyword>چشمه سرگرو</keyword>
+											<keyword>شورابه</keyword>
+											<keyword>نسبت یونی</keyword>
+											<keyword>تبادل یونی</keyword>
+											<keyword>کارستی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>357</first_page>
+										<last_page>373</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15057_3a8e41c32a0e00be121ecf9167765069.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-26T22:56:40Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://www.jiraeg.ir/?_action=export&amp;rf=summon&amp;issue=11617</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>11</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تأثیر پساب شهری بر پارامترهای شیمیایی، فیزیکی و مکانیکی خاک (مطالعه موردی: منطقه مرکزی شهر مشهد)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>نرجس</given_name>
+												<surname>قهرمانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ناصر</given_name>
+												<surname>حافظی مقدس</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>غفوری</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>غلامرضا</given_name>
+												<surname>لشکری پور</surname>
+											</person_name></contributors>
+									<abstract>آلودگی با پساب شهری یکی از شایع‌ترین انواع آلودگی خاک در مناطق مسکونی و شهری است که اثر قابل توجهی بر پارامترهای فیزیکی و مقاومتی خاک دارد. در این پژوهش اثر پساب شهری بر خصوصیات شیمیایی و مهندسی نمونه‌ای خاک ریزدانه در مرکز شهر مورد بررسی قرار گرفته است. برای این منظور خصوصیاتی نظیر حدود آتربرگ، مقاومت تک محوری و پارامترهای تحکیمی نمونه اولیه و نمونه‌هایی که بصورت مصنوعی با درصدهای مختلفی از پساب آغشته شده است، مقایسه گردیده است. نتایج این پژوهش نشان داد که مقاومت فشاری تک محوری و نشانه فشردگی (Cc) خاک مورد مطالعه با افزایش غلظت پساب ورودی و ایجاد تغییر در سیال میان منفذی افزایش پیدا کرده است در حالی که نشانه خمیری و نشانه تورم (Cs) خاک با افزایش غلظت آلاینده‌ها در خاک کاهش نشان می‌دهند. همچنین غلظت کم پساب در زمان کوتاه تاثیر بیشتری در تغییر خصوصیات خاک داشته است. بررسی تصاویر میکروسکوپ الکترونی نشان می‌دهد زمانی که نمونه خاک با پساب اشباع می‌گردد، لایه‌ای از نمک‌ها به دور ذرات خاک تجمع یافته و سبب افزایش اندازه و سطح دانه‌ها و تغییر در ساختار خاک به الگویی مشابه الگوی دانه‌ای می‌گردد. بنابراین دو عامل زمان و غلظت بر پارامترهای فیزیکی و مقاومتی خاک تاثیر گذار است و تاثیر غلظت نسبت به زمان، شاخص‌تر می‌باشد.</abstract>
+									<keywords>
+									
+											<keyword>نشت پساب</keyword>
+											<keyword>خواص فیزیکی</keyword>
+											<keyword>خواص مکانیکی</keyword>
+											<keyword>ترکیب شیمیایی</keyword>
+											<keyword>منطقه مرکزی شهر</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>33</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_86871_371c72bd877e3df19c371e8375cfa70c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>11</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تاثیرات الیاف کربن و شیشه بر افزایش مقاومت خمشی سنگ های مصنوعی و مطالعه ی ساختار آن ها با استفاده از SEM</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>اکبر</given_name>
+												<surname>جعفرآذری خزینه</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>ارومیه ای</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمدرضا</given_name>
+												<surname>نیکودل</surname>
+											</person_name></contributors>
+									<abstract>سنگ مصنوعی ترکیبی از سنگ دانه های طبیعی و مواد افزودنی مانند صمغ های صنعتی (رزین)، سیمان و دیگر مواد پلیمری می باشد. در این پژوهش سنگ مصنوعی با مواد افزودنی و رزین های متفاوت به منظور دست یابی به ظرفیت خمشی بالا با طرح اختلاط، 84 % سنگ دانه، 10 % رزین و 6 % مواد افزودنی به روش کاملا دستی بدون نیاز به سیستم خلاء و فشار ساخته شد. برای تعیین ریز ترک ها، عناصر، اتم های سازنده، درصد وزنی و چگونگی قرارگیری و در هم تنیدگی مواد افزودنی مصرف شده در ساخت سنگ های مصنوعی، تصاویر FESEM از نمونه ها گرفته شد. برای تعیین شکل پذیری و ارزیابی کیفیت سنگ های مصنوعی توسط توانایی آن ها در برابر مقاومت به ایجاد ترک یا ناهمواری های سطحی دیگر در طول یک دوره ی خمشی مداوم، سنگ های مصنوعی ساخته شده با مواد افزودنی (الیاف شیشه، الیاف کربن، رزین پلی استر و وینیل استر) آزمایش خمش سه نقطه ای صورت گرفت. بر اساس آزمایش خمش سه نقطه ای نمونه ساخته شده با رزین ویلین استر و الیاف کربن بیش ترین مقاومت خمشی و نمونه ساخته شده با رزین ویلین استر و الیاف شیشه بیش ترین کرنش را در طول خمش تحمل کردند. همچنین نوع شکست و ترک ها در سنگ های تقویت شده به ترتیب، شکننده و خمشی و در سنگ های بدون تقویت، شکل پذیر و خمشی برشی است.</abstract>
+									<keywords>
+									
+											<keyword>سنگ مصنوعی</keyword>
+											<keyword>الیاف شیشه و کربن</keyword>
+											<keyword>رزین پلی استر و وینیل استر</keyword>
+											<keyword>خمش سه نقطه ای</keyword>
+											<keyword>SEM</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>15</first_page>
+										<last_page>27</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_85025_e766cfdb8836cc7eb90ea0544a18ac25.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>11</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مدلسازی هندسی درزه ها به روش شبکه شکستگیهای گسسته سه بعدی (مطالعه موردی ساختگاه سد لیرو)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>فرزاد</given_name>
+												<surname>گهرویی باجگیرانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>عنایت الله</given_name>
+												<surname>امامی میبدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حمید</given_name>
+												<surname>مهرنهاد</surname>
+											</person_name></contributors>
+									<abstract>مطالعه رفتار جریان سیال در بسیاری از پروژه‌های عمرانی، معدنی و زیست محیطی از اهمیت بسیار زیادی برخوردار است. برآورد رفتار هیدرولیکی توده‌سنگ نیازمند درک مناسبی از رفتار هیدرولیکی شکستگی‌ها و مدلی دقیق از شبکه شکستگی‌های موجود در توده-سنگ است. از طرفی عدم قطعیت و تغییرپذیری در مطالعات زمین‌شناسی مهندسی در ارتباط با توده‌سنگ‌ها که از مواد طبیعی و ناهمگن ساخته شده‌اند اجتناب ناپذیر است. در این مقاله با توجه به اهمیت بالای ویژگی‌های تصادفی هندسی درزه‌ها شامل جهت‌داری و پایایی در رفتار هیدرولیکی توده‌سنگ ساختگاه سد لیرو، مدل شبکه شکستگی‌های گسسته سه‌بعدی درزه‌ها تهیه و توسعه داده شد. به این منظور کدی در نرم‌افزار Mathemtica ، با نام 3D-DFN نوشته شد. درزه‌های ساختگاه پبه روش شبکه شکستگی‌های گسسته سه‌بعدی مدل‌سازی گردید. در نهایت مدل هندسی تهیه شده بر اساس مقایسه آماره‌های توابع توزیع بدست آمده از خروجی مدل با آماره‌های توابع توزیع ورودی مدل اعتبارسنجی شد. نتایج بدست آمده در اغلب موارد نشان دهنده‌ی انطباق بیش از 90% است. همچنین مقادیر شدت‌های درزه‌داری خطی، سطحی و حجمی( P10 ، P21 و P32 ) از مقاطع دو بعدی تهیه شده هم‌راستا با سطوح برداشت و مدل سه بعدی محاسبه شد و با مقادیر برداشت مقایسه گردید. مقادیر P10 و P32 بیش از 90% انطباق را نشان داد و مولفه P21 بیش از 75% با داده‌های واقعی انطباق داشت. نتایج حاصل از این مقاله را می‌توان به عنوان ورودی قابل اطمینان برای مدل‌سازی عددی تحلیل پایداری و تحلیل هیدرولیکی مورد استفاده قرار داد.</abstract>
+									<keywords>
+									
+											<keyword>مدلسازی هندسی</keyword>
+											<keyword>3D -DFN</keyword>
+											<keyword>ساختگاه سد لیرو</keyword>
+											<keyword>شبکه شکستگیهای گسسته سه بعدی</keyword>
+											<keyword>روش عددی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>29</first_page>
+										<last_page>46</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_85026_6c2ed497010e474c0f89095cd6bbefed.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>11</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>برآورد حداقل فشار نگهدارنده جبهه‌کار ناهمگن تونلسازی مکانیزه با استفاده از روش های تحلیلی و عددی، مطالعه موردی: مترو تهران، خط 7</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>کلثوم</given_name>
+												<surname>ترکمان جو</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهدی</given_name>
+												<surname>نجفی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>جلیل</given_name>
+												<surname>قلیچ زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>حمید</given_name>
+												<surname>مهرنهاد</surname>
+											</person_name></contributors>
+									<abstract>ناهمگنی یا مرزهای لایه‌ها می‌تواند تاثیر مهمی بر روی پایداری سینه‌کار تونل داشته باشد. تجربیات عملی نشان می‌دهد که پایداری جبهه‌کار در خاک ناهمگن به نسبت مشکل‌تر از خاک‌های همگن بوده و نمی‌توان به راحتی این مشکل را به طور صریح و در عین حال توسط مدل‌های ارایه شده برای خاک همگن حل نمود. محاسبه فشار مناسب در جبهه‌کار تونل هنگام پیشروی، جهت جلوگیری از ناپایداری یک اصل اساسی است. از این رو در این تحقیق سعی شده است تا با استفاده از روش کاهش مقاومت و مفهوم ضریب ایمنی، وضعیت پایداری جبهه‌کار در تونلسازی مکانیزه روش فشار متعادل کننده زمین (EPB) در شرایط ناهمگن به کمک مدل‌سازی عددی با استفاده از نرم افزار Plaxis 3D Tunnel و Phase2 و محاسبات تحلیلی تعادل حدی بروئر و تنش حدی کارنزا تورس بررسی و تحلیل شود و در نهایت نقش ناهمگنی و تاثیر لایه‌های با ویژگی ژئوتکنیکی ضعیف‌تر در شروع گسیختگی در جبهه‌کار تونل مشخص گردد. با مقایسه مقادیر ضریب ایمنی به دست آمده، مقدارها نشان‌دهنده محافظه کار بودن روش‌های تحلیلی است. نتایج نشان می‌دهد در زمین‌های چندلایه که مواد ضعیف در قسمت فوقانی جبهه‌کار تونل قرار دارند می‌توانند سبب افزایش قابل توجه فشار ریزش و نیز ریزش جزئی شوند. با مقایسه فشار جبهه‌کار به دست آمده به دو صورت یک لایه (فرض همگن گرفتن خاک و میانگین‌گیری از پارامترهای مقاومتی و فیزیکی خاک) و چندلایه‌ای جبهه‌کار، می‌توان دریافت که فرض گرفتن یک لایه خاک به برآورد نادرست از حداقل فشار جبهه‌کارمنجر می‌شود.</abstract>
+									<keywords>
+									
+											<keyword>تونل</keyword>
+											<keyword>حفاری مکانیزه</keyword>
+											<keyword>جبهه‌کار ناهمگن</keyword>
+											<keyword>TBM</keyword>
+											<keyword>نرم افزار Plaxis 3D Tunnel</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>47</first_page>
+										<last_page>60</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_85027_207783ecea8c2a5c2f73e64751b9bae0.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>11</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مطالعه آزمایشگاهی تاثیرات بارانهای اسیدی و قلیایی بر خصوصیات ژئوتکنیکی خاک ریزدانه</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مصطفی</given_name>
+												<surname>مومنی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رسول</given_name>
+												<surname>اجل لوئیان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>میثم</given_name>
+												<surname>بیات</surname>
+											</person_name></contributors>
+									<abstract>در مطالعه پیش رو تاثیرات باران‌های اسیدی و قلیایی بر خصوصیات ژئوتکنیکی خاک رس با پلاستیسیته پایین مربوط به نواحی شمال شرقی اصفهان مورد ارزیابی قرار گرفته است. در این مطالعه آزمایشگاهی جهت بازسازی فرآیند اندرکنش میان باران مصنوعی و خاک از یک سیستم نفوذ آب در خاک خاص استفاده شده است. بدین صورت که نمونه‌های بازسازی شده در قالب‌ها، تحت نفوذ باران‌های اسیدی و قلیایی درpH ها و سال‌های بارش مختلف قرار گرفتند. آزمون‌های حدود اتربرگ، ضریب نفوذپذیری خاک، آزمون ظرفیت باربری کالیفرنیا و مقاومت فشاری محصور نشده نمونه خاک با pH مختلف جهت بررسی تغییرات مکانیکی خاک نسبت به خاک با درجه اسیدیته خنثی(pH=7) انجام شده است. با استفاده از نتایج آزمایش‌های انجام شده اثر نفوذ آب با pH های مختلف بر روی رفتار مکانیکی خاک مورد نظر بررسی شده است. نتایج نشان می‌دهد که بطور کلی با اسیدی تر شدن یا قلیایی تر شدن هر چه بیشتر آب نفوذی مقادیر حدود اتربرگ (حد روانی و شاخص خمیری) نسبت به نمونه با درجه اسیدیته خنثی افزایشی در حدود 6% در شاخص خمیری و 11% در حد روانی را نشان داده است و میزان نفوذپذیری خاک نیز نسبت به نمونه با pH=7 افزایشی چشمگیری داشته است و در مقادیر مقاومت فشاری محصور نشده و شاخص باربری کالیفرنیا نیز روندی کاهشی مشاهده شده است به گونه‌ای که کاهش در برخی از این مقادیر نسبت به نمونه با باران خنثی به بیش از 50% می‌رسد.</abstract>
+									<keywords>
+									
+											<keyword>باران اسیدی</keyword>
+											<keyword>خصوصیات ژئوتکنیکی</keyword>
+											<keyword>خاک رس</keyword>
+											<keyword>آزمون ظرفیت باربری کالیفرنیا</keyword>
+											<keyword>مقاومت فشاری محصور نشده</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>61</first_page>
+										<last_page>74</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_85798_4a26323cfa3b37dfdef8edfd2ee2890e.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>11</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Verifying Cement Compressive Strength Test Result Using the Most Effective Parameters</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد</given_name>
+												<surname>بهاریه</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>معصومه</given_name>
+												<surname>خلیلی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>بهنام</given_name>
+												<surname>نصراله زاده</surname>
+											</person_name></contributors>
+									<abstract>This study was conducted to analyze factors influencing the compressive strength test. The purpose was to introduce various factors affecting the accuracy of the compressive strength test in accordance with current standards and evaluate the effect of some effective parameters such as equipment, mortar preparation, sample preparation, loading rate and etc.&lt;br /&gt; To check the Reproducibility of the compressive strength test a program was developed to assess the possible modes through changes in loading rate matrix, standard sand, sample preparation, and tester. The changes of each parameter were measured within 2, 7 and 28-day interval, while other conditions were considered as constant based on the EN196-1 and ISIRI 393 standards. &lt;br /&gt; According to the test results, the most important factors in creating the difference in results are the type of the sand and loading rate. The changes in the Reproducibility percentage using different sands with softer grains increases the coefficient of variation and reduced performance of the test. Also in some cases, with increasing the loading rate up to 40%, the compressive strength of 28 days is increased by 13%.</abstract>
+									<keywords>
+									
+											<keyword>Cement compressive strength</keyword>
+											<keyword>reproducibility</keyword>
+											<keyword>loading rate</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>75</first_page>
+										<last_page>83</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_85799_9f20bf7ba2c903785ed22694567daac1.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

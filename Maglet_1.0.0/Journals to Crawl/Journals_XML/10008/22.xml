@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشکده مدیریت دانشگاه تهران</PublisherName>
+				<JournalTitle>مدیریت صنعتی</JournalTitle>
+				<Issn>2008-5885</Issn>
+				<Volume>7</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2015</Year>
+					<Month>03</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Configuring integrated supply chain network stochastic strategic</ArticleTitle>
+<VernacularTitle>پیکره بندی شبکة زنجیرة تأمین یکپارچة راهبردی تصادفی</VernacularTitle>
+			<FirstPage>83</FirstPage>
+			<LastPage>105</LastPage>
+			<ELocationID EIdType="pii">50682</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/imj.2015.50682</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>حمیدرضا</FirstName>
+					<LastName>فلاح لاجیمی</LastName>
+<Affiliation>دانشجوی دکتری مدیریت صنعتی (تحقیق در عملیات) دانشکدة مدیریت، دانشگاه تهران، تهران، ایران.</Affiliation>
+<Identifier Source="ORCID">0000-0002-5802-4027</Identifier>
+
+</Author>
+<Author>
+					<FirstName>احمد</FirstName>
+					<LastName>جعفرنژاد</LastName>
+<Affiliation>استاد گروه مدیریت صنعتی دانشکدة مدیریت، دانشگاه تهران، تهران، ایران.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محمدرضا</FirstName>
+					<LastName>مهرگان</LastName>
+<Affiliation>استاد گروه مدیریت صنعتی دانشکدة مدیریت، دانشگاه تهران، تهران، ایران.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>لعیا</FirstName>
+					<LastName>الفت</LastName>
+<Affiliation>دانشیار گروه مدیریت صنعتی دانشکدة مدیریت و حسابداری، دانشگاه علامه طباطبایی، تهران، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2014</Year>
+					<Month>02</Month>
+					<Day>13</Day>
+				</PubDate>
+			</History>
+		<Abstract> This research provides an optimization tool for use by supply chain managers in the design and operation of manufacturing- distribution networks under uncertain demand conditions. The problem under consideration consists of determining the supply chain infrastructure; raw material purchases, shipments, and inventories; and finished product production quantities, inventories, and shipments needed to achieve maximum profit while fulfilling demand and minimizing profit variability and unsatisfied demand. This research presented a model to supply chain infrastructure design. In this research, a multi-period, multi objective mixed integer robust optimization formulation of the strategic model is presented to account for the probabilistic demand data. For this purpose, numerical examples are presented and solved by LINDO software.
+
+
+
+ </Abstract>
+			<OtherAbstract Language="FA"> امروزه یکپارچه‌سازی فرایندهای زنجیرة تأمین به‌عنوان مزیت رقابتی شرکت‌ها مطرح است و معمولاً بدون درنظرگرفتن این دو عامل کلیدی متحمل هزینه‌های زیادی می‌شوند. بررسی پیکربندی‌های زنجیرة تأمین در سطح راهبردی با داده‌های تصادفی می‌تواند مکمل مناسبی برای رویکرد‌های قبلی باشد. این تحقیق ابزاری را برای بهنیه‌سازی زنجیرة تأمین فراهم می‌آورد تا مدیران در طراحی شبکه‌های تولید و توزیع در شرایط بی‌اطمینانی از آن استفاده کنند. مسئلة مورد نظر در این تحقیق ایجاد زیرساخت‌های زنجیرة تأمین، خرید، انتقال و موجودی مواد اولیه، تولید، انتقال موجودی محصول نهایی برای دستیابی به حداکثر سود و حداقل‌کردن تغییرپذیری سود و تقاضای برآورده‌نشده است. در این تحقیق، مدل بهینه‌سازی استوار عدد صحیح مختلط آرمانی چندهدفه با داده‌های تقاضای تصادفی ارائه می‌شود. به‌منظور درک بیشتر، مثال عددی ارائه می‌شود که با استفاده از نرم‌افزار LINDO حل و سپس اعتبارسنجی مدل بررسی شد که بیانگر بهبود اهداف در مدل است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">برنامه ریزی تصادفی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">بهینه سازی استوار</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">زنجیرة تأمین راهبردی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://imj.ut.ac.ir/article_50682_b8cd9e95e38eecbf3415cb651ea52157.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

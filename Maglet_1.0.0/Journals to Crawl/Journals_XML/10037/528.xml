@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1398</year>
+	<month>2</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2019</year>
+	<month>5</month>
+	<day>1</day>
+</pubdate>
+<volume>12</volume>
+<number>5</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>en</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>ارایۀ یک مدل اجزای محدود برای شبیه‌سازی جریان در اطراف چاه با الگوی مارپیچی مشبک‌کاری‌ها</title_fa>
+	<title>A Finite Element Model for Simulating Flow around a Well with Helically Symmetric Perforations</title>
+	<subject_fa>ژئوتکنیک (مکانیک خاک و سنگ)</subject_fa>
+	<subject>Geotecnic</subject>
+	<content_type_fa>علمی پژوهشی</content_type_fa>
+	<content_type>s</content_type>
+	<abstract_fa>&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt;در یک چاه مشبک&#8204;کاری شده، سیالات از طریق آرایه&#8204;ای از تونل&#8204;های مشبک&#8204;کاری به درون چاه وارد می&#8204;شوند. معمولاً این مشبک&#8204;کاری&#8204;ها با الگویی مارپیچی در اطراف گمانه چاه توزیع می&#8204;شوند. مدل&#8204;های عددی موجود برای شبیه&#8204;سازی جریان سیالات تولیدی به درون چاه&#8204;های قائم غلاف&#8204;دار مشبک&#8204;کاری شده دارای شرایط مرزی پیچیده&#8204;ای بوده و یا از زیاد بودن هزینه&#8204;های محاسباتی رنج می&#8204;برند. این مقاله یک مدل اجزای محدود ساده و در عین حال کارآمد را برای شبیه&#8204;سازی جریان در اطراف یک چاه با تقارن مارپیچی مشبک&#8204;کاری&#8204;ها را ارایه می&#8204;دهد. در مدل پیشنهادی با استفاده از تقارن فقط لازم است ضخامتی از بازه مشبک&#8204;کاری که شامل یک تونل مشبک&#8204;کاری است مش&#8204;بندی شود. زاویۀ فیزینگ بین مشبک&#8204;کاری&#8204;های مجاور از طریق اعمال شرایط مرزی دوره&#8204;ای به مرزهای بالایی و پایینی ضخامت مفسر مخزن در نظر گرفته شده&#8204; است. این شرایط مرزی شامل بخش&#8204;های فشار-دوره&#8204;ای و سرعت-دوره&#8204;ای است. بر خلاف بخش فشار-دوره&#8204;ای، روش اعمال شرایط سرعت-پریودیک برای مسئله جریان تک متغیره مبهم است. در این راستا ثابت می&#8204;شود که در مدل پیشنهادی شرایط سرعت دوره&#8204;ای به&#8204;صورت خودکار به شکل ضعیف ارضاء می&#8204;شود. دقت و کارایی محاسباتی مدل پیشنهادی از طریق مقایسه با مدل&#8204;های موجود صحت&#8204;سنجی شده است. نتایج مدل در قالب ضریب پوسته با مدل نیمه&#8204;تحلیلی متداول نیز مقایسه شده و انطباق مناسبی مشاهده شده است. مدل پیشنهادی می&#8204;تواند به&#8204;عنوان یک ابزار عددی مناسب برای بررسی جریان ورودی به چاه با آرایش مارپیچی &amp;nbsp;مشبک&#8204;کاری&#8204;ها استفاده شود.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;
+&amp;nbsp;</abstract_fa>
+	<abstract>&lt;p style=&quot;text-align: justify;&quot;&gt;In a perforated well, fluids enter the wellbore through arrays of perforation tunnels. These perforations are typically distributed in a helical pattern around the wellbore. Available numerical models to simulate production flow into cased-and-perforated vertical wells have complicated boundary conditions or suffer from high computational costs. This paper presents a simple and at the same time efficient finite element model to simulate flow around a well with helically symmetric perforations. In the proposed model, by taking advantage of the symmetry, only a thickness of perforated interval containing a single perforation tunnel needs to be meshed. Angular phasing between adjacent perforations is considered by applying periodic boundary conditions on the upper and lower boundaries of the representative reservoir thickness. These boundary conditions involve periodic-pressure and periodic-velocity parts. Unlike the periodic-pressure part, the method of imposing the periodic-velocity condition&amp;nbsp;within a single-variable flow problem is rather vague. In this regard, it is proved that in the proposed model, periodic-velocity condition is automatically satisfied in a weak sense. The accuracy and the computational efficiency of the proposed model are verified through comparison with available models. The model results, in terms of skin factor, are compared with the common semi-analytical model as well, and good agreement is obtained. The proposed model can readily be used as a numerical tool to study inflow of wells with helically symmetric perforations.&lt;br&gt;
+&amp;nbsp;&lt;/p&gt;
+</abstract>
+	<keyword_fa>چاه غلاف‌دار مشبک‌کاری شده, روش اجزای محدود, تقارن مارپیچی, شرط مرزی دوره‌ای, تحلیل جریان ورودی به چاه</keyword_fa>
+	<keyword>Cased and perforated well, Finite element method, Helical symmetry, Periodic boundary condition, Well inflow analysis.</keyword>
+	<start_page>159</start_page>
+	<end_page>188</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-1481-1&amp;slc_lang=en&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>Seyed Amirodin</first_name>
+	<middle_name></middle_name>
+	<last_name>Sadrnejad</last_name>
+	<suffix></suffix>
+	<first_name_fa>سید امیرالدین</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>صدرنژاد</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>sadrnejad@kntu.ac.ir</email>
+	<code>10031947532846003004</code>
+	<orcid>10031947532846003004</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation>Department of Civil Engineering, K.N. Toosi University of Technology, Tehran, Iran</affiliation>
+	<affiliation_fa>دانشگاه صنعتی خواجه نصیرالدین طوسی، دانشکد، عمران، تهران، ایران</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Hasan</first_name>
+	<middle_name></middle_name>
+	<last_name>Ghasemzadeh</last_name>
+	<suffix></suffix>
+	<first_name_fa>حسن،</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>قاسم‌زاده،</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>ghasemzadeh@kntu.ac.ir</email>
+	<code>10031947532846003005</code>
+	<orcid>10031947532846003005</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation>Department of Civil Engineering, K.N. Toosi University of Technology, Tehran, Iran</affiliation>
+	<affiliation_fa>دانشگاه صنعتی خواجه نصیرالدین طوسی، دانشکد، عمران، تهران، ایران</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Ahmadali</first_name>
+	<middle_name></middle_name>
+	<last_name>Khodaei Ardabili</last_name>
+	<suffix></suffix>
+	<first_name_fa>احمدعلی</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>خدائی اردبیلی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>khodaie@dena.kntu.ac.ir</email>
+	<code>10031947532846003006</code>
+	<orcid>10031947532846003006</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation>Department of Civil Engineering, K.N. Toosi University of Technology, Tehran, Iran</affiliation>
+	<affiliation_fa>دانشگاه صنعتی خواجه نصیرالدین طوسی، دانشکد، عمران، تهران، ایران</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

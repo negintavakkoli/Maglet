@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+		<JOURNAL>
+<YEAR>1391</YEAR>
+<VOL>2</VOL>
+<NO>3</NO>
+<MOSALSAL>3</MOSALSAL>
+<PAGE_NO>120</PAGE_NO>
+<ARTICLES>
+
+
+				<ARTICLE>
+				<TitleF>مدیریت کمی و کیفی آبخوان دشت رامهرمز با استفاده از مدل ریاضی در MODFLOW و MD3DMS</TitleF>
+				<TitleE></TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>      مدلسازی یکی ازروشهای غیر مستقیم مطالعه منابع آبهای زیرزمینی است که بعلت کارایی بالا و هزینه کمتر نسبت به روشهای دیگر در حال حاضر توجه زیادی رابه خود جذب نموده است. مطالعه حاضربا استفاده ازنسخه مادفلویPMWIN 5.3  در دشت رامهرمز در استان خوزستان صورت گرفته است. منطقه مورد مطالعه 267 کیلومتر مربع است که به یک لایه با 7735سلول تقسیم شده است. نتایج اندازه­گیری سطح ایستابی و غلظت نیترات، داده­های لیتولوژیکی، پارامترهای هیدروژئولوژیکی وداده­های بارندگی در مدل مورد استفاده قرار گرفتند و با مدلهای MODFLOW و MT3DMS واسنجی و صحت­سنجی گردیدند. برای حصول به مقادیر بهینه هدایت هیدرولیکی، جریان مرزی، آبدهی ویژه و نفوذ ناشی ازبارندگی و آب برگشتی ازچاه­ها، مدل جریان از مهر 1388 تا شهریور 1389 به مدت یک سال واسنجی و از مهر 1389 تا آخر اسفند 1389 به مدت شش ماه صحت­سنجی شد. پس از واسنجی و صحت­سنجی مدل جریان، مدل انتقال آلودگی نیترات به مدت شش ماه از خرداد 1389 تا آبان 1389 واسنجی و طی یک دوره دو ماهه در مهر و آبان 1389 صحت­سنجی شد. نتایج حاصل از بیلان مدل کمی تحت سناریوهای مدیریتی مختلف نشان داد که آبخوان قابلیت تحمل تنش­های شدید را داراست و با مدیریت صحیح می­توان از آب آبخوان جهت توسعه کشاورزی منطقه استفاده کرد. از نظر کیفی نیز آبخوان در مرحله گذر از خط 50 درصد آلودگی است که با توجه به سناریوهای مختلف و با برنامه­ریزی مناسب می­توان طی طولانی مدت آبخوان را پاکیزه کرد. .</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>-</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>1</FPAGE>
+						<TPAGE>8</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>منوچهر</Name>
+						<MidName></MidName>		
+						<Family>چیت سازان</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>عضو هیات علمی دانشگاه شهید چمران اهواز</Organization>
+						</Organizations>
+						<Universities>
+							<University>عضو هیات علمی دانشگاه شهید چمران اهواز</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>chitsazan.mc.@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سیده فاطمه</Name>
+						<MidName></MidName>		
+						<Family>موسوی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی کارشناسی ارشد هیدروژئولوژی دانشگاه شهید چمران اهواز</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی کارشناسی ارشد هیدروژئولوژی دانشگاه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سید یحیی</Name>
+						<MidName></MidName>		
+						<Family>میرزائی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>عضو هیات علمی دانشگاه شهید چمران اهواز</Organization>
+						</Organizations>
+						<Universities>
+							<University>عضو هیات علمی دانشگاه شهید چمران اهواز</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سعادت</Name>
+						<MidName></MidName>		
+						<Family>رستگار زاده</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>عضو هیات علمی دانشگاه شهید چمران اهواز</Organization>
+						</Organizations>
+						<Universities>
+							<University>عضو هیات علمی دانشگاه شهید چمران اهواز</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کلمات کلیدی: رامهرمز</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مدلسازی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>MODFLOW</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>MD3DMS</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>آبخوان</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>پیر هادی.ع.، 1377، مطالعه منابع آب دشت رامهرمز و بررسی گزینه های مختلف مدیریتی با استفاده از مدل ریاضی، پایان نامه کارشناسی ارشد، دانشگاه شهید چمران اهواز.##چیت سازان.م. و ساعت ساز.م.، 1384، کاربرد مدل ریاضی MODFLOW در بررسی گزینه­های مختلف مدیریت منابع آب دشت­رامهرمز، مجله علوم دانشگاه شهیدچمران اهواز، شماره14، ص:1 -15.##چیت سازان.م. و صدقی.م،م.،1383، تعیین شرایط مرزی مناسب برای مدل جریان آبهای زیرزمینی دشت ارسنجان، بیست و سومین گردهمایی علوم زمین، تهران.##لاله­زاری.ر.، 1387، بررسی تأثیر آبخوان شهرکرد بر انتشار نیترات با استفاده از مدل MT3D، پایان نامه کارشناسی ارشد، دانشگاه شهرکرد، ص1-100.##موسوی.س.ف.،1390 شبیه سازی کمی و کیفی منابع آب دشت رامهرمز با استفاده از مدل ریاضی تفاضل محدود، پایان نامه کارشناسی ارشد، دانشگاه شهید چمران، اهواز.##موسوی.ع.، 1389، شبیه سازی کمی آبخوان دشت شبستر با استفاده از مدل ریاضی. پایان نامه کارشناسی ارشد، دانشگاه تبریز.##ناصری.ح.ر. و ندافیان.ح.، 1387، مدل سازی انتقال آلاینده نیترات آب های زیرزمینی در محدوده چاه های آب شرب همدان، فصلنامه زمین شناسی ایران، سال دوم، شماره6، ص 87-98.##وزارت نیرو.، 1388، راهنمای تهیه مدل ریاضی آب های زیرزمینی، دفتر مهندسی و معیار های فنی آب و آبفا، معاونت امور آب و آبفا، نشریه شماره 337-الف. ص 110-1.##Almasri. M.N. and Kaluarachchi. J.J, 2007, Modeling nitrate contamination of groundwater in agricultural watersheds,  ##   Journal of Hydrology, 343, 211-229.##Don. N.C., Araki. H., Yamanishi. H. and Koga, K, 2005, Simulation of groundwater flow and environmental effects resulting##   from pumping, Environmental Geology, 47:361-374.##Jerome. M. and Chantal. G.O, 2002, Modeling flow and nitrate transport in groundwater for the prediction of water travel##   time and of consequences of land use evolution on water quality, Hydrological Processes, 16(2):479-492.##   model, U. S. Geological Survey, Open-file report 83-875. Chapter A1.##Zheng. C. and Wang. P.P, 1999, A modular three-dimensional multispecies transport model for simulation of advection,##   dispersion and chemical reaction of contaminant in groundwater systems, Documentation and User’s Guide, Department of  ##   Geology and Mathematics, University of Alabama, pp: 202.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>زمین شناسی اقتصادی کانسار اسکارن آهن چنار علیا با تکیه بر بررسی میان بارهای سیال، شمال غرب همدان</TitleF>
+				<TitleE></TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>      کانسار آهن چنار علیا در استان همدان و 24 کیلومتری شمال شهر اسد آباد قرار دارد. این کانسار در انتهای بخش شمال غربی زون ساختاری سنندج - سیرجان واقع شده است. نفوذ توده کوارتز سینیتی آلموقلاق بدرون سری آتشفشانی- رسوبی  سنقر با سن  تریاس- ژوراسیک باعث نهشته شدن این کانسار شده است. کانی سازی در منطقه به دو صورت توده ای و رگه ای است. کانی اصلی این کانسار مگنتیت است و هماتیت به عنوان دومین کانی آهن دار نهشته شده است. پیریت عمده ترین فاز سولفیدی  در این کانسار است. میانبارهای سیال نمونه های کوارتزی این کانسار بیشتر دو فازی و غنی از مایع با اشکال کشیده می باشند. مطالعات میکروترمومتری این  میانبارها نشان می دهد که میانگین شوری و دمای پیدایش این کانسار به ترتیب در محدوده 5.15- 5.2 درصد وزنی نمک طعام و 170-165 درجه سانتیگراد قرار می گیرد. چگالی میانبارهای سیال نمونه های کوارتزی کانسار آهن چنار علیا از 89/0 تا 02/1 متغیر است، عمق به دام افتادن سیالات درگیر کانسار چنار علیا در حدود 100 متر و در نزدیکی سطح زمین بوده است، همچنین فشار حاکم در طی تشکیل سیالات در حدود 50 بار بدست آمده است. نهشت آهن در منطقه پیامد تحرک مجدد سیالات متاسوماتیسم کننده، در راستای پهنه های برشی، مرزهای گسل خورده و شکستگی های سطحی است. مطالعات کانی شناسی، میزان شوری و دمای همگن شدگی میانبارهای سیال نشان دهنده این است که کانی زایی در کانسار آهن چنار علیا در مرحله تأخیری اسکارن صورت پذیرفته است.
+ </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>-</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>9</FPAGE>
+						<TPAGE>19</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>حسن</Name>
+						<MidName></MidName>		
+						<Family>زمانیان</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی دانشکده علوم دانشگاه لرستان</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی دانشکده علوم دانشگاه لرستان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>zamaninan138@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سمیه</Name>
+						<MidName></MidName>		
+						<Family>دولتشاهی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی دانشکده علوم دانشگاه لرستان</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی دانشکده علوم دانشگاه لرستان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>رضا</Name>
+						<MidName></MidName>		
+						<Family>زارعی سهامیه</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی دانشکده علوم دانشگاه لرستان</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی دانشکده علوم دانشگاه لرستان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>zareisah@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کلمات کلیدی: کانسار چنار علیا</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مگنتیت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>کانی شناسی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>میانبارهای سیال</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>اشراقی، س.،1380، نقشه زمین شناسی100000/1 تویسرکان، انتشارات سازمان زمین شناسی و اکتشافات معدنی کشور.##توکلی، ح.،1383، کانی شناسی، ژئوشیمی و خاستگاه کانسارهای آهن شمال غرب همدان، پایان نامه کارشناسی ارشد، دانشگاه تربیت مدرس، تهران، ایران، 154 ص.##رستمی پایدار، ق.، لطفی، م.، قادری، م.، امیری. ا.، عابدینی، م.،1389، یافته های جدید کانه نگاری و شیمی بلور مگنتیت و پیریت درکانسارهای آهن باباعلی وگلالی، باختر همدان، ایران، مجله علوم زمین، شماره 77، صفحه 121- 130.##شرکت ایران کانش.، 1379، طرح اکتشاف مقدماتی سنگ آهن چنار علیا، اداره کل صنایع و معادن استان همدان، 88 ص.##Bodnar. R. J., 1993, Revised  equation and table for determining the freezing point depression of H2O-NaCl solution, Geochim .Cosmochim .Acta, Vol: 57, p: 683-684.##Craij. J. R., Vaughan. D. J., 1981, Ore microscopy and ore petrography, Copyright by John Wiley and sons, 406p.##Drummond. S. E., Ohmoto. H., 1985, chemical evolution and mineral deposition in boiling hydrothermal systems, Economic Geology, Vol: 80, p: 126-147.##Einaudi. M. T., Meinert. L. D., Newberry. R. J., 1981, Skarn deposits, Economic Geology, p: 317–391.##Eugster. H. P., 1986, Minerals in hote water, Am. Mineral, Vol: 71, p: 655-673.##Hass. J. I., 1971, The effect of salinity on the maximum thermal gradient of a hydrothermal system at hydrostatic pressure, Economic Geology, Vol: 66, p: 940-946.##Kwak. T. A. P., Tan. T. H., 1981, The geochemistry of zoninig in the skarn mineral at the at the King Island_Dolphine mine, Economic Geologyv, Vol: 76, p: 468-497.##Lingang.  Xu.,et al., 2010, Geology geochemistry and age constrains on the Mengku skarn iron deposite in Xinjiang Altai, NW China, jornal of Asian Earth Sciences, Vol: 39, No: 5, p: 423-440.##Meinert. L. D., 1992, Skarn zonation and fluid evalution in the Groundhog Mine,Central Mining District , New Mexico, Economic Geology, Vol: 82, p: 523-545.##Mikucki. E. J., Groves. D. I., 1990, Genesis of primary gold deposits:gold transport and depositional models, Geol.Dep.and Uni.Extension, The Uni.of Western Aus, Vol: 20, p: 212-220.##Pirajno.  F., 1992, Hydrothermal Mineral Deposits – Principles and fundamental concepts for the Exploration Geologist, Springer, 709p.##Ramdohr. P.,1980,The ore minerals and their intergrowths, Sec. Edition, English translation of the 4th. Edition. Two valumes, pergamon press, 1205p.##Roedder.  E., 1984, Fluid Inclusions, Rev. Mineralogy, Mineral. Soc. Am, p: 12-644.##Scott. A. M., Watanabe. Y ., 1998, ((Extreme boiling)) model for variable salinity of the Hokko low- sulfidation epithermal Au prospect,southwestern Hokkaido, Japan Mineralium Deposita, Vol: 33, p: 568-578.##Shepherd. T. J., Ranbin. A. H., Alderton D .H. M., 1985, A Practical Guide to fluid inclusion studies, Blackie, Glasgow, 239p.##Singoyi. B., Zaw. K., 2001, A petro logical and fluid inclusion of magnetite scheelite skarn mineralization at Lara, northwestern Tasmania: implications for ore genesis, Chemical geology, Vol: 173, p: 239 – 253.##Wang. Y., Sasaki. M., Sasada.  M., Chen. C. H., 1999, Fluid inclusion studies of the Chinkuashin high –sulfidation gold – copper deposits in Taiwan, Chemical Geology, Vol: 154, p: 155-167.##Wilkinson.  J. J., 2001, Fluid inclusions in hydrothermal ore deposits, Lithos, Vol: 25, p: 229- 279.##Zamanian.   H . ,2003, Iron mineralization related to the Almoughlagh and south Ghorveh batholiths, western Iran, with a specific refrence to the Baba Ali and Gelali deposits, thesis sbmitted for the degree of PhD, Univercity of Pune, 215p.## Zhou. T., Yang.  F., Yuc.  S., Liu.  X., Zhang.  X., Fan. Y., 2007, Geochemistry and evolution of ore- forming fluids of the Yueshan Cu-Au skarn and vein- type deposits, Anhui province, south China, Ore Geology reviews, Vol: 31, p: 279-303.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی الگوی دگرشکلی با استفاده از تحلیل استرین نهایی و عدد تاوایی جنبش شناختی در پهنه دگرشکل شده چشمه سفید، کمربند دگرگونی سنندج-سیرجان</TitleF>
+				<TitleE></TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>      کنگلومرا و میکروکنگلومرای دگرشکل شده مزوزوئیک در کمربند دگرگونی سنندج- سیرجان یکی از بهترین نشانگرهای جنبش شناختی برای  مطالعات استرین می باشد. در بررسی استرین دوبعدی با استفاده از روش Rf/Ø بیشترین مقدار استرین تکتونیکی (Rs=5.4) در صفحه XZ بیضوی استرین در مقایسه با صفحات XY و YZ بدست آمد. ترسیم مقادیر میانگین هماهنگ نسبت ابعادی قلوه های کنگلومرا بر روی نمودار فلین نشان دهنده تغییرات پارامتر شکل بیضوی استرین (K) بین 6/0 تا 9/0 می باشد. تحلیل تاوایی پورفیروکلاستهای دگرشکل شده نشان دهنده تغییرات عدد تاوایی (Wk) بین 43/0 تا 63/0 بوده که  نشان دهنده عملکرد هر دو مولفه های برش ساده و محض در منطقه مورد مطالعه است. بر اساس تحلیل  عدد تاوایی جنبش شناختی مقادیر درصدی برش ساده و محض (30% &gt;برش ساده&gt; 42% ) و(58% &gt;برش محض&gt; 70% )تعیین گردید. این نتایج ماهیت استرین با غلبه برش محض حاصل از حرکات همگرایی بین صفحات آفرو-عربی و صفحه ایران را آشکار می سازد. با استفاده از نتایج حاصل از تحلیل استرین و تاوایی، مقادیر کوتاه شدگی در صفحه XZ بیضوی استرین در منطقه مورد مطالعه بین 42% تا 50% محاسبه گردید. 
+ </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>-</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>20</FPAGE>
+						<TPAGE>26</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>بابک</Name>
+						<MidName></MidName>		
+						<Family>سامانی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی دانشکده علوم دانشگاه شهید چمران اهواز</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی دانشکده علوم دانشگاه شهید</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>samani_babak@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>عباس</Name>
+						<MidName></MidName>		
+						<Family>چرچی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی دانشکده علوم دانشگاه شهید چمران اهواز</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی دانشکده علوم دانشگاه شهید</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>charchi.38@scu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>علی</Name>
+						<MidName></MidName>		
+						<Family>فقیه</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>بخش علوم زمین دانشگاه شیراز</Organization>
+						</Organizations>
+						<Universities>
+							<University>بخش علوم زمین دانشگاه شیراز</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>afaghhih@shirazu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کلمات کلیدی: استرین نهایی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>عدد تاوایی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بیضوی استرین</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>الگوی دگرشکلی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>کنگلومرا</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>Alavi, M., 1994. Tectonics of the Zagros orogenic belt of Iran: new data and interpretations. Tectonophysics 229, 211-238.##Alavi, M., 2004.Regional stratigraphy of the Zagros fold-thrust belt of Iran, and its proforeland evolution. American Journal of Science 304, 1–20.##Bailey, C.M., Gilmer, A.K., Marquis, M.N., 1999. A tale of two shear zones: the vorticity and strain path of two greenschist facies shear zones. Geological Society of America Abstracts with Programs 31 (7), 59.##Berberian, M., King, G.C.P., 1981. Towards a paleogeography and tectonic evolution of Iran. Canadian Journal of Earth Sciences 18, 210–265.##De Paor, D.G., 1988. R/ strain analysis using an orientation net. Journal of Structural Geology 10, 323–333.##Dewey, J.F., Pitman, W.C. III, Ryan, W.B.F., Bonnin, J., 1973. Plate tectonics and the evolution of the Alpine System. Geological Society of America Bulletin 84, 3137–3180.##Eshraghi, S.A., Roshan Ravan, J., Sabzehei, M., 1999. Geological map of the Quatruyeh area, scale 1:100,000. Geological Survey of Iran.##Fort, A.M., Bailey, C.M., 2007. Testing the utility of the porphyroclast hyperbolic distribution method of kinematic vorticity analysis. Journal of Structural Geology 29, 983–1001.##Law, R.D., Searle, M.P., Simpson, R.L., 2004. Strain, deformation temperatures and vorticity of flow at the top of the Greater Himalayan Slab, Everest Massif, Tibet. Journal of the Geological Society, London 161, pp. 305–320.##Lin, S., Jiang, D., Williams, P.F., 1998. Transpression (or transtension) zones of triclinic symmetry: natural example and theoretical modelling. In: Holdsworth, R.E., Strachan, R.A., Dewey, J.F. (Eds.), Continental Transpressional and Transtensional Tectonics. Special Publication of the Geological Society, London 135, pp. 41–57.##McClay, K.R., Whitehouse, P.S., Dooley, M and Richards, M., 2004. 3D evolution of fold and thrust belts formed by oblique convergence. Marine and Petroleum Geology 21, 857-877.##Mc Quarrie, N., 2004. Crustal scale geometry of the Zagros fold–thrust belt, Iran. Journal of Structural Geology 26, 519–535.##Means, W.D., Hobbs, B.E., Lister, G.S., Williams, P.F., 1980. Vorticity and noncoaxiality in progressive deformations. Journal of Structural Geology 2, 371–378.##Meere, P.A., Mulchrone, K.F., 2003. The effect of sample size on geological strain estimation from passively deformed clastic sedimentary rocks. Journal of Structural Geology 25, 1587-1595.##Mohajjel, M., Fergusson, C.L., 2000.  Dextral transpression in Late Cretaceous continental collision, Sanandaj–Sirjan Zone, western Iran. Journal of Structural Geology, 22, 1125-139.##Passchier, C. W., Trouw, R. A. J., 2005. Microtectonics. Springer-Verlag, Berlin. 336p.##Ramsay, J.G., Huber, M.I., 1983. The Techniques of Modern Structural Geology, Volume 1. Strain Analysis. Academic Press, London.##Ramsay, J.G., Wood, D.S., 1973. The geometric effects of volume change during deformation processes. Tectonophysics 16, 263-277.##Samani, B., 2010. Finite strain and deformation flow geometry in the Sanandaj-Sirjan HP-LT metamorphic belt, Iran. Ph.D thesis, Shiraz University, Iran.##Sarkarinejad, K., 1999. Tectonic finite strain analysis using Ghuri deformed conglomerate, Neyriz area Southwestern Iran. Iranian Journal of Science and Technology 23, 351–363.##Sarkarinejad, K., Azizi, A., 2008. Slip partitioning and inclined dextral transpression along the Zagros Thrust System, Iran. Journal of Structural Geology 30, 116–136.##Sarkarinejad, K., Faghih, A., Grasemann, B., 2008. Transpressional deformations within the Sanandaj-Sirjan Metamorphic Belt (ZagrosMountains, Iran). Journal of Structural Geology 30, 818–826.##Sarkarinejad, K., Samani, B., Faghih, A., Grasemann, B., Moradipoor, M., 2010. Implications of strain and vorticity of flow analyses to interpret the kinematics of an oblique convergence event (Zagros Mountains, Iran). Journal of Asian Earth Sciences 38, 34–43.##25       ##Sheikholeslami, M.R., Pique, A., Mobayen, P., Sabzehei, M., Bellon, H., Hashem Emami, M., 2008. Tectono-metamorphic evolution of the Neyriz metamorphic complex, Quri-Kor-e-Sefid area (Sanandaj-Sirjan Zone, SW Iran). Journal of Asian Earth Sciences 31, 504–521.##Simpson, C., De Paor, D. G. 1997. Practical analysis of general shear zones using porphyroclast hyperbolic distribution method: an example from the Scandinavian Caledonides. In: SENGUPTA, S. (ed) Evolution of Geological Structures in Micro- to Macro-scales. Chapman and Hall, London, 169–184.##Stocklin, J. 1968. Structural history and tectonics of Iran. A review. American Association of Petroleum Geologists Bulletin 52, 1229-1258.##Treagus, S.H., Treagus, J.E., 2002. Studies of strain and rheology of conglomerates. Journal of Structural Geology 24, 1541-1567.##Truesdell, C., 1953. Two measures of vorticity. Journal of Rotational Mechanical Analysis 2, 173-217.##Wallis, S.R., 1992. Vorticity analysis in a metachert from the Sanbagawa belt, SW Japan. Journal of Structural Geology 14, 271-280.##Wallis, S., 1995. Vorticity analysis and recognition of ductile extension in the Sanbagawa belt, SW Japan. Journal of Structural Geology 17, 1077–1093.##Wallis, S. R., Platt, J. P., Knott, S. D. 1993. Recognition of syn-convergence extension in accretionary wedges with examples from the Calabrian Arc and the Eastern Alps. American Journal of Science, 293, 463–495.##Xypolias, P., 2010. Vorticity analysis in shear zones: A review of methods and applications. Journal of Structural Geology 32, 2072–2092.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>زمین شیمی و چینه‌نگاری سکانسی سازند پابده در میدان نفتی منصوری، جنوب‌غرب ایران</TitleF>
+				<TitleE></TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف از این مطالعه ارزیابی پتانسیل هیدروکربوری سازند پابده میدان منصوری به عنوان سنگ­منشاء احتمالی در چهارچوب چینه­نگاری سکانسی است. قالب چینه­نگاری سکانسی سازند پابده با استفاده از لاگ GR چاه­های مورد مطالعه در نرم­افزار Cyclolog 3.2 تهیه و واحدهای رسوبی هم­زمان در این سازند مشخص گردیدند. جهت تعیین سیستم­تراکت­های نهشتی و ارزیابی پتانسیل هیدروکربوری سازند پابده از داده­های ژئوشیمی­آلی استفاده شد. مطالعه حاضر وجود دو سکانس رسوبی رده 2 را در سازند پابده نشان داد؛ سیستم تراکت پسرونده سکانس اول در زمان پالئوسن پسین تا ائوسن میانی نهشته شده و سکانس دوم در زمان ائوسن بصورت سیستم تراکت پیشرونده شکل گرفته ­است. وجود شیل­های قهوه­ای و بکارگیری مقایسه نمودار فیتان/پریستان ـ اندیس هموفان C35 نیز افزایش سطح آب دریا و وجود پیشروی را در این زمان تأیید می­کند. در نهایت در بخش فوقانی این سازند سیستم تراکت پسرونده سکانس دوم با سن الیگوسن پیشین تشخیص داده شد. بررسی­های انجام شده نشان داد که سازند پابده از نظر پتانسیل هیدروکربوری یکنواخت نبوده و می­توان آن را به سه بخش تقسیم نمود. ارتباط خوبی بین تغییرات نسبی سطح آب و تغییرات پتانسیل هیدروکربوری دیده شد. در بخش میانی (زمان ائوسن پسین) در زمان بالا بودن سطح نسبی تراز آب دریا مقدار TOC حدوداً تا %5 افزایش یافته است. در این بخش، مواد­آلی عمدتاً کروژن نوع II بوده و توانایی تولید نفت را دارد. در حالیکه در بخش­های زیرین و فوقانی با توجه به پایین­تر بودن سطح نسبی تراز آب در مقایسه با بخش میانی، مقدار TOC حدوداً %2 ـ 5/0 بوده و مواد­آلی عمدتاً کروژن نوع III است. همچنین این بخش­ها در سازند پابده پتانسیل تولید گاز را دارند. با استفاده از تطابق چینه­نگاری سکانسی و زون­بندی انجام شده سازند پابده در چاه 6 منصوری، در سایر چاه­های 31، 27، 21، 16، 14، 25، 15، 20 و 28 که داده ژئوشیمی وجود نداشت دنبال شده و توزیعشان در سرتاسر میدان منصوری پیش­بینی شد. صحت­سنجی نتایج نیز این روش را تأیید نمود. درنهایت آشکار شد که زون دارای پتانسیل تولید بالاتر در بخش میانی سازند پابده در کل میدان منصوری قرار دارد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>-</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>27</FPAGE>
+						<TPAGE>40</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>بهرام</Name>
+						<MidName></MidName>		
+						<Family>علیزاده</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>عضو هیات علمی گروه زمین شناسی دانشکده علوم  زمین دانشگاه شهید چمران اهواز و مرکز پژوهش زمین شناسی و زمین شیمی نفت</Organization>
+						</Organizations>
+						<Universities>
+							<University>عضو هیات علمی گروه زمین شناسی دانشکده علوم</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>alizade@scu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>ندا</Name>
+						<MidName></MidName>		
+						<Family>جنت مکان</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>کارشناسی ارشد گروه زمین شناسی دانشکده علوم زمین  دانشگاه شهید چمران اهواز</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناسی ارشد گروه زمین شناسی دانشکده علوم</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>هرمز</Name>
+						<MidName></MidName>		
+						<Family>قلاوند</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>مدیر اکتشافات شرکت ملی نفت ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>مدیر اکتشافات شرکت ملی نفت ایران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>علی</Name>
+						<MidName></MidName>		
+						<Family>غبیشاوی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>اداره زمین شناسی شرکت ملی مناطق نفت خیز جنوب</Organization>
+						</Organizations>
+						<Universities>
+							<University>اداره زمین شناسی شرکت ملی مناطق نفت خیز جنوب</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>alighobaishavi@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کلمات کلیدی: سازند پابده</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>میدان نفتی منصوری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>راک­ایول</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>چینه­نگاری سکانسی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>Cyclolog 3.2</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>امینی.ع.، 1388، مبانی چینه نگاری سکانسی، انتشارات دانشگاه تهران.##سراج.م.، 1384، تحلیل ساختاری مقدماتی میادین نفتی مناطق نفتخیز جنوب (محدوده فروافتادگی دزفول شمالی)، بایگانی شرکت ملی مناطق نفتخیز جنوب، گزارش شماره پ-5613.##References:##Behar.F., Beamont.V., Penteodo.H., 2001, Rock-Eval6 Technology performance and developments, Oil &amp; Gas Science and  ##   Technology-Rev. IFP, Vol: 56, p: 111-134##Catuneanu. O., 2006, Principles of sequence stratigraphy, Elsevier, 375 pp.##Catuneanu.O., Bhattacharya.J.P., Blum.M.D., Dalrymple.R.W., Eriksson.P.G., Fielding.C.R., Fisher.W.L., Galloway.W.E.,##   Gianolla.P., Gibling.M.R., Giles.K.A., Holbrook..M., Jordan.R., Kendall.C.G.St.C., Macurda.B., Martinsen.O.J., Miall.A.D.,##   Nummedal.D., Posamentier.H.W., Pratt.B.R., Shanley.K.W., Steel.R.J., Strasser.A., Tucker.M.E., 2010, Sequence  ##   stratigraphy: common ground after three decades of development, Vol: 28, p: 21-34##Creaney.S., Passey.Q.R., 1993, Recurring Patterns of  total organic carbon and source rock quality within a sequence##   stratigraphic framework, American Association of Petroleum Geologists Bulletin, Vol: 77, No: 3, p: 386-40##Embry.A., 2002, Transgressive-regressive (T-R) sequence stratigraphy, in Armentrout and N. Rosen, eds., Gulf coast SEPM##   Conference proceedings, Houston, p: 151-172##Embry.A., Johannessen.E., 1992, T-R sequence stratigraphy, facies analysis and reservoir distribution in the uppermost##   Triassic-lower Jurassic succession, western Sverdrup Basin, Arctic Canada, in T. Vorren et al., eds., Arctic geology and##   Petroleum potential: Norwegian Petroleum Society Special Publication 2, p: 121-146##Fleck.S., Michels.R., Ferry.S., Malartre.F., Elion.P., Landaise.P., 2002, Organic geochemistry in a sequence stratigraphic##   framework. The siliciclastic shelf environment of cretaceous series, SE France, p: 1533-1557##Goddard.D.A., Mancini.E.A., Talukar.S.C., Horn.M., 1997, Bossier – Hanesvill shale,  North Louisian salt basin:  Lousiana  ##   State University,  Baton  Rouge,  Louisiana,  center for energy, pdf file, www. api. ning. com/files##Hunt.J., 1996, Petroleum Geochemistry and Geology. 2nd Edition. W.H. Freeman and Company, New York, 743 pp.##Katz.B.J., Pratt.L., 1991, Source Rocks within a sequence stratigraphic framework, American Association of Petroleum##   Geologists studies in Geology, p: 35-47##Landais.P., Connan. J., Dereppe. J.M., George.E., Meunier.J.D., Monthioux.M., Pagel.M., Pironon.J., Poty.B., 1985, Alteration##   of organic matter; a clue for uranium or genesis uranium, III, p: 307-342##Meijun.L., Yunlog.J., Liguo.H., 2003, Geochemical – Sequence stratigraphy and its Application prospects in lake basins,##   Chines Journal of Geochemistry, Vol: 22##Pasley.M., Gregory.W., Hart.G.F., 1991, Organic matter variations in trans-gressive and regressive shales, Org. Geochem, p:##   483-509##Peters.K.E., Cassa.M.R., 1994, Applied source rock geochemistry, in: Magoon. L,B., Dow. W.G., (eds),The petroleum system##   from source to trap, AAPG memoir. Vol: 60, p:93-120##Stoneley.R., 1990, The Arabian continental margin in Iran during the late cretaceous, In: Roberston.A.H.F., searl.M.P.,##   Ries.A.C., Eds., The geology and tectonics of the Oman Region, Geol. Soc. London, spec, p: 787-795##Tissot.B.P., Durand.B., Espitalie.J., Combaz.A., 1974, Influence and nature of diagenesis of organic matter in formation of##   petroleum, AAPG Bulletin, Vol: 58, p: 499-506##Van Wagoner.J.C., Mitchum.R. M., Campion.K. M., Rahmanian.V. D., 1990, Siliciclastic sequence stratigraphy in well logs,##   cores, and outcrops: concepts for high-resolution correlation of time and facies, AAPG, Methods in exploration series, 7,##   Tulsa, 55pp.##Wynd.J.G., 1965, Biofacies of the Iranian Oil consortium Agreement Area, NIOC, Unpubl, Report, 1082 pp.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی مناطق دارای پتانسیل مواد اولیه آجر به منظور رفع مشکلات زیست محیطی در استان اصفهان</TitleF>
+				<TitleE></TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>      استان اصفهان از دیرباز بعنوان قطب آجر ایران محسوب می شده است. قرارگیری کارخانه های تولید آجر در حوالی اصفهان و مصرف بالای رس مناسب زمین های کشاورزی، مشکلات زیست محیطی زیادی در محدوده ای به وسعت 20 کیلومترمربع در استان به وجود آورده است. با توجه به اهمیت این موضوع، در این تحقیق مواد اولیه آجر‌های رسی، شیلی و مارنی در محدوده‌ای به وسعت 12500 کیلومتر مربع دراستان اصفهان با کمک داده‌های ماهواره‌ای و نقشه‌های زمین‌شناسی 1:100000و کنترل زمینی شناسائی شدند. با انجام آزمایشات لازم بر روی نمونه های مناطق شناسائی شده مشخص گردید که با اختلاط بهینه مواد رس و شیل می توان به آجری استاندارد با مقاومت فشاری و جذب آب مناسب دست یافت. از طرفی با شناسائی و اولویت بندی مناطق دارای پتانسیل بالای مواد اولیه آجر در خارج از محدوده شهری اصفهان، می توان کارخانه‌های آجرنزدیک شهر را در آینده به این مناطق تغییر مکان داد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>-</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>41</FPAGE>
+						<TPAGE>58</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سید حسن</Name>
+						<MidName></MidName>		
+						<Family>طباطبایی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>دانشکده مهندسی دانشگاه صنعتی اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشکده مهندسی دانشگاه صنعتی اصفهان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>tabatabaei@cc.iut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>هوشنگ</Name>
+						<MidName></MidName>		
+						<Family>اسدی هارونی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>دانشکده مهندسی معدن دانشگاه صنعتی اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشکده مهندسی معدن دانشگاه صنعتی اصفهان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>hooshang_asadi@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>فریماه</Name>
+						<MidName></MidName>		
+						<Family>آیتی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی دانشگاه پیام نور ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی دانشگاه پیام نور ایران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>f_aiaty@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کلمات کلیدی: آجر</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مواد اولیه</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>استان اصفهان</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>کریم پور ، م.ح.، 1385، کانی ها و سنگهای صنعتی، انتشارات دانشگاه فردوسی مشهد، 397 صفحه.##کباری، س.، 1387، مصالح شناسی، انتشارات دانش و فن، 262 صفحه.##ایرانمنش، ح.، 1367،گزارش مختصر رس دشت آزادگان و شیل های زاگرس برای تولید آجر، سازمان زمین شناسی کشور.##مهندسین مشاور اپال، 1377،گزارش مطالعه و تحقیق در مورد آجرهای شیلی و مارنی استان چهار محال و بختیاری.##مالمیران،ح.، 1379، اصول مبانی سنجش از دور و تعبیر و تفسیر تصاویر هوایی و ماهواره ای، انتشارات دانشگاه تهران.##اسدی هارونی، ه.، طباطبایی، ح.، 1386، کاربرد داده های ماهواره ای لندست  +ETM برای شناسائی مواد اولیه آجر و بلوکهای سفالی رنگی و خاک نسوز در  زاگرس مرتفع، مجموعه مقالات اولین همایش آجر و بلوکهای سفالی، دانشگاه صنعتی اصفهان.##Asadi, H., Hale, M., 1999, Integrated analysis of aeromagnetic, Landsat TM and mineral occurrence data for epithermal gold exploration in northwest Iran,Proceedings of the thirteenth International Conference on Applied Geologic Remote Sensing,##   Vancouver, British Columbia, Canada, 1-3 March, 8 pp.##Crosta, C. R., 2003,Targeting key alteration minerals in epithermal deposits in Patagonia - Argentina using ASTER imagery and##   principal component analysis, Geosciences Institute, University of Campinas.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>شناسایی پدیده های طیفی ناشناخته از داده های تلفیقی تصاویر ماهواره ای ALI+ASTER و ابر طیفی Hyperion بر مبنای روش ضریب همبستگی:مطالعه موردی محدوده معدنی مس سرچشمه</TitleF>
+				<TitleE></TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>      یکی از مسائل مهم در بکارگیری تصاویر ماهواره ای چند طیفی و ابرطیفی، شناسایی و تشخیص رفتارهای طیفی متفاوت و  به تصویر کشیدن الگوی رفتاری آنها می باشد. که این امر تنها از طریق الگوریتم­های شناساگر که قادر به تشخیص شباهت­های طیفی مشاهدات آزمایشگاهی و یا صحرایی با داده های ماهواره ای می باشد، امکان پذیر است. در این تحقیق سعی شده تا بوسیله توسعه الگوریتمی مبتنی بر تصویر کردن طیف کانی­ها و مقایسه آنها با روش ضریب همبستگی، طیف ناشناسی را که از تصاویر ماهواره ای (چند طیفی و ابر طیفی) بدست می­آید با طیف­های کتابخانه­ای مرجع مقایسه و بر اساس شباهت طیفی، امکان تعلق آن به مجموعه کانی­های موجود در بانک کتابخانه طیفی محاسبه و کانی دارای حداکثر شباهت به کانی ناشناس مشخص گردد. در ابتدا و به منظور ارزیابی عملکرد الگوریتم از طیف­های کتابخانه­ای مرجع که توسط سازمان زمین شناسی آمریکا (USGS) ارائه شده است، استفاده گردید. نتایج حاصل از اجرای الگوریتم بر روی داده­های کتابخانه­ای حاکی از تشخیص دقیق طیف­های ناشناس می­باشد. همچنین ارزیابی و صحت سنجی عملکرد الگوریتم فوق بر روی داده­های تصاویر ماهواره­ای مربوط به دگرسانی فیلیک در منطقه­ی معدنی مس دره زار واقع در جنوب معدن مس سرچشمه، حداکثر شباهت را به طیف کتابخانه ای مسکویت که مشخصه دگرسانی فیلیک می­باشد، نسبت داد. از این روش همچنین می توان جهت شناسایی کانی­ها با استفاده از طیف­های اندازه گیری شده توسط دستگاه اسپکترورادیومتر استفاده نمود.     </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>-</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>59</FPAGE>
+						<TPAGE>68</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>طاهر</Name>
+						<MidName></MidName>		
+						<Family>نجفیان</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد مهندسی اکتشاف معدن دانشگاه شهید باهنر کرمان</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد مهندسی اکتشاف معدن دانشگاه شهید</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>t.najafian@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>نادر</Name>
+						<MidName></MidName>		
+						<Family>فتحیان پور</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>دانشکده مهندسی معدن دانشگاه صنعتی اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشکده مهندسی معدن دانشگاه صنعتی اصفهان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>fathian@cc.iut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>حجت اله</Name>
+						<MidName></MidName>		
+						<Family>رنجبر</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>بخش مهندسی معدن دانشگاه باهنر کرمان</Organization>
+						</Organizations>
+						<Universities>
+							<University>بخش مهندسی معدن دانشگاه باهنر کرمان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>h.ranjbar@uk.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>رامین</Name>
+						<MidName></MidName>		
+						<Family>بخش پور</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد مهندسی نساجی دانشگاه صنعتی اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد مهندسی نساجی دانشگاه صنعتی اصفهان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کلمات کلیدی: سنجش از دور</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ضریب همبستگی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>دگرسانی فیلیک</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>کتابخانه طیفی USGS</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>طیف ناشناس</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>بابایی، م. ، 1388، استفادهازروشهایچندمتغیرهپیشرفتهجهت مدلسازیاکتشافیمنطقهسرچشمهوکوهپنجکرمان، پایان نامه کارشناسی ارشد رشته مهندسی معدن، گرایش اکتشاف، دانشگاه شهید باهنر کرمان.##نجفیان، ط. ، 1389، نقشه برداری از کانی های مناطق دگرسان شده منطقه سرچشمه استان کرمان با استفاده از داده های چندطیفی و ابرطیفی ، پایان نامه کارشناسی ارشد رشته مهندسی معدن، گرایش اکتشاف، دانشگاه شهید باهنر کرمان.##نجفیان، ط. ، رنجبر، ح. ، فتحیان­پور، ن. ، 1390، بررسی قدرت تفکیک آلتراسیونهای مرتبط با کانسارهای مس پورفیری با استفاده از تجمیع طیفی داده های ALI و ASTER ، اولین کنگره­ی جهانی مس، تهران، ص 109-120.##Center for the Study of  Earth from Space (CSES), 1992, SIPS User&#039;s Guide, Spectral Image Processing System, Version 1.2,##   Center for the Study of Earth from Space, Boulder, CO, p. 88.##Clark, R. N., Gallagher, A. J., and Swayze, G. A., 1990, Material absorption band depth mapping of imaging spectrometer data##   using the complete band shape least-squares algorithm simultaneously fit to multiple spectral features from multiple materials, in##   Proceedings of the Third Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) Workshop, JPL Publication 90-54, pp. 176 –  ##   186.##Clark, R. N., Swayze, G. A., Gallagher, A., Gorelick, N., and Kruse, F. A., 1991, Mapping with imaging spectrometer data using  ##   the complete band shape least-squares algorithm simultaneously fit to multiple spectral features from multiple materials, in##   Proceedings, 3rd Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) workshop, JPL Publication 91-28, pp. 2-3.##Clark, R. N., Swayze, G. A., Gallagher, A. J., King, T. V. V., and Calvin, W. M., 1993, The U. S. Geological Survey, Digital##   Spectral Library, Version 1: 0.2 to 3.0 microns. U.S. Geological Survey Open File Report 93-592, 1340 pages.## Crowley, J. K., and Clark, R. N., 1992, AVIRIS study of Death Valley evaporite deposits using least-squares band-fitting methods,##   in Summaries of the Third Annual JPL Airborne Geoscience Workshop, JPL Publication 92-14, v 1, pp. 29-31.##Elvidge, C. D., 1990, Visible and infrared reflectance characteristics of dry plant materials, International Journal of Remote##   Sensing, v. 11(10), pp. 1775 - 1795.##Gersman, R., Ben-Dor, E., Beyth, M., Doavigad, Abraha, M. &amp; Kibreab, A., 2008. Mapping of hydrothermally altered rocks by the##   EO-1 Hyperion sensor,Northern Danakil Depression, Eritrea, International Journal of   Remote Sensing, 29, 3911–3936.##Goetz, A. F. H., Vane, G., Solomon, J. E., and Rock, B. N., 1985, Imaging spectrometry for earth remote sensing, Science, v. 228,##   pp. 1147 - 1153.##Grove, C. I., Hook, S. J., and Paylor, E. D., 1992, Laboratory reflectance spectra for 160 minerals 0.4 - 2.5 micrometers, JPL##   Publication 92-2.##Gupta, R., 2003. Remote sensing geology, Springer, 655p.##Hubbard, B. E. , Crowley, J. K. , Zimbelman, D. R. , 2003 “Comparative Alteration Mineral Mapping Using Visible to Shortwave##   Infrared (0.4–2.4 µm) Hyperion, ALI, and ASTER Imagery”,  Geoacience and Remote Sensing, Vol. 41, NO. 6, 1401-1410.##Hubbard, B.E. &amp; Crowley, J.K., 2005  Mineral mapping on the Chilean–Bolivian Altiplano using co-orbital ALI, ASTER and##   Hyperion imagery: Data dimensionality issues and solutions, Remote Sensing of Environmen, 99, 173–186.##Korb, A. R., Dybwad, P., Wadsworth, W., and Salisbury, J. W., 1996, Portable FTIR spectrometer for field measurements of##   radiance and emissivity, Applied Optics, v. 35, pp. 1679-1692.## Kruse, F. A., A. B. Lefkoff, J. B. Boardman, K. B. Heidebrecht, A. T. Shapiro, P. J. Barloon, and A. F. H. Goetz, 1993, The##   Spectral Image Processing System (SIPS) - Interactive Visualization and Analysis of Imaging spectrometer Data, Remote Sensing##   of the Environment, v. 44, p. 145 - 163.##Mazer, A. S., Martin, M., Lee, M., and Solomon, J. E., 1988, Image Processing Software for Imaging Spectrometry Analysis,##   Remote Sensing of the Environment, v. 24, no. 1, p. 201-210.##Montgomery,  D. , 2003, Applied Statistics and Probability for Engineers,  3rd ed., Wiley.##Salisbury, J. W., D&#039;Aria, D. M., and Jarosevich, E., 1991a, Midinfrared (2.5-13.5 micrometers) reflectance spectra of powdered##   stony meteorites. Icarus, v. 92, pp. 280-297.##Salisbury, J. W., Wald, A., and D&#039;Aria, D. M., 1994, Thermal-infrared remote sensing and Kirchhoff&#039;s law 1. Laboratory##   measurements, Journal of Geophysical Research, v. 99, pp. 11,897-11,911.##Salisbury, J. W., Walter, L. S., Vergo, N., and D&#039;Aria, D. M., 1991b, Infrared (2.1- 25 micrometers) Spectra of Minerals. Johns##   Hopkins University Press, 294 p.##Simon, K., Beckmann, T. &amp; Beckmann, T., 2002, Hyperion  Level 1GST (L1GST) Product output  Files Data Format Control Book##   (DFCB), Earth Observing-1 (EO-1), USGS, EO1-DFCB-0003 ,Version 1.0.##Stephen, G. U., Pearlman, J. S., Mendenhall, J. A., Reuter, D., 2003. Overview of the Earth Observing One (EO-1) Mission, IEEE   ##   41, 1148-1159.##Swayze, G. A., and Clark, R. N., 1995, Spectral identification of minerals using imaging spectrometry data: evaluating the effects##   of signal to noise and spectral resolution using the Tricorder Algorithm, in Summaries of the Fifth Annual JPL Airborne Earth##   Science Workshop, JPL Publication 95-1, pp. 157 - 158.##Yuan, J., Niu, Z., 2008. Evaluation of Atmospheric Correction Using FLAASH, International Workshop on Earth Observation and##   Remote Sensing Applications (IEEE), Beijin, 1–6.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی کانی‌شناسی و زمین‌شیمی معدن بنتونیت چاه گلستان سرایان، خراسان جنوبی</TitleF>
+				<TitleE></TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>      معدن بنتونیت چاه گلستان در شهرستان سرایان خراسان جنوبی قرار دارد. در این پژوهش با استفاده از مطالعات کانی­شناسی و زمین­شیمیایی شرایط تشکیل و زایش این معدن مورد بررسی قرار گرفت. روشهای تجزیه ای شامل تجزیه پراش پرتو X (XRD ) و تجزیه شیمیایی (XRF و ICP- MS) بنتونیتها و سنگ دورنگیرشان می شود. کانی اصلی بنتونیت در این معدن، مونت­موریلونیت سدیمی است. همچنین کانیهایی مانند آلبیت، کریستوبالیت، کلسیت، کوارتز، هالیت و ارتوکلاز نیز حضور دارند. بر اساس داده های زمین­شیمیایی ماگمای مادر ریولیتی، سری ماگمایی به وجود آورنده بنتونیتها، آهکی _ قلیایی و محیط زمین ساختی کمان آتشفشانی همزمان با برخورد صفحات است. این معدن در یک فرآیند دیاژنتیکی بوسیله دگرسانی شیشه آتشفشانی در یک لاگون بوجود آمده است. برخی از شواهد موجود شامل چینه کران بودن کانیها، مقدار بالای مونت­موریلونیت، حضور لایه های ژیپس که به صورت بین لایه ایی با بنتونیت وجود دارند، فقدان دگرسانی هیدروترمال و .... می شود.
+ </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>-</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>69</FPAGE>
+						<TPAGE>79</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>علی رضا</Name>
+						<MidName></MidName>		
+						<Family>نماینده</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد زمین شناسی اقتصادی دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد زمین شناسی اقتصادی دانشگاه تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>alirezanemayande@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سروش</Name>
+						<MidName></MidName>		
+						<Family>مدبری</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>استادیار زمین شناسی اقتصادی دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار زمین شناسی اقتصادی دانشگاه تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>s_modabberi@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محسن</Name>
+						<MidName></MidName>		
+						<Family>رنجبران</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>استادیار رسوب شناسی دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار رسوب شناسی دانشگاه تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mohsenranjbaran@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کلمات کلیدی:  بنتونیت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>چاه گلستان</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ماگمای ریولیتی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>کانی­شناسی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>زمین­شیمی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سرایان</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF> آقا نباتی س. ع، زمین شناسی ایران(1365)، انتشارات سازمان و اکتشافات معدنی کشور، ص 619## حجازی. م، قربانی. م(1373) بنتونیت – زئولیت ، سازمان زمین شناسی کشور، ص 67## نادری میقان. ن(1379) نقشه 100000:1 آیسک، سازمان زمین شناسی کشور##Abedini, A. Calagari, A.A , and Akbari,M., 2009. Geochemistry and genesis of Mehredjan bentonite deposit, Suthest of Khoor, Isfehan province. JGeope, p. 47 -58##Berkley, J.L., and Baird, G.C., 2002. Calcareous K-bentonite deposits in the Utica shale and Trenton Group (Middle Ordovician), of the Mohawk Valley, New York State. Physics and Chemistry of the Earth, 27, p.265–278##Christidis G. , and Scott P. 1993. Laboratory evaluation of bentonites. Industrial Minerals, 311, 51_57.##Christidis G., Scott P., and Marcopolos T., 1995. &quot;Origin of the bentonite deposits of Eastern Milos, Aegean&quot;,Greece: Geological, Mineralogical and Geochemical evidence, Clays and Clay Minerals, 43(1), 63-77.##Christidis, G.E., 2001. Geochemical correlation of bentonites from Milos Island, Aegean, Greece. Clay Minerals, 36, p.295-306##Dibble Jr., W. E., and Tiller., W 1981. Kinetic model of zeolite paragenesis in tuffaceous sediments. Clays and Clay Minerals. 29: 323-330.##Foreman B.Z., Rogers R.R., Deino A.L., Wirth K.R. &amp; Thole J.T., 2008. Geochemical characterization of bentonite beds in the Two Medicine Formation (Campanian, Montana), including a new 40Ar/39Ar age. Cretaceous Research, 29, 373_385.##Foreman, B.Z., Rogers, R.R., Deino, A.L., Wirth, K.R., Thole, J.T., 2007. Geochemical characterization of bentonite beds in the Two Medicine Formation (Campanian, Montana), including a new 40Ar/39Ar age. Cretaceous Research, 93, p. 1-13.##Grim R.E,. 1962. Applied Clay Mineralogy. International Series in Earth Sciences. McGraw- Hill Book Co. Inc., New York.##Grim, R.G. and Guven, N., 1978. Bentonites—Geology, Mineralogy, Properties and Uses. Elsevier, Amsterdam, 256pp##Harben, P. W., and R. L. Bates., 1990. Geology of the Nonmetallics. New York: Metal Bulletin Inc. 62-89.##Hartwell, J.M.,1965. The diverse uses ofmontmorillonite.Clay Miner. 6: 111-1##Hay, R. L., and Sheppard, R. A., 1977. Zeolites in open hydrologic systems. In Reviews in Mineralogy, Vol. 4. Mineralogy and Geology of Natural Zeolites. F. A. Mumpton, ed. Washington, D.C.: Mineral. Soc. Am., 93-102.##Hay, R. L., and Guldman. S. G., 1987. Diagenetic alteration ofsilicic ash in Searles Lake, California. Clays and Clay Minerals. 35: 449-457.##Hess, P.C., 1966. Phase equilibria of some minerals in the K20, Na:O, A12Os, SiO2, H20 system at 25~ and 1 atmosphere. Am. J. Sci. 264: 289-309.##Hints, R., Kirsimäe, K., Somelar, P., Kallaste, T. and Kiipli, T., 2008. Multiphase Silurian bentonites in the Baltic Palaeobasin. Sedimentary Geology, 209, p. 69–79.##Hosterman J.W., and Patterson S.H., 1992. Bentonite and fuller&#039;s earth resources of the United States. US Geological Survey Professional Paper, 1522, 45 pp.##Huff W.D., Merriman R.J., Morgan D.J. and Roberts B., 1993. Distribution and tectonic setting of Ordovician K-bentonites in the United Kingdom. Geological Magazine, 130, 93_100.##Huff, W., 2008. Ordovician K-bentonites: Issues in interpreting and correlating ancient tephras. Quaternary International, 178, p. 276–287.##Irvine T. N., Baragar W.R.A., 1971. &quot;A guide to the chemical classification of the common volcanic rock, Canadian Journal of Earth Science&quot;, 8, p.523-548.##Keith, K.S. and Murray, H.H., 1994. Clay liners and barriers. Chapter in Industrial Minerals and Rocks, 6th Edition. Carr, D.D., ed. Society for Mining, Metallurgy and Exploration, Littleton, CO, pp. 435–462##Kolarikova, I., Hanus, R., 2008. Geochemistry and mineralogy of bentonites from Ishirini (Libya). Chemie der Erde- Geochemistry, 68, p.61–68.##Mariner R.H., and Surdam R.A.,1970. Alkalinity and formation of zeolites in saline alkaline lakes. Science, 170, 977_980.##Muchangos, A.C., 2006. The mobility of rare-earth and other elements in process of alteration of rhyolitic rocks to berntonite (Lebombo Volcanic Mountainous Chain, Mozambigue). Journal of Geochemical Exploration, 88, p.300-303.##Murray, H.H., 2007. Applied clay mineralogy occurrances, processing and application of kaolines, bentonites, palygoreskite, and common clays, p. 12- 13##Patterson, S. H., and H. H. Murray.,1983. Clays. In Industrial Minerals and Rocks. S. J. Lefond, ed. New York: Am.Inst. Mining Engineers, 519-585.##Pearce J. A., Harris N. B. W., Tindle A. G., 1984. &quot;Trace element discrimination diagrams for the tectonic interpretation of granitic rocks, Petrology&quot;, 25, Part 4, 956-983.##Pellenard, P., Deconinick, J.F., Huff, W.D., Thierry, J., Marchand, D., Fortwengler, D., Trouiller, A., 2003. Characterization and correlation of Upper Jurassic (Oxfordian) bentonite deposits in the Paris Basin and the subalpine basin, France. Sedimentology, 50, p. 1035-1060.##Roberts B. &amp; Merriman R.J. ,1990. Cambrian and Ordovician metabentonites and their relevance to the origins of associated mudrocks in the northern sector of the Lower Paleozoic Welsh marginal basin. Geological Magazine, 127, 31_43.##Savage, D., Walker, C., Arthur, R., Rochelled, C., Odae, C.,Takase, H., 2007. Alteration of bentonite by hyperalkaline: A review of the role of secondary minerals. Physics and Chemistry of the Earth, 32, p. 287–297##Senkayi A.L. Dixon J.B. Hossner L.R. Abder-Ruhman M., and Fanning D.S. ,1984. Mineralogy and genetic relationship of tonstein, bentonite and lignitic strata in the Eocene Yegna Formation of East-Central Texas. Clays and Clay Minerals, 32, 259_271.##Sheppard, R. A., and Gude A. J., 1973. Zeolites and associated authigenic silicate minerals in tuffaceous rocks on the Big Sandy Formation, Mohave County, Arizona. U.S. Geol. Surv. Prof. Paper No. 830: 36p.##Shiraki, R., and T. Iijama., 1990. Na-K ion exchange reaction between rhyolitic glass and (Na, K) Cl solution under hydrothermal conditions. Geochim. Cosmochim. Acta 54: 2923-2931.##Slaughter M. &amp; Earley J.W.,1965. Mineralogy and geological significance of the Mowry bentonites, Wyoming. Geological Society of America, Special Paper, 83, 95 pp.##Spears, D.A., Kanaris-Sotirios, R., Riley, N., Krause, P., 1999. Namurian bentonites in the Pennine basin, UK-origin and magmatic affinities. Sedimentology, 46, p. 385-401.##Steefel C.L., and van Cappellen P., 1990. A new kinetic approach to modelling water-rock interaction: The role of nucleation, precursors and Ostwald ripening. Geochimica et Cosmochimica Acta, 54, 2657_2677.##Takagi T., Koh S. M., Song M. S., Itoh M., Mog K., 2005. &quot;Geology and properties of the Kawasaki and Dobuyama bentonite deposits of Zao region in northeastern Japan&quot;, Clay Minerals, 40, 333-350.##Taylor M.W., and Surdam R.C., 1981. Zeolite reactions in the tuffaceous sediments at Tells Marsh, Nevada. Clays and Clay Minerals, 29, 341_352.##White A.F., 1983. Surface chemistry and dissolution kinetics of glassy rocks at 25&quot;C. Geochim. Cosmochim. Acta 47: 805-815.##White, A. F., and Claasen. H. C., 1980. Kinetic model for the short-term dissolution of a rhyolitic glass. Chem. Geol. 28: 91-109.##Winchester J. A., Floyd P. A., 1977. &quot;Geochemical discrimination of different magma series and their differentiation products using immobile elements&quot;, Chemical Geology, 20, 325-343.##Yalcin H., and Gumuser G., 2000. &quot;Mineralogical and geochemical characteristics of late Cretaceous##       bentonite deposits of the Kelkit Valley region&quot;, northern Turkey, Clay minerals, 35, 807- 825.##Yildiz A., and Kuscu M., 2004. &quot;Origin of the Basoren (Kutahya W Turkey) bentonite deposits&quot;, Clay Minerals, 39, 219-231##Yildiz A., Dumlupunar I., 2009. Mineralogy and  geochemical affinities of bentonites from KapIkaya(Eskisehir, western Turkey), clay minerals, 44, 339- 360##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>معرفی توف‌های آهکی به عنوان منابع جدید پوزولان: بر اساس مطالعه توف‌های سازند کرج در جنوب غرب بلده</TitleF>
+				<TitleE></TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>پوزولان طبیعی سنگ‌های آتشفشانی هستند که در تولید سیمان‌های آمیخته استفاده می‌شوند. این سنگ‌ها به‌صورت گرد نرم در مجاورت رطوبت و در دمای معمولی با هیدروکسید کلسسیم واکنش نشان داده و ترکیباتی با خواص سیمانی بوجود می‌آورند. توف‌های آهکی ترکیب شیمیایی استانداردهای بین المللی را نشان نمی­دهند، و از این رو  به عنوان پوزولان استفاده نمی شوند. میزان سیلیس آنها کمتر از حد معرفی شده و میزان کلسیم آنها بیشتر از حد مجاز استانداردهای بین المللی است. اما بر اساس مطالعات صورت گرفته در این تحقیق بخشی از توف‌های آهکی سازند کرج در منطقه جنوب غرب بلده قابلیت کاربرد به عنوان پوزولان طبیعی را دارا می باشند. توف‌های آهکی مورد مطالعه دارای سیلیس به صورت آذر آوارهای شیشه‌ای هستند. این توف‌ها فعالیت پوزولانی خوبی را نشان می‌دهند. درصد بالای کلسیم در نمونه‌های پوزولانی باعث می‌شود تا مدت زمان رسیدن به فعالیت پوزولانی مطلوب افزایش یابد. علاوه بر معرفی توف‌های آهکی به‌عنوان منابع جدید پوزولان، بر اساس نتایج حاصل از مطالعات پتروگرافی، آنالیزهای ICP-MS و نتایج آزمایش‌های تعیین فعالیت پوزولانی، این تحقیق نشان داد که تنها ویژگی‌های شیمیایی برای تعیین کیفیت سنگ‌های آتشفشانی به‌عنوان پوزولان‌های طبیعی کافی نبوده و مطالعات پتروگرافی نیز در این راستا لازم می‌باشد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>-</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>80</FPAGE>
+						<TPAGE>88</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>فریبرز</Name>
+						<MidName></MidName>		
+						<Family>مسعودی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>دانشکده علوم زمین دانشگاه شهید بهشتی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشکده علوم زمین دانشگاه شهید بهشتی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>drfmasoodi@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مهناز</Name>
+						<MidName></MidName>		
+						<Family>خادمی پارسا</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>دانشکده علوم زمین دانشگاه شهید بهشتی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشکده علوم زمین دانشگاه شهید بهشتی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سید محمود</Name>
+						<MidName></MidName>		
+						<Family>فاطمی عقدا</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>دانشکده علوم دانشگاه خوارزمی و مرکز تحقیقات راه مسکن و شهرسازی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشکده علوم دانشگاه خوارزمی و مرکز تحقیقات</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>طیبه</Name>
+						<MidName></MidName>		
+						<Family>پرهیزکار</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>مرکز تحقیقات راه مسکن و شهرسازی</Organization>
+						</Organizations>
+						<Universities>
+							<University>مرکز تحقیقات راه مسکن و شهرسازی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کلمات کلیدی: پوزولان</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>توف آهکی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>آذر آوار شیشه‌ای</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سازند کرج</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بلده</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>حاجی محمدی، ف.، 1380، بررسی پتروگرافی و پترولوژی سنگ‌های آتشفشانی و آتشفشانی- رسوبی منطقه بلده، پایان‌نامه کارشناسی ارشد، پژوهشکده علوم زمین.##خادمی پارسا، م.، مسعودی، ف.، پرهیزکار، ط.، پورخورشیدی، ع.، 1389، پتروگرافی سنگ‌های جنوب غرب بلده با نگرشی بر قابلیت کاربرد پوزولان، اولین همایش پترولوژی کاربردی، دانشگاه آزاد اسلامی خوراسگان.##خادمی پارسا، م.، 1390، پترولوژی سنگ‌های آتشفشانی جنوب غرب بلده (البرز مرکزی)، پایان‌نامه کارشناسی‌ارشد، دانشگاه شهید بهشتی.##رحیم زاده، ب.، 1388، پترولوژی سنگ‌های آتشفشانی شرق قزوین با نگرشی بر امکان وجود پوزولان، پایان‌نامه کارشناسی ارشد، دانشگاه شهید بهشتی.##سعیدی، ع.، 1372، تهیه نقشه 1:100000 بلده، سازمان زمین‌شناسی و اکتشافات معدنی کشور.##قریشوندی، ح.، 1389، پتروگرافی و پترولوژی سنگ‌های آذرین منطقه جام(سمنان) با نگرشی بر امکان وجود پوزولان، پایان‌نامه کارشناسی ارشد، دانشگاه شهید بهشتی.##نوری زاده، ح.، 1381، بررسی پترولوژی و ژئودینامیک خروج گنبدهای آتشفشانی و سایر توده های نیمه عمیق جوان منطقه بلده، پایان نامه کارشناسی ارشد، پژوهشکده علوم زمین.##Mehta, P.K., 1989, “Pozzolanic and Cementitious By -Product in Concrete- Another Look”, Silica Fume, Slag and##   Natural Pozzolan in Concrete Proc, 3rd International Conference, Trondheim, Norway.##Fisher, R.V., 1966, Mechanism of deposition from Pyroclasic flows, Am. Sci.,Vol:264, P:350-363##Habert, G., Choupay, N., Montel, J.M., Guillaume, D., Escadeillas, G., 2008, Effects of the secondary minerals of the natural##   pozzolans on their pozzolanic activity, Cement and Concrete Research, Vol: 38, P:963–975.##Rodriguez-Camacho, R.E., Uribe-Afif, R., 2002, Importance of using the natural pozzolans on concrete durability, Cement  ##   Concrete Research, Vol: 32 P: 1851– 1858.##Shannag, M.J., Yeginobali, A., 1995, Properties of Pastes, Mortars and Concrete Containing Natural Pozzolan, Cement and  ##   Concrete Research, Vol:25, P:647-657.##Shi, C., Day, R.L., 2000,Pozzolanic reactions in the presence of chemical activators part I: reaction kinetics, Cement and##   Concrete Research, Vol:30,P:51–58.##Shi, C., 2001, An overview on the activation of reactivity ofnatural pozzolans, Can. J. Civ. Eng., Vol: 28, P:778–786.##Shi, C., Krivenko, P.V., Roy, D., 2006, Alkali –Activated Cement and Concrets, Taylor &amp; Francis, P: 376.##Turkmenoglu, A.G., Tankut,  A., 2002, Use of tuffs from central Turkey as admixture in pozzolanic cements; Assessment of##   their petrographical properties, Cement and Concrete Research, Vol:32, P:629–637.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>نقش توزیع فرکتالی سیلیس در تغییرات بافتی سامانه های اپی ترمال (مقایسه کانه زایی آرموداغ با ذخایر طلای کوئینزلند)</TitleF>
+				<TitleE></TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>             شواهد اکتشافی بدست آمده از ناحیه آرموداغ ، بیانگر فعالیت های پساماگمایی سنوزوئیک در یک سامانه اپی ترمال است که بر اساس سوابق زمین شیمیایی و مطالعه سیالات درگیر با شکل گیری رخساره آدولاریایی در ارتباط می باشد. مطالعه تغییرات بافتی در مناطق کانه دار آرموداغ موید الگوی ناحیه بندی منظم و در عین حال منحصر بفردی است که در مطابقت با سازوکار تحولات بافتی شناخته شده در ذخایر کوئینزلند است. با توجه به نمونه های کوارتزی بدست آمده از ناحیه آرموداغ، توزیع پذیری غیر خطی سیلیس توسط توابع فرکتال بررسی و متعاقبا رابطه پیدایش بافت کلوفرم با فرآیند کانه زایی طلا استنتاج گردیده است. در عمل پس از نمونه برداری از رگه های طلادار این منطقه، تحولات خاص کانیایی با هدف شناسایی الگوی توزیع نمایی سیلیس و شکل گیری کمیت های متناظر بافتی بررسی شده اند. بدین ترتیب برخی از تحلیل های بافتی مرتبط با رخنمون های طلا دار آرموداغ با نتایج به دست آمده از  تحولات بافتی کوئینزلند مقایسه گردیده و معیار جدیدی برای پی جویی ذخایر پنهان و احتمالی طلا در آذربایجان شرقی ایران معرفی شده است.
+ </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>-</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>89</FPAGE>
+						<TPAGE>99</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سید رضا</Name>
+						<MidName></MidName>		
+						<Family>مهرنیا</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>استادیار دانشگاه پیام نور</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار دانشگاه پیام نور</University>
+						</Universities>
+						<Countries>
+							<Country>افغانستان</Country>
+						</Countries>
+						<EMAILS>
+							<Email>srmehrnia@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کلمات کلیدی:  اکتشاف طلا</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>توزیع سیلیس</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سامانه اپی ترمال</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>فرکتال</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ناحیه بندی بافتی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>مهرنیا ، س. ر. ، 1383،  نحوه پیدایش طلا و ترکیبات وابسته به آن در ماگماتیسم سنوزوئیک چهارگوشه میانه - استان آذربایجان شرقی، پایان نامه دوره دکترای تخصصی ، دانشگاه شهید .بهشتی، دانشکده علوم زمین ،  200ص.##مهرنیا ، س. ر. ، 1389، توزیع پذیری غیرخطی سیلیس ، روش نوینی برای شناسایی الگوی ناحیه بندی بافتی در اندیس های طلادار استان آذربایجان شرقی ، مجله علوم دانشگاه تهران، جلد 36، شماره1، ص82-69.##Lescuyer J., 1978, Petrology &amp; petrography of Cenozoic volcanism in Mianeh area, Ph.D Thesis, Submitted to GSI, 420 p.##    Aleaster M., 2001, Armudaq license Report within Mianeh quadrangle prosspects, Eastern Azerbaijan, Iran, Report for  ##    Karand Co. ltd. 40 p.##Morrison G., Guoyi D., 2001, AMIRA Project, Preliminary Report: Textural Zoning in Epithermal Quartz veins, J.C Univ.,  ##    Queensland, 129 p.## Morison G, , 2003, AMIRA Project, Revised version : Evaluating of Gold Mineralization Potentials in Queensland Epithermal     Systems, Queensland J.C Univ. press, Queensland, Australia, 249 p.##Guoyi, D., 2002, AMIRA Project, Final Report: Epithermal gold deposit in Queensland, J.C Univ. Queensland, Australia, 245      p.##Hedenquist J. W. and White N.C., 2008, Epithermal gold deposits and Characteristics for  Exploration Guides, Society of  ##     Resource Geology, 62 p.##Mandelbrote B., 2010, Fractal Geometry of Nature, 23st Edition (Revised &amp; Updated), W.H Freeman &amp; Company, New York:       433 p.## Mehrnia S. R., 2012, Using Multifractal Peculiarities of ETM Spectrums for Realizing Gold Mineralization Potentials in##     Eastern Azerbaijan, NW of Iran, 6th SASTECH Int. Conference, Kuala lumpur, Malaysia, Paper ref. code: 6-13-11-0135, p147 – 155.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی زیست محیطی پسماندهای حفاری: مطالعه موردی پسماندهای چاه شماره 449 میدان نفتی اهواز</TitleF>
+				<TitleE></TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>      در این تحقیق، تاثیر مواد افزودنی گل­ و سازندهای حفاری شده در غلظت فلزات پسماندهای حفاری چاه 449 میدان نفتی اهواز مورد بررسی قرار گرفت. نمونه­برداری از مواد افزودنی گل، گل­های حفاری، پسماند (گل+خرده) سازندهای حفاری شده و همچنین خاکهای اطراف منطقه حفاری صورت گرفت. پس از آماده­سازی نمونه­ها، برای تعیین غلظت فلزات از روشهای ICP-MS و ICP-OES استفاده شد.
+نتایج نشان می­دهد که باریت منشا فلزات Cu, Zn, Ag، بنتونیت منشا فلزات Ni, V, Zn، فروبار منشا فلزات Zn, V, Ni, Cr، گل پایه آبی سنگین منشا فلزات Cu, Ag، شیل­ها منشا فلزات Cr, Zn, V، شیل­های بیتومینه منشا فلزات Cd, Cr, Zn, V و سنگ­آهک منشا فلز Ba در سازند پابده، ماسه­سنگ منشا فلز Cr، مارن­خاکستری منشا فلزات Cr, Cu, V و آهک منشا فلز Sr در سازند آسماری، مارن­خاکستری آهکی و آهک­های شیلی گورپی منشا فلز Cu، سنگ­آهک سازند ایلام منشا فلزات Cu, Ag، و سنگ­آهک سازند سروک منشا فلز Ba هستند. این تحقیق نشان داد که علاوه بر گل حفاری، سنگ­های حفاری شده نیز منبع فلزات هستند و در مواردی موجب افزایش غلظت فلزات در پسماندهای حفاری شده­اند.پسماندهای حفاری چاه 449 اهواز براساس بررسی­های زیست محیطی نسبت به فلزات Cu و Ag آلودگی متوسط تا شدید، نسبت به Cd نسبتا آلوده، نسبت به Sr و Ba غیرآلوده تا نسبتا آلوده هستند و نسبت به دیگر فلزات آلوده نیستند.
+ </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>-</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>100</FPAGE>
+						<TPAGE>110</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>مهین</Name>
+						<MidName></MidName>		
+						<Family>فرهادیان بابادی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>کارشناسی ارشد زمین شناسی ژئوشیمی دانشگاه خوارزمی</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناسی ارشد زمین شناسی ژئوشیمی دانشگاه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mahin.farhadadian@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>فریبرز</Name>
+						<MidName></MidName>		
+						<Family>مسعودی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی دانشگاه شهید بهشتی تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی دانشگاه شهید بهشتی تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>drfmasoodi@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>علیرضا</Name>
+						<MidName></MidName>		
+						<Family>زراسوندی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی دانشگاه شهید چمران اهواز</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی دانشگاه شهید چمران اهواز</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>zarasvandi-a@scu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کلمات کلیدی: چاه شماره 449 میدان نفتی اهواز</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مواد افزودنی گل حفاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>پسماندهای حفاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بررسی زیست محیطی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>Abrahim. G.M.S., Parket. R.J., 2008, Assessment of heavy metal enrichment factors and the degree of contamination in marine     sediments from Tamaki Estuary, Auckland, New Zealand, Estuar. Coast. Shelf Sci. 136 227-238.##API (American Petroleum Institute), 1978, API recommended practice. Standard procedure for testing drilling mud, API,  ##    Washington D.C, pp:35.##Candler. J.E., 1995, Sea floor monitoring for synthetic based mud discharged in the Western Gulf of Mexico, presented at  ##    society of professional engineers, Houston, Texas, March.##Crecelius. E., Trefry. J., McKinley. J., Lasorsa. B., Trocine. R., 2007, Study of barite solubility and the release of trace  ##    components to the marine environment. New Orleans (LA): US Department of the Interior Minerals Management Service, Mexico Region. OCS Study MMS 2007–061. Accessed on 10 December 2008 at    ##    ttp://www.gomr.mms.gov/PI/PDFImages/ESPIS/4/4289.pdf.##Christophoridis. C., Dedepsidis. D., Fytianos. K., 2009, Occurrence and distribution of selected heavy metals in the sediments##   of Thermaikos Gulf, N. Greece. Assessment using pollution indicators Journal of Hazardous Materials.##Darley. H.C.H., Gray. G.G., 1988, Composition and properties of drilling and completion fluids. Fifth Edition. Gulf Pulishing##   Co., Houston, TX. 643 pp.##Eaton. A.D., Clesceri. L., Greenbery. A.E., 1998, Standards methods for  ##   the examination of water and wastewater, 20th ed., APHA-AWWA-##   WEF.##Gettleson. D.A., 1980, Effects of oil and gas drilling operations on the marine environment. in Marine Environmental##   Pollution, 1: Hydrocarbons (R. A. Geyer, Ed.), pp. 371–411, Elsevier Scientific, Amsterdam.##Govindaraju. K., 1994, Compilation of working values and sample description for 383 geostandards. Geostand Newsletters,  ##   Special Issue 18:1–158.##Grow Cock. F.B., Curtis. G.W., Hoxha. B., Broo. W.S., Candler. J.E., 2002, Designing invert drilling fluids to yield##   environmentally friendly drilled cuttings. IADC/SPE 74470, IADC/SPE drilling conference, Dallas, Tx, Feb 26-28.##Hastings. L., Cooper. G.P., Burg. W., 1984, Human sensory response to selected petroleum hydrocarbons. In: Advances in  ##   modern environmental toxicology.##Hernandez. L., Probst. A., Probst. J. L., Ulrich. E., 2003, Heavy metal distribution in some French forest soils: evidence for##   atmosphere contamination. The Science of Total Environment, 312, 195-210.##Insalaco, E., Virgone, A., Courme, B., Gaillot, J., Kamali, M., Moallemi, A., Lotfpour, M., Monibi, S., 2006, Upper Dalan##   Member and Kangan Formation between the Zagros Mountains and offshore Fars, Iran: depositional system, biostratigraphy  ##   and stratigraphic architecture: Bahrain, Gulf PetroLink, GeoArabia, 11(2), 75-176.##Kabata-Pendias. A., Pendias. H., 1984, Trace element in soil and plant. CRC press, Booca Raton, Fla.##Kabata-Pendias, A., Pendias, H., 1992, Background levels and environmental influences on trace metals in soils of the  ##    temperate humid zone of Europe. In: Adriano DC (ed) Biogeochemistry of trace metals. Lewis Publ, Boca Raton, pp 19–60.##Krauskopf. K., Dannis. B., 1995, Introduction to geochemistry . Third edition, McGraw-Hill.##Leuterman. A., Still. I., Christie. J., Butcher. N., 1997, A study of trace metals from barites: Their concentration,##   bioavailability, and potential for bioaccumulation. In: Proceedings of the Offshore Mediterranean Conference and Exhibition,##   OMC97; 1997 March 19-21: Ravenna, Italy. Ravenna (IT): OMC. P 357-396.##Lindsay. W.L., 1979, Chemical equilibria in soils. John Wiley and Sons. New York.##McGrath. S.P., Smith. S., 1990, Chromium and nickel. In heavy metals in soils. B.J. Alloway (ed.). Blackie and Son, Ltd.,##109       ##   Bishopbriggs, Glasgow. pp 151-176.##Monaghan. P.H., McAuliffe. C.D., 1980, Environmental aspects of drilling fluids and cuttings from oil and gas operation in##   offshore and coastal waters. Marine Environmental Pollution 1: Hydrocarbons. Elsevier Scientific.##Muller. G., 1979, Schwermetalle in den sediment des Rheins-Veranderungen seitt 1971. Umschan 79, 778-783.##NRC (National Research Council), 1983, Drilling Discharges in the Marine Environment. National Academy Press,##   Washington. 180 pp.##Neff. J.M., Mckelvie. S., Ayers. R.C., 2000, Environmental Impacts of Synthetic Based Drilling Fluids. OCS Study MMS##   2000-64. U.S.Dept. of the Interior, Minerals Management Service, Gulf of Mexico OCS Program, New Orleans, LA, LA.##  118 pp.##Nelson. D.W., Liu. S.L., Sommers. L.E., 1984, Extractability and plant uptake of trace elements from drilling fluids. J.##   Environ. Qual. 13:562-566.##OGP (International Association of oil &amp; Gas Producers), 2003, Environmental aspects of the use and disposal of non aqueous##   drilling fluids associated with offshore oil &amp; gas operations. Report 342 from OGP, London, England. 103 pp.##Paradias. S., Simandl. G.L., MacIntyre. D., Orris. G.J., 1997, Sedimentary-hosted, stratiform barite. B.C, Mineral Deposit.##Patin. S.A., 1999, Environmental Impact of Offshore Oil &amp; Gas Industry. New York: Eco Monitor Publishing.##Ravichandran. M., Baskaran. M., Santschi. P.H., Bianchi. T.S., 1995, History of Trace Metal Pollution in Sabine-Neches##   Estuary, Beaumont, Texas. Environ. Sci. Tech., 29, 1495–1503.##Scholten. M.C.Th., Karman. C.C., Huwer. S., 2000, Exotoxicological risk assessment related to chemicals and pollutants in##   off-shore oil production. Toxicology Letters 112-113, 283-288.##Stow. D., 1987, South Atlantic organic rich sediments: Facies, Processes, and Environments of Deposition”, GSSP, No.26.##Susich. M.L., 2000, Onshore drilling waste management: Beneficial reuse of cuttings. Marathon Oil Company. Max W.##   Schewenne, OASIS Environmental, Inc.##Sutherland. R.A., 2000, Bed sediment-associate trace metals in an urban stream, Oahu, Hawaii. Environ. Geol. 39 (6), 611.##Tisdale. S.L., Nelson. W.L., Beaton. J.D., 1985, Soil Fertility and Fertilizers. 4th ed.##Trefry. J.H., Trocine. R.P., Metz. S., Sisler. M.A., 1986, Forms, reactivity and availability of trace metals in barite, Report to the offshore operators committee, task force on environmental science, New Orleans, LA, 1986, P 1-50.##Trefry. J.H., Smith. J.P., 2003, Forms of mercury in drilling fluid barite and their fate in the marine environment. A review and  ##   synthesis. SPE 8o571. SPE/EPA/DOE exploration and production Environmental conference, San Antonio, TX. Richardson##   (TX): Society of petroleum Engineers. P 1-10.##U.S EPA, 1992, Behavior of metals in soils. U.S Environmental Protection Agency. Office of solid waste and emergency##   response, EPA/540/S-92/018. ##U.S EPA, 1988, 53 Federal Register, 41356-383.##WHO (World Health Organization), 2001, Concise International Chemical Assessment Document 33: Barium and Barium##   Compounds. Accessed on 12 December 2008 at http://www.inchem.org/documents/cicads/cicads/cicad33.htm.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE></ARTICLES>
+</JOURNAL>
+
+				</XML>
+				

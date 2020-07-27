@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The prediction of earthquake-induced landslides using 
+Newmark model and Monte Carlo simulation approach</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Ali Mohammad</namePart>
+				<namePart type="given">Rajabi</namePart>
+				<affiliation>Department of Civil Engineering, University of Qom, Qom-Iran, am.rajabi@qom.ac.ir</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Masha allah</namePart>
+				<namePart type="given">Khamehchian</namePart>
+				<affiliation>Department of Engineering Geology, Tarbiat Modares University, Tehran-Iran,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Hamidreza</namePart>
+				<namePart type="given">Mahdavifar</namePart>
+				<affiliation>Geotechnical Engineering Research Center, International Institute of Earthquake Engineering and Seismology (IIEES), mahdavif@iiees.ac.ir</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2012</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>In this study, considering a limited rectangle affected by Manjil Earthquake, 1990 (Ms=7/7), whose inventory is available, the studies of earthquake-induced landslides risk analysis have been carried out by deterministic and probabilistic approaches. In deterministic approach, using Newmark displacement analysis and considering effective parameters in sliding permanently, a map showing of earthquake-induced landslides hazard in the study area has been prepared and compared with the inventory. In the next stage, to consider the effect of uncertainty caused by deterministic parameters, using probabilistic distribution functions and Monte Carlo simulation a probabilistic approach has been introduced. In this method, uncertainties originated by geotechnical parameters (friction angle and cohesion) and slope saturating effect have been assessed. In this case some codes in MATLAB environment have been written and used.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 3 و 4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2012</text>
+				<extent unit="pages">
+					<start>1</start>
+					<end>17</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68300_160e8be80a0190b3583ec8c06edab6a4.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Importance of karst geomorphology study in recognition genesis of caves</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mohammad Hosein</namePart>
+				<namePart type="given">Gobadi</namePart>
+				<affiliation>Department of Geology, Bu-Ali Sina University, Hamedan-Iran, amirghobadi@yahoo.com</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Yazdan</namePart>
+				<namePart type="given">Mohebi</namePart>
+				<affiliation>. Department of Geology, Payam nur university, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Yasin</namePart>
+				<namePart type="given">Abdilor</namePart>
+				<affiliation>1. Department of Geology, Bu-Ali Sina University, Hamedan-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2012</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>In this study effective factors in generation of Alisadr and Katalekhor caves have been compared with considering of geology condition, surface and subsurface karstic features, petrographical studies and determination of physical properties of rocks in the sites. From geotectonic point of view Alisadr cave is located in the sanandaj – sirjan zone and the katalekhor cave is located in the central Iran zone. Alisadr and Katalekhor caves are generated in Jurassic limestone and Qom formation (Oligo- miocene) limestone, respectively. According to site investigation results, in the Alisadr cave subsurface karst is developed but surface karstic features were rare and limited to afew small springs. In Katalekhor cave area both surface and subsurface karst developed. Spring with small discharge potential in Alisadr area indicated that karstic aquifers are not developed which is in accordance with scarcity of surface karstic features. Spring in the Katalekhor area have high discharge potential in respect to the Alisadr area springs that can be illustrate as a development of karstic aquifers in this regions. According to thin section studies results, Alisadr limestone mainly composed of crystallized calcite and Katalekhor limestone is a biocalcite Wackestone limestone samples tests results indicated that the Katalekhor limestone samples have porosity and water absorption percent higher than the Alisadr limestone. According to this research results, the Alisadr cave is hipogenetic that resulted from hydrothermal solutions activation, while Katalekhor cave is epigenic and generated as a result of penetration water activation.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 3 و 4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2012</text>
+				<extent unit="pages">
+					<start>19</start>
+					<end>30</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68301_1513bc643b9c1784ea0f09d969d5c605.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Evaluation of single oedometer test to measure the collapsibility of soils in Golestan province</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mojtaba</namePart>
+				<namePart type="given">Heidari</namePart>
+				<affiliation>1. Department of Geology, Bu-Ali Sina University, Hamedan-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Gholamreza</namePart>
+				<namePart type="given">Khanlari</namePart>
+				<affiliation>Department of Electrical Engineering,  Bu-Ali Sina University, Hamedan-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Soheil</namePart>
+				<namePart type="given">Gangehfar</namePart>
+				<affiliation>استادیار مهندسی برق کنترل، دانشگاه بوعلی سینا، دانشکده مهندسیS_ganjefar@yahoo.com</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Tahere</namePart>
+				<namePart type="given">Salehi</namePart>
+				<affiliation>1. Department of Geology, Bu-Ali Sina University, Hamedan-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2012</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>  From an engineering geological point of view, collapsible soils are of the problematic soils. Due to this distribution of loess soils through the Golestan province, physical and mechanical properties of loess soils from north, center and south of Golestan province were studied and collapsible coefficient has been determined. Results show that measured collapsible coefficient by standard single oedometer test method for soil samples with more than17% calcite, are lower than real collapsible coefficient. The decrease of collapsibility coefficient is due to the speed of cement solution and saturation of water within the mold of consolidation container by calcium ions. It should be noted that, rapid saturation of water within the mold of consolidation container, prevents of destruction of cement bounds between the soil particles. Therefore, based on the results of this research, it has suggested to changes the water of mold every 6 hour and the testing time to be continue for 7 days. In this condition, the fresh water can breaks the bounding between the soil grains and leads to fully destroy of soil structure.  Based on the results of this research for loess soils of Golestan province, in order to avoid of hazards of non-real estimation of collapsibility coefficient in hydraulic Structures, a modified single oedometer test has been suggested</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 3 و 4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2012</text>
+				<extent unit="pages">
+					<start>31</start>
+					<end>40</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68302_ce105b5359003cce5782a6f76ba177fe.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Evaluation the engineering properties of non-erosion filter materials at Kaboodval emabankment dam, Gollestan Province</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Ali Hasan</namePart>
+				<namePart type="given">Sharifi</namePart>
+				<affiliation>M.Sc. of Engineering Geology</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Ali</namePart>
+				<namePart type="given">Oromiehei</namePart>
+				<affiliation>Department  of  Engineering Geology, Tarbiat Modares Univerty, Tehran-Iran,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Seyed Mahmood</namePart>
+				<namePart type="given">Fatemi Aqda</namePart>
+				<affiliation>Department of Geology, Kharazmi University, Tehran-Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2012</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Selection suitable filter material for an embankment dam plays a great role in preventing the core and the shoulder materials from erosion. Drain materials functions as to dewater and to decrease the possible increment of pore water pressure through the dam structure and its location. Since the use of drains is part of dam structure, therefore the application of filter material as a transitional zone is necessary. In this paper the properties of filter material used in Kaboodval dam was investigated. Kaboodval dam is a homogeneous earthfill dam with 35.8 meters height which is located to the south of Ali-abad Katool town of Gollestan Province. The region is mainly consisted of fine grain soil deposits which are produced from the weathering of schistose bedrocks. According to the soil gradation, plastic index and the distribution of the deposits, selection of the suitable materials as non-erosion filter was made. Since the grading of the filter materials has to be within the range of D5 to D50, and to exceeds the critical boundary of D15 limit, therefore the capability of the filter materials regarding the dispersion and erosion was evaluated in this paper. In this regards, the properties of 25 samples were studied. Five of the samples of finer gradation were selected to undergo the dispersive and NEF (non-erosion filter) test. The test results showed that the samples were non dispersive, and according the erosionabilty, sample K11 with D85=0.017mm is most suitable sample for critical filter of D15 gradation. The test results also showed that the D15 of non-erosionable filter were in the range of 0.35 to 0.50 mm. For the case of safety, it is suggested that filter materials of D15 equal to 0.45 mm can be used in this project as non-erosion material.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 3 و 4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2012</text>
+				<extent unit="pages">
+					<start>41</start>
+					<end>52</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68303_58f6120a608d23e9e566cc9d51e746cb.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Locating the portal of Moshampa dam diversion tunnels
+ using AHP approac</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Saeed</namePart>
+				<namePart type="given">Soltani Mohammadi</namePart>
+				<affiliation>Department of Mining Engineering,University of Kashan, Kashan-Iran,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mahdi</namePart>
+				<namePart type="given">Amini</namePart>
+				<affiliation>M.Sc. Student, Department of Mining Engineering,University of Kashan, Kashan-Iran,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mohammad</namePart>
+				<namePart type="given">Shafiee Alavijeh</namePart>
+				<affiliation>Tamavans Consulting Engineers Company, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Fereidoon</namePart>
+				<namePart type="given">Bhrami Samani</namePart>
+				<affiliation>Tamavans Consulting Engineers Company, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2012</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Location of tunnel portal is always one of the vital concerns of geotechnical engineers and inappropriate selection of its position on financial conditions and the time the project will have significant impact. Locating the tunnels portal depends on different technical parameters (such as ecstatic and dynamic safety factor, hardness and position of relaxation pool) and financial factors (time, Maintenance, lining and soil stripping costs). In many situations, there are some proposed sites with different parameters, and it is necessary that the optimum tunnel portal location be selected with the help of multi-criteria decision making methods.In this paper, we have first studied the tunnel portal site selection criteria and their effects on the selection of the location of the tunnel portal. Then, using the Analytic Hierarchy Process (AHP) method, the decision making problem was hierarchically structured at three levels. To check the practicality of the method, the appropriate site for diversion tunnel portal was selected at Moshampa dam, Zanjan province, Iran.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 3 و 4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2012</text>
+				<extent unit="pages">
+					<start>53</start>
+					<end>62</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68304_38d89dc1d705bb4c960b55a55584b01d.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Study of hydraulic characteristics of aquifer in the path of East-West section of the tunnel line-7 of Tehran subway during mechanized excavation from the aspect of groundwater inflow into tunnel</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Hamidreza</namePart>
+				<namePart type="given">Nassery</namePart>
+				<affiliation>Faculty of Earth Sciences, Shaid Beheshti University, Tehran-Iran, h-nassery@sbu.ac.ir</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Sohrab</namePart>
+				<namePart type="given">Zare</namePart>
+				<affiliation>. Sahel Consulting Engineers Company, Tehran-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Jafar</namePart>
+				<namePart type="given">Hasanpour</namePart>
+				<affiliation>Faculty of Sciences, Kharazmi University, Tehran-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Masood</namePart>
+				<namePart type="given">Morssali</namePart>
+				<affiliation>Faculty of Sciences, Kharazmi University, Tehran-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2012</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Remarkable set of features havecaused of widespread applications of artificial ligthweight aggregates. According to their application in various industries, the mechanical properties of these aggregates are important. Due to the absence of bedrock, determination mechanical properties of artificial ligthweight aggregate have special complexity.Ligth expanded clay aggregate (LECA) is the only industrialized ligthweigth aggregates that use in structural concrete in our country at now, which are produced with different density. In this research, to determination the diameter effect on the specific gravity, water absorption, resistance to abrasion, impact and pressure, various tests have been done on four size of structural Leca. Since there is not a standard procedure to determine the elastic modulus of ligthweigth aggregate, the combination of experimental methods and theory of composite material is used to estimate this parameter. With the combination of ligthweigth aggregate and cement-sand mortar (matrix), cylindrical composite specimens with 30% and 40% volume fractions of aggregates were cast and their elastic parameters of them are determined. Then with differential method and using elastic parameters of composite specimens and matrix, elastic modulus of ligthweigth aggregates is calculated. Test results indicate a significant effect of the grain diameter on mechanical propertiesof aggregates which produced with the same condition.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 3 و 4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2012</text>
+				<extent unit="pages">
+					<start>63</start>
+					<end>74</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68305_72e136208aced73a228e321bb31e5c59.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>A method of stratification profiling by using of geostatistic and cluster analysis technique based on dynamic probing test data</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mahdi</namePart>
+				<namePart type="given">Khodaparast</namePart>
+				<affiliation>Department of Civil Engineering, University of Qom, Iran, khodaparast@qom.ac.ir</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2012</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>  The investigation and estimation of surface subsidence and ground settlement is an important aspect in the design of shallow tunnels in urban areas. Proper exploration could lead to correct measures and avoiding any damage to structures over and underground. In this study, four sections of the east-western part of Tehran’s Metro Line 7 with the most potential for surface subsidence were chosen and studied. This part of the metro project is positioned in the young alluvial deposits of Tehran and consists mainly of fine grained soil. Ground settlement requires three dimensional design. Hence, FLAC 3D was used to investigate the surface subsidence of the ground along the tunnel route in sections mentioned above. One of the most important advantages of three dimensional design is the possibility of stepwise excavation, and to explore the effect of each excavation step on the surrounding ground. Hence, the stepwise excavation was carried out and continued in 1.5 m advancing stages, until the advancement stopped affecting the ground settlement at the point over the tunnel portal considered in the model. Even though, analytical and empirical methods are unable to evaluate the effect of ground water and the effect of overburden due to the presence of structures and traffic at the surface, because of not installing the monitoring system, analytical methods suggested by Sagaseta, Loganathan and Poulos, Verruijt and Booker, and Bobbet, and also Peck’s empirical method were used to investigate the ground settlement in this project. After using the various methods to study the four chosen sections of the metro line, and analyzing the settlement curves in these sections, it was concluded that the ground settlements is permissible (except the second section).</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 3 و 4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2012</text>
+				<extent unit="pages">
+					<start>75</start>
+					<end>90</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68306_bbb2fe215cc06bd52f16edc7ac9787b7.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		</modsCollection>

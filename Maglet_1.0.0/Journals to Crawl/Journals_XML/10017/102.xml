@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-24T05:59:16Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://jmm.iranjournals.ir/?_action=export&amp;rf=summon&amp;issue=3167</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-04-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>15</volume>
+									</journal_volume>
+									<issue>59</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تعیین سبد بهینه پروژه‌های عمرانی، مبتنی بر رویکرد تلفیقی تحلیل سلسه‌مراتبی و ارزیابی نسبت تجمعی (مورد مطالعه: معاونت مهندسی و مجری طرح‌های عمرانی یک رده نظامی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محسن</given_name>
+												<surname>شفیعی نیک آبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سید محمدحسن</given_name>
+												<surname>حسینی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مجتبی</given_name>
+												<surname>شفیعی نیک آبادی</surname>
+											</person_name></contributors>
+									<abstract>هدف اصلی این مقاله، تعیین سبد بهینه پروژه‌های عمرانی یک رده نظامی از نیروهای مسلح جمهوری اسلامی ایران، با رویکرد تلفیقی تکنیک‌های تحلیل سلسه‌مراتبی و ارزیابی نسبت تجمعی و با در نظر گرفتن شاخص‌های ارزیابی متنوع و متعارض می‌باشد. این رویکرد دومرحله‌ای می‌تواند به عنوان یک ابزار تصمیم‌گیری مناسب در زمینه‌ی برنامه‌ریزی و هزینه کرد درست منابع محدود در اختیار، مورد استفاده قرار گیرد. در این پژوهش ابتدا با مطالعه کتابخانه‌ای، شاخص‌های ارزیابی پروژه‌های عمرانی استخراج می‌گردد. سپس در مرحله اول رویکرد پیشنهادی با استفاده از تکنیک تحلیل سلسله‌مراتبی و با بهره‌گیری از نظرات خبرگان، شاخص‌های ارزیابی شناسایی‌شده، وزن‌دهی می‌شوند. در مرحله دوم با استفاده از تکنیک ارزیابی نسبت تجمعی و بر اساس اوزان مشخص‌شده برای شاخص‌ها و پاسخ‌های حاصل از نظرسنجی در جامعه آماری مورد تحقیق، رتبه‌بندی پروژه‌ها انجام می‌شود. نتایج مرحله اول نشان می‌دهد شاخص‌های تطابق ساخت پروژه با اهداف استراتژیک و میزان هزینه ساخت با ضرایب اهمیت 32/0 و 26/0 در رتبه اول و دوم قرار داشته و شاخص تازگی و نو بودن پروژه‌ها نسبت به هم، با ضریب اهمیت 06/0 در رتبه آخر قرار دارد. همچنین خروجی نظرسنجی در فاز دوم بیانگر فهرستی از پروژه‌های عمرانی رتبه‌بندی شده در قالب سبد بهینه پروژه ‌در قلمرو مکانی مورد نظر می‌باشد.</abstract>
+									<keywords>
+									
+											<keyword>رتبه‌بندی</keyword>
+											<keyword>پروژه‌های عمرانی</keyword>
+											<keyword>سبد بهینه پروژه</keyword>
+											<keyword>تحلیل سلسله‌مراتبی</keyword>
+											<keyword>ارزیابی نسبت تجمعی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>04</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>31</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_19197_22a0db386bed1d36873889f3673c63ed.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-04-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>15</volume>
+									</journal_volume>
+									<issue>59</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر رهبری تحول‌آفرین بر ارتقاء توان رزمی در یک سازمان دفاعی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید مصطفی</given_name>
+												<surname>مدنی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد</given_name>
+												<surname>آبسالان</surname>
+											</person_name></contributors>
+									<abstract>توان رزم، میزان توانایی سازمان‌های نظامی در اجرای مأموریت واگذاری است که تلاش جهت ارتقاء آن، به عنوان یک وظیفه‌ی مهم فرماندهی در سازمان‌های نظامی، حیاتی است. برای دست‌یابی به هدف فوق (ارتقاء توان رزم)، عوامل متعددی دخیل است که یکی از مهم‌ترین این عوامل، سبک رهبری و فرماندهی سازمان می‌باشد. از طرف دیگر سازمان‌های نظامی یکی از سازمان‌های مهم و تأثیرگذار در جامعه بوده که در راستای تأمین امنیت کشور تلاش‌های بی‌وقفه‌ای را انجام می‌دهند. این پژوهش با هدف بررسی تأثیر رهبری تحول‌آفرین بر ارتقاء توان رزمی انجام شده است که از حیث هدف، یک تحقیق کاربردی و از نظر ماهیت، در زمره‌ی تحقیقات توصیفی است و به دو روش کتابخانه‌ای و میدانی به فرجام رسیده است. ابزار پیمایش پرسش‌نامه‌ی محقق ساخته با اعتبار 88/. و پایایی 91/. است. جامعه‌ی آماری پایوران یک سازمان دفاعی به استعداد 460 نفر است که حجم نمونه بر اساس فرمول کوکران 210 نفر انتخاب و مورد آزمون قرار گرفتند. نتایج نشان داد که همه‌ی مؤلفه‌های رهبری تحول‌آفرین، ترغیب ذهنی (با ضریب تعیین 347/0)، نفوذ آرمانی (با ضریب تعیین 434/0)، انگیزش الهام‌بخش (با ضریب تعیین 417/0) و ملاحظه فردی (با ضریب تعیین 463/0) بر ارتقاء توان رزمی، مؤثر هستند. </abstract>
+									<keywords>
+									
+											<keyword>رهبری تحول‌آفرین</keyword>
+											<keyword>توان رزم</keyword>
+											<keyword>عوامل فیزیکی</keyword>
+											<keyword>عوامل غیرفیزیکی</keyword>
+											<keyword>عوامل برتری‌ساز</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>04</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>32</first_page>
+										<last_page>58</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_19198_9148255bb8c9701701db2bff35eb3e70.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-04-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>15</volume>
+									</journal_volume>
+									<issue>59</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناخت توزیع فضایی پایگاه‌های نظامی آمریکا در منطقه خاورمیانه با استفاده از ابزار تحلیل لکه داغ نرم‌افزار آرک جی آی اس</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی</given_name>
+												<surname>محمدپور</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمدامین</given_name>
+												<surname>عطار</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>ابوالفضل</given_name>
+												<surname>شامی قورچلو</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>منوچهر</given_name>
+												<surname>معصومی</surname>
+											</person_name></contributors>
+									<abstract>منطقه خاورمیانه از مناطقی است که با برخورداری از موقعیتی ژئوپلیتیک و ژئواستراتژیک، بیشترین تغییرات را در این زمینه داشته و نگاه‌های بسیاری را متوجه خود کرده است.چنین برآورد می‌شود که در سال 2014 بیش از 35 هزار تن از کارکنان نظامی آمریکایی در منطقه خاورمیانه مستقر بودند که به علت حساسیت‌های سیاسی و نظامی، توزیع دقیق آن‌ها در سطح کشورهای منطقه مشخص نیست. از مجموع پایگاه‌های نظامی آمریکا، واشنگتن در منطقه غرب آسیا و اطراف ایران بیش از 50 پایگاه نظامی دارد. لذا شناخت پایگاه‌های نظامی آمریکا در منطقه خاورمیانه با توجه به تهدیدات روزافزون این کشور، دارای اهمیت بسیار است و استفاده از ابزارهای تحلیلی آمار فضایی در شناخت بهینه این پایگاه‌ها تأثیر به سزایی دارد. هدف پژوهش حاضر، فهم و ارزیابی الگوی توزیع فضایی پایگاه‌های نظامی آمریکا در سطح خاورمیانه با استفاده از ابزار تحلیل لکه‌های داغ در نرم‌افزار ArcGIS است. نتایج به دست آمده نشان می‌دهد که بیشترین تهدیدات نظامی آمریکا از نظر استقرار پایگاه‌های نظامی در منطقه، ابتدا از ناحیه شرق (به خصوص کشورهای افغانستان، پاکستان و ترکمنستان) و سپس از ناحیه جنوب (به خصوص کشورهای امارات عربی متحده، قطر، بحرین، کویت و عمان)، علیه کشور ایران است. در سایر جهات جغرافیایی تهدید نظامی مستقیم از سوی آمریکا کمتر دیده می‌شود و بیشتر مربوط به تهدیدات نیابتی از جانب آمریکا است. لذا پیشنهاد می‌شود در این خصوص استراتژی‌های لازم دفاعی و نظامی مشخص و اجرایی گردد</abstract>
+									<keywords>
+									
+											<keyword>خاورمیانه</keyword>
+											<keyword>پایگاه‌های نظامی آمریکا</keyword>
+											<keyword>جی آی اس</keyword>
+											<keyword>آمار فضایی</keyword>
+											<keyword>ابزار تحلیل لکه‌های داغ</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>04</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>59</first_page>
+										<last_page>86</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_19199_60aea159cc7ba7f91aaa8777b9f22027.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-04-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>15</volume>
+									</journal_volume>
+									<issue>59</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>الگوی فرماندهی مطلوب از منظر فرمانده کل قوا حضرت آیت‌الله العظمی امام خامنه‌ای(مدظله العالی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>خسرو</given_name>
+												<surname>اسفندیاری صفا</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حبیب الله</given_name>
+												<surname>دهقان</surname>
+											</person_name></contributors>
+									<abstract>این مقاله با هدف پاسخگویی به این سؤال صورت پذیرفته است که: الگوی فرماندهی مطلوب از منظر فرماندهی کل قوا چیست؟ این پژوهش از نوع کاربردی است که با روش داده بنیاد انجام گرفته است. به منظور احصاء مفاهیم، مؤلفه‌ها و تبیین الگوی فرماندهی مطلوب در اندیشه‌های مقام معظم رهبری، جامعه آماری شامل بیانات حضرت آیت‌الله خامنه‌ای طی سال‌های 1368 تا 1393 مورد بررسی قرار گرفت و تمامی بیانات بدون نمونه‌گیری مورد بررسی قرار گرفت. با استفاده از داده‌های کتابخانه‌ای و مصاحبه حضوری با خبرگان و فرماندهان، این ویژگی‌ها دسته‌بندی گردیده و طبقه‌بندی گشتند. مدل مفهومی بر اساس تحلیل‌ها استخراج گردید و سپس با استفاده از تمام مراحل پژوهش، الگوی پارادایمی طراحی گشت. در الگوی فرماندهی مطلوب از منظر فرماندهی معظم کل قوا، علاوه بر مواردی مانند مسئولیت‌پذیری، رعایت نظم و قانون‌گرایی که در تمام ساختارهای سایر ارتش‌های دنیا رعایت می‌شود، عناصری مانند آرمان‌خواهی، فضائل اخلاقی، توجه به استحکام ساخت درون و اقتدار درون‌زا، عدالت و مساوات، دشمن‌شناسی و ساده‌زیستی نیز نهفته است که مختص نظام مقدس جمهوری اسلامی ایران است. </abstract>
+									<keywords>
+									
+											<keyword>فرماندهی</keyword>
+											<keyword>روش داده بنیاد</keyword>
+											<keyword>حضرت امام خامنه‌ای (حفظه الله)</keyword>
+											<keyword>مهارت‌های فردی</keyword>
+											<keyword>مهارت‌های انسانی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>04</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>87</first_page>
+										<last_page>105</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_19200_53cc974fbeb4fdaec625fa9c6d432b7c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-04-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>15</volume>
+									</journal_volume>
+									<issue>59</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>راهبردهای دفاع الکترونیکی ارتش جمهوری اسلامی ایران در مقابله با تهدیدهای الکترونیکی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید پرویز</given_name>
+												<surname>هاشمی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسین</given_name>
+												<surname>مسلمی</surname>
+											</person_name></contributors>
+									<abstract>ایجاد لایه‌های دفاع الکترونیکی با وجود بهره‌گیری از ظرفیت‌های دفاعی، فنی، امنیتی در جهت مقابله با تهدیدهای الکترونیکی، نیاز به برنامه‌ریزی راهبردی و بلند مدت دارد. از این رو هدف این پژوهش، دست‌یابی به راهبردهای دفاع الکترونکی آجا در مقابله با تهدیدهای الکترونیکی است. اهداف جزئی نیز تعیین اهداف راهبردی دفاع الکترونیکی و شناسایی و تعیین عوامل داخلی و خارجی مؤثر بر دفاع الکترونیکی می‌باشد. داده‌های این پژوهش با دو روش میدانی و کتابخانه‌ای جمع‌آوری گردید که داده‌های کمّی با استفاده از شاخص میانگین تحلیل و توصیف و داده‌های کیفی نیز با استفاده از روش تحلیل محتوا تحلیل و در پایان داده‌ها به صورت آمیخته تحلیل گردیدند. جامعه آماری این تحقیق 100 تن از کارکنانی که در مشاغل مرتبط با عملیات، اطلاعات، فاوا و جنگال آجا هستند که به صورت تمام شمار پژوهش انجام گردید. چون در این تحقیق حجم نمونه بر جامعه آماری منطبق است فرضیه‌ای از سوی محقق ارائه نشده است. در ادامه با استفاده از ماتریس ارزیابی موقعیت (SPACE)، موقعیت دفاع الکترونیکی آجا تعیین که در منطقه رقابتی قرار گرفت. با استفاده از مدل S.W.O.T تحلیل محیطی انجام و 10 راهبرد در دو حوزه (تهاجمی، رقابتی) تدوین و اولویت‌بندی گردید. </abstract>
+									<keywords>
+									
+											<keyword>دفاع الکترونیکی</keyword>
+											<keyword>تاب‌آوری الکترونیکی</keyword>
+											<keyword>رزم الکترونیکی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>04</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>124</first_page>
+										<last_page>148</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_19202_a790135a25949f755f806e623dcdba95.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

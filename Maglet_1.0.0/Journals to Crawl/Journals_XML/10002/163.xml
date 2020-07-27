@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-21T02:03:41Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://miu.nahad.ir/?_action=export&amp;rf=summon&amp;issue=108</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-08-23</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>17</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناسایی مسائل فرهنگی در فرایند خط‌مشی‌گذاری در پرتو آیات قرآن کریم و بر پایۀ تقوا</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>جواد</given_name>
+												<surname>عطاران</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سید مهدی</given_name>
+												<surname>الوانی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حسن</given_name>
+												<surname>زارعی متین</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>علی‌نقی</given_name>
+												<surname>امیری</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>علی</given_name>
+												<surname>راد</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; هدف محققان در این پژوهش، شناسایی، دسته‌بندی و اولویت‌بندی مسائل فرهنگی در‌ فرایند خط‌مشی‌گذاری با توجه به آموزه‌های اجتماعی قرآن کریم بود. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; جامعۀ آماری تحقیق را خبرگان و فقهای برگزیدۀ دینی در مقطع خارج فقه تشکیل می‌دهند که از بین آنها بر اساس روش ترکیبی(کیفی- کمّی)، هفت نفر برای‌گردآوری اطلاعات در مرحلۀ اول(مصاحبۀ عمیق و تشکیل گروههای کانونی) و 12 نفر برای مرحلۀ دوم(توزیع پرسشنامه و شناسایی اهمیت و اولویت مسائل) برگزیده شدند. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; تجزیه‌و‌تحلیل داده‌ها منجر به شناسایی مهم‌ترین مسائل فرهنگی در پرتو آیات قرآن کریم و تفاسیر معتبر شیعی شد. لذا، 2201 آیۀ بیانگر مسئله، در قالب هفت دسته، 170 کد و دو بُعد نظری و عملی ارائه شد. پس از انجام آزمونهای دو جمله‌ای و فریدمن در نرم‌افزار اس.پی.اس.اس.20، مهم‌ترین مسائل فرهنگی مستخرجه از آیات قرآن کریم در قالب 144 کد، شناسایی و اولویت‌بندی شدند. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه گیری:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; به منظور شناسایی و برنامه‌ریزی برای برطرف کردن مسائل فرهنگی در سطوح ملی و سازمانی از نتایج به دست آمده در این پژوهش استفاده شود.</abstract>
+									<keywords>
+									
+											<keyword>قرآن</keyword>
+											<keyword>مسائل فرهنگی</keyword>
+											<keyword>خط‌مشی‌گذاری فرهنگی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>3</first_page>
+										<last_page>24</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_642_e1eb271a2eaead2f6f8dcc8a2110f552.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-08-23</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>17</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأملی بر منش رهبری امام علی(ع) به استناد سیرۀ حضرت در نهج‌‌البلاغه و تطبیق آن با مبانی فکری رهبری در قرآن کریم</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>عباداله</given_name>
+												<surname>بانشی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>عبدالحسین</given_name>
+												<surname>خسروپناه</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حسن</given_name>
+												<surname>بیابانی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; هدف از انجام این پژوهش، بررسی منش و سبک مدیریت و رهبری امام علی(ع) به استناد سیرۀ آن حضرت در نهج‌‌البلاغه و تفحص در اقوال و سلوک ایشان، همچنین تطبیق سبک مستخرجه با مبانی رهبری سازمانی موجود در قرآن کریم بود. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; این پژوهش از حیث هدف، جزء تحقیقات بنیادی طبقه‌بندی شده و از حیث جمع‌آوری داده‌ها، کیفی است و با روش تحلیل محتوا و از طریق واکاوی متن نهج‌‌البلاغه انجام شده است. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; در این بررسی، 430 گزارۀ متناسب با موضوع، انتخاب و مطالعه شد و در نهایت، 216 شاخص، 34 مفهوم، هشت مقوله و چهار بُعد کلی شناسایی شد. نتایج نشان داد می‌توان منش مدیریتی امام علی(ع) را متأثر از چهار بُعدِ اصول(نگرشی و حقوقی)، اهداف(واسطه‌ای و غایی)، ارزشها(بایدها و نبایدها) و بسترها(راهبردهای ساختاری و انسانی) دانست. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; اصول نگرشی و حقوقی زیربنای همۀ رفتارهای حضرت بوده و در حکم اعتقادات بنیادین و اصول ثابت، همواره مدّ نظر ایشان بوده‌اند و اهداف رهبری و مدیریت در جامعه و نیز بایدها و نبایدهای رهبری(ارزشها) منبعث از این اصول‌اند. اهداف و ارزشهای رهبری نیز بر تدوین راهبردها و بر وضع همۀ رویّه‌ها، خط مشی‌ها، سیاستها و قوانین و مقرارت سایه انداخته، حاکمیت می‌کنند؛ به طوری که اصول زیربنایی مطروحه به عنوان اصول راهبردی، نقش هماهنگ‌کنندگی در رفتارهای مدیریتی جامعه را ایفا می‌کنند. بر اساس نتایج این تحقیق، اصول برگرفته از سیرۀ حضرت با اصول منبعث از قرآن کریم(اصول بینشی و اصول منشی) مطابقت دارد.</abstract>
+									<keywords>
+									
+											<keyword>منش رهبری</keyword>
+											<keyword>مدیریت</keyword>
+											<keyword>سیره</keyword>
+											<keyword>نهج‌‌البلاغه</keyword>
+											<keyword>امام علی(ع)</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>25</first_page>
+										<last_page>42</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_643_133dbc208689be0334b313dce92e648d.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-08-23</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>17</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>رابطۀ سرمایۀ اجتماعی و ارتقای مؤلفه‌های آمادگی کارآفرینی دانشجویان(مورد مطالعه: دانشگاه شیراز)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>قاسم</given_name>
+												<surname>سلیمی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محبوبه</given_name>
+												<surname>مهرورز</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>رضا</given_name>
+												<surname>پذیرش</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/strong&gt; هدف کلی از انجام این پژوهش، پیش‌بینی نقش سرمایۀ اجتماعی در ارتقای آمادگی کارآفرینی دانشجویان دانشگاه شیراز بود. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; روش پژوهش در این مقاله، توصیفی از نوع همبستگی است. جامعۀ بررسی، شامل کلیۀ دانشجویان دانشگاه شیراز است که با روش نمونه‌گیری طبقه‌ای نسبتی، 272 نفر از آنان انتخاب شدند. به منظور گردآوری داده‌های پژوهش از پرسشنامۀ سرمایۀ اجتماعی گیو و همکاران(2013) و پرسشنامۀ آمادگی کارآفرینی اومنی و همکاران(2009) استفاده شده است. داده‌ها نیز با استفاده از روشهای آماری تی تک‌نمونه‌ای، ضریب همبستگی پیرسون و ضریب رگرسیون چندمتغیّره تحلیل شد. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; نتایج مطالعه حاکی از آن بود که دانشجویان ریسک‌پذیر نیستند. همچنین بین سرمایۀ اجتماعی و مؤلفه‌‏های آمادگی کارآفرینی رابطۀ مثبت و معناداری وجود دارد. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; نتایج تحلیل داده‌های پژوهش نشان داد که از میان ابعاد سرمایۀ اجتماعی، سرمایۀ شناختی بیش از سایر ابعاد، آمادگی کارآفرینی در دانشجویان را پیش‌بینی می‌کند.
+ </abstract>
+									<keywords>
+									
+											<keyword>سرمایۀ اجتماعی</keyword>
+											<keyword>سرمایۀ انسانی</keyword>
+											<keyword>آمادگی کارآفرینی</keyword>
+											<keyword>دانشجویان دانشگاه شیراز</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>43</first_page>
+										<last_page>62</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_644_0cf5e7bd14ead0cfaa8c6377938cf9d5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-08-23</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>17</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تدوین راهبردهای فرهنگی دانشگاهها و مؤسسات آموزش عالی غرب کشور</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی</given_name>
+												<surname>یاسینی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>یسرا</given_name>
+												<surname>پناه</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>امین</given_name>
+												<surname>پناه</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>صادق</given_name>
+												<surname>رضاپسند</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/strong&gt; پژوهش حاضر با هدف تدوین راهبردهای فرهنگی دانشگاههای غرب کشور(ایلام، لرستان و رازی کرمانشاه) در سال 96-1395 صورت گرفت. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; روش پژوهش توصیفی- پیمایشی و جامعۀ آماری در بخش کیفی، اساتید و متخصصان حوزۀ فرهنگی و دینی دانشگاههای غرب کشور بود که با استفاده از نمونه‌گیری گلوله برفی، تعداد 31 نفر به عنوان نمونه انتخاب شدند. جامعۀ آماری در بخش کمّی، تمامی کارکنان، مدیران و دانشجویان فعال در حوزه‌های دینی و فرهنگی دانشگاههای دولتی غرب کشور بودند که با نمونه‌گیری طبقه‌ای نسبی، 126 نفر به عنوان نمونه انتخاب شدند. از عوامل داخلی و خارجی دانشگاهها با استفاده از مصاحبه و پرسشنامۀ بازشناسایی و از طریق پرسشنامۀ بسته‌پاسخ نظرسنجی شد. با استفاده از دو ماتریس SWOT و QSPM، داده‌ها تجزیه و تحلیل شدند. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; در مجموع، شش راهبرد SO، سه راهبرد ST، پنج راهبرد WO و سه راهبرد WT برای آموزش عالی تدوین شد. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; واحدهای فرهنگی دانشگاههای غرب کشور از لحاظ موقعیت راهبردی، در منطقۀ SO قرار دارند؛ بدین معنی که از لحاظ عوامل درونی، دارای قوّت و از لحاظ عوامل بیرونی، دارای فرصت‌اند.</abstract>
+									<keywords>
+									
+											<keyword>راهبردهای فرهنگی</keyword>
+											<keyword>تجزیه و تحلیل سوات</keyword>
+											<keyword>ماتریس برنامه‌ریزی راهبردی کمّی</keyword>
+											<keyword>دانشگاههای غرب کشور</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>63</first_page>
+										<last_page>80</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_645_b800696edf181d2be367d780d8db8112.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-08-23</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>17</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تدوین الگوی مؤلفه‌های مؤثر بر تحقق دانشگاه‌پژوهی در دانشگاه‌ اسلامی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمدعلی</given_name>
+												<surname>نعمتی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سیده طیبه</given_name>
+												<surname>موسوی امیری</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; هدف مطالعۀ پیش رو، شناسایی و تحلیل مؤلفه‌های مؤثر و ارائۀ الگوی تحقق دانشگاه‌پژوهی در دانشگاه اسلامی بوده است. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; در این پژوهش به واسطۀ ماهیت و هدف آن، از روش ترکیبی از نوع اکتشافی، بر مبنای طرح تدوین ابزار در دو بخش کیفی و کمّی استفاده شده است. در بخش کیفی، از نظریۀ داده‌بنیاد و از طریق مطالعۀ مبانی نظری، تحقیقات پیشین، مستندات مربوط و مصاحبۀ نیمه‌ساختمند با 12 نفر از صاحب‌نظران این حوزه در داخل و خارج از دانشگاه، با استفاده از روش نمونه‌گیری هدفمند و به شیوۀ گلوله برفی بهره گرفته شد. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; ابتدا 47 مؤلفه از طریق فرایند کدگذاری باز، شناسایی و سپس، کدهای اولیه بر اساس وجوه تمایز و تشابه و از طریق فرایند کدگذاری محوری و انتخابی، در قالب شش مؤلفۀ اصلی(فرهنگ دانشگاهی، مدیریتی ساختاری، علمی حرفه‌ای، مالی اعتباری، قانونی حقوقی و فنّاوری اطلاعات) مفهوم‌سازی و الگوی مؤلفه‌های مؤثر بر تحقق دانشگاه‌پژوهی در دانشگاه اسلامی، تبیین شد. در بخش کمّی، مؤلفه‌های اصلی، زیرمؤلفه‌های شناسایی‌شده و الگوی تدوین‌شده، از طریق بررسی دیدگاه 225 نفر از اعضای هیئت علمی و مدیران و کارشناسان دانشگاه علامه طباطبایی، با بهره‌گیری از روشهای تحلیل عاملی تأییدی و معادلات ساختاری، اعتباریابی و تأیید شد. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌‌گیری&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; یافته‌های پژوهش حاضر، بیانگر تأیید مؤلفه‌های اصلی و زیرمؤلفه‌های شناسایی شده و همچنین الگوی مؤلفه‌های مؤثر بر تحقق دانشگاه‌پژوهی در دانشگاه اسلامی است. همچنین، بررسی برازندگی مدل با بهره‌‌گیری از تحلیل عاملی تأییدی، نشانگر برازش مطلوب الگوی تدوین شده است.</abstract>
+									<keywords>
+									
+											<keyword>دانشگاه</keyword>
+											<keyword>دانشگاه اسلامی</keyword>
+											<keyword>دانشگاه‌پژوهی</keyword>
+											<keyword>مؤلفه</keyword>
+											<keyword>الگو</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>81</first_page>
+										<last_page>102</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_646_f5e096226b51830a392d2ba0f39e8a7e.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-08-23</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>17</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناسایی و اولویت‌بندی مؤلفه‌های اخلاق حرفه‌ای اعضای هیئت علمی دانشکدۀ روان‌شناسی و علوم تربیتی دانشگاه علامه طباطبایی از دیدگاه اساتید و دانشجویان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حمیده</given_name>
+												<surname>رفیعی بلداجی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسن</given_name>
+												<surname>ملکی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علی</given_name>
+												<surname>خورسندی طاسکوه</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; این پژوهش با هدف شناسایی و اولویت‌بندی مؤلفه‌های اخلاق حرفه‌ای اعضای هیئت علمی از دیدگاه اساتید و دانشجویان دانشکدۀ روان‌شناسی و علوم تربیتی دانشگاه علامه طباطبایی انجام شده است. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; پژوهش حاضر از لحاظ هدف، کاربردی و توسعه‌ای و از لحاظ روش، توصیفی- پیمایشی است. در این پژوهش 53 نفر از اساتید و 270 نفر از دانشجویان با روش نمونه‌گیری تصادفی ساده انتخاب شدند. ابزار پژوهش، پرسشنامۀ محقق‌ساختۀ اخلاق حرفه‌ای اعضای هیئت علمی بود و تجزیه و تحلیل داده‌ها با استفاده از نرم‌افزار اس.پی.اس.اس.22 انجام شد. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها&lt;/span&gt;&lt;/em&gt;: &lt;/strong&gt;مؤلفه‌های اخلاق حرفه‌ای از نظر اساتید و دانشجویان، از اهمیت بالایی برخوردارند. با این حال، در اولویت‌بندی مؤلفه‌ها از نظر اساتید و دانشجویان، تفاوت معنادار وجود دارد. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; بر اساس یافته‌های پژوهش، از نظر اساتید و دانشجویان، ویژگی‌های اخلاقی و شخصیتی اعضای هیئت علمی به عنوان الگوهای مؤثر در دانشگاه و جامعه، اهمیت زیادی دارد؛ زیرا بر تربیت و کیفیت تفکر دانشجویان و دیگر اعضای جامعه تأثیرگذار است. پیشنهاد می‌شود اعضای هیئت علمی، اصول اخلاقی را در وظایف حرفه‌ای خود، نظیر آموزش و پژوهش، برای افزایش اخلاق حرفه‌ای در محیط دانشگاه و جامعه به کار گیرند.</abstract>
+									<keywords>
+									
+											<keyword>اخلاق</keyword>
+											<keyword>اخلاق حرفه‌ای</keyword>
+											<keyword>اعضای هیئت علمی</keyword>
+											<keyword>دانشجویان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>103</first_page>
+										<last_page>120</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_647_b3a8468652949635af92ccf2d388f4b9.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-08-23</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>17</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناسایی و اولویت‌بندی مؤلفه‌های اخلاق حرفه‌ای اعضای هیئت علمی دانشگاه پیام نور استان آذربایجان شرقی بر اساس آموزه‌های اسلامی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>کریم</given_name>
+												<surname>اسکندری</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/strong&gt; هدف تحقیق حاضر شناسایی و اولویت‌بندی مؤلفه‌های اخلاق حرفه‌ای اعضای هیئت علمی دانشگاه پیام نور بر اساس آموزه‌های اسلامی بوده است. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; روش این پژوهش از نوع کیفی-کمّی است. جامعۀ آماری تحقیق حاضر تمامی دانشجویان واحدها و مراکز دانشگاه پیام نور استان آذربایجان شرقی است. حجم نمونه با استفاده از جدول مورگان، 384 نفر برآورد شده است. ابزار جمع‌آوری اطلاعات در این پژوهش، پرسشنامۀ محقق‌ساختهای است که پس از سنجش روایی و پایایی آن در اختیار نمونۀ آماری قرار گرفت. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; با بررسی متون و منابع اسلامی، به ویژه آیات قرآنی و نهج‌البلاغه، مؤلفه‌های سی‌گانۀ اخلاق‌ حرفه‌ای استخراج شد. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; از دیدگاه دانشجویان، میانگین هر یک از مؤلفه‌های اخلاق حرفه‌ای در بین اعضای هیئت علمی دانشگاه پیام نور استان آذربایجان شرقی بالاتر از حد متوسط است. از بین مؤلفه‌های سی‌گانۀ اخلاق حرفه‌ای، به ترتیب: «خدامحوری اساتید» و «پرهیز از داشتن هرگونه روابط شخصی نزدیک با دانشجویان»، بیشترین و کمترین امتیاز را در بین اعضای هیئت علمی دانشگاه پیام نور استان آذربایجان شرقی کسب کرده‌اند.</abstract>
+									<keywords>
+									
+											<keyword>اخلاق</keyword>
+											<keyword>اخلاق حرفه‌ای</keyword>
+											<keyword>آموزه‌های اسلامی</keyword>
+											<keyword>دانشگاه پیام نور</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>121</first_page>
+										<last_page>148</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_648_9b7968b04d34df93001182570cc1f362.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-08-23</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>17</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>رابطۀ بین سعۀ صدر و تواضع آموزشی با عدالت آموزشی (مورد مطالعه؛ دانشجویان دانشگاه آزاد محلات)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>ناهید</given_name>
+												<surname>مریخی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>فرهاد</given_name>
+												<surname>شفیع‌پور مطلق</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; پژوهش حاضر به منظور مطالعۀ رابطۀ بین سعۀ صدر و تواضع آموزشی با عدالت آموزشی انجام شده است. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; این پژوهش به روش توصیفی از نوع همبستگی انجام شده و جامعۀ آماری آن، شامل کلیۀ دانشجویان دانشگاه آزاد اسلامی واحد محلات در سال تحصیلی 96-1395 به تعداد 1340 نفر است. با استفاده از شیوۀ نمونه‌گیری طبقه‌بندی متناسب با حجم، در نهایت 302 نفر به طور تصادفی برای تحقیق انتخاب شدند. ابزار پژوهش عبارت است از: پرسشنامۀ عدالت آموزشی شفیع‌پور مطلق(1395)(92/0=α)، پرسشنامۀ محقق‌ساختۀ سعۀ صدر(94/0=α) و پرسشنامۀ محقق‌ساختۀ تواضع آموزشی(91/0=α). برای تجزیه وتحلیل داده‌ها از آزمون همبستگی پیرسون، تحلیل رگرسیون چندگانۀ گام به گام و مدل معادلۀ ساختاری استفاده شده است. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; بین سعۀ صدر و تواضع آموزشی با عدالت آموزشی، در سطح 05/0&gt;P، رابطۀ معنادار و مثبت وجود دارد. بهبود نگرش دانشجویان، رابطۀ بین سعۀ صدر و تواضع آموزشی با عدالت آموزشی را در سطح 05/0&gt;P واسطه‌گری می‌کند. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; برای بهبود عدالت آموزشی ادراک شده نزد دانشجویان باید اساتید از سعۀ صدر و تواضع آموزشی برخوردار باشند.</abstract>
+									<keywords>
+									
+											<keyword>سعۀ صدر آموزشی</keyword>
+											<keyword>تواضع آموزشی</keyword>
+											<keyword>عدالت آموزشی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>149</first_page>
+										<last_page>162</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_649_baecd6c55532bcdee6e190660792d4eb.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-08-23</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>17</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کاوشی پدیدارشناسانه در تعیین شایستگی‌های کارآفرینان دانش‌آموخته در قلمرو رشته‌های علوم اجتماعی و رفتاری</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>احمد</given_name>
+												<surname>ملکی‌پور</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رضوان</given_name>
+												<surname>حکیم‌زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مرضیه</given_name>
+												<surname>دهقانی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمدرضا</given_name>
+												<surname>زالی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; پژوهش حاضر با هدف کاوش پدیدارشناسانه در تعیین شایستگی‌های کارآفرینان دانش‌آموخته در قلمرو رشته‌های علوم اجتماعی و رفتاری انجام شد. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; این پژوهش با رویکرد کیفی و استفاده از روش پدیدارشناسی انجام شد. جامعۀ پژوهش، افراد کارآفرین در قلمرو رشته‌های علوم اجتماعی و رفتاری بودند که 12 نفر از آنان به طور هدفمند و با تکنیک معیاری و روش گلوله برفی تا رسیدن به اشباع نظری انتخاب شدند. فرایند تحلیل داده‌ها در بخش مصاحبۀ نیمه ساختاریافته با دانش‌آموختگان کارآفرین در رشته‌های علوم اجتماعی و رفتاری، استقرایی بود که در سه مرحلۀ کدگذاری باز، محوری و گزینشی انجام شد. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها&lt;/span&gt;&lt;/em&gt;:&lt;/strong&gt; شایستگی‌های افراد کارآفرین در قلمرو رشته‌های علوم اجتماعی و رفتاری، سه مقولۀ‌ اساسی شایستگی‌های نگرشی کارآفرینانه(هشت زیرمقوله)، شایستگی‌های مدیریتی کارآفرینانه(شش زیرمقوله) و شایستگی‌های فنی کارآفرینانه(پنج زیرمقوله) را شامل می‌شود.&lt;em&gt; &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;:&lt;/strong&gt; ضروری است که دست‌اندرکاران و برنامه‌ریزیان درسی برای سوق دادن دانشجویان قلمرو رشته‌های علوم اجتماعی و رفتاری به سوی کارآفرینی با تأکید بر فرهنگ اسلامی جامعه، اقدامات لازم را برای بازنگری سرفصلهای برنامۀ درسی با توجه به اضافه کردن شایستگی‌های مورد نظر در این حوزه اتخاذ کنند. این امر می‌تواند راهبردی مطلوب برای ایجاد نوع جدیدی از دانشگاهها، با عنوان دانشگاههای اسلامی کارآفرین باشد.</abstract>
+									<keywords>
+									
+											<keyword>شایستگی</keyword>
+											<keyword>کارآفرینی</keyword>
+											<keyword>رشته‌های علوم اجتماعی و رفتاری</keyword>
+											<keyword>آموزش عالی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>163</first_page>
+										<last_page>182</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_650_60a32d41971ab6214a3c7ed77e73cb0e.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-08-23</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>17</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارائۀ مدل تدریس اثربخش در دانشگاه: تحلیل دیدگاه استادان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مریم</given_name>
+												<surname>سامری</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; تحقیق حاضر با هدف ارائه الگوی تدریس اثربخش در دانشگاه با بهره‌گیری از نظرات اساتید و با استفاده از تحلیل شبکه‌های عصبی مصنوعی انجام گرفت. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; پژوهش حاضر از حیث هدف، کاربردی و از نوع طرحهای ترکیبی- اکتشافی است. جامعۀ آماری تحقیق، اساتید دانشگاه آزاد اسلامی واحد ارومیه است که در قسمت کیفی با 15 نفر از آنان به روش نمونه‌گیری هدفمند و تا مرحلۀ اشباع نظری یافته‌ها مصاحبه شد. در قسمت کمّی نیز با استفاده از فرمول برآورد حجم نمونه کوکران و به صورت ﺗﺼﺎدﻓﯽ طبقه‌ای، 137 نفر از اساتید به عنوان نمونه انتخاب شدند. برای جمع‌آوری داده‌ها و اطلاعات لازم، از دو نوع ابزارِ مصاحبۀ نیمه‌ساختارمند و پرسشنامۀ محقق‌ساخته استفاده شده است. روایی و پایایی پرسشنامه‌، محرز شد. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; عوامل مؤثر بر تدریس اثربخش در پنج مقولۀ کلی ویژگی‌های شخصیتی و فردی، ویژگی‌های علمی و سواد، توانمندی در روابط انسانی و قدرت برقراری ارتباط، مهارت تدریس و مدیریت کلاس درس و مهارت ارزشیابی قابل بررسی است. نتایج تحلیل حساسیت مدل‌سازی شبکۀ عصبی مصنوعی نیز نشان داد توانمندی در بعد روابط انسانی و قدرت ایجاد ارتباط و ویژگی‌های علمی و سواد، به ترتیب بیشترین و کمترین اهمیت را در پیش‌بینی تدریس اثربخش اساتید دارند. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; توجه به ایجاد و تقویت روابط انسانی و قدرت ایجاد ارتباط مؤثر با دانشجو در برنامه‌ریزی برای آموزش و انتصاب و نگهداری اساتید دانشگاه در تدریس اثربخش اساتید مؤثر است.
+&lt;strong&gt; &lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>تدریس اثربخش</keyword>
+											<keyword>اعضای هیئت علمی</keyword>
+											<keyword>ویزگی‌های شخصیتی</keyword>
+											<keyword>مهارت تدریس</keyword>
+											<keyword>روابط انسانی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>183</first_page>
+										<last_page>205</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_651_9c03e2ace676caba918dec99fe7140d4.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-08-23</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>17</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>سخن سردبیر</title>
+									</titles>
+									<abstract></abstract>
+									<keywords>
+									
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>2</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_652_d82ba8944648f970e8f26462c0d8eb59.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-08-23</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>17</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>چکیده های لاتین</title>
+									</titles>
+									<abstract></abstract>
+									<keywords>
+									
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>208</first_page>
+										<last_page>217</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_653_6ee64e5958420be396b3054145a5de97.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

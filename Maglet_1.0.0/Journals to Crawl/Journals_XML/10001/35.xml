@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Calculating Real Option Value under Different Approaches in the Tehran Stock Exchange</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Reza</namePart>
+				<namePart type="given">Tehrani</namePart>
+				<affiliation>Finance and Insurance Department &amp;amp;ndash; Faculty of Management -School of Management, University of Tehran, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Seyed Mojtaba</namePart>
+				<namePart type="given">Mirlohi</namePart>
+				<affiliation>Assistant Professor, Department of Management, Faculty of Industrial Engineering and Management, Shahrood University of Technology, Shahrood, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mohammad Reza</namePart>
+				<namePart type="given">Golkani</namePart>
+				<affiliation>Ph.D. Candidate, Department of Financial Management, Faculty of Management, International Kish Campus, University of Tehran, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2020</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Objective: A question that always arises for some practitioners and academicians is why stock prices in firms are not consistent with traditional discounted cash flow (DCF) models. Method: To this end, firms’ stock market prices should be analyzed on the basis of scientific principles. In addition, real options and their role in firms’ stock market value is an issue that has always been considered implicitly in practice and needs to be studied scientifically. Hence, this paper examines the relationship between a portion of the firm&#039;s stock market value that is due to real options and variables that are related to real options. Results:The results of the study, based on data from 140 industrial-productive firms during an 11-year period, indicates that in all three approaches, net income (NI), free cash flow to equity (FCFE) and free cash flow to firm (FCFF), a part of the firm’s stock market value is on average due to real options.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>8</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2020</text>
+				<extent unit="pages">
+					<start>1</start>
+					<end>12</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_23613_c381f56a9204a69204bac1fcb6914ae6.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2019.115211.1372</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Corporate Financing Strategies in Normal and Crisis Conditions: Evidence from Tehran Stock Exchange</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Saman</namePart>
+				<namePart type="given">Rahmani Noroozabad</namePart>
+				<affiliation>PhD Student of Financial Management, Islamic Azad University, Ilam Branch, Ilam, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Ali Asghar</namePart>
+				<namePart type="given">Anvary Rostamy</namePart>
+				<affiliation>Professor &amp;amp; Chair Department of Planning &amp;amp; Management, Management Study and Technology Development  Center, Tarbiat Modares University, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Karam</namePart>
+				<namePart type="given">Khalili</namePart>
+				<affiliation>َAssistant Professor of Management, Islamic Azad University, Ilam Branch,Ilam, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">esfandyar</namePart>
+				<namePart type="given">mohammadi</namePart>
+				<affiliation>Associate Professor of Business Administration, Faculty of Literature &amp;amp; Humanities, Ilam University, Ilam, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2020</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Objective: This research investigates the financing strategies of companies under normal and the economic crisis conditions over the years 2003-2016. Method: The statistical population of this research consists of companies listed on the Tehran Stock Exchange and Iran Over-The-Counter market (OTC). Research hypotheses have been tested through Multivariate Regression Equation. Results: The findings indicate that in both normal and crisis periods, the ROA (Return on Assets) and size of the company have a positive impact on the financing through the stock market. In addition, despite the negative impacts of sales growth, profitability, and average financial leverage on equity financing, tangible assets and market risk fail to indicate any effect on it. The results also demonstrate that the ROA and size of the company have negative effects on financing through the debt market over both normal and crisis periods. In addition, notwithstanding the negative impact of sales growth during the crisis period on debt financing, this effect is positive in the normal condition. Moreover, profitability and financial leverage have positive effects on debt financing during both normal and crisis times. Finally, it has been revealed that tangible assets have a positive impact on debt financing during the crisis period, but a negative effect during the normal period. Market risk has no effect on debt financing.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>8</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2020</text>
+				<extent unit="pages">
+					<start>13</start>
+					<end>30</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_24277_7a27661b59c78491f890bf15d4c06566.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2019.113104.1306</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The impact of working capital management on Listed companies profitability in business cycles based on the output gap</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Somayeh</namePart>
+				<namePart type="given">Iskandarnejad</namePart>
+				<affiliation>Master of Accounting, Department of Accounting, Islamic Azad University, Tabriz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Rassoul</namePart>
+				<namePart type="given">Hassanzadeh Baradaran</namePart>
+				<affiliation>Associate Professor, Department of Accounting, Islamic Azad University, Tabriz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Hasan</namePart>
+				<namePart type="given">Taheri</namePart>
+				<affiliation>Coach, Department Of Economics, Islamic Azad University, Tabriz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2020</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Objective: This study aims to determine the impact of working capital management on profitability in business cycles based on the output gap in companies listed inTehran stock Exchange. In this study, the combination of panel data is used.
+Method: For evaluating hypotheses, Factors such as Return on total Assets (ROA), Return of owner’s Equity (ROE), Return Operating profit (OP) Were applied to evaluate corporate profitability. Moreover factors such as cash conversion cycle (ccc), Inventory Turnover In Day (ITID), Average collection period (ACP), Average payment period (APP), were utilized as criteria for evaluating working capital management. The business cycle has used been to evaluate output gap In this study, 85 companies during the period 2005 to 2014 is considered as the sample.
+Results: The results show that the cash conversion cycle and accounts receivable collection period in boom period has a significant and negative impact on operating profit.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>8</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2020</text>
+				<extent unit="pages">
+					<start>31</start>
+					<end>48</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_21421_aa06880857925060b60060bf0893381d.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2017.21421</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Extracting Composite sentiment Index for Tehran Stock Exchange</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">mohammad</namePart>
+				<namePart type="given">tohidi</namePart>
+				<affiliation>Assistant Professor, Department of Financial Management, Faculty of Islamic Studies and Management, Imam Sadiq (a.s) University, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2020</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Objective:Hardly are traders inclined to indicate sentiment in the classical finance, however the behavioral finance paradigm shows that in some cases stock price changes have no fundamental triggers, and just the emotional tendency of the investors play the stimulant role in determining prices.
+Method: Investor sentiment is defined as the tendency of market participants for speculation and this tendency can be related to the psychological state of the minds of investors. Given the fact that distressed traders are influenced by their emotions and the total emotion of the market, emotional tendency indicators are used to explain the behavior of these types of traders. In this research, the emotional tendency indicators are extracted in two ways: direct approach (survey method) and indirect approach (through the analysis of statistics and market data).
+Results:Furthermore, this study, based on literature review and stock market conditions in Iran, applied the principal component analysis method (PCA) with different sentiment variables and indicators for extracting a composite sentiment index for extracting noise traders in Iranian stock market. Regarding the special value of the first component and the factor load (coefficients) of the variables, three variables are used in the final index. These three variables are: &quot;Monthly volume of retail transactions by the volume of total stock trades&quot;, &quot;Monthly volume of online transactions by the volume of total stock trades&quot;, and &quot;Monthly volumes of stock trades by wholesalers and wholesalers by the volume of total market transactions&quot;.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>8</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2020</text>
+				<extent unit="pages">
+					<start>49</start>
+					<end>68</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_24011_1f8e358c24e6f5f24c1d5478a8b4d601.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2019.116219.1402</identifier>
+			</mods>
+		</modsCollection>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه شهید چمران اهواز</PublisherName>
+				<JournalTitle>زمین شناسی کاربردی پیشرفته</JournalTitle>
+				<Issn>2251-7057</Issn>
+				<Volume>10</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>05</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Estimation of reservoir rock properties from conventional well log data by using a hybrid particle swarm optimization and neural network approach</ArticleTitle>
+<VernacularTitle>تخمین پارامترهای مخزنی با استفاده از داده های چاه پیمایی و بهره گیری از ترکیب شبکه عصبی مصنوعی و الگوریتم بهینه سازی ازدحام ذرات</VernacularTitle>
+			<FirstPage>96</FirstPage>
+			<LastPage>109</LastPage>
+			<ELocationID EIdType="pii">15338</ELocationID>
+			
+<ELocationID EIdType="doi">10.22055/aag.2020.31475.2047</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>ایمان</FirstName>
+					<LastName>زحمت کش</LastName>
+<Affiliation>دانشگاه شهید چمران اهواز</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>ابوذر</FirstName>
+					<LastName>محسنی پور</LastName>
+<Affiliation>کارشناس مطالعات پتروفیزیک و مخزن شرکت ملی حفاری ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>امین</FirstName>
+					<LastName>امرائی</LastName>
+<Affiliation>شرکت پتروپارس</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>10</Month>
+					<Day>21</Day>
+				</PubDate>
+			</History>
+		<Abstract>The geomechanical and petrophysical parameters of the reservoir such as shear wave velocity, porosity and permeability are regarded as the most important elements in estimating reserves, reservoir simulation, and overall field exploitation strategies. Recently, several methods of artificial intelligence techniques have been used to predict this parameter by using well log data. However, predicting the characteristics of heterogeneous reservoirs always has been facing many problems and an appropriate response is rarely achieved. In this paper, a new methodology is presented for reservoir parameters (shear wave velocity, porosity and permeability) estimation by combining artificial neural network and Particle Swarm optimization (PSO) in Asmari formation of mansuri oilfield. Performance of proposed hybrid scheme was evaluated by comparing the results with the Neural Network and Nero-Fuzzy methods as well as hybrid genetic algorithm–neural network strategy (GA–NN). Comparison of the results shows that PSO-ANN outperforms all the other methods and it can be considered as a powerful tool for reservoir parameters estimation, especially in cases where a precise estimation criterion is crucial.</Abstract>
+			<OtherAbstract Language="FA">پارامترهای ژئومکانیکی و پتروفیزیکی مخزن همانند سرعت موج برشی، تخلخل و تراوایی از جمله پارامترهای مهمی هستند که در شبیه‌سازی مخازن هیدروکربوری و استراتژی‌های اکتشافی نقش موثری ایفا می کنند. اخیراً روش‌های هوش مصنوعی به‌منظور پیش‌بینی این پارامترها با استفاده از داده‌های چاه پیمایی به‌کاربرده شده‌اند. بااین‌حال پیش‌بینی ویژگی‌های مخازن ناهمگن همواره با دشوارهای بسیاری همراه است و به‌سختی پاسخ مناسبی به‌دست‌آمده است. در این مطالعه تلاش شده است تا پارامترهای مخزنی سرعت موج برشی، تخلخل و تراوایی با استفاده از روش نوین ترکیب شبکه عصبی مصنوعی و الگوریتم بهینه سازی ازدحام ذرات (PSO-ANN)، در مخزن هتروژن آسماری میدان منصوری تخمین زده شود. سپس عملکرد این مدل ترکیبی با روش های کلاسیک و مرسوم شبکه عصبی مصنوعی (ANN) و سیستم تطبیقی استنتاج نروفازی (ANFIS) و همچنین روش ترکیب شبکه عصبی مصنوعی و الگوریتم ژنتیک (GA-ANN) مورد مقایسه قرار گرفته است. نتایج نشان دهنده عملکرد بسیار مناسب روش ترکیبی شبکه عصبی مصنوعی و الگوریتم بهینه سازی ازدحام ذرات در تخمین پارامترهای مخزنی است. بنابراین می توان از مدل ترکیبی شبکه عصبی مصنوعی و الگوریتم بهینه سازی ازدحام ذرات به عنوان یک روش قدرتمند در تخمین سایر پارامترهای مخزنی به خصوص در مواقعی که دقت بالای پیش بینی لازم باشد استفاده نمود.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">الگوریتم ازدحام ذرات</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدل الگوریتم ازدحام ذرات-شبکه عصبی (PSO-ANN)</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">پارامترهای مخزنی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تراوایی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://aag.scu.ac.ir/article_15338_bf8b9a8dffddefe9fa82eeb3cc4d1ed7.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

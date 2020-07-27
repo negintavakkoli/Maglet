@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+<JOURNAL>
+<YEAR>1397</YEAR>
+<VOL>12</VOL>
+<NO>1</NO>
+<MOSALSAL>33</MOSALSAL>
+<PAGE_NO>182</PAGE_NO>
+
+
+<ARTICLES>
+
+	<ARTICLE> 
+		<TitleF>کنترل کیفیت بلوک‌های سنگ ساختمانی با استفاده از روش رادار نفوذی به زمین (GPR)</TitleF>
+		<TitleE> Application of Ground-Penetrating Radar (GPR) method to evaluate and control the quality of dimension stone blocks </TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>سنگ&#8204;های ساختمانی ذخایر معدنی با ارزش هستند و صنعت سنگ&#8204;ساختمانی نیز به&#8204;عنوان صنعت اقتصادی مهم به&#8204;شمار می&#8204;رود. این صنعت به&#8204;صورت یک زنجیره است و کنترل کیفیت، حلقۀ گم شده این زنجیره در ایران است که موجب کاهش بهره&#8204;وری این صنعت شده است. کیفیت سنگ ساختمانی تابع عوامل مختلفی است و وجود ناپیوستگی&#8204;ها، حفره&#8204;ها، فضاهای خالی و لایه&#8204;بندی&#8204;های ظریف روی کیفیت سنگ تأثیر منفی دارند. در پژوهش حاضر از روش ژئوفیزیکی غیرمخرب رادار نفوذی به زمین (GPR) برای ارزیابی و کنترل کیفیت بلوک&#8204;های استخراجی تراورتن مجتمع معدنی حاجی&#8204;آباد محلات در استان مرکزی، قبل از عملیات فرآوری، استفاده شده است. برای این منظور ابتدا با استفاده از برنامه مدل&#8204;سازی عددی پیش&#8204;رو، به&#8204;روش تفاضل محدود دوبعدی بهبود یافته در حوزۀ فرکانس در محیط نرم&#8204;افزار MATLAB، پاسخ GPR دوبعدی مدل&#8204;های مصنوعی فرضی به&#8204;شکل مکعب مستطیل (معرف کوپ&#8204;های سنگی) شامل لایه&#8204;بندی&#8204;های ظریف و ناپیوستگی در جهت&#8204;های مختلف، شبیه&#8204;سازی شد تا از نتایج آن&#8204;ها برای تفسیر نگاشت&#8204;های راداری واقعی استفاده شود. نتایج مدل&#8204;سازی نشان می&#8204;دهد که پاسخ GPR مرزهای مشترک لایه&#8204;ها (ناشی از وجود لایه&#8204;بندی&#8204;های ظریف) و ناپیوستگی&#8204;های برجسته درون بلوک سنگ، در نگاشت&#8204;های راداری به&#8204;وضوح قابل تشخیص هستند. بررسی نتایج حاصل از تفسیر نگاشت&#8204;های راداری واقعی، پس از اعمال فیلترهای مختلف نیز حاکی از قابلیت بالای روش GPR در شناسایی لایه&#8204;بندی&#8204;های ظریف و ناپیوستگی&#8204;های درون بلوک&#8204;های سنگی و در نتیجه تعیین کیفیت آن&#8204;ها در محدودۀ بررسی شده است. در هر صورت در مورد داده&#8204;های واقعی به&#8204;دلیل ناهمگنی لایه&#8204;های ظریف، وجود انواع مختلف نوفه&#8204;ها و بازتاب&#8204;های چندگانه، پاسخ ناپیوستگی&#8204;های ساختاری کوچک واقع در زیر ناپیوستگی&#8204;های برجستۀ کم عمق، با پاسخ&#8204;های دیگر پوشش داده شده و قابل شناسایی نیستند</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Extended Abstract
+Introduction
+Dimension stones market is considered as an important and profitable sector of mineral deposit business due to their share in national economic performance. There exist a number of technical reports highlighting a lack of rock quality control in the sequence of quarrying and dimension stones production procedures, which has lowered the production efficiency and consequently the profitability of this strategic mineral industry in Iran. The quality of dimension stones depends on several factors which fractures, joints, voids and fine beddings are the most important factors that down-grade the quality. Therefore, foremost the quality and desirability of the building stone must be precisely determined by sampling, compressive strength testing and preparing microscopic sections. All of the mentioned evaluation methods are destructive. Moreover, sampling and performing multiple tests on all parts of a quarry or on all quarried stone blocks, is not possible. Detection of fractures hidden into the dimension stone blocks is achievable using fast, low-cost, accurate and non-destructive ground-penetrating radar (GPR) method. GPR is a high-resolution geophysical method which uses electromagnetic waves with high-frequency in order to map structures and detect buried objects in subsurface without coring or any destruction of the medium.
+&#160;
+&#160;
+Materials and methods
+In current research, GPR method has been applied to evaluate the quality of quarried travertine blocks at Haji-Abad quarry complex in Mahallat district, Markazi province, before starting any processing operation. To achieve this goal, the 2-D GPR responses of synthetic models resembling cubic dimension stone blocks containing fine layering and discontinuities, were primarily simulated using a modified 2-D finite-difference forward modeling program in the frequency-domain coded in MATLAB. Among the variety of available numerical methods, the finite-difference time-domain (FDTD) method has paid more attention due to having the simple understanding of the concepts, flexibility, simulation and modeling of complex environments and the acceptability of its responses in the applied cases. In this research, the simulation has been implemented for both calcareous and dolomitic rocks (including travertine and marbles) and granites. In the study area, the GPR data acquisition was carried out using a GPR system equipped with shielded 250 MHz central frequency antenna, 0.5 m antenna distance and 2 cm sampling intervals by monostatic common-offset reflection profiling method. In order to process, analyze and interpretation of data, Ground Vision and Radexplorer software were employed. The most important pre-processing and processing operations applied to the data to provide the final sections, comprising time-zero correction, dewowing (removing very low frequency components from the data), DC shift removal, Butterworth filtering, running average, background removal and types of amplitude gain.
+Results and Conclusion
+The results of the forward modeling show that the GPR response of fine beddings interfaces and major discontinuities hidden in the volume of dimension stone blocks are clearly detectable. Interpretation of the actual radargrams taken from a real GPR case study (Haji-Abad quarry complex) after employing various B-scan pre-processing and filtering procedures, indicates that GPR method is highly capable to detect fine beddings and discontinuities in order to evaluate the quality of dimension stone before starting any quarrying process. Validation of the obtained results of the present research was carried out on one of the blocks with a predicted large oblique joint while the existence of the large joint was proven under the cutting saw in the stone processing plant. However, it should be noted that due to the existence of inherent heterogeneity encompassing fine beddings, in addition to noises from different sources and their associated multiple reflections in real radargrams, the response of shallow major discontinuities may mask the response of minor ones located underneath or deeper, so as a result may not be detectable with routing GPR radargrams../files/site1/files/121/Ahmadi_Abstract.pdf
+&#160;
+Keywords: Dimension stone Blocks (cubes); dimension stones production; Ground Penetrating Radar (GPR); Forward modeling; Quality control; Haji-Abad mining complex in Mahallat
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>1</FPAGE>
+			<TPAGE>26</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>رضا</Name>
+				<MidName></MidName>
+				<Family>احمدی</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه صنعتی اراک، دانشکدۀ مهندسی معدن</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه صنعتی اراک</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>Rezahmadi@gmail.com</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>: Dimension stone Blocks (cubes)</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>dimension stones production</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Ground Penetrating Radar (GPR)</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Forward modeling</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Quality control</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Haji-Abad mining complex in Mahallat</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>بلوک سنگ ساختمانی (کوپ)</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>زنجیرۀ تولید سنگ</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>رادار نفوذی به زمین (GPR)</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مدل‌سازی عددی پیش‌رو</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>کنترل کیفیت</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مجتمع معدنی حاجی آباد محلات</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>. نبیان ا.، فرهادیان م.ب.، برادران م.، حمیدی انارکی غ.، &quot;سنگ‌های تزئینی و نما»، وزارت معادن و فلزات- معاونت اکتشافی و معدنی&quot; (1371). 2. فتحی ی.، &quot;شناسایی مزیت‌های نسبی و اولویت‌های بازارهای هدف صادرات سنگ‌های تزئینی ایران&quot;، مؤسسۀ مطالعات و پژوهش‌های بازرگانی (1378). 3. فهیمی‌فر ج.، &quot;تعیین بازارهای هدف سنگ‌های تزئینی&quot;، مؤسسۀ مطالعات و پژوهش‌های بازرگانی (1381). 4. سایت اینترنتی WWW.Omranbamgostaran.com. 5. احمدی ر.، &quot;چشم انداز آینده صنعت سنگ ساختمانی ایران در مقایسه با کشورهای صاحب این صنعت مانند ایتالیا، چین، هند و ترکیه&quot;، نشریۀ سنگ، معدن و صنایع وابسته ایران، چهارمین نمایشگاه سنگ، معدن و صنایع وابسته ایران، نیمور محلات (1390). 6. فهیمی‌فر ج.، &quot;بازار جهانی سنگ‌های تزئینی و سهم صادراتی ایران&quot;، انتشارات مؤسسۀ مطالعات و پژوهش‌های بازرگانی (1376). 7. وزارت صنایع و معادن، &quot;سنگ»، فصلنامه سنگ‌های تزئینی ایران&quot;، شمارۀ 22 (1379). 8. احمدی ر.، &quot;راهکارهای بهبود تکنولوژی تولید سنگ به‌منظور افزایش سهم صادرات سنگ فرآوری شده در استان مرکزی&quot;، تهران، معاونت پژوهشی دانشگاه علم و صنعت ایران (1387). 9 Porsani J. L., Sauck W. A., Ju´nior A. O. S., &quot;GPR for mapping fractures and as a guide for the extraction of ornamental granite from a quarry: A case study from southern Brazil&quot;, Journal of Applied Geophysics, 58, (2006) 177-187. 10 Luodes H., &quot;Natural stone assessment with ground penetrating radar&quot;, Estonian Journal of Earth Sciences, 57(3) (2008) 149-155. 11 Kadiglu S., &quot;Photographing layer thicknesses and discontinuities in a marble quarry with 3D GPR visualization&quot;, Journal of Applied Geophysics, 64, (2008) 109-114. 12 Arosio D., Munda S., Zanzi L., &quot;Quality control of stone blocks during quarrying activities&quot;, 14th International conference on Ground Penetrating Radar (GPR), June 4-8, Shanghai, China @ ISBN 978-1-4673-2663-6 (2012). 13 Rey J., Martínez J., Vera P., Ruiz N., Cañadas F., Montiel V., &quot;Ground-penetrating radar method used for the characterisation of ornamental stone quarries&quot;, Construction and Building Materials, 77 (2015) 439-447. 14 Arosio D., &quot;Rock fracture characterization with GPR by means of deterministic deconvolution&quot;, Journal of Applied Geophysics 126 (2016) 27-34 15. احمدی ر.، غلامی ا.، &quot;بهینه‌سازی در صنعت سنگ ساختمانی به‌منظور افزایش سهم صادرات با نگرشی بر وضعیت استان مرکزی&quot;، سومین همایش سراسری سنگ‌های ساختمانی، 6 خرداد، محلات، دانشگاه پیام نور محلات (1388) 14-2. 16. احمدی ر.، فتحیان‌پور ن.، نوروزی غ.ح.، &quot;کاربردهای ژئوتکنیکی روش رادار نفوذی به زمین (GPR) در شناسایی پارامترهای فیزیکی و هندسی ناهمگنی‌های زیرسطحی&quot;، اولین کنفرانس مهندسی الکترومغناطیس ایران، تهران، دانشگاه علم و صنعت ایران (1391).  17. احمدی ر.، فتحیان‌پور ن.، نوروزی غ.ح.، &quot;تخمین مشخصات هندسی لوله‌های انتقال آب و فاضلاب مدفون با استفاده از مدل ریاضی و شبیه‌سازی پاسخ داده‌های رادار نفوذی زمین &quot;(GPR)، همایش ملی علوم مهندسی آب و فاضلاب، کرمان، دانشگاه تحصیلات تکمیلی کرمان (1391).  18. احمدی ر.، فتحیان‌پور ن.، نوروزی غ.ح.، &quot;مطالعۀ ژئوتکنیکی بنای تاریخی سی‌و‌سه‌پل اصفهان با استفاده از روش ژئوفیزیکی رادار نفوذی زمین&quot;، همایش ملی معماری، عمران و توسعه نوین شهری، تبریز (1393). 19. احمدی ر.، فتحیان‌پور ن.، نوروزی غ.ح.، &quot;شناسایی نقاط ضعف پی سنگ صحن بنای فرهنگی-تاریخی مسجد امام اصفهان با استفاده از روش رادار نفوذی زمین&quot;، اولین همایش ملی رادار نفوذی به زمین، کرمان، دانشگاه شهید باهنر کرمان (1393). 20. احمدی ر.، فتحیان‌پور ن.، نوروزی غ.ح.، &quot;کاربردهای ژئوتکنیکی رادار نفوذی به زمین در شناسایی ناهمگنی‌های زیر سطحی مسیر حفر تونل انتقال تاسیسات برقی اصفهان&quot;، اولین همایش ملی رادار نفوذی به زمین، کرمان، دانشگاه شهید باهنر کرمان (1393). 21 Annan A. P., &quot;Ground-penetrating radar workshop notes&quot;, Sensors and Software Inc. Mississauga, ON, Canada (2001). 22 Jol H. M., &quot;Ground-Penetrating Radar theory and applications&quot;, First edition, Elsevier Science, (2009) 543 Pages. 23 Sadiku M. N. O., &quot;Numerical techniques in electromagnetic&quot;, second edition, Boca Raton London New York Washington, D.C. CRC press (2001). 24 Irving J., Knight R., &quot;Numerical modeling of ground penetrating radar in 2-D using MATLAB&quot;, Computers &amp; Geosciences, Vol 32, (2006) 1247-1258. 25. احمدی ر.، فتحیان پور ن.، نوروزی غ.ح.، &quot;بهبود مدل‌سازی پیش‌رو داده‌‌‌های رادار نفوذی به زمین (GPR) به‌روش عددی تفاضل متناهی&quot;، مجله ژئوفیزیک ایران، (3) 8، (1393) 114-130. 26 Davis J. L., Annan A. P., &quot;Ground Penetrating Radar for High-Resolution Mapping of Soil and Rock Stratigraphy&quot;, Geophysical Prospecting, 37, (1989) 531-551. 27. سایت اینترنتی http://gprrental.com/gpr-velocity-table-analysis. 28 Olhoeft G. R., &quot;Tables of room temperature electrical properties for selected rocks and minerals with dielectric permittivity statistics&quot;, United states geological survey, Denver, Colorado 80225, (1979) 24 pages. 29 Kim J. H., Cho S. J., Yi M. J., &quot;Removal of ringing noise in GPR data by signal processing&quot;, Geosciences Journal, Vol. 11, No. 1, (2007) 75-81. RADPRO/GPR V.3.0 User’s Guide. 30. احمدی ر.، &quot;بررسی و مطالعه وضعیت معادن و پتانسیل‌های معدنی سنگ‌ساختمانی استان مرکزی&quot;، تهران، معاونت پژوهشی دانشگاه علم و صنعت ایران (1382). 31. سایت اینترنتی WWW.Malags.com. ##. نبیان ا.، فرهادیان م.ب.، برادران م.، حمیدی انارکی غ.، &quot;سنگ‌های تزئینی و نما»، وزارت معادن و فلزات- معاونت اکتشافی و معدنی&quot; (1371).## 2. فتحی ی.، &quot;شناسایی مزیت‌های نسبی و اولویت‌های بازارهای هدف صادرات سنگ‌های تزئینی ایران&quot;، مؤسسۀ مطالعات و پژوهش‌های بازرگانی (1378). ##3. فهیمی‌فر ج.، &quot;تعیین بازارهای هدف سنگ‌های تزئینی&quot;، مؤسسۀ مطالعات و پژوهش‌های بازرگانی (1381). ##4. سایت اینترنتی ##WWW.Omranbamgostaran.com. 5. احمدی ر.، &quot;چشم انداز آینده صنعت سنگ ساختمانی ایران در مقایسه با کشورهای صاحب این صنعت مانند ایتالیا، چین، هند و ترکیه&quot;، نشریۀ سنگ، معدن و صنایع وابسته ایران، چهارمین نمایشگاه سنگ، معدن و صنایع وابسته ایران، نیمور محلات (1390).## 6. فهیمی‌فر ج.، &quot;بازار جهانی سنگ‌های تزئینی و سهم صادراتی ایران&quot;، انتشارات مؤسسۀ مطالعات و پژوهش‌های بازرگانی (1376). ##7. وزارت صنایع و معادن، &quot;سنگ»، فصلنامه سنگ‌های تزئینی ایران&quot;، شمارۀ 22 (1379).## 8. احمدی ر.، &quot;راهکارهای بهبود تکنولوژی تولید سنگ به‌منظور افزایش سهم صادرات سنگ فرآوری شده در استان مرکزی&quot;، تهران، معاونت پژوهشی دانشگاه علم و صنعت ایران (1387). ##9 Porsani J. L., Sauck W. A., Ju´nior A. O. S., &quot;GPR for mapping fractures and as a guide for the extraction of ornamental granite from a quarry: A case study from southern Brazil&quot;, Journal of Applied Geophysics, 58, (2006) 177-187.## 10 Luodes H., &quot;Natural stone assessment with ground penetrating radar&quot;, Estonian Journal of Earth Sciences, 57(3) (2008) 149-155.## 11 Kadiglu S., &quot;Photographing layer thicknesses and discontinuities in a marble quarry with 3D GPR visualization&quot;, Journal of Applied Geophysics, 64, (2008) 109-114. ##12 Arosio D., Munda S., Zanzi L., &quot;Quality control of stone blocks during quarrying activities&quot;, 14th International conference on Ground Penetrating Radar (GPR), June 4-8, Shanghai, China @ ISBN 978-1-4673-2663-6 (2012). ##13 Rey J., Martínez J., Vera P., Ruiz N., Cañadas F., Montiel V., &quot;Ground-penetrating radar method used for the characterisation of ornamental stone quarries&quot;, Construction and Building Materials, 77 (2015) 439-447. ##14 Arosio D., &quot;Rock fracture characterization with GPR by means of deterministic deconvolution&quot;, Journal of Applied Geophysics 126 (2016) 27-34## 15. احمدی ر.، غلامی ا.، &quot;بهینه‌سازی در صنعت سنگ ساختمانی به‌منظور افزایش سهم صادرات با نگرشی بر وضعیت استان مرکزی&quot;، سومین همایش سراسری سنگ‌های ساختمانی، 6 خرداد، محلات، دانشگاه پیام نور محلات (1388) 14-2.## 16. احمدی ر.، فتحیان‌پور ن.، نوروزی غ.ح.، &quot;کاربردهای ژئوتکنیکی روش رادار نفوذی به زمین (GPR) در شناسایی پارامترهای فیزیکی و هندسی ناهمگنی‌های زیرسطحی&quot;، اولین کنفرانس مهندسی الکترومغناطیس ایران، تهران، دانشگاه علم و صنعت ایران (1391).##  17. احمدی ر.، فتحیان‌پور ن.، نوروزی غ.ح.، &quot;تخمین مشخصات هندسی لوله‌های انتقال آب و فاضلاب مدفون با استفاده از مدل ریاضی و شبیه‌سازی پاسخ داده‌های رادار نفوذی زمین &quot;(GPR)، همایش ملی علوم مهندسی آب و فاضلاب، کرمان، دانشگاه تحصیلات تکمیلی کرمان (1391).##  18. احمدی ر.، فتحیان‌پور ن.، نوروزی غ.ح.، &quot;مطالعۀ ژئوتکنیکی بنای تاریخی سی‌و‌سه‌پل اصفهان با استفاده از روش ژئوفیزیکی رادار نفوذی زمین&quot;، همایش ملی معماری، عمران و توسعه نوین شهری، تبریز (1393).## 19. احمدی ر.، فتحیان‌پور ن.، نوروزی غ.ح.، &quot;شناسایی نقاط ضعف پی سنگ صحن بنای فرهنگی-تاریخی مسجد امام اصفهان با استفاده از روش رادار نفوذی زمین&quot;، اولین همایش ملی رادار نفوذی به زمین، کرمان، دانشگاه شهید باهنر کرمان (1393). ##20. احمدی ر.، فتحیان‌پور ن.، نوروزی غ.ح.، &quot;کاربردهای ژئوتکنیکی رادار نفوذی به زمین در شناسایی ناهمگنی‌های زیر سطحی مسیر حفر تونل انتقال تاسیسات برقی اصفهان&quot;، اولین همایش ملی رادار نفوذی به زمین، کرمان، دانشگاه شهید باهنر کرمان (1393).## 21 Annan A. P., &quot;Ground-penetrating radar workshop notes&quot;, Sensors and Software Inc. Mississauga, ON, Canada (2001).## 22 Jol H. M., &quot;Ground-Penetrating Radar theory and applications&quot;, First edition, Elsevier Science, (2009) 543 Pages.## 23 Sadiku M. N. O., &quot;Numerical techniques in electromagnetic&quot;, second edition, Boca Raton London New York Washington, D.C. CRC press (2001). ##24 Irving J., Knight R., &quot;Numerical modeling of ground penetrating radar in 2-D using MATLAB&quot;, Computers &amp; Geosciences, Vol 32, (2006) 1247-1258. ##25. احمدی ر.، فتحیان پور ن.، نوروزی غ.ح.، &quot;بهبود مدل‌سازی پیش‌رو داده‌‌‌های رادار نفوذی به زمین (GPR) به‌روش عددی تفاضل متناهی&quot;، مجله ژئوفیزیک ایران، (3) 8، (1393) 114-130. ##26 Davis J. L., Annan A. P., &quot;Ground Penetrating Radar for High-Resolution Mapping of Soil and Rock Stratigraphy&quot;, Geophysical Prospecting, 37, (1989) 531-551.## 27. سایت اینترنتی http://gprrental.com/gpr-velocity-table-analysis. ##28 Olhoeft G. R., &quot;Tables of room temperature electrical properties for selected rocks and minerals with dielectric permittivity statistics&quot;, United states geological survey, Denver, Colorado 80225, (1979) 24 pages. ##29 Kim J. H., Cho S. J., Yi M. J., &quot;Removal of ringing noise in GPR data by signal processing&quot;, Geosciences Journal, Vol. 11, No. 1, (2007) 75-81. RADPRO/GPR V.3.0 User’s Guide. ##30. احمدی ر.، &quot;بررسی و مطالعه وضعیت معادن و پتانسیل‌های معدنی سنگ‌ساختمانی استان مرکزی&quot;، تهران، معاونت پژوهشی دانشگاه علم و صنعت ایران (1382). ##31. سایت اینترنتی WWW.Malags.com.  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>بررسی آزمایشگاهـی تأثیر درصد تراکم بر نشست ناشی از تونل سازی تمام مقطع در ماسه</TitleF>
+		<TitleE>An experimental study on the effect of relative density on the settlement induced by TBM</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>حفر تونل در زمین&#8204;های نرم موجب تغییر در توزیع تنش&#8204;های درجا و جابه&#8204;جایی خاک پیرامون آن می&#8204;شود. این جابه&#8204;جایی&#8204;ها ممکن است موجب بروز آسیب در سازه&#8204;های سطحی و زیرسطحی مجاور تونل شود. بنابرین تخمین اندازه و منحنی نشست ناشی از حفر تونل و تعیین پارامترهای مؤثر بر آن اهمیت ویژه&#8204;ای دارد. روش&#8204;های تجربی و تحلیلی متعددی را محققان مختلف برای پیش&#8204;بینی نشست زمین ارائه کرده&#8204;اند. از جمله می&#8204;توان به&#8204;روش تجربی پک (1969)، به&#8204;عنوان رایج&#8204;ترین روش برای تخمین منحنی نشست زمین اشاره کرد. در مقاله حاضر با استفاده از مدل&#8204;سازی فیزیکی انجام یافته تحت شتاب گرانشی، به بررسی تأثیر درصد تراکم ماسه بر منحنی نشست می&#8204;پردازیم. فرآیند حفر تونل، از طریق اعمال افت حجم در تراز تونل انجام می&#8204;شود. سپس جابه&#8204;جایی خاک با استفاده از روش پردازش تصویر اندازه&#8204;گیری شده و در نهایت منحنی نشست به&#8204;دست آمده با منحنی گوسی پک برازش می&#8204;شود. با انجام آزمایش روی ماسه در دو حالت متراکم و شل و تحلیل نتایج به&#8204;دست آمده مشخص شد با افزایش درصد تراکم، مقدار نشست کاهش یافته و منحنی نشست عریض&#8204;تر می&#8204;شود. هم&#8204;چنین حجم افت زمین در اعماق مختلف با افت زمین موجود در تراز تونل برابر نیست</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Extended Abstract
+Paper pages (319-342)
+Tunneling in soft grounds causes to changes in displacements and subsequently in-situ stresses around ground. These displacements may damage structural assets. Thus, estimating the magnitude and shape of settlement curve is necessary. There are several empirical and analytical methods for predicting settlement. For example, Peck&#8217;s empirical method is well known method for predicting settlement due to tunneling. Tunneling process is done by imposing volume loss in tunnel. Then, soil displacement is measured by using image processing technique and that data is fitted to Gaussian curve. By conducting tests in loose and dense sands, it is concluded that by increasing relative density of the soil, the magnitude of settlement decreases and the settlement trough width will be increased. Also soil volume loss is not the same as the tunnel volume loss.&#160;&#160;
+Introduction
+Many researchers investigated settlement due to tunneling but there is a lack of research about the effect of relative density on settlement. Marshall et al. (2012) by conducting centrifuge tests in high density sandy soil, showed that settlement trough is affected by tunnel size, tunnel depth and tunnel volume loss. Zhou et al. (2014) by performing several tests in loose, medium and dense sand, examined the effect of relative density on settlement and showed that by decreasing the relative density the magnitude of settlement increases and settlement trough width will be decreased. In this paper by using 1g physical modeling (Figure 1) which is designed in Sahand University of Technology, the effect of relative density on settlement has been studied.
+Material and methods
+Simulation of tunnel volume loss is carried out by using two different diameter tubes as a shield and lining (Figure 2), while pulling out the larger tube volume loss is imposed. Also by changing tube diameter different volume losses have been applied. Measuring of soil displacements is achieved by image processing technique. For this purpose, different photos are taken from the whole process of the test by digital camera and by using Geo PIV, settlement of ground is determined.&#160;
+Results and discussions
+Experiments were conducted in loose and dense silica sands and the measured data have been fitted to Gaussian curve. The result showed that Peck equation fitted well to surface and sub-surface settlement data. As shown in Figures 3 and 4, contour of displacement curve versus normalized tunnel depth and distance versus normalized tunnel diameter indicate that in dense sands most of the displacement occurred in the region which placed in distance of 1.25 times tunnel diameter and in loose sands in the region of 0.6 times tunnel diameter. Thus, settlement trough width in loose sands is narrower. Also by measuring soil volume loss in loose and dense sands at different levels (Figure5) it is concluded that in loose sands due to less dilation, more volume loss is transferred to higher levels.
+Conclusion
+The following main conclusion can be drawn:
+1. Gaussian curve predicts well surface and subsurface transverse settlements but selection of its parameters requires more accuracy that may result in inaccurate prediction.
+2. Settlement curve in loose sands is narrower than dense sands.
+3. Displacement and soil volume loss in loose sand are more than dense sand../files/site1/files/121/Emami_Abstract.pdf
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>27</FPAGE>
+			<TPAGE>40</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>مهرداد</Name>
+				<MidName></MidName>
+				<Family>امامی تبیریزی</Family>
+				<NameE>mehrdad</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Emamitabrizi</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه سهند، دانشکدۀ مهندسی عمران، تبریز</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه سهند تبریز</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>امین</Name>
+				<MidName></MidName>
+				<Family>عبدلی فاضل</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه سهند، دانشکدۀ مهندسی عمران، تبریز</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه سهند تبریز</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>سالار</Name>
+				<MidName></MidName>
+				<Family>فرجی</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه سهند، دانشکدۀ مهندسی عمران، تبریز</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه سهند تبریز</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>نشست</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تونل</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تراکم ماسه</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مدل‌سازی فیزیکی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تصویر</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1. Guglielmetti V., Grasso P., Mahtab A., Xu Sh., &quot;Mechanized Tunnelling in Urban Areas&quot;, London: Taylor &amp; Francis Group. ISBN-13: 978-0-415-42010-5 (2008). 2. Chapman D., Metje N., Stärk A., &quot;Introduction to Tunnel Construction&quot; Taylor &amp; Francis e-Library, ISBN-13: 978-0-203-89515-3 (2010). 3. عبدلی فاضل ا.، &quot;بررسی نشست در زمین‌های نرم به علت تونل سازی مکانیزه&quot;، پایان‌نامۀ کارشناسی ارشد، دانشکدۀ مهندسی عمران، دانشگاه صنعتی سهند تبریز (1393). 4. Pinto F., Zymnis D., Whittle A., &quot;Ground Movements due to Shallow Tunnels in Soft Ground. II: Analytical Interpretation and Prediction&quot;, J. Geotech, Geoenviron, Eng 140 (4) (2013). 5. Peck R. B., &quot;Deep Excavations and Tunneling in Soft Ground&quot;, Proc. 7' Conf on Soil Mechanics and Foundation Engineering, Mexico City, (1969) 225-290 6. Mair R. J., Taylor R., Burland J., &quot;Prediction of ground movements and assessment of risk of building damage due to bored tunneling&quot; Conference on Geotechnical Aspects of Underground Construction in Soft Ground, London (1996) 713-718 7. Loganathan N., &quot;An Innovative Method for Assessing Tunnelling- Induced Risks to Adjacement Structures&quot;, PB William Barclay Parsons Fellowship Monograph 25 (2011). 8. Marshall A. M., Farrell R. P., Klar A., Mair R. J., &quot;Tunnels in sands the effect of size, depth, and volume loss on greenfield displacements&quot; Geotechnique 62 (5), (2012) 385-399  9. Zhou B., Marshall A., Yu H., &quot;Effect of Relative Density on Settlements above Tunnels in Sands&quot;, Tunneling and Underground Construction, (2014) 96-105  10. White D. J., Take W. A., Bolton M. D., &quot;Soil deformation measurement using particle image velocimetry (PIV) and photogrammetry&quot;, Geotechnique, 53 (7) (2003) 619-631 ##1. Guglielmetti V., Grasso P., Mahtab A., Xu Sh., &quot;Mechanized Tunnelling in Urban Areas&quot;, London: Taylor &amp; Francis Group. ISBN-13: 978-0-415-42010-5 (2008). ##2. Chapman D., Metje N., Stärk A., &quot;Introduction to Tunnel Construction&quot; Taylor &amp; Francis e-Library, ISBN-13: 978-0-203-89515-3 (2010).## 3. عبدلی فاضل ا.، &quot;بررسی نشست در زمین‌های نرم به علت تونل سازی مکانیزه&quot;، پایان‌نامۀ کارشناسی ارشد، دانشکدۀ مهندسی عمران، دانشگاه صنعتی سهند تبریز (1393).## 4. Pinto F., Zymnis D., Whittle A., &quot;Ground Movements due to Shallow Tunnels in Soft Ground. II: Analytical Interpretation and Prediction&quot;, J. Geotech, Geoenviron, Eng 140 (4) (2013). ##5. Peck R. B., &quot;Deep Excavations and Tunneling in Soft Ground&quot;, Proc. 7' Conf on Soil Mechanics and Foundation Engineering, Mexico City, (1969) 225-290 ##6. Mair R. J., Taylor R., Burland J., &quot;Prediction of ground movements and assessment of risk of building damage due to bored tunneling&quot; Conference on Geotechnical Aspects of Underground Construction in Soft Ground, London (1996) 713-718## 7. Loganathan N., &quot;An Innovative Method for Assessing Tunnelling- Induced Risks to Adjacement Structures&quot;, PB William Barclay Parsons Fellowship Monograph 25 (2011). ##8. Marshall A. M., Farrell R. P., Klar A., Mair R. J., &quot;Tunnels in sands the effect of size, depth, and volume loss on greenfield displacements&quot; Geotechnique 62 (5), (2012) 385-399 ## 9. Zhou B., Marshall A., Yu H., &quot;Effect of Relative Density on Settlements above Tunnels in Sands&quot;, Tunneling and Underground Construction, (2014) 96-105 ## 10. White D. J., Take W. A., Bolton M. D., &quot;Soil deformation measurement using particle image velocimetry (PIV) and photogrammetry&quot;, Geotechnique, 53 (7) (2003) 619-631 ## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>مقایسۀ تحلیل معادل خطی و غیرخطی در پاسخ ساختگاه (مطالعۀ موردی طبس)</TitleF>
+		<TitleE>Comparison of equivalent linear and non_linear analysis of site response (case study in tabas)</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>تأثیرات زمین&#8204;شناسی سطحی بر حرکت&#8204;های لرزه&#8204;ای، قابل قبول و شناخته شده است و این آثار را می&#8204;توان عاملی مهم در جنبش ناشی از زمین&#8204;لرزه قلمداد کرد. بررسی شدت و پراکندگی خرابی&#8204;ها در زلزله&#8204;های دهه&#8204;های اخیر، اهمیت اثرات ساختگاهی و شرایط زمین&#8204;شناسی سطحی را بیش از پیش نمایان ساخته است. از دیدگاه مهندسی اهمیت زلزله&#8204;ها به&#8204;دلیل تأثیراتی است که این زلزله&#8204;ها در سازه&#8204;هایی نظیر سدها، نیروگاه&#8204;ها، پل&#8204;ها، مناطق مسکونی و تأسیسات صنعتی ایجاد می&#8204;کند که در اکثر موارد این سازه&#8204;ها نه در سطح توده&#8204;های سنگی بلکه بر سطح زمین یعنی روی لایه&#8204;های آبرفتی واقع بر سنگ بستر بنا می&#8204;شوند. اثر لایه&#8204;های خاک بر امواج زمین لرزه ماحصل یک فرایند پراکنشی پیچیده است که تحت شرایط پایدار خاک این اثر می&#8204;تواند به&#8204;صورت بزرگ&#8204;نمایی دینامیکی باشد که از آن به&#8204;عنوان تشدید یاد می&#8204;شود. به&#8204;منظور تعیین اثر ساختگاه و تأثیر دادن آن در ویژگی&#8204;های جنبش نیرومند زمین روش&#8204;های متعددی وجود دارد، که از میان آن&#8204;ها روش&#8204;های عددی، کم هزینه&#8204;تر و بازه مکانی بیش&#8204;تری را تحت پوشش قرار می&#8204;دهند و به&#8204;همین دلیل معمولاً از این روش&#8204;ها برای ارزیابی تحلیل پاسخ در برابر ارتعاشات زلزله استفاده می&#8204;شود. در این مقاله سعی شده است با استفاده از داده&#8204;های حاصل از حفاری 5 گمانه در ساختگاه شهر طبس به بررسی اثر ساختگاه در این شهر و هم&#8204;چنین مقایسه روش&#8204;های عددی تحلیل ساختگاه نظیر تحلیل خطی معادل و غیرخطی برای دوره&#8204;های بازگشت&#8204; زلزله 75، 475 و 2475 سال با استفاده از نرم&#8204;افزارهای EERA و NERA پرداخته شود. با جمع&#8204;بندی میزان تقویت و هم&#8204;چنین حداکثر شتاب در سطح زمین می&#8204;توان این نکته را بیان کرد که منطقه 
+دیهشک و نواحی مرکزی شهر طبس بیش&#8204;ترین شرایط تشدید را دارد. از طرف دیگر منطقۀ جنوب محله سرآسیاب و سپس ناحیۀ امام&#8204;زاده بیش&#8204;ترین سختی و کم&#8204;ترین تشدید دارد. براساس پژوهش&#8204;های صورت گرفته، پیشنهاد می&#8204;شود تا برنامه توسعۀ شهری بیش&#8204;تر به&#8204;سمت امام&#8204;زاده حسین&#8204;بن&#8204;موسی الکاظم (ع) هدایت شود تا ضمن برخورداری ار ساختگاه مناسب&#8204;تر رعایت فاصله&#8204;داری از زون گسلش نیز اعمال شود. با توجه به برآورد دست بالای EERA و همچنین رفتار غیرخطی خاک برای زلزله با دوره بازگشت بالا (2475 سال) از نرم&#8204;افزار NERA برای تحلیل اثر ساختگاه استفاده شد تا بتوان حداکثر شتاب سطح واقع&#8204;بینانه&#8204;تری را به&#8204;دست آورد.&#160;</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Introduction
+The effect of surface geology on seismic movement is known and acceptable and this effects can consider important factor in movement resulting from earthquake. studying intensity and dispersal of recent decade earthquake destruction indicated importance of construction effects and surface geology conditions more than ever. From view point of&#160; engineering, earthquake importance is in light of effects that these earthquakes is created in construct such as dams, powerhouses, bridges, residential areas and industrial installations that in most cases, this constructs are building not only on rack mass surface but on earth surface, e.g . alluvial layers placed on bed stone. The effect of soil layers on earthquake waves is result of complex processes that this effect can exist as dynamic support under stability soil conditions that is called as intensification from it.
+Material and methods
+There are multiple methods in order to determining effect of construct and affecting in on earth potent movement features, that among them are covered less-cost numeral methods and more site output and beacuse of reason are using from these methods in order to analyzing respond to earthquake vibrations. In this paper try to using data resulting from drining 5 boreholes on Tabas city construction are studying the effect of and also comparing numeral methods of analyzing building such as equivalent linear and non-linear analysis for earthquake return periods of 75, 475, 2475 using NERA and EERA softwares.
+Results
+Taken together reinforcement rate and also maximum velocity in earth surface can explain that Dehshak region and Tabas center areas include more intensification conditions. On the other hand, south zone of Sarasyab sector and then Imamzade area include higher solidity and least intensification. Based on done studies are suggested to guided urban development programm more toward Hossein &#8211; ebne - Mousakazem Emamzadeh in order to exert from more suitable buildings. Also, regarding to EERA high-leval evalution and non-linear soil bahavior for earthquake with 2475 high return period is used from NERA software for analyzing construction effect to obtain maxium more realistic surface velocity ../files/site1/files/121/Rajabzadehi_Abstract(1).pdf</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>41</FPAGE>
+			<TPAGE>62</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>حامد</Name>
+				<MidName></MidName>
+				<Family>رجب زاده</Family>
+				<NameE>Hamed</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Rajabzade</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه یزد</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه یزد</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>حمید</Name>
+				<MidName></MidName>
+				<Family>مهرنهاد</Family>
+				<NameE>Hamid</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Mehrnahad</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه یزد</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه یزد</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>construction effect</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>equivalent linear analysis</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>non-linear analysis</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>EERA</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>NERA</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>اثر ساختگاه</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تحلیل خطی معادل</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تحلیل غیرخطی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>EERA</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>NERA</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1. یزدان‌پرست م.، &quot;بررسی اثر ویژگی‌های زمین‌شناسی و ژئوتکنیکی بر بزرگ‌نمایی لرزه‌ای ساختگاه (مطالعه موردی)&quot;، پایان‌نامۀ کارشناسی ارشد عمران، گرایش خاک و پی، دانشگاه بین‌المللی امام خمینی(ره) (آذرماه1391).  2. صحرائی م.، &quot;بررسی مشخصات دینامیکی خاک منطقۀ میبد با استفاده از نتایج مطالعات ژئوتکنیک لرزه‌ای&quot;، عمران-خاک و پی، دانشگاه یزد (1389).  3. دهقانی ز.، &quot;بررسی پتانسیل تشدید خاک ساختگاه شهر اردکان با استفاده از روش زئوفیزیکی امواج نزولی&quot;، پایان نامۀ کارشناسی ارشد، زمین‌شناسی‌مهندسی، دانشگاه یزد (1390). 4. عصاری م.، &quot;بررسی خصوصیات زمین‌شناسی‌مهندسی ساختگاه با استفاده از روش ژئوفیزیکی امواج نزولی در منطقه شهری طبس&quot;، پایان‌نامۀ کارشناسی ارشد، زمین‌شناسی‌مهندسی، دانشگاه یزد (1387). 5. ادیب ا.، مهرنهاد ح.، &quot;گزارش مطالعات ریز پهنه‌بندی ژئوتکنیکی لرزه‌ای شهر طبس&quot;، جلد اول، لرزه‌زمین‌ساخت و برآورد خطر زمین‌لرزه، پژوهشکدۀ سوانح طبیعی (1386). 6. قلندرزاده ع.، معتمد ر.، سدیدخوی ا.، &quot;ریزپهنه‌بندی لرزه شهر ارومیه با استفاده از اندازه‌گیری‌های میکروترمور&quot;، اردیبهشت، تهران (1382) 22-24. 7. Arsalan H., Siyahi B., &quot;A comparative study on linear and nonlinear site response analysis&quot; Environ Geol (2006) DIO 10.1007/s00254-006-0291-4. 8. Arsalan H., Siyahi B., &quot;Effect of nonlinearity on site response and ground motion due to earthquake excitation&quot;, Bull Eng Environ (2009) DIO 10.1007/S 10064-009-0254-6.  9. Bardet J. P., Ichii K., Lin C. H., &quot;EERA, A computer program for Equivalent-linear Earthquake site Response Analyses of layered soil deposits&quot;, Department of Civil Engineering, August (2000).  10. میرحسینی م.، عارف‌پور ب.، &quot;مهندسی ژئوتکنیک لرزه‌ای&quot; انتشارات پژوهشگاه بین‌المللی زلزله‌شناسی و مهندسی زلزله، چاپ اول (1378). 11. Segelman D. J., Star M. J., &quot;Inversion of Masing models via continuous Iwan systems&quot;, International Journal of Non-Linear Mechanics, 43 (2008) 74-80.  12. Yoshida N., &quot;Seismic Ground Response Analysis&quot;, Department of Civil and Environment Engineering, Tohoko Gakuin University, Miyagi, Japan (2015).  13. Bardet J. P., Tobita T., &quot;NERA, A computer program for Nonlinear Earthquake site Response Analyses of layered soil deposits&quot;, Department of Civil Engineering, April (2001). ##1. یزدان‌پرست م.، &quot;بررسی اثر ویژگی‌های زمین‌شناسی و ژئوتکنیکی بر بزرگ‌نمایی لرزه‌ای ساختگاه (مطالعه موردی)&quot;، پایان‌نامۀ کارشناسی ارشد عمران، گرایش خاک و پی، دانشگاه بین‌المللی امام خمینی(ره) (آذرماه1391). ## 2. صحرائی م.، &quot;بررسی مشخصات دینامیکی خاک منطقۀ میبد با استفاده از نتایج مطالعات ژئوتکنیک لرزه‌ای&quot;، عمران-خاک و پی، دانشگاه یزد (1389). ## 3. دهقانی ز.، &quot;بررسی پتانسیل تشدید خاک ساختگاه شهر اردکان با استفاده از روش زئوفیزیکی امواج نزولی&quot;، پایان نامۀ کارشناسی ارشد، زمین‌شناسی‌مهندسی، دانشگاه یزد (1390).## 4. عصاری م.، &quot;بررسی خصوصیات زمین‌شناسی‌مهندسی ساختگاه با استفاده از روش ژئوفیزیکی امواج نزولی در منطقه شهری طبس&quot;، پایان‌نامۀ کارشناسی ارشد، زمین‌شناسی‌مهندسی، دانشگاه یزد (1387). ##5. ادیب ا.، مهرنهاد ح.، &quot;گزارش مطالعات ریز پهنه‌بندی ژئوتکنیکی لرزه‌ای شهر طبس&quot;، جلد اول، لرزه‌زمین‌ساخت و برآورد خطر زمین‌لرزه، پژوهشکدۀ سوانح طبیعی (1386). ##6. قلندرزاده ع.، معتمد ر.، سدیدخوی ا.، &quot;ریزپهنه‌بندی لرزه شهر ارومیه با استفاده از اندازه‌گیری‌های میکروترمور&quot;، اردیبهشت، تهران (1382) 22-24.## 7. Arsalan H., Siyahi B., &quot;A comparative study on linear and nonlinear site response analysis&quot; Environ Geol (2006) DIO 10.1007/s00254-006-0291-4.## 8. Arsalan H., Siyahi B., &quot;Effect of nonlinearity on site response and ground motion due to earthquake excitation&quot;, Bull Eng Environ (2009) DIO 10.1007/S 10064-009-0254-6. ## 9. Bardet J. P., Ichii K., Lin C. H., &quot;EERA, A computer program for Equivalent-linear Earthquake site Response Analyses of layered soil deposits&quot;, Department of Civil Engineering, August (2000).##  10. میرحسینی م.، عارف‌پور ب.، &quot;مهندسی ژئوتکنیک لرزه‌ای&quot; انتشارات پژوهشگاه بین‌المللی زلزله‌شناسی و مهندسی زلزله، چاپ اول (1378).## 11. Segelman D. J., Star M. J., &quot;Inversion of Masing models via continuous Iwan systems&quot;, International Journal of Non-Linear Mechanics, 43 (2008) 74-80. ## 12. Yoshida N., &quot;Seismic Ground Response Analysis&quot;, Department of Civil and Environment Engineering, Tohoko Gakuin University, Miyagi, Japan (2015).##  13. Bardet J. P., Tobita T., &quot;NERA, A computer program for Nonlinear Earthquake site Response Analyses of layered soil deposits&quot;, Department of Civil Engineering, April (2001). ## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>ارزیابی ریسک سلامت و منشأ عناصر  بالقوه سمناک در خاک مکان‌های دفن زباله‌های غیرمهندسی استان کرمانشاه  </TitleF>
+		<TitleE>Source and health risk assessment of potentially toxic elements in the unengineered landfills soil of Kermanshah Province</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>در این پژوهش غلظت عناصر آرسنیک، کادمیم، کروم، نیکل، سرب، روی و مس در 30 نمونۀ خاک سطحی 8 مکان دفن زباله در استان کرمانشاه تعیین شد. ارزیابی ریسک سلامت برای مشخص شدن عوارض سرطانزایی و غیرسرطان&#8204;زایی در بزرگسالان و کودکان استفاده شد. علاوه بر این مسیرهای در معرض قرار گیری آلاینده&#8204;های مهم (جذب پوستی، تنفس و مصرف) در خاک مکان&#8204;های دفن زباله بررسی شد. ترتیب میانگین غلظت عناصر انتخابی نمونه&#8204;های خاک به&#8204;&#8204;صورت روی&#60; &#160;نیکل&#60; سرب&#60; &#160;کروم&#60; مس &#60; آرسنیک&#60; کادمیم است. مقایسۀ میانگین غلظت عناصر انتخابی در نمونه&#8204;های خاک با مقدار میانگین خاک جهانی نشان می&#8204;دهد که عناصر روی، سرب و نیکل در خاک محدودۀ بررسی شده غلظت بیش&#8204;تر دارند. نتایج عامل آلودگی(CF) نشان داد که عناصر کادمیم، مس، روی و سرب آلودگی بسیار زیاد دارند. ارزیابی نتایج عامل غنی&#8204;شدگی (EF) مشابه با عامل آلودگی برای عناصر کادمیم، کروم، سرب، مس و روی نشان&#8204;دهندۀ غنی&#8204;شدگی بیش&#8204;تراین عناصر تحت تاثیر منشأهای انسان&#8204;&#8204;زاد است. مقادیر ضریب خطر در بزرگسالان برای عنصر کروم بیش&#8204;تر از یک و برای عناصر کادمیم، سرب، مس، آرسنیک، نیکل و روی کم&#8204;تر از یک در نمونه&#8204;های خاک محل&#8204;های دفن زباله&#8204;های پاوه، جوان&#8204;رود، اسلام&#8204;آباد غرب، روانسر و کرمانشاه به&#8204;دست آمد. نتایج ضریب خطر بر مبنای جذب پوستی و مصرف درکودکان به&#8204;ترتیب برای عناصر آرسنیک و سرب در محل دفن زباله&#8204;های پاوه، جوانرود، روانسر، کرمانشاه، سنقر و در محل دفن زباله&#8204;های قصر شیرین و اسلام آباد غرب بیش&#8204;تر از یک به&#8204;دست آمد که نشان&#8204;دهندۀ پتانسیل ریسک در این مناطق است.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Extended Abstract
+Introduction
+The presence of potentially toxic elements in the environment and especially in soil has been one of the greatest concerns due to their health implications. Potentially toxic elements from anthropogenic sources tend to be more mobile than those from lithogenic or pedogenic sources.&#160; Generally, the distribution of potentially toxic elements is influenced by the nature of parent materials, climatic conditions, and their relative mobility depending on soil parameters, such as mineralogy, texture and class of soil. In the inhabited, and industrial areas, vicinity to the un-engineered landfills, excess accumulation of toxic elements in surface soils can directly threaten wellbeing of exposed inhabitants via ingestion, inhalation and dermal contact routes. A few studies conducted on risk assessment of potentially toxic elements in soils of Kermanshah province, west of Iran. Soil in the study area is susceptible to contamination by anthropogenic activities in the form of industrial wastewater, agricultural activities, solid waste, runoff, atmospheric deposition and especially un-engineered landfills. The presence of toxic elements in soil around of un-engineered landfills without proper consideration to the environmental protection measures, will certainly lead to a significant environmental hazard in Kermanshah province. Therefore, the main purposes of this study are to evaluate the contamination levels, health risk assessment, and source identification of As, Cd, Cr, Cu, Ni, Pb and Zn in the Gasre Shirin, Gilane Gharb, Paveh, Javanrood, Eslamshahr, Ravansar, Kermanshah and Sanghar un-engineered landfills.
+&#160;
+Material and methods
+&#160;&#160;&#160;&#160; A total of 30 topsoil samples were collected (0-20 cm depth) from the eight un-engineered landfills of the Kermanshah province. In order to achieve a representative sample, composite samples were prepared by mixing the four subsamples taken at each corners of 2&#215;2 m square cell because composite sampling yields homogenized samples for analyses. The subsamples were mixed and a final sample of 1 kg was taken by repeated coning and quartering. To determine background concentration of heavy metals, eight soil samples were collected from areas far from known sources of contamination (40-60 cm depth).
+The collected samples were immediately stored in polyethylene bags and air-dried in the laboratory at room temperature. Then, samples passed through a 2mm stainless steel sieve. The &#60;2mm fraction was ground in an agate mortar and pestle and passed through a 63 micron sieve. In order to determine the concentration of As, Cd, Cr, Cu, Ni, Pb and Zn complete dissolution of soil samples (approximately 1 g of each) was carried out using a mixture of HF, HNO3, HClO4 and H2O2 in a Teflon beaker on sand bath at atmospheric pressure. The concentrations of the selected elements were measured by an accredited commercial laboratory (Zar Azma Laboratory, Iran) using ICP-MS methods. Data quality was ensured through the use of internal duplicates, blanks, and HRM. The precision and accuracy of measurements are 95% and +/-5% respectively.
+The assessment of soil contamination was carried out using geochemical indices including contamination factor (CF), modified degree of contamination (mCd) and enrichment factor (EF). The methodology used for the health risk assessment was based on the guidelines and Exposure Factors Handbook of US Environmental Protection Agency. The average daily doses (ADDs) of heavy metals received through ingestion, inhalation, and dermal contact for both adults and children were calculated. In this study, hazard quotient (HQ), hazard index (HI) and carcinogenic risk (RI) methods were used to estimate non-carcinogenic and carcinogenic effects of heavy metals. The HQ was calculated by subdividing ADD of a heavy metal to its reference dose (RfD) for the same exposure pathway(s). If the ADD exceeds the RfD, HQ&#62;1, it is likely that there will be adverse health effects, whereas if the ADD is less than the RfD, HQ&#60;1, it is considered that there will be no adverse health effects. A hazard index (HI), the sum of HQs, which means the total risk of non- carcinogenic element via three exposure pathways for single element of &#60;1 indicates no adverse health effects, while HI values &#62;1 show possible adverse health effects. Carcinogenic risk is regarded as the probability of an individual developing any type of cancer in the whole life time due to exposure to carcinogenic hazards and was calculated for As and Cd as follows:
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (1)
+The value of SF represents the probability of developing cancer per unit exposure level of mg/kg day. The acceptable risk range for carcinogens is set to 10-6 to by the USEPA, so that RI values below 10-6 do not require further action, while risks greater than 10-4 are considered to be of concern and require additional action to reduce the exposure and resulting risk.
+Results and discussion
+The soil pH ranges from 7.01 to 8.06, with an average value of 7.51 suggesting neutral conditions. Organic carbon (OC) contents of soil samples ranged from 0.06% to 4.91% (average 1.59%). In this study, based on the USDA textural triangle the main soil textures are loamy, clay loam and sandy loam, respectively.
+The average abundance order of selected elements content is: Zn&#62;Ni&#62;Pb&#62;Cr&#62;Cu&#62;As&#62;Cd. Comparison of mean concentration of the potentially toxic elements in the soil samples with mean worldwide values&#160;reveals higher Zn, Pb and Ni contents in this area.
+The results of contamination factor indicate very high contamination for Cd, Cu, Pb and Zn. Modified Degree of Contamination (mCd) calculated based on background values proves very high degrees of contamination for selected trace elements in Gasre Shirin and Eslamshahr landfills soil samples The results of enrichment factor evaluation similarity to contamination factor indicate that Cd, Cr, Pb, Cu and Zn have more influence from anthropogenic sources. The maximum EF of Pb, Zn and Cd and Cu is 346.7,124 and 51.9 respectively, which means very high enrichment in Ghasre Shirin landfill soil samples.
+Exposure doses of 7 heavy metals in soil samples of un-enggenerd landfills for children and adults were calculated. The total exposure HQs calculated based on adults from ingestion, dermal contact, and inhalation for Cd, Cu, Ni, Zn, As and Pb was less than 1(except Ghasreshirin landfill). The hazard quotient values based on the adult risk for Cr were greater than 1.0. The results show that HQ for Pb and As in children by dermal and ingestion pathway is exceeded 1.0 in soil samples of Paveh, Javanrood, Ravansar, Kermanshah and Sangher landfills and Ghasreshirin and Eslamshahr landfills, respectively.
+Conclusion
+The concentration, pollution level, potential sources and health risk of potentially toxic elements in eight landfills top soil of Kermanshah province were investigated in this study. The following conclusions were drawn from this research.
+- Compared with the background values of As, Cd, Cr, Cu, Ni, Pb and Zn in soils of Kermanshah Province, landfills soil have elevated metal concentrations as a whole.
+- According to high contamination level and health risk of some studied potentially toxic elements, and also due to the proximity of contamination sources to residential district of the study area, more attention should be paid to manage and reduce contamination.
+- These results provide basic information of toxic elements pollution control and environment management in the area../files/site1/files/121/Shakerii_Abstract.pdf</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>63</FPAGE>
+			<TPAGE>84</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>عطا</Name>
+				<MidName></MidName>
+				<Family>شاکری</Family>
+				<NameE>Ata</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>shakeri</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکدۀ علوم زمین</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه خوارزمی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText> Soil</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>health risk</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>source</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>landfill</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Kermanshah</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Iran</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>خاک</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ریسک سلامت</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>منشأ</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مکان دفن زباله</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>کرمانشاه</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ایران</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1. Dang Z., Liu C, Haigh M. J., &quot;Mobility of heavy metals associated with the natural weathering of coal mine spoils&quot;, Environ Pollut 118 (2002) 419-426. 2. Krishna A. K., Govil P. K., &quot;Soil contamination due to heavy metals from an industrial area of surat, Gujarat, Western India&quot;, Environ Moni Assess 124 (2007) 263-275 3.Kabata- Pendias and Mukherjee,( 2007) 4. Klute A., &quot;Methods of soil analysis, part I, physical and mineralogical methods&quot;, Second edition, Soil Science Society of America INC. Wisconsia. USA (1986). 5. Cao H. F., A. C. Chang A. L., &quot;Heavy metal contents of sludge-treated soils as determined by three extraction procedures&quot;, J. Environ. Qual. 13 (1984) 632-634. 6. Abrahim G. M. S., Parker R. J., &quot;Assessment of heavy metal enrichment factors and the degree of contamination in marine sediments from Tamaki Estuary&quot;, Auckland, New Zealand. Environ Monit Assess 136 (2008) 227-238. 7. Hernandez L., Probst A., Probst J. L., Ulrich E., &quot;Heavy metal distribution in some French forest soil: evidence for atmospheric contamination&quot;, The Scince of the Total Environment 312 (2003) 195-219. 8. Sutherland R. A., &quot;Bed sediment-associated trace metals in an urban stream, Oahu&quot;, Hawaii. Environ Geol, 39 (2000) 611-27. 9. Hakanson L., &quot;Ecological Risk Index for Aquatic Pollution Control&quot;, a Sedimentological Approach. Water Research, 14 (1980) 975-1001. 10. Liu W. H., Zhao J. Z., Ouyang Z. Y., Solderland L., Liu G. H., &quot;Impacts of Sewage Irrigation on Heavy Metal Distribution and Contamination in Beijing, China&quot;, Environmental International, 32 (2005) 805-812. 11. Abrahim G. M. S., &quot;Holocene Sediments of Tamaki Estuary, Characterisation and Impact of Recent Human Activity on an Urban Estuary in Auckland&quot;, New Zealand. Ph.D. thesis, University of Auckland, Auckland, New Zealand (2005). 12. US EPA. &quot;Risk assessment guidance for superfund, human health evaluation manual. Part A (interim final)&quot;, Off. Emerg. Remedial Response US Environ. Prot. AgencyWashington DC 1. doi:EPA/540/1-89/002, (1989). 13. US EPA. Exposure assessment. US Environment Protection Agency (2012). 14. USEPA, &quot;Supple mental Guidance to RAGS: Calculating the Concentration Term&quot;, U.S. Environmental Protection Agency, Office of Solid Waste and Emergency Response, Washington (1992).  15. USEPA, &quot;ExposureFactorsHandbook, Volume1: GeneralFactors. U.S. Environ-mental Protection Agency&quot;, Office of Research and Development, Washington (1997).  16. USEPA, &quot;Supplemental Guidance for Developing Soil Screening Levels for Superfund Sites&quot;, U.S. Environmental Protection Agency, Office of Emergency and Remedial Response, Washington (2002). 17. USEPA., &quot;Guidelines for the health risk assessment of chemical mixtures [R]&quot;, Washington, DC: US Environmental Protection Agency; [EPA/630/R-98/002] (1986). 18. USEPA., &quot;Risk assessment guidance for Superfund. Human health evaluation manual&quot;, (part A) [R], vol. 1. Washington, DC: Office of emergency and remedial response; 1989. [EPA/540/1-89/002] (1986). 19. USEPA., &quot;Guidelines for exposure assessment [R]&quot;, Washington, DC: US Environmental Protection Agency; (1992) [EPA/600/Z-92/001]. 20. USEPA., &quot;Supplemental guidance for developing soil screening levels for Superfund sites[R]&quot;,Washington, DC: Soild Waste and Emergency Response (2002) [OSWER 9355.4-24]. 21. Example exposure scenarios [R]. Washington, DC: National Center for Environmental Assessment (2003) [EPA/600/R-03/036]. 22. Zhao H., Xia B., Fan C., Zhao P., Shen S., &quot;Human health risk from soil heavy metal contamination under different land uses near Dabaoshan Mine&quot;, Southern China. Sci Total Environ ((2012)) 417-418:45-54. 23. Zheng N., Liu J.,Wang Q., Liang Z., &quot;Health risk assessment of heavy metal exposure to street dust in the zinc smelting district&quot;, Northeast of China. Sci Total Environ 408 (2010) 726-733 24. Zhang X. W., Yang L. S., Li Y. H., Li H. R., Wang W. Y., Ye B. X., &quot;Impacts of lead/zinc mining and smelting on the environment and human health in China&quot;, Environ, Monit. Assess. 184 (2012) 2261-2273. 25. Hu X., Zhang Y., Ding Z. H., Wang T. J., Lian H. Z., Sun Y. Y., &quot;Bioaccessibility and health risk of arsenic and heavy metals (Cd, Co, Cr, Cu, Ni, Pb, Zn and Mn) in TSP and PM2&quot;, 5 in Nanjing, China. Atmos. Environ. 57 (2012) 146-152. 26. Li Z. Y., Ma Z. W., Kuijp T. J., Yuan Z. W., Huang L., &quot;A review of soil heavy metal pollution from mines in China: pollution and health risk assessment&quot;, Sci. Total Environ (2014) 468-469, 843-853. 27. Shakeri A., Modabberi S., &quot;Assessment of Trace Elements Concentration in Soils of the Hashtgerd Area Using Geochemical and Multivariate Statistical Methods, Alborz Province&quot;, Iran. Journal of Engineering Geology (2013). 28. Shakeri A., Moore F., &quot;The impact of an industrial complex on freshly deposited sediments, Chener Rahdar river case study&quot;, Shiraz, Iran. Environ Monit Assess 169 (2010) 321-334. 29. Peizhong Li., Chunye Lin., Hongguang Cheng., Xiaoli Duan., Kai Lei., Contamination and health risks of soil heavy metals around a lead/zinc smelter in southwestern China (2014). ##1. Dang Z., Liu C, Haigh M. J., &quot;Mobility of heavy metals associated with the natural weathering of coal mine spoils&quot;, Environ Pollut 118 (2002) 419-426. ##2. Krishna A. K., Govil P. K., &quot;Soil contamination due to heavy metals from an industrial area of surat, Gujarat, Western India&quot;, Environ Moni Assess 124 (2007) 263-275 ##3.Kabata- Pendias and Mukherjee,( 2007) ##4. Klute A., &quot;Methods of soil analysis, part I, physical and mineralogical methods&quot;, Second edition, Soil Science Society of America INC. Wisconsia. USA (1986). ##5. Cao H. F., A. C. Chang A. L., &quot;Heavy metal contents of sludge-treated soils as determined by three extraction procedures&quot;, J. Environ. Qual. 13 (1984) 632-634.## 6. Abrahim G. M. S., Parker R. J., &quot;Assessment of heavy metal enrichment factors and the degree of contamination in marine sediments from Tamaki Estuary&quot;, Auckland, New Zealand. Environ Monit Assess 136 (2008) 227-238. ##7. Hernandez L., Probst A., Probst J. L., Ulrich E., &quot;Heavy metal distribution in some French forest soil: evidence for atmospheric contamination&quot;, The Scince of the Total Environment 312 (2003) 195-219. ##8. Sutherland R. A., &quot;Bed sediment-associated trace metals in an urban stream, Oahu&quot;, Hawaii. Environ Geol, 39 (2000) 611-27. ##9. Hakanson L., &quot;Ecological Risk Index for Aquatic Pollution Control&quot;, a Sedimentological Approach. Water Research, 14 (1980) 975-1001.## 10. Liu W. H., Zhao J. Z., Ouyang Z. Y., Solderland L., Liu G. H., &quot;Impacts of Sewage Irrigation on Heavy Metal Distribution and Contamination in Beijing, China&quot;, Environmental International, 32 (2005) 805-812. ##11. Abrahim G. M. S., &quot;Holocene Sediments of Tamaki Estuary, Characterisation and Impact of Recent Human Activity on an Urban Estuary in Auckland&quot;, New Zealand. Ph.D. thesis, University of Auckland, Auckland, New Zealand (2005).## 12. US EPA. &quot;Risk assessment guidance for superfund, human health evaluation manual. Part A (interim final)&quot;, Off. Emerg. Remedial Response US Environ. Prot. AgencyWashington DC 1. doi:EPA/540/1-89/002, (1989). ##13. US EPA. Exposure assessment. US Environment Protection Agency (2012). ##14. USEPA, &quot;Supple mental Guidance to RAGS: Calculating the Concentration Term&quot;, U.S. Environmental Protection Agency, Office of Solid Waste and Emergency Response, Washington (1992).##  15. USEPA, &quot;ExposureFactorsHandbook, Volume1: GeneralFactors. U.S. Environ-mental Protection Agency&quot;, Office of Research and Development, Washington (1997).  ##16. USEPA, &quot;Supplemental Guidance for Developing Soil Screening Levels for Superfund Sites&quot;, U.S. Environmental Protection Agency, Office of Emergency and Remedial Response, Washington (2002). ##17. USEPA., &quot;Guidelines for the ##health risk assessment of chemical mixtures [R]&quot;, Washington, DC: US Environmental Protection Agency; [EPA/630/R-98/002] (1986). 18. USEPA., &quot;Risk assessment guidance for Superfund. Human health evaluation manual&quot;, (part A) [R], vol. 1. Washington, DC: Office of emergency and remedial response; 1989. [EPA/540/1-89/002] (1986).## 19. USEPA., &quot;Guidelines for exposure assessment [R]&quot;, Washington, DC: US Environmental Protection Agency; (1992) [EPA/600/Z-92/001].## 20. USEPA., &quot;Supplemental guidance for developing soil screening levels for Superfund sites[R]&quot;,Washington, DC: Soild Waste and Emergency Response (2002) [OSWER 9355.4-24]. ##21. Example exposure scenarios [R]. Washington, DC: National Center for Environmental Assessment (2003) [EPA/600/R-03/036].## 22. Zhao H., Xia B., Fan C., Zhao P., Shen S., &quot;Human health risk from soil heavy metal contamination under different land uses near Dabaoshan Mine&quot;, Southern China. Sci Total Environ ((2012)) 417-418:45-54.## 23. Zheng N., Liu J.,Wang Q., Liang Z., &quot;Health risk assessment of heavy metal exposure to street dust in the zinc smelting district&quot;, Northeast of China. Sci Total Environ 408 (2010) 726-733 ##24. Zhang X. W., Yang L. S., Li Y. H., Li H. R., Wang W. Y., Ye B. X., &quot;Impacts of lead/zinc mining and smelting on the environment and human health in China&quot;, Environ, Monit. Assess. 184 (2012) 2261-2273.##25. Hu X., Zhang Y., Ding Z. H., Wang T. J., Lian H. Z., Sun Y. Y., &quot;Bioaccessibility and health risk of arsenic and heavy metals (Cd, Co, Cr, Cu, Ni, Pb, Zn and Mn) in TSP and PM2&quot;, 5 in Nanjing, China. Atmos. Environ. 57 (2012) 146-152. ##26. Li Z. Y., Ma Z. W., Kuijp T. J., Yuan Z. W., Huang L., &quot;A review of soil heavy metal pollution from mines in China: pollution and health risk assessment&quot;, Sci. Total Environ (2014) 468-469, 843-853.## 27. Shakeri A., Modabberi S., &quot;Assessment of Trace Elements Concentration in Soils of the Hashtgerd Area Using Geochemical and Multivariate Statistical Methods, Alborz Province&quot;, Iran. Journal of Engineering Geology (2013). ##28. Shakeri A., Moore F., &quot;The impact of an industrial complex on freshly deposited sediments, Chener Rahdar river case study&quot;, Shiraz, Iran. Environ Monit Assess 169 (2010) 321-334.## 29. Peizhong Li., Chunye Lin., Hongguang Cheng., Xiaoli Duan., Kai Lei., Contamination and health risks of soil heavy metals around a lead/zinc smelter in southwestern China (2014). ## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>بررسی تنش‌های وارده بر خاک و نشست احتمالی  پایه‌های پل با استفاده از لرزه‌نگاری و توموگرافی ژئوالکتریکی </TitleF>
+		<TitleE>The study of stress and possible subsidence of bridge foundations by using of seismic and geoelectrical tomography</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>در این تحقیق از روش&#8204;های لرزه&#8204;ای، چاهک و توموگرافی ژئوالکتریکی برای تخمین استحکام، دورۀ طبیعی، لایه&#8204;بندی و تغییرات مقاومت الکتریکی خاک در محل پایه&#8204;های پل استفاده شده است. این پل در رسوبات آبرفتی احداث شده است. این تحقیق نشان می&#8204;دهد: 1. متوسط سرعت موج برشی تا عمق 30 متر در محل پایۀ غربی ( ) بیش&#8204;تر از پایۀ شرقی ( ) است. 2. نتایج چاهک الکتریکی وجود لایۀ سیلتی و رسی را در محل پایۀ شرقی پل تأیید می&#8204;کند. 3. نقشه توزیع مقاومت الکتریکی در امتداد محور پل که از محل پایه&#8204;های میانی می&#8204;گذرد نامتقارن بوده است و تغییرات جانبی در ساختار خاک و تنش وارده را نشان می&#8204;دهد. توزیع نامتقارن تنش با در نظر گرفتن نتایج به&#8204;دست آمده و گذر رودخانه می&#8204;تواند نتیجه نشست تدریجی خاک زیر پایۀ میانی و شرقی پل در طول بهره&#8204;برداری و عامل ایجاد ترک&#8204;های ظاهر شده در عرشۀ پل باشد.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Extended Abstract
+Summary
+In this research seismic, electrical sounding and geoelectrical tomography methods are used to assess the distribution of strength of foundations, the earth's natural period (T0), layering conditions and petrophysical characteristics of the underlying soil. The bridge is built on alluvial sediments of the Haraz river in Mazandaran province. The bridge consists of two lateral and three intermediate bases. The Haraz river passes through the eastern and adjacent intermediate base. This research indicates that: 1- based on seismic studies, the average shear wave velocity to a depth of 30 meters at the eastern base of the bridge is significantly more than that of the western base. Therefore, the stiffness and loading capability in both bases of the bridge are different, 2- geoelectrical sounding shows that the eastern side of the bridge, most likely composed of silt and clay and there is a possibility of subsidence at the east side of the bridge, 3- electrical resistivity tomography maps in E-W section is asymmetric and shows lateral changes of soil structures along bridge. In other words, distribution of stress on eastern and middle basis of the bridge with considering mentioned reasons is stirred with probably subsidence in the last few decades utilization and appearing of defects in the body of the bridge.
+&#160;Introduction
+Many factors such as floods, earthquakes, hurricanes, tsunamis, improper exploitation conditions and other factors have threatened historic buildings and urban infrastructure. Iran is one of the active seismic areas of the world and unfortunately many of the historical monuments have been damaged or completely destroyed during different earthquakes. Bam citadel, the largest mud structure in the world, is an example of a cultural heritage which was completely destroyed in deadly earthquake of January 2003. In many large cities of the world such as Tehran, more than hundred bridges have been constructed to solve the traffic jam. Insecure and improper utilization may threat the strength of bridges and decrease their longevity. Today, the soil behavior under loading cycles and dynamic condition is very important in urban active seismic areas. In most cases the physical properties of soil are obtained by laboratory tests and in situ methods including refraction seismic method, reflection seismic method, SASW method, well logging, cross-hole and also geo-electrical and other geophysical methods. The relation between seismic wave velocities and stress in soils and mineral materials are to the interest of seismologist and seismic specialists. Today in exploration seismic the relation between stress and velocity of seismic waves can be used in AVO analysis and also to predicting and monitoring the hydrocarbon and thermal fields of reservoirs in 4D exploration seismic. There are many researches in this subject and established some experimental relationships between stress and elastic modulus of rocks with wave velocities. The aim of this research was to identify the seismic characteristics and geological conditions of soil beneath foundations of bridge in north of Iran mainly for investigating possibilities for strengthening the city historical oldest bridge. In this study we used simultaneously refraction seismic, electrical sounding and geoelectrical tomography methods. Seismic method used to estimate the stiffness of soil, average shear wave velocity of upper 30 m and determination of site classes. Electrical sounding and geoelectrical tomography have used to identify subsurface geology, differentiation and identifying electrical resistivity of soil profile and distribution of electrical resistivity in tomography section for understanding distribution of stress in soil. The bridge is built on alluvial sediments of the Haraz River. Mazandaran-Khazar fault is located 7 km south of study area in east-west direction. The bridge consists of two lateral and three intermediate bases. The Haraz River passes through the eastern and adjacent intermediate base.
+Field surveying
+Several seismic profiles surveyed in this are and five of them used in current research. Linear array are employed with P-wave and S-wave. Distance between geophones is 2 m respectively. The lengths of profiles were different due to space constrains. Length of profiles considering offsets was up to 86 m. Impulse impact is transmitted to the soil by sledge hammer equipped with a trigger element. For P- wave profiles, vertical hit on steel plate and for S-eave profiles, horizontal hit on special I-beam steel were used. In order to improve the signal to noise ratio (S/N), an average of ten hammer blows were stacked for each record. Length of records is one second with sampling interval one millisecond. The first arrival times of refraction seismic data were interpreted with considering characteristic of first arrivals in layered condition and continuous medium. The results of average shear wave velocities to the depth of 30 m in the five profiles (S1 to S5) were 774 m/s, 629 m/s, 540 m/s, 581m/s, and 563 m/s consequently.
+The average shear wave velocity in the upper 30 m was globally adopted after the National Earthquake Hazard Reduction Program (NEHPR) classification in the USA. Profile S1 is located near the western base of the bridge, profile S3 near the eastern base of the bridge, profiles S2 and S6 at the middle of bridge and profile S5 about 200 m of eastern base. The average sheer wave velocity in the upper 30 m of soil in western base (Vs30=774) is more than eastern base (Vs30=540). According to the average shear wave velocities, the type of underlying soil in western base falls to B class&#160; (760&#60;&#60;1500) and in eastern base falls to C class (360&#60;&#60;760). It means that the natural periods of soil and reflection coefficient of bridge in both sides are different.
+Vertical electrical sounding is another geophysical method that used to separate the layers, thicknesses and electrical resistivities of underlying sediments at the eastern base of the bridge. The resistivity measurements carried out by injecting electrical current into the ground through the two current electrodes, and measuring the resulting voltage difference at two potential electrodes. We used symmetrical four electrode schlumberger array. The type of experimental sounding curve is AH. It means that soil profile under the eastern base of the bridge consists of 4 layers with interbedded low resistivity layer. Interpretation of geoelectrical curve shows that the first layer has a thickness of 4 m with resistivity of 800 ohm-m. Surface evidence indicates that this layer is composition of sand, gravel and conglomerate. The second layer has a thickness of 16 m with the resistivity of 334 ohm-m. This layer most probably is composition of saturated sand and conglomerate. The third layer has a thickness of 14 m with resistivity of 43 ohm-m. Low electrical resistivity shows that the grain size is fine and matches with silt and clay. The last layer as a basement starts from the depth of 34 m with electrical resistivity of more than 1000 ohm-m.
+Geoelectrical tomography is another method that used to determine the lateral changes of electrical resistivity and identifying the pattern of distribution of stress in underlying soil at the middle of the bridge. Geoelectrical tomography profiles were in east-west direction. The distance between measuring points was 1 m. Electrical resistivity of sedimentary rocks and soils generally depends on porosity, mineral type, depth, stress, moisture content, structure and texture and temperature. Variation of electrical resistivity verses depth shows that the distribution of electrical resistivity of the subsurface material is not uniform and increase with depth. It also shows that the distribution of electrical resistivity in soil under the base is asymmetric in E-W direction.
+Conclusions and result
+Integrated geophysical studies were conducted in three stages with three different methods. The following conclusions are extracted based on study: According to seismic data the average shear wave velocity at the western side of the bridge (m/s, m/s) is more than the East (m/s, m/s) and middle of the bridge (m/s, m/s). The high velocity of S waves in the western side of the bridge shows that the stiffness of soil materials in the west side of the bridge is more than of the east side. According to NEHPR site classes, the type of underlying soil in western base falls to B class and in eastern base falls to C class. It means that the natural periods of soil and reflection coefficient of bridge in both sides are different. In other word the response of bridge respect to vibration of soil generating by traffic in both sides is different. The Haraz River passes through the eastern and adjacent intermediate base about 4 m under ground level of the middle bases. Geoelectrical sounding show that the eastern side of the bridge most likely composed of silt and clay. Therefore there is a possibility of subsidence at the east side of the bridge. This bridge connects the eastern side of the river to the western side and asphalted road passes through western base and intermediate base. It means that the vehicle traffics continuously compacts underlying soil in western base respect to eastern base. Electrical resistivity tomography map in E-W section is asymmetric and shows lateral changes of soil structures along bridge. In other words distribution of stress on eastern and middle basis of the bridge with considering mentioned reasons is stirred with probably subsidence in the last few decades of utilization and generation of lateral stress due to truck traffic impacts in eastern bases and underlying soil. The change of lateral or transverse stress changes the porosity of soil profile and change of porosity changes the electrical resistivity. Existing cracks in the beam of studied bridge agrees with the available results of research.
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>85</FPAGE>
+			<TPAGE>102</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>لطیف</Name>
+				<MidName></MidName>
+				<Family>صمدی</Family>
+				<NameE>Latif</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Samadi</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکده علوم زمین</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه خوارزمی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>پل</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>لرزه‌نگاری</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>چاهک الکتریکی- توموگرافی ژئو الکتریکی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>نشست خاک</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>. آئین‌نامۀ طراحی ساختمان‌ها در برابر زلزله، استاندارد 2800 ایران، مرکز تحقیقات ساختمان و مسکن (آذر 1378). 2. صمدی ل.، &quot;مبانی ژئوفیزیک کاربردی&quot;، انتشارات جهاد دانشگاهی (1391). 3. قسمتی از نقشه آمل.  4. Aki K., Richards P. &quot;Quantitative Seismology&quot;, Vol. I and II, Freeman and company San Fransisco, Moscow, Mir, [Russian translation] (1993). 5. Axel Kaselow, Serge A., Shapiro, &quot;Stress sensitivity of elastic moduli and electrical resistivity in porous rocks&quot;, J. Geophys. Eng. 1 (2004) 1-11. 6. Khaksar A., Griffiths C. M., McCann C., &quot;Compressional-and shear-wave velocities as a function of confining stress in dry sandstones Geophys&quot;, Prospect. 47 (1999) 487-508. 7. Kirstettr O., MacBeth C., &quot;Compliance-based interpretation of dry frame pressure sensitivity in shallow marine&quot;, sandstones Expanded Abstracts 2132-5(2001). 8. Koefoed O., &quot;Geosounding Principle-1&quot;, resistivity sounding mesurments (Amsterdam: Elsevier) (1979) 276. 9. Loke M. H., Barker R. D., &quot;Least-squares deconvolution of apparent resistivity pseudosections&quot;, Geophysics, 60 (1995) 1682-1690. 10. Matviev B. K., &quot;Geoelectrical exploration&quot;, Nedra Moscow (1982). 11. Samadi L., et al, &quot;Shallow subsurface geology and Vs characteristics of sedimentary units throughout Rasht City&quot;, Iran Annals of Geophysics, Vol. 52, No. 2 (April 2009) 149-166. 12. Sheriff R E., Geldart L. P., &quot;Exploration seismology&quot;, Vol I , II (1987). 13. Zamri Chik, Taohidul Islam, &quot;Tomography Analysis of Compacted Soil Using Electrical Conductivity&quot;, Proceedings of the World Congress on Engineering Vol II WCE 2011, July 6 - 8, (2011) London, U.K. 14. Zimmerman R., Somerton W., King M., &quot;Compressibility of porous rocks&quot;, J. Geophys, Res 91, 12765-77 (1986).  ##. آئین‌نامۀ طراحی ساختمان‌ها در برابر زلزله، استاندارد 2800 ایران، مرکز تحقیقات ساختمان و مسکن (آذر 1378).##2. صمدی ل.، &quot;مبانی ژئوفیزیک کاربردی&quot;، انتشارات جهاد دانشگاهی (1391).## 3. قسمتی از نقشه آمل. ## 4. Aki K., Richards P. &quot;Quantitative Seismology&quot;, Vol. I and II, Freeman and company San Fransisco, Moscow, Mir, [Russian translation] (1993). ##5. Axel Kaselow, Serge A., Shapiro, &quot;Stress sensitivity of elastic moduli and electrical resistivity in porous rocks&quot;, J. Geophys. Eng. 1 (2004) 1-11. ##6. Khaksar A., Griffiths C. M., McCann C., &quot;Compressional-and shear-wave velocities as a function of confining stress in dry sandstones Geophys&quot;, Prospect. 47 (1999) 487-508. ##7. Kirstettr O., MacBeth C., &quot;Compliance-based interpretation of dry frame pressure sensitivity in shallow marine&quot;, sandstones Expanded Abstracts 2132-5(2001). ##8. Koefoed O., &quot;Geosounding Principle-1&quot;, resistivity sounding mesurments (Amsterdam: Elsevier) (1979) 276.## 9. Loke M. H., Barker R. D., &quot;Least-squares deconvolution of apparent resistivity pseudosections&quot;, Geophysics, 60 (1995) 1682-1690.## 10. Matviev B. K., &quot;Geoelectrical exploration&quot;, Nedra Moscow (1982). ##11. Samadi L., et al, &quot;Shallow subsurface geology and Vs characteristics of sedimentary units throughout Rasht City&quot;, Iran Annals of Geophysics, Vol. 52, No. 2 (April 2009) 149-166. ##12. Sheriff R E., Geldart L. P., &quot;Exploration seismology&quot;, Vol I , II (1987). ##13. Zamri Chik, Taohidul Islam, &quot;Tomography Analysis of Compacted Soil Using Electrical Conductivity&quot;, Proceedings of the World Congress on Engineering Vol II WCE 2011, July 6 - 8, (2011) London, U.K. ##14. Zimmerman R., Somerton W., King M., &quot;Compressibility of porous rocks&quot;, J. Geophys, Res 91, 12765-77 (1986).  ## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>پیش بینی عملکرد آهنگ حفاری و برش در معادن سنگ ساختمانی(کربناته) با توجه به خصوصیات بافتی سنگ‌ها</TitleF>
+		<TitleE>Prediction the Performance of Drilling and Cutting rate in Dimensional Quaries (Carbonated) based on the Texture Properties of stones</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>حفاری و برش سنگ، به&#8204;عنوان یکی از عملیات مهندسی، در زمینه&#173;های مختلف فنی و مهندسی معدن، کاربردهای وسیع و تعیین&#8204;کننده&#8204;ای دارد. تخمین قابلیت حفاری و برش سنگ با دستگاه&#173;های حفاری و سیم برش الماسه، در تخمین هزینه&#173;ها و طراحی معادن نقش مهمی دارد. در این مقاله به&#8204;منظور پیش&#8204;بینی آهنگ حفاری و برش، نمونه&#8204;های سنگ ساختمانی کربناته از معادن مختلف ایران، بررسی شد. به&#8204;منظور ارزیابی تأثیر مشخصات بافتی بر آهنگ حفاری و برش، ابتدا از هر مقطع نازک میکروسکوپی نمونه سنگ بررسی شده، عکس تهیه و سپس مساحت، محیط، بزرگ&#8204;ترین قطر و کوچک&#8204;ترین قطر دانه&#173;های موجود در مقاطع تعیین شد و مشخصات دیگر بافتی، طبق روابط ریاضی به&#8204;دست آمد. در مرحلۀ بعد ارتباط بین پارامترهای ذکر شده با آهنگ حفاری و برش در برازش تک متغیره تعیین شد. در پایان برای دست&#8204;یابی به ضریب هم&#8204;بستگی بیش&#8204;تر، از برازش چند متغیره استفاده شد. از میان خصوصیات بافتی مؤثر بر آهنگ حفاری، ضریب بافت، محیط دانه، قطر معادل، نسبت وضعیت دانه و شاخص یک&#8204;نواختی ارتباط خوبی با آهنگ حفاری و هم&#8204;چنین از میان خصوصیات بافتی مؤثر بر آهنگ برش، ضریب بافت، محیط دانه، مساحت دانه، قطر معادل، فشردگی، فاکتور شکل، شاخص قفل&#173;شدگی و شاخص یک&#8204;نواختی ارتباط خوبی با آهنگ برش داشتند و رابطۀ نهایی برای پیش&#8204;بینی آهنگ حفاری و برش بر حسب این پارامترها به&#8204;دست آمد.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Drilling and cutting stones as types of the engineering operations have encountered a lot of extensive and determining applications in different technical and engineering aspects of the mining. Estimating the drillability and cutability of stones by using drilling equipment and diamond wire saw have important roles in estimating the expenses and also designing mines. In this article some samples of carbonate ornamental stones from different mines in Iran have been studied in order to estimate and predict the drilling and also cutability rate.
+In order to evaluate the effect of the textural specifications on the rate of drilling and cutability, first a picture was provided from the thin microscopic surface of every stone sample and then the area, perimeter, diameter the longest diagonal and the shortest diagonal of the grains in the sections were determined and the other textural specifications were also determined through using mathematical relations and equations. After that the relationship between the abovementioned parameters with the drilling and cutting rate were determined by using univariate fitting. And finally to achieve more correlation coefficient multivariate fitting was applied for the data. Among the textural specifications affecting the drilling rate textural coefficient, the diameter of the grain, dequi, the ratio of the grain condition and the index of grain size homogeneity had a significant relationship with the drillability rate and also among those affecting the cutting rate, textural coefficient, the diameter of the grain, dequi, density, shape factor, index of interlocking, and the index of grain size homogeneity had significant relationships with the cutting rate and at the end the final equation to predicate the drillability and cutability was produced for these parameters../files/site1/files/121/AleeiAbstract.pdf</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>103</FPAGE>
+			<TPAGE>122</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>محمد</Name>
+				<MidName></MidName>
+				<Family>عطایی</Family>
+				<NameE>Mahmoud</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Ataee</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه شاهرود، دانشکدۀ مهندسی معدن، نفت و ژئوفیزیک</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه شاهرود</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>سعید</Name>
+				<MidName></MidName>
+				<Family>قنبری</Family>
+				<NameE>saeed</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Ghanbari</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد اسلامی واحد سیرجان</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد اسلامی واحد سیرجان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Drilling and Cutting rate</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Texture Properties</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>diamond cutting saw</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Ornamental Stone</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>آهنگ حفاری و برش</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مشخصات بافتی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سیم برش الماسه و سنگ ساختمانی.</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1. اصانلو م.، &quot;روش‌های حفاری&quot;، مرکز نشر صدرا (1382). 2. حسینی س. ه.، پوررحیمیان ی.، آقابابایی ح.، &quot;پیشنهاد سیستم طبقه‌بندی جدید جهت پیش‌بینی سرعت حفاری در معادن روباز، سومین کنفرانس مکانیک سنگ ایران&quot;، دانشگاه صنعتی امیرکبیر (1386). 3. عطائی م.، &quot;استخراج سنگ‌های ساختمانی&quot;، چاپ اول، انتشارات دانشگاه صنعتی شاهرود (1387). 4. فاطمی س. ا. ا.، پروین ا.، &quot;بررسی فنی و اقتصادی استفاده از سیم برش الماسه به‌منظور استخراج گرانیت برای اولین بار در ایران در معدن گرانیت گزیک، بیرجند&quot;، کنفرانس مهندسی معدن، دانشگاه تربیت مدرس (1383). 5. قیصری ن.، &quot;پیش‌بینی عملکرد سیم برش الماسه با توجه به خواص فیزیکی و مکانیکی سنگ&quot;، پایان‌نامه کارشناسی ارشد، دانشگاه صنعتی شاهرود (1389). 6. Ataei M., Mikaeil R., Sereshki F., Ghaysari N., &quot;Predicting the Production Rate of Diamond Wire Saw Using Statistical Analysis&quot;, Arabian Journal of Geosciences, Vol. 5, No. 6 (2012) 1289-1295. 7. Atila, Ozturk C. A., Nasuf E., Bilgin N., &quot;The assessment of rock cutability, and physical and mechanical rock properties from a texture coefficient&quot;, The journal of the south African institute of mining and Metallurgy, August (2004) 397-402. 8. Dreyer W., &quot;The Science of Rock Mechanics. Part I. The Strength Properties of Rocks, 2nd ed. Series on Rock and Soil Mechanics&quot;, vol. 1 (1971/73), No. 2. Trans. Tech. Publications, Clausthal (1973) 500. 9. Ersoy A., Waller M. D, &quot;Textural characterization of rocks&quot;, of Engineering Geology, vol 39, Issues 3-4 (1995) 123-136. 10. Ghaysari N., Ataei M., Sereshki F., Mikaeil R., &quot;Prediction of performance of diamond wire saw with respect to texture characteristics of rock&quot;, Archives of Mining Science, Vol. 57, No. 4 (2012) 839-852. 11. Hoseinie S. H, Aghababaei H, Pourrahimian Y, &quot;Development of a new classification system for assessing of rock mass drillability index (RDi)&quot;, International Journal of Rock Mechanics and Mining Sciences, Volume 45, Issue 1 (January 2008) 1-10. 12. Howarth D. F., Rowlands J. C., &quot;Quantitative assessment of rock texture and correlation with drillability and strength properties&quot;, J. of Rock Mech. Rock Eng., 20 (1987) 57-85. 13. Lindqvist J. E., Akesson U., Malaga K., &quot;Microstructure and functional properties of rock materials, Materials Characterization&quot;, Volume 58, Issues 11-12, (2007) 1183-1188. 14. Ozcelic Y., Polat E., Bayram F., Ay A. M., &quot;Investigation of the effects of textural properties on marble cutting with diamond wire&quot;, Int. J. Rock Mech. Min. Sci, Vol. 41, No. 3 (2004) 228-234. 15. Pikryl P., &quot;Assessment of rock geomechanical quality by quantitative rock fabric coefficients&quot;, Limitations and possible source of misinterpretations, Engineering Geology 87 (2006) 149-162. ##1. اصانلو م.، &quot;روش‌های حفاری&quot;، مرکز نشر صدرا (1382).## 2. حسینی س. ه.، پوررحیمیان ی.، آقابابایی ح.، &quot;پیشنهاد سیستم طبقه‌بندی جدید جهت پیش‌بینی سرعت حفاری در معادن روباز، سومین کنفرانس مکانیک سنگ ایران&quot;، دانشگاه صنعتی امیرکبیر (1386). ##3. عطائی م.، &quot;استخراج سنگ‌های ساختمانی&quot;، چاپ اول، انتشارات دانشگاه صنعتی شاهرود (1387). ##4. فاطمی س. ا. ا.، پروین ا.، &quot;بررسی فنی و اقتصادی استفاده از سیم برش الماسه به‌منظور استخراج گرانیت برای اولین بار در ایران در معدن گرانیت گزیک، بیرجند&quot;، کنفرانس مهندسی معدن، دانشگاه تربیت مدرس (1383). ##5. قیصری ن.، &quot;پیش‌بینی عملکرد سیم برش الماسه با توجه به خواص فیزیکی و مکانیکی سنگ&quot;، پایان‌نامه کارشناسی ارشد، دانشگاه صنعتی شاهرود (1389). ##6. Ataei M., Mikaeil R., Sereshki F., Ghaysari N., &quot;Predicting the Production Rate of Diamond Wire Saw Using Statistical Analysis&quot;, Arabian Journal of Geosciences, Vol. 5, No. 6 (2012) 1289-1295.## 7. Atila, Ozturk C. A., Nasuf E., Bilgin N., &quot;The assessment of rock cutability, and physical and mechanical rock properties from a texture coefficient&quot;, The journal of the south African institute of mining and Metallurgy, August (2004) 397-402.## 8. Dreyer W., &quot;The Science of Rock Mechanics. Part I. The Strength Properties of Rocks, 2nd ed. Series on Rock and Soil Mechanics&quot;, vol. 1 (1971/73), No. 2. Trans. Tech. Publications, Clausthal (1973) 500. ##9. Ersoy A., Waller M. D, &quot;Textural characterization of rocks&quot;, of Engineering Geology, vol 39, Issues 3-4 (1995) 123-136. ##10. Ghaysari N., Ataei M., Sereshki F., Mikaeil R., &quot;Prediction of performance of diamond wire saw with respect to texture characteristics of rock&quot;, Archives of Mining Science, Vol. 57, No. 4 (2012) 839-852. ##11. Hoseinie S. H, Aghababaei H, Pourrahimian Y, &quot;Development of a new classification system for assessing of rock mass drillability index (RDi)&quot;, International Journal of Rock Mechanics and Mining Sciences, Volume 45, Issue 1 (January 2008) 1-10.## 12. Howarth D. F., Rowlands J. C., &quot;Quantitative assessment of rock texture and correlation with drillability and strength properties&quot;, J. of Rock Mech. Rock Eng., 20 (1987) 57-85. ##13. Lindqvist J. E., Akesson U., Malaga K., &quot;Microstructure and functional properties of rock materials, Materials Characterization&quot;, Volume 58, Issues 11-12, (2007) 1183-1188.## 14. Ozcelic Y., Polat E., Bayram F., Ay A. M., &quot;Investigation of the effects of textural properties on marble cutting with diamond wire&quot;, Int. J. Rock Mech. Min. Sci, Vol. 41, No. 3 (2004) 228-234.## 15. Pikryl P., &quot;Assessment of rock geomechanical quality by quantitative rock fabric coefficients&quot;, Limitations and possible source of misinterpretations, Engineering Geology 87 (2006) 149-162. ## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>ارزیابی زمین‌ ساخت جنبا در گستره بوئین زهرا-آوج (جنوب قزوین)</TitleF>
+		<TitleE></TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>گسترۀ بررسی شده در جنوب البرز مرکزی و لبۀ شمال&#173;باختری ایران &#173;مرکزی در بین گسل&#8204;های لرزه&#173;خیز ایپک با راستای تقریبی خاوری- &#173;باختری و گسل آوج با راستای شمال&#173;باختری- جنوب&#173;&#8204;خاوری واقع شده است و محل رخداد زمین&#173;لرزه&#173;های مهم تاریخی و دستگاهی متعددی است. در این پژوهش به&#8204;منظور تعیین میزان فعالیت نو&#173;زمین&#173;ساختی، &#173;زمین&#173;ساخت &#173;فعال منطقه ارزیابی شده است و تحلیل&#173; خطر&#173;احتمالی گستره نیز انجام شده است. بنابراین برای بررسی فعالیت زمین&#173;ساختی اخیر منطقۀ بررسی شده، از 6 شاخص زمین&#8207;ریختی گرادیان طولی رود (SL)، سینوسی پیشانی کوهستان (Smf)، نسبت پهنای کف دره به ارتفاع دره (Vf)، تقارن نداشتن حوضه زهکشی (Af)، انتگرال فرازسنجی (Hi) و نسبت شکل حوضه زهکشی (Bs) &#160;استفاده شده است. در&#173;نهایت، پس از محاسبه شاخص&#8204; زمین&#8207;ساخت&#173; فعال(Iat) ، گستره به 4 ردۀ فعالیت زمین&#8207;ساختی بسیار زیاد، زیاد، متوسط و کم در محیط ArcGIS10.1 پهنه&#8204;بندی شده است. به&#8204;منظور پهنه&#173;بندی شتاب گستره از داده&#173;های لرزه&#173;ای، نرم&#8204;&#173;افزار Kijko، نرم&#8204;افزار PSHA و روابط کاهندگی استفاده شده است که در &#173;نتیجه آن&#8207;ها کمینه و بیشینه&#173; شتاب برای عمر مفید سازه 75 سال به&#8204;ترتیب 33/0 و 45/0 گرم و برای 475 سال 46/0 و 60/0 گرم برآورد شده است. مقادیر به&#8204;دست آمده از شاخص&#8204;های زمین&#8207;ریختی و نیز پهنه&#173;بندی شتاب منطقه نشان&#8204;دهندۀ فعالیت زمین&#173;ساختی زیاد در نزدیکی گسل&#173;های ایپک، حسن&#173;آباد، سلطانیه و آوج است. نتایج به دست آمده هم&#8204;خوانی بسیار زیادی با شواهد صحرایی و زمین&#8207;ریخت&#173;های به&#8204;دست آمده از برداشت&#8207;های میدانی ارائه می&#173;&#173;دهند.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>&#160;IExtended Abstract
+&#160;Introduction 
+The Iranian plateau is situated in the Alpine-Himalayan orogeny between the Eurasian plate in the north and the Arabian plate in the south. It is being shortened by the northward movement of the Arabian plate, which causes the most parts of Iran to be active and dynamic in terms of tectonic movements. The recent tectonic activity in the southern edge of central Alborz causes both development and deformation of the tectonically active landforms. Seismic records indicate a high frequency of earthquakes of relatively small magnitude (&#60;4) and infrequent large earthquakes (&#62;5.1) in the Alborz. The studied area is located in the southern central Alborz and at the edge of northwestern central Iran between seismic faults of Ipak (with approximately E-W trend) and Avaj (with NW-SE trend) that includes significant earthquakes. Generally, the dominant tectonic structures of the study area involve thrust faults. The Ipak fault is one of the major fault systems in the area, located about 120 km west of Tehran, and caused the 1962 Buin Zahra earthquake of Ms 7.2 (Mw 7.0). The earthquake was associated with 95 km surface rupture along the Ipak reverse fault with average throw of 140 cm and left-lateral displacement of 60 cm. This investigation has evaluated the active tectonics and the acceleration zoning of the region in order to analyze and measure the recent tectonic activities.
+Material and methods
+To assess the acceleration zoning of this region, seismic data, Kijko software, PSHA software and reduction equations were used; consequently, minimum and maximum acceleration for useful life of 75-year and 475-year building were estimated. In order to assess the relative tectonic activity through the study area, sub-basins and stream network were extracted by using Arc Hydro Tools software based on the DEM and in turn, 134 sub-basins have been resulted. The six geomorphologic indices were used as follow: Stream length&#8211;gradient index (SL), mountain front Sinuosity (Smf), Ratio of valley floor width to valley height (Vf), Asymmetric factor (Af), Hypsometric integral (Hi) and drainage Basin shape (Bs). Eventually, after calculating the relative tectonic activity index (Iat), the studied area was classified into four tectonic activity classes in ArcGIS10.1 as very high, high, medium and low.
+Stream Length&#8211;Gradient Index (SL): The SL index indicates an equation between erosive processing as streams and rivers flow and active tectonics. The SL is defined by Eq. (1)&#160;
+SL= (∆H/∆Lr) Lsc&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (1)
+where &#916;H is change in altitude, &#916;Lr is the length of a reach, and Lsc is the horizontal length from the watershed divide to midpoint of the reach. The SL index can be used to evaluate relative tectonic activity.&#160; The quantities of the SL index were computed along the streams for all sub-basins.
+Index of Mountain Front Sinuosity (Smf): &#160;Index of mountain front sinuosity is defined by Equation (2).&#160;
+Smf = Lmf &#8260; Ls&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(2)
+where Lmf is the length of the mountain front along the foot of the mountain in which a change in slope from the mountain to the piedmont occurs; and Ls is the straight line length of the mountain front. Smf represents a balance between erosive processes tending to erode a mountain front, making it more sinuous through streams that cut laterally and into the front and active vertical tectonics that tends to produce straight mountain fronts, often coincidental with active faults or folds.
+Ratio of Valley Floor Width to Valley Height (Vf): Vf is defined as the ratio of the width of the valley floor to its average height and is computed by Equation (3).
+Vf = Vfw/ [(Ald-Asc) + (Ard-Asc) /2)]&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (3)
+where Vfw is the width of the valley floor, and Ald, Ard, and Asc are the altitudes of the left and right divides (looking downstream) and the stream channel, respectively. A significant relationship exists between the rate of mountain front activity and the Vf index. Consequently, the high Vf values conform to low uplift rates (Keller and Pinter 2002). The shape of a valley can also represent the Vf amount and uplift rate. Therefore, U-shaped valleys accommodate low Vf and high uplift.
+Asymmetric Factor (Af): The asymmetric factor (Af) is a way to evaluate the existence of tectonic tilting at the scale of a drainage basin. The method may be applied over a relatively large area. Af is defined by Equation (4).
+Af= 100(Ar/At)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (4)
+where Ar is the area of the basin to the right (facing downstream) of the trunk stream and At is the total area of the drainage basin. If the value of this factor is close to 50, the basin has a stable condition with little or tilting; while values above or below 50 may result from basin tilting, resulting from tectonic activity or other geological conditions such as lithological structure.
+Hypsometric integral (Hi): The hypsometric integral is an index that describes the distribution of the elevation of a given area or a landscape. The Hi is independent of basin area. This index is defined as the area below the hypsometric curve and thus expresses the volume of a basin that has not been eroded. A simple equation that may be used to calculate the index is defined by Equation (5).
+Hi = (average elevation - min. elev.) / (max. elev. - min. elev.)&#160; (5)
+Then Hi values were grouped into three classes with respect to the convexity or concavity of the hypsometric curve: Class 1 with convex hypsometric curves (Hi&#8805;0.5); Class 3 with concave hypsometric curves (Hi&#60;0.4); and Class 2 with concave&#8211;convex hypsometric curves (0.4&#8804;Hi&#60;0.5).
+Index of Drainage Basin Shape (Bs): Horizontal projection of basin shape may be described by the elongation ratio, Bs, expressed by Eqation (6):
+Bs = Bl/Bw&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (6)
+where Bl is the length of the basin measured from the headwaters to the mouth, and Bw is the width of the basin measured at its widest point. High values of Bs are associated with elongated basins, generally related to relatively higher tectonic activity. Low values of Bs indicate a more circular-shaped basin, generally associated with low tectonic activity.
+Evaluation of Relative Tectonic Activity (Iat): The average of the six measured geomorphic indices (Iat) was used to evaluate the distribution of relative tectonic activity in the study area. The values of the index were divided into four classes to define the degree of active tectonics.
+Results and discussions
+Results of probabilistic seismic hazard analysis have shown that the minimum and the maximum acceleration for useful life of 75-year building is estimated as 0.33g and 0.45g and for 475-year one are 0.46g and 0.60g, respectively. These values are indicative of high risk in the studied area. Acquired values from geomorphologic indices and also acceleration zoning of the realm are indicative of high recent tectonic activities near Ipak, Hasanabad, Soltaniyeh and Avaj faults; they are extremely concordant with the obtained evidences and geomorphologic characteristics of the field samples. In this study, considering the diversity of the morphotectonic features, six morphometric indices relevant to the river channels, drainage basins, and mountain fronts were computed for every catchment, and consequently, a single index (Iat) was calculated from the these indices for each of 134 subbasins to define the degree of active tectonics. Finally, the Index of the Active Tectonic (Iat) was calculated through which the study area is classified into four tectonic activity classes, from very high to low; 1&#8212;very high (1.0&#8804;Iat&#60;1.5); 2&#8212;high (1.5&#8804;Iat&#60;2.0); 3&#8212;moderate (2.0&#8804;Iat&#60;2.5); and 4&#8212;low (2.5&#8804;Iat). The distribution of the four classes of Iat has been presented in a well classified map. The indices have represented a quantitative approach to differential geomorphic analysis related to erosion and depositional processes which include the river channel and valley morphology as well as tectonically derived features, such as fault scarps. We also evaluated the outputs of the morphometric analyses based on field-based geomorphological observations. Thus, these results are proved to be extremely beneficial to evaluate relative rates of active tectonics of this region.
+The values of Af show widespread drainage basin asymmetry related to tectonic tilting, particularly associated with Ipak fault. The values of Smf suggest that mountain fronts are tectonically active, and the values of Vf show that some valleys are narrow and deep, suggesting a high rate of incision. The parts with class 1 and 2 of the relative tectonic activity are located along the main faults of the region, such as Soltaniyeh, Avaj, Hasanabad and Ipak faults and show high correlation with observed landforms during the field investigations such as the direct mountain fronts, fault gorges, fault scarps, and deep v-shaped valleys. Besides, the high amount of the relative active tectonic index shows a good consistency with the recent tectonic activity, namely tilting and deformation of the Quaternary units, which is the indicative of the effect of compressive stresses, affecting the region.
+Conclusion
+In this study, according to the current tectonic activity using the Iat index, it was found that the study region represents a high current tectonic activity along the fault zones. The values of SL, Hi, and Bs were found to be high along Soltaniyeh, Avaj, Hasanabad and Ipak faults segments.
+According to the earthquakes and probabilistic seismic hazard analysis in the study area, it can be said is worthy to note that some basins which are located among active faults, are seismically dangerous.&#160; However, they show low relative active tectonic index (Iat)../files/site1/files/121/AleeiAbstract(1).pdf</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>123</FPAGE>
+			<TPAGE>152</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>معصومه</Name>
+				<MidName></MidName>
+				<Family>اعلایی</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکده علوم زمین،</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه خوارزمی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>Masoomealayi@Gmail.Com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>مریم</Name>
+				<MidName></MidName>
+				<Family>ده بزرگی</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکده علوم زمین،</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>m_dehbozorgy@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>محمدرضا</Name>
+				<MidName></MidName>
+				<Family>قاسمی</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>سازمان زمین شناسی- پژوهشکده علوم زمین</Organization>
+				</Organizations>
+				<Universities>
+				<University>سازمان زمین شناسی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>Mrghassemi@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>رضا</Name>
+				<MidName></MidName>
+				<Family>نوزعیم</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه تهران، پردیس علوم، دانشکدۀ زمین‌شناسی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه تهران</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>RezaNozaem@Yahoo.Com</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText> Active tectonic</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>geomorphic indicators</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>earthquake</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Probabilistic seismic hazard analysis (PSHA)</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Central Alborz.</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>زمین‌ساخت فعال</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شاخص‌های زمین‌ریختی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>زمین‌لرزه</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تحلیل‌خطر‌احتمالی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>البرز مرکزی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ایران‌ مرکزی</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1.	Allen M. B., Armstrong H. A., &quot;Arabia-Eurasia collision and the forcing of mid-Cenozoic global cooling&quot;, Palaeoecology, 265 (2008) 52-58 2.	Berberian M., King G. C. P., &quot;Towards a paleogeography and tectonic evolution of Iran&quot;, Canadian Journal of Earth Sciences, 18 (1981) 210- 265. 3.	Vernant Ph., Nilforoushan F., Che´ry J. Bayer R. Djamour Y., Massona F., Nankalib H., Ritz J. F., Sedighi M., Tavakoli F., &quot;Deciphering oblique shortening of central Alborz in Iran using&quot;, Earth and Planetary Science Letters, 223 (2004) 177-185. 4.	Ritz J. F., Nazari H., Salamati R., Shafeii A., Solaymani S., Vernant P., &quot;Active transtension inside Central Alborz: a new insight into the Northern Iran–Southern Caspian geodynamics&quot;, Geology, 34 (2006) 477-480. 5.	Keller E. A., Pinter N., &quot;Active Tectonics: Earthquakes, Uplift, and Landscape (2ndEd.) Prentice Hall&quot;, New Jersey (2002). 6.	Ambraseys N. N., Melville C. P., &quot;A History of Persian Earthquakes&quot;, Cambridge University Press, New York, 46 (1982) 219. 7.	بلورچی م.، &quot;نقشۀ زمین‌شناسی 1:100،000 آوج&quot;، سازمان زمین‌شناسی واکتشافات معدنی کشور (1356). 8.	Jackson J., McKenzie D., &quot;Active tectonics of the Alpine-Himalayan Belt between western Turkey and Pakistan&quot;, Geophysical Journal of the Royal Astronomical Society, 77(1984) 185-264. 9.	اعلایی م.، &quot;تحلیل نوزمین‌ساختی گستره بوئین‌زهرا-آوج&quot;، جنوب قزوین، پایان‌نامه کارشناسی ارشد دانشکدۀ علوم‌زمین‌ دانشگاه خوارزمی (1394). 10.	اعلایی م.، ده‌بزرگی م.، هاشمی ا.، نوزعیم ر.، &quot;تحلیل خطر زمین‌لرزه به‌روش احتمالی به شعاع صد کیلومتری شهر آبگرم استان قزوین&quot;، سی و سومین گردهمایی علوم زمین (1393). 11.	Hack J. T., &quot;Physiographic division and differential uplift in the piedmont and Blue Ridge&quot;, U.S. Geological Survey Professional, 1265(1982) 1-49. 12.	El Hamdouni R., Irigaray C., Fernandez T., Chacón J., Keller E. A., &quot;Assessment of relative active tectonics, southwest border of Sierra Nevada (southern Spain)&quot;, Geomorphology, 96(2007) 150-173. 13.	Bull W. B., &quot;Tectonic geomorphology of mountains: a newapproach to paleoseismology&quot;, Blackwell, Malden (2007). 14.	Hare P. W., Gardner T. W., &quot;Geomorphic indicators of vertical neotectonism along converging plate margins&quot;, Nicoya Peninsula, Costa Rica. In: Morisawa, M., Hack, J.T. (Eds.), Tectonic Geomorphology. Proceedings of the 15th Annual Binghamton Geomorphology Symposium. Allen and Unwin, Boston (1985) 123-134. 15.	Mayer L., &quot;Introduction to Quantitative Geomorphology&quot;. Prentice Hall, Englewood, Cliffs, NJ (1990). 16.	Pike R. J., Wilson S. E., &quot;Elevation–relief ratio, hypsometric integral and geomorphic area–altitude analysis &quot;, Geological Society of America Bulletin 82(1971) 1079-1084. 17.	Cannon P. J., &quot;Generation of explicit parameters for a quantitative geomorphic study of Mill Creek drainage basin&quot;. Oklahoma Geology Notes 36 (1) (1976) 3-16. 18.	Ramírez-Herrera M. T., &quot;Geomorphic assessment of active tectonics in the Acambay Graben, Mexican volcanic belt&quot;. Earth Surface Processes and Landforms 23 (1998) 317-332. 19.	Bull W. B., McFadden L. D., &quot;Tectonic geomorphology north and south of the Garlock fault, California&quot;, In: Doehring, D. O. (Ed.), Geomorphology in Arid Regions. Proceedings of the Eighth Annual Geomorphology Symposium. State University of New York, Binghamton (1977) 115-138. 20.	Molin P., Pazzaglia F. J., Dramis F., &quot;Geomorphic expression of active tectonics in a rapidly-deforming forearc, sila massif, Calabria, southern Italy&quot;, American Journal of Science 304 (2004) 559-589. 21.	Gutenberg B., Richter C. F., &quot;Frequency of earthquakes in California, Bull&quot;, Seism. Soc. Am., 34 (1944) 185-188. 22.	Kijko A., Sellevoll M. A., &quot;Estimation of earthquake hazard parameters from incomplete data files&quot;, Part ΙΙ, Incorporation of magnitude heterogeneity, BSSA, 82 (1) (1992)120-134. 23.	Berberian M., &quot;An explanatory note on the first seismotectonic map of Iran; A seismo-tectonic review of the Contry&quot;, In Contribution to the seismotectonics of Iran (Part II). Geological Survey of Iran, 518 (1976). 24.	Berberian M., &quot;Preliminary report on the structural analysis of lpak active fault&quot;, Geol.Surv. lran, Int. Rep (1971). 25.	Ambraseys N. N., &quot;On the regional conditions and damage during the Buyin Zara (Iran) earthquake of Ist September 1962&quot;, Final report to the UNESCON, S Paris (1962). ##1.	Allen M. B., Armstrong H. A., &quot;Arabia-Eurasia collision and the forcing of mid-Cenozoic global cooling&quot;, Palaeoecology, 265 (2008) 52-58 ##2.	Berberian M., King G. C. P., &quot;Towards a paleogeography and tectonic evolution of Iran&quot;, Canadian Journal of Earth Sciences, 18 (1981) 210- 265.## 3.	Vernant Ph., Nilforoushan F., Che´ry J. Bayer R. Djamour Y., Massona F., Nankalib H., Ritz J. F., Sedighi M., Tavakoli F., &quot;Deciphering oblique shortening of central Alborz in Iran using&quot;, Earth and Planetary Science Letters, 223 (2004) 177-185.## 4.	Ritz J. F., Nazari H., Salamati R., Shafeii A., Solaymani S., Vernant P., &quot;Active transtension inside Central Alborz: a new insight into the Northern Iran–Southern Caspian geodynamics&quot;, Geology, 34 (2006) 477-480. ##5.	Keller E. A., Pinter N., &quot;Active Tectonics: Earthquakes, Uplift, and Landscape (2ndEd.) Prentice Hall&quot;, New Jersey (2002). ##6.	Ambraseys N. N., Melville C. P., &quot;A History of Persian Earthquakes&quot;, Cambridge University Press, New York, 46 (1982) 219. ##7.	بلورچی م.، &quot;نقشۀ زمین‌شناسی 1:100،000 آوج&quot;، سازمان زمین‌شناسی واکتشافات معدنی کشور (1356).## 8.	Jackson J., McKenzie D., &quot;Active tectonics of the Alpine-Himalayan Belt between western Turkey and Pakistan&quot;, Geophysical Journal of the Royal Astronomical Society, 77(1984) 185-264.## 9.	اعلایی م.، &quot;تحلیل نوزمین‌ساختی گستره بوئین‌زهرا-آوج&quot;، جنوب قزوین، پایان‌نامه کارشناسی ارشد دانشکدۀ علوم‌زمین‌ دانشگاه خوارزمی (1394). ##10.	اعلایی م.، ده‌بزرگی م.، هاشمی ا.، نوزعیم ر.، &quot;تحلیل خطر زمین‌لرزه به‌روش احتمالی به شعاع صد کیلومتری شهر آبگرم استان قزوین&quot;، سی و سومین گردهمایی علوم زمین (1393). ##11.	Hack J. T., &quot;Physiographic division and differential uplift in the piedmont and Blue Ridge&quot;, U.S. Geological Survey Professional, 1265(1982) 1-49.##12.	El Hamdouni R., Irigaray C., Fernandez T., Chacón J., Keller E. A., &quot;Assessment of relative active tectonics, southwest border of Sierra Nevada (southern Spain)&quot;, Geomorphology, 96(2007) 150-173. ##13.	Bull W. B., &quot;Tectonic geomorphology of mountains: a newapproach to paleoseismology&quot;, Blackwell, Malden (2007).## 14.	Hare P. W., Gardner T. W., &quot;Geomorphic indicators of vertical neotectonism along converging plate margins&quot;, Nicoya Peninsula, Costa Rica. In: Morisawa, M., Hack, J.T. (Eds.), Tectonic Geomorphology. Proceedings of the 15th Annual Binghamton Geomorphology Symposium. Allen and Unwin, Boston (1985) 123-134.## 15.	Mayer L., &quot;Introduction to Quantitative Geomorphology&quot;. Prentice Hall, Englewood, Cliffs, NJ (1990). ##16.	Pike R. J., Wilson S. E., &quot;Elevation–relief ratio, hypsometric integral and geomorphic area–altitude analysis &quot;, Geological Society of America Bulletin 82(1971) 1079-1084.## 17.	Cannon P. J., &quot;Generation of explicit parameters for a quantitative geomorphic study of Mill Creek drainage basin&quot;. Oklahoma Geology Notes 36 (1) (1976) 3-16. ##18.	Ramírez-Herrera M. T., &quot;Geomorphic assessment of active tectonics in the Acambay Graben, Mexican volcanic belt&quot;. Earth Surface Processes and Landforms 23 (1998) 317-332.## 19.	Bull W. B., McFadden L. D., &quot;Tectonic geomorphology north and south of the Garlock fault, California&quot;, In: Doehring, D. O. (Ed.), Geomorphology in Arid Regions. Proceedings of the Eighth Annual Geomorphology Symposium. State University of New York, Binghamton (1977) 115-138.## 20.	Molin P., Pazzaglia F. J., Dramis F., &quot;Geomorphic expression of active tectonics in a rapidly-deforming forearc, sila massif, Calabria, southern Italy&quot;, American Journal of Science 304 (2004) 559-589.## 21.	Gutenberg B., Richter C. F., &quot;Frequency of earthquakes in California, Bull&quot;, Seism. Soc. Am., 34 (1944) 185-188.## 22.	Kijko A., Sellevoll M. A., &quot;Estimation of earthquake hazard parameters from incomplete data files&quot;, Part ΙΙ, Incorporation of magnitude heterogeneity, BSSA, 82 (1) (1992)120-134.## 23.	Berberian M., &quot;An explanatory note on the first seismotectonic map of Iran; A seismo-tectonic review of the Contry&quot;, In Contribution to the seismotectonics of Iran (Part II). Geological Survey of Iran, 518 (1976).## 24.	Berberian M., &quot;Preliminary report on the structural analysis of lpak active fault&quot;, Geol.Surv. lran, Int. Rep (1971). ##25.	Ambraseys N. N., &quot;On the regional conditions and damage during the Buyin Zara (Iran) earthquake of Ist September 1962&quot;, Final report to the UNESCON, S Paris (1962). ## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>تلفیق مدل فرایند تحلیل سلسله مراتبی و شبکه‌های عصبی به‌منظور پهنه‌بندی خطر وقوع زمین‌لغزش (مطالعۀ موردی شهرستان بیجار)</TitleF>
+		<TitleE>Combination AHP and Neural Network Model to landslide Hazard Zonation (Case Study city of Bijar) </TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>شناسایی محدوده&#8204;های مستعد زمین&#8204;لغزش در عمران شهری و منطقه&#173;ای دارای اهمیت ویژه&#8204;ای است. در این مقاله به پهنه&#173;بندی میزان حساسیت به زمین&#8204;لغزش با استفاده از شبکه عصبی مصنوعی و تحلیل سلسله مراتبی اقدام شده است. این پهنه&#8204;بندی و تحلیل با استفاده از شبکه&#8204;های عصبی مصنوعی که قادر به&#8204; شناسایی روابط پیچیده بین حرکات توده&#173;ای و هدف یعنی عوامل پهنۀ حساسیت، به&#8204;منظور شناسایی مناطق ناپایدار صورت گرفته است. روش تحلیل سلسله مراتبی برای بهبود نمونه آموزش، در سیستم اطلاعات جغرافیایی انجام&#8204;شده است. پیش&#8204;پردازش با استفاده از روش تحلیل سلسله مراتبی داده&#173;ها برای انتخاب پیکسل&#8204;های مناطق بدون لغزش و کمک به بهبود قابلیت پیش&#173;بینی روش شبکۀ عصبی که یک مدل جعبه سیاه است انجام شده است. این روش در شهرستان بیجار در شمال شرق استان کردستان که پتانسیل زیادی برای حرکات دامنه&#8204;ای دارد، باهدف پهنه&#173;بندی زمین&#8204;لغزش به&#8204;عنوان یکی از حرکات دامنه&#8204;ای اعمال شد. بدین&#8204;منظور ابتدا بررسی&#8204;های کتابخانه&#8204;ای برای شناسایی معیارهای تأثیرگذار در این فرایند انجام گرفت بر اساس پژوهش&#8204;ها، متغیرهای لیتولوژی، فاصله از گسل، جهت شیب، کاربری اراضی، فاصله از رودخانه، فاصله از خطوط ارتباطی، شیب، ارتفاع و شبکه زهکش مهم&#8204;ترین فاکتورهای مؤثر بر زمین&#8204;لغزش محسوب می&#173;شوند که در این تحقیق ارزیابی شدند. برای ارزیابی این متغیرها در شبکۀ عصبی پرسپترون با ساختار نه لایه ورودی، دولایه پنهان و نه گره در هر دولایه با میزان یادگیری01/ با دو تابع سیگموئید و خطی به&#8204;عنوان ساختار بهینه با آزمون &#8204;و خطا پذیرفته شد برسی این متغیرها با استفاده از شبکه عصبی نشان&#8204;دهندۀ آن است که بیش از 60 درصد از منطقه بررسی شده جزء مناطق با قابلیت زمین&#8204;لغزش زیاد است. به&#8204;منظور صحت&#173;سنجی این مدل&#8204;ها از داده&#173;های مشاهده&#173;ای موجود استفاده&#8204;شده که حاکی از موفقیت و کارایی هر دو تابع با اولویت اندک تابع سیگموئید است.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Introduction
+The prediction of landslide occurrence in a region is very important in reducing the risks and damages caused by this.landslide as a natural disaster in Iran caused a lot of life and financial losses to Iran annually. According to the National Committee on Natural Disaster Reduction of the Ministry of the Interior in 1994, the share of annual damage caused by mass movements in Iran is estimated at 500 billion rials. In the meantime Kurdistan province is the third province in terms of landslide phenomenon after Mazandaran and Golestan. If considering the area is at a higher level. The city of Bijar in this province has a high potential for a wide range of landslides with a combination of mainly mountain topographical factors, lithologic conditions and positioning between two major faults in the region. In this research, using quantitative methods and models on the quantitative&#160; factors of this phenomenon based on the level of information given by past mass movements and influential factors, focusing on artificial neural network method, susceptibility zones were determined by determining the possible risk level.
+Knowing such natural events requires proper management of the risks posed by them. On the other hand, artificial neural network as a quantitative model is capable of learning, generalization and decision making, and less need to analyze the accuracy of data in comparison to statistical methods. Map of the susceptibility of the areas to the landslide is an important tool for landuse planning. However, there are many issues in the formation of this phenomenon, which, due to the complexity of the natural processes arising from the relationship between the outcome (dependent variable) and the factors (independent variables), puts into question the general zoning of such areas. 
+Methodology
+Bijar is located in the northeastern part of Kurdistan province, along the longitude of&#160;&#160; 47 ' 29&#176; to 47 &#176; 47' east, in latitude 35 &#176; 35 'to 35' 59 &#176;north. In recent years, the development of the Geographic Information System (GIS) and spatial analysis techniques have improved the risk of indirect zoning. In this regard, artificial neural networks can cover a significant part of these needs.Implementing the neural network model requires learning data. Without learning data, it's virtually impossible to make neural networks. In this paper, learning data shows the occurrence of landslides which have geographical coordinates and were obtained from the Kurdistan Province Natural Resources Organization. In general, learning data in GIS and remote sensing can include data or raster, which in this paper is a point phenomenon and has 144 cases. &#160;However, because of the large extent of the study area and the low number of them, as well as the lack of risk of any landslide zone (from low to very high), the points should be classified as well, and, in terms of numbers, Acceptance. Also, the number of points of relative value In terms of numbers, the conditions are the Normal and the same (that is, the appropriate geographical distribution and distribution in each class) would be more accurate; thus, to create a classifiable spectrum of the AHP Was used. It should be noted that all the maps were standardized in the format and format of the Raster in a matrix (698 rows in 897 columns) identical with a size of 30 * 30 meters. This means that each map has 626,106 pixels of varying value and somewhat similar. In addition, the AHP model was used to categorize the studied area from very desirable (hazardous) to very undesirable (very dangerous) areas. Also, 33 points were added to the learning data on different levels of the map derived from the AHP model. But in order to verify accurately the model, only landslide occurrences were considered.
+In order to find out the factors of landslide in Bijar, a map of slope, Aspect, elevation, distance from the fault, distance from the road, distance from the river, Drainage density, lithology and land use using ArcGIS software were prepared and digitized.
+After compiling and categorizing these variables, at first, each of the effective criteria in the field was divided into six sub-criteria (land suitability for landslide) from very desirable to very undesirable conditions. The present study utilizes the technique of multi-layer propspert neural networks using post-propagation algorithm (BP). In addition to correcting and editing the layers, the neural network model was implemented using the classification method and applying two types of functions (linear and sigmoid). Then, using the test-error method, the study of the magnitude of the error and the period of the repetition and the change in the number of hidden layers and weights, both functions were performed. Finally, the sigmoid function, which yielded a better result, was selected as the proposed and final function.Order to verify the (accuracy) of the map taken with the existing landslide zones, the final map of the neural network model was again transferred to the ArcGIS software. Finally, the available landscapes on the map resulted from the adaptive neural network model, which, by comparison, gave a percentage and amount Accuracy of each class was achieved.
+Result
+The input layer were calculated to six classes based on the desirability of mass movements. This decision approach reduces the complexity of the network and improves its performance.
+For this purpose. The AHP method was used to define non-slip pixels and range classification.
+To implement this method, 9 variables discussed, were scaled up to the most suitable and un suitable range. The final weight of these variables was obtained by using the Thomas saati pair comparison (Table 4), the study area was divided into five categories according to the map for land suitability for landslide hazard. From each class, the 20-pixel from AHP model was selected for network learning in a completely randomized manner. The proposed model is an artificial neural network of MLP multi-layered perceptron with levenberg-marquardt learning algorithm. An early stopping method was used to improve network optimization. Several hidden layers were tested to find the best results. It should be noted that in the structure of all networks, at least the optimal design with the middle one is used, but in their structural composition they are also used with mid-duplex networks. In this paper, the use of tow mid-layers showed better results. &#160;In all Simulations have been made, the mean square error index, as a guide, indicates the network performance in learning the existing model. By changing the number of intermediate neurons and changing the weights as try and error, the most appropriate network model was obtained for the purpose. In this study, the structure of the network with 9 input layers, 2 hidden layers, 1500 repetitions in both functions was accepted as the final structure. The main structure of the neural network with two linear and sigmoid functions was prepared with acceptable error, and the study area was analyzed with a total area of ​​564 km2 with 9 input variables converted into raster data to 30 &#215; 30 pixels. From 564 km2 based on the sigmoid function 61.17% and based on the linear function, 72.76% of the area is unsuitable and very unsuitable in the area where expose to high risk. In both networks, there were very few areas in both optimal and moderate classes (Figures 16 and 17), which indicate the high talent of the area for landslide as a threat. Then, ArcGIS software was used to evaluate the efficiency and accuracy of the model. For this purpose, the point of landslide and zoning maps were combined, compared and anlayzed. The results showed in the sigmoid function 75 items of Landslides were in a very unsuitable range, which included 61% of the total of region.
+Conclusion
+&#160;In the linear function, approximately 69% of the landslides are in a very unsuitable range and the unsuitable results are about 57%, which results in the success of the model designed in the neural networks (MLP). In the end, the network with sigmoid function is negligibly better than the linear function network.The results show that Bijar and its functions are relatively prone to occurrence of landslides, so that nearly 60% of the city's area is a high risk area with a high risk and only 2% is a low-risk region. The hazardous areas are mainly located around the city of Bijar especially southern and southeast. These areas correspond to high altitudes and maximum fault density and lime lithology with marl (Qom Formation). The model can be very challenging, because of innovative nature of the research, that means need more detailed and comprehensive studies../files/site1/files/121/neiri_Abstract.pdf</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>153</FPAGE>
+			<TPAGE>182</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>هادی</Name>
+				<MidName></MidName>
+				<Family>نیری</Family>
+				<NameE>Hadi</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>nayyeri</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه کردستان، دانشکدۀ منابع طبیعی،  گروه ژئومورفولوژی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه کردستان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>محمدرضا</Name>
+				<MidName></MidName>
+				<Family>کرمی</Family>
+				<NameE>Mohammadreza</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Karami</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه پیام نور، گروه جغرافیا و برنامه‌ریزی شهری</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه پیام نور</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>حرکات دامنه‌ای</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سیستم اطلاعات جغرافیایی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مخاطره</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF> 1. احمدی، ح.، اسمعیلی‌عوری ا.، فیض‌نیا، س.، شریعت‌جعفری م.، &quot;پهنه‌بندی خطر حرکات توده‌ای با استفاده از روش رگرسیون چند متغیره (MR)، تحلیل سلسله مراتبی (AHP) مطالعۀ موردی حوضۀ آبریز گرمی&quot;، مجلۀ منابع طبیعی ایران، جلد 56، شمارۀ 4 (1382). 2. ارومیه‌ای ع.، صفایی م.، &quot;کاربری زمین و تأثیر آن در ناپایداری دامنه‌ها در نکا رود&quot;، خلاصه گردهمایی علوم‌زمین، سازمان زمین‌شناسی و اکتشافات معدنی کشور (1377). 3. ایزانلو ا.، &quot;بررسی قابلیت داده‌های سنجش‌از دور و سیستم اطلاعات جغرافیایی برای پهنه‌بندی خطر حرکات توده‌ای در حوضه رودخانه بیدواز&quot;، پایان‌نامه کارشناسی ارشد، دانشگاه تربیت مدرس (1376). 3. راکعی ب.، خامه‌چیان م.، عبدالملکی پ.، گیاهچی پ.، &quot;کاربرد سیستم شبکه عصبی مصنوعی در پهنه‌بندی خطر زمین‌لغزش، مطالعۀ موردی: ناحیۀ سفیدار گله در استان سمنان&quot;، مجلۀ علوم دانشگاه تهران، دوره 33، شمارۀ 3 (1387). 4. روستایی ش.، &quot;بررسی علل وقوع زمین‌لغزش در روستای نصیرآباد ورزقان (آذربایجان شرقی) با استفاده از روش‌های کمی&quot;، فصلنامۀ مدرس علوم انسانی، دورۀ هشتم، شمارۀ اول (پیاپی 32) بهار (1383). 5. رهنماراد ج.، یادگارزائی م.، کنگی ع.، &quot;پهنه‌بندی خطر زمین‌لغزش در اسکل‌آباد خاش با استفاده از &quot;GIS، فصلنامG زمین‌شناسی کاربردی، سال 6، شمارۀ 4 (1389). 6. زکی‌زاده ح.، &quot;بررسی عوامل مؤثر درحرکت توده‌ای حوزه آبخیز ولشت و نحوه پیش‌گیری و کنترل آن&quot;، پایان‌نامۀ کارشناسی ارشد، آبخیزداری، دانشکدۀ منابع طبیعی، دانشگاه تهران (1373). 7. سوری س.، لشکری‌پور غ.، غفوری م.، فرهادی‌نژاد ط.، &quot;اولویت‌بندی عوامل مؤثر بر زمین‌لغزش و تهیۀ نقشۀ خطر با استفاده از مدل AHP در استان لرستان&quot;، مجله انجمن زمین‌شناسی مهندسی ایران، جلد 6، شمارۀ 1 و 2 (1392). 8. شادفر ص.، یمانی م.، نمکی م.، &quot;پهنه‌بندی خطر زمین‌لغزش با استفاده از مدل‌های ارزش اطلاعاتی و LNRF، در چالکرود&quot;، مجله مهندسی و مدیریت آبخیزداری، جلد 3، شمارۀ 1 (1389). 9- عابدینی م.، قاسمیان ب.، &quot;پهنه‌بندی خطر زمین‌لغزش با مدل AHP و نقش آن در برنامه‌ریزی شهری (مطالعۀ موردی: شهرستان بیجار)&quot;، مجموعه چکیده مقالات دومین کنفرانس ملی برنامه‌ریزی و محیط‌زیست، دانشکدۀ محیط‌زیست دانشگاه تهران (1391). 10. علیخانی ب.، قهرودی م.، امیراحمدی ا.، &quot;پهنه‌بندی خطر وقوع زمین‌لغزش در دامنه‌های شمالی شاه جهان با استفاده از &quot;GIS، فصلنامۀ تحقیقات جغرافیایی، شمارۀ 84. (۱۳۸۶). 11. علی‌محمدی ص.، پاشایی ع.، شتایی جویباری ش.، &quot;ارزیابی کارایی مدل‌های پهنه‌بندی خطر زمین‌لغزش در حوضۀ سید کلاته رامیان&quot;، مجلۀ پژوهش‌های حفاظت آب‌ وخاک، جلد 16، شمارۀ 1، 78-60 (1386). 12. قاسمیان ب.، &quot;پهنه‌بندی خطر وقوع زمین‌لغزش با استفاده از مدل آماری رگرسیون لجستیک، مطالعۀ موردی: (استان کردستان-شهرستان بیجار)&quot;، پایان‌نامه کارشناسی ارشد، دانشکدۀ علوم انسانی، دانشگاه محقق اردبیلی (1391). 13. مرادی ح.، سپهوند ع.، عبدالمالکی پ.، &quot;بررسی تأثیر تعداد عوامل ورودی در مقدار دقت شبکه عصبی مصنوعی برای پهنه‌بندی خطر وقوع زمین‌لغزش (بررسی موردی: حوزه آبخیز هراز)&quot;، مجلۀ مرتع و آبخیزداری، دورۀ 65، شمارۀ 2، (1391) 231-243. 14. منهاج م.، &quot;بهوش محاسباتی، جلد اول: مبانی شبکه‌های عصبی&quot;، انتشارات دانشگاه امیرکبیر (1393). 15. میرصانعی ر.، مهدیفر م.، &quot;روش‌ها و معیارهای بهینه جهت تهیه نقشه‌های پهنه‌بندی خطر زمین‌لغزش، پژوهشکدۀ سوانح طبیعی (1385). 16. نیک‌اندیش ن.، نگرشی بر اهمیت حرکات توده‌ای زمین در ایران&quot;، نشریۀ جهادسازندگی، شمارۀ 155، سال دوازدهم (1376). 17. یمانی م.، حسن‌پور س.، مصطفایی ا.، شادمان‌رود پشتی م.، &quot;نقشۀ پهنه‌بندی خطر زمین‌لغزش در کارون بزرگ با استفاده از مدل AHP، جغرافیا و برنامه‌ریزی محیطی، شمارۀ 48 (1391). 18. Ayalew L., Yamagishi H., &quot;The application of GIS-based logisticre-gression for landslide susceptibility mapping in the Kakuda-Yahiko Mountains&quot;, Central Japan. Geomorphology 65 (1-2) (2005). 19. Berberian M., King G. C. P., &quot;Towards A Paleogeography and Tectonic Evolution Of Iran&quot;, (1981). 20. Bilifard F., Jaboyedoff M., Satori M., &quot;Rock fall hazard mapping a long a mountainous road in Switzerland using a GIS-based paramte rating approaches&quot;, Natural Hazard and Earth SystemSciences 3 (2003). 21. Chang K. T. Chaing Sh., Hsu M. L., &quot;Modeling typhoon-and earthquake-induced landslides in a mountainous watershed using logistic regression&quot;, Geomorphology, V89 (2007). 22. Dai F. C. Lee C. F., Xu Z. W., &quot;Assessment of landslide susceptibility on the natural terrain of Lantau Island, Hong Kong. Environ Geol 40 (3) (2001). 23. Ermini L., Catani F., Casagli N., &quot;Artificial Neural Networks applied to landslide susceptibility assessment&quot;, Geomorphology 66 (2005) 327-343.  24- Hagan M. T., Menhaj M., &quot;Training Feed-Forward Networks with the Marquardt Algorithm&quot;, IEEE Transactions on Neural Networks, 5 (1994) 989-993. 25. Kellogg K., &quot;Tectonic controls on a large landslidecomplex: williams Forkmountains near Dillon,Coloado,Elsevier&quot;, Geomorphology journal, Volume 41 (2001). 26. Lee S., Min K., &quot;Statistical analysis of landslide susceptibility at Yongin&quot;, Korea, Environmental Geology, Vol. 40 .(2001) 1095-1113. 27. Lee S., &quot;Application of logistic regression model and its validation for landslide susceptibility mapping using GIS and remote sensing data&quot;, International Journal of Remote Sensing 26 (7) (2005)1477-1491. 28. Melchiorre C., Matteucci M., Azzoni A., &quot;Zanchi AArtificial neural networks and cluster analysis in landslide susceptibility zonation&quot;, Geomorphology, 94 (2008) 379-400.  29. Yalcin A., &quot;GIS based landslide susceptibility maping using analytical hierarchy process and bivariate statistics in Ardesen(Turkey)&quot;, Comparisons of result and confirmation Catena, Vol. 72 (2008). 30. William J., Blackwell and Frederick W. Chen, &quot;Neural Networks in Atmospheric Remote Sensing, Massachusetts Institute of Technology Press&quot;, ISBN: 978-1-59693-372-9 (2009) 105-106. 31. Gurney, Kevin, &quot;An introduction to neural networks&quot;, UCL Press, 56 (1999). ## 1. احمدی، ح.، اسمعیلی‌عوری ا.، فیض‌نیا، س.، شریعت‌جعفری م.، &quot;پهنه‌بندی خطر حرکات توده‌ای با استفاده از روش رگرسیون چند متغیره (MR)، تحلیل سلسله مراتبی (AHP) مطالعۀ موردی حوضۀ آبریز گرمی&quot;، مجلۀ منابع طبیعی ایران، جلد 56، شمارۀ 4 (1382). ##2. ارومیه‌ای ع.، صفایی م.، &quot;کاربری زمین و تأثیر آن در ناپایداری دامنه‌ها در نکا رود&quot;، خلاصه گردهمایی علوم‌زمین، سازمان زمین‌شناسی و اکتشافات معدنی کشور (1377).## 3. ایزانلو ا.، &quot;بررسی قابلیت داده‌های سنجش‌از دور و سیستم اطلاعات جغرافیایی برای پهنه‌بندی خطر حرکات توده‌ای در حوضه رودخانه بیدواز&quot;، پایان‌نامه کارشناسی ارشد، دانشگاه تربیت مدرس (1376).## 3. راکعی ب.، خامه‌چیان م.، عبدالملکی پ.، گیاهچی پ.، &quot;کاربرد سیستم شبکه عصبی مصنوعی در پهنه‌بندی خطر زمین‌لغزش، مطالعۀ موردی: ناحیۀ سفیدار گله در استان سمنان&quot;، مجلۀ علوم دانشگاه تهران، دوره 33، شمارۀ 3 (1387).## 4. روستایی ش.، &quot;بررسی علل وقوع زمین‌لغزش در روستای نصیرآباد ورزقان (آذربایجان شرقی) با استفاده از روش‌های کمی&quot;، فصلنامۀ مدرس علوم انسانی، دورۀ هشتم، شمارۀ اول (پیاپی 32) بهار (1383). ##5. رهنماراد ج.، یادگارزائی م.، کنگی ع.، &quot;پهنه‌بندی خطر زمین‌لغزش در اسکل‌آباد خاش با استفاده از &quot;GIS، فصلنامG زمین‌شناسی کاربردی، سال 6، شمارۀ 4 (1389). ##6. زکی‌زاده ح.، &quot;بررسی عوامل مؤثر درحرکت توده‌ای حوزه آبخیز ولشت و نحوه پیش‌گیری و کنترل آن&quot;، پایان‌نامۀ کارشناسی ارشد، آبخیزداری، دانشکدۀ منابع طبیعی، دانشگاه تهران (1373). ##7. سوری س.، لشکری‌پور غ.، غفوری م.، فرهادی‌نژاد ط.، &quot;اولویت‌بندی عوامل مؤثر بر زمین‌لغزش و تهیۀ نقشۀ خطر با استفاده از مدل AHP در استان لرستان&quot;، مجله انجمن زمین‌شناسی مهندسی ایران، جلد 6، شمارۀ 1 و 2 (1392).## 8. شادفر ص.، یمانی م.، نمکی م.، &quot;پهنه‌بندی خطر زمین‌لغزش با استفاده از مدل‌های ارزش اطلاعاتی و LNRF، در چالکرود&quot;، مجله مهندسی و مدیریت آبخیزداری، جلد 3، شمارۀ 1 (1389). ##9- عابدینی م.، قاسمیان ب.، &quot;پهنه‌بندی خطر زمین‌لغزش با مدل AHP و نقش آن در برنامه‌ریزی شهری (مطالعۀ موردی: شهرستان بیجار)&quot;، مجموعه چکیده مقالات دومین کنفرانس ملی برنامه‌ریزی و محیط‌زیست، دانشکدۀ محیط‌زیست دانشگاه تهران (1391).## 10. علیخانی ب.، قهرودی م.، امیراحمدی ا.، &quot;پهنه‌بندی خطر وقوع زمین‌لغزش در دامنه‌های شمالی شاه جهان با استفاده از &quot;GIS، فصلنامۀ تحقیقات جغرافیایی، شمارۀ 84. (۱۳۸۶). ##11. علی‌محمدی ص.، پاشایی ع.، شتایی جویباری ش.، &quot;ارزیابی کارایی مدل‌های پهنه‌بندی خطر زمین‌لغزش در حوضۀ سید کلاته رامیان&quot;، مجلۀ پژوهش‌های حفاظت آب‌ وخاک، جلد 16، شمارۀ 1، 78-60 (1386). ##12. قاسمیان ب.، &quot;پهنه‌بندی خطر وقوع زمین‌لغزش با استفاده از مدل آماری رگرسیون لجستیک، مطالعۀ موردی: (استان کردستان-شهرستان بیجار)&quot;، پایان‌نامه کارشناسی ارشد، دانشکدۀ علوم انسانی، دانشگاه محقق اردبیلی (1391).## 13. مرادی ح.، سپهوند ع.، عبدالمالکی پ.، &quot;بررسی تأثیر تعداد عوامل ورودی در مقدار دقت شبکه عصبی مصنوعی برای پهنه‌بندی خطر وقوع زمین‌لغزش (بررسی موردی: حوزه آبخیز هراز)&quot;، مجلۀ مرتع و آبخیزداری، دورۀ 65، شمارۀ 2، (1391) 231-243.## 14. منهاج م.، &quot;بهوش محاسباتی، جلد اول: مبانی شبکه‌های عصبی&quot;، انتشارات دانشگاه امیرکبیر (1393). ##15. میرصانعی ر.، مهدیفر م.، &quot;روش‌ها و معیارهای بهینه جهت تهیه نقشه‌های پهنه‌بندی خطر زمین‌لغزش، پژوهشکدۀ سوانح طبیعی (1385). ##16. نیک‌اندیش ن.، نگرشی بر اهمیت حرکات توده‌ای زمین در ایران&quot;، نشریۀ جهادسازندگی، شمارۀ 155، سال دوازدهم (1376). ##17. یمانی م.، حسن‌پور س.، مصطفایی ا.، شادمان‌رود پشتی م.، &quot;نقشۀ پهنه‌بندی خطر زمین‌لغزش در کارون بزرگ با استفاده از مدل AHP، جغرافیا و برنامه‌ریزی محیطی، شمارۀ 48 (1391). ##18. Ayalew L., Yamagishi H., &quot;The application of GIS-based logisticre-gression for landslide susceptibility mapping in the Kakuda-Yahiko Mountains&quot;, Central Japan. Geomorphology 65 (1-2) (2005). ##19. Berberian M., King G. C. P., &quot;Towards A Paleogeography and Tectonic Evolution Of Iran&quot;, (1981).## 20. Bilifard F., Jaboyedoff M., Satori M., &quot;Rock fall hazard mapping a long a mountainous road in Switzerland using a GIS-based paramte rating approaches&quot;, Natural Hazard and Earth SystemSciences 3 (2003). ##21. Chang K. T. Chaing Sh., Hsu M. L., &quot;Modeling typhoon-and earthquake-induced landslides in a mountainous watershed using logistic regression&quot;, Geomorphology, V89 (2007).## 22. Dai F. C. Lee C. F., Xu Z. W., &quot;Assessment of landslide susceptibility on the natural terrain of Lantau Island, Hong Kong. Environ Geol 40 (3) (2001). 23. Ermini L., Catani F., Casagli N., &quot;Artificial Neural Networks applied to landslide susceptibility assessment&quot;, Geomorphology 66 (2005) 327-343. ## 24- Hagan M. T., ##Menhaj M., &quot;Training Feed-Forward Networks with the Marquardt Algorithm&quot;, IEEE Transactions on Neural Networks, 5 (1994) 989-993.## 25. Kellogg K., &quot;Tectonic controls on a large landslidecomplex: williams Forkmountains near Dillon,Coloado,Elsevier&quot;, Geomorphology journal, Volume 41 (2001). 26. Lee S., Min K., &quot;Statistical analysis of landslide susceptibility at Yongin&quot;, Korea, Environmental Geology, Vol. 40 .(2001) 1095-1113. ##27. Lee S., &quot;Application of logistic regression model and its validation for landslide susceptibility mapping using GIS and remote sensing data&quot;, International Journal of Remote Sensing 26 (7) (2005)1477-1491. ##28. Melchiorre C., Matteucci M., Azzoni A., &quot;Zanchi AArtificial neural networks and cluster analysis in landslide susceptibility zonation&quot;, Geomorphology, 94 (2008) 379-400. ## 29. Yalcin A., &quot;GIS based landslide susceptibility maping using analytical hierarchy process and bivariate statistics in Ardesen(Turkey)&quot;, Comparisons of result and confirmation Catena, Vol. 72 (2008).## 30. William J., Blackwell and Frederick W. Chen, &quot;Neural Networks in Atmospheric Remote Sensing, Massachusetts Institute of Technology Press&quot;, ISBN: 978-1-59693-372-9 (2009) 105-106. 31. Gurney, Kevin, &quot;An introduction to neural networks&quot;, UCL Press, 56 (1999). ## ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+</ARTICLES>
+
+</JOURNAL>
+</XML>

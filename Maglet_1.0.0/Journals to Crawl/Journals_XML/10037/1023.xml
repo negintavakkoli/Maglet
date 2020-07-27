@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXDOISerialArticleWorkRegistrationMessage xmlns:cl="http://www.medra.org/DOIMetadata/2.0/Citations" xmlns="http://www.editeur.org/onix/DOIMetadata/2.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.editeur.org/onix/DOIMetadata/2.0 http://www.medra.org/schema/onix/DOIMetadata/2.0/ONIX_DOIMetadata_2.0.xsd">
+	<Header>
+		<FromCompany>Sinaweb</FromCompany>
+		<FromPerson>Sinaweb DOI</FromPerson>
+		<FromEmail>doi@sinaweb.net</FromEmail>
+		<ToCompany>mEDRA</ToCompany>
+		<SentDate>20200726</SentDate>
+		<MessageNote>DOI Registration</MessageNote>
+		<NotificationResponse>01</NotificationResponse>
+	</Header>
+
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.6.1.1</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-381-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>381</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>381</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>6</JournalVolumeNumber>
+				<JournalIssueNumber>1</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201211</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Investigation of optimum depth for tunnel of Mashhad metro line 2</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>S Afshar</PersonName>
+						<PersonNameInverted>Afshar, S</PersonNameInverted>
+						<NamesBeforeKey>S</NamesBeforeKey>
+						<KeyNames>Afshar</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>M Ghafori</PersonName>
+						<PersonNameInverted>Ghafori, M</PersonNameInverted>
+						<NamesBeforeKey>M</NamesBeforeKey>
+						<KeyNames>Ghafori</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>GR Lashkaripur</PersonName>
+						<PersonNameInverted>Lashkaripur, GR</PersonNameInverted>
+						<NamesBeforeKey>GR</NamesBeforeKey>
+						<KeyNames>Lashkaripur</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>4</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>M Arian</PersonName>
+						<PersonNameInverted>Arian, M</PersonNameInverted>
+						<NamesBeforeKey>M</NamesBeforeKey>
+						<KeyNames>Arian</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>5</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>M Musavimadah</PersonName>
+						<PersonNameInverted>Musavimadah, M</PersonNameInverted>
+						<NamesBeforeKey>M</NamesBeforeKey>
+						<KeyNames>Musavimadah</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201211</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2012</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>S Afshar</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.6.1.2</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-395-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>395</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>395</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>6</JournalVolumeNumber>
+				<JournalIssueNumber>1</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201211</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Determination of Uniaxial Compressive Strength of Microcrystalline Limestone Using Single Particle Test</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Akbar Cheshomi</PersonName>
+						<PersonNameInverted>Cheshomi, Akbar</PersonNameInverted>
+						<NamesBeforeKey>Akbar</NamesBeforeKey>
+						<KeyNames>Cheshomi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Ebrahim Ahamadi sheshde</PersonName>
+						<PersonNameInverted>Ahamadi sheshde, Ebrahim</PersonNameInverted>
+						<NamesBeforeKey>Ebrahim</NamesBeforeKey>
+						<KeyNames>Ahamadi sheshde</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201211</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2012</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Akbar Cheshomi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.6.1.3</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-380-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>380</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>380</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>6</JournalVolumeNumber>
+				<JournalIssueNumber>1</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201211</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>The effect of pH of water and mineralogical properties on the slake durability of tuff in north Qazvin</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName> </PersonName>
+						<PersonNameInverted>, </PersonNameInverted>
+						<NamesBeforeKey></NamesBeforeKey>
+						<KeyNames></KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>AR Taleb Beydokhti</PersonName>
+						<PersonNameInverted>Taleb Beydokhti, AR</PersonNameInverted>
+						<NamesBeforeKey>AR</NamesBeforeKey>
+						<KeyNames>Taleb Beydokhti</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>A Asiabanha</PersonName>
+						<PersonNameInverted>Asiabanha, A</PersonNameInverted>
+						<NamesBeforeKey>A</NamesBeforeKey>
+						<KeyNames>Asiabanha</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201211</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2012</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName> </PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+	
+</ONIXDOISerialArticleWorkRegistrationMessage>
+ 
+  
+  
+  
+  
+ 

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1397</year>
+	<month>7</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2018</year>
+	<month>10</month>
+	<day>1</day>
+</pubdate>
+<volume>12</volume>
+<number>2</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>برآورد توزیع حجم بلوک‌های سنگی تشکیل شده در روش المان مجزا با استفاده از شاخص مقاومت زمین‌شناسی (GSI)</title_fa>
+	<title>Estimation of Rock Block Size Distribution with Distinct Element Method (DEM) using Geological Strength Index (GSI)</title>
+	<subject_fa>ژئوتکنیک (مکانیک خاک و سنگ)</subject_fa>
+	<subject>Geotecnic</subject>
+	<content_type_fa>مقاله استخراج شده از پایان نامه</content_type_fa>
+	<content_type>Research Paper</content_type>
+	<abstract_fa>&lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;در مدل&#8204;سازی عددی با استفاده از روش المان مجزا، چگونگی ایجاد ناپیوستگی&#8204;ها در مدل تأثیر زیادی بر نتایج نهایی مدل&#8204;سازی دارد. در نرم&#8204;افزار&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:times new roman,serif;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;3DEC&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt; امکان ایجاد دسته درزه&#8204;ها به چهار حالت منظم و مداوم، منظم و غیرمداوم، نامنظم و مداوم و نامنظم و غیرمداوم وجود دارد. از طرفی به&#8204;دلیل تأثی&lt;a name=&quot;_GoBack&quot;&gt;&lt;/a&gt;ر عمده ابعاد بلوک&#8204;ها بر رفتار تودۀ سنگ و پارامترهای مقاومتی و تغییرشکل&#8204;پذیری آن، این&#8204;که از چهار حالت موجود کدام مناسب&#8204;تر است و بیان&#8204;کنندۀ شرایط واقعی تودۀ سنگ است نکتۀ مهمی است که باید به آن توجه شود. در این پژوهش از دیدگاه کمی&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;موجود برای&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;محاسبه&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;شاخص&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;مقاومت&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;زمین&#8204;شناسی&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;(&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:times new roman,serif;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;GSI&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;که&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;کای و&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;همکاران&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;ارائه&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;کرده&#8204;اند و در آن ابعاد بلوک&#8204;ها به&#8204;عنوان پارامتری اثرگذار مورد نیاز است به&#8204;منظور تعیین مناسب&#8204;ترین حالت برای ایجاد درزه&#8204;ها در مدل عددی بهره گرفته شده است. در همین راستا با استفاده از مشخصات سیستم ناپیوستگی&#8204;های تکیه&#8204;گاه چپ سد بختیاری و طبقه&#8204;بندی &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:times new roman,serif;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;GSI&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt; تودۀ سنگ این ناحیه، مناسب&#8204;ترین روش ایجاد دسته درزه&#8204;ها در یک مدل عددی با توجه به فاصله&#8204;داری و تداوم آن&#8204;ها به&#8204;گونه&#8204;ای که ابعاد بلوک&#8204;های تولید شده تطابق زیادی با ابعاد بلوک&#8204;ها در واقعیت داشته باشد پیشنهاد شده است.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</abstract_fa>
+	<abstract>&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br&gt;
+The rock block volumes are formed due to the intersection of discontinuities in the jointed rock mass. The block dimensions affected by joint spacing, joint orientation, joint sets, are taken to be the most important parameters determining the rock mass behavior, strength parameters, and deformations. In the numerical modeling using distinct element method, the creation of the discontinuities can affect the final results very much. Using 3DEC software, it is possible to create joint sets in four conditions: regular and persistent, regular and non-persistent, non-regular and persistent, irregular and non-persistent. As an important point to consider, the major effect of block dimensions on rock mass behavior, strength parameters and deformation modulus can help to decide which one is most suitable to indicate the real conditions of rock mass. As explained in the previous studies, the use of persistent joints leads to the block dimensions being considered as small ones. In this way, due to the high strength of intact rock compared to the joints, the possibility of instability increases.&lt;br&gt;
+&lt;strong&gt;Material and methods&lt;/strong&gt;&lt;br&gt;
+In this research, from quantitative point of view, Geological Strength Index (GSI) is calculated, based on block dimensions as an influential parameter, to consider the most appropriate case for creating joints in the numerical method. In this regard, according to valuable studies in Bakhtiari dam structure, the characteristics of discontinuities system and GSI of rock mass are utilized to come up with real conditions. Then, the modeling is done with different conditions of joints, block volume distribution, GSI for each case, and the results are compared with quantitative ones. And then the most suitable case for creation of joints in numerical modeling is suggested by using 3 DEC software, regarding the blocks volumes, type of distribution function, and GSI value. Also, the accuracy of this finding is investigated for other structures, independently of input parameters, by making changes in spacing, and joints persistence as two effective parameters in rock blocks dimensions. Owing to the difficulty in the accurate definition of joints persistence, which is related to dimensions of the location, the numerical models for joint persistence are done in an acceptable level in order to create blocks with high conformity in terms of the dimensions. Then, the comparison is made between block dimensions from perspectives of numerical models and GSI values, to choose the best ones showing high conformity with real conditions.&lt;br&gt;
+&lt;strong&gt;Results and discussion&lt;/strong&gt;&lt;br&gt;
+The comparison of the modeling results using creation of joints in different cases with quantitative results obtained according to geological strength shows that the created block volumes are not properly distributed due to the creation of joints as irregular ones in the two cases of persistent and non-persistent. In this case, the blocks volume changes from a few centimeter to cubic meter, and as the block dimensions increase, the created blocks become bigger. Thus, according to the created blocks volume and the obtained GSI range, the creation of joints is not a suitable method as an irregular one. The creation of regular and persistent joints is not an appropriate method either, as the most created blocks are small, and blocks volume distributions do not comply with quantitative distribution. But with creation of joints as regular and persistent ones, the distribution function of blocks volume in numerical method and quantitative method is log normal. Therefore, according to the created blocks dimensions and GSI range using 3DEC software, the most suitable case is the creation of joints as regular and non-persistent ones.&amp;nbsp;&lt;br&gt;
+&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;br&gt;
+According to the obtained results in the four cases, when the joints are considered only as regular and non-persistent ones, the blocks volume range is more compatible with real conditions and follows log normal distribution. Thus it can be concluded that the suggested method for creation of joints in the numerical modeling using 3DEC software is more suitable than others considering the rock blocks dimensions and their distributions. This method can be utilized in any structure to accurately define the persistence of joints regarding created blocks dimension.</abstract>
+	<keyword_fa>روش المان مجزا, نرم افزار3DEC, ابعاد بلوک‌ها, GSI, تداوم درزه‌ها</keyword_fa>
+	<keyword>Distinct Element Method, 3DEC software, blocks dimensions, GSI, persistence of joints</keyword>
+	<start_page>259</start_page>
+	<end_page>276</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-1424-1&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>Mahmoud</first_name>
+	<middle_name></middle_name>
+	<last_name> Behnia</last_name>
+	<suffix></suffix>
+	<first_name_fa>محمود</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>بهنیا</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>behnia@cc.iut.ac.ir</email>
+	<code>10031947532846002520</code>
+	<orcid>10031947532846002520</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی اصفهان، دانشکدۀ مهندسی معدن</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Javad</first_name>
+	<middle_name></middle_name>
+	<last_name> Tavakoli</last_name>
+	<suffix></suffix>
+	<first_name_fa>جواد</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>توکلی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>javad.tavakoli@mi.iut.ac.ir</email>
+	<code>10031947532846002521</code>
+	<orcid>10031947532846002521</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی اصفهان، دانشکدۀ مهندسی معدن</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Masoud</first_name>
+	<middle_name></middle_name>
+	<last_name> Cheraghi Seifabad</last_name>
+	<suffix></suffix>
+	<first_name_fa>مسعود</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>چراغی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>cheraghi@cc.iut.ac.ir</email>
+	<code>10031947532846002522</code>
+	<orcid>10031947532846002522</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی اصفهان، دانشکدۀ مهندسی معدن</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

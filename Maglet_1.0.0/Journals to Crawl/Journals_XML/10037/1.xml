@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1399</year>
+	<month>2</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2020</year>
+	<month>5</month>
+	<day>1</day>
+</pubdate>
+<volume>14</volume>
+<number>1</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>ظرفیت باربری پی نواری مستقر در شیب به روش مرز بالای تحلیل حدی اجزاء محدود</title_fa>
+	<title>Bearing Capacity of Strip Foundation on Slope Based on Finite Element Limit Analysis Method</title>
+	<subject_fa>ژئوتکنیک (مکانیک خاک و سنگ)</subject_fa>
+	<subject>Geotecnic</subject>
+	<content_type_fa>مقاله استخراج شده از پایان نامه</content_type_fa>
+	<content_type>Research Paper</content_type>
+	<abstract_fa>&lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:B Lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;در این مقاله، ظرفیت باربری پی نواری مستقر در شیب&amp;shy;هایی با خاک دانه&amp;shy;ای، به&#8204;روش مرز بالای تحلیل حدی اجزاء محدود بررسی شده است. این روش تحلیلی، امکان استفاده از مزیت&amp;shy;های هر دو روش تحلیل حدی و اجزاء محدود را فراهم می&amp;shy;آورد.&amp;nbsp; تأثیر شیب&amp;shy;های مختلف بالادست و پایین&amp;shy;دست، عمق&amp;shy;های مختلف گود بالادست و پایین&amp;shy;دست، زوایای مختلف اصطکاک خاک و همچنین تأثیر انواع مش&amp;shy;بندی بر ظرفیت باربری ارزیابی شده است. ظرفیت باربری پی با در نظرگیری لغزش بین دو المان و تحت بهینه&amp;shy;سازی خطی حاصل شده است. مطابق نتایج حاصل، تغییرات پایین&amp;shy;دست پی تأثیر به&#8204;سزایی و تغییرات بالادست پی تأثیر اندکی بر ظرفیت باربری دارد. نتایج روش ارائه شده در این تحقیق، حد بالایی از روش&amp;shy;های تعادل حدی و اجزاء محدود جابه&#8204;جایی است. با این وجود در تحقیق حاضر، روش تحلیل حدی قطعات صلب حد بالایی از روش ارائه شده است. روش خطوط مشخصه، با توجه به زاویه شیب در برخی موارد ظرفیت باربری بیش&#8204;تری و در برخی موارد مقدار کم&#8204;تری را نشان می&amp;shy;دهد.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</abstract_fa>
+	<abstract>&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br&gt;
+Studying the effect of slope angle on bearing capacity of foundations on the slope in urban areas is a challenging problem that has been investigated by researchers for years. In general, the analytical approaches for solving this problem can be categorized into limit equilibrium, characteristics and limit analysis methods. In recent years, there have been studies for using the limit analysis within the framework of finite element method for geomaterials. In these studies, the soil mass is not considered as rigid and there is no need to predefine a failure surface for the slope. In the performed research, using the upper bound finite element limit analysis, bearing capacity of strip foundation on slope have been studied. This analytical method enables the use of the advantages of both methods of limit analysis and finite element analysis. In this method, the slip between the two elements is considered. In order to find the critical state of the failure, the rate of power internally dissipated is linearly optimized, by using the interior points method. The advantages of this method are the high convergence rate in comparison with other analytical optimization methods. The effect of different upstream and downstream slopes and foundation depths and also the influence of various mesh discretizations have been evaluated. Finally, the results are compared with those obtained from previous methods available in the literature.&lt;br&gt;
+&lt;strong&gt;Methods&lt;/strong&gt;&lt;br&gt;
+The finite element limit analysis method is based on nodal velocities. Considering the principals of the finite element method and having the nodal velocities, the velocity at each node of the element can be obtained from corresponding shape functions.&amp;nbsp;The rate of power internally dissipated in each element is defined by multiplying the strain rate on stress in each element. In this method, the slip between the two elements and the rate of internal power dissipated at each discontinuity of two adjacent elements is considered. For this purpose, in each node, four new unknowns&amp;rsquo; velocities are defined. To remove the stress from the equations, and provide a linear relationship for linear optimization, a linear approximation to the yield function has been used. For this purpose, the Mohr-Coulomb yield criterion is estimated with a polygon in the stress space. Also, using the reduced strength parameter, the effect of the dilation angle is considered. According to the principles of upper bound limit analysis, the value of plastic strain rate is calculated from the flow rule. The velocity field in elements and discontinuities must satisfy the set of constraints imposed by an associated flow rule. In order to have an acceptable kinematics field, the velocity vectors have to satisfy the boundary conditions. These conditions include zero kinematics velocities along the vertical and horizontal boundaries of the geometry as well as negative vertical unit velocities and zero horizontal velocities at points underneath the rigid foundation.&lt;br&gt;
+&lt;strong&gt;Results and discussion&lt;/strong&gt;&lt;br&gt;
+In order to calculate the bearing capacity of foundation, a set of different uniform and non-uniform mesh has been examined. The results obtained from different uniform mesh sizes indicate a certain divergence in the course of analysis. However, the results between the fine and very fine non-uniform mesh are closely related to each other and are converged. The obtained results show that, by increasing the internal friction angle, the bearing capacity has been increased. At high angles of modified friction, the effect of increasing the internal friction angle on the increase in bearing capacity is more in slopes with lower angles. By increasing the downstream foundation depth, the bearing capacity has been increased. This increase is more important in the case of slopes with lower angles. However, the upstream depth variations didn't present a significant effete on bearing capacity. In order to investigate the effect of upstream angle on the bearing capacity, the upstream mesh is also refined similar to the downstream. The obtained results indicate that variations of the upstream angle have a minor effect on the bearing capacity. This is of course true if the upstream slope is fully stable. The results of the proposed method in this study are an upper bound for the results reported by the limit equilibrium and displacement finite element methods. As seen in Figure 1, the suggested method predicts lower bearing capacities compared to rigid block limit analysis method and is indeed a lower bound for the classical limit analysis method. The finite element limit analysis with linear optimization has resulted in more bearing capacity than cone optimization&lt;span dir=&quot;RTL&quot;&gt;.&lt;/span&gt; The bearing capacities, obtained from characteristic lines method depending to the slope angles, in some cases is more and in some cases less than those explored by the proposed method.&lt;br&gt;
+In this paper, the bearing capacity of foundation located on slope was evaluated by finite element limit analysis method. In this regard, the effects of different downstream and upstream angles of slope and foundation depths and also, the effect of various mesh discretizations on the bearing capacity were studied. It is shown that an increase in the downstream angle causes a decrease in the bearing capacity and an increase in the downstream foundation depth leads to an increase in the bearing capacity.&amp;nbsp; However, the upstream angle and upstream foundation depth were not much effective on the bearing capacity.&lt;br&gt;
+&amp;nbsp;</abstract>
+	<keyword_fa>ظرفیت باربری, پی مستقر در شیب, روش تحلیل حدی اجزاء محدود, تغییرات بالادست و پایین‌دست شیب.</keyword_fa>
+	<keyword> bearing capacity, strip footing on the slope, finite element method, limit analysis method, upstream and downstream slopes variations</keyword>
+	<start_page>53</start_page>
+	<end_page>78</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-1700-1&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>Mohammad Mahdi</first_name>
+	<middle_name></middle_name>
+	<last_name> Aminpour1</last_name>
+	<suffix></suffix>
+	<first_name_fa>محمد مهدی</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>امین پور</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>Aminpour.geoeng@gmail.com</email>
+	<code>10031947532846004248</code>
+	<orcid>10031947532846004248</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه بوعلی سینا، دانشکدۀ مهندسی، گروه مهندسی عمران</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Mohammad</first_name>
+	<middle_name></middle_name>
+	<last_name> Maleki</last_name>
+	<suffix></suffix>
+	<first_name_fa>محمد</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>ملکی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>Maleki@basu.ac.ir</email>
+	<code>10031947532846004249</code>
+	<orcid>10031947532846004249</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه بوعلی سینا، دانشکدۀ مهندسی، گروه مهندسی عمران</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXDOISerialArticleWorkRegistrationMessage xmlns:cl="http://www.medra.org/DOIMetadata/2.0/Citations" xmlns="http://www.editeur.org/onix/DOIMetadata/2.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.editeur.org/onix/DOIMetadata/2.0 http://www.medra.org/schema/onix/DOIMetadata/2.0/ONIX_DOIMetadata_2.0.xsd">
+	<Header>
+		<FromCompany>Sinaweb</FromCompany>
+		<FromPerson>Sinaweb DOI</FromPerson>
+		<FromEmail>doi@sinaweb.net</FromEmail>
+		<ToCompany>mEDRA</ToCompany>
+		<SentDate>20200722</SentDate>
+		<MessageNote>DOI Registration</MessageNote>
+		<NotificationResponse>01</NotificationResponse>
+	</Header>
+
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.9</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-317-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>317</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>317</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Urban Design Framework for MollāSadrā Avenue in Shiraz (Iran) with an Approach to Social Interactions</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Sahand Lotfi</PersonName>
+						<PersonNameInverted>Lotfi, Sahand</PersonNameInverted>
+						<NamesBeforeKey>Sahand</NamesBeforeKey>
+						<KeyNames>Lotfi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Arsalan Golmakani</PersonName>
+						<PersonNameInverted>Golmakani, Arsalan</PersonNameInverted>
+						<NamesBeforeKey>Arsalan</NamesBeforeKey>
+						<KeyNames>Golmakani</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Hosein Poor</PersonName>
+						<PersonNameInverted>Hosein Poor, Mohammad</PersonNameInverted>
+						<NamesBeforeKey>Mohammad</NamesBeforeKey>
+						<KeyNames>Hosein Poor</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>4</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mahsa Sholeh</PersonName>
+						<PersonNameInverted>Sholeh, Mahsa</PersonNameInverted>
+						<NamesBeforeKey>Mahsa</NamesBeforeKey>
+						<KeyNames>Sholeh</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Sahand Lotfi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.25</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-318-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>318</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>318</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Investigate the relashionship between growth and size of cities in the urban areas of the rule Gibrat</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>ُSyavash Golzarian poor</PersonName>
+						<PersonNameInverted>Golzarian poor, ُSyavash</PersonNameInverted>
+						<NamesBeforeKey>ُSyavash</NamesBeforeKey>
+						<KeyNames>Golzarian poor</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>hadi rahmani fazli</PersonName>
+						<PersonNameInverted>rahmani fazli, hadi</PersonNameInverted>
+						<NamesBeforeKey>hadi</NamesBeforeKey>
+						<KeyNames>rahmani fazli</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>eldar sedaghat pour</PersonName>
+						<PersonNameInverted>sedaghat pour, eldar</PersonNameInverted>
+						<NamesBeforeKey>eldar</NamesBeforeKey>
+						<KeyNames>sedaghat pour</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>ُSyavash Golzarian poor</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.35</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-319-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>319</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>319</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Performance evaluation of Neighborhood Houses in development of local management Case study: Neighborhood Houses of Evin, Tajrish and Niavaran</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Zohreh Fanni</PersonName>
+						<PersonNameInverted>Fanni, Zohreh</PersonNameInverted>
+						<NamesBeforeKey>Zohreh</NamesBeforeKey>
+						<KeyNames>Fanni</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Jamileh Tavakolinia</PersonName>
+						<PersonNameInverted>Tavakolinia, Jamileh</PersonNameInverted>
+						<NamesBeforeKey>Jamileh</NamesBeforeKey>
+						<KeyNames>Tavakolinia</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Hamid Qorbani</PersonName>
+						<PersonNameInverted>Qorbani, Hamid</PersonNameInverted>
+						<NamesBeforeKey>Hamid</NamesBeforeKey>
+						<KeyNames>Qorbani</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>4</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Akbar Soltanzadeh</PersonName>
+						<PersonNameInverted>Soltanzadeh, Akbar</PersonNameInverted>
+						<NamesBeforeKey>Akbar</NamesBeforeKey>
+						<KeyNames>Soltanzadeh</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Akbar Soltanzadeh</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.47</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-324-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>324</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>324</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>4</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Stratehies for Reviving the Environmental Aesthetic Values in Daar Abaad River - Valley of Tehran</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Reza Poorjafar</PersonName>
+						<PersonNameInverted>Poorjafar, Mohammad Reza</PersonNameInverted>
+						<NamesBeforeKey>Mohammad Reza</NamesBeforeKey>
+						<KeyNames>Poorjafar</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Ali Akbar Taqvaee</PersonName>
+						<PersonNameInverted>Taqvaee, Ali Akbar</PersonNameInverted>
+						<NamesBeforeKey>Ali Akbar</NamesBeforeKey>
+						<KeyNames>Taqvaee</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Parviz Azad Fallah</PersonName>
+						<PersonNameInverted>Azad Fallah, Parviz</PersonNameInverted>
+						<NamesBeforeKey>Parviz</NamesBeforeKey>
+						<KeyNames>Azad Fallah</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>4</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Alireza Sadeqi</PersonName>
+						<PersonNameInverted>Sadeqi, Alireza</PersonNameInverted>
+						<NamesBeforeKey>Alireza</NamesBeforeKey>
+						<KeyNames>Sadeqi</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mohammad Reza Poorjafar</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.67</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-325-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>325</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>325</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>5</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Factors Influencing Organizational Change Perceived In District 17</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mehran Shiravand</PersonName>
+						<PersonNameInverted>Shiravand, Mehran</PersonNameInverted>
+						<NamesBeforeKey>Mehran</NamesBeforeKey>
+						<KeyNames>Shiravand</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Hosein Ali Jahed</PersonName>
+						<PersonNameInverted>Jahed, Hosein Ali</PersonNameInverted>
+						<NamesBeforeKey>Hosein Ali</NamesBeforeKey>
+						<KeyNames>Jahed</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Kaveh Teimoor Nejad</PersonName>
+						<PersonNameInverted>Teimoor Nejad, Kaveh</PersonNameInverted>
+						<NamesBeforeKey>Kaveh</NamesBeforeKey>
+						<KeyNames>Teimoor Nejad</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>4</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Sajjad Ahmad Vand</PersonName>
+						<PersonNameInverted>Ahmad Vand, Sajjad</PersonNameInverted>
+						<NamesBeforeKey>Sajjad</NamesBeforeKey>
+						<KeyNames>Ahmad Vand</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Sajjad Ahmad Vand</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.83</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-326-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>326</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>326</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>6</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText> Urban Entrance Design With the approach of Giving Identity to urban space (Case Study: East Entrance of Zanjan city)</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Zohreh Torabi</PersonName>
+						<PersonNameInverted>Torabi, Zohreh</PersonNameInverted>
+						<NamesBeforeKey>Zohreh</NamesBeforeKey>
+						<KeyNames>Torabi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Yalda Sima</PersonName>
+						<PersonNameInverted>Sima, Yalda</PersonNameInverted>
+						<NamesBeforeKey>Yalda</NamesBeforeKey>
+						<KeyNames>Sima</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Zohreh Torabi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.105</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-329-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>329</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>329</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>7</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Evaluation of Architectural Design in Mass Housing (Case Study: Comparison of Residential Complex in Melbourne, Australia, with a Residential Complex in Tehran No. 7)</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Nima Moohebati</PersonName>
+						<PersonNameInverted>Moohebati, Nima</PersonNameInverted>
+						<NamesBeforeKey>Nima</NamesBeforeKey>
+						<KeyNames>Moohebati</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mahdieh Tabei</PersonName>
+						<PersonNameInverted>Tabei, Mahdieh</PersonNameInverted>
+						<NamesBeforeKey>Mahdieh</NamesBeforeKey>
+						<KeyNames>Tabei</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Nima Moohebati</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.125</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-330-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>330</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>330</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>8</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Rural tourism Analysis city of Marivan using SWOT model</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Rashid Bookani</PersonName>
+						<PersonNameInverted>Bookani, Rashid</PersonNameInverted>
+						<NamesBeforeKey>Rashid</NamesBeforeKey>
+						<KeyNames>Bookani</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Rezvan Amiri</PersonName>
+						<PersonNameInverted>Amiri, Rezvan</PersonNameInverted>
+						<NamesBeforeKey>Rezvan</NamesBeforeKey>
+						<KeyNames>Amiri</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Rashid Bookani</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.145</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-331-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>331</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>331</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>9</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Using Artificial Neural Network for Float Pricing of Tehran Eraffic Tolls to Improve Urban Management Focused on Decreasing Air Pollution.</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Ehsanollah Eshtehardian</PersonName>
+						<PersonNameInverted>Eshtehardian, Ehsanollah</PersonNameInverted>
+						<NamesBeforeKey>Ehsanollah</NamesBeforeKey>
+						<KeyNames>Eshtehardian</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Ali Faezi Raad</PersonName>
+						<PersonNameInverted>Faezi Raad, Mohammad Ali</PersonNameInverted>
+						<NamesBeforeKey>Mohammad Ali</NamesBeforeKey>
+						<KeyNames>Faezi Raad</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Ehsanollah Eshtehardian</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.155</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-332-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>332</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>332</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>10</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Disclosure Policy Studies Evaluating the Role of Official Bodies in the Process of Land and Hosing Supply by Providing Guidelines and Recommendations in Iran</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Pedram Akhavan Gooran</PersonName>
+						<PersonNameInverted>Akhavan Gooran, Pedram</PersonNameInverted>
+						<NamesBeforeKey>Pedram</NamesBeforeKey>
+						<KeyNames>Akhavan Gooran</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Pedram Akhavan Gooran</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.183</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-334-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>334</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>334</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>11</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Analysis NetworkProcess in Evaluating Darakeh River-Valley’s Ecological Function</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Shahindokht Barq Jelveh</PersonName>
+						<PersonNameInverted>Barq Jelveh, Shahindokht</PersonNameInverted>
+						<NamesBeforeKey>Shahindokht</NamesBeforeKey>
+						<KeyNames>Barq Jelveh</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Nikoo Medqalchi</PersonName>
+						<PersonNameInverted>Medqalchi, Nikoo</PersonNameInverted>
+						<NamesBeforeKey>Nikoo</NamesBeforeKey>
+						<KeyNames>Medqalchi</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Nikoo Medqalchi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.203</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-335-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>335</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>335</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>12</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>E-participation in neighborhoods management and planning</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Naser Barak Poor</PersonName>
+						<PersonNameInverted>Barak Poor, Naser</PersonNameInverted>
+						<NamesBeforeKey>Naser</NamesBeforeKey>
+						<KeyNames>Barak Poor</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mona Bolookat</PersonName>
+						<PersonNameInverted>Bolookat, Mona</PersonNameInverted>
+						<NamesBeforeKey>Mona</NamesBeforeKey>
+						<KeyNames>Bolookat</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mona Bolookat</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.223</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-336-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>336</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>336</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>13</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Factors motivating residents of Shiraz distressed areas to participate in improving and renovating programAbstract</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Khosro Movahed</PersonName>
+						<PersonNameInverted>Movahed, Khosro</PersonNameInverted>
+						<NamesBeforeKey>Khosro</NamesBeforeKey>
+						<KeyNames>Movahed</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Khosro Movahed</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.233</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-338-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>338</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>338</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>14</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Role in Improving the Performance of Audit Services and Rural Development Programs With an Emphasis on Knowledge-Based Society</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Abdolreza Rahmani Fazli</PersonName>
+						<PersonNameInverted>Rahmani Fazli, Abdolreza</PersonNameInverted>
+						<NamesBeforeKey>Abdolreza</NamesBeforeKey>
+						<KeyNames>Rahmani Fazli</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mozafar Sadeqi</PersonName>
+						<PersonNameInverted>Sadeqi, Mozafar</PersonNameInverted>
+						<NamesBeforeKey>Mozafar</NamesBeforeKey>
+						<KeyNames>Sadeqi</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mozafar Sadeqi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.247</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-340-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>340</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>340</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>15</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Assess the Spatial Distribution Utilities in Terms of Righteousness Case Study: City Boomehen</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Zeinab Karkeh Abadi</PersonName>
+						<PersonNameInverted>Karkeh Abadi, Zeinab</PersonNameInverted>
+						<NamesBeforeKey>Zeinab</NamesBeforeKey>
+						<KeyNames>Karkeh Abadi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Masoomeh Tadayoni</PersonName>
+						<PersonNameInverted>Tadayoni, Masoomeh</PersonNameInverted>
+						<NamesBeforeKey>Masoomeh</NamesBeforeKey>
+						<KeyNames>Tadayoni</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Hosein Almasi Mofidi</PersonName>
+						<PersonNameInverted>Almasi Mofidi, Hosein</PersonNameInverted>
+						<NamesBeforeKey>Hosein</NamesBeforeKey>
+						<KeyNames>Almasi Mofidi</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Hosein Almasi Mofidi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.269</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-445-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>445</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>445</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>16</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Urban Concept Of Civil Discourse In The Public Arena Heuristic Approach, The Baths And Town Halls</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Mehdi Bolandian</PersonName>
+						<PersonNameInverted>Bolandian, Mohammad Mehdi</PersonNameInverted>
+						<NamesBeforeKey>Mohammad Mehdi</NamesBeforeKey>
+						<KeyNames>Bolandian</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Sarah Naseri</PersonName>
+						<PersonNameInverted>Naseri, Sarah</PersonNameInverted>
+						<NamesBeforeKey>Sarah</NamesBeforeKey>
+						<KeyNames>Naseri</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mohammad Mehdi Bolandian</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.299</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-346-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>346</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>346</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>17</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>A Semiotic Analysis of Architectural Culture in the Age of Globalization, With an Emphasis on Post-Structuralism Architecture From House to Non-House</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Seyedeh Azin Niknam Asl</PersonName>
+						<PersonNameInverted>Niknam Asl, Seyedeh Azin</PersonNameInverted>
+						<NamesBeforeKey>Seyedeh Azin</NamesBeforeKey>
+						<KeyNames>Niknam Asl</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Zarqani</PersonName>
+						<PersonNameInverted>Zarqani, Mohammad</PersonNameInverted>
+						<NamesBeforeKey>Mohammad</NamesBeforeKey>
+						<KeyNames>Zarqani</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Zoreh Farshi Haqi</PersonName>
+						<PersonNameInverted>Farshi Haqi, Zoreh</PersonNameInverted>
+						<NamesBeforeKey>Zoreh</NamesBeforeKey>
+						<KeyNames>Farshi Haqi</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Seyedeh Azin Niknam Asl</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.323</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-348-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>348</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>348</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>18</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Analysis of Various Aspects of Civil (Citizenship) Rights from the Viewpoint of Citizens (Field Study: The Surrounding of Kargar Shomali Avenue and Tehran Heart Center)</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mojtaba Arasteh</PersonName>
+						<PersonNameInverted>Arasteh, Mojtaba</PersonNameInverted>
+						<NamesBeforeKey>Mojtaba</NamesBeforeKey>
+						<KeyNames>Arasteh</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Ali Akbar Taqvaee</PersonName>
+						<PersonNameInverted>Taqvaee, Ali Akbar</PersonNameInverted>
+						<NamesBeforeKey>Ali Akbar</NamesBeforeKey>
+						<KeyNames>Taqvaee</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Maryam Kamyar</PersonName>
+						<PersonNameInverted>Kamyar, Maryam</PersonNameInverted>
+						<NamesBeforeKey>Maryam</NamesBeforeKey>
+						<KeyNames>Kamyar</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mojtaba Arasteh</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>7.13.36.339</DOI>
+			<DOIWebsiteLink>http://ijurm.imo.org.ir/article-1-349-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>urban and rural management</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>مديريت</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>349</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName> سازمان شهرداريها و دهياريهاي كشور</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>349</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>13</JournalVolumeNumber>
+				<JournalIssueNumber>36</JournalIssueNumber>
+				
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201412</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>19</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Social and cultural development feasibility of Tehran With an emphasis on multi-criteria decision systems (Case study: Neighborhoods in District 20)</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Reza Bemanian</PersonName>
+						<PersonNameInverted>Bemanian, Mohammad Reza</PersonNameInverted>
+						<NamesBeforeKey>Mohammad Reza</NamesBeforeKey>
+						<KeyNames>Bemanian</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Ali Khaliji</PersonName>
+						<PersonNameInverted>Khaliji, Mohammad Ali</PersonNameInverted>
+						<NamesBeforeKey>Mohammad Ali</NamesBeforeKey>
+						<KeyNames>Khaliji</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201412</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2014</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mohammad Reza Bemanian</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+	
+</ONIXDOISerialArticleWorkRegistrationMessage>
+ 
+  
+  
+  
+  
+ 

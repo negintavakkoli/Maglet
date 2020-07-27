@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+		<JOURNAL>
+<YEAR>1395</YEAR>
+<VOL>4</VOL>
+<NO>4</NO>
+<MOSALSAL>15</MOSALSAL>
+<PAGE_NO>114</PAGE_NO>
+<ARTICLES>
+
+
+				<ARTICLE>
+				<TitleF>بهینه‌سازی سبد سرمایه‌گذاری با استفاده از روش‌های خوشه‌بندی</TitleF>
+				<TitleE>Portfolio Optimization with Clustering Methods</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>مسألۀ انتخاب سبد سرمایه‌گذاری و بهینه‌سازی، یکی از موضوعات مهم در حوزۀ سرمایه‌گذاری است. در این فرایند سعی بر آن است که سرمایه‌گذار بازای هر نرخی از بازده، کمترین ریسک ممکن را متحمل شود. اگر اطلاعاتی که در جریان بهینه‌سازی سبد سرمایه‌گذاری استفاده شده‌اند، دچار عدم قطعیت‌های آماری و یا در معرض نویز باشند، به کارایی سبد سرمایه‌گذاری لطمه وارد می‌شود. هدف این مقاله، حذف نویز اطلاعات ماتریس ضرایب همبستگی از طریق روش‌های خوشه‌بندی است. برای این منظور، دو روش خوشه‌بندی اتصال واحد و اتصال میانگین به کار گرفته شد و براساس اطلاعات بازده روزانۀ 80 شرکت بورس اوراق بهادار تهران در بازه فروردین 1385 تا اسفند 1392، سبد سرمایه‌گذاری بهینه به دست آمد. نتایج نشان می‌دهد میزان اختلاف ریسک پیش‌بینی‌شده و ریسک مشاهده‌شده در این سبد سرمایه‌گذاری کمتر است و از طرفی درمجموع، ریسک کمتری را به سرمایه‌گذار تحمیل می‌کند. همچنین با هدف تحلیل حساسیت نتایج دو روش، یک مطالعۀ بوت استرپینگ در تعداد سهام و افق‌های زمانی مختلف انجام گرفت، در بیشتر حالت‌ها بهبود عملکرد سبد سرمایه‌گذاری مشاهده می‌شود.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>The portfolio selection problem and optimizing it is an important issue in investment field. This process aims to create A portfolio that incur the minimum amount of risk to the investor in different levels of return. The existence of statistical uncertainty and noise in information, which is used in the process of optimization, would hamper the performance of optimized portfolios. The purpose of this article is to eliminate the noise of correlation coefficient matrix by using clustering method. In order to do so, two clustering methods, Single Linkage and Average Linkage, are applied, and the optimized portfolio based on the Tehran Stock Exchange information from March 2007 to March 2013 is obtained. The results show that such portfolio is more reliable and provides less risk to the capital owner. For analyzing the robustness of the results in a wide range of different investment horizons and numbers of assets, a Bootstrap analysis with resampling is performed and in most cases a significant improvement was observed.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>1</FPAGE>
+						<TPAGE>16</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محمد</Name>
+						<MidName></MidName>		
+						<Family>سلطانی نژاد</Family>
+						<NameE>Mohammad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Soltani-Nejad</FamilyE>
+						<Organizations>
+							<Organization>گروه مدیریت مالی دانشکده مدیریت و حسابداری دانشگاه شهید بهشتی، تهران، ایران.</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه مدیریت مالی دانشکده مدیریت و حسابداری</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>m.soltaninejad@ut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مریم</Name>
+						<MidName></MidName>		
+						<Family>دولو</Family>
+						<NameE>Maryam</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Davallou</FamilyE>
+						<Organizations>
+							<Organization>گروه مدیریت مالی دانشکده مدیریت و حسابداری دانشگاه شهید بهشتی، تهران، ایران.</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه مدیریت مالی دانشکده مدیریت و حسابداری</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>ma_davallou@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>بهینه‌سازی سبد سرمایه‌گذاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>روش‌های خوشه‌بندی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ماتریس ضرایب همبستگی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] Bellman, R. (1961). Adaptive control processes—A guided tour. Naval Research Logistics Quarterly, 8(3): 315–316.##[2] Bonanno, G., Caldarelli, G., Lillo, F., &amp; Mantegna, and R. N. (2003). Topology of correlation based minimal spanning trees in real and model markets. Physical Review E, 68(4), 4.##[3] Bonanno, G., Lillo, F., &amp; Mantegna, R. N. (2000). High-frequency Cross-correlation in a Set of Stocks. Quantitative Finance, 1(1), 96–104.##[4] Drozdz, S., Kwapien, J., Gruemmer, F., Ruf, F., &amp; Speth, J. (2001). Quantifying dynamics of the financial correlations, Physica A: Statistical Mechanics and its Applications, 299(1): 144-153.##[5] Galluccio, S., Bouchaud, J., &amp; Potters, M. (1998). Rational Decisions, Random Matrices and Spin Glasses, Physica A: Statistical Mechanics and its Applications, 259(3): 449-456.##[6] Gower, J., &amp; Ross, G. (1969). Minimum spanning trees and single linkage cluster analysis. Applied Statistics, 18(1), 54–64.##[7] Laloux, L., Cizeau, P., Bouchaud, J., &amp; Potters, M. (1998). Noise Dressing of Financial Correlation Matrices, Physical Review Letters, 83(7), 1467-1470.##[8] LaLoux, L., Cizeau, P., Potters, M., &amp; Bouchaud, J. (2000). Random Matrix Theory and Financial Correlations. International Journal of Theoretical and Applied Finance, 3(03): 391–397.##[9] Mantegna, R. N., Stanley, H. E., &amp; Chriss, N. A. (2000). An Introduction to Econophysics: Correlations and Complexity in Finance. Cambridge: Cambridge University Press.##[10]           Mohammadi, S., Khojasteh, M. (2009). Portfolio optimization based on filtered covariance matrix. Economics Letters, 72(5): 33-48. (in Persian)##[11]           Onnela, J.-P., Chakraborti, a., Kaski, K., &amp; Kertiész, J. (2002). Dynamic asset trees and portfolio analysis. The European Physical Journal B - Condensed Matter, 30(3), 285–288.##[12]           Pafka, S., &amp; Kondor, I. (2003). Noisy Covariance Matrices and Portfolio Optimization. Physica A: Statistical Mechanics and Its Applications, 319, 487–494. Statistical Mechanics; Portfolio Management.##[13]           Plerou, V., Gopikrishnan, P., Rosenow, B., Amaral, L. A. N., Guhr, T., &amp; Stanley, H. E. (2001). A Random Matrix Approach to Cross-Correlations in Financial Data. Physical Review E, 65(6): 20-38.##[14]           Raei, R., Jafari, G., Namaki, A. (2010). Analysis of Tehran Stock Exchange using complex network based on threshold method. Journal of the Accounting and Auditing Review, 17(62): 33-48. (in Persian)##[15]           Sandoval Jr., L., Bortoluzzo, A., &amp; Venezuela, M. (2014). Not all that glitters is RMT in the forecasting of risk of portfolios in the Brazilian stock market. Physica A: Statistical Mechanics, 410: 94-109.##[16]           Sharifi, S., Crane, M., Shamaie, A., &amp; Ruskin, H. (2004). Random matrix theory for portfolio optimization: a stability approach. Physica A: Statistical Mechanics, 335: 629–643.##[17]           Tola, V., Lillo, F., Gallegati, M., &amp; Mantegna, R. N. (2008). Cluster analysis for portfolio optimization. Journal of Economic Dynamics and Control, 32(1): 235–258.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>ترکیب بهینۀ تسهیلات مشارکتی بانک‌های تجاری ایران در بخش‌های اقتصادی با استفاده از نظریۀ فرا مدرن سبد سرمایه‌گذاری</TitleF>
+				<TitleE>The Optimal Portfolio of Shared Contracts of Iranian Commercial Banks in Economic Sectors (based on Post-modern Portfolio Theory)</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>تخصیص منابع از جمله فعالیت­های اساسی بانک­ها برای تأمین منافع خود و موکلین‌شان است. یکی از جنبه­های اساسی تخصیص منابع، تعیین ترکیب بهینۀ تسهیلات پرداختی به بخش­های مختلف اقتصادی است. در این مقاله با استفاده از رهیافت نظریۀ فرامدرن سبد سرمایه­گذاری رهیافت میانگین –  نیم­واریانس، سبد بهینۀ تسهیلات مشارکتی بانک­های تجاری ایران بررسی شده است. در این روش به‌دلیل تکیه بر مفهوم ریسک نامطلوب، معیار نیم­واریانس، شاخص مناسب اندازه‌گیری ریسک نسبت به معیار واریانس است. بدین‌منظور، میانگین ماهانۀ نرخ بازده سهام شرکت‌های پذیرفته‌شده در بورس که در هر بخش (در دورۀ زمانی90-1387) فعالیت می‌کنند، به‌عنوان معیار نرخ بازده آن بخش استفاده شده است. نتایج نشان می‌دهد در ریسک‌گریزترین حالت، باید حدود 33 درصد تسهیلات مشارکتی به بخش صنعت و معدن، حدود 22 درصد تسهیلات به بخش مسکن و ساختمان و حدود 29 درصد تسهیلات به بخش کشاورزی تخصیص یابد. همچنین سهم تسهیلات بخش خدمات و بازرگانی حدود 16 درصد و از نوع نسبتاً ریسک‌پذیر است؛ به‌گونه­ای‌ که با افزایش درجۀ ریسک­پذیری سیستم بانکی، به بهای کاهش سهم تسهیلات بخش­های صنعت و معدن و مسکن، سهم بهینۀ آن تا حد 26 درصد، افزایش و سپس با افزایش بیشتر، درجۀ ریسک‌پذیری کاهش می‌یابد.  </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Among the essential activities of the Banks for the benefit of themselves and their clients (customers), is allocation of resources that one of the essential aspects of resource allocation is determining the optimal combination of payment facilities to various economic sectors. In this article using the post-modern portfolio theory Approach the meanâ -Semi variance approach, the optimal portfolio of shared facilities of Iranian commercial banks has been determined. The monthly average of the return rate for stock in companies operating in each sector (during 2008 to 2011) is used as the return rate of each sector. Results indicate that in the portfolios for the minimal variance or in most risk-averse condition,33% of the participatory facilities should be moved to the industry sector and mining,22 % of the facilities to housing sector and building and 29% facilities to agricultural sector. Also the facilities for the commercial and services sector16% is relatively risky, so that with an increase in the risk acceptance rate of the banking system and at the expense of decreased share of facilities in the industrial, mining and housing sector, the optimum share will increase to 26% and decrease with further increase in risk acceptance rate.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>17</FPAGE>
+						<TPAGE>28</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سعید</Name>
+						<MidName></MidName>		
+						<Family>دائی‌کریم‌زاده</Family>
+						<NameE>saeed</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>daei-karimzadeh</FamilyE>
+						<Organizations>
+							<Organization>گروه اقتصاد دانشکده علوم انسانی دانشگاه آزاد اسلامی واحد اصفهان (خوراسگان)، اصفهان، ایران.</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه اقتصاد دانشکده علوم انسانی دانشگاه آزاد</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>karimzadeh@khuisf.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>پرتفوی بهینه</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مدل میانگین- نیم واریانس</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تسهیلات مشارکتی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بانکهای تجاری</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] Tehrani R. &amp; Seiri A. (2008), Efficient investment model application using mean-semi variance analysis, Quarterly Journal of Securities Exchange, Vol. 2, No. 6:137-155.##[2] Tehrani R. &amp; Noorbakhsh A. (2002). Investment Management, 1st ed., Negahe Danesh.##[3] Daei Karimzadeh S. (2005), Theoretical Bases of the Portfolio of Central Banks Exchange Reserves and suggesting the optimized exchange portfolio in Iran, Ph.D. Dissertation, Islamic Azad University, Sciences and Researches Branch.##[4] Raie, R., Mohammadi, S. &amp; Beigi, A., (2010). Stock portfolio optimization using the mean-semi variance approach and harmony searching, Management Research in Iran, No. 15: 105-127.##[5] Raei R.  &amp; Telangi, A. (2003). Advanced Investment Management, 1st ed., Tehran: Samt Publications.##[6] Salami, H. &amp; Bahmani, A. (2002). Optimizing investment activities in Keshavarzi Bank, Iranian Journal of Agriculture Science, Vol. 32, No. 2: 401-408.##[7] Abdoh, T. &amp; Sharifian, R. (2007). The impact of downside risk on risk-adjusted performance of investment companies in the (Tehran Stock  Exchange. Quarterly Journal of Securities Exchange. Vol. 1, No. 1: 35-70.##[8] Askarzadeh, G. (2005). Mathematicla Modelling of loan portfolio optimization in financial and credit institutions, Journal of Andishe Sadegh, No. 23:107-130.##[9] Kargaz, M., Abbasi E. &amp; Moghaddasi, M. (2008). Stock portfolio optimization using genetic algorithm and different risk definitions, Journal of Industrial Management, Vol. 5, No. 11:115-136.##[10] Makiyan, S. N. &amp; Naser, S. A. (2009). Analysis of Bank Allocation of Resources in Uncertainty Conditions Using Fuzzy Logic, A Case Study: Agricultural Bank, Tehran, The Journal of Economic Policy, Vol. 2, No. 4:57-82.##[13] Nadri, K. &amp; Kargar, M. A. (2009). Feasibility study of using sukuk in export financing, Journal of Islamic Economics, Vol. 10, No. 37:89-120.##[12] Georgiev, Boris (2014). Constrained Mmean-variance portfolio oOptimization with alternative return Eestimation. Atlantic Economic Journal. Volume 42. Issue1: pp 91-107. ##[13] Lasher .w. (1997) .Practical financial Management. South western college publishing.## [14] Markowitz. H., (1952). Portfolio Selection. Journal of Finance. Vol. 7, No. 1: 77-91##[15] Plantiga A, Van der Meer R, Forsey H. )2003(. Upside Potential Ratio.  Senior Consultants, Vol. 6, No. 11: pp. 1-4, taken from: http://www.srconsultant.com.##[16] Rom Brian M. )1999(. Using Downside Risk to Improve Performance Measurement. Investment Technologies. taken from: www.invest-tech.com.## [17] Rom, Brian M. and Kathleen W. Ferguson. )1994(. Portfolio theory is alive and well. A Response. The Journal of Investing, Vol. 3, No. 3: 24-44.##[18] Rom, Brian M., and Kathleen Ferguson W., (1993. Post-Modern portfolio theory comes of age: Journal of Investing, Vol. 3, No. 3.##[19] Smithson, Charls W. (2003),&quot; Credit Portfolio Management&quot;, Wiley Finance.##[20] Sortino, F., and Lee N. Price, (1994. Performance measurement in a downside risk framework.Journal of investing. Vol. 3, No. 3 :pp. 59-64, taken from: www.sortino.com.##[21] Sortino, F., Plantiga, A., and Van der Meer, R., (1999.(The Dutch Triangle: A framework to measure upside potential relative to downside Risk. Journal of Portfolio Management, Vol. 26, No. 1: pp. 50-58, taken from: www.sortino.com.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>طراحی الگوی جدید ارزش‌گذاری قراردادهای مالی برمبنای ارزیابی ریسک سرمایه‌گذاری</TitleF>
+				<TitleE>Designing a New Model for Valuation of Financial Contracts based on the Investment Risk Assessment</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>در این پژوهش برای ارزش‌گذاری قرارداد‌‌‌‌‌‌‌های مالی با استفاده از نرخ‌های سود تضمینی و مشارکتی، الگویی جدید ارائه شده است. در الگوهای کلاسیک، ارزش‌گذاری این قراردادها با استفاده از حاصلِ‌جمع تبدیل درآمدها و سودهای آینده با یک نرخ تضمینی حداقل، مانند نرخ سود بدون ریسک تعیین می‌شود؛ اما الگوی پیشنهادی، ارزش این قراردادها را با استفاده از دو نرخ تضمینی و مشارکتی و اعمال ریسک‌گریزی سرمایه‌گذار و ریسک سرمایه‌گذاری تببین می‌کند. در این الگو ابتدا سبد سرمایه‌گذاری برای کمّی‌سازی تمامی گزینه‌های سرمایه‌گذاری بازار که شامل سپردۀ بانکی، اوراق مشارکت و سهام است، با اعمال ریسک‌گریزی سرمایه‌گذار تشکیل می‌شود. در مرحلۀ بعد، ارزش در معرض خطر مشروط به‌عنوان سنجش‌گر ریسک سرمایه‌گذاری تعیین می‌شود تا با استفاده از آن نرخ‌های تضمینی و مشارکتی، محاسبه و ارزشی منصفانه برای قرارداد پیش‌بینی شود. برای اثبات صحت الگو، اجرا و اعتبارسنجی آن برای دو بازار سرمایۀ ایران و ایالات متحدۀ امریکا  انجام می‌گیرد که داده‌های مورد استفاده برای ارزش‌های منصفانۀ قراردادهای مالی این دو بازار، نرخ‌های سود بانکی سالیانه، اوراق مشارکت و شاخص بورس اوراق بهادار از سال 1377 تا 1391 در ایران و 1980 تا 2012 در ایالات متحدۀ امریکا هستند.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>In this research, a new model for valuation of financial contracts is designed by using guaranteed and participation rates. In the traditional methods, valuation of these contracts is determined with the use of minimum guaranteed rate of returns such as risk free rate. However, the proposed model is based on the valuation of these contracts by guaranteed and participation rates as well as the customer&#039;s risk tolerance and investment risk. In this model, first an asset allocation model is considered in order to model market elements such as certificate of deposit, bonds and stocks. Then, conditional value at risk, as a proper risk measure, is used to determine guaranteed and participation rates and fair valuation of the contracts. To improve the validity, the model is run for both the capital markets of Iran and the United States of America. The variables used in this study are interest rate of banks, bonds and stock index from 1998 to 2012 in Iran and from 1980 to 2012 in America.  </CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>29</FPAGE>
+						<TPAGE>44</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>کیوان</Name>
+						<MidName></MidName>		
+						<Family>محمودی آذر</Family>
+						<NameE>keivan</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>mahmoudiazar</FamilyE>
+						<Organizations>
+							<Organization>گروه مدیریت مهندسی دانشکده مهندسی صنایع و سیستم‌های مدیریت دانشگاه صنعتی امیرکبیر، تهران، ایران.</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه مدیریت مهندسی دانشکده مهندسی صنایع و</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>k.mahmoudiazar@aut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>علی محمد</Name>
+						<MidName></MidName>		
+						<Family>کیمیاگری</Family>
+						<NameE>ali mohammad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>kimiagari</FamilyE>
+						<Organizations>
+							<Organization>گروه مدیریت مهندسی دانشکده مهندسی صنایع و سیستم‌های مدیریت دانشگاه صنعتی امیرکبیر، تهران، ایران.</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه مدیریت مهندسی دانشکده مهندسی صنایع و</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>kimiagar@aut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>ارزش‌گذاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ریسک‌</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ارزش در معرض خطر مشروط</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نرخ‌ سود تضمینی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نرخ‌ سود مشارکتی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]     Esfahani, D. M. S. (2012). Ensurance Mathematics Acuary Models, Insurance Research Institute Publication.##[2]     Bodie, Z., A. Kane, and A.J. Marcus, Investments. (2002): Tang Kinh Cac.##[3]     Boyle, P.P. and M.R. Hardy, (1997). Reserving for maturity guarantees: Two approaches. Insurance: Mathematics and Economics,.21 (2): 113-127.##[4]     Graf, S., A. Kling, and J. Ruß, (2011). Risk analysis and valuation of life insurance contracts: Combining actuarial and financial approaches. Insurance: Mathematics and Economics, 49 (1): 115-125.##[5]     David, M., (2015). A Review of Theoretical Concepts and Empirical Literature of Non-life Insurance Pricing. Procedia Economics and Finance, 20, 157-162.## [6] Talebnia, G. A. and Piraveisi, S. (2006). A Suervey on the effectes of Jenterest Rate on age insurance returns in Iran&#039;s Insurance Industry, Journal of insurance industry, Vol, 22. No 2: 19-31.## [7] Rajabi, M. M. (2004). A comparison between interest rate and age insurance in Iran&#039;s Insurance Industry, Journal of insurance industry, Vol, 20. No 4: 76-93.## [8]    Artzner, P., Delbaen, F. Marc Eber, J., Heath. D. (1999)., Coherent measures of risk. Mathematical finance, 9; (3): 203-228.## [9]    Richmond, D.R., (2005). Liability Issues in the Sale of Life Insurance. Tort Trial &amp; Insurance Practice Law Journal, 877-909.##[10]   Nielsen, J.A. and K. Sandmann, (1995). Equity-linked life insurance-a model with stochastic interest rates., University of Bonn, Germany.##[11]   Brennan, M.J. and E.S. Schwartz, (1979). A continuous time approach to the pricing of bonds. Journal of Banking &amp; Finance, 3 (2): 133-155.## [12]  Bacinello, A.R. and F. Ortu, (1996). Fixed income linked life insurance policies with minimum guarantees: Pricing models and numerical results. European Journal of Operational Research, 96 (2): 235-249.##[13]   Schrager, D.F. and A.A. Pelsser, (2004). Pricing rate of return guarantees in regular premium unit linked insurance. Insurance: Mathematics and Economics, 35 (2); 369-398.## [14]  Barbarin, J. and P. Devolder, (2005). Risk measure and fair valuation of an investment guarantee in life insurance. Insurance: Mathematics and Economics, 37 (2); 397-323.##[15]   Hull, (2012). Risk Management and Financial Institutions,+ Web Site. Vol. 733. John Wiley &amp; Sons.##[16]   Harbrecht, H., M. Peters, and R. Schneider, (2012). On the low-rank approximation by the pivoted Cholesky decomposition. Applied numerical mathematics, 62 (4). 428-440.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>رابطۀ رقابت در بازار و سیاست‌های تقسیم سود</TitleF>
+				<TitleE>The Relation between Market Competition and Dividend Policies</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف این پژوهش، بررسی رابطۀ رقابت در بازار با سیاست­های تقسیم سود شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران در دورۀ زمانی 1387 تا 1391 است. فرضیه­های پژوهش برمبنای نظریه‌های پیامد، جانشینی و شکار مربوط به تأثیر رقابت در بازار بر سیاست­های تقسیم سود تدوین شده­اند. برای آزمون فرضیه­ها از الگوهای رگرسیون چندگانه با استفاده از داده­های تلفیقی و رگرسیون لجستیک استفاده شده است. برای سنجش رقابت در بازار از شاخص انتروپی استفاده شد. نتایج پژوهش نشان می­دهد بین رقابت در بازار و سود تقسیمی، رابطۀ مثبت و معنی­داری وجود دارد. همچنین رقابت در بازار با افزایش سود تقسیمی نیز رابطۀ مثبت و معنی­داری دارد. بین رقابت در بازار و حذف سود تقسیمی نیز رابطۀ منفی و معنی­داری وجود دارد. </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>This article investigates the relation between market competition and dividend policies. Using a sample of listed companies in the Tehran Stock Exchange in the period of 1387-1391, we find that firms in highly competitive industries prefer to pay more dividends. Research hypotheses are developed based on the outcome theory and substitution theory. In order to investigate the impact market competition on dividend policies. To test the hypothesis were used panel data regression model and logistic regression. Results indicate that there is a significant positive relation between dividends paid and market competition, return on assets and lifecycle. Also there is a significant negative relation between dividends paid and financial leverage. On the other hand, using the logit model, results indicate that there is a significant positive relationship between increase dividends paid and market competition. Results also demonstrate that there is a significant positive relation between omit dividends paid and return on assets and financial leverage. Also there is a significant negative relation between omitted dividends paid, market competition, growth opportunities and life cycle.  </CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>45</FPAGE>
+						<TPAGE>60</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>نرگس</Name>
+						<MidName></MidName>		
+						<Family>سرلک</Family>
+						<NameE>narges</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>sarlak</FamilyE>
+						<Organizations>
+							<Organization>گروه حسابداری دانشکده مدیریت، دانشگاه قم، قم، ایران.</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه حسابداری دانشکده مدیریت، دانشگاه قم،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>sarlak.narges@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>فاطمه</Name>
+						<MidName></MidName>		
+						<Family>میرزایی</Family>
+						<NameE>Fatemeh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mirzaie</FamilyE>
+						<Organizations>
+							<Organization>گروه حسابداری دانشکده مدیریت، دانشگاه قم، قم، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه حسابداری دانشکده مدیریت، دانشگاه قم،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mirzaei_fatemeh1@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>رقابت در بازار</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شاخص انتروپی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سود تقسیمی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]     Aivazian, V., Booth, l., and Cleary, S. (2003). Do emerging market firms follow different dividend policies from US fires?. Journal of Financial Research, Vol. 26 No. 3, pp. 87-371.##[2]     Allen, F., and Gale, D. )2000 (.Corporate governance and competition. In corporate governance theoretical and empirical perspective. Camdridge University press, Cambridge.##[3]     Al-Najjar, B. and Hussaianey, A. (2009). The association between dividend payout and outside directorship.  Journal of Applied Accounting Research, vol. 10 No. 1, pp. 4-19.##[4]     Anil K., and S. Kapuor. (2008). Determinants of Dividend Payout Ratios-A Study of Indian Information Technology Sector.  International Research Journal ofFinance and Economics, Vol.15 pp.63-71.##[5]     Anvary Rostamy, A; Etemadi, H &amp; Movahed Majd, M.  (2014). Investigation of the Impact of Product Market Competition on Dividend Policies. Asset Management&amp; Financing, Vol 2, pp 1-18.##[6]     Baker, H.K., Farrelly, G.E., and R.B., Edelman. (2001). Factors Influencing on Dividend Policy of Nasdak firms. Financial Review, Vol. 38, pp.19-38.##[7]     Baker. H.K. Powell., G.E. And veit. (2005). Revisting Managerial Perspectivs on Dividend Policy. Journal of Economics and Finance, Volume 26, No 3.##[8]     Barecly, M., Holderness, C. and Sheehan, D. (2006). Dividends and Corporate Shareholders.Working Paper, University of Rochester.##[9]     Beiner, S. (2001). Theories and Determinants of Dividend Policy. Journal of Corporate Finance, vol. 10 No.1, pp.29-40.##[10] Bikker, J., Haff, K. (2002). “Measure of competition and consentration in the banking industry”. Central bank of the Netherlands. Journal of Economic &amp; financial modelling. , vol. 10 No. 1, pp. 29-40.##[11] Blau, B., Fuller, K. (2008). “Flexibility and dividends”. Journal of Corporate Finance., vol.14, pp. 133-152.##[12] Bolton, P., and Scharfstein, D. (1990). “A Theory of Predation Based on Agency Problems in Financial Contracting”. American Economic Review., vol.80, pp. 93-106.##[13] Brockman, P., and E. Unlu. (2009). “Dividend Policy, Creditor Rights, and the Agency Costs of Debt”.  Journal of Financial Economics., Vol.92, pp.276–299.##[14] Chang, R.P. and Rhee, S.G. (1990). “The impact of personal taxes on corporate dividend policy and capital structure decisions”. Financial Management. Vol. 19 No. 2 ,pp. 21-31.##[15] Chay, J. B., and Jungwon, S. (2009). “Payout policy and cash-flow uncertainty”. Journal ofFinancial Economics., Vol.93, pp.88-107.##[16] Choi, J., Jeffrey, S., Russell, and ASCE, M. (2005). “Long-Term Entropy and Profitability Change of United States Public Construction Firms”. JOURNAL OF MANAGEMENT IN ENGINEERING. pp. 17-25.##[17] DeAngelo, H., L. DeAgelo, and Stulz, R. (2006). “Dividend Policy and the earned/contributed capital miX: a test of the lifecycle theory”. Journal of Financial Economics. Vol. 81, pp.227-245.##[18] Ding, N. (2011). “The Evolving Relation between Market Competition and Corporate Payout Policy”. School of Banking and Finance, Australian School of Business University of New South Wales. A thesis submitted in partial fulfilment of the requirements of the degree of Master of Philosophy in Finance at The University of New South Wales.##[19] Doukas, J.A., Mcknight, P. J., and Pantzalis, C. (2005). “Security Analysis, Agency costs and UK Firm Characteristics”. International Review of Financial Analysis. Vol. 14, pp. 493-507.##[20] Ebrahimi, M.(2011). Investigating the Relationship between Market Competition and Capital Structure of the firms listed on the Tehran Stock Exchange. Master Ph.D. Thesis. University of Bahonar. Kerman.##[21] Gilson, R. J., and M. J. Roe. (1993). “Understanding the Japanese Keiretsu: Overlaps between corporate governance and industrial organization”. The Yale Law Journal. Vol.102, pp. 871-906.##[22] Gonzalez, M., and Zamudio, L. (2007). “Dividends as a signalling mechanism: the case of illiquid stock markets”. IMA Journal of Management Mathematics., No.18, pp.75−84.##[23] Grullon, G., and R, Michaely.(2012). “Corporate payout policy and product market competition”. Working paper (Cornell University).Available at WWW. SSRN.COM##[24] Guo, J., and Ni, J. (2009). “Institutional Ownership and Firm’s Dividend Policy”. Journal of Business Finance &amp; Accounting., Vol. 5, No. 2, pp.128-136.##[25] Hart, P. E. (1982) . “Entropy, Moments, and Aggregate Business Concentration in the UK”. Oxford Bulletin of Economics and Statistics. Vol.24, pp. 113–126.##[26] He, W. (2012). “Agency Problems, product market competition and Dividend Policy in Japan”. http://papers.ssrn.com/sol3/papers, Journal of Accounting and finance.##[27]  Izadinia, N &amp; Alinaghian, N. (2011). Identification Effective Factors on Dividend by Logit Model. Financial Accounting Researches, Vol 1, pp 21-38.##[28] Jacquemin, A. (1987). “The New Industrial Organization; Market Forces and Strategic Behavior”. Cambridge, the MIT Press.##[29] Jagannathan, R., and Srinivasan, S. (2000). “Does Product Market Competition Reduce Agency Costs?”. Working Paper, National Bureau of EconomicResearch, Cambridge (MA), Available at:http://papers.ssrn.com/sol3/papers.cfm?abstract_id=227593._ [Online] [27January 2000].##[30] Jahankhani, A &amp; Qorbani, S. (2005). Identification of determinant of dividend policy in the firms Listed on the Tehran Stock Exchange. Financial Research. N 20, pp 27-48.##[31] Jensen, M., and Meckling, W. (1976). “Theory of the firms: managerial behaviour, agency cost, and capital structure”. Journal of Financial Economics. Vol. 3, pp.305-360.##[32] Karami, GH &amp; Eskandar, H. (2009). Stockholders Combination and Dividend Policy. Accountant Journal. N 207, pp 53-57.##[33] Khodadad kashi, F. (2010). Econometrics, Theory and application. Tehran: Samt Publicatons, Vol 1.##[34] Khodadadi, V &amp; Aghajari, V. (2009). Investigating the Relationship between Ownership Structure and Company Dividend policies in Iran. Financial Accounting, Vol 1, pp 106-126.##[35] Khodamipour, A; Houshmand Zaferanie, R &amp;  Deldar, M. (2013). Investigation into Effective Tax Rate Impact on Dividend Policy in Firms Listed in Tehran Stock Exchange. Journal of tax research, Vol 21, N 17, pp 31-55.##[36] Kowalewski, O., and Talavera, O. (2007). “Corporate Governance and Dividend Policy in Poland”. Warsaw School of Economics, Available at ssrn 2007.##[37] La Porta, R., Lopez-De-Silanes, F., Shleifer, A., and Vishny, R. (2000). “Agency problems and dividend policies around the world”. Journal of Financial. Vol. 55 No. 1, pp.1-33.##[38] Lintener, J. (1956). “Distridution of incomes of corporations among dividends, retained earning, and taxes”. American Economic Review. Vol. 46, pp. 97-133.##[39] Lipson, M., Macquieira, C., Megginson, W. (1998). Dividend initiation and earning surprises. Journal Financial Management, Vol. 34, pp 411-433.##[40] Mayer, T., Marc, J., Melitz, and Gianmarco, I., and Ottaviano, P. (2014). “Market Size, Competition, and the Product Mix of Exporters”. American Economic Review 2014. Vol.104 No. 2, pp. 495–536.http://dx.doi.org/10.1257/aer.104.2.495.##[41] Memar Nejad, A; Khataei, S &amp; Hoseini, sh. (2009). Evaluation of Structure and Performance of Automobile Industry in Iran. Journal of Economical Modeling. Vol 3. Issue 10, pp 103-120.##[42] Mitton, T. (2004). “Corporate Governance and dividend policy in emerging markets”. Emerging Markets Review. Vol 5, pp. 406-426.##[43] Moradi, J; Vlipour, H &amp; musavi, S. (2011). Dividend Policy from Agency Theory Viewpoint. Accounting and Auditing Research. N 12. Pp 1-11.##[44] Naceur, S., Goaied, M., and Belanes, A. (2006). “On the Determinants and Dynamics of Dividend Policy”. International Review of Finance. Vol. 6 No.1, pp. 1–23.##[45] Nissan, E. (1996). “Concentration in American Property-Csualty Companies. Journal of Actuarial Practice”. Vol. 4 No. 1.##[46] Nissan, E.( 2003).” Relative Market Power versus Concentration as Measure of Market Dominance: Property and Liability Insurance”. Journal of Insurance Issues, 2003. Vol.26 No. 2, pp. 129–141.##[47] Osobov, I., and Denis, D., and David, J. (2008). “Why Do Firms Pay Dividends? International Evidence on the Determinants of Dividend Policy”. Journal of Financial Economics., Vol.89 pp.62– 82.##[48] Pourabadollahan Covich, M; Mohamadzadeh, P; Fallahi, F &amp; Hekmati Farid, S. (2014). Concentration in the Iranian Cement Industry. Applied Economic Research, Vol 1, issue 2, pp 71-88.##[49] Pronsit, J., yixi, N. (2006). “Dividend policy, Shareholders Rights, and corporate governance”. Pennsylvania State Uninersity, Available at ssrn 2006.##[50] Ronny, M., Murinde, V., Christopher, J., Green. (2012). “Dividend policy and business groups: Evidence from India firms”. International Review of Economics and Finance. Vol. 21, pp. 42-56.##[51] Rozeff, M. (1992). “Growth, Beta and Agency Costs as Determinants of dividend Payout Rations”. The Journal of Financial Research. Vol. 5 No.3, pp. 249-259.##[52] Sadeghi shahdani, M; Chavoshi, k &amp; Mohseni, H. (2012). Investigating of the relationship between capital structure and market structure in the Tehran Stock Exchange. Economic Modeling Research. N 9, pp 21- 49.##[53] Setaiesh, M &amp; Kazem Nejad, M. (2010). The Effects of Ownership Structure and Board Composition on the Dividend Policy of the Listed Firms in Tehran Stock Exchange (TSE). Journal of Accounting knowledge, Vol 1, N 1, pp 29-51.##[54] Shahchera, M &amp; Arbabin, sh. (2013). Investigating of the Relationship between Financial Centralization and Constancy in the Banking System of Iran, the First National Conference of Development of Banking and Monetary Management.##[55] Thanatawee, Y. (2011). “Life-cycle Theory and Free Cash Flow Hypothesis: Evidence from Dividend Policy in Thailand”. International Journal of Financial Research. Vol.2, pp. 52-60.##[56] Theil, Henri. (1967). “Economics and Information Theory”. Amsterdam: North-Holland Publishing Company.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تحلیل مدیریت دارایی و بدهی با رویکرد تصمیم‌گیری گروهی چندهدفۀ فازی</TitleF>
+				<TitleE>Portfolio Optimization with Clustering Methods</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>مدیریت دارایی و بدهی، یکی از مهم‌ترین شاخصه‌های تحلیلی در فرایند برنامه‌ریزی استراتژیکی بلندمدت محسوب می‌شود که تحلیل آن براساس شرایط متلاطم در فضای عدم قطعیت صورت می‌گیرد. با استفاده از این ابزار، مدیران تلاش می‌کنند ارزش حقوق صاحبان سهم را به حداکثر برسانند. این پژوهش، مدیریت دارایی و بدهی را به‌صورت الگویی از برنامه‌ریزی آرمانی در فضای تصمیم‌گیری گروهی فازی تحت شرایط عدم اطمینان بررسی می‌کند. نتایج حاصل از تحلیل آن‌ به‌صورت انحراف‌های کلامی- فازی نمایش داده شده است. الگوی پیشنهادی در قالب مطالعۀ موردی بر داده‌های جمع‌آوری‌شده طی سال‌های90، 91 و 92 از بانک آلفا پیاده‌سازی شده است. نتایج تحلیل نشان می‌دهد در سال‌های 90 و 91، بانک، انحراف‌های کمتری نسبت به آرمان‌های هدف‌گذاری‌شده در سال 92 داشته است.  </CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>The portfolio selection problem and optimizing it is an important issue in investment field. This process aims to create A portfolio that incur the minimum amount of risk to the investor in different levels of return. The existence of statistical uncertainty and noise in information, which is used in the process of optimization, would hamper the performance of optimized portfolios. The purpose of this article is to eliminate the noise of correlation coefficient matrix by using clustering method. In order to do so, two clustering methods, Single Linkage and Average Linkage, are applied, and the optimized portfolio based on the Tehran Stock Exchange information from March 2007 to March 2013 is obtained. The results show that such portfolio is more reliable and provides less risk to the capital owner. For analyzing the robustness of the results in a wide range of different investment horizons and numbers of assets, a Bootstrap analysis with resampling is performed and in most cases a significant improvement was observed.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>61</FPAGE>
+						<TPAGE>78</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>رضا</Name>
+						<MidName></MidName>		
+						<Family>شیخ</Family>
+						<NameE>reza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>sheikh</FamilyE>
+						<Organizations>
+							<Organization>گروه مدیریت دانشکده مهندسی صنایع و مدیریت دانشگاه شاهرود، شاهرود، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه مدیریت دانشکده مهندسی صنایع و مدیریت</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>resheikh@shahroodut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>بهناز</Name>
+						<MidName></MidName>		
+						<Family>عامری راد قیصری</Family>
+						<NameE>behnaz</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>ameri rad gheysari</FamilyE>
+						<Organizations>
+							<Organization>گروه مدیریت دانشکده مهندسی صنایع و مدیریت دانشگاه شاهرود، شاهرود، ایران.</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه مدیریت دانشکده مهندسی صنایع و مدیریت</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>behnaz.ameri@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>مدیریت دارایی و بدهی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>اصطلاحات کلامی- فازی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>برنامه‌ریزی آرمانی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تصمیم‌گیری گروهی فازی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] Birge, J. R.,  Judice, P. (2013).Long-term bank balance sheet management: Estimation and simulation of risk-factors. Journal of Banking and Finance. 37:4711–4720.##[2] Bozbura, F.T., Beskese, A. (2007). Prioritization of organizational capital measurement indicatorsusing fuzzy AHP. International Journal of Approximate Reasoning. 44: 124-147##[3] Brodt, A.I. (1978).Dynamic balance sheet management model for a canadian chartered bank. Journal of Banking and Finance.: p. 221-241.##[4] Carino, D.R. et al. (1994). The Russell-Yasuda Kasai Model: An asset/liability model for a japanese insurance company using multistage Stochastic Programming. Proceedings Of The World Congress On Engineering. 4(1): 29-49.##[5] Chambers, D. Charnes, A. (1961). Inter-temporal analysis and optimization of bank portfolios. Management Science. (7):393-410.##[6] Charumathi, A. and Balakrishnan, M. (2008). Asset liability management in Indian banking industry with special reference to interest rate risk management in ICICI bank. Proceedings Of The World Congress On Engineering. 2.##[7] Claessens, S. &amp; van Horen, N.(2013) .Being a foreigner among domestic banks: Asset or liability. Journal of Banking and Finance.5:1276-1290.##[8] Cohen , K.J. and Hammer, F.S. (1967). Linear programming and optimal bank asset management decisions. Journal Of Finance.42-61.##[9] Community of Eghtesad Novin Bank (1387), Asset-Liability Management And Liquidity Risk In Financial Institutions, Tehran: Fraskhan.##[10] Dash, M. and Pathak, R. (2010)A linear programming model for assessing asset-liability management in banks. School of Business and affiliation.##[11] Fathi S, Abzari M, Habibi S. (2014).Determinants of capital structure: Meta-analysis. Assest Management And Financing. 2 (1):55-74##[12] Fielitz, D. and Loeffler, A. (1971). A linear programming model for commercial bank liquidity management. Financial Management. 44-50.##[13] Googedchian A, Amairi H, Khodaverdisamani M. (2014) Effect of asset specificity on the financing method of listed companies in Tehran Stock Exchange. Assest Management And Financing .1 (3):15-32##[14] Gulpinar, N., and Pachamanova, D. (2013). A robust optimization approach to asset-liability management under time-varying investment opportunities. Journal of Banking and Finance. 37.2081–2041.##[15] Habibi, h. (1381).Designing company&#039;s assets and liabilities managment by mathematical modeling in an insurance firm using dynamic programming. Faculty of Tarbiat Modarres.##[16] Hellendoorn, H. and Thomas, C. (1993).Defuzziﬁcation in fuzzy controllers. Fuzzy Syst.1:109–123##[17] Kallberg, J.G., R.W. White, and W.T. Ziemba, (1982). Short term financial planning under uncertainty. Management Science.28: 670-682.##[18] Komar, R.(1971) Developing a liquidity management model. Journal of Bank Research.38-53.##[19] Kosmidou, K. and Zopounidis, C. (2002). A Multi-Objective Methodology For Bank Asset Liability Management In Financial Engineering. Kluwer Academic Publishers. p. 139-150.##[20] Kosmidou, K. and Zopounidis, C. (2004) Goal Programming Techniques for Bank Asset Liability Management. Kluwer Academic Publishers.##[21] Lifson, K.A. and. Blackman, B.R. (1973). Simulation and optimization models for asset deployment and funds sources balancing profit liquidity and growth. Journal of Bank Research. 239-255.##[22] Markowitz, H.M. (1952). Portfolio selection. Journal of Finance. 77-91.##[23] Moshiri, A. Karimi, M. (1386), Assets and liability management using goal programming model and AHP (in Karafarin bank). Financial Research.8:89##[24] Novickytė ,L. Petraitytė ,I. (2014). Assessment of banks asset and liability management: problems and perspectives (case of Lithuania). Social and Behavioral Scienes. (110):1082-1093.##[25] Pyle, D.H. (1971). On the theory of financial intermediation. Journal of Finance. 737-746.##[26] Robertson, M. Eilon, S.and Fowkes,T.R. (1972). A bank asset management model. Applications of Management Science in Banking and Finance.149-158.##[27] Saaty, T.L. (1998). The Analytic Hierarchy Process: Planning, Priority Setting, Resource Allocation. Pittsburgh: RWS Publications.##[28] Tsaur, S.H. Chang, T.Y. and Yen, C. H. (2002). The evaluation of airline service quality by fuzzy MCDM. Tourism Management.23:107-115.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>شبیه‏سازی قیمت سهام از منظر عوامل داخلی و خارجی مؤثر بر سیستم با استفاده از رویکرد پویایی‏شناسی سیستمی</TitleF>
+				<TitleE>Simulation of Stock Price through Effective Internal and External Factors via System Dynamics Approach</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>موسوی و ستوده (1392) رفتار قیمت سهام صنایع ملی مس ایران را در بازار بورس ازمنظر خارجی شبیه‏سازی کرده‌اند.  الگوی این پژوهش از نتایج این مطالعه حاصل شده و امکان پیش‏بینی و تحلیل نوسان‌های آیندۀ قیمت این سهم و همچنین ارزش ذاتی سهام را برای سیاست‏گذران و صاحبان منافع (ازمنظر عوامل داخلی و خارجی) فراهم کرده است. برای الگوسازی رفتار سهم، عوامل اثرگذار بر قیمت سهم در بورس اوراق بهادار و عوامل مؤثر در قیمت محصول شرکت در بازار، شناسایی و نمودارهای علّی و معلولی هر بخش براساس روش‏شناسی پویایی‏های سیستم ترسیم شده است. متغیرهای مالی در سه بخش قیمت‏گذاری، قیمت و تأمین مالی از طریق بدهی بررسی شده است. الگوی سیستمی پژوهش با استفاده از این رویکرد و با نرم‏افزار Vensim DSS شبیه‏سازی و تحلیل شده است. نتایج نشان می‌دهد عرضۀ سهم،  در بخش قیمت سهم، بیشترین تأثیر و تأمین مالی از طریق بدهی‏ها، در قیمت ذاتی سهم اثرگذاری مثبت دارد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>This study is based on Mousavi and Setoudeh (2013) that simulates stock price behavior of national Iranian copper industrial companies in Iran stock exchange. This paper provides the possibility of analyzing stock price fluctuations and forecasting intrinsic stock price from internal and external viewpoints. For modeling stock behavior, some internal and external factors are identified and the relation between different variables is shown by causal diagrams using system dynamics approach. The financial variables are considered in three groups of pricing, price, and debt financing. Research model is simulated and analyzed by this approach and by using the Vensim DSS software. The overall results indicate that stock supply has important effect on stock price, and debt financing has positive impact on stock’s intrinsic value.  </CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>79</FPAGE>
+						<TPAGE>98</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محمد هاشم</Name>
+						<MidName></MidName>		
+						<Family>موسوی حقیقی</Family>
+						<NameE>Mohammad Hashem</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mousavi Haghighi</FamilyE>
+						<Organizations>
+							<Organization>مرکز تحقیقات کشاورزی و منابع طبیعی استان فارس</Organization>
+						</Organizations>
+						<Universities>
+							<University>مرکز تحقیقات کشاورزی و منابع طبیعی استان فارس</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>musavee@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مجتبی</Name>
+						<MidName></MidName>		
+						<Family>خلیفه</Family>
+						<NameE>Mojtaba</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Khalifeh</FamilyE>
+						<Organizations>
+							<Organization>میدان ارم، دانشگاه شیراز، دانشکده اقتصاد و مدیریت، بخش مدیریت</Organization>
+						</Organizations>
+						<Universities>
+							<University>میدان ارم، دانشگاه شیراز، دانشکده اقتصاد</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>m_khalifeh61@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>بهزاد</Name>
+						<MidName></MidName>		
+						<Family>صفایی</Family>
+						<NameE>Behzad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Safaei</FamilyE>
+						<Organizations>
+							<Organization>مدیریت سیستم‏ها بخش مدیریت دانشکده اقتصاد و مدیریت دانشگاه شیراز، شیراز، ایران.</Organization>
+						</Organizations>
+						<Universities>
+							<University>مدیریت سیستم‏ها بخش مدیریت دانشکده اقتصاد</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>behzad.safaei@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>حامد</Name>
+						<MidName></MidName>		
+						<Family>صابری</Family>
+						<NameE>Hamed</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Saberi</FamilyE>
+						<Organizations>
+							<Organization>مدیریت سیستم‏ها بخش مدیریت دانشکده اقتصاد و مدیریت دانشگاه شیراز، شیراز، ایران.</Organization>
+						</Organizations>
+						<Universities>
+							<University>مدیریت سیستم‏ها بخش مدیریت دانشکده اقتصاد</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>saberi_sa@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>پویایی‌های سیستم</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>قیمت سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ارزش ذاتی سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بازار سرمایه</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>صنایع ملی مس ایران</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] Azar, A. &amp; Karimi, S. (2010). Neural Network Forecasts of Stock Return Using Accounting Ratios, Journal of Financial Research, Vol. 11, No. 28: 4-20.##[2] Babaeian, A. &amp; Arabmazar, M. (1379). Analytical Survey of the Relationship between Balance Sheet Accounts Change and Stock Return among the Companies Listed in Tehran Stock Exchange, Ms.C. Thesis, Shahid Beheshti University.##[3] Taghizadeh, M. R., Fazel Y. A. &amp; Mohebbi, R. (2012). Modeling and predicting the efficiency of public and private banks in Iran using an artificial neural network models, fuzzy neural networks and genetic algorithms, Journal of Asset Management and Financing, Vol. 1, No, 2:103-126.##[4] Jahankhani A. (1996). A survey on the factors affecting stock price and a review on the process of stock price change in Tehran Stock Exchange, Journal of Contex, No. 65:13-16.##[5] Saedi, R. Khalifeh Soltani S. A. &amp; Akhlaghi, H. (2014). The Investigation of Factors Affecting the Capital Structure using the Tobit Models: An Empirical Examination of Static Trade-Off, Pecking Order and Agency Costs Theories, Journal of Asset Management and Financing, Vol. 2, No. 1:37-54.##[6] Dehghani F. H. (2003). A Survey on the Effect of Stock Issuance and the Loan on the Stock Price in the Companies Listed in Tehran Stock Exchange, Ms.C. Thesis, Emam Sadegh University.##[7] Sinaei, H., Mortazavi, S. &amp; Teimoori Asl, Y. (2004). Forcasting Tehran exchange price index using neural network, Journal of the Accounting and Auditing Review, Vol. 12, No. 41:53-89.##[8] Sheikh Khozani, Z., Hosseini, K. &amp; Rahimian, M. (2010). System Dynamic Modeling of Multipurpose Reservoir Operation to Estimate the Optimal Height of the DAM, Journal of Modeling in Engineering, Vol. 8, No. 21:57-66.##[9] Safarnavadeh, M. (2000). Forecasting Stock Price in Tehran Stock Exchange, MS.C. Thesis, Emam Sadegh University.##[10] Abbasi, E. &amp; Bagheri, S. (2012). Forecasting of stock returns with non linear models and the role of trading volume in improving the performance of these models, Journal of Financial Research, Vol. 13, No. 32:91-108.##[11] Ebadi Dolatabady, M. (2001). A Survey on the Effect of Financing Methods on Stock Price and Return of the Companies Listed in Tehran Stock Exchange, Ms.C. Thesis, University of Mazandaran.##[12] Fathi, S., Abzari, M. &amp; Habibi, S. (2014).Determinants of Capital Structure: Meta-analysis, Journal of Asset Management and Financing, Vol. 2, No. 1:55-74.##[13] Ghalibaf Asl, h. (2000). Financial Management, Tehran: Pouran Pajoohesh.##[14] Mousavi Haghighi, M. &amp; Khalifeh, F. (2014). Simulating the effect of financial leverage model on company value via system dynamics approach (Case study: National Iranian copper industries company), Asset Management and Financing, In Press.##[15] Mousavi Haghighi, M. H. &amp; Sotoudeh, F. (2012). Simulating the Stock Dynamic Behavior in Tehran Stock Exchang, Vol. 4, No. 14:35-52.##[16] Alexander C. (1999). Risk management and analysis, measuring and modelling financial risk. NewYork: John Wiley and Sons.##[17] Atsalakis, G. (2009). Forecasting stock market short-term trends using a neuro-fuzzy based methodology. Expert Systems with Applications. 36(7): 10696–10707.##[18] Banz, R., &amp; Breen, W. (1986). Sample-dependent results using accounting and market data: some evidence. Journal of Finance. 41, 779-793.##[19] Berger, A. N., &amp; Bonaccorsi di Patti, E. (2006). Capital structure and firm performance: A new approach to testing agency theory and an application to the banking industry. Journal of Banking &amp; Finance. 30, 1065–1102.##[20] Bhagat, S., &amp; Bolton, B. (2008). Corporate governance and firm performance. Journal of Corporate Finance. 14, 257–273.##[21] By,j., &amp; Labak, h. (1996). Feedback and behavioral system. Journal of System Review. 15, 56-68.##[22] Fama, E., &amp; French, K. (1988). Permanent and temporary components of stock prices. Journal of Political Economy. 96, 246-273.##[23] Feld, L. P., Heckemeyer, J. H., &amp; Overeschc, M. (2011). Capital structure choice and company taxation: a metastudy, ZEW Discussion Paper. 11, 1-60.##[24] Forrester, J. W. (1997). Building a system dynamic model. Prepared for the MIT System Dynamic in Education Project, Massachusetts Institute of Technology.##[25] Fosu, S. (2013). Capital structure, product market competition and firm performance: Evidence from South Africa. The Quarterly Review of Economics and Finance. 53, 140–151.##[26] Ghosh, S. (2008). Leverage, foreign borrowing and corporate performance: Firm level evidence for India. Applied Economics Letters. 15, 607–616.##[27] Huang, G., &amp; Song, F. M. (2006). The determinants of capital structure: Evidence from China. China Economic. 17, 14-36.##[28] Jaffe, j., Keim, D., &amp; Westerfield, R. (1989). Earnings yields, market values and stock returns. Journal of Finance. 44, 135-148.##[29] King, M. R., &amp; Santor, E. (2008). Family values: Ownership structure, performance and capital structure of Canadian firms. Journal of Banking &amp; Finance. 32, 2423–2432.##[30] Margaritis, D., &amp; Psillaki, M. (2010). Capital structure, equity ownership and firm performance. Journal of Banking &amp; Finance. 34, 621–632.##[31] Modigliani, F., &amp; Miller, M. (1958). The cost of capital, corporation finance and theory of investment. American Economic Review. 48(3): 261–297.##[32] Modigliani, F., &amp; Miller, M. (1963). Corporate income taxes and the cost of capital: A correction. American Economic Review. 53(3): 433–443.##[33] Mondher, K. (2011). A re-examination of the MM capital structure irrelevance theorem: A partial payout approach. International Journal of Business and Management. 6(10): 193-204.##[34] Mc Millan, D. G. (2007). Nonlinear forecasting of stock returns: Does volume help. International Journal of forecasting. 23, 115-126.##[35] Nektarios, A., Denise, R., &amp; Marianne, S. (2002). Smooth transition regression models in UK stock returns. working paper.##[36] Pan H, Zhang Z. (2005). Forecasting financial volatility: Evidence from chine’s stock market, Working papers in economics and finance, No 06/02, University of Durham.##[37] Phillips, P. A., &amp; Sipahioglu, M. A. (2004). Performance implications of capital structure: Evidence from quoted U.K. organisations with hotel interests. The Service Industries Journal. 24, 31–51.##[38] Ravalli, J., &amp; Seidner, A. G. (2000). How to manage investment risk. Journal of Financial Management. 13, 76-79.##[39] Sterman. J. (2000). Business dynamics, systems thinking and modeling for a complex world. McGraw-Hill publication.##[40] Theil, H. (1966). Applied economic forecasting. Amsterdam: North Holland Publishing.##[41] Tudor, E., Andrei, A. M., Badescu, A., &amp; Georgescu, I. (2014). Modigliani-Miller theorem and its implications on Romanian agricultural policies. Procedia Economics and Finance. 13, 101–108.##[42] Weill, L. (2008). Leverage and corporate performance: Does institutional environment matter? Small Business Economics. 30, 251–265.##[43] www.irbourse.com.##[44] www.tsetmc.com.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی رابطۀ بین حجم معامله، بازده سهام و نوسان بازده در زمان مقیاس‏های مختلف در بورس اوراق بهادار تهران</TitleF>
+				<TitleE>Surveying the Relation among Volume, Stock Return and Return Volatility in the Tehran Stock Exchange: A Wavelet Analysis</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>با وجود انجام مطالعات گسترده در مورد چگونگی ارتباط حجم معامله - بازده سهام و حجم معامله - نوسان بازده در بازارهای مالی، هنوز در مورد ساختار نظری یا تجربی این ارتباط اجماع حاصل نشده ‏است. این پژوهش با هدف کشف اطلاعات نهفته در سری زمانی متغیرهای حجم معامله، بازده سهام و نوسان بازده در دورۀ زمانی 96 ماهه (ابتدای فروردین 1386 تا اسفند 1393) صورت گرفته است. بدین‌منظور سری‏های زمانی این متغیرها با استفاده از تبدیل موجک گسسته با حداکثر هم‌پوشانی، تجزیه و ضرایب موجک آن‏ها محاسبه شده است؛ سپس رابطۀ میان سری‏ها با استفاده از آزمون علّیت گرنجری بررسی شده است. نتایج به‌دست‌آمده از این پژوهش در دورۀ زمانی مورد بررسی، نشان‌دهندۀ تفاوت روابط بین متغیرها در مقیاس‏های زمانی متفاوت است، چنانکه در برخی از مقیاس‏ها، آزمون علّیت گرنجر، وجود رابطۀ علّی میان سری‏های زمانی را تأیید می‌کند و در برخی از مقیاس‏های زمانی این رابطه وجود ندارد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Although many studies have tried to construct a theoretical or empirical structure of relation among trading volume, stock return and return volatility in financial markets, there still is not a general consensus about it. This study discovers latent information in variables time series for 96 months (April 2007- March 2015). To do so, related time series decomposed by using the maximum overlap discrete wavelet transform and wavelet coefficients has calculated. Then the relation between the series is examined by Granger causality test. The main feature of this research is to investigate the relation between variables at different time intervals. The results show that during the 2007 to 2015, the relation between variables in different time intervals varies. As in some periods, the Granger causality test confirms the causal relation between time series, while in some other time periods it does not support the existence of such relation. </CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>99</FPAGE>
+						<TPAGE>114</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>ابراهیم</Name>
+						<MidName></MidName>		
+						<Family>عباسی</Family>
+						<NameE>Ebrahim</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Abbasi</FamilyE>
+						<Organizations>
+							<Organization>گروه مدیریت دانشکده علوم اجتماعی و اقتصادی دانشگاه الزهرا، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه مدیریت دانشکده علوم اجتماعی و اقتصادی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>abbasiebrahim2000@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>لیلا</Name>
+						<MidName></MidName>		
+						<Family>دهقان نیری</Family>
+						<NameE>Leyla</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Dehghan nayeri</FamilyE>
+						<Organizations>
+							<Organization>گروه مدیریت دانشکده علوم اجتماعی و اقتصادی دانشگاه الزهرا، تهران، ایران.</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه مدیریت دانشکده علوم اجتماعی و اقتصادی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>l.dehghannayeri@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>نازیلا</Name>
+						<MidName></MidName>		
+						<Family>پورداداش مهربانی</Family>
+						<NameE>Nazila</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Poordadash mehrabani</FamilyE>
+						<Organizations>
+							<Organization>گروه مدیریت دانشکده علوم اجتماعی و اقتصادی دانشگاه الزهرا، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه مدیریت دانشکده علوم اجتماعی و اقتصادی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>nazila.mehrabani@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>حجم معامله</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بازده سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نوسان بازده</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تبدیل موجک</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>علّیت گرنجری</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]   Abrishami H, Mehara M, Nouri M, Mohaghegh M. (2010), &quot;TFP Growth and Inflation in Iran: A Wavelet Causality Approach&quot;. Journal of Economic Modeling Research, 1, 1-28.##[2]   Clark, P. K. (1973). &quot;A subordinated stochastic process withfinite variance for speculative prices&quot;.Econometrica, 41, 135–155.##[3]   Darrat, A. F., Rahman, S., &amp; Zhong, M. (2003).” Intraday trading volume and return volatility of the DJIA stocks: A note”, JOURNAL OF BANKING AND FINANCE, 27, 2035–2043.##[4]   Epps, T. W., &amp; Epps, M. L. (1976). &quot;The stochastic dependence of security price changes and transaction volumes: Implications for the mixture-of-distributions hypothesis&quot;.Econometrica, 44, 305–321.##[5]   Gallegati, M., (2008), “Wavelet analysis of stock returns and aggregate economic activity”, Computational Statistics &amp; Data Analysis, 52: 3061 – 3074.##[6]   Gencay, R., Selcuk, F., Whitcher, B., (2002),” an introduction to wavelets and other filtering methods in finance and economics.” Academic press.##[7]    Granger, C., (1969), &quot;Investigating causal relations by econometric models and cross-spectral methods&quot;, Econometrica 37(3): 424-438.##[8]   Hamidvand, M. (2008), &quot;Stock trading size and frequency and its impact on the volatility of stock prices in the Tehran Stock Exchange&quot; (M.A. dissertation), Alzahra University, Faculty of Social Science and Economics.##[9]   Harris, L. (1987). Transaction data tests of the mixture of distributions hypothesis. JOURNAL OF FINANCIAL AND QUANTITATIVE ANALYSIS, 22,127–141.##[10]         Karpoff, J. M. (1987). &quot;The relation between price changes and trading volume: A survey. JOURNAL OF FINANCIAL AND QUANTITATIVE ANALYSIS&quot;, 22, 109–126.##[11]         Mallat, S. (1989), “A theory of multiresolution signal decomposition: the wavelet representation”, IEEE transactions an pattern analysis and machine intelligence, 11, 674-693.##[12]         Mitra, Sh., (2006), “A wavelet filtering based analysis of macroeconomic indicators:  the Indian evidence”, Applied Mathematics and Computation, 175, 1055–1079.##[13]         Schwert, W., (1989),”tests for unit roots: a montecarlo investigation”. JOURNAL OF BUSINESS AND ECONOMICS STATISTICS.” Vol7:147-159.##[14]         Shams, sh. (2008), &quot;Surveying the capital asset pricing model in timescales&quot; (Doctoral dissertation), Tehran University.##[15]         Tehrani. R, Mohammadi. sh, Pour ebrahimi m. (2011), &quot;Modeling and forecasting the volatility of Tehran Exchange Dividend Price Index (TEDPIX)&quot;, Financial Research ,30, 23-34.##[16]         Wang, H., (2004),” Dynamic Volume-Volatility Relation”, the europian financial management association.##[17]         Wang, Jiang, (1994), “A model of competitive stock trading volume”, JOURNAL OF POLITICAL ECONOMY 102, No.1, 127-168.##[18]         Zivdari, M. (2005), &quot;Surveying the empirical relationship between stock returns and stock returns volatility and trading volume in the Tehran Stock Exchange&quot; (M.A. dissertation), Tarbiat Modares University, Humanities Faculty.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE></ARTICLES>
+</JOURNAL>
+
+				</XML>
+				

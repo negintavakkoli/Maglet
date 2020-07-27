@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1389</year>
+	<month>8</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2010</year>
+	<month>11</month>
+	<day>1</day>
+</pubdate>
+<volume>4</volume>
+<number>1</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>پیش بینی سیلاب از طریق داده های سری زمانی دبی رودخانه سومبار با استفاده از مدل باکس _جنکینز</title_fa>
+	<title>Flood Forecasting in Sombar River by Time series Analysis using Box-Jenkins Model</title>
+	<subject_fa></subject_fa>
+	<subject></subject>
+	<content_type_fa>علمی پژوهشی</content_type_fa>
+	<content_type>s</content_type>
+	<abstract_fa>امروزه یکی از مهمترین مسائل جهت مدیریت سیلاب، پیش بینی جریان رودخانه ها می باشد. جلوگیری از صدمات اقتصادی و جانی ناشی از سیلاب یکی از مهمترین دستاوردهای پیش بینی صحیح جریان می باشد. فاکتورها و عوامل مختلفی بر روی دبی رودخانه تاثیر گذار است که تحلیل این پدیده را مشکل می سازند. مدلهای فیزیکی-مفهومی، رگرسیونی و سری های زمانی از معمولترین روشهای تحلیل جریان رودخانه می باشند در این تحقیق با استفاده ازداده های دبی ایستگاه قره قانلو در13 سال گذشته ، به پیش بینی دبی رودخانه سومبار از طریق مدل فصلی ضربی باکس جنکینز و با استفاده از نرم افزار Minitab پرداخته شده است. همچنین برای انتخاب بهترین مدل پیش بینی از معیار ارزیابی خطا و آزمون باقی ماندها استفاده گردید و بهترین مدل ،ARIMA(1,1,0)(2,1,1)12 در نظر گرفته شد، و برای 24 ماه آینده پیش بینی دبی رودخانه صورت گرفت</abstract_fa>
+	<abstract>Today, one of the most problems, for the purpose of flood management is river flow prediction. Prevention of economic body suffering arise of flood is one of the most important achievements of correct flow prediction. Factors and divers parameters influence the discharge, make complex the analysis. Conception-physical model, regression models and time series are the most common- analytical approach of river flow. In this search by using of discharge data of Ghareh Ghanlo station in 13 years ago, the prediction of Sombar river discharge by Box-Jenkins was done. To do so, MINITAB software was used. Also for selecting of the best prediction model used of error evaluation factor and ARIMA (1,1,0) (2,1,1)12 was selected as the best prediction model and finally by use of these methods river discharge for 24 next month, was forecasted. </abstract>
+	<keyword_fa>رودخانه سومبار , باکس_جنگینز , ARIMA ,</keyword_fa>
+	<keyword>Sombar river , Box-Jenkins , ARIMA ,</keyword>
+	<start_page>901</start_page>
+	<end_page>915</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-3-67&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>mohamad</first_name>
+	<middle_name></middle_name>
+	<last_name>nakhaee</last_name>
+	<suffix></suffix>
+	<first_name_fa>محمد</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>نخعی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>nakhaei@kh.ac.ir</email>
+	<code>1003194753284600286</code>
+	<orcid>1003194753284600286</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation>tmu</affiliation>
+	<affiliation_fa>دانشگاه تربیت معلم</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

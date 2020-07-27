@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-24T06:38:07Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://www.nowavari.ir/?_action=export&amp;rf=summon&amp;issue=13940</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>خُردبنیان‌های توانمندی‌های پویا در نوآوری خدماتیِ بنگاه‌های تولیدی (موردِمطالعه: شرکت خودروسازی سایپا)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد</given_name>
+												<surname>مهدوی مزده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مصطفی</given_name>
+												<surname>جعفری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>عبدالمجید</given_name>
+												<surname>کهریزی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>عاطفه</given_name>
+												<surname>حسینی خمسه مطلق</surname>
+											</person_name></contributors>
+									<abstract>با تغییر چشم‌انداز اقتصادی جهان به‌سوی اقتصادی مبتنی بر خدمات، نوآوری خدماتی از اهمیت فراوانی برای کسب و حفظ مزیت رقابتی در محیط کسب‌وکار روبه خدماتی‌شدن برخوردار است. در چنین شرایطی، بنگاه‌های تولیدی نیز ملزم به اتخاذ استراتژی افزودن خدمات به سبد خود و درنظرگرفتن نوآوری خدماتی (علاوه بر نوآوری محصولی) هستند. اصلی‌ترین چالش در تغییر جهت‌گیری بنگاه‌های تولیدی از محصول‌محوری به محصول-خدمت‌محوری، مدیریت «توانمندی‌های پویای» موردِنیاز برای نوآوری خدماتی است. توانمندی‌های پویا، تحول و نوسازیِ فرآیندهای فعلی بنگاه را تسهیل کرده و انواع نوآوری را برای کسب تناسب بهتر با محیط متغیر ارتقا می‌دهند. هدف پژوهش حاضر، شناسایی خُردبنیان‌های توانمندی‌های پویا در نوآوری خدماتیِ بنگاه‌های تولیدی و تببین تعاملات فی‌مابین این خُردبنیان‌ها در بستر یک بنگاه تولیدی ایرانی (شرکت خودروسازی سایپا) است. بدین‌منظور، با مرور پیشینه‌ی موضوع، 14 خُردبنیان ذیل سه دسته توانمندی‌های پویا شناسایی شد. سپس نظر خبرگان دانشگاهی و اجرایی با استفاده از ابزار پرسشنامه درباره ضرورت و میزان اهمیت هر خُردبنیان در نوآوری خدماتی، جمع‌آوری شد. در ادامه با روش دیمتل‌ فازی و مبتنی بر نظرخواهی از خبرگان اجرایی، شدت و جهت ارتباط متقابل میان این خُردبنیان‌ها در بستر شرکت خودروسازی سایپا به‌عنوان بنگاه تولیدی موردِمطالعه بررسی شد.</abstract>
+									<keywords>
+									
+											<keyword>خدماتی‌شدن</keyword>
+											<keyword>نوآوری خدماتی</keyword>
+											<keyword>توانمندهای پویا</keyword>
+											<keyword>خُردبنیان‌ها</keyword>
+											<keyword>بنگاه تولیدی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>31</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_102630_ac05a50226cf5448db5470bdc0867d16.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>چارچوب مفهومی شکل‌گیری زیست‌بوم‌های کارآفرینی دانشگاه پایه شهر تهران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی</given_name>
+												<surname>محقر</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهدی</given_name>
+												<surname>محمدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>نیما</given_name>
+												<surname>مختارزاده</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>روح اله</given_name>
+												<surname>شهیدی پور</surname>
+											</person_name></contributors>
+									<abstract>موضوع این مقاله، ارائه چارچوب مفهومی برای تبیین نحوه شکل‌گیری زیست‌بوم‌های کارآفرینی دانشگاه پایه در تهران و شاخصها و زیرشاخص‌های مربوط به آن بوده و روش پژوهش کیفی است. این تحقیق در بازه زمانی سال‌های 1397 و 1398 انجام شده و قلمرو مکانی آن دانشگاه‌های شهر تهران بوده است. چارچوب مفهومی توسعه داده شده در این تحقیق شامل یک ماتریس سه‌درچهار است که محور افقی آن جایگاه زیست‌بوم‌ در چرخه عمر (مشتمل بر 4 وضعیت: تولد، فعال‌سازی، یکپارچگی و بلوغ) و محور عمودی آن نحوه شکل‌گیری اکوسیستم (مشتمل بر 3 وضعیت: ارگانیک و جامعه محور، نظام‌مند و دانشگاه محور و ترکیب ارگانیک و نظام‌مند) را نشان می‌دهد. در ادامه نیز با روش تحلیل مضمون و با بکارگیری شبکه مضامین، شاخصها و زیرشاخص‌های پیشنهادی تعیین گردید.&lt;br /&gt;در بخش بعد با بکارگیری روش دلفی، شاخصها و زیرشاخصهای مربوط به چرخه عمر شامل 4 شاخص: وضعیت زیرساختهای سازمانی کارآفرینی (مشتمل بر 7 زیرشاخص)، وضعیت منابع موجود در اکوسیستم (مشتمل بر 4 زیرشاخص)، وضعیت ارتباطات بین عناصر فعال در زیست‌بوم‌(مشتمل بر 5زیرشاخص) و وضعیت زیرساخت‌های برنامه‌ای، مدیریتی و فرهنگی زیست‌بوم‌ (مشتمل بر 3زیرشاخص) تعیین و جمع‌بندی گردید. شاخصها و زیرشاخصهای مربوط به تعیین الگوی شکل‌گیری نیز شامل 2 شاخص: سهم دانشجویان و فارغ‌التحصیلان در زیست‌بوم‌ کارآفرینی (مشتمل بر 3زیرشاخص) و نقش عوامل غیردانشگاهی در زیست‌بوم‌ کارآفرینی (مشتمل بر 3زیرشاخص) تعیین و جمع‌بندی شد.</abstract>
+									<keywords>
+									
+											<keyword>اکوسیستم کارآفرینی دانشگاه پایه</keyword>
+											<keyword>چارچوب مفهومی</keyword>
+											<keyword>الگوی شکل‌گیری</keyword>
+											<keyword>چرخه عمر</keyword>
+											<keyword>تحلیل مضمون</keyword>
+											<keyword>شبکه مضامین</keyword>
+											<keyword>دلفی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>33</first_page>
+										<last_page>60</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_102632_b472787dcce9278c425444c11ffc372a.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تحلیل تاثیر کارآفرینی بر نابرابری توزیع درآمد در میان استان‌های کشور</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>زهرا</given_name>
+												<surname>نجفی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مجید</given_name>
+												<surname>صامتی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سمیه</given_name>
+												<surname>جمالی</surname>
+											</person_name></contributors>
+									<abstract>در طول سال‌های اخیر اهمیت کارآفرینی در پیشبرد رشد و توسعه اقتصادی کشورها و رفع نابرابری توزیع درآمد سهم بالایی به خود اختصاص داده است. به گونه‌ای که کارآفرینان در توسعه‌ی اقتصادی کشورهای توسعه‌یافته، نقش محوری داشته‌اند. در حالی‌که در کشورهای درحال توسعه این اهمیت نادیده گرفته شده است. لذا با توجه به اهمیت نقش کارآفرینی، در این تحقیق به بررسی رابطه بین کارآفرینی و نابرابری تویع درآمد در استان‌های ایران و در طول سال‌های 1395-1390 پرداخته شده است. نتایج بدست آمده حاکی از تایید رابطه U معکوس بین این دو متغیر است و همچنین نتایج نشان داد که اکثر کشورهای مورد بررسی در قسمت نزولی این منحنی قرار دارند، یعنی با افزایش سطح کارآفرینی، نابرابری توزیع درآمد کاهش می‌یابد. دیگر متغیرهای اثرگذار بر نابرابری توزیع درآمد، نرخ شهرنشینی و چگالی جمعیت است که به ترتیب تاثیر منفی و مثبت بر نابرابری داشتند.</abstract>
+									<keywords>
+									
+											<keyword>کارآفرینی</keyword>
+											<keyword>نابرابری توزیع درآمد</keyword>
+											<keyword>پنل دیتا</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>61</first_page>
+										<last_page>84</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_102633_042a8ba670dafd3feae4566a43b3dee3.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>آسیب شناسی بودجه ریزی پژوهش و فناوری درایران ﺑﺎ اﺳﺘﻔﺎده از روش ﻓﺮاﺗﺮﮐﯿﺐ</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>امیرحسام</given_name>
+												<surname>بهروز</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی اصغر</given_name>
+												<surname>پورعزت</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>فرهاد</given_name>
+												<surname>دژپسند</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>مجتبی</given_name>
+												<surname>امیری</surname>
+											</person_name></contributors>
+									<abstract>ﻣﻄﺎﻟﻌﺔ ﺣﺎﺿـﺮ ، ﻓﺮاﺗرکیبی ﺑـﺮ ﭘـﮋوﻫﺶ‌ﻫـﺎی ﺣـﻮزه بودجه پژوهش و فناوری در ایران، با هدف آسیب شناسی جامع و کل نگر آن است. ﺟﺎﻣﻌﺔ ﭘـﮋوﻫﺶ ﺣﺎﺿـﺮ، مشتمل بر 96 ﻣﻘﺎﻟﺔ ﻋﻠﻤﻲ ﭘﮋوﻫﺸﻲ، علمی -ترویجی، گزارش و طرح پژوهشی است که در بازه سالهای 1381-1398 به زبان فارسی ﺑﻪ ﭼﺎپ رﺳﻴﺪه اﻧﺪ. در این پژوهش از روش هفت مرحله سندلوسکی و باروسو برای فراترکیب مقالات بهره گرفته شده است که پس از غربال گری، به کمک فهرست COREQ 32-item، 69 سند به منزله پژوهش با کیفیت بالا و متوسط جهت تحلیل عمیق تر شناسایی شدند و دردو ﺑﺨـﺶ ﺗﻮﺻـ ﻴﻔﻲ و تحلیلی ﺑﺮرﺳﻲ ﺷﺪه اﻧﺪ. با استفاده از روش تحلیل تم ، به تحلیل و استخراج اطلاعات از مقالات و ارائه یافته های نهایی اقدام شده است. ﻣﻮاﻧﻊ اﺟﺮای بودجه ریزی پژوهش و فناوری، در قالب 139 عامل و مانع اصلی در 19 مولفه ( تم فرعی) در 5 بعد (تم اصلی) خط مشی گذاری حوزه علم و فناوری، تهیه و تنظیم بودجه، تصویب بودجه، اجرای بودجه و نظارت بر بودجه، دسته بندی شدند. چ</abstract>
+									<keywords>
+									
+											<keyword>بودجه ریزی</keyword>
+											<keyword>ﻓﺮاﺗرکیب</keyword>
+											<keyword>بودجه علم و فناوری</keyword>
+											<keyword>بودجه پژوهشی</keyword>
+											<keyword>تامین مالی پژوهش و فناوری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>85</first_page>
+										<last_page>122</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_102634_3ff094bd73e286bc919c13c1ceb1567b.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناسایی موج های نوآوری نظامی در کشور مبتنی بر اندیشه‌های فرمانده معظم کل قوا</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>خلیل</given_name>
+												<surname>نوروزی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>کریم</given_name>
+												<surname>زاهدی خوزانی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مجتبی</given_name>
+												<surname>علویان</surname>
+											</person_name></contributors>
+									<abstract>ضرورت پرداختن به نوآوری نظامی برای صنایع دفاعی کشورها امروزه بیش‌ازپیش احساس می‌شود. نوآوری نظامی به عنوان حوزه‌ای نوپا، بنیان‌های نظری ویژه‌ای دارد. در این پژوهش به بررسی بنیان‌ها، اهداف و الزامات تحقق نوآوری نظامی مبتنی بر اندیشه‌های مقام معظم رهبری مدظله‌العالی پرداخته‌شده‌است. برای نیل به این هدف، بیانات معظم له پیرامون نوآوری نظامی گردآوری گشت و مورد پژوهش و تحلیل قرارگرفت. روش استفاده شده درمقاله، کیفی بوده و از راهبرد تحلیل مضمون برای احصای الگوی مورد نظر استفاده گردید. موج سوم اشاره به نوآوری های نهادی دارد که منجر به تاسیس نهادهای انقلابی درحوزه دفاعی و نظامی شد. موچ چهارم به ترسیم انتظارات ایشان برای سرآمد شدن و مرزشکنی در علوم نظامی و دفاعی در دوران کنونی انقلاب اختصاص یافته است. موج پنجم که به عنوان یکی از یافته های روندپژوهی سیر اندیشه معظم له است،تحت عنوان نوآوری دانش پایه، به طرح مقوله علوم بنیادی که می تواند طرح نو در علوم نظامی در اندازند، می پردازد. پس از آن نظام انتظارات صریح معظم له از سازمان های نظامی، مدیران و فرماندهان حوزه نظامی و دفاع و نهایتا پژوهشگران این حوزه مستند به بیانات ایشان استخراج شده است.</abstract>
+									<keywords>
+									
+											<keyword>نوآوری</keyword>
+											<keyword>صنایع نوآور</keyword>
+											<keyword>نوآوری نظامی</keyword>
+											<keyword>نوآوری دفاعی</keyword>
+											<keyword>مقام معظم رهبری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>123</first_page>
+										<last_page>149</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_102635_408685297503e0e09162251e3a52c3fd.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-01-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر نوآوری بر سهم بازار کشورهای منتخب از صادرات غیرنفتیِ جهان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>بهناز</given_name>
+												<surname>خوش طینت</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ابوالفضل</given_name>
+												<surname>شاه‌آبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مصطفی</given_name>
+												<surname>شجاعی شاد</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>علی</given_name>
+												<surname>مرادی</surname>
+											</person_name></contributors>
+									<abstract>توسعۀ صادرات غیرنفتی می‌تواند وضعیت اشتغال را سامان بخشیده و به تأمین منابع ارزی لازم برای واردات کمک نماید. همچنین، از مجرای قطع وابستگی به درآمدهای ارزی حاصل از صادرات نفت می‌تواند تاب‌آوری اقتصاد را افزایش ‌‌دهد. اما، تحقق این مهم در دنیای پر رقابت کنونی، نیازمند حمایت از ایده‌های خلاق، ساخت کالاها و خدمات جدید، مبتنی بر نیازها و سلایق مشتریان خارجی با استفاده از ابزارها و شیوه‌های نوین تولید و تجاری‌سازی آنها است که تحت عنوان نوآوری از آن یاد می‌شود. بنابراین، تحقیق حاضر سعی نمود تأثیر نهاده‌ها و ستاده‌های نوآوری را بر سهم بازار دو گروه از کشورهای منتخب صادرکننده نفت (گروه نمونه) و کشورهای منتخب نوآور‌محور (گروه کنترل) از صادرات غیرنفتی جهان طی دوره 2017-2007 بررسی نماید. برای این منظور، مدل تحقیق با استفاده از داده‌های تابلویی و به روش گشتاورهای تعمیم‌یافته به تفکیک دو گروه از کشورهای یادشده برآورد گردید. نتایج نشان داد، تأثیر نهاده‌ها و ستاده‌های نوآوری بر سهم بازار هر دو گروه از کشورهای منتخب از صادرات غیرنفتی جهان مثبت و معنادار است. البته، ضریب تخمینی این متغیرها در کشورهای صادرکننده نفت بزرگتر است.</abstract>
+									<keywords>
+									
+											<keyword>صادرات غیرنفتی</keyword>
+											<keyword>نوآوری</keyword>
+											<keyword>شاخص جهانی نوآوری</keyword>
+											<keyword>داده‌های نوآوری</keyword>
+											<keyword>ستاده‌های نوآوری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>01</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>151</first_page>
+										<last_page>171</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_107464_4b374f20911555144726618e5f836dce.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

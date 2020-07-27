@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>11</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2018</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Optimization of the ALPRIFT method using a support vector machine (SVM) to assess the subsidence Vulnerability of the southwestern plain of Tehran</ArticleTitle>
+<VernacularTitle>بهینه سازی روش ALPRIFT با استفاده از ماشین بردار پشتیبان (SVM) برای ارزیابی آسیب‌پذیری فرونشست دشت جنوب‌غربی تهران</VernacularTitle>
+			<FirstPage>1</FirstPage>
+			<LastPage>14</LastPage>
+			<ELocationID EIdType="pii">83263</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>علی</FirstName>
+					<LastName>منافی آذر</LastName>
+<Affiliation>دانشگاه تربیت مدرس</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>ماشااله</FirstName>
+					<LastName>خامه چیان</LastName>
+<Affiliation>گروه زمین شناسی مهندسی. دانشگاه تربیت مدرس. دانشکده علوم پایه</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>عطااله</FirstName>
+					<LastName>ندیری</LastName>
+<Affiliation>گروه زمین شناسی. دانشکده علوم طبیعی. دانشگاه تبریز</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2018</Year>
+					<Month>09</Month>
+					<Day>09</Day>
+				</PubDate>
+			</History>
+		<Abstract>Considering the increase in population and the development of agricultural activities in the south-western plain of Tehran, which has led to an increase in underground water drainage, the assessment of the vulnerability of subsidence areas is of great importance. In this research, the vulnerability of south-western plain of Tehran to subsidence has been investigated using ALPRIFT method in ArcGIS and optimization of the ALPRIFT method has been performed using SVM. To implement the ALPRIFT method, effective parameters have been used to assess the subsidence susceptibility including aquifer media, land use, groundwater pumping, recharge, aquifer thickness, faults distance and groundwater decline, which are ranked in seven separate layers and Weighted the ALPRIFT index from the combination of these seven layers, which was estimated to be 173-77. In order to optimize the ALPRIFT method, the SVM model was used. For this purpose, the input data (ALPRIFT parameters) and output (vulnerability index) and the subsidence amount were related to the two groups of training and testing. After training the model, Using the subsidence amount, the model results were evaluated at the experimental stage. The results showed that the SVM model was able to improve the results of the original ALPRIFT method. In order to verify the results, the InSAR radar map and its correlation coefficient (R^2) with the vulnerability index and correlation index (CI) of the piezometers in the plain were used.</Abstract>
+			<OtherAbstract Language="FA">با توجه به افزایش جمعیت و توسعه فعالیت‌های کشاورزی در دشت جنوب‌غربی تهران که سبب افزایش برداشت آب‌های زیرزمینی شده، ارزیابی پتانسیل آسیب‌پذیری مناطق دارای فرونشست اهمیت زیادی دارد. در این پژوهش آسیب‌پذیری دشت جنوب‌غربی تهران در برابر فرونشست به کمک روش ALPRIFT در محیط ArcGIS بررسی شده و بهینه سازی روش ALPRIFT با استفاده از مدل‌های ماشین بردار پشتیبان (SVM) صورت گرفته است. برای اجرای روش ALPRIFT از پارامترهای موثر در ارزیابی آسیب‌پذیری فرونشست شامل جنس محیط، کاربری زمین، میزان پمپاژ آب زیرزمینی، میزان تغذیه، ضخامت آبخوان، فاصله از گسل و افت سطح آب زیرزمینی استفاده شده که به صورت هفت لایه جداگانه رتبه دهی و وزن دهی شده و از تلفیق این هفت لایه، شاخص ALPRIFT محاسبه شد که بر اساس نتایج بدست آمده 173-77 برآورد شد. به منظور بهینه‌سازی روش ALPRIFT از مدل SVM استفاده شد. برای صحت سنجی نتایج از نقشه ماهواره‌ای InSAR و ضریب همبستگی (R^2) آن با شاخص آسیب‌پذیری و شاخص همبستگی (CI) پیزومترهای موجود در دشت استفاده شد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">آسیب‌پذیری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ALPRIFT</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ماشین بردار پشتیبان</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">بهینه سازی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نقشه ماهواره‌ای InSAR</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>11</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2018</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Evaluation of Tunnel Seismic Prediction (TSP) Test Results based on Geological Observations and Analysis of the Parameters of the EPB Hard Rock Machine</ArticleTitle>
+<VernacularTitle>ارزیابی نتایج آزمایش پیش‎بینی‎ لرزه‎ای تونل (TSP) بر اساس شواهد زمین‎شناسی و تحلیل پارامترهای عملیاتی دستگاهِ EPB Hard Rock</VernacularTitle>
+			<FirstPage>15</FirstPage>
+			<LastPage>31</LastPage>
+			<ELocationID EIdType="pii">83487</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>وحید</FirstName>
+					<LastName>جودکی</LastName>
+<Affiliation>گروه سازه های زیرزمینی، شرکت مهندسین مشاور ساحل امید ایرانیان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>عبداله</FirstName>
+					<LastName>سهرابی بیدار</LastName>
+<Affiliation>دانشیار، دانشکده زمین‌شناسی، دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>رسول</FirstName>
+					<LastName>اجل لوئیان</LastName>
+<Affiliation>استاد، دانشکده زمین‌شناسی، دانشگاه اصفهان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>نوید</FirstName>
+					<LastName>امینی</LastName>
+<Affiliation>استادیار، مؤسسه ژئوفیزیک، دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>توماس</FirstName>
+					<LastName>دیکمن</LastName>
+<Affiliation>. دکترا، گروه ژئوفیزیک، شرکت امبرگ تکنولوژی</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2018</Year>
+					<Month>10</Month>
+					<Day>31</Day>
+				</PubDate>
+			</History>
+		<Abstract>Bazideraz&#039;s water transfer tunnel is located in the Zagros structural zone. To excavation this tunnel, an EPB Hard Rock type TBM machine was used. The axis of the tunnel is located on an Anticline. In this anticline, there are various geological structures such as folding, fault, karst, and so on. The underlying studies of the design and implementation of exploratory specimens in the core of this anticline have been confined. In this research, for study of geological conditions during drilling, seismic prediction of tunnel (TSP) test was carried out at two positions of 287 + 3 and 577 + 5. In this geophysical method, seismic waves are used to illustrate geological structures. The distribution of shear waves in a three-dimensional tunnel model provides evidence of lithological changes (alternation of marl and shale and limestone layers) and the existence of several crushed zones along the drilling path. Bazideraz Tunnel is the first project in the world to use the TSP method to drill a EPB machine. In this study, the analysis of the operational parameters of the EPB machine and Observe rock mass during drilling was used to measure the accuracy of the TSP results. The fluctuations of the penetration rate, thrust and torque in the drilling path are in accordance with the low velocity and high velocity regions of the three-dimensional shear waves. Results of controlling the drilling materials indicate that the shear waves distribution models have a relative adaptation to the geological conditions in the drilling path.</Abstract>
+			<OtherAbstract Language="FA">تونل انتقال آب بازی‎دراز در زون ساختاری زاگرس چین‎خورده قرار گرفته است. برای حفاری این تونل از یک دستگاه TBM (از نوع EPB Hard Rock) استفاده شده است. محور تونل در یک تاقدیس قرار گرفته است. در این تاقدیس ساختارهای متنوع زمین شناسی از قبیل چین خوردگی، گسل، کارست و... وجود دارد. مطالعات زیرسطحی طرح و اجرای گمانه‎های اکتشافی در هسته این تاقدیس با محدودیت مواجه بوده است. در این تونل برای پیش‎بینی شرایط زمین‎شناسی حین حفاری، مطالعات‎ پیش‎بینی‎ لرزه‎ای تونل (TSP) در دو موقعیت کیلومتراژهای 287+3 و 577+5 اجرا شد. در این روش ژئوفیزیکی از امواج لرزه‎ای برای تصویرسازی ساختارهای زمین‎شناسی استفاده می‎شود. توزیع امواج برشی در مدل سه بُعدی تونل، شواهدی از تغییرات لیتولوژیکی (تناوب لایه‎های مارنی، شیلی و آهکی) و وجود چند زون خردشده در مسیر حفاری ارائه می‎کند. تونل بازی‎دراز اولین پروژه در دنیا است که از روش TSP در مسیر حفاریِ یک دستگاه حفار از نوع EPB، استفاده شده است. در این پژوهش از تحلیل پارامترهای عملیاتی دستگاهِ EPB و نیز کنترل وضعیت سینه‎کار حفاری، برای ارزیابی میزان درستی نتایج پیش‎بینی‎های صورت گرفته توسط روش TSP، استفاده شده است. نوسانات پارامترهای نرخ نفوذ، نیروی تراست و گشتاور در مسیر حفاری، منطبق بر نواحی کم سرعت و سرعت بالا در مدلهای سه بُعدی امواج برشی است. نتایج کنترل وضعیت سینه‏کار و مصالح حفاری نیز نشان می‎دهد که مدلهای توزیع امواج برشی، با تغییرات شرایط زمین‎شناسی در مسیر حفاری، انطباق نسبتاً خوبی دارند</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">TSP</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">زمین‎شناسی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">زون خردشده</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">پارامترهای عملیاتی دستگاه EPB</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>11</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2018</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Experimental evaluation of stabilizad excavated wall using composite soil nailing and anchor</ArticleTitle>
+<VernacularTitle>بررسی آزمایشگاهی دیوار گود پایدار شده با ترکیب میخ‌کوبی و مهارگذاری</VernacularTitle>
+			<FirstPage>33</FirstPage>
+			<LastPage>44</LastPage>
+			<ELocationID EIdType="pii">83490</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>زهرا</FirstName>
+					<LastName>جلیل زاده</LastName>
+<Affiliation></Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مسعود</FirstName>
+					<LastName>حاجی علیلوی بناب</LastName>
+<Affiliation></Affiliation>
+
+</Author>
+<Author>
+					<FirstName>هوشنگ</FirstName>
+					<LastName>کاتبی</LastName>
+<Affiliation></Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>07</Month>
+					<Day>08</Day>
+				</PubDate>
+			</History>
+		<Abstract></Abstract>
+			<OtherAbstract Language="FA">پایداری شیروانی­های قائم خاکی یکی از مسائل مهم در مهندسی عمران بشمار می­رود. روش­های متفاوتی برای این منظور استفاده می­شود که میخ­کوبی ترکیبی با مهار پیش­تنیده از جمله آن­هاست. این روش با افزایش مقاومت برشی خاک, جابجایی افقی جدار خاکبرداری شده را کاهش می­دهد و باعث افزایش پایداری کلی سیستم ­می­شود.&lt;br /&gt; در تحقیق حاضر از مدل آزمایشگاهی کوچک شده استفاده شد که در آن, در نزدیکی یک پی نواری یک گود ایجاد شد که برای پایداری جدار خاکبرداری شده, از سیستم میخ­کوبی ترکیبی شامل دو ردیف میخ و یک ردیف مهار استفاده شد. برای بررسی پارامترهایی همچون مکان بهینه مهارها, مکانیزم خرابی, اثر مسلح کننده­ها بر ظرفیت باربری پی نواری و جابجایی افقی دیوار از روش سرعت سنجی تصویری ذرات (PIV) استفاده شد; بدین ترتیب که بعد از ساخت مدل دیوار و قرار دادن میخ­ها و مهارها در محل­های تعبیه شده, مدل خاکبرداری شده و به صورت گام به گام تا رسیدن به مرحله گسیختگی بارگذاری شد. در هر مرحله از مدل عکسبرداری شد و عکس­ها با روش PIV تحلیل شدند.&lt;br /&gt; نتایج نشان دادند که به ازای طول مشخصی از مهارها در ردیف وسط می­توان ظرفیت باربری پی نواری را افزایش و جابجایی افقی مربوط به دیوار را کاهش داد. همچنین مشاهده شد که حداکثر جابجایی افقی دیوار در قسمت پایین آن رخ می­دهد, در حالی که در سیستم میخ­کوبی ساده حداکثر جابجایی افقی در بالای دیوار رخ می­دهد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">میخ‌کوبی ترکیبی با مهار پیش‌تنیده</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ظرفیت باربری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سطح گسیختگیPIV</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>11</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2018</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Flood zoning of Chalus basin using hydrologic model of HEC-RAS and Geographic Information System</ArticleTitle>
+<VernacularTitle>پهنه‌بندی سیلاب رودخانه چالوس با تلفیق مدل HEC-RAS و سیستم اطلاعات جغرافیایی</VernacularTitle>
+			<FirstPage>45</FirstPage>
+			<LastPage>60</LastPage>
+			<ELocationID EIdType="pii">84116</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>علی محمد</FirstName>
+					<LastName>رجبی</LastName>
+<Affiliation>دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>طاهر</FirstName>
+					<LastName>رجایی</LastName>
+<Affiliation>گروه مهندسی عمران، هیدرولوژی، دانشگاه قم</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>علی</FirstName>
+					<LastName>فلاح تفتی</LastName>
+<Affiliation>دانش آموخته عمران هیدرولوژی دانشگاه قم</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2018</Year>
+					<Month>10</Month>
+					<Day>06</Day>
+				</PubDate>
+			</History>
+		<Abstract>In this study combination of GIS and HEC-RAS were used for flood zoning in the Chalus basin. For this purpose GIS data processing was done and the coordinate system was defined for the data and then the boundaries of the basin and sub-basin were determined with archydro. Using the extracted data TIN, DEM, mean slop and dip direction of rivers maps were produced and then using HEC-GEORAS, the data required for HEC-RAS software were prepared. Then the manning coefficient values, soil hydrologic groups and distribution maps of CN were extracted from land-use map and subsequently data transferred to the HEC-RAS and the values of manning in each of the cross sections were entered and boundary conditions were defined. Then HEC-RAS model was run in steady-state conditions. By overlaying different layers in GIS (such as the depth and velocity), dangerous areas during the flood were determined. Then the overlapping land-use map and velocity and depth layers, the land-use types at risk from flooding have been identified. Results presented that the floodplain area is equal to 8 and 24 percentage (Min. and Max). Most of the floodplain consists of rice land, building blocks, orchards, meadows and forests in the 2-year flood; therefore maximum damage happens for farmers and residences. By increasing the return period flood, the area of forest (that is placed within the floodplain) increases with higher ratio than building blocks, rice fields and pastures.</Abstract>
+			<OtherAbstract Language="FA">در این مطالعه با استفاده از نرم افزار Arc GIS و تلفیق آن با مدل هیدرولوژیکیHEC-RAS، پهنه بندی سیلاب در حوضه آبریز چالوس انجام شده است. به این منظور با استفاده از نقشه توپوگرافی منطقه و تصاویر ماهواره ای، مسیر دقیق رودخانه‌ها تعیین و پردازش اولیه بر روی اطلاعات صورت گرفت. در مرحله بعد با استفاده از الحاقیهArchydroوHEC-GEO-RAS اطلاعات مورد نیاز برای نرم افزار HEC-RASآماده شد و ضریب مانینگ، نقشه توزیع شماره منحنی در زیرحوضه ها و درصد مساحت هر کاربری (در هر زیرحوضه) مشخص شد و پس از آماده سازی اطلاعات، مدل HEC-RASدر شرایط ماندگار اجرا گردید. سپس ضمن پوشانی لایه های مختلف (از جمله لایه های عمق و سرعت در دوره های مختلف بازگشت سیلاب)، مناطق خطر در هنگام بروز سیل تعیین و انواع کاربری هایی که در معرض خطر سیلاب قرار دارند، مشخص شد.&lt;br /&gt; نتایج نشان داد که در رودخانه چالوس در بیشترین و کمترین حالت به ترتیب 24 و 8 درصد از مساحت حوضه استعداد سیل خیزی دارند. شیب افزایش درصد مساحت مناطق سیل گرفته نسبت به مساحت کل حوضه با دوره‌های بازگشت مختلف حدود 2% می باشد. در سیلاب2 ساله، بیشترین محدوده سیلابی را به ترتیب کاربری های شالیزار، بلوکهای ساختمانی، باغات، مراتع و جنگل در بر گرفته و لذا بیشترین خسارات به کشاورزان و منازل مسکونی وارد خواهد شد. همچنین با افزایش دوره بازگشت سیلاب رودخانه چالوس، مقدار مساحتی از جنگل که در محدوده سیلابی قرار می گیرد نسبت به مساحت بلوک های ساختمانی، باغات، شالیزارها و مراتع با رشد بیشتری افزایش می یابد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">حوضه آبریز</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">چالوس</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سیل</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">کاربری اراضی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سیستم اطلاعات جغرافیایی</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>11</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2018</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Investigation of tensile strength and deformation characteristics of Varamin collapsible soils at undisturbed, reconstituted and treated states</ArticleTitle>
+<VernacularTitle>بررسی مقاومت و تغییر شکل کششی خاک های رمبنده دشت ورامین در حالت های دست نخورده، بازسازی شده و بهسازی شده</VernacularTitle>
+			<FirstPage>61</FirstPage>
+			<LastPage>80</LastPage>
+			<ELocationID EIdType="pii">84166</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>مرتضی</FirstName>
+					<LastName>هاشمی</LastName>
+<Affiliation>هیات علمی دانشگاه اصفهان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حسین</FirstName>
+					<LastName>محمودیان</LastName>
+<Affiliation>گروه زمین شناسی دانشگاه اصفهان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>رسول</FirstName>
+					<LastName>اجل لوئیان</LastName>
+<Affiliation>استاد گروه زمین شناسی مهندسی دانشگاه اصفهان</Affiliation>
+<Identifier Source="ORCID">0000-0001-9770-1695</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2018</Year>
+					<Month>12</Month>
+					<Day>26</Day>
+				</PubDate>
+			</History>
+		<Abstract>Tensile failures including tensile cracks on the upper part of instable slopes, earth fissures, tensile cracks in earth dams, and any kind of tensile failures resulted from tensile stresses within soil body are considered as important engineering geological features. Studying tensile strength and deformation characteristics of soils can have a great role in the prevention of adverse phenomena resulted from tensile failures in soils. The Varamin collapsible soils are subjected to tensile fractures and earth fissuring because of the tensile stresses raised from the land subsidence of the Varamin plain. Therefore, in this study, the strength and deformation characteristics of these soils were investigated at undisturbed, reconstituted and treated states. Results indicate that, when undisturbed collapsible soils are subjected to tensile stresses, they show a low tensile strength and behave brittle in tension. Reconstituted soils have a lower tensile strength in comparison with undisturbed soils and behave very soft and fail easily in tension. Treated soils have a higher tensile strength in comparison with undisturbed soils and behave more ductile in tension and tolerate more deformation before tensile failure. Results indicate that the treatment of the collapsible soils with stabilizer materials together with compaction is an efficient method for strengthening these soils against tensile stresses and for improving their performance in tension.</Abstract>
+			<OtherAbstract Language="FA">گسیختگی‌های کششی مانند ترک‌های کششی بالای دامنه‌های خاکی ناپایدار، شکاف‌های سطح زمین، ترک‌های کششی بدنه سد‌های خاکی و هر نوع گسیختگی دیگری در توده‌های خاک که از تنش‌های کششی ناشی می‌شود، از پدیده‌های مهم زمین‌شناسی مهندسی به حساب می‌آیند. مطالعه و شناخت مقاومت و تغییر شکل کششی خاک‌ها، می‌تواند سهم قابل توجهی در شناخت و پیشگیری از پدیده‌های ناشی از گسیختگی‌های کششی در خاک داشته باشد. خاک‌های رمبنده حاشیه دشت ورامین از جمله خاک‌هایی هستند که در اثر تنش‌های کششی ناشی از نشست زمین در دشت ورامین، در معرض گسیختگی کششی و تشکیل شکاف‌های سطح زمین قرار دارند. بنابراین در تحقیق حاضر ویژگی‌های مقاومت و تغییر شکل کششی این خاک‌ها در حالت‌های دست‌نخورده، بازسازی شده و بهسازی شده مورد بررسی قرار گرفته است. نتایج تحقیق نشان می‌دهد هنگامی‌ که خاک‌های رمبنده در حالت دست‌نخورده تحت تنش کششی مستقیم قرار می‌گیرند، مقاومت کمی از خود نشان داده و در کشش به صورت شکننده رفتار می‌کنند. خاک‌های بازسازی شده در مقایسه با خاک دست نخورده، مقاومت کششی بسیار کمتری دارند و در کشش بسیار نرم رفتار کرده و به راحتی گسیخته می‌شوند. خاک‌های بهسازی شده در مقایسه با خاک‌های دست نخورده، مقاومت کششی بیشتری دارند و تحت تنش‌های کششی شکل‌پذیرتر رفتار کرده و تغییر شکل کششی بیشتری را قبل از گسیختگی تحمل می-کنند. نتایج این تحقیق نشان می‌دهد بهسازی خاک‌های رمبنده با استفاده از مواد افزودنی تثبیت کننده و سپس تراکم خاک، روش مناسبی برای تقویت این خاک‌ها در مقابل تنش‌های کششی و بهبود عملکرد آن‌ها در کشش است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">خاک رمبنده</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مقاومت کششی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">کرنش گسیختگی کششی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شکنندگی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شکل پذیری</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>11</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2018</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Investigation of the ability of ultrasonic parameters to evaluate the physical and mechanical characteristics and durability of carbonate rocks</ArticleTitle>
+<VernacularTitle>بررسی قابلیت پارامترهای مختلف امواج التراسونیک در ارزیابی ویژگی های فیزیکی و مکانیکی و دوام سنگ های کربناته</VernacularTitle>
+			<FirstPage>81</FirstPage>
+			<LastPage>98</LastPage>
+			<ELocationID EIdType="pii">84279</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>میلاد</FirstName>
+					<LastName>بشیری گودرزی</LastName>
+<Affiliation>گروه زمین شناسی دانشگاه اصفهان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مرتضی</FirstName>
+					<LastName>هاشمی</LastName>
+<Affiliation>هیات علمی دانشگاه اصفهان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>امین</FirstName>
+					<LastName>جمشیدی</LastName>
+<Affiliation>گروه زمین شناسی دانشگاه لرستان</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>01</Month>
+					<Day>12</Day>
+				</PubDate>
+			</History>
+		<Abstract>In this research by analyzing the signals of ultrasonic waves and obtaining the ultrasonic parameters in nine carbonate rocks from different parts of Iran, the ability of these parameters to assess the physical and mechanical properties and durability of rocks was investigated. For this purpose, firstly the petrographic, physical and mechanical properties of studied rocks were determined and then, in order to determine the durability of samples, long-term weathering tests of slake durability and wetting-drying up to 15 and 50 cycles were carried out, respectively. Moreover, a precise ultrasonic device capable to record wave signal was used and ultrasonic parameters of compressional wave velocity (VP), maximum amplitude (Amax), spatial attenuation (αs), and temporal attenuation (αs) were determined from recorded signals, before and after wetting-drying cycles. Results indicated that each of the ultrasonic parameters has different capabilities in rock characterization, such as VP can assess both physical and mechanical properties more accurate in comparison with other ultrasonic parameters. Results also indicated that Amax and αs detect the development of the microcracks resulted from wetting-drying cycles and the development of weathering within rocks more better than VP. On the other hand, αt is not sensitive to the weathering development in rock, while if this parameter is corrected and converted to αtc, it can detect the development of weathering within rocks.</Abstract>
+			<OtherAbstract Language="FA">در این تحقیق با تحلیل سیگنال امواج التراسونیک و استخراج پارامترهای مختلف التراسونیک در نه سنگ کربناته متعلق به مناطق مختلف ایران، قابلیت این پارامترها در تعیین و ارزیابی ویژگی های فیزیکی و مکانیکی و دوام سنگ ها مورد بررسی قرار گرفت. برای این منظور در ابتدا ویژگی های پتروگرافی، فیزیکی و مکانیکی سنگ های مورد مطالعه تعیین شد و سپس برای تعیین دوام، این سنگ ها در معرض آزمایش دوام شکفتگی تا 15 چرخه و آزمایش دوام در مقابل چرخه های متوالی تر و خشک شدن تا 50 چرخه قرار گرفتند. همچنین با استفاده از یک دستگاه دقیق التراسونیک با قابلیت ثبت سیگنال موج، سنگ ها قبل و بعد از چرخه های تر و خشک شدن مورد آزمایش التراسونیک قرار گرفتند و پارامترهای مختلف التراسونیک شامل سرعت موج تراکمی (VP)، دامنه حداکثر موج (Amax)، میرایی فاصله ای موج (αs) و میرایی زمانی موج (αt) از سیگنال های ثبت شده، تعیین و استخراج گردید. بررسی رابطه بین پارامترهای التراسونیک و ویژگی های سنگ های مورد مطالعه نشان می دهد هر یک از پارامترهای التراسونیک قابلیت های متفاوتی دارند به نحوی که در تعیین ویژگی های فیزیکی و مکانیکی VPقابلیت بیشتری دارد. از طرف دیگر دو پارامتر Amax و αs قابلیت بیشتری در ارزیابی دوام سنگ‌ها دارند و توسعه ریزترک های ناشی از چرخه های تر و خشک شدن و پیشرفت هوازدگی در سنگ را بهتر از VP آشکار می کنند. با اصلاح αt به αtc این پارامتر نیز می تواند به خوبی پیشرفت هوازدگی در سنگ را آشکار کند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">سنگ های کربناته</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سرعت موج</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">دامنه موج</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">میرایی موج</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">دوام</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>11</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2018</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Zonation of Rock-Slope Failure Potential of Sungun Copper Mine Based on SMR and Analytic Hierarchy Process (AHP)</ArticleTitle>
+<VernacularTitle>پهنه‌بندی پتانسیل گسیختگی شیب‌های سنگی معدن مس سونگون بر اساس امتیاز توده‌ی سنگ (SMR) و تحلیل سلسله مراتبی (AHP)</VernacularTitle>
+			<FirstPage>99</FirstPage>
+			<LastPage>113</LastPage>
+			<ELocationID EIdType="pii">85011</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>قدرت</FirstName>
+					<LastName>برزگری</LastName>
+<Affiliation>گروه علوم زمین، دانشکده علوم طبیعی، دانشگاه تبریز</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>موسی</FirstName>
+					<LastName>فتحی</LastName>
+<Affiliation>گروه علوم زمین، دانشکده علوم طبیعی، دانشگاه تبریز</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2018</Year>
+					<Month>12</Month>
+					<Day>26</Day>
+				</PubDate>
+			</History>
+		<Abstract>Sungun copper mine is located in the East Azerbaijan province, 45 km north of Varzaqan County.&lt;br /&gt; In this research, in order to zonation of potentially unstable areas, slope mass rating (SMR), kinematical analysis and analytic hierarchy process (AHP) methods by using of Dips 6.0, Expert Choice and ArcGIS softwares were accomplished. In the study by using Analytical Hierarchy Process method, the effective general criterias on the failure of rock slopes and extraction benches including structural geology, geomechanics, groundwater condition of joints, morphology and degree of alteration were selected and ranked by forming a pairwise comparison matrix. Then the sub-criterias and alternatives are wheighted by using of overall row wheight method on the basis of their importance. Finally, by integration of obtained data layers in the ArcGIS system, the studied mine area was zoned in low, medium and higth category in terms of failure potentially. According to the results, the western, southern, southeast and scattered parts of the north area of the studied mine specially in mining benchs are more likely to rock slope failurs, which is in good agreement with field observations. The results showed that there is a fairly good agreement between the results of the methods used in this research. But due to the fact that in the hierarchical analysis method, other criteria involved in the failure are considered, and the result is more reliable.</Abstract>
+			<OtherAbstract Language="FA">معدن مس سونگون در استان آذربایجان شرقی در 45 کیلومتری شمال شهرستان ورزقان قرار دارد. در این تحقیق برای پهنه‌بندی مناطق با پتانسیل ناپایداری از روشهای امتیاز توده‌ی‌سنگ (SMR )، تحلیل سینماتیکی و فرآیند تحلیل سلسله مراتبی ( AHP) و با استفاده از نرم‌افزارهایDips 6.0 ، Expert Choice و ArcGIS استفاده شده است. برای بررسی به روش تحلیل سلسله مراتبی، معیارهای اصلی دخیل در گسیختگی شیب‌های سنگی و پله‌های استخراج شامل زمین‌شناسی ساختاری، ژئومکانیکی، وضعیت آب زیرزمینی درزه‌ها، مورفولوژی و درجه دگرسانی انتخاب و با تشکیل ماتریس مقایسه زوجی امتیازدهی شدند و زیرمعیارها و گزینه‌های تعیین شده برای هرکدام از معیارهای اصلی بر پایه میزان اهمیت آنها و به روش مجموع سطری وزن‌دهی شدند. سپس با تلفیق لایه‌های اطلاعاتی مختلف در محیط ArcGIS، محدوده‌‌ی معدن از لحاظ خطر ناپایداری شیب‌های سنگی در سه دسته کم، متوسط و زیاد پهنه‌بندی گردید. با توجه به نتایج بدست آمده، مناطق غربی، جنوبی، جنوب‌شرقی و بصورت پراکنده قسمتی از شمال محدوده‌ی معدن بویژه در پله‌های استخراج پتانسیل وقوع گسیختگی بیشتر است که با شواهد میدانی مطابقت نسبی دارد. نتایج بدست آمده نشان داد که همخوانی نسبتاً خوبی بین نتایج روشهای مورد استفاده در این تحقیق وجود دارد. ولی بدلیل اینکه در روش تحلیل سلسله مراتبی سایر معیارهای دخیل در گسیختگی در نظر گرفته می‌شود نتایج قابل اعتمادتری بدست می‌آید.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">گسیختگی شیب‌های سنگی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">امتیاز توده‌ی سنگ (SMR)</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ArcGIS</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تحلیل سلسله مراتبی(AHP)</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">معدن مس سونگون</Param>
+			</Object>
+		</ObjectList>
+</Article>
+</ArticleSet>

@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-26T06:09:13Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22055">http://aag.scu.ac.ir/?_action=export&amp;rf=summon&amp;issue=1923</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کیفیت و توسعه دولومیتیزاسیون و تاثیر آن در تولید نفت، مخزن بنگستان میدان نفتی اهواز</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>بهمن</given_name>
+												<surname>سلیمانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مسعود</given_name>
+												<surname>سلیمانی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>جواد</given_name>
+												<surname>سیفی</surname>
+											</person_name></contributors>
+									<abstract>این مقاله سعی دارد تاثیر فرایند دولومیتیزاسیون را در کیفیت مخزن بنگستان میدان نفتی اهواز مورد مطالعه قرار دهد. این مخزن اساسا آهکی است که تحت تاثیر دیاژنز متغیر قرار گرفته و فرآیندهای دولومیتی‌شدن، د‌دولومیتی‌شدن و چرتی‌شدن بترتیب صورت گرفته است. مطالعه 36 حلقه چاه نشان می‌دهد که بلورهای شکل‌دار دولومیت در بخش شمال‌غرب میدان بیشتر گسترش دارند. رخساره وکستون دارای بیشترین و گرینستون و پکستون دارای کمترین درصد بلورهای شکل‌دار دولومیت می‌باشند. نقشه‌های هم‌ضخامت و هم‌تخلخل افقهای دولومیتی‌شده نشان می‌دهد که در بخش شمال‌غرب، زونهای تولیدی بیشتر تحت تاثیر دولومیتی‌شدن قرار گرفته‌اند. افقهای دارای بلورهای شکل‌دار دولومیت، دارای مقادیر تراوایی بالاتری نسبت به سایر افقها می‌باشد. مطالعه نمودارهای پتروفیزیکی نیز افزایش تخلخل در اثر فرآیند دولومیتی‌شدن و کاهش تخلخل در اثر فرآیندهای د‌دولومیتی‌شدن و چرتی‌شدن را نشان‌ می دهد. وجود استیلولیتهای فراوان همراه با تراکم بلورهای دولومیت، مدل تدفینی و هیدروترمالی را برای دولومیتی‌شدن مخزن تقویت می‌نماید. با توجه به اندازه بلورها حداقل دو مرحله دولومیتی‌شدن رخ داده است. بر اساس گسترش بیشتر دولومیت بویژه بلورهای شکل‌دار در بخش شمال‌غرب میدان در زونهای تولیدی C وE، جهت کاهش ریسک حفاری، و به لحاظ کیفیت مخزنی بهتر، پیشنهاد می شود چاههای بعدی در این بخش حفاری شوند.</abstract>
+									<keywords>
+									
+											<keyword>میدان نفتی اهواز</keyword>
+											<keyword>محزن بنگستان</keyword>
+											<keyword>دولومیتیزاسیون</keyword>
+											<keyword>تخلخل</keyword>
+											<keyword>تراوائی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>9</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14866_432085d83bd03b00c3390a70bc6df784.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>محاسبه پارامترهای ژئومکانیکی پایداری دیواره چاه با استفاده از داده‌های پتروفیزیکی در یکی از میادین نفتی جنوب خلیج فارس</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>فواد</given_name>
+												<surname>یوسفی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>فرهاد</given_name>
+												<surname>ملائی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علی</given_name>
+												<surname>کدخدایی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمدحسین</given_name>
+												<surname>طالبی</surname>
+											</person_name></contributors>
+									<abstract>ژئومکانیک مخازن هیدروکربنی، نقش مهم و فزاینده‌ای در ارزیابی و توسعه میادین نفت و گاز ایفا می‌کند. یکی از مسائل مهم در این زمینه تحلیل پایداری چاه‌های نفت می‌باشد. با توجه به اقتصادی بودن موضوع تعیین فشار گل جهت پایداری چاه باید با دقت انجام گیرد. مقدار و جهت تنش‌های اصلی، خصوصیات مکانیکی به همراه فشار منفذی پارامترهای مورد نیاز ورودی تحلیل می‌باشد. با انتخاب معیار شکست مناسب می‌توان تحلیل‌ها را با دقت مناسب انجام داد. هدف از این مقاله تحلیل پایداری یکی از میادین جنوب کشور می‌باشد. به منظور انجام این بررسی بررسی، 4 نقطه بحرانی انتخاب و تحلیل‌ها با استفاده از معیار شکست موهر- کلمب و در محیط نرم‌افزای Matlab صورت پذیرفته است. با توجه به مشخص بودن پارامترهای ورودی بررسی پایداری در شیب و آزیموت‌های مختلف ارزیابی شده است. پنجره گل ارزیابی شده برای نقاط 1 تا 4 به ترتیب برابر 27 تا 5/36، 29 تا 5/39 ، 41 تا 55 و 5/47 تا 55 محاسبه شده است. در ادامه حداکثر وحداقل چگالی گل حفاری نیز محاسبه گردید. همچنین در انتهای مقاله گسیختگی‌های ممکن در شیب و آزیموت‌های مختلف ارزیابی شده و تعدادی از آن‌ها گزارش شده است.</abstract>
+									<keywords>
+									
+											<keyword>"ژئومکانیک مخزن"</keyword>
+											<keyword>"پایداری چاه"</keyword>
+											<keyword>"پنجره ایمن گل"</keyword>
+											<keyword>"matlab"</keyword>
+											<keyword>"داده پتروفیزیکی"</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>10</first_page>
+										<last_page>16</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14867_da00806f54278e53ad1c36b708bd0b87.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مقایسه زمین‌شناسی، پتروگرافی، زمین‌شیمی و منشأ ایگنیمبریت در آتشفشان‌های سبلان و سهند</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>جلیل</given_name>
+												<surname>قلمقاش</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>زهرا</given_name>
+												<surname>کتابی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>الهام</given_name>
+												<surname>اصفهانی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>سید زاهد</given_name>
+												<surname>موسوی</surname>
+											</person_name></contributors>
+									<abstract>در مطالعه حاضر نهشته‌های ایگنیمبریتی سبلان و سهند مورد مطالعه و نمونه برداری قرار گرفته اند. هدف از این مطالعه بررسی ویژگیهای زمین شناسی، پتروگرافی و زمین‌شیمیایی این ایگنیمبریتها است. ایگنیمبریت‌های سبلان دارای درشت بلورهای پلاژیوکلاز، آمفیبول، پیروکسن، بیوتیت و قطعات سنگی از نوع پومیس و ابسیدین هستند. در صورتی که قطعاتی از درشت بلورهای پلاژیوکلاز، سانیدین، کوارتز، هورنبلند و بیوتیت در متن ایگنیمبریت‌های سهند به همراه شیشه وجود دارد. بافت غربالی در بلورهای پلاژیوکلاز و خوردگی حاشیه برخی از کانی‌ها در ایگنیمبریت‌های سبلان و سهند نشان می‌دهد که ماگمای اولیه تحت تأثیر فرایندهای ماگمایی از جمله آلودگی و اختلاط ماگمایی قرار گرفته است. از نظر زمین‌شیمیایی ایگنیمبریت‌های سبلان و سهند به ترتیب ترکیب تراکی‌داسیتی- ریولیتی و داسیتی - ریولیتی دارند. این سنگ‌ها در نمودارهای عناصر کمیاب به‌هنجار شده، دارای غنی‌شدگی از LREE و LILE به ترتیب نسبت به HREE و HFSE هستند. مقادیر بالای Sr/Y-Y و La/Yb-Yb نشان می‌دهد که این سنگ‌ها ماهیت آداکیتی سیلیس بالا دارند. با توجه به این ویژگیهای زمین شیمیایی و بر اساس نمودارSm/Yb دربرابر La/Yb ایگنیمبریت‌های سبلان و سهند از ذوب‌بخشی پوسته‌ قاره‌ای پایینی با ترکیب آمفیبولیت گارنت‌دار ایجاد شده‌اند.</abstract>
+									<keywords>
+									
+											<keyword>ایگنیمبریت</keyword>
+											<keyword>سبلان</keyword>
+											<keyword>سهند</keyword>
+											<keyword>آداکیت</keyword>
+											<keyword>آمفیولیت-گارنت دار</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>17</first_page>
+										<last_page>24</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14868_b49b88ae78b850dd28a8e0b9cd0c5504.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مدلسازی و پیش نگری تغییرات غلظت TDS در آبخوان ورامین با استفاده از نرم افزار GMS</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد</given_name>
+												<surname>نخعی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>امین</given_name>
+												<surname>محبی تفرشی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>غزاله</given_name>
+												<surname>محبی تفرشی</surname>
+											</person_name></contributors>
+									<abstract>در این تحقیق جهت بررسی تغییرات کیفی و مدلسازی تغییرات غلظت و پیش بینی TDS در آبخوان ورامین، نرم افزار GMS 10.0.11 استفاده شد. در این راستا، پس از جمع آوری اطلاعات زمین شناسی، هواشناسی، هیدرولوژیکی و هیدروژئولوژیکی، آزمایشات ژئوفیزیکی و گمانه های اکتشافی، آمار بارندگی و تراز سطح آب زیرزمینی در چاه های بهره برداری یک پایگاه داده در نرم افزار ArcGIS10.5 تشکیل و با انتقال این اطلاعات به محیط نرم افزارGMS، مدل مفهومی ساخته شد. سپس براساس مدل مفهومی ایجاد شده، اقدام به شبیه سازی، واسنجی و صحت سنجی سطح آب زیرزمینی با استفاده از کد Modflow2000 در نرم افزار GMS گردید. نتایج واسنجی گویای انطباق بسیار مناسب داده های سطح آب مشاهده ای و محاسبه ای توسط مدل در حد۹۹/۰R2= می باشد. پس از این مرحله، مدل انتقال آبخوان به منظور بررسی تغییرات غلظت TDS توسط زیربرنامه MT3DMSتهیه گردید. نتایج مطالعه نشان داد که اگر وضعیت بهره برداری و همچنین ورود فاضلاب به مناطق غربی و جنوب غربی آبخوان به همین صورت ادامه داشته باشد در انتهای بازه پیش بینی، غلظت حتی به۷۰۰۰ میلی گرم در لیتر نیز خواهد رسید و وضعیت نامناسبی برای استفاده از آبهای این مناطق جهت مصارف شرب و کشاورزی بوجود خواهد آمد.</abstract>
+									<keywords>
+									
+											<keyword>مدل انتقال</keyword>
+											<keyword>مدل جریان</keyword>
+											<keyword>GMS</keyword>
+											<keyword>MT3DMS</keyword>
+											<keyword>TDS</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>25</first_page>
+										<last_page>37</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14869_fdedb1ddc083b4a9172bd822e5280bf9.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کاربرد داده‌های ژئوشیمیایی برای شناسایی شرایط تمرکز عناصرنادرخاکی در آنومالی معدنی C جنوبی اسکارن آهن سنگان، خراسان رضوی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی</given_name>
+												<surname>کنعانیان</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>بهنام</given_name>
+												<surname>قلی پور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>شجاع الدین</given_name>
+												<surname>نیرومند</surname>
+											</person_name></contributors>
+									<abstract>آنومالی C جنوبی از آنومالی‌های بخش غربی معدن آهن سنگان است که در پی نفوذ توده‌های گرانیتوییدی به درون سنگ‌های کربناته، متحمل کانی‌سازی اسکارن کلسیمی غنی از مگنتیت شده است. در اسکارن‌ها و کانسنگ آهن به ترتیب میزان فراوانی LREE از 59/26-91/305 و 95/54-14/147 و HREE از 79/5-86/45 و 95/54-14/147 پی‌پی‌ام در تغییر است. نسبت‌های N(La/Yb) و N(Gd/Yb) در اسکارن‌ها به ترتیب 38/18-38/3 و 69/8-2/2 و در کانسنگ‌آهن به ترتیب 36/0-86/0 و 8/5-16/10 است که نشان می‌دهد اسکارن‌ها از عناصر نادر خاکی سبک بیش از عناصر نادر خاکی سنگین غنی شده‌اند. بالا بودن نسبت LREE/HREE در اسکارن‌ها و کانسنگ‌آهن، احتمالاً بیانگر غنی‌تر بودن سیال کانی‌ساز از Cl نسبت به F می‌باشد. همچنین نسبت La/Y اسکارن‌ها و کانسنگ آهن به ترتیب بین 44/0-95/5 و 5/0-4/2 در تغییر است که نشان دهنده تشکیل اکثر نمونه‌ها در محیطی با pH قلیایی است. نسبت‌ Ce/Ce* در اسکارن‌ها و کانسنگ آهن به ترتیب بین 18/0-84/0 و 02/0- 15/0 در تغییر است و حضور یک آنومالی منفی مشخص از Ce وجه مشخصه الگوهای REE است. براساس مقادیر Ce/Ce* و N(Pr/Yb) می‌توان نتیجه گرفت که سیالات عامل کانی‌سازی، عمدتا متشکل از آب‌های ماگمایی به همراه مقادیر کمتری آب‌های جوی بوده‌اند.</abstract>
+									<keywords>
+									
+											<keyword>آنومالی C جنوبی"</keyword>
+											<keyword>معدن آهن سنگان"</keyword>
+											<keyword>"اسکارن کلسیمی"</keyword>
+											<keyword>"عناصر نادر خاکی"</keyword>
+											<keyword>"سیالات ماگمایی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>38</first_page>
+										<last_page>49</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14870_2307c41ffcd28cc72d341559590994a1.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارائه مدل مناسب جهت تخمین درصد انواع کانی ها و بررسی فضایی آنها در منطقه مورد مطالعه با استفاده از تصاویر میکروسکوپی (مطالعه موردی: اسکارن جنوب غرب تفت)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سمیرا</given_name>
+												<surname>زندی فر</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد ولی</given_name>
+												<surname>ولی زاده</surname>
+											</person_name></contributors>
+									<abstract>در این تحقیق با استفاده از مقاطع میکروسکوپی و تهیه تصاویر رقومی پیوسته 33 نمونه از اسکارن منطقه، مدل سه بعدی کانی ها ساخته شده است. لایه نازک 1 سانتی متر از سطح نمونه ها برداشت شده و پس از هر مرحله لایه برداری تصویر رقومی مقطع میکروسکوپی تهیه شد. تصاویر تهیه شده در نرم افزار متلب پردازش شده و از آن جا که هدف پژوهش بررسی کانی های کلینتونیت، دیوپسید، وزوویانیت، گارنت و اپیدوت است، باند رنگی مربوط به هرکدام استخراج شد. ارزش های اجزاء تصویری این باندها به همراه مختصات سه بعد هر جزء تصویری برای مدل سازی سنگ در نرم افزار راک ورکس استفاده شد. شبکه هر کدام از کانی ها از حذف زمینه سنگ مدل با استفاده از انحراف معیار داده ها ساخته شد و با استفاده از نسبت حجم مدل فیلتر شده به حجم مدل اولیه مقدار هر کدام از کانی ها محاسبه شده است. مجموع مقادیر حجمی 5 کانی گزینش شده، برابر 58.77 درصد می باشد. در نتیجه باقیمانده درصد حجمی عبارت است از: آپاتیت، کوارتز، ترمولیت به مقدار کم، ولاستونیت، کلسیت به میزان قابل توجه و کانه های فلزی.</abstract>
+									<keywords>
+									
+											<keyword>مدل سازی</keyword>
+											<keyword>تصاویر رقومی</keyword>
+											<keyword>شبکه سه بعدی</keyword>
+											<keyword>اسکارن</keyword>
+											<keyword>کانی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>50</first_page>
+										<last_page>61</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14871_d7c21fe750968d9fa44bcba172488934.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تخمین نتایج آزمایشSPT بااستفاده از روشهای احتمالاتی و شبکه عصبی در لایه های رسی( مطالعه موردی: لایه های رسی تبریز)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علیرضا</given_name>
+												<surname>علیزاده مجدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>روزبه</given_name>
+												<surname>دبیری</surname>
+											</person_name></contributors>
+									<abstract>در این مطالعه تخمین نتایج آزمایش نفوذ استاندارد به روشهای احتمالاتی و نیز شبکه عصبی مصنوعی با استفاده از خصوصیات خمیری و فیزیکی لایه های رسی و با مطالعه موردی خاکهای رسی شهر تبریز انجام شده است. در این تحقیق دو گمانه ماشینی تحقیقاتی به عمق تا 8 متری حفاری شده و آزمون های آزمایشگاهی و صحرایی نفوذ استاندارد بر روی نمونه های تهیه شده انجام گرفت. با استفاده از نتایج آزمایشات و داده‌های موجود، بانک اطلاعاتی مشتمل بر 112 سری از خصوصیات لایه های رسی تهیه گردید. به کمک روش تحلیل احتمالاتی سه سیگما محدوده های احتمالاتی برای هرکدام از متغیرهای تحقیق شامل فعالیت، درصد رطوبت، شاخص استحکام، درصد عبوری الک 200 و دامنه خمیری به منظور تخمین نفوذ استاندارد تصحیح شده پیشنهاد گردید. بهترین رابطه مربوط به نفوذ استاندارد براساس شاخص استحکام با شیب همبستگی 015/1می باشد. همچنین مناسب ترین نتیجه شبکه عصبی مصنوعی مربوط به دولایه پنهان با تعداد 10و 5 نرون مخفی به ترتیب با ضریب تبیین و خطای ریشه میانگین مربعات برابر 805/0 و063/0 در مرحله تست ارزیابی گردید. نتایج روش شبکه عصبی نسبت به روش احتمالاتی به صورت آماری مقایسه گردیده و مناسبتر بوده است.</abstract>
+									<keywords>
+									
+											<keyword>نفوذ استاندارد</keyword>
+											<keyword>لایه های رسی</keyword>
+											<keyword>تبریز</keyword>
+											<keyword>روش سه سیگما</keyword>
+											<keyword>شبکه عصبی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>62</first_page>
+										<last_page>74</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14872_3f169dd399b4471ac2b3d333fd1460a8.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>غنی شدگی، منشا، و خطر سلامتی فلزات سنگین در مزارع برنج: مطالعه موردی شهرستانهای اهواز و باوی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>فاطمه</given_name>
+												<surname>راست منش</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>زهرا</given_name>
+												<surname>حسنا</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علیرضا</given_name>
+												<surname>زراسوندی</surname>
+											</person_name></contributors>
+									<abstract>هدف از این مطالعه ارزیابی غلظت فلزات سنگین در خاک و برنج مزارع شهرستان‌های اهواز و باوی و شناسایی منابع فلزات سنگین است. 14 نمونه خاک و برنج جمع آوری شد. پس از آماده سازی، به منظور تعیین غلظت فلزات سنگین در نمونه‌های خاک و برنج به ترتیب از دستگاه‌هایICP-MS وICP-OES استفاده شد. میانگین غلظت نقره، آرسنیک، کادمیم و آنتیموان از استاندارد پوسته بالایی بیشتر است. براساس میانگین شاخص‌های ارزیابی ریسک زیست محیطی بیشترین آلودگی مربوط به نقره، آرسنیک، کادمیم و آنتیموان است که بیانگر ورودی‌های انسانزاد به خاک کشاورزی همچون استفاده از کود‌های شیمیایی و آفت‌کش‌ها در منطقه مورد مطالعه، می‌باشد. فلزات کروم، آهن، سرب، نیکل و وانادیم دارای منشا طبیعی، آنتیموان و کادمیم دارای منشا انسانزاد، آرسنیک و مولیبدن هم دارای منشا طبیعی و انسانی می‌باشند و نقره دارای منشا انسانزاد است.. احتمال خطر سلامتی ناشی از سرب و آرسنیک با مصرف برنج در منطقه وجود دارد. بیشترین میانگین غلظت فلزات در نمونه‌های برنج مربوط به سرب و کمترین مربوط به وانادیم است. سرب نمونه‌های برنج از استاندارد WHO مقادیر بیشتری ‌را نشان داد و آرسنیک نیز نزدیک به مقدار استاندارد WHOاست. میزان خطر غیرسرطانی در بزرگسالان و کودکان برای آرسنیک و سرب خطر متوسط است.</abstract>
+									<keywords>
+									
+											<keyword>برنج</keyword>
+											<keyword>فلزات سنگین</keyword>
+											<keyword>ضریب غنی شدگی</keyword>
+											<keyword>اهواز</keyword>
+											<keyword>باوی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>75</first_page>
+										<last_page>84</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14873_b46f45bb7eb7c2d4ec3e7fc8aa0e1ded.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

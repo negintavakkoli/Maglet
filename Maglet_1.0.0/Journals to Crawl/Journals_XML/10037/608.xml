@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+<JOURNAL>
+<YEAR>1396</YEAR>
+<VOL>11</VOL>
+<NO>2</NO>
+<MOSALSAL>30</MOSALSAL>
+<PAGE_NO>318</PAGE_NO>
+
+
+<ARTICLES>
+
+	<ARTICLE> 
+		<TitleF>ارائۀ یک رابطۀ تجربی برای تخمین چقرمگی شکست مود I سنگ حاصل از آزمایش روی نمونه SCB با استفاده از مقاومت کششی  </TitleF>
+		<TitleE>Representing an Empirical Relationship for the Estimating Mode I Fracture Toughness of Rock Obtained from Testing on SCB Specimen using Tensile Strength</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>در سنگ&#8204;ها ترک&#8204;های ریزی وجود دارد، هنگامی که سنگ تحت تأثیر تنش قرار می&#8204;گیرد تنش در نوک این ترک&#8204;ها متمرکز شده و باعث می&#8204;شود که سنگ قبل از رسیدن به مقاومت نهایی خود بشکند. پارامتری که میزان بحرانی ضریب شدت تنش بر نوک ترک سنگ را نشان می&#8204;دهد چقرمگی شکست است.
+از آن&#8204;جا که تعیین چقرمگی شکست مودI &#160;به&#8204;وسیلۀ انجام آزمایش، وقت&#8204;گیر و پرهزینه است بنابراین، روشی ساده برای تعیین چقرمگی شکست سنگ&#160; مفید است. در این پژوهش آزمون برزیلی و آزمون خمش سه&#160; نقطه روی&#160; نمونه&#8204;های نیم دایره&#8204;ای سنگ انجام شده است. پژوهش حاضر با هدف ارائۀ یک رابطۀ تجربی برای تخمین چقرمگی شکست مود I سنگ است .نتایج نشان می&#8204;دهد که چقرمگی&#160; شکست مود &#160;Iسنگ&#8204;ها را می&#8204;توان با سطح بالایی از دقت و با استفاده از رابطۀ ارائه شده که دارای ضریب تعیین ۷۹۷۷/۰ است&#160; برآورد کرد.
+&#160;</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/1.pdfExtended Abstract
+(Paper pages157-174)
+Introduction
+Considering the fact that the estimation of mode &#160;fracture toughness by testing is time-consuming and expensive. It might be associated with certain practical difficulties. Therefore, many researchers have attempted to propose experimental relationships in order to capture these problems. Gunsallus et al. (1984) and Bhagat (1985) experimentally found that mode &#160;fracture toughness is related to tensile strength. Whittaker et al. (1992) have also proposed a number of relationships between mode I fracture toughness, tensile strength, point load index, uniaxial compressive strength and the velocity of sound waves. Bearman (1999) obtained an experimental relationship between mode I fracture toughness and point load index, while Brown et al. (1997) presented an experimental relationship between this parameter and density. Up to now no significant research effort has been made in this field in Iran, only Ayatollahi and Fatehi addressed rock fracture toughness. Although, Ayatollahi has not presented any experimental relationships. In the present research the three-point bending test was used on a cylindrical specimen containing a straight crack in order to determine the mode &#160;fracture toughness, and the Brazilian test was employed to determine tensile strength.
+Materials and Methods
+The tests were carried out on six types of rocks, namely gray sandstone,
+tuff, lithic tuff, travertine, andesite, and limestone. Sandstone, travertine, and limestone are sedimentary rocks, while andesite is an extrusive igneous rock, and tuff and lithic tuff are pyroclastic rocks (pyroclastic rocks resulting from volcanic eruptions that harden by sedimentation). Therefore, the studied rocks have different origins. In order to carry out the Brazilian and the three-point bending test, cores were prepared from these blocks. In order to perform the three-point bending test, specimens with diameter of 73 mm with a thickness of 30 mm were used. The samples were cut in two semicircular by a cutting machine, and a notch with length of 15 mm is created by a diamond saw.&#160; Notch is vertical in the center of the semicircular samples.
+The Brazilian test was performed on disc shaped specimens. In order to perform the Brazilian test, specimens with diameter of 51 mm and thick of 25 mm were used. The specimens are carefully placed under the curved jaws of the machine and then loaded until fracture.
+Results and Discussion
+A summary of the Brazilian and the three-point bending test results are presented in Table 1. The average value of test result pertaining to each rock is reported in Table 1.
+Table 1. Summary of the Brazilian and the three-point bending test results
+
+
+	
+		
+			Specimen
+			Tensile Strength (MPa)
+			Fracture Toughness (MPa&#8730;m)
+		
+		
+			Limestone
+			3.74
+			1.23
+		
+		
+			Sandstone
+			7.14
+			1.63
+		
+		
+			Tuff
+			16.36
+			2.17
+		
+		
+			Lithic Tuff
+			4.34
+			1.01
+		
+		
+			Andesite
+			13.25
+			1.86
+		
+		
+			Travertine
+			8.27
+			1.14
+		
+	
+
+In this study, it was attempted to propose an experimental relationship between mode I fracture toughness and the tensile strength of the rock.
+In order to determine the relationship between the tensile strength and the fracture toughness, the tensile strength vs. fracture toughness diagram was plotted in Excel to obtain Eq. 1 and the coefficient of determination (R2) (Figure 1).
+
+The coefficient of determination (R2) in Eq. 1 shows that almost 80 percent of the mode I fracture toughness variations can be estimated using the linear relationship (Eq. 1). The relationship is applicable for determining the mode I fracture toughness resulting from the three-point bending test on semicircular specimens containing a straight crack.
+
+In the following, the results of this study are compared to those reported by Whittacker (1992) and Zhang (2002).
+In order to examine the accuracy of the presented relationships, the Root Mean Square Error (RMSE) measure was used which is computed from Eq. 2. In the best case, RMSE is zero.&#160;
+
+In the relationships, &#160; represents the fracture toughness obtained from testing while &#160;is the fracture toughness estimated using the relationships. 
+Comparison of the obtained results indicate that the proposed relationship has the capability of precise estimation of the mode I fracture toughness of rocks.
+Conclusion 
+Given the many difficulties associated with the direct estimation of fracture toughness, indirect estimation methods have been proposed. One of such methods is the estimation of mode I fracture toughness using tensile strength. A linear relationship with a coefficient of determination of 0.7977 was proposed. The accuracy of this relationship has been verified by comparing its results to those from previous studies.
+
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>157</FPAGE>
+			<TPAGE>174</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>مهدی</Name>
+				<MidName></MidName>
+				<Family>حسینی</Family>
+				<NameE>Mehdi</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Hosseini</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه بین المللی امام  خمینی (ره)</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه بین المللی امام  خمینی (ره)</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>meh_hosseini18@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>کوروش</Name>
+				<MidName></MidName>
+				<Family>عبدالغنی زاده</Family>
+				<NameE>Koroush</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Abdolghanizadeh</FamilyE>
+				<Organizations>
+				<Organization></Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه بین‌المللی امام خمینی(ره)</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Tensile strength</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Rock</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Fracture toughness</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Mode I.</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مقاومت کششی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سنگ</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>چقرمگی شکست</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مود I.</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>5. Funatsu T., Kuruppu M., Matsui M., &quot;Effects of Temperature and Confining Pressure on Mixed-Mode(I–II) and Mode II Fracture Toughness of Kimachi Sandstone&quot;, International Journal of Rock Mechanics &amp; Mining Sciences, Vol. 67 (2014) 1-8. 6. Alkılıçgil Ç., &quot;Development Of Specimen Geometries For Mode I Fracture Toughness Testing With Disc Type Rock Specimens&quot;, Doctoral Dissertation, Department of Mining Engineering, Middle East Technical University )2010). 7. Gunsallus K. L. Kulhawy F. H., &quot;A comparative evaluation of rock strength measures&quot;, Int. J. Rock Mech. Min. Sci., Vol. 21 (1984) 233-248. 8. Bhagat R. B., &quot;Mode I Fracture toughness of coal&quot;, Int. J. Min. Eng., Vol. 3, (1985) 229-236. 9. Whittaker B. N., Singh R. N., Sun G., &quot;Rock Fracture mechanics: Principles, design and application&quot;, Amsterdam: Elsevier (1992). 10. Bearman R. A., &quot;The use of point load test for the rapid estimation of mode I fracture toughness&quot;, Int. J. Rock Mech. Min. Sci., Vol. 36, (1999) 257-263. 11. Brown G. I., Reddish DJ., &quot;Experimental relationship between rock fracture toughness and density&quot;, Int. J. Rock Mech. Min. Sci., Vol. 34, (1997) 153-155. 12. ISRM &quot;Suggested methods for determining tensile strength of rock materials&quot;, Int J Rock Mech Min Sci Geomech Abstr, Vol. 15, (1978) 99-103. 13. Kuruppu M. D., Obara Y., Ayatollahi M. R., Chong K. P., Funatsu T., &quot;ISRM-Suggested Method for Determining the Mode I Static Fracture Toughness Using Semi-Circular Bend Specimen&quot;, Rock Mechanics and Rock Engineering, Vol. 47 (2014) 267–274. 14. Chiang L. H., Pell R. J., Seasholtz M.B., &quot;Exploring process data with the use of robust outlier detection algorithms&quot;, J. Process Control, Vol. 13, (2003) 437-449. 15. Minaeian B., Ahangari K., &quot;Estimation of uniaxial compressive strength based on P-wave and Schmidt hammer rebound using statistical method&quot;, Arab J Geosci, Vol. 6 (2013) 1925-1931. 16. Zhang Z. X., &quot;An empirical relation between mode I fracture toughness and the tensile strength of rock&quot;, Int. J. Rock Mech. Min. Sci., Vol. 34 (2002) 401-406. ##. آیت‌اللهی م. ر.، پورکاویان م. ح.، محمدعلیها م.ر.، تعیین حداقل فشار لازم برای آغاز رشد ترک، در عملیات شکست هیدرولیکی، نشریۀ علمی-پژوهشی مهندسی معدن، دورۀ ششم، شمارۀ دوازدهم، (1390) 61-70. 2. آیت‌الهی م.ر.، سید موسوی، م. م.، بررسی اثرات فشار جانبی در عمق زمین بر روی ضرایب شدت تنش مود ترکیبی اول و دوم، نشریۀ علمی- پژوهشی مهندسی معدن، دورۀ سوم، شمارۀ پنجم، (1387) 21-32.  3. حائری ه.، شهریار ک.، فاتحی مرجی م.، معارف‌وند پ.، استفاده از روش ناپیوستگی جابه جایی در تحلیل انتشار ترک در مواد شبه سنگی، نشریۀ روش‌های تحلیلی و عددی در مهندسی معدن، شمارۀ 5، بهار و تابستان 1392، (1392) 38-49. 4. بهنیا م.، گشتاسبی ک.، فاتحی مرجی م.، تأثیر پارامترهای الاستیک لایه‌ها بر نحوه گسترش شکست هیدرولیکی با استفاده از روش ناپیوستگی-جابجایی، نشریۀ روش‌های تحلیلی و عددی در مهندسی معدن، شمارۀ 3، بهار و تابستان 1391، (1391) 1-13. 5. Funatsu T., Kuruppu M., Matsui M., &quot;Effects of Temperature and Confining Pressure on Mixed-Mode(I–II) and Mode II Fracture Toughness of Kimachi Sandstone&quot;, International Journal of Rock Mechanics &amp; Mining Sciences, Vol. 67 (2014) 1-8. 6. Alkılıçgil Ç., &quot;Development Of Specimen Geometries For Mode I Fracture Toughness Testing With Disc Type Rock Specimens&quot;, Doctoral Dissertation, Department of Mining Engineering, Middle East Technical University )2010). 7. Gunsallus K. L. Kulhawy F. H., &quot;A comparative evaluation of rock strength measures&quot;, Int. J. Rock Mech. Min. Sci., Vol. 21 (1984) 233-248. 8. Bhagat R. B., &quot;Mode I Fracture toughness of coal&quot;, Int. J. Min. Eng., Vol. 3, (1985) 229-236. 9. Whittaker B. N., Singh R. N., Sun G., &quot;Rock Fracture mechanics: Principles, design and application&quot;, Amsterdam: Elsevier (1992). 10. Bearman R. A., &quot;The use of point load test for the rapid estimation of mode I fracture toughness&quot;, Int. J. Rock Mech. Min. Sci., Vol. 36, (1999) 257-263. 11. Brown G. I., Reddish DJ., &quot;Experimental relationship between rock fracture toughness and density&quot;, Int. J. Rock Mech. Min. Sci., Vol. 34, (1997) 153-155. 12. ISRM &quot;Suggested methods for determining tensile strength of rock materials&quot;, Int J Rock Mech Min Sci Geomech Abstr, Vol. 15, (1978) 99-103. 13. Kuruppu M. D., Obara Y., Ayatollahi M. R., Chong K. P., Funatsu T., &quot;ISRM-Suggested Method for Determining the Mode I Static Fracture Toughness Using Semi-Circular Bend Specimen&quot;, Rock Mechanics and Rock Engineering, Vol. 47 (2014) 267–274. 14. Chiang L. H., Pell R. J., Seasholtz M.B., &quot;Exploring process data with the use of robust outlier detection algorithms&quot;, J. Process Control, Vol. 13, (2003) 437-449. 15. Minaeian B., Ahangari K., &quot;Estimation of uniaxial compressive strength based on P-wave and Schmidt hammer rebound using statistical method&quot;, Arab J Geosci, Vol. 6 (2013) 1925-1931. 16. Zhang Z. X., &quot;An empirical relation between mode I fracture toughness and the tensile strength of rock&quot;, Int. J. Rock Mech. Min. Sci., Vol. 34 (2002) 401-406.  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>مطالعۀ عددی عملکرد شمع‌های غیر‌متصل به کلاهک و شمع‌های معمولی</TitleF>
+		<TitleE>A Numerical Study on Contact and Noncontact Pile Performance</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>در این پژوهش با استفاده از روش اجزاء محدود و به&#8204;کارگیری نرم&#173;افزار ABAQUS/CAE V۶.۱۳-۱ رفتار شمع&#173;های متصل و غیرمتصل به کلاهک بررسی شده است و شرایط تنش، نشست و بار در خاک و شمع با یک&#8204;دیگر مقایسه شده است. در حالت معمول استفاده از شمع ضمن کاهش مقدار بار انتقالی به خاک سطحی، منجر به کاهش نشست می&#173;شود. در حالی که در شمع&#173;های متصل به کلاهک در صورت وارد کردن یک لایه تغییرشکل&#8204;پذیر بین دال و سرشمع توزیع فشار یک&#8204;نواخت&#8204;تری در قسمت زیرین دال ایجاد می&#173;شود و عکس العمل&#173;های تکیه&#173;گاهی بین دال و سرشمع کاهش می&#173;یابند. در این بررسی با لحاظ کردن خاک زیرین و لایه میانی به&#8204;ترتیب از نوع ماسه و ماسه سیلیسی وضعیت نشست و تنش در خاک و مقدار بار شمع در حالت&#173;های تک و گروه شمع، در دو حالت متصل و غیرمتصل به کلاهک بحث و بررسی شده است. نتایج نشان می&#173;دهد با افزایش تعداد شمع، کاهش نشست در حالت متصل بیش&#8204;تر از حالت غیرمتصل است. هم&#8204;چنین اصطکاک جداری منفی در شمع&#173;های غیرمتصل بر خلاف شمع&#173;های متصل که در تمام طول شمع وجود دارد، در قسمتی از میانه طول شمع ایجاد می&#8204;شود که دلیل آن نابرابر بودن نشست دال، شمع و خاک سطحی است. نیروی سرشمع&#173;ها نیز در حالت متصل بیش&#8204;تر از حالت غیرمتصل است که نشان&#8204;دهندۀ تأثیر مثبت اجرای لایۀ میانی در کاهش بار و مقطع طراحی کوچک&#8204;تر برای شمع است. به&#8204;طورکلی نتایج بررسی&#173;ها نشان می&#173;دهد عملکرد شمع&#173;های غیرمتصل به کلاهک از نظر نشست و باریری بهتر از نوع شمع&#173;های متصل است. هم&#8204;چنین در این تحقیق بررسی پارامتری در سیستم شمع غیرمتصل برای بهینه&#8204;یابی ابعادی انجام شد که در نتیجه آن ضخامت ۱ متر برای لایه میانی، ضخامت ۶/۱ متر برای دال و قطر ۵/۰ متر و طول ۱۹ متر برای شمع به&#8204;صورت بهینه به&#8204;دست آمد.
+&#160;</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/2.pdfExtended Abstract
+(Paper pages175-200)
+Introduction
+In weak soils with low bearing capacity, the load transfer is done using piles. Therefore, by creating an interposed layer separating the pile from the raft, reactions between raft and pile head will be reduced and the load-bearing role of shallow soil will be more than contact pile situation. Normally, the pile head and shallow soil have a settlement equal to the raft. Thus, the relative settlement of pile and soil in pile head is equal to zero and at the bottom is high and the body friction mobilizes upward. In addition, a portion of load is tolerated by shallow soil and the other portion is tolerated by the pile head, which would be transferred to deeper soil layers. In noncontact state, with the formation of a hard soil layer on which the raft is located, soil mechanical parameters will be improved; while in contact state, the settlement will be decreased by reducing the amount of transferred load to the shallow soil. The transferred load to the shallow soil increases vertical and horizontal stress around piles, so bearing capacity of piles is increased.
+Methodology
+In this study, a parametric study has been performed concerning contact and noncontact piles using finite element software namely, ABAQUS/CAE software version 6.13.1 and the obtained results were compared (with what? The sentence is incomplete). Thus, simulations are is done for states of 0, 1, 4 and 9 piles for each of the contact and noncontact piles (total of 8 simulations). In the present research two models were taken to investigate the optimum mesh sizes, 12 models for parametric studies on parameters of piles&#8217; length, piles&#8217; diameter, thickness of the raft and interposed layer and one model for verification study. Models in both contact and noncontact have been considered with a one meter interposed layer. Raft width and thickness were selected 7.5 and 1.6 m, respectively. Width and depth of the soil mass used in the model were 32 and 26 m, respectively, and the distance between the bottom of the pile and the soil mass was 13 m. In all cases, the diameter of piles was 0.5 m and distance between piles were 5 and 2.5 m in 4 and 9 states, respectively. The geotechnical parameters and model dimensions used, were selected according to the Fioravante &#38; Girettis (2010) [1]. Sand and silica-sand with the defined properties were used for the soil mass and the interposed layer, respectively. Since Drucker-Prager criteria has better ability to express the behavior of coarse-grained soils, this criterion was used in the modeling [2]. The purpose of this study is to investigate the influence of interposed layer on bearing capacity and settlement of pile. Hence, because of simplifying the process of modeling, parameters of main soil and interposed layer are mostly similar. Piles and raft are made of concrete with an elasticity modulus of 21 GPa, Poisson's ratio of 0.2 and density of 2300 kg/m3. The crack growth analysis with the compressive stress-plastic strain was used to express the fracture behavior of concrete [2, 3 &#38; 4]. In the present study, frictional and vertical contacts between surfaces were considered for conducting interactions between different materials. For frictional contact, the penalty formulation with the fixed friction coefficient of tan&#948; was used where &#948; is the angle of friction. The penalty formulations and hard contact were applied between two surfaces for the normal contact. Interactions were considered in the modeling including raft-soil mass, raft-interposed layer, pile-raft, interposed layer-soil mass, interposed layer-pile and the soil-pile [5 &#38; 6]. Coefficient of soil lateral pressure used in this study corresponds to k0=0.65 which is introduced in many geotechnical conditions [7]. A uniform distributed vertical load 500 kPa was applied on the raft. For getting results in every portion of loading time, this amount is applied in order of 5 kPa in each time interval. To accelerate the process of analysis and because of the symmetry of all models in two directions of X and Y, the quarter model technique was used, so that movements in the direction perpendicular to the sheet and rotation around perpendicular axes on the sheet were not allowed on the border of symmetry. The boundaries of the models due to the enough distance from the piles were considered in a way that lateral displacement and rotation around the vertical axis was not allowed. Furthermore, the bottom of the soil mass was considered as complete fix due to the enough distance from the pile foot.
+Conclusion
+In this research, a numerical &#8211; parametric study is performed on special kind of piles named noncontact piles and results are compared with contact piles. Results of this study can be summarized as follows:
+1. By increasing the number of piles from 1 to 9, the settlement reduced more in a noncontact state showing more effectiveness of implementing 9 contactpiles and thus requiring more piles in this case.
+2. Soil surface stress differences in noncontacts states from 4 to 9 piles was less than contact state (approximately 1/7) indicating that more piles is needed to conduct the contact state.
+3. Stress changes in the soil under the pile in noncontact state by adding piles from 1 to 4 was higher than adding piles from 4 to 9 indicating the suitability of using 4 noncontact piles; while, in the contact state, the stress changes in the soil under the pile in both cases from 1 to 4 piles and from 4 to 9 piles was noteworthy showing the necessity of using the ninth pile.
+4. Unlike the states of 4 and 9 piles, the negative friction in noncontact state and 1 pile was seen along the piles, which can be due to the fewer piles and the effect of interposed layer density as well as soil mass at greater depthsbecause of lesser effect of piles in load-bearing.
+5. The ratio of heads load in the contact to the noncontact piles was about 2.5 to 4 reflecting the positive impact of using interposed layer on load reduction and smaller cross-layer design for piles. In addition, the ratio of heads load in the contact to the noncontact piles was higher for 4 piles than 9 piles that represented the suitability of using 4 piles.
+6. Based on the results of geometric parametric studies it is found that:
+(A) By resizing the elements from 0.25 to 0.5 m, the results had not changed and only time of analysis was increased.
+(B) Among three values of 0.5, 1 and 1.5 m for interposed layer thicknesses, the thickness of 1 m was enough and had a good effect on the stress distribution and involving shallow soil in bearing vertical stress.
+(C) The raft thickness of 1.6 m was appropriate so that with this thickness, the resultant effect of increasing vertical loads (raft weight) and increased rigidity due to increased raft thickness caused the stress and settlements remain in a reasonable range.
+(D) Due to the increased friction by increasing in diameter, the optimal diameter of 0.5 m was achieved for piles which reduced the settlement by receiving more load.
+(E) Among three pile lengths of 10, 19 and 25 m, the optimal length was 19 m; so that by further increase in the length, stresses and settlements were not noticeably changed.In total, noncontact piles had better performance compared to contact piles in similar conditions.
+Reference
+1. Fioravante V., Giretti D., &#34;Contact versus noncontact piled raft foundations&#34;, Can. Geotech. J. 47 (2010) 1271-1287.
+2. Saba H., &#34;Verification of nonlinear condition of anchored walls in various loading&#34;, Thesis document of Amirkabir University of Tehran, Iran (2003).
+3. Fioravante V., &#34;Load transfer from a raft to a pile with an interposed layer&#34;, Geotechnique 61, No. 2 (2011) 121-132.
+4. Dastani H., Shariati M., &#34;Numerical and experimental analysis of controlling of crack propagation route in a plane under cyclic uniaxial loading by creating openness&#34;, Thesis document of Shahrood Industrial University of Shahrood, Iran (2014).
+5. Randolph M. F., Wroth C. P., &#34;Application of the failure state in undrained simple shear to the shaft capacity of driven piles&#34;, Geotechnique, Vol. 31, 1 (1981) 143-157.
+6. Poulos H. G., Small J. C., Ta L. D., Sinha J., Chen L., &#34;Comparison of some methods for analysis of piled rafts&#34;, Proc. 14th Int. Conf. Soil Mech. Found. Engng, Hamburg, Balkema, Rotterdam, Vol. 2 (1997) 1119-1124.
+7. mottaghi A., &#34;3D static and dynamic analysis of pile group with considering soil-pile interaction&#34;, 6th National Congress of Civil Engineering, Iran, Semnan (2012).</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>175</FPAGE>
+			<TPAGE>200</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>مهدی</Name>
+				<MidName></MidName>
+				<Family>خداپرست</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه قم</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>khodaparast@qom.ac.ir; mahdikhodaparast@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>علی محمد</Name>
+				<MidName></MidName>
+				<Family>رجبی</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه تهران</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>amrajabi@ymail.com; amrajabi@ut.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>مسعود</Name>
+				<MidName></MidName>
+				<Family>شکری</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه قم</Organization>
+				</Organizations>
+				<Universities>
+				<University></University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>Geotechnic83@gmail.com</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Noncontact piles</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>contact piles</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>settlement</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>pile bearing</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ABAQUS/CAE</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شمع­ های غیرمتصل</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شمع ­های متصل</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>نشست</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>باربری شمع</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ABAQUS</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1. Fioravante V., Giretti D., &quot;Contact versus noncontact piled raft foundations&quot;, Can. Geotech. J. 47 (2010) 1271-1287. 2. Giretti D., &quot;Modelling of Piled Raft Foundations in Sand&quot;, thesis document, Settore Scientifico Disciplinare ICAR (2009). 3. Eslami A., Veiskarami M., &quot;Study on optimized piled-raft foundations (PRF) performance with connected and non-connected piles-three case histories&quot;, International Journal of Civil Engineering, Vol. 10, No. 2 (2012) 100-111. 4. Eslami A., Salehi S., &quot;Analysis of non-connected piled raft foundations (NCPRF) with cushion by finite element method&quot;, Comp. Meth. Civil Eng., Vol. 2 (2011) 153-168. 5. Saeedi A., Baziar M., &quot;Centrifuge Modeling of Non-Connected Piled Raft System&quot;, EJGE 228 (2013). 6. Fioravante V., &quot;Load transfer from a raft to a pile with an interposed layer&quot;, Geotechnique 61, No. 2 (2011) 121-132. 7. Ata A., &quot;Numerical analysis of unconnected piled raft with cushion&quot;, Ain Shams Engineering Journal 6 (2015) 421-428. 8. Sharma V.J., &quot;Composite piled raft foundation with intermediate cushion in layered soil under seismic forces&quot;, Comp. Meth. Civil Eng., Vol. 3 (2012) 15-28. 9. ABAQUSCAE Program V 6.13-1. 10. Saba H., &quot;Verification of nonlinear condition of anchored walls in various loading&quot;, Thesis document of Amirkabir University of Tehran, Iran (2003). 11. Dastani H., Shariati M., &quot;Numerical and experimental analysis of controlling of crack propagation route in a plane under cyclic uniaxial loading by creating openness&quot;, Thesis document of Shahrood Industrial University of Shahrood, Iran (2014). 12. Randolph M. F., Wroth C. P., &quot;Application of the failure state in undrained simple shear to the shaft capacity of driven piles&quot;, Geotechnique, Vol. 31 (1981) 143-157. 13. Mottaghi A., &quot;3Dstatic and dynamic analysis of pile group with considering soil - pile interaction&quot;, 6th congress of civil engineering, Iran, Semnan, (2012). 14. Poulos H. G., Small J. C., Ta L. D., Sinha J., Chen L., &quot;Comparison of some methods for analysis of piled rafts&quot;, Proc. 14th Int. Conf. Soil Mech. Found. Engng, Hamburg, Balkema, Rotterdam, Vol. 2 (1997) 1119-1124. 15. Hadad H., Seyedi S. E., &quot;Verification of simplified computational methods of analyzing pile foundation systems&quot;, 10th international congress of civil engineering, Tabriz, Iran (2015). 16. Siegel T. C., &quot;Simplified Settlement Model for a Shallow Foundation on Composite Ground with Rigid Piles&quot;, The Journal of the Deep Foundations Institute (DFI), Vol. 5, No. 1 (2011). 17. Garhy B. E., &quot;Behavior of raft on settlement reducing piles: Experimental model study Basuony&quot;, Journal of Rock Mechanics and Geotechnical Engineering 5 (2013) 389-399. 18. Wong I. H., Chang M. F., Cao X. D., &quot;Raft foundation with disconnected settlement-reducing piles&quot;, google book, 469-486. 19. ABAQUS user's manual, ABAQUS/CAE User's Manual. ABAQUS Online Documentation: Version 6.13-1. 20. Jendele L., &quot;On the choice between discrete or smeared approach in practical structural FE analyses of concrete structures&quot;, University of Colorado at Boulder, U.S.A. 21. Mirzaee H., &quot;Verification of two fracture criteria base on stress concentration factors and stress components for predicting direction of crack propagation in&quot;, Iranian Journal of Mining Engineering (IRJME), Vol. 4, No. 8 (2010)1-12. 22. Chow C. M., Fong F. S., &quot;Design of disconnected piled foundation for 6m high inlet structure&quot;, The 17th Southeast Asian Geotechnical Conference, Taipei, Taiwan (2010). ##1. Fioravante V., Giretti D., &quot;Contact versus noncontact piled raft foundations&quot;, Can. Geotech. J. 47 (2010) 1271-1287. 2. Giretti D., &quot;Modelling of Piled Raft Foundations in Sand&quot;, thesis document, Settore Scientifico Disciplinare ICAR (2009). 3. Eslami A., Veiskarami M., &quot;Study on optimized piled-raft foundations (PRF) performance with connected and non-connected piles-three case histories&quot;, International Journal of Civil Engineering, Vol. 10, No. 2 (2012) 100-111. 4. Eslami A., Salehi S., &quot;Analysis of non-connected piled raft foundations (NCPRF) with cushion by finite element method&quot;, Comp. Meth. Civil Eng., Vol. 2 (2011) 153-168. 5. Saeedi A., Baziar M., &quot;Centrifuge Modeling of Non-Connected Piled Raft System&quot;, EJGE 228 (2013). 6. Fioravante V., &quot;Load transfer from a raft to a pile with an interposed layer&quot;, Geotechnique 61, No. 2 (2011) 121-132. 7. Ata A., &quot;Numerical analysis of unconnected piled raft with cushion&quot;, Ain Shams Engineering Journal 6 (2015) 421-428. 8. Sharma V.J., &quot;Composite piled raft foundation with intermediate cushion in layered soil under seismic forces&quot;, Comp. Meth. Civil Eng., Vol. 3 (2012) 15-28. 9. ABAQUSCAE Program V 6.13-1. 10. Saba H., &quot;Verification of nonlinear condition of anchored walls in various loading&quot;, Thesis document of Amirkabir University of Tehran, Iran (2003). 11. Dastani H., Shariati M., &quot;Numerical and experimental analysis of controlling of crack propagation route in a plane under cyclic uniaxial loading by creating openness&quot;, Thesis document of Shahrood Industrial University of Shahrood, Iran (2014). 12. Randolph M. F., Wroth C. P., &quot;Application of the failure state in undrained simple shear to the shaft capacity of driven piles&quot;, Geotechnique, Vol. 31 (1981) 143-157. 13. Mottaghi A., &quot;3Dstatic and dynamic analysis of pile group with considering soil - pile interaction&quot;, 6th congress of civil engineering, Iran, Semnan, (2012). 14. Poulos H. G., Small J. C., Ta L. D., Sinha J., Chen L., &quot;Comparison of some methods for analysis of piled rafts&quot;, Proc. 14th Int. Conf. Soil Mech. Found. Engng, Hamburg, Balkema, Rotterdam, Vol. 2 (1997) 1119-1124. 15. Hadad H., Seyedi S. E., &quot;Verification of simplified computational methods of analyzing pile foundation systems&quot;, 10th international congress of civil engineering, Tabriz, Iran (2015). 16. Siegel T. C., &quot;Simplified Settlement Model for a Shallow Foundation on Composite Ground with Rigid Piles&quot;, The Journal of the Deep Foundations Institute (DFI), Vol. 5, No. 1 (2011). 17. Garhy B. E., &quot;Behavior of raft on settlement reducing piles: Experimental model study Basuony&quot;, Journal of Rock Mechanics and Geotechnical Engineering 5 (2013) 389-399. 18. Wong I. H., Chang M. F., Cao X. D., &quot;Raft foundation with disconnected settlement-reducing piles&quot;, google book, 469-486. 19. ABAQUS user's manual, ABAQUS/CAE User's Manual. ABAQUS Online Documentation: Version 6.13-1. 20. Jendele L., &quot;On the choice between discrete or smeared approach in practical structural FE analyses of concrete structures&quot;, University of Colorado at Boulder, U.S.A. 21. Mirzaee H., &quot;Verification of two fracture criteria base on stress concentration factors and stress components for predicting direction of crack propagation in&quot;, Iranian Journal of Mining Engineering (IRJME), Vol. 4, No. 8 (2010)1-12. 22. Chow C. M., Fong F. S., &quot;Design of disconnected piled foundation for 6m high inlet structure&quot;, The 17th Southeast Asian Geotechnical Conference, Taipei, Taiwan (2010).  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>بررسی تأثیر چیدمان میخ‌کوبی بر پایداری و عملکرد دیواره‌های میخ‌کوبی شده</TitleF>
+		<TitleE>An Study on the Effects of Nail Arrangement on the Stability and Performance of Soil Nailed Walls</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>امروزه روش میخ&#8204;کوبی از روش&#8204;های رایج پایدارسازی گودها است که طراحی آن مبتنی بر ارائه چیدمان میخ&#8204;ها در عمق دیواره است. چیدمان میخ معمولاً به&#8204;روش آزمون و خطا و از میان چیدمان&#8204;های مختلفی که معیار ضریب اطمینان مجاز پایداری و تغییرشکل مجاز را ارضا می&#8204;کند انتخاب می&#8204;شود. با توجه به این&#8204;که طول میخ&#8204;ها از بالا به پایین دیواره نزولی است، در این پژوهش با معرفی یک چیدمان خطی منظم، پارامترهای&#160; L (طول میخ پایه) و a (شیب انتهای محدوده تسلیح) برای تعریف چیدمان معرفی شده و تأثیر چیدمان بر تغییرات ضریب اطمینان و تغییر شکل دیواره بررسی شده است. همچنین با تعریف پارامتر تراکم میخ در سطح دیواره (Dn) در هر چیدمان تأثیر آن بر رفتار دیواره بررسی شده است. نتایج حاصل حاکی از آن&#8204;است که با افزایش L و a مقدار ضریب اطمینان پایداری افزایش یافته و تغییر شکل تاج گود کاهش می&#8204;یابد. هم&#8204;چنین مشخص شد که هم مقدار ضریب اطمینان و هم مقدار تغییرشکل دیواره مستقل از پارامترهای چیدمان، متناسب و متناظر با مقدار پارامتر کلیدی تراکم میخ است. هم&#8204;چنین با افزایش تراکم میخ، ضریب اطمینان پایداری افزایش و مقدار تغییر شکل کاهش می&#8204;یابد و لیکن این تغییرات با افزایش تراکم میخ از یک مقدار حدی که به تراکم میخ مؤثر موسوم است، متوقف می&#8204;شود. با بررسی مود تغییر شکل دیوار در چیدمان&#8204;های مختلف مشخص &#160;شد که در a&#8204;های کوچک بیشینه تغییرشکل دیواره در بالای آن و مود تغییر شکل واژگونی است&#160;و با افزایش a و زیادشدن طول مهاری میخ&#8204;های بالایی، بیشینۀ تغییر شکل دیوار به اعماق میانی منتقل شده و مود تغییر شکل دیوار به شکم دادگی تغییر می&#8204;یابد.
+&#160;</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/3.pdfExtended Abstract
+(Paper pages 201-224)
+Introduction
+Soil nails are traditionally designed with uniform length and equal spacing to stabilize slopes which do not meet safety requirements. However, nails with uniform layout in a slope may not be the optimal design if the construction cost is taken into account. The optimal layouts lead to a minimum usage of nails and satisfies the allowable factor of safety and wall deformation.
+In this study a decreasing trend of nails length along the wall height was considered to investigate the stability and the performance of the wall in different nail patterns. Then nail density was introduced as an important factor on the overall stability and deformation of the wall. It can be beneficial in the preliminary estimation of the required nail length at the beginning of a project.
+Findings of this study are helpful for effective design of soil&#8211;nailed slopes.
+Materials and Methods
+The finite element analyses were conducted to investigate the effects of nails pattern on the overall stability and deformation of soil&#8211;nailed walls. Slope/W software was used to obtain the Factor of safety and Plaxis 2D was used to calculate the deformation of the soil nail walls. Soil hardening model was used to simulate the behavior of soil. In this study, various walls with different specifications were modeled and analyzed. As an example, a 10 m deep soil nail wall with C=10 kN/m2, ?=25 deg, Eoed=20000 kN/m2 is discussed here to monitor the trends (C represents cohesion, ? is the angle of friction and Eoed is the modulus of elasticity of the soil).
+As it is shown in Figure 1, by considering the decreasing trend of nail length along the wall height, an ordered arrangement (pattern) is introduced by presenting &#8220;L&#8221; as the base nail length and &#8220;&#8221; as the inclination of stabilized zone border then, the effect of nail arrangement on the safety factor and deformation of nailed wall is investigated. The nails were installed with an angle of 15 degrees relative to the horizon. According to FHWA a minimum value of 1.35 is considered for the factor of safety. Circular failure surfaces are assumed and the tensile and pullout resistance of the nails crossing the failure surfaces are considered as the governing stabilizing forces.
+Results and discussion
+In this study, soil nails pattern effects on the performance and the stability of the soil nail wall are investigated. In Figure 2 variation of safety factors caused by different soil nails arrangements is illustrated. Generally three separated trends are observed in each curve. It demonstrates that at lower values of  with small bond length, the factor of safety is constant. As  increases the bond length behind the slip surface becomes longer and the safety factor is increases gradually. Eventually it reaches a point that the nails are long enough that increasing the nails length is not influential in the stability of the wall. Hence, nails at different elevations of a slope have different contribution to the overall stability of soil&#8211;nailed slopes.
+Wall deformations need to be controlled by the allowable deformation level in designing the soil nailed wall especially when buildings or other underground facilities exist near the excavation. One of the most important parameters on soil nailed wall deformations is the arrangement of nail lengths.
+Figure 3 shows the effect of nail arrangements on the wall horizontal deflection. In general, as and L increase, horizontal deflection of the wall decreases. The rate of this reduction is higher in lower base length. As it is
+&#160;
+
+
+illustrated in Figure 3, by increasing the length of the nails, the deflection is decreased till no significant reduction is observed.
+As it is shown the arrangement and the layout of the nails are influential on the stability and deformation of the soil nailed walls. However, it is important to identify an optimal layout in a way that with optimum nail length, allowable stability is reached and the wall deformation stay in an allowable range.
+Nail density is defined as the ratio of the required nail length per the unit area of the wall surface and defined as below:
+
+where Li is nail length of each row and A is the stabilization area. Hence, estimating the nail density can be beneficial for the engineers to have a preliminary estimation of the costs of the project at beginning of the project.
+Figure 4 indicates that the nail density governs the wall deformation. As it is seen, for different layouts with the same nail density, the resulted deflections are so close. Hence, it can be concluded that nail density is a key factor in determination of the wall deflection. It is also illustrated that, as the nail density increases, the reduction rate of the deflection is decreased. Effective nail density is defined as a threshold point that increasing the nail density is no longer effective on deformations.
+
+
+As it is demonstrated in Figure 5, different layouts with a similar nail density have close values of safety factors. In walls with higher nail density increasing the nail length is fruitless and at lower nail density nails are not effective. So Optimum designation should be somewhere at the middle part with an allowable factor of safety. In the middle part the variation of factors of safety is more tangible.
+Horizontal deflection profile
+During the construction process the wall tends to move outward. Figure 6 illustrates the effect of soil nails arrangements on the deformation of a 10 m deep wall for a constant base length. As it is shown, by increasing  the horizontal deflection at the top of the wall decreases in a way that at higher  values, the wall deformation mode changes from overturning mode to bulging mode. 
+Conclusion
+In this paper the effects of soil nail arrangement on the stability and performance of the wall was investigated. An ordered arrangement of the nails was introduced and the effect of various nail lengths at different elevations of the wall was discussed. Major findings concluded from this research are summarized as follows:
+
+
+Nail density was defined as a key parameter and the findings demonstrate that nail density plays an important role in controlling the stability and the performance of the soil nail walls, in a way that patterns with the same nail densities but different arrangements, result in the almost similar factors of safety and deformations. Therefore based on the allowable factor of safety and deformation, nail density can be concluded and the nail arrangement which meets the standards, is selected.
+Threshold nail density is defined as a value of nail density which no significant reduction of deflection happens afterward.
+Uniform distribution of the nails and lower values of  generates the maximum deflection at the top of the wall. As  increases, the bond length in the upper parts of the wall controls the deformation. In that case, the deflection value is bounded and the maximum deflection occurs at the middle depth of the wall. Therefore the mode of deformation changes from overturning mode to bulging mode. As a result, in the projects which their adjacent structures are of high importance, it is recommended to use more&#160;
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>201</FPAGE>
+			<TPAGE>224</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>محسن</Name>
+				<MidName></MidName>
+				<Family>صابرماهانی</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>گروه ژئوتکنیک</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه علم و صنعت ایران</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>msabermahani@iust.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>میلاد</Name>
+				<MidName></MidName>
+				<Family>غلامی نیا</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization></Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه علم و صنعت ایران</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>mgholaminia@civileng.iust.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>میخ‌کوبی خاک</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>چیدمان میخ</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تراکم میخ</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تغییرشکل مجاز</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ضریب اطمینان مجاز</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1. Administration F. H., &quot;Report FHWA-SA-93-068, Soil Nailing Field Inspectors. 2. Babu G. S., &quot;Simulation of Soil Nail Structures using PLAXIS 2D&quot;, Plaxis Bulletin (2009) .  3. پایان‌نامۀ کارشناسی ارشد مهندسی خاک و پی، دانشکده عمران، دانشگاه علم و صنعت. 4. Board T. R., &quot;Report 701 Proposed Specifications for LRFD Soil-Nailing Design and Construction&quot;, Brinkgreve, R. (October 2007) Plaxis Bulletin (2011). 5. CPD J., &quot;In-situ techniques for reinforced soil. international reinforced soil conference&quot;, Glasgow (1990). 6. Fan C. C., &quot;Numerical study on the optimum layout of soil–nailed slopes&quot;, Computers and Geotechnics (4) 35 (2008) 585-599. 7. Grieve B., &quot;Material, Plaxis Manual, J, M (1984) Reinforcement des sols par clouage&quot;, E´ tude expe´rimentale en laboratoire. International Conference In Situ Soil and Rock Reinforcement, Paris (1998). 8. J. L., a. L., &quot;Tieback walls in sand: numerical simulation and design implications&quot;,. J. Geotech &amp; Geoenviromental Eng. London (1999). 9. Ltd G. S. I., &quot;SLOPE/W User's Guide for Slope Stability Analysis (2004). 10. Ou C. Y.,&quot; Deep excavation: Theory and Practice&quot;, Taylor &amp; Francis (2006). 11. Project F. N., recommendations CLOUTERRE (1991).  12. Puła O., &quot;On the variational solution of a limiting equilibrium problem&quot;, Computers and Geotechnics (2) 32 (2005) 107-121. 13. RA J.,&quot; Some effects of reinforcement on the mechanical behavior of soils&quot;, Cambridge University. 14. S. S.,&quot; Simulation nume´rique du comportement des sols cloue´s&quot;, Interaction sol reinforcement et comportementde l’ouvrage. The`se de Doctorat de l’Ecole Nationale des Ponts et Chausse´es. Paris (1986). 15. Singh G. L., &quot;Simulation of Soil Nail Structures using PLAXIS 2D&quot; (2009). 16. نوری و. ا.، &quot;بهینه‌سازی سیستم‌های پایدارسازی گودهای عمیق با استفاده از شبکه عصبی مصنوعی&quot;، پایان‌نامه ارشد مهندسی خاک و پی، دانشکده عمران، دانشگاه علم و صنعت (1393).  ##1. Administration F. H., &quot;Report FHWA-SA-93-068, Soil Nailing Field Inspectors. 2. Babu G. S., &quot;Simulation of Soil Nail Structures using PLAXIS 2D&quot;, Plaxis Bulletin (2009) .  3. پایان‌نامۀ کارشناسی ارشد مهندسی خاک و پی، دانشکده عمران، دانشگاه علم و صنعت. 4. Board T. R., &quot;Report 701 Proposed Specifications for LRFD Soil-Nailing Design and Construction&quot;, Brinkgreve, R. (October 2007) Plaxis Bulletin (2011). 5. CPD J., &quot;In-situ techniques for reinforced soil. international reinforced soil conference&quot;, Glasgow (1990). 6. Fan C. C., &quot;Numerical study on the optimum layout of soil–nailed slopes&quot;, Computers and Geotechnics (4) 35 (2008) 585-599. 7. Grieve B., &quot;Material, Plaxis Manual, J, M (1984) Reinforcement des sols par clouage&quot;, E´ tude expe´rimentale en laboratoire. International Conference In Situ Soil and Rock Reinforcement, Paris (1998). 8. J. L., a. L., &quot;Tieback walls in sand: numerical simulation and design implications&quot;,. J. Geotech &amp; Geoenviromental Eng. London (1999). 9. Ltd G. S. I., &quot;SLOPE/W User's Guide for Slope Stability Analysis (2004). 10. Ou C. Y.,&quot; Deep excavation: Theory and Practice&quot;, Taylor &amp; Francis (2006). 11. Project F. N., recommendations CLOUTERRE (1991).  12. Puła O., &quot;On the variational solution of a limiting equilibrium problem&quot;, Computers and Geotechnics (2) 32 (2005) 107-121. 13. RA J.,&quot; Some effects of reinforcement on the mechanical behavior of soils&quot;, Cambridge University. 14. S. S.,&quot; Simulation nume´rique du comportement des sols cloue´s&quot;, Interaction sol reinforcement et comportementde l’ouvrage. The`se de Doctorat de l’Ecole Nationale des Ponts et Chausse´es. Paris (1986). 15. Singh G. L., &quot;Simulation of Soil Nail Structures using PLAXIS 2D&quot; (2009). 16. نوری و. ا.، &quot;بهینه‌سازی سیستم‌های پایدارسازی گودهای عمیق با استفاده از شبکه عصبی مصنوعی&quot;، پایان‌نامه ارشد مهندسی خاک و پی، دانشکده عمران، دانشگاه علم و صنعت (1393).   ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>تأثیر افزودن نانورس روی رفتار ژئوتکنیکی خاک‌‌های ریزدانه نرم  </TitleF>
+		<TitleE> Effect of Adding Nanoclay on the Geotechnical Behavior of Fine-grained Soft Soils </TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>با توجه به گسترش بسیار زیاد خاک&#8204;&#8204;های مسئله&#8204;دار در ایران، اصلاح و به&#8204;سازی این قبیل خاک&#8204;&#8204;ها به&#8204;عنوان امری اجتناب&#8204;ناپذیر نقش بسیار مهمی در پروژه&#8204;&#8204;های عمرانی دارد. با توجه به پیشرفت علم نانوتکنولوژی در مهندسی ژئوتکنیک، در این تحقیق سعی شده است تا تأثیر اضافه کردن مقادیر مختلف نانوذرات رس بر رفتار ژئوتکنیکی خاک&#8204;&#8204;های ریزدانه ضعیف با کمک تحقیقات آزمایشگاهی بررسی شود. در این تحقیق نمونه&#8204;&#8204;های مختلف خاک از منطقه شبکۀ سد بوستان گنبد و اینچه&#8204;برون واقع در استان گلستان انتخاب شد. به&#8204;منظور بررسی تأثیر به&#8204;سازی خاک&#8204;های مذکور با کمک نانورس، آزمایش&#8204;های مختلف ژئوتکنیکی از قبیل حدود اتربرگ، تراکم استاندارد، مقاومت فشاری تک&#8204;محوری، سه&#8204;محوری تحکیم نیافته زهکشی نشده و تحکیم مضاعف انجام گرفت. نتایج آزمایش&#8204;ها حاکی از نقش بسیار مهم نانورس بر خواص خمیری، مقاومتی و تغییر شکل&#8204;پذیری خاک بوده است. هم&#8204;چنین با توجه به اهمیت نوع خاک می&#8204;توان دریافت که در اثر افزودن نانورس به خاک&#8204;های بررسی شده پتانسیل رمبندگی نمونه&#8204;&#8204;ها بسیار محسوس کاهش می&#8204;یابد.
+&#160;
+&#160;</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/4.pdfExtended Abstract
+(Paper pages 225-246)
+&#160;Introduction
+Soil has always been a major material in civil projects. Due to progress in science, different studies on the behavior of soil and its engineering characteristics have been conducted. As mentioned, there are different types of soil in nature; a small change in their structure and fabric under different environmental conditions or loading causes high deformation and settlements, which result in a reduction of strength and bonding between soil particles. Also, in this regard, some soft soils exist that are mostly composed of clay particles, with small shear strength and big settlement under low stress. With respect to the above-mentioned characteristics, these soils are referred to as problematic soils. The problematic soils consist of a silicate combination, whose major parts are clay minerals formed under weathering of rocks. Additionally, the precipitation of some soils and ground activity near the surface causes them to become problematic (Beckwith and Hansen [1]). Principally, in engineering, those soils on which construction is not safe, and which are affected by different environmental conditions, are defined as problematic soils. Collapsible soils are some of the most important of these problematic soils. The collapsibility phenomenon is defined as a sudden collapse of soil caused by the loss of the shear strength of soils. The collapsible potential depends on the initial void ration of soils. A few silty strata that are exposed to arid weather are susceptible to considerable volume decrease or collapse under soil saturation. Therefore, it is possible that surface water penetration in an irrigation form, pipe leakage and rise in ground water level may lead to great settlement.
+In the last decade, the use of nanotechnology based on the science of production and nano-scale particles usage has become prevalent in many sciences. It can be said that nanoparticle application has made considerable progress, apart from nanotechnology, in recent years and has been one of its main aspects of this study. In this regard, the variety of nanoparticle depends on different applications.
+The use of nano-materials has drawn the attention of various researchers in geotechnical engineering. One of the important nano-materials is nanoclay which, with respect to its characteristics, has had a wide range of applications in soil improvement techniques. Taha and Taha [2] and Majid et al. [3] have studied the effects of nano-materials, such as nanoluminum, nanocopper and nanoclay, on the swelling and shrinkage behavior in fine grain-size soils. Also, the compressive strength and permeability of soils increase and decrease with the addition of nanoclay, respectively, and are subjected to change of elastic to plastic behavior (Burton et al. 2009 [4], Gallagher and Lin [5], Persoff et al. [6]).
+In this research, the main objective is to investigate the addition of nanoclay on the behavior of fine grain-size soil with experimental studies and to evaluate the different parameters on the soils&#8217; modification mechanisms.
+Material and methods
+Given the importance of this subject and the practical use of the results of this research in the improvement of problematic soils, as well as the field assessment conducted, it was observed that, in many parts of the main irrigation channels of Gonbad dam in northeastern Iran, which is an arid and semi-arid region of Iran, due to the specific geotechnical conditions and loess soils, large and non-uniform subsidence of soil has occurred around dewatering channels. This has caused large cracks to occur in the concrete channel coverage and subsoil and the surrounding wall soil, which ultimately will lead to the destruction of large parts of the channel mentioned above. Remarkably, given the nature of loess soils in the study area, dangers such as collapsibility, dispersivity, landslides, sinkholes and subsidence can be noted. In order to evaluate the effect of soil improvement with the help of nanoclay in field conditions, all the tests and geotechnical studies on soil samples located in the channels were performed under valid standards. In this regard, a number of exploratory boreholes were bored in the walls and floors of the considered channel. During this procedure, sampling was carried out in different depths of layers of soil in order for laboratory tests to be carried out and for identification of the soil. The undisturbed samples were also taken by a Shelby Tube Sampler for necessary tests. In order to determine the initial physical and mechanical properties of the used soils, various tests such as particle size analysis, Atterberg limits, specific gravity and standard compaction were conducted. Table 1 summarizes the characteristics of the used soils.
+Table 1. Soil&#160; specifications
+
+
+	
+		
+			Incheberon Area
+			Gonbad&#160;&#160;&#160; Area
+			Soil Properties
+		
+		
+			CL-ML
+			CL-ML
+			Unified soil classification system
+		
+		
+			2.55
+			2.54
+			Particle specific gravity
+		
+		
+			18
+			16
+			Plastic limit (%)
+		
+		
+			23
+			22
+			Liquid&#160; limit (%)
+		
+		
+			5
+			6
+			Plasticity index (%)
+		
+		
+			86
+			95
+			Passing No. 200 sieve (%)
+		
+		
+			0.04
+			0.006
+			Average particle size&#160; (D50) (mm)
+		
+		
+			16
+			15
+			Optimum water content (%)
+		
+		
+			1.60
+			1.54
+			Maximum dry unit weight (g/cm3)
+		
+	
+
+The nano-materials used in this study have comprised nanoclay prepared by Sigma-Aldrich Company Ltd with the brand clay montmorillonite K(10).
+Results and discussion
+By adding nanoclay to the soil, it is observed that the liquid limit and plasticity limit of samples gradually increases as can be seen in Figure 1.
+
+
+Figure 1. Effect of nanoclay addition on the Atterberg limits test of soil samples
+Based on the obtained results by adding different amounts of nanoclay to the soil, the maximum dry density and optimum moisture content decreased and increased, respectively. By adding nanoclay to the soil, strain increases at the moment of failure due to increased plasticity and changes in soil structure. It is worthy to note that the unconfined compressive strength in samples stabilized with nanoclay has been increased in comparison with the plain soil.&#160; Plain and improved soil samples were tested with different amounts of nanoclay under unconsolidated undrained conditions at different confining pressures.
+To study the impact of nanoclay on the collapsibility potential of the soil, double consolidation tests were conducted to determine the deformation of plain and stabilized samples with various amounts of nanoclay under different vertical pressures. The test results showed that adding nanoclay has reduced the collapsibility potential of samples.
+Conclusions
+Due to existence of large areas of collapsible soils in Iran, improvement of these soils is necessary in civil projects. With considering the advances of nanotechnology sciences, in this research aiming to understand the impacts of different amounts of nanoclay on above mentioned soils have been studied. The soil samples used in experiments were collected from Golestan province including Boston dam of Gonbad and Incheboron near Gorgan city. In order to assessment of geotechnical behavior of soils, samples were mixed with varying percentages of nanoclay and different tests such as Atterberg limits, standard compaction, unconfined compressive strength, unconsolidated undrained triaxial and double consolidation were conducted. The results showed that nanoclay particles have a significant effect on the plasticity and strength behavior of used soils. Also, it was found that collapsibility index of soils decrease with adding nanoclay and it depends on the type of soil.&#160;
+Keywords: Nanoclay,&#8206;&#8207; Collapsibility, Improvement, Fine-grained Soils.
+&#160;
+1. Beckwith, C., Hansen, L.A., Identification and characterization of the collapsible alluvial soils of the western United States, Foundation Engineering, Current Principles and Particles, ASCE, (1989) 143-160.
+2. Taha, M.R., Taha, O.E., Influence of nano-material on the expansive and shrinkage soil behavior, Journal of Nanoparticle Research Vol. 14(10) (2012) 1-13.
+3. Majeed, Z.H., Taha, M.R., Jawad, I.T., Stabilization of soft soil using nanomaterils, Research Journal of Appiled Sience, Engineering and Technology Vol. 8(4) (2014) 503-509.
+4. Burton, C., Axelsson, M., Gustafson, G., Silica sol for rock grouting: laboratory testing of strength, fracture behavior and hydraulic conductivity, Tunneling and Underground Space Technology (2009) 603-607.
+5. Gallagher, P.M., Lin, Y., Column testing to determine colloidal silica transport mechanisms, Proceedings Sessions of the Geo-Frontiers Congress of Innovations in Grouting and Soil Improvement, Texas Vol. 162 (2005) 1-10.
+6. Persoff, P., Apps, J., Moridis, G., Whang, J.M., Effect of dilution and contaminants on strength and hydraulic conductivity of sand grouted with colloidal silica gel, Journal of Geotechnical and Geoenvironmental Engineering Vol. 125 ( 6) (1999) 461-469.
+
+&#160;
+
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>225</FPAGE>
+			<TPAGE>246</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>علیرضا</Name>
+				<MidName></MidName>
+				<Family>طبرسا</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه گلستان</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه گلستان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>a.tabarsa@gu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>نانورس</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>رمبندگی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>به‌سازی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>خاک‌های ریزدانه</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1. Clemence S. P, Finbarr A. O., &quot;Design considerations for collapsible soils&quot;, Journal of Geotechnical and Geoenvironmental Engineering Vol.107 (1981) 305-317.  2. Rogers C. D. F., Dijkstra T. A., &quot;Smalley I. J., &quot;Hydro consolidation and subsidence of loess: studies from China, Russia&quot;, North America and Europe: in memory of Jan Sajgalik, Eng. Geol. Vol. 37 (2) (1994) 83-113. 3. Gao G., &quot;The distribution and geotechnical properties of loess soils&quot;, lateritic soils and clayey soils in China, Eng, Geol. Vol. 42 (1) (1996) 95-104. 4. رحیمی ح.، عباسی ن.، &quot;مهندسی ژئوتکنیک، خاک‌های مشکل آفرین&quot;، انتشارات دانشگاه تهران، چاپ دوم (1395). 5. Langroudi A. A., Jefferson I., Ohara-Dhand K., Smalley I., &quot;Micromechanics of quartz sand breakage in a fractal context&quot;, Geomorphology Vol. 211 (2014) 1-10. 6. Beckwith C., Hansen, L. A., &quot;Identification and characterization of the collapsible alluvial soils of the western United States&quot;, Foundation Engineering, Current Principles and Particles, ASCE, (1989) 143-160. 7. Wilson, M. A., Tran N. H., Milev A. S., Kannangara G. S., Volk H., Lu G. Q., &quot;Nanomaterials in soils&quot;, Geoderma Vol. 146 (1) (2008) 291-302. 8. Persoff P., Apps J., Moridis G., Whang J. M., &quot;Effect of dilution and contaminants on strength and hydraulic conductivity of sand grouted with colloidal silica gel, Journal of Geotechnical and Geoenvironmental Engineering Vol.125 ( 6) (1999) 461-469. 9. Gallagher P. M., Lin Y., &quot;Column testing to determine colloidal silica transport mechanisms&quot;, Proceedings Sessions of the Geo-Frontiers Congress of Innovations in Grouting and Soil Improvement, Texas Vol.162 (2005) 1-10. 10. Burton C., Axelsson M., Gustafson G., &quot;Silica sol for rock grouting: laboratory testing of strength, fracture behavior and hydraulic conductivity&quot;, Tunneling and Underground Space Technology (2009) 603-607. 11. Taipodia J., Dutta J., Dey A.K., &quot;Effect of nanoparticles on properties of soil, Proc&quot;, of Indian Geotechnical Conference, December, Kochi (2011). 12. Taha M. R., Taha O. E., &quot;Influence of nano-material on the expansive and shrinkage soil behavior&quot;, Journal of Nanoparticle Research Vol. 14(10) (2012) 1-13. 13. Majeed Z. H., Taha M. R., Jawad I. T., &quot;Stabilization of soft soil using nanomaterils&quot;, Research Journal of Appiled Sience, Engineering and Technology Vol. 8(4) (2014) 503-509. 14. Zhang G., Geraine J. T., Whittle A. J., Ladd C. C., &quot;Index properties of a highly weathered old alluvium&quot;, Geotechnique Vol. 54 (7) (2004) 441-451. 15. Khalid N., Mukri M., Kamarudin F., &quot;Effect of nanoclay in soft soil stabilization&quot;, Springer Science Business Media Singapore (2015) 905-914. 16. Padidar M., Jalalian A., Abdouss M., Najafi P., Honarjoo N., Fallahzade J., &quot;Effect of nanoclay on soil erosion control&quot;, NANOCON2014, 5-7 November, Brno, Czech Republic (2014). 17. Kananizadeh N., Ebadi T., Khoshniat S. A., Mousavirizi S. E., &quot;The positive effects of nanoclay on the hydraulic conductivity of compacted Kahrizak clay permeated with landfill leachate&quot;, Clean–Soil, Air, Water Vol.39 (7) (2011) 605-611. 18. اوحدی و.، چوبچیان ا.، &quot;رفتار ژئوتکنیک زیست محیطی مونتموریلونیت اصلاح شده با کاتیون در جذب آلاینده سرب&quot;، مجلۀ علمی پژوهشی عمران تربیت مدرس، دورۀ دهم، شمارۀ دوم (1389). 19. Iranpour B., Haddad A., &quot;The influence on nanomaterials on collapsible soil treatment&quot;, Engineering Geology Vol. 205(2016) 40-53. 20. بهاری م.، شاه‌نظری ع.، &quot;بررسی آزمایشگاهی تثبیت بستر خاکی ریزدانه با استفاده از نانورس&quot;، مجلۀ علوم و فنون کشاورزی و منابع طبیعی- علوم آب و خاک، سال نوزدهم، شمارۀ هفتاد و دوم (1394). 21. Baziar M. H., Ghazi H., Mirkazemi S. M., &quot;Effect of nanoclay on engineering properties of soil&quot;, Forth International Congress of Geotechnical Engineering and Soil Mechanics, Tehran, Iran (2010). 22. Jennigs J. R., Knight K., &quot;A guide to construction on or with materials exhibiting additional settlement due to collapse of grain structure&quot;, Proc. 6th Regional Conference for Africa on Soil Mechanics and Foundation Engineering, Durban, South Africa (1975) 99-105. 23. ASTM, &quot;Standard Test Method for Measurement of Collapse Potential Soils&quot; ASTM D 5333-03, Annual Book of ASTM Standard, Phiadelphia (2003). 24. فخری ز.، پورحسینی اردکانی ر.، عبادی ت.، &quot;بهبود خواص هیدرولیکی خاک رس کائولینیت با افزودن نانورس&quot;، مجلۀ علمی پژوهشی عمران و محیط‌زیست امیرکبیر، دورۀ چهل و هفتم، شمارۀ سوم (1394). 25. Lan T., Kaviratna P. D., &quot;Mechanism of clay tactiod exfoliation in epoxy-clay nanocomposites&quot;, Chem. Master (1995) 2144-2150. 26. Mitchel J. K., Soga K., &quot;Fundamental of Soil Behavior&quot;, John Wiley and Sons, Third Edition, (2005). ##1. Clemence S. P, Finbarr A. O., &quot;Design considerations for collapsible soils&quot;, Journal of Geotechnical and Geoenvironmental Engineering Vol.107 (1981) 305-317.  2. Rogers C. D. F., Dijkstra T. A., &quot;Smalley I. J., &quot;Hydro consolidation and subsidence of loess: studies from China, Russia&quot;, North America and Europe: in memory of Jan Sajgalik, Eng. Geol. Vol. 37 (2) (1994) 83-113. 3. Gao G., &quot;The distribution and geotechnical properties of loess soils&quot;, lateritic soils and clayey soils in China, Eng, Geol. Vol. 42 (1) (1996) 95-104. 4. رحیمی ح.، عباسی ن.، &quot;مهندسی ژئوتکنیک، خاک‌های مشکل آفرین&quot;، انتشارات دانشگاه تهران، چاپ دوم (1395). 5. Langroudi A. A., Jefferson I., Ohara-Dhand K., Smalley I., &quot;Micromechanics of quartz sand breakage in a fractal context&quot;, Geomorphology Vol. 211 (2014) 1-10. 6. Beckwith C., Hansen, L. A., &quot;Identification and characterization of the collapsible alluvial soils of the western United States&quot;, Foundation Engineering, Current Principles and Particles, ASCE, (1989) 143-160. 7. Wilson, M. A., Tran N. H., Milev A. S., Kannangara G. S., Volk H., Lu G. Q., &quot;Nanomaterials in soils&quot;, Geoderma Vol. 146 (1) (2008) 291-302. 8. Persoff P., Apps J., Moridis G., Whang J. M., &quot;Effect of dilution and contaminants on strength and hydraulic conductivity of sand grouted with colloidal silica gel, Journal of Geotechnical and Geoenvironmental Engineering Vol.125 ( 6) (1999) 461-469. 9. Gallagher P. M., Lin Y., &quot;Column testing to determine colloidal silica transport mechanisms&quot;, Proceedings Sessions of the Geo-Frontiers Congress of Innovations in Grouting and Soil Improvement, Texas Vol.162 (2005) 1-10. 10. Burton C., Axelsson M., Gustafson G., &quot;Silica sol for rock grouting: laboratory testing of strength, fracture behavior and hydraulic conductivity&quot;, Tunneling and Underground Space Technology (2009) 603-607. 11. Taipodia J., Dutta J., Dey A.K., &quot;Effect of nanoparticles on properties of soil, Proc&quot;, of Indian Geotechnical Conference, December, Kochi (2011). 12. Taha M. R., Taha O. E., &quot;Influence of nano-material on the expansive and shrinkage soil behavior&quot;, Journal of Nanoparticle Research Vol. 14(10) (2012) 1-13. 13. Majeed Z. H., Taha M. R., Jawad I. T., &quot;Stabilization of soft soil using nanomaterils&quot;, Research Journal of Appiled Sience, Engineering and Technology Vol. 8(4) (2014) 503-509. 14. Zhang G., Geraine J. T., Whittle A. J., Ladd C. C., &quot;Index properties of a highly weathered old alluvium&quot;, Geotechnique Vol. 54 (7) (2004) 441-451. 15. Khalid N., Mukri M., Kamarudin F., &quot;Effect of nanoclay in soft soil stabilization&quot;, Springer Science Business Media Singapore (2015) 905-914. 16. Padidar M., Jalalian A., Abdouss M., Najafi P., Honarjoo N., Fallahzade J., &quot;Effect of nanoclay on soil erosion control&quot;, NANOCON2014, 5-7 November, Brno, Czech Republic (2014). 17. Kananizadeh N., Ebadi T., Khoshniat S. A., Mousavirizi S. E., &quot;The positive effects of nanoclay on the hydraulic conductivity of compacted Kahrizak clay permeated with landfill leachate&quot;, Clean–Soil, Air, Water Vol.39 (7) (2011) 605-611. 18. اوحدی و.، چوبچیان ا.، &quot;رفتار ژئوتکنیک زیست محیطی مونتموریلونیت اصلاح شده با کاتیون در جذب آلاینده سرب&quot;، مجلۀ علمی پژوهشی عمران تربیت مدرس، دورۀ دهم، شمارۀ دوم (1389). 19. Iranpour B., Haddad A., &quot;The influence on nanomaterials on collapsible soil treatment&quot;, Engineering Geology Vol. 205(2016) 40-53. 20. بهاری م.، شاه‌نظری ع.، &quot;بررسی آزمایشگاهی تثبیت بستر خاکی ریزدانه با استفاده از نانورس&quot;، مجلۀ علوم و فنون کشاورزی و منابع طبیعی- علوم آب و خاک، سال نوزدهم، شمارۀ هفتاد و دوم (1394). 21. Baziar M. H., Ghazi H., Mirkazemi S. M., &quot;Effect of nanoclay on engineering properties of soil&quot;, Forth International Congress of Geotechnical Engineering and Soil Mechanics, Tehran, Iran (2010). 22. Jennigs J. R., Knight K., &quot;A guide to construction on or with materials exhibiting additional settlement due to collapse of grain structure&quot;, Proc. 6th Regional Conference for Africa on Soil Mechanics and Foundation Engineering, Durban, South Africa (1975) 99-105. 23. ASTM, &quot;Standard Test Method for Measurement of Collapse Potential Soils&quot; ASTM D 5333-03, Annual Book of ASTM Standard, Phiadelphia (2003). 24. فخری ز.، پورحسینی اردکانی ر.، عبادی ت.، &quot;بهبود خواص هیدرولیکی خاک رس کائولینیت با افزودن نانورس&quot;، مجلۀ علمی پژوهشی عمران و محیط‌زیست امیرکبیر، دورۀ چهل و هفتم، شمارۀ سوم (1394). 25. Lan T., Kaviratna P. D., &quot;Mechanism of clay tactiod exfoliation in epoxy-clay nanocomposites&quot;, Chem. Master (1995) 2144-2150. 26. Mitchel J. K., Soga K., &quot;Fundamental of Soil Behavior&quot;, John Wiley and Sons, Third Edition, (2005).  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>بررسی عملکرد پروژۀ به‌سازی خاک به‌روش پیش-بارگذاری با استفاده از نتایج آنالیز برگشتی حاصل از مدل‌سازی عددی و ابزارگذاری- مطالعۀ موردی</TitleF>
+		<TitleE>Investigating Performance of Soil Improvement Project using Preloading Method by Back-Analysis Results Based on Numerical Simulation and Instrumentation Data-A Case Study</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>به&#8204;منظور به&#8204;سازی خاک در محل مخازن نفت پرژۀ انبار نفت ماهشهر، به&#8204;علت وجود لایه&#8204;های زیرسطحی نرم رسی و بالا بودن تراز آب زیرزمینی در ناحیۀ بررسی شده، برای نداشتن خسارات ناشی از نشست&#8204;های تحکیمی دراز مدت در اثر ساخت مخازن، از روش پیش بارگذاری به&#8204;کمک خاک&#8204;ریز به&#8204;همراه زهکش&#8204;های قائم پیش&#8204;ساخته (PVD) با الگوی مثلثی استفاده شده است. برای کنترل نتایج محاسباتی و عملکرد مناسب خاک&#8204;ریزها از ابزار دقیق&#173;هایی نظیر نشست&#8204;سنج&#173;ها و پیزومترها که در تمامی نقاط خاک&#8204;ریز نصب شده&#8204;اند، بهره گرفته شده است. در این مقاله آنالیز برگشتی با استفاده از نتایج ابزار دقیق و به&#8204;کمک نرم&#8204;افزار تفاضل محدود Settle ۳D انجام شده و نتایج به&#8204;دست آمده با یک&#8204;دیگر مقایسه شده است. در این راستا پارامترهای تأثیرگذار ژئوتکنیکی اولیۀ حاصل از آزمایش&#8204;های آزمایشگاهی و صحرایی با استفاده از این روش تصحیح شده است. نتایج به&#8204;دست آمده نشان می&#8204;دهد که پارامتر&#8204;های آزمایشگاهی مؤثر در نظر گرفته شده برای محاسبات اولیۀ نشست تحکیمی خاک نظیر (Cc) و (Pc)، به&#8204;ترتیب بیش&#8204;تر و کم&#8204;تر از مقادیر واقعی اندازه&#8204;گیری شده است و پارامتر&#8204;های آزمایشگاهی مؤثر در نظر گرفته شده برای محاسبات زمان تحکیم خاک (Kh وKv ) از مقادیر واقعی اندازه&#8204;گیری شده کم&#8204;تر پیش&#8204;بینی شده است. هم&#8204;چنین نتایج حاصل بر مبنای بررسی&#8204;های پارامتریک انجام شده در مورد آرایش و عمق زهکش&#173;های قائم، نشان داد که با افزایش طول زهکش&#8204;ها نسبت به فواصل آن&#8204;ها می&#8204;توان کارایی این روش را افزایش داد.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/5.pdfExtended Abstract
+(Paper pages 247-276)
+Intro</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>247</FPAGE>
+			<TPAGE>276</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>خسرو</Name>
+				<MidName></MidName>
+				<Family>مهرشاهی</Family>
+				<NameE>Khosrow</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Mehrshahi</FamilyE>
+				<Organizations>
+				<Organization></Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد اسلامی واحد زنجان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>حمید</Name>
+				<MidName></MidName>
+				<Family>علی الهی</Family>
+				<NameE>Hamid</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Alielahi</FamilyE>
+				<Organizations>
+				<Organization></Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد اسلامی واحد زنجان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>h.alielahi@iauz.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Preloading Method</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Prefabricated Vertical Drain</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Consolidation Settlement</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Numerical Modeling</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>: روش پیش بارگذاری</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>زهکش‌های پیش ساخته قائم</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>نشست تحکیمی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مدل‌سازی عددی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مخازن انبار نفت</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>2. Federal Highway Administration (FHWA), &quot;Prefabricated Vertical Drains, Vol. I, Engineering Guidelines&quot;, Report No. RD-86/168 (1986). 3. Bhushan K., Carlos V., Saaty R., &quot;Soil Improvement by Precompression at a Tank Farm Site in Central Java, Indonesia&quot;, Journal of Geotechnical Engineering (2000). 4. Indraratna B., Redana I. W., &quot;Laboratory determination of smear zone due to vertical drain installation&quot;, J. Geotechnical and Geoenvironmental Eng., ASCE, Vol. 125, No. 1, (1998) 96-99. 5. Indraratna‌ B., Rujikiatkamjorn C., Sathananthan I., Shahin M., Khabbaz H., &quot;Analytical and Numerical Solutions for Soft Clay Consolidation using Geosynthetic Vertical Drains with Special Reference to Embankments&quot;, Proceedings of the 5th International Geotechnical Engineering Conference, Cairo, Egypt (2005) 55-86. 6. Sathananthan I., Indraratna B., &quot;Laboratory Evaluation of Smear Zone and Correlation between Permeability and Moisture Content&quot;, Journal of Geotechnical and Geoenvironmental Engineering (ASCE), 132 (7) (2006) 942-945. 7. Rujikiatkamjorn Ch., Indraratna B., Chu J., &quot;Numerical Modelling of Soft Soil Stabilized by Vertical Drains, Combining Surcharge and Vacuum Preloading for A Storage Yard&quot;, Can. Geotech. J, 44 (3) (2007) 326-342. 8. Saowapakpiboon J., Bergado D.T., Youwai S., Chai J. C., Wanthong P.,‌‌ Voottipruex P., &quot;Measured and Predicted Performance of Prefabricated Vertical Drains (PVDs) with and without Vacuum Preloading&quot;, Geotextiles and Geomembranes, 28 (1) (2010) 1-11. 9. Dhar A. S., Siddique A., Amen S. F., &quot;Ground Improvement using Preloading with Prefabricated Vertical Drains&quot;, International Journal of Geoengineering Case Histories, 2 (2) (2011) 86. 10. Tedjakusuma B. &quot;Application of Prefabricated Vertical Drain in Soil Improvement&quot;, Civil Engineering Dimension, 14 (1) (2012) 51-56. 11. Cascone E., Biondi G., &quot;A Case Study on Soil Settlements Induced by Preloading and Vertical Drains&quot;, Geotextiles and Geomembranes, 38 (2013) 51-67. 12. Bergado D. T., Voottipruex P., Lam L. G., Hino T.,&quot; Back-analyses of Flow Parameters of PVD Improved soft Bangkok Clay with and Without Vacuum Preloading from Settlement Data and Numerical Simulations&quot;, Geotextiles and Geomembranes, 42 (5) (2014) 457-467.  13. Chen J., Shen S., Yin Z. Y., Xu Y. S., Horpibulsuk S., &quot;Evaluation of Effective Depth of PVD Improvement in Soft Clay Deposit: A Field Case Study&quot;, Marine Georesources &amp; Geotechnology (2016) DOI: 10.1080/1064119X.2015.1016638.  14. Carillo N., &quot;Simple Two-and Three Dimentional Cases in The Theory of Consolidation of soils&quot;, Journal of Mathematics and Physics, 21 (1) (1942) 1-5. 15. Das B. M., &quot;Advanced Soil Mechanics&quot;, 2nd edition. Taylor &amp; Francis Inc (1997). 16. Shen S. L., Chaib J. C., Hongc Z. S., Cai F. X., &quot;Analysis of Field Performance of Embankments on Soft Clay Deposit with and without PVD-improvement&quot;, Geotextiles and Geomembranes, 23 (6) (2005) 463-485. 17. Lam L G., Bergado D T., Hino T., &quot;PVD Improvement of Soft Bangkok Clay with and without Vacuum Preloading using Analytical and Numerical Analyses&quot;, Geotextiles and Geomembranes, 43 (6) (2015) 547-557. ##1. استاماتوپولوس، آریس و پاناگیوتیس، کوتزییاس. &quot;اصلاح خاک از طریق پیش بارگذاری&quot;، سعید منتظرالقائم، مؤسسه بین‌المللی زلزله‌شناسی و مهندسی زلزله (1378). 2. Federal Highway Administration (FHWA), &quot;Prefabricated Vertical Drains, Vol. I, Engineering Guidelines&quot;, Report No. RD-86/168 (1986). 3. Bhushan K., Carlos V., Saaty R., &quot;Soil Improvement by Precompression at a Tank Farm Site in Central Java, Indonesia&quot;, Journal of Geotechnical Engineering (2000). 4. Indraratna B., Redana I. W., &quot;Laboratory determination of smear zone due to vertical drain installation&quot;, J. Geotechnical and Geoenvironmental Eng., ASCE, Vol. 125, No. 1, (1998) 96-99. 5. Indraratna‌ B., Rujikiatkamjorn C., Sathananthan I., Shahin M., Khabbaz H., &quot;Analytical and Numerical Solutions for Soft Clay Consolidation using Geosynthetic Vertical Drains with Special Reference to Embankments&quot;, Proceedings of the 5th International Geotechnical Engineering Conference, Cairo, Egypt (2005) 55-86. 6. Sathananthan I., Indraratna B., &quot;Laboratory Evaluation of Smear Zone and Correlation between Permeability and Moisture Content&quot;, Journal of Geotechnical and Geoenvironmental Engineering (ASCE), 132 (7) (2006) 942-945. 7. Rujikiatkamjorn Ch., Indraratna B., Chu J., &quot;Numerical Modelling of Soft Soil Stabilized by Vertical Drains, Combining Surcharge and Vacuum Preloading for A Storage Yard&quot;, Can. Geotech. J, 44 (3) (2007) 326-342. 8. Saowapakpiboon J., Bergado D.T., Youwai S., Chai J. C., Wanthong P.,‌‌ Voottipruex P., &quot;Measured and Predicted Performance of Prefabricated Vertical Drains (PVDs) with and without Vacuum Preloading&quot;, Geotextiles and Geomembranes, 28 (1) (2010) 1-11. 9. Dhar A. S., Siddique A., Amen S. F., &quot;Ground Improvement using Preloading with Prefabricated Vertical Drains&quot;, International Journal of Geoengineering Case Histories, 2 (2) (2011) 86. 10. Tedjakusuma B. &quot;Application of Prefabricated Vertical Drain in Soil Improvement&quot;, Civil Engineering Dimension, 14 (1) (2012) 51-56. 11. Cascone E., Biondi G., &quot;A Case Study on Soil Settlements Induced by Preloading and Vertical Drains&quot;, Geotextiles and Geomembranes, 38 (2013) 51-67. 12. Bergado D. T., Voottipruex P., Lam L. G., Hino T.,&quot; Back-analyses of Flow Parameters of PVD Improved soft Bangkok Clay with and Without Vacuum Preloading from Settlement Data and Numerical Simulations&quot;, Geotextiles and Geomembranes, 42 (5) (2014) 457-467.  13. Chen J., Shen S., Yin Z. Y., Xu Y. S., Horpibulsuk S., &quot;Evaluation of Effective Depth of PVD Improvement in Soft Clay Deposit: A Field Case Study&quot;, Marine Georesources &amp; Geotechnology (2016) DOI: 10.1080/1064119X.2015.1016638.  14. Carillo N., &quot;Simple Two-and Three Dimentional Cases in The Theory of Consolidation of soils&quot;, Journal of Mathematics and Physics, 21 (1) (1942) 1-5. 15. Das B. M., &quot;Advanced Soil Mechanics&quot;, 2nd edition. Taylor &amp; Francis Inc (1997). 16. Shen S. L., Chaib J. C., Hongc Z. S., Cai F. X., &quot;Analysis of Field Performance of Embankments on Soft Clay Deposit with and without PVD-improvement&quot;, Geotextiles and Geomembranes, 23 (6) (2005) 463-485. 17. Lam L G., Bergado D T., Hino T., &quot;PVD Improvement of Soft Bangkok Clay with and without Vacuum Preloading using Analytical and Numerical Analyses&quot;, Geotextiles and Geomembranes, 43 (6) (2015) 547-557.  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>بازسازی نمونه‌های بزرگ ماسه‌ای با روش بارش پرده‌ای ماسه</TitleF>
+		<TitleE>Reconstruction of a Large Scale Sand Specimen Using a Sand Curtain Rainer System</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>آماده&#8204;سازی لایه&#8204;های ماسه به&#8204;صورت یک&#8204;نواخت و تکرارپذیر با وزن مخصوص مورد نیاز، قطعاً پیش&#8204;نیاز انجام آزمایش&#8204;های قابل اعتماد بر نمونه&#8204;های بازسازی&#8204;شده ماسه در آزمایشگاه است. در بین روش&#8204;های مختلف تهیه نمونه، روش بارش ماسه به&#8204;دلیل مزیت&#8204;های منحصربه&#8204;فرد آن به&#8204;طور گسترده&#8204;ای استفاده می&#8204;شود. در این تحقیق یک روش جدید بارش ماسه به&#8204;نام سیستم متحرک بارش پرده&#8204;ای برای بازسازی نمونه&#8204;های بزرگ در پژوهش&#8204;های آزمایشگاهی توسعه یافته است. این دستگاه یک سیستم ساده و کم&#8204;هزینه است که عملکرد آن بر مبنای بارش ماسه در هوا بوده است و ضمن کاهش زمان تهیه نمونه، توانایی تولید نمونه&#8204;هایی با دامنۀ وسیعی از تراکم نسبی (۲۵%-۹۶%) و یک&#8204;نواختی زیاد را دارد. به&#8204;منظور بررسی مطلوبیت روش بارش پیشنهادی و تعیین اثر سرعت حرکت پرده، عرض پرده، ارتفاع و نرخ بارش بر تراکم نسبی و یک&#8204;نواختی ماسه باریده شده، مجموعه&#173;ای از آزمایش&#8204;ها انجام شده است. نتایج نشان می&#8204;دهد برای ماسه مصرفی در این تحقیق با افزایش سرعت حرکت پرده، مقدار تراکم نسبی نمونه افزایش می&#8204;یابد. هم&#8204;چنین افزایش عرض پرده، کاهش مقدار تراکم نسبی نمونه را به&#8204;دنبال دارد.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/6.pdfExtended Abstract
+(Paper pages 277-298)
+Introduction
+Preparation of uniform and repeatable reconstituted sand specimens of required density is a prerequisite for obtaining reliable results from experimental studies. Among different methods of reconstituted specimens, sand pluviation technique is widely adopted by researchers because of its unique advantage. In this study, a new curtain traveling rainer (CTR) is developed for large model sand bed preparation in experimental studies. CTR is a simple and low-cost system which is worked on the principle of air pluviation of sand. It provides specimens with wide range of relative density of sand bed (viz, 30%-90%) and very high degree of spatial uniformity of density distribution while reducing the time of preparation the specimens. A series of laboratory tests is carried out in order to study the performance of the proposed system and the effect of the curtain speed, curtain width, height of the fall and flow rate on the relative density and uniformity of sand specimens. For the sand used in the present study, it was observed that the relative density increases with an increase in the curtain speed and height of the fall. Furthermore, increasing the curtain width results in reducing the relative density.
+Material and Methods
+The calibration of geotechnical in situ tests in granular soil requires the preparation of large, uniform, and replicable specimens of a desired density. When preparing calibration chamber specimens, the adoption of techniques such as chemical impregnation and the freezing method in order to obtain undisturbed granular specimens becomes unfeasible due to the technical limitations and relatively high expense of these techniques. Conversely, the pluviation method has been widely used because of its ability to simulate the depositional mechanism of the soil and because of its applicability to a wide range of specimens, from small specimens for triaxial tests to large specimens for calibration chamber tests.&#160;
+soil sample was chosen from natural white-yellow silica sand mines of Firouzkooh, which can be categorized as poorly graded sand (SP) based on unified classification system (USCS). In order to control sand flow rate at the end of the pluviation path, a series of plates is designed to have rectangular openings with a width range of 2 to 4.5 mm. It should be noted that a sand reservoir is included in the transformer, which enables a uniform sand flow over the rectangular opening. the raining height is set at 100 mm to 500 mm with 100 mm steps. For more accuracy an extra test with&#160; height fall equal 150 mm is performed.
+A contiguous system of wheel-rail is operated for effective transmission of the traveling funnel over the entire sample surface in the circular container. The device&#8217;s jacking system and its related components are the cause of several limitations, which lead to the implementation of two-joint methods for keeping the sand rain height constant during the pluviation and sample preparation process.
+Results and discussion
+The CTR system comprises sand transfer compartments from the main hopper to the sample container and a rectangular opening at the bottom of the hopper, which controls the pluviation flow rate. The main concept driver of this research is to reproduce large samples in the most efficient time.&#160; In order to recognize the uniformity of the reconstituted specimen in the vertical and horizontal directions, the variation of density is evaluated by placing 20 cylindrical molds within the specimen.
+In this paper the effect of deposition intensity and the effect of height and flow rate on the sample relative density are evaluated.
+Calibration of the sample preparatory device is very important in order to produce optional and repeatable samples with a specified relative density, in experimental studies and laboratory models. According to the test results, the effects of drop height and flow rate are investigated. Calibration graphs are presented in Figs. 1 and Fig. 2 for the proposed system in the case of 2.5 cm and 5 cm layer thickness.
+
+
+
+Conclusion
+This paper aims to extend the existing apparatus to achieve consistent low and high relative density sand samples. The preparation of low relative density samples is particularly important in liquefaction studies in geotechnical earthquake engineering. The comprehensive design and calibration of the CTR system can be concluded in the following points. The proposed method can easily be deployed to produce any arbitrary sample with a wide range of relative densities. Increasing the flow rate given a constant drop height leads to decrease in the relative density and is independent of layer thickness. Keeping constant the drop height and flow rate, higher relative densities can be achieved by increasing the curtain traveling velocity. There is a direct relationship between drop height and relative density. The&#160; results&#160; give&#160; some&#160; information&#160; about&#160; the&#160; deposition&#160; process&#160; and&#160; in particular about the terminal falling height. It can be henceforth stated that the performance of the proposed system is reliable and very acceptable due to high uniformity across the entire sample.&#160;
+
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>277</FPAGE>
+			<TPAGE>298</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>مجید</Name>
+				<MidName></MidName>
+				<Family>کاظمی</Family>
+				<NameE>Majid</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Kazemi</FamilyE>
+				<Organizations>
+				<Organization></Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه فردوسی مشهد</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>جعفر</Name>
+				<MidName></MidName>
+				<Family>بلوری بزاز</Family>
+				<NameE>Jafar</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Bolouri Bazaz</FamilyE>
+				<Organizations>
+				<Organization></Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه فردوسی مشهد</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>bolouri@um.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>بارش متحرک پرده‌ای</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>بازسازی نمونه‌های بزرگ</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تراکم نسبی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ماسه</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1.	Miura S., Toki S., &quot;A sample preparation method and its effect on static and cyclic deformation-strength properties of sand&quot;, Soils and Foundations, Vol. 22, no. 1 (1982) 61-77.  2.	Kuerbis R., Vaid Y. P., &quot;Sand sample preparation-the slurry deposition method&quot;, Soils and Foundations, Vol. 28, no. 4 (1988) 107-118.  3.	Lo Presti D. C. F., Pedroni S., Crippa, V., &quot;Maximum dry density of cohesionless soils by pluviation and by ASTM D 4253-83: A comparative study&quot;, ASTM geotechnical testing journal, Vol. 15, no. 2 (1992) 180-189. 4.	Boushehrian J. H., Hataf N., &quot;Experimental and numerical investigation of the bearing capacity of model circular and ring footings on reinforced sand&quot;, Geotextiles and Geomembranes, Vol. 21, no. 4 (2003) 241-256.  5.	عطارزاده ع.، قنبری ع.، حمیدی ا.، &quot;بررسی ظرفیت باربری پی‌های سطحی مجاور شیب‌های ماسه‌ای با مدل آزمایشگاهی&quot;، نشریG زمین‌شناسی مهندسی دانشگاه خوارزمی، جلد 9، شماره 1 (1394).‎ 6.	محمدی د.، اجل لوئیان ر.، &quot;بررسی مطلوبیت روش بارش ماسه برای نمونه‌سازی خاک‌های ماسه‌ای در مدل‌های آزمایشگاهی&quot;، نشریه عمران مدرس، دورۀ 14، شمارۀ 4 (1392). 7.	Lo Presti D. C., Berardi R., Pedroni S., Crippa V. &quot;A new traveling sand pluviator to reconstitute specimens of well-graded silty sands&quot;, Geotechnical Testing Journal, Vol.16 (1993) 18-26.  8.	Lagioia R., Sanzeni A., Colleselli F., &quot;Air, water and vacuum pluviation of sand specimens for the triaxial apparatus&quot;, Soils and foundations, Vol. 46, no. 1 (2006) 61-67.  9.	Dave T. N., Dasaka S. M., &quot;Assessment of portable traveling pluviator to prepare reconstituted sand specimens&quot;, Geomechanics and Engineering, Vol. 4, no.2 (2012) 79-90. 10.	 Brandon T. L., Clough G. W., Rahardjo, P. P., &quot;Fabrication of silty sand specimens for large and small scale tests&quot;, Geotechnical Testing Journal, Vol.14, no.1 (1991) 46-55.  11.	 Choi S. K., Lee M. J., Choo H., Tumay M. T., Lee W., &quot;Preparation of a large size granular specimen using a rainer system with a porous plate&quot;, ASTM geotechnical testing journal, Vol. 33, no. 1 (2010) 45-54.  12.	 Gade V. K., Dasaka S. M., &quot;Development of a Mechanized Traveling Pluviator to Prepare Reconstituted Uniform Sand Specimens&quot;, Journal of Materials in Civil Engineering (2015) 04015117. 13.	 Rad N. S., Tumay M. T., &quot;Factors affecting sand specimen preparation by raining. Geotechnical Testing Journal&quot;, Vol. 10, no. 1 (1987) 31-37.  14.	 Cresswell A., Barton M. E., Brown R., &quot;Determining the maximum density of sands by pluviation&quot;, ASTM geotechnical testing journal, Vol. 22, no.4 (1999) 324-328. 15.	 Camenen J. F., Cavarretta I., Hamlin S., Ibraim E., &quot;Experimental and numerical assessment of a cubical sample produced by pluviation&quot;, Géotechnique Letters, Vol. 3 (2013) 44-51.  16.	 Fretti C., Lo Presti D. C. F., Pedroni S., &quot;A pluvial deposition method to reconstitute well-graded sand specimens&quot;, ASTM geotechnical testing journal, Vol. 18, no.2 (1995) 292-298.  17.	 Zhao Y., Gafar K., Elshafie M. Z. E. B., Deeks A., Knappett J., Madabhushi S., &quot;Calibration and use of a new automatic sand pourer&quot;, Physical modelling in Geotechnics, 6th ICPMG’06 (2006) 265-270.  18.	 Chian S. C., Stringer M. E., Madabhushi S. P. G., &quot;Use of automatic sand pourers for loose sand models&quot;, In Proceedings of VII international conference on physical model in geotechnics (ICPMG 2010), Zurich. Taylor &amp; Francis (2010, June) 117-121.  19.	 Stuit H. G., &quot;Sand in the geotechnical centrifuge&quot;, Doctoral dissertation, TU Delft, Delft University of Technology (1995).  20.	Garnier J., Cottineau L. M., &quot;La centrifugeuse du LCPC: moyens de préparation des modèles et instrumentation&quot;, In Proc. Centrifuge, Vol. 88 (1988) 83-90.  21.	 Portugal J. C., &quot;Modelação física com centrifugadora&quot;, PhD Thesis, Universidade Técnica de Lisboa: Instituto Superior Técnico, Lisboa (1999).  22.	 Oliveira F., Freitas A., Morais P., Mendes B., Carvalho A. T., Serra J. B., &quot;A Travelling Sand Pluviator to Reconstruct Large Soil Specimens&quot;, 15th International Conference on Experimental Mechanics (2012). 23.	 Vaid Y. P., Negussey D., &quot;Relative density of pluviated sand samples&quot;, Soils and Foundations, Vol. 24, no.2 (1984) 101-105.  24.	 Bellotti R., Ghionna V. N., Morabito P., &quot;Uniformity tests in calibration chamber samples by the thermal probe method&quot;, Geotechnical Testing Journal, Vol.14. no.2 (1991). 25. Borden, R. H., &quot;Boundary displacement induced by DMT penetration&quot;, In Proceedings of the First International Symposium on Calibration Chamber Testing/ISOCCT1, An-Bin Huang, Ed., Potsdam, New York (1991) 101-118. ##1.	Miura S., Toki S., &quot;A sample preparation method and its effect on static and cyclic deformation-strength properties of sand&quot;, Soils and Foundations, Vol. 22, no. 1 (1982) 61-77.  2.	Kuerbis R., Vaid Y. P., &quot;Sand sample preparation-the slurry deposition method&quot;, Soils and Foundations, Vol. 28, no. 4 (1988) 107-118.  3.	Lo Presti D. C. F., Pedroni S., Crippa, V., &quot;Maximum dry density of cohesionless soils by pluviation and by ASTM D 4253-83: A comparative study&quot;, ASTM geotechnical testing journal, Vol. 15, no. 2 (1992) 180-189. 4.	Boushehrian J. H., Hataf N., &quot;Experimental and numerical investigation of the bearing capacity of model circular and ring footings on reinforced sand&quot;, Geotextiles and Geomembranes, Vol. 21, no. 4 (2003) 241-256.  5.	عطارزاده ع.، قنبری ع.، حمیدی ا.، &quot;بررسی ظرفیت باربری پی‌های سطحی مجاور شیب‌های ماسه‌ای با مدل آزمایشگاهی&quot;، نشریG زمین‌شناسی مهندسی دانشگاه خوارزمی، جلد 9، شماره 1 (1394).‎ 6.	محمدی د.، اجل لوئیان ر.، &quot;بررسی مطلوبیت روش بارش ماسه برای نمونه‌سازی خاک‌های ماسه‌ای در مدل‌های آزمایشگاهی&quot;، نشریه عمران مدرس، دورۀ 14، شمارۀ 4 (1392). 7.	Lo Presti D. C., Berardi R., Pedroni S., Crippa V. &quot;A new traveling sand pluviator to reconstitute specimens of well-graded silty sands&quot;, Geotechnical Testing Journal, Vol.16 (1993) 18-26.  8.	Lagioia R., Sanzeni A., Colleselli F., &quot;Air, water and vacuum pluviation of sand specimens for the triaxial apparatus&quot;, Soils and foundations, Vol. 46, no. 1 (2006) 61-67.  9.	Dave T. N., Dasaka S. M., &quot;Assessment of portable traveling pluviator to prepare reconstituted sand specimens&quot;, Geomechanics and Engineering, Vol. 4, no.2 (2012) 79-90. 10.	 Brandon T. L., Clough G. W., Rahardjo, P. P., &quot;Fabrication of silty sand specimens for large and small scale tests&quot;, Geotechnical Testing Journal, Vol.14, no.1 (1991) 46-55.  11.	 Choi S. K., Lee M. J., Choo H., Tumay M. T., Lee W., &quot;Preparation of a large size granular specimen using a rainer system with a porous plate&quot;, ASTM geotechnical testing journal, Vol. 33, no. 1 (2010) 45-54.  12.	 Gade V. K., Dasaka S. M., &quot;Development of a Mechanized Traveling Pluviator to Prepare Reconstituted Uniform Sand Specimens&quot;, Journal of Materials in Civil Engineering (2015) 04015117. 13.	 Rad N. S., Tumay M. T., &quot;Factors affecting sand specimen preparation by raining. Geotechnical Testing Journal&quot;, Vol. 10, no. 1 (1987) 31-37.  14.	 Cresswell A., Barton M. E., Brown R., &quot;Determining the maximum density of sands by pluviation&quot;, ASTM geotechnical testing journal, Vol. 22, no.4 (1999) 324-328. 15.	 Camenen J. F., Cavarretta I., Hamlin S., Ibraim E., &quot;Experimental and numerical assessment of a cubical sample produced by pluviation&quot;, Géotechnique Letters, Vol. 3 (2013) 44-51.  16.	 Fretti C., Lo Presti D. C. F., Pedroni S., &quot;A pluvial deposition method to reconstitute well-graded sand specimens&quot;, ASTM geotechnical testing journal, Vol. 18, no.2 (1995) 292-298.  17.	 Zhao Y., Gafar K., Elshafie M. Z. E. B., Deeks A., Knappett J., Madabhushi S., &quot;Calibration and use of a new automatic sand pourer&quot;, Physical modelling in Geotechnics, 6th ICPMG’06 (2006) 265-270.  18.	 Chian S. C., Stringer M. E., Madabhushi S. P. G., &quot;Use of automatic sand pourers for loose sand models&quot;, In Proceedings of VII international conference on physical model in geotechnics (ICPMG 2010), Zurich. Taylor &amp; Francis (2010, June) 117-121.  19.	 Stuit H. G., &quot;Sand in the geotechnical centrifuge&quot;, Doctoral dissertation, TU Delft, Delft University of Technology (1995).  20.	Garnier J., Cottineau L. M., &quot;La centrifugeuse du LCPC: moyens de préparation des modèles et instrumentation&quot;, In Proc. Centrifuge, Vol. 88 (1988) 83-90.  21.	 Portugal J. C., &quot;Modelação física com centrifugadora&quot;, PhD Thesis, Universidade Técnica de Lisboa: Instituto Superior Técnico, Lisboa (1999).  22.	 Oliveira F., Freitas A., Morais P., Mendes B., Carvalho A. T., Serra J. B., &quot;A Travelling Sand Pluviator to Reconstruct Large Soil Specimens&quot;, 15th International Conference on Experimental Mechanics (2012). 23.	 Vaid Y. P., Negussey D., &quot;Relative density of pluviated sand samples&quot;, Soils and Foundations, Vol. 24, no.2 (1984) 101-105.  24.	 Bellotti R., Ghionna V. N., Morabito P., &quot;Uniformity tests in calibration chamber samples by the thermal probe method&quot;, Geotechnical Testing Journal, Vol.14. no.2 (1991). 25. Borden, R. H., &quot;Boundary displacement induced by DMT penetration&quot;, In Proceedings of the First International Symposium on Calibration Chamber Testing/ISOCCT1, An-Bin Huang, Ed., Potsdam, New York (1991) 101-118.  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>تزریق‌پذیری خاک ماسه‌ای به‌وسیلۀ دوغاب بنتونیت</TitleF>
+		<TitleE>Permeability of Sand with Bentonite Slurry</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>در مقاله حاضر نتایج پژوهش&#8204;ای آزمایشگاهی در خصوص مقدار نفوذپذیری دوغاب بنتونیت در داخل ماسه تمیز ارائه شده است. وجود خاک رس بنتوینت در بافت خاک به&#8204;واسطۀ تزریق آن در ماسه، منجر به تغییر در خصوصیات مکانیکی و هیدرولیکی ماسه می&#173;شود. در این تحقیق با استفاده از دستگاه تزریق و با تغییر فشار نفوذ، دوغاب بنتونیت با غلظت&#8204;های مختلف در داخل ماسه با دانه&#8204;بندی مختلف تزریق شده است و تغییرات طول نفوذ دوغاب بحث و بررسی شده است. بر پایۀ آزمایش&#8204;های انجام شده، مقدار نفوذ در&#160; فشارهای ثابت با دانه&#8204;بندی رابطۀ مستقیم و خطی دارد. مقدار غلظت بنتونیت در دوغاب تزریقی نیز به&#8204;واسطۀ افزایش غلظت و هم&#8204;چنین تأثیر ویسکوزیته نمونه از عوامل مهم دیگری در تعیین طول نفوذ دوغاب در ماسهاست. البته می&#8204;توان با افزایش فشار تزریق تأثیر افزایش غلظت بنتونیت را جبران کرد و دوغاب را تا عمق مورد نظر تزریق کرد. از جمله عوامل تأثیرگذار دیگر در طول نفوذ دوغاب، سطح مخصوص و ظرفیت تبادل کاتیونی ماده تزریق&#8204;شونده است. با مقایسه تزریق دوغاب کائولینیت در ماسه مشاهده شد هرچه مقدار سطح مخصوص و ظرفیت تبادل کاتیونی ماده تزریقی کاهش یابد مقدار نفوذ دوغاب در ماسه افزایش پیدا می&#8204;کند.
+&#160;</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>./files/site1/files/7.pdfExtended Abstract
+(Paper pages 299-318)
+Introduction 
+Bentonite has been used industrially in various construction projects. This material is used, due to its limited hydraulic conductivity, in some cases such as landfill, sealing walls and nuclear waste disposal tanks. Recently, many researchers have investigated the use of bentonite slurry systems for injection into granular soils under static and dynamic loading conditions in order to improve soil engineering performance. In this condition, bentonite slurry is deposited in a loose soil with low pressure and without disturbance in the structure of the soil under injection. Due to the nature of the thixotropy of the bentonite slurry, the injected material is deposited in the form of gel structures in the soil and leads to increasing soil resistance to static and dynamic loads. For suitable soil engineering properties in granular soil, the use of concentrated bentonite slurry is appropriate; high concentrations will limit the penetration of bentonite due to low soil permeability. In order to overcome this limitation, slurry rheological properties such as viscosity must be corrected in order to increase the depth of sand penetration. Other researchers observed that with the reduction of viscosity in the cement slurry with micro-size particles, the amount of its penetration in the sand column significantly increased.
+In present paper, due to the lack of studies on the penetration rate of bentonite in sand and also the effective role of bentonite in the mechanical properties of sandy soils, the permeability of sandy soils by bentonite under the influence of change factors such as concentration of bentonite in injection suspension were investigated.
+Material and Methods
+In the present study, Firoozkooh sand samples with the traditional names of 131, D11 and D1 were used for testing. Different concentrations of bentonite slurry which is used in this study are 3, 5 and 7% of the bentonite to water ratio.
+Figure 1 shows the location of the reading of the penetration length and Figure 2 shows variations in the length of infiltration against time for different heights of the pressure head.
+
+
+Figure 1. The reading point of the penetration length in the sample
+
+
+Figure 3 shows the variations of penetration length versus pressure heads for samples with a relative density of 70% at concentrations of bentonite slurry of 3, 5 and 7% in different aggregates. It can be stated that while the concentration of bentonite to water increases, the longitudinal penetration of the injected substance into the sample is reduced. For example, in sand 131 with Dr=70% the penetration value at a pressure head of 130 cm for suspension containing 3% bentonite slurry is 100 cm. The same values for samples containing 5% and 7% bentonite are 45 and 20 cm respectively. This is due to the increase in the presence of bentonite slurry (solid substance) in the suspension. The greater amount of solids inside the suspension causes the greater contact between sand grains with solid particles of suspensions. As a result, it causes increasing friction for longitudinal motion. Therefore, with increasing the concentration of suspension the length of its movement in the soil is reduced. Also, due to the increased viscosity of the injectable substance with increasing the amount of bentonite, the forward movement of the suspension under constant pressure is reduced. This is another important parameter that leads to a reduction in the length of the injection by increasing the concentration of the bentonite slurry.
+&#160;It is also observed that the variation of penetration in higher concentrations is less than the low concentration. For example, in sand D1 (coarse sand) at a pressure height of 100 cm, the penetration rate at a concentration of 5% increases by 35% compared to a concentration of 3% and at a concentration of 7% increases by 300% compared to the sample containing 3% bentonite. This indicates that at less than 5% concentration the presence of bentonite in the sample is less effective, and the suspension can be more easily move between the pores. This result indicates that by reducing the pores inside the sand, the effect of changing to the suspension concentration is reduced.&#160;
+
+
+Figure 3. Penetration length versus pressure level for specimens with a Dr=70% in concentrations of bentonite of 3, 5 and 7% in different aggregates; a) fine sand (sand 131); b) moderate sand (sand D11); c) coarse sand (sand D1)
+
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>299</FPAGE>
+			<TPAGE>318</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>امیر</Name>
+				<MidName></MidName>
+				<Family>نوری</Family>
+				<NameE>Amir</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Noori</FamilyE>
+				<Organizations>
+				<Organization></Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه بین‌المللی امام خمینی (ره)</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>رضا</Name>
+				<MidName></MidName>
+				<Family>ضیایی مؤید</Family>
+				<NameE>Reza</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Ziaie Moayed</FamilyE>
+				<Organizations>
+				<Organization></Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه بین‌المللی امام خمینی (ره)</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>ziaie@eng.ikiu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>محمود</Name>
+				<MidName></MidName>
+				<Family>حسنلوراد</Family>
+				<NameE>Mahmud</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Hassanlourad</FamilyE>
+				<Organizations>
+				<Organization></Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه بین‌المللی امام خمینی (ره)</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>تزریق</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>بنتونیت</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>نفوذپذیری</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ماسه فیروزکوه</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1.	حسنلوراد محمود، صرافی‌یگانه آرش، ”بررسی قابلیت تزریق‌پذیری خاک ماسه‌ای با دوغاب شیمیایی سیلیکات سدیم“ مجلۀ علمی پژوهشی امیر کبیر، شمارۀ 45 (1392). 2.	مانشتی محسن، شریفی‌پور محمد، ”مطالعه آزمایشگاهی اصلاح خواص فیزیکی خاک‌های ماسه‌ای به‌وسیلۀ تزریق بنتونیت و نانورس&quot; پایان‌نامۀ کارشناسی ارشد، دانشگاه رازی (1392). 3.	صدقیانی محمدحسین، نصر محمد، &quot;بررسی اثر غلظت بر نفوذپذیری و رفتار مکانیکی و فیزیکی ماسه تزریق شده با دوغاب سیلیکاتی&quot; چهارمین کنگره ملی مهندسی عمران، (1387). 4.	ضیایی‌مؤید رضا، کمال زارع، &quot;اصلاح مشخصات فیزیکی خاک‌های رمبنده (بررسی موردی: راه آهن تهران- سمنان)&quot;، زمین شناسی مهندسی، شمارۀ2، (1394) 2869-2890. 5.	نوری‌امیر، اوحدی وحیدرضا، ”تأثیر آلاینده‌های فلز سنگین در خصوصیات مکانیکی بنتونیت تحت اثر نانورس“ پایان‌نامۀ کارشناسی ارشد، دانشگاه بو علی سینا همدان (1387). 6.	Army Corps of Engineers, &quot;Engineer Manual, Chemical Grouting&quot;, EM 1110-1-3500 (1995). 7.	Bell F. G., &quot;Engineering Treatment of soils&quot;, E&amp;FN Spon, London (1993) 10-160. 8.	Chadi S., El Mohtar, a Jisuk Yoon, b May El-Khattabc, &quot;Experimental study on penetration of bentonite grout through granular soils&quot;, Canadian Geotechnical Journal (2015).  9.	El Mohtar C., Bobet A., Santagata M., Drnevich V., Johnston, C., &quot;Liquefaction mitigation using bentonite suspensions&quot;, J. Geotech. Geoenviron. Eng. 139 (2013) 1369-1380. 10.	 El Mohtar C. S., Clarke J. P., Bobet A., Santagata M., Drnevich V., Johnston C., &quot;Cyclic response of a sand with thixotropic pore fluid. In&quot;, Proceedings of Geotechnical Earthquake Engineering and Soil Dynamics Congress, Sacramento CA (2008). 11.	 Huang Y., Zhuoqiang W., &quot;Recent developments of soil improvement methods for seismic liquefaction mitigation&quot;, Nat Hazards (2015) 1927-1938. 12.	 Herndon J., Lenahan T., &quot;Grouting in soils&quot;, Design and Operations Manual, Federal Highway Administration, Halliburton Services, Duncan, Oklahoma, Technical Report, Vol. 2 (1976). 13.	 Incecik M., Ceren I., &quot;Cement grouting model tests&quot;, Bulletin of The technical University of Istanbul, Istanbul, Vol. 48, No. 2 (1995) 305-317. 14.	 Kazemain S., Huat B. B. K., &quot;Assessment and comparison of grouting and injection methods in geotechnical engineering&quot;, Eur. J. Sci. Res. 27(2) ((2009)) 234-247. 15.	 Rugg D. A., Yoon J., Hwang H., El Mohtar C. S., &quot;Undrained shearing properties of sand permeated with a bentonite suspension for static liquefaction mitigation&quot;, In Proceedings of the Geofrontiers, Dallas, TX, (2011) 677–686. 16.	 Santagata M. C., Santagata E., &quot;Experimental investigation of factors affecting the injectability of microcement grouts&quot;, In Proceedings of the 3rd International Specialty Conference on Grouting and Ground Treatment, ASCE (2003) 1221-1234. 17.	Sauzeat E., Guillaume D., Neaman A., Dubessy J., Franc¸ois M., Pfeiffert C.,Pelletier M., Ruch R., Barres O., Yvon J., Ville´ras F. et Cathelineau M., &quot;Caracte´risation mine´ralogique, cristallochimique et texturale de l’argile MX80&quot;, Rapport ANDRA No. CRP0ENG 01-001 (2001) 82. 18.	 Seed, H. B., Lee K. L. &quot;Liquefaction of saturated sands during cyclic loading&quot;, J. Soil Mech. and Found. Div., 92 (6) (1966). 105-134. 19.	Yoon J., El Mohtar C. S., &quot;Dynamic rheological properties of sodium phyrophosphate modified bentonite suspensions for liquefaction mitigation&quot;, Clays Clay Miner, 61(4) (2013) 319-327. 20.	Yoon J., El Mohtar C. S., &quot;Groutability of Granular Soils Using Bentonite Grout Based on Filtration Model&quot;, Transp Porous Media (2014). ##1.	حسنلوراد محمود، صرافی‌یگانه آرش، ”بررسی قابلیت تزریق‌پذیری خاک ماسه‌ای با دوغاب شیمیایی سیلیکات سدیم“ مجلۀ علمی پژوهشی امیر کبیر، شمارۀ 45 (1392). 2.	مانشتی محسن، شریفی‌پور محمد، ”مطالعه آزمایشگاهی اصلاح خواص فیزیکی خاک‌های ماسه‌ای به‌وسیلۀ تزریق بنتونیت و نانورس&quot; پایان‌نامۀ کارشناسی ارشد، دانشگاه رازی (1392). 3.	صدقیانی محمدحسین، نصر محمد، &quot;بررسی اثر غلظت بر نفوذپذیری و رفتار مکانیکی و فیزیکی ماسه تزریق شده با دوغاب سیلیکاتی&quot; چهارمین کنگره ملی مهندسی عمران، (1387). 4.	ضیایی‌مؤید رضا، کمال زارع، &quot;اصلاح مشخصات فیزیکی خاک‌های رمبنده (بررسی موردی: راه آهن تهران- سمنان)&quot;، زمین شناسی مهندسی، شمارۀ2، (1394) 2869-2890. 5.	نوری‌امیر، اوحدی وحیدرضا، ”تأثیر آلاینده‌های فلز سنگین در خصوصیات مکانیکی بنتونیت تحت اثر نانورس“ پایان‌نامۀ کارشناسی ارشد، دانشگاه بو علی سینا همدان (1387). 6.	Army Corps of Engineers, &quot;Engineer Manual, Chemical Grouting&quot;, EM 1110-1-3500 (1995). 7.	Bell F. G., &quot;Engineering Treatment of soils&quot;, E&amp;FN Spon, London (1993) 10-160. 8.	Chadi S., El Mohtar, a Jisuk Yoon, b May El-Khattabc, &quot;Experimental study on penetration of bentonite grout through granular soils&quot;, Canadian Geotechnical Journal (2015).  9.	El Mohtar C., Bobet A., Santagata M., Drnevich V., Johnston, C., &quot;Liquefaction mitigation using bentonite suspensions&quot;, J. Geotech. Geoenviron. Eng. 139 (2013) 1369-1380. 10.	 El Mohtar C. S., Clarke J. P., Bobet A., Santagata M., Drnevich V., Johnston C., &quot;Cyclic response of a sand with thixotropic pore fluid. In&quot;, Proceedings of Geotechnical Earthquake Engineering and Soil Dynamics Congress, Sacramento CA (2008). 11.	 Huang Y., Zhuoqiang W., &quot;Recent developments of soil improvement methods for seismic liquefaction mitigation&quot;, Nat Hazards (2015) 1927-1938. 12.	 Herndon J., Lenahan T., &quot;Grouting in soils&quot;, Design and Operations Manual, Federal Highway Administration, Halliburton Services, Duncan, Oklahoma, Technical Report, Vol. 2 (1976). 13.	 Incecik M., Ceren I., &quot;Cement grouting model tests&quot;, Bulletin of The technical University of Istanbul, Istanbul, Vol. 48, No. 2 (1995) 305-317. 14.	 Kazemain S., Huat B. B. K., &quot;Assessment and comparison of grouting and injection methods in geotechnical engineering&quot;, Eur. J. Sci. Res. 27(2) ((2009)) 234-247. 15.	 Rugg D. A., Yoon J., Hwang H., El Mohtar C. S., &quot;Undrained shearing properties of sand permeated with a bentonite suspension for static liquefaction mitigation&quot;, In Proceedings of the Geofrontiers, Dallas, TX, (2011) 677–686. 16.	 Santagata M. C., Santagata E., &quot;Experimental investigation of factors affecting the injectability of microcement grouts&quot;, In Proceedings of the 3rd International Specialty Conference on Grouting and Ground Treatment, ASCE (2003) 1221-1234. 17.	Sauzeat E., Guillaume D., Neaman A., Dubessy J., Franc¸ois M., Pfeiffert C.,Pelletier M., Ruch R., Barres O., Yvon J., Ville´ras F. et Cathelineau M., &quot;Caracte´risation mine´ralogique, cristallochimique et texturale de l’argile MX80&quot;, Rapport ANDRA No. CRP0ENG 01-001 (2001) 82. 18.	 Seed, H. B., Lee K. L. &quot;Liquefaction of saturated sands during cyclic loading&quot;, J. Soil Mech. and Found. Div., 92 (6) (1966). 105-134. 19.	Yoon J., El Mohtar C. S., &quot;Dynamic rheological properties of sodium phyrophosphate modified bentonite suspensions for liquefaction mitigation&quot;, Clays Clay Miner, 61(4) (2013) 319-327. 20.	Yoon J., El Mohtar C. S., &quot;Groutability of Granular Soils Using Bentonite Grout Based on Filtration Model&quot;, Transp Porous Media (2014).  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+</ARTICLES>
+
+</JOURNAL>
+</XML>

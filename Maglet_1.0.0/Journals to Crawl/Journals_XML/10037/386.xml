@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXDOISerialArticleWorkRegistrationMessage xmlns:cl="http://www.medra.org/DOIMetadata/2.0/Citations" xmlns="http://www.editeur.org/onix/DOIMetadata/2.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.editeur.org/onix/DOIMetadata/2.0 http://www.medra.org/schema/onix/DOIMetadata/2.0/ONIX_DOIMetadata_2.0.xsd">
+	<Header>
+		<FromCompany>Sinaweb</FromCompany>
+		<FromPerson>Sinaweb DOI</FromPerson>
+		<FromEmail>doi@sinaweb.net</FromEmail>
+		<ToCompany>mEDRA</ToCompany>
+		<SentDate>20200726</SentDate>
+		<MessageNote>DOI Registration</MessageNote>
+		<NotificationResponse>01</NotificationResponse>
+	</Header>
+
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.10.2.3379</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2276-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2276</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2276</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>10</JournalVolumeNumber>
+				<JournalIssueNumber>2</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 10, No. 2 Summer 2016</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201611</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Comparison the Different Methods of Seismic Response Analysis in Liquefiable sites against Near and Far-Field Earthquakes</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Adampira</PersonName>
+						<PersonNameInverted>Adampira, Mohammad</PersonNameInverted>
+						<NamesBeforeKey>Mohammad</NamesBeforeKey>
+						<KeyNames>Adampira</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Hamid Alielahi</PersonName>
+						<PersonNameInverted>Alielahi, Hamid</PersonNameInverted>
+						<NamesBeforeKey>Hamid</NamesBeforeKey>
+						<KeyNames>Alielahi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mehdi Panji</PersonName>
+						<PersonNameInverted>Panji, Mehdi</PersonNameInverted>
+						<NamesBeforeKey>Mehdi</NamesBeforeKey>
+						<KeyNames>Panji</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>4</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Hamid Koohsari</PersonName>
+						<PersonNameInverted>Koohsari, Hamid</PersonNameInverted>
+						<NamesBeforeKey>Hamid</NamesBeforeKey>
+						<KeyNames>Koohsari</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201611</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2016</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mohammad Adampira</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.10.2.3405</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2329-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2329</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2329</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>10</JournalVolumeNumber>
+				<JournalIssueNumber>2</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 10, No. 2 Summer 2016</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201611</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Flow analysis of the Rozieh water conveyance tunnel during the construction and operation phase using numerical simulation</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName> Ahmadzadeh</PersonName>
+						<PersonNameInverted>Ahmadzadeh, </PersonNameInverted>
+						<NamesBeforeKey></NamesBeforeKey>
+						<KeyNames>Ahmadzadeh</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>R Bagherpour</PersonName>
+						<PersonNameInverted>Bagherpour, R</PersonNameInverted>
+						<NamesBeforeKey>R</NamesBeforeKey>
+						<KeyNames>Bagherpour</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Saeed Mahdevari</PersonName>
+						<PersonNameInverted>Mahdevari, Saeed</PersonNameInverted>
+						<NamesBeforeKey>Saeed</NamesBeforeKey>
+						<KeyNames>Mahdevari</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201611</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2016</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName> Ahmadzadeh</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.10.2.3427</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2325-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2325</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2325</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>10</JournalVolumeNumber>
+				<JournalIssueNumber>2</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 10, No. 2 Summer 2016</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201611</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Investigation of position marlston in rock mass enginnering classification system,case study: Doosti Dam</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>hamed rezaiy</PersonName>
+						<PersonNameInverted>rezaiy, hamed</PersonNameInverted>
+						<NamesBeforeKey>hamed</NamesBeforeKey>
+						<KeyNames>rezaiy</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName> </PersonName>
+						<PersonNameInverted>, </PersonNameInverted>
+						<NamesBeforeKey></NamesBeforeKey>
+						<KeyNames></KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201611</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2016</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>hamed rezaiy</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.10.2.3445</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2328-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2328</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2328</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>10</JournalVolumeNumber>
+				<JournalIssueNumber>2</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 10, No. 2 Summer 2016</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201611</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>4</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Assessing Environmental Risk Caused by Zanjan’s Paverood Dam in its Construction Stage Using a combination of TOPSIS and RAM-D Methods</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>sahar rezaian</PersonName>
+						<PersonNameInverted>rezaian, sahar</PersonNameInverted>
+						<NamesBeforeKey>sahar</NamesBeforeKey>
+						<KeyNames>rezaian</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>seyed ali jozi</PersonName>
+						<PersonNameInverted>jozi, seyed ali</PersonNameInverted>
+						<NamesBeforeKey>seyed ali</NamesBeforeKey>
+						<KeyNames>jozi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>sadaf ataee</PersonName>
+						<PersonNameInverted>ataee, sadaf</PersonNameInverted>
+						<NamesBeforeKey>sadaf</NamesBeforeKey>
+						<KeyNames>ataee</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201611</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2016</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>sahar rezaian</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.10.2.3465</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2291-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2291</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2291</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>10</JournalVolumeNumber>
+				<JournalIssueNumber>2</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 10, No. 2 Summer 2016</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201611</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>5</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Sedimentology of fluvial deposits composition of Sharbyan River as raw material for hot asphalt and its optimization using hydrated lime</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>abbas zeighmi</PersonName>
+						<PersonNameInverted>zeighmi, abbas</PersonNameInverted>
+						<NamesBeforeKey>abbas</NamesBeforeKey>
+						<KeyNames>zeighmi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName> </PersonName>
+						<PersonNameInverted>, </PersonNameInverted>
+						<NamesBeforeKey></NamesBeforeKey>
+						<KeyNames></KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201611</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2016</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>abbas zeighmi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.10.2.3483</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2327-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2327</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2327</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>10</JournalVolumeNumber>
+				<JournalIssueNumber>2</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 10, No. 2 Summer 2016</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201611</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>6</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Landslide hazard zonatoin of Polroud Dam site using Analytic Hierarchical Process (AHP) method</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName> </PersonName>
+						<PersonNameInverted>, </PersonNameInverted>
+						<NamesBeforeKey></NamesBeforeKey>
+						<KeyNames></KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>M Fallah</PersonName>
+						<PersonNameInverted>Fallah, M</PersonNameInverted>
+						<NamesBeforeKey>M</NamesBeforeKey>
+						<KeyNames>Fallah</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201611</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2016</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName> </PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.10.2.3501</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2197-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2197</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2197</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>10</JournalVolumeNumber>
+				<JournalIssueNumber>2</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 10, No. 2 Summer 2016</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201611</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>7</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Experimental Investigation of Bank Angle and Grain Size ِDistribution Effects on Seepage Erosion of River Banks</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Azam Masoodi</PersonName>
+						<PersonNameInverted>Masoodi, Azam</PersonNameInverted>
+						<NamesBeforeKey>Azam</NamesBeforeKey>
+						<KeyNames>Masoodi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Reza Majdzadeh Tabatabi</PersonName>
+						<PersonNameInverted>Majdzadeh Tabatabi, Mohammad Reza</PersonNameInverted>
+						<NamesBeforeKey>Mohammad Reza</NamesBeforeKey>
+						<KeyNames>Majdzadeh Tabatabi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Ali Noorzad</PersonName>
+						<PersonNameInverted>Noorzad, Ali</PersonNameInverted>
+						<NamesBeforeKey>Ali</NamesBeforeKey>
+						<KeyNames>Noorzad</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201611</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2016</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Azam Masoodi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.10.2.3517</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2561-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2561</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2561</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>10</JournalVolumeNumber>
+				<JournalIssueNumber>2</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 10, No. 2 Summer 2016</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201611</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>8</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Optimum Design of Soil Nailed Walls Based on Deformation Criterion under Seismic Loads</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>P Naghshin</PersonName>
+						<PersonNameInverted>Naghshin, P</PersonNameInverted>
+						<NamesBeforeKey>P</NamesBeforeKey>
+						<KeyNames>Naghshin</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>H Shahir</PersonName>
+						<PersonNameInverted>Shahir, H</PersonNameInverted>
+						<NamesBeforeKey>H</NamesBeforeKey>
+						<KeyNames>Shahir</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201611</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2016</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>P Naghshin</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+	
+</ONIXDOISerialArticleWorkRegistrationMessage>
+ 
+  
+  
+  
+  
+ 

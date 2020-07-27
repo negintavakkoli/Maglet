@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-24T13:11:51Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://languagestudy.ihcs.ac.ir/?_action=export&amp;rf=summon&amp;issue=920</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زبان‌شناخت</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2099-8002</issn>
+									<issn media_type="electronic">2099-8002</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی زبانشناسانه روایتی از تلمود بابلی (قیدوشین 70 الف)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>آزاده</given_name>
+												<surname>احسانی چمبلی</surname>
+											</person_name></contributors>
+									<abstract>نوشتار حاضر در حوزه گرایش نسبتا نوین مطالعات ایرانی- تلمودی قرار می گیرد،و با بررسی یک روایت از تلمود بابلی (رساله قیدوشین 70 الف) که شامل چند واژه غیر آرامی/غیر عبری می باشد، تلاش دارد تا به یاری مطالعات واژه شناسانه، کلمه های مورد اشاره را بررسی و تحلیل نموده و به واسطه تحلیل واژگان تا حد ممکن به شناخت زبان یا زبانها و گویشهای مورد استفاده در منطقه میان رودان دوران ساسانی بپردازد. در میان واژگان مورد اشاره چند واژه پهلوی نیز وجود دارد و در مواردی تلفظ های گوناگونی از یک واژه پهلوی (تلفظ کهن و نو) نیز دیده می شود. بر پایه این پژوهش احتمال این که زبانی همانند زبان فارسی امروز (شامل وام واژگانی از زبانهای سامی، یونانی و ...) زبان میانجی در منطقه میان رودان دوران ساسانی بوده باشد بررسی می گردد</abstract>
+									<keywords>
+									
+											<keyword>تلمود بابلی</keyword>
+											<keyword>واژه شناسی</keyword>
+											<keyword>زبان فارسی</keyword>
+											<keyword>کاسه های جادویی</keyword>
+											<keyword>دوران ساسانی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>15</last_page>
+									</pages>
+										<fullTextUrl>http://languagestudy.ihcs.ac.ir/article_4984_27a57d0f17ae624a679dc610ea49944f.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زبان‌شناخت</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2099-8002</issn>
+									<issn media_type="electronic">2099-8002</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی سیر تحول خط پهلوی اشکانی بر سکه‌های درهم سیمین ضرابخانه‌یاکباتان (51-228م.)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>آمنه</given_name>
+												<surname>بیشه‌کلایی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>فرح</given_name>
+												<surname>زاهدی</surname>
+											</person_name></contributors>
+									<abstract>اشکانیان دودمانی از شاهان ایرانی بودند که 475 سال بر ایران فرمان راندند. به سبب کمبود منابع نوشتاری آن، سکه‌ها منابع بسیار سودمندی در شناخت شرایط اقتصادی، فرهنگی و هنری این دوران به شمار می‌آیند. با مطالعه بر روی سکه‌های این دوران که دارای نوشته هستند می‌توان چگونگی سیر و تحول خط آن را ارزیابی نمود. در این میان عمده سکه های با نوشته ی پهلوی اشکانی، درهم­های سیمین اشکانی ضرب اکباتان، طی سال­های 51 تا 228 میلادی می­باشند، که اهمیت مطالعه­ این درهم­ها را دو چندان می‌نماید.
+در این پژوهش سعی بر این است تا ضمن مطالعه‌ خط پهلوی اشکانی ‌شماری از درهم‌های این ضرابخانه‌ را که ضرب سال­های 51 تا 228 میلادی هستند، چگونگی سیر تحول این خط را بررسی کرده و به تحلیل آن پرداخته ‌شود. این امر با استخراج مستقیم نوشته‌ پهلوی اشکانی از روی درهم‌ها و سپس استخراج تک‌تک نویسه‌های خطی مربوط به هر سکه و تدوین جدول تغییرات زمانی نویسه‌ها امکان‌پذیر می‌گردد. با نگاه اجمالی به عمده سکه­ها درهم این ضرابخانه طی این سالیان، به نظر نمی‌رسد دست‌خط قلم‌زن دستخوش تغییر و تحولات شده باشد که این موضوع با بررسی و مقایسه‌ی تعدادی از دیگر نمونه‌های سکه‌های مورد مطالعه در این پژوهش تایید شد.</abstract>
+									<keywords>
+									
+											<keyword>خط</keyword>
+											<keyword>پهلوی اشکانی</keyword>
+											<keyword>سکه</keyword>
+											<keyword>درهم</keyword>
+											<keyword>اکباتان</keyword>
+											<keyword>نویسه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>17</first_page>
+										<last_page>44</last_page>
+									</pages>
+										<fullTextUrl>http://languagestudy.ihcs.ac.ir/article_4985_4bb66b492a1677682ee154b843c2d863.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-03-18</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زبان‌شناخت</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2099-8002</issn>
+									<issn media_type="electronic">2099-8002</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>جلوه‌های نمادگرایی در شعر نیما یوشیج دو تأویل از یک شعر: «هست شب»</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>فاطمه</given_name>
+												<surname>راکعی</surname>
+											</person_name></contributors>
+									<abstract>استفاده از نمادها در شعر فارسی، قدمتی دیرینه دارد. شعرهای نمادین (سمبولیک) در پس معنای ظاهری‌شان، معنا یا معناهایی پنهان دارند، که برای دستیابی به آن‌ها همواره تلاش‌هایی صورت گرفته است و می‌گیرد. نیما یوشیج یکی از شاعران برجسته معاصر است که تحت تأثیر شاعران سمبولیست فرانسه، نماد و نمادگرایی در شعرهایش از جای‌‌گاهی ویژه برخوردار است. به خاطر فضای اجتماعی-سیاسی بسته‌ی حاکم بر عصر نیما، به ویژه از 1316 به بعد، وی با توسل به نمادها کوشیده است تا معانی و پیام‌هایی را به خواص منتقل کند، که عوام از درک آن عاجزند.
+شعر «هست شب» یکی از شعرهای نمادینِ آخرین سال‌های عمر نیماست که به لحاظ ساخت‌مندی و استفاده از نمادهای «شب»، «ابر» «باد» و «هوا»، که از نمادهای طبیعی جا افتاده و شناخته‌شده در شعرهای نیما هستند، فضاهایی نمادین را در خود نهفته دارد. یافته‌های هرمنوتیک جدید می‌تواند تأویل‌گران را در کشف این معانی یاری دهد. نگارنده در این مقاله، بر اساس روش‌های هرمنوتیک جدید، دو تأویل ممکن از شعر «هست شب» نیما یوشیج ارائه داده است.</abstract>
+									<keywords>
+									
+											<keyword>نماد</keyword>
+											<keyword>نمادگرایی</keyword>
+											<keyword>تأویل</keyword>
+											<keyword>نیما یوشیج</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>03</month>
+										<day>18</day>
+									</publication_date>
+									<pages>
+										<first_page>45</first_page>
+										<last_page>65</last_page>
+									</pages>
+										<fullTextUrl>http://languagestudy.ihcs.ac.ir/article_4986_ea016d73cedc7589ac33e7b5906790cc.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-03-05</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زبان‌شناخت</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2099-8002</issn>
+									<issn media_type="electronic">2099-8002</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی آرایش سازه‌های متن سغدی داستان دو مار</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>زهره</given_name>
+												<surname>زرشناس</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>صابونچی</surname>
+											</person_name></contributors>
+									<abstract>&lt;em&gt;  داستان دو مار &lt;/em&gt;متنی به زبان سغدی است که تمثیلی دربارۀ باورهای مانوی را نقل می­کند. این متن به علّت داشتن ساختار زبانی سالم­ در میان متون سغدی مانوی، برای بررسی رده­شناختیِ آرایش سازه مناسب تشخیص داده ­شد. رده­شناسیِ آرایش سازه­ها، زبان­ها را بر مبنای ترتیب و نحوۀ قرارگرفتن سازه­ها کنار هم در جمله بررسی، مطالعه و دسته­بندی می­کند. چارچوب نظری برگزیده برای تحلیل آرایش سازه­ها این متن، نظریۀ «سوی انشعاب» درایر است. درایر، نخست، برای تبین رابطۀ سازه­های هم­الگو با فعل و مفعول، نظریۀ «هسته و وابسته» (HDT) را و سپس با مورد انتقاد قراردادن آن، نظریۀ جایگزین «سوی انشعاب» (BDT) را مطرح کرد. بر مبنای نظریۀ (BDT)، سازۀ هم­الگو با فعل مقولۀ «غیرگروهی (غیرانشعابی)» و سازۀ هم­الگو با مفعول مقولۀ «گروهی (انشعابی)» است، بنابراین دو وضعیت، بنا به سوی انشعاب برای زبان­ها در نظرگرفته­می­شود: راست­انشعابی و چپ­انشعابی. در بررسی این متن 28 مؤلفه بر پایۀ جفت­عنصرهای درایر&lt;em&gt; &lt;/em&gt;و مؤلفه­های 24­گانه دبیرمقدم معیار قرار گرفت. بر اساس این 28 مؤلفه 378 جفت­عنصر یافت شد که 199 جفت­عنصر، «چپ­انشعابی» و 179 جفت­عنصر، «راست­انشعابی» بودند. بر این اساس آرایش سازه­ها در این متن گرایش به سوی «چپ­انشعابی» دارند.</abstract>
+									<keywords>
+									
+											<keyword>سغدی</keyword>
+											<keyword>آرایش سازه</keyword>
+											<keyword>جفت‌عنصر</keyword>
+											<keyword>انشعاب</keyword>
+											<keyword>چپ-انشعابی</keyword>
+											<keyword>راست‌انشعابی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>03</month>
+										<day>05</day>
+									</publication_date>
+									<pages>
+										<first_page>67</first_page>
+										<last_page>91</last_page>
+									</pages>
+										<fullTextUrl>http://languagestudy.ihcs.ac.ir/article_4987_b56bb50406cb2a606673d0fbf422d4c5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زبان‌شناخت</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2099-8002</issn>
+									<issn media_type="electronic">2099-8002</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ریختارشناسی داستان و فراقواعد آن</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حسین</given_name>
+												<surname>صافی پیرلوحه</surname>
+											</person_name></contributors>
+									<abstract>&lt;em&gt;پی­آیند روایت در همه­ی آثار داستانی تا اندازه­ای قابل پیش­بینی است. کمتر پیش می­آید که خواننده از همان آستانه­ی متن با جهان داستان هم­بوم نشود، و از شرح ماوقع به گمانه­زنی درباره­ی پیش­آمدهای قریب­الوقوع داستان نیفتد.&lt;/em&gt;&lt;em&gt; حدود این گمانه­زنی را اما انتظارات برحقی تعیین می­کند که از &lt;strong&gt;ریختارشناسی &lt;/strong&gt;متن روایی در نظر خواننده نقش می­بندد. منظور از ریختارشناسی در این­جا استقرای مضامین متن از سازه­های آن است که با نگاهی پیشینی به فرجام داستان صورت می­گیرد. از این نظر، &lt;/em&gt;&lt;em&gt;خوانش داستان را می­توان تابعی از «کارکرد اتوپیایی فهم» در &lt;/em&gt;&lt;em&gt;حرکتی معطوف به افق پیشاروی خواننده &lt;/em&gt;&lt;em&gt;دانست؛&lt;/em&gt;&lt;em&gt; افقی که خود قبلاً بنابر مفروضات خواننده پیش­پیکربندی شده و دائماً به پشتوانه­ی همین مفروضات بازتولید می­شود. &lt;/em&gt;&lt;em&gt;حال، مسئله این است که در پیشرفتی چنین پس­نگر چگونه می­توان کارکرد اتوپیایی فهم را تبیین کرد؟ هدف از مقاله­ی حاضر، تبیین این کارکرد و کاربست مبانی آن در خوانش داستان­های نوین فارسی است. &lt;/em&gt;</abstract>
+									<keywords>
+									
+											<keyword>(پیش)پیکربندی داستان</keyword>
+											<keyword>ریختارشناسی داستان</keyword>
+											<keyword>افق انتظارات</keyword>
+											<keyword>هرمنوتیک اتوپیایی</keyword>
+											<keyword>داستان-هاینوین فارسی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>93</first_page>
+										<last_page>109</last_page>
+									</pages>
+										<fullTextUrl>http://languagestudy.ihcs.ac.ir/article_4988_71098e9f5a1e52073b6dde33147e58bf.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زبان‌شناخت</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2099-8002</issn>
+									<issn media_type="electronic">2099-8002</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>محمول صفتی در زبان فارسی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>ازاده</given_name>
+												<surname>میرزایی</surname>
+											</person_name></contributors>
+									<abstract>در ارتباط با نقش محمولی صفت در جایگاه پیش از فعل‌های «بودن» و معادل‌های آن، دو رویکرد عمده وجوددارد؛ یک دیدگاه صفت را در این جایگاه، جزء غیرفعلیِ فعل مرکب می‌داند و رویکرد دیگر آنرا مسند فرض‌می‌کند. بررسی رفتارصفت‌ها در پیکرۀ وابستگی نحوی زبان فارسی و پیکرۀ گزاره‌های معنایی زبان فارسی نشان‌می‌دهد، صفاتی که در جایگاه پیش از فعل‌های «بودن» و معادل‌های آن قرارمی‌گیرند، به طور کلی به دو دسته تقسیم‌می‌شوند، 1-صفت‌هایی که ساخت ظرفیتی دارند و به اصطلاح می‌توان آنها را محمول صفتی نامید و 2-صفت‌هایی که ساخت ظرفیتی ندارند. فرض این پژوهش بر این است که تنها صفت‌های گروه دوم مسند هستند. در این پژوهش برای اثبات این ادعا از دو آزمون جایگزینی و همپایه‌سازی در تشخیص سازه‌های جملهاستفاده‌شده‌است. نقش معنایی فاعل در جملات حاوی این گروه از صفت‌هاو استناد به فهرست افعال مرکب زبان فارسی، شواهدی دیگری هستند که بر اساس آنها می‌توان بر درستی فرضیۀ این پژوهش صحه گذاشت.بر این اساس از حدود یازده هزار مسند‌ گزارش‌شده در پیکرۀ وابستگی نحوی زبان فارسی، نیمی از آنها باید به عنوان جزء فعلی فعل مرکب درنظر گرفته شوند.</abstract>
+									<keywords>
+									
+											<keyword>صفت</keyword>
+											<keyword>مسند</keyword>
+											<keyword>محمول</keyword>
+											<keyword>فعل مرکب</keyword>
+											<keyword>زبان فارسی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>111</first_page>
+										<last_page>125</last_page>
+									</pages>
+										<fullTextUrl>http://languagestudy.ihcs.ac.ir/article_4989_0ad11ce7268d822b3cc9cb199d40b1b9.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-11-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زبان‌شناخت</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2099-8002</issn>
+									<issn media_type="electronic">2099-8002</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی مقابله‌ای اصطلاحاتِ حاویِباورها و نشانه‌های مذهبی در زبان‌هایاسپانیایی و فارسی، با رویکرد زبان‌شناسیِ‌انسان‌‌شناختی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>تورج</given_name>
+												<surname>حسامی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>آزیتا</given_name>
+												<surname>افراشی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>زهرا</given_name>
+												<surname>ابوالحسنی چیمه</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>بئاتریس کریستینا</given_name>
+												<surname>سالاس رفیعی</surname>
+											</person_name></contributors>
+									<abstract>پژوهش حاضر به بررسی مقابله‌ایِ نحوه‌ی اصطلاح‌سازی، در زبان‌های اسپانیایی و فارسی، بر مبنای تأثیرپذیری از باورها و نشانه‌های مذهبی، در چارچوبِرویکردِ بینارشته‌ایِ زبان‌شناسیِ انسان‌شناختی پرداخته است. در این رویکرد، بیش از هر چیز به مباحث فرهنگی و تأثیرپذیری زبان از فرهنگ اهمیت داده می‌شود. از آنجا که «اصطلاح» بخشی جدایی‌ناپذیر از فرهنگ عامّه است، نگارندگان بر آن شدند تا به روشی تحلیلی-تطبیقی، پنجاه اصطلاح زبان اسپانیایی را که حاوی نشانه‌‌ها و باورهای مذهبی هستند رو‌در‌روی معادل‌ فارسی‌شان قراردهند تا از این طریق، تأثیر مباحث فرهنگی را در نحوه‌ی اصطلاح‌سازیِفارسی‌ و اسپانیایی‌زبان‌ها، از یک مفهوم مشترک، مورد بررسی قراردهند. بر اساس نتایج این پژوهش، در دو زبان اسپانیایی و فارسی، اصطلاح‌سازی از یک مفهوم مشترک بر پایه‌ی باورها و نشانه‌های مذهبی، از یک سو، به سمت تشابه و از سوی دیگر به سمت تفاوت متمایل است. به این مفهوم که از آنجا که هر دو زبان در جامعه‌ای مذهبی نضج گرفته‌اند، برای اصطلاح‌سازی از یک مفهومِ واحد، مشترکاً از حوزه‌ی نشانه‌ها و باورهای مذهبی بهره‌گرفته‌اند، ولی از آنجا که در جامعه‌ی اسپانیایی‌زبان، مذهب کاتولیسیسم و در جامعه‌ی فارسی‌زبان، مذهب تشیّع رواج دارد؛ دو زبان، در انتخاب مصادیقِ این حوزه، متفاوت از یکدیگر عمل کرده‌اند.</abstract>
+									<keywords>
+									
+											<keyword>اصطلاح</keyword>
+											<keyword>زبان‌شناسیِ انسان‌شناختی</keyword>
+											<keyword>فرهنگ</keyword>
+											<keyword>باورها و نشانه‌های مذهبی</keyword>
+											<keyword>بررسی مقابله‌ای</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>11</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>30</last_page>
+									</pages>
+										<fullTextUrl>http://languagestudy.ihcs.ac.ir/article_5063_9590353986e16b119955107e5daf760a.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-03-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زبان‌شناخت</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2099-8002</issn>
+									<issn media_type="electronic">2099-8002</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تاثیرپذیری واژگانی زبان مندایی از زبان‌های رایج در خوزستان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>یحیی</given_name>
+												<surname>مدرسی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سهیلا</given_name>
+												<surname>احمدی</surname>
+											</person_name></contributors>
+									<abstract>مقاله حاضر به بررسی تاثیرپذیری واژگانی زبان مندایی نوین­ گونۀ اهوازی از زبان­های رایج در خوزستان پرداخته است. در این بررسی از دو روش میدانی و اسنادی با استفاده از ضبط داده­ها از گویندگان بومی مندایی نوین و کنترل داده­ها در فرهنگ زبان مندایی استفاده شده است. با بررسی داده­ها مشاهده شد که زبان مندایی بیشترین میزان واژه­های قرضی را از زبان فارسی به عنوان زبان معیار کشور ایران و زبان عربی به عنوان زبان رایج بخشی از مردم منطقه داراست و این واژه­ها در روند انتقال از زبان مبداء به زبان مندایی دچار تحولات آوایی نسبتا قابل ملاحظه و تحولات معنایی محدودی شده­اند و بیشترین میزان این واژه­ها را در حوزه معنایی ابزار واشیاء مورد استفاده در زندگی روزمره شاهد هستیم.</abstract>
+									<keywords>
+									
+											<keyword>زبان مندایی</keyword>
+											<keyword>برخورد زبانی</keyword>
+											<keyword>قرض‌گیری</keyword>
+											<keyword>تحولات آوایی</keyword>
+											<keyword>تحولات معنایی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>03</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>15</last_page>
+									</pages>
+										<fullTextUrl>http://languagestudy.ihcs.ac.ir/article_5064_979086b715a4d9c9af787ede4a427a9e.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-03-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زبان‌شناخت</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2099-8002</issn>
+									<issn media_type="electronic">2099-8002</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>پیشنهادی درباره ی قرائت علامت اختصاری GWDAN برروی سکه های عرب ساسانی و شناسایی محل ضرب این سکه ها</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مریم</given_name>
+												<surname>انصاری</surname>
+											</person_name></contributors>
+									<abstract>ویرانه های به جا مانده در سر مشهد نشان دهنده شهری بزرگ مدفون شده ساسانی ـ اسلامی است. در سال ۱۹۷۹ ویتکام ( Whitcomb) موفق به شناسایی ویرانه های شهر باستانی غندیجان در جنوب کازرون و در مسیر تاریخی شیراز به توج نایل گردید. امروز به طور قطع مشخص است که غندیجان همان سر مشهد امروزی است که در ۸۴ کیلومتری جنوب کازرون است. با توجه به آثار باقی مانده از این محوطه باستانی به نظر می رسد که این شهر در دوران ساسانی از رونق زیادی برخوردار بوده است و در اوایل دوره اسلامی یعنی قرن دوم و سوم از رونق آن کاسته و در قرن هفتم و هشتم از سکنه خالی شده است.
+هدف از نوشتن این مقاله ارائۀ قرائتی برای علامت اختصاری GWDAN  منقور بر روی تعدادی از سکه های عرب ساسانی متعلق به خلیفه عمربن عبیدالله بن معمر ضرب شده، می باشد. این علامت اختصاری اگر به صورت  GNDAN خوانده شود می تواند با توجه به شواهد زبانشناسی و باستانشناسی با شهر باستانی غندیجان که در ایالت پارس و درنزدیکی شهر توج واقع شده انطباق داده شود.
+ </abstract>
+									<keywords>
+									
+											<keyword>سکه</keyword>
+											<keyword>ساسانیان</keyword>
+											<keyword>عرب ـ ساسانی</keyword>
+											<keyword>پهلوی</keyword>
+											<keyword>غندجان</keyword>
+											<keyword>عمربن عبیدالله معمر</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>03</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>21</last_page>
+									</pages>
+										<fullTextUrl>http://languagestudy.ihcs.ac.ir/article_5065_33777d3cb0dc8281d606daa4b3deded5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-03-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زبان‌شناخت</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2099-8002</issn>
+									<issn media_type="electronic">2099-8002</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>رستم، سرباز مهر</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محسن</given_name>
+												<surname>نظری فارسانی</surname>
+											</person_name></contributors>
+									<abstract>مجموعه روایت‌هایی که درحماسه ملّی ایران،شاهنامه، بیان شده‌اند به سه دورة عمدة اساطیری، حماسی و تاریخی تقسیم شده‌اند.رستم بزرگ‌ترین پهلوان دورة حماسی شاهنامهاست. کار برجستة او حمایت و پاسداری از شهریاری ایران است.گرچه دربارة ابعاد مختلف این شخصیت ژرف و پهلوان محبوب ایرانیان پژوهش‌های ارزشمند پرشماری انجام شده است، هنوز ابهامات و پرسش‌هایی در خصوص برخی ویژگی‌هایشخصیتی رستم، معنی نام او، برخی از صفات او، و همچنین بعضی از ابزارهایش وجود دارد. در مقالة حاضر به شخصیت و برخی اعمال رستم از دید زبانی و اسطوره‌ای و حماسی می‌نگریم، و با توجه به این که رستم سکایی است، و در شاهنامه به این نکته تصریح شده است، نام این پهلوان و صفت «تاج‌بخش» و تن‌پوش موسوم به «ببر بیان» او را بر اساس گنجینة واژگانی زبان سکایی بررسی می‌کنیم.همچنین نشان می‌دهیم که رستم نه با ایندره و اپام نپات، بلکه پیوند نزدیکی با ایزد میثره دارد.</abstract>
+									<keywords>
+									
+											<keyword>:رستم</keyword>
+											<keyword>مهرپرستی</keyword>
+											<keyword>زبان سکایی</keyword>
+											<keyword>تاج‌بخش</keyword>
+											<keyword>ببر بیان</keyword>
+											<keyword>سکیسران</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>03</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>19</last_page>
+									</pages>
+										<fullTextUrl>http://languagestudy.ihcs.ac.ir/article_5066_297d529c3a80f6730167d574485dc96e.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-03-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زبان‌شناخت</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2099-8002</issn>
+									<issn media_type="electronic">2099-8002</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>چگونگی و ساختارهای بر تخت نشستن زنان فرمانروا در ایران باستان (550 پ.م.-651 م.)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>الهام</given_name>
+												<surname>استادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>کتایون</given_name>
+												<surname>مزداپور</surname>
+											</person_name></contributors>
+									<abstract>زن به‌عنوان جنسیتی منفرد با شایستگی‌ها و ویژگی‌های مختص خود همواره موضوع پژوهش‌های مختلف بوده و در طول تاریخ، نگاه جوامع به او دستخوش دگرگونی شده است. مسأله‌ اصلی این پژوهش، زنان فرمانروا در ایران باستان (551 پ.م.-651 م.) و روند به قدرت رسیدن آنان بوده است. ضرورت انجام چنین پژوهشی در نگاه تاریخی به زن و بررسی چگونگی جانشینی فرمانروایان باستانی است که پایه‌گذار اندیشه‌های فلسفه‌ سیاسی دوران‌ پس از خود شدند. در این راستا، به این پرسش‌ پاسخ داده شد که چگونه یک زن که هیچ حق قانونی‌ای برای احراز این مقام نداشت، به تخت می‌نشست و نیز زمینه‌هایی که این نوع انتقال قدرت را فراهم می‌ساختند، چه بودند؟ بدین روش، مشخص شد که سه نوع استثنای کلی برای به تخت نشستن یک زن در ایران باستان وجود داشته است: 1- سهیم شدن یک شاه‌بانو در پادشاهی همسر خود که یک شاه بود 2- اعمال نفوذ و دسیسه‌ همسر شاه تا دستیابی وی به تخت شاهی3- عدم وجود هر جانشین یا نایب‌السطنه‌ مذکر که ناچار به انتخاب یک زن به‌عنوان فرمانروا می‌انجامید.</abstract>
+									<keywords>
+									
+											<keyword>زن</keyword>
+											<keyword>فرمانروا</keyword>
+											<keyword>ایران باستان</keyword>
+											<keyword>اشکانی</keyword>
+											<keyword>ساسانی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>03</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>24</last_page>
+									</pages>
+										<fullTextUrl>http://languagestudy.ihcs.ac.ir/article_5067_fb857f5a6d9cf14d72a34c8ef8849aad.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume></Volume>
+				<Issue>مقالات آماده انتشار</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>02</Month>
+					<Day>18</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Dynamic Elastic Modulus Estimation of Granular Soils Using Group Method of Data Handling (GMDH)</ArticleTitle>
+<VernacularTitle>پیش بینی مدول الاستیک دینامیکی خاک های دانه ای با استفاده از روش بررسی گروهی داده ها</VernacularTitle>
+			<FirstPage></FirstPage>
+			<LastPage></LastPage>
+			<ELocationID EIdType="pii">103551</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>میثم</FirstName>
+					<LastName>بیات</LastName>
+<Affiliation>گروه عمران، دانشگاه آزاد اسلامی واحد نجف آباد</Affiliation>
+<Identifier Source="ORCID">0000-0001-5525-5199</Identifier>
+
+</Author>
+<Author>
+					<FirstName>محسن</FirstName>
+					<LastName>سعادت</LastName>
+<Affiliation>گروه عمران، واحد نجف آباد، دانشگاه آزاد اسلامی، نجف آباد، ایران.</Affiliation>
+<Identifier Source="ORCID">0000-0001-9505-4893</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>10</Month>
+					<Day>16</Day>
+				</PubDate>
+			</History>
+		<Abstract>Elastic modulus is one of the most important parameters in geotecal engineering that is usually measured through laboratory or in situ testing. Cyclic triaxial testing is a well-known laboratory test to determine the dynamic and static parameters of soils. In the current study, the dynamic elastic modulus of sand-gravel mixture at very small strain levels (about 10-5) has been studied using a triaxial cyclic apparatus along with local axial strain measurement. Influence of grading characteristics (curvature and uniformity coefficients), gravel content, mean effective confining stress and relative density on dynamic elastic modulus have been investigated. Based on the results of the tests, a comprehensive database including 120 records was established. Based on the database, two models have been developed to predict the dynamic elastic modulus using the group method of data handling (GMDH). In the first model the curvature coefficient (Cc) and in the second model the uniformity coefficient (Cu) is used as input parameter of soil grading charecteristics. Comparison of the RMSE in the two models indicates that the second model has better predictions than the first model. However, the coefficients of correlation (R) of models are satisfactory which indicates the GMDH has a good ability to predict the dynamic elastic modulus.</Abstract>
+			<OtherAbstract Language="FA">مدول الاستیک یکی از پارامترهای مهم در ژئوتکنیک است که معمولاً از طریق آزمایش‌های آزمایشگاهی یا در محل اندازه‌گیری می‌شود. در این زمینه، آزمایش سه‌محوری یکی از روش‌های شناخته شده در تعیین پارامترهای دینامیکی و استاتیکی خاک است. در این تحقیق با استفاده از آزمایش سه محوری تناوبی و اندازه‌گیری موضعی کرنش، مدول الاستیک دینامیکی خاک‌های مخلوط شن و ماسه در سطح کرنش خیلی کوچک (حدود 5-10) مطالعه شده است. تاثیر پارامترهای دانه‌بندی (ضریب انحنا و ضریب یکنواختی)، مقدار شن، تنش همه جانبه و دانسیته نسبی بر روی مدول الاستیک دینامیکی خاک مورد ارزیابی قرار گرفته است. بر اساس نتایج به‌دست آمده از آزمایش‌های انجام شده در این تحقیق، پایگاه داده‌ای شامل 120 رکورد تشکیل شده است. با استفاده از این پایگاه داده‌، دو مدل برای پیش‌بینی مدول الاستیک دینامیکی با استفاده از الگوریتم بررسی گروهی داده‌ها (GMDH) توسعه داده شده است. تفاوت این دو مدل در استفاده از پارامترهای ورودی متفاوت است، به گونه‌ای که در مدل اول از ضریب انحنا (Cc) و در مدل دوم از ضریب یکنواختی (Cu) به عنوان پارامتر ورودی دانه‌بندی خاک در مدل استفاده شده است. مقایسه مقدار خطا بر اساس شاخص جذر میانگین مربعات خطا (RMSE) نشان‌دهنده برتری نسبی مدل دوم نسبت به مدل اول است. اگرچه مقدار ضریب همبستگی(R) در هر دو مدل مقادیر رضایت بخشی داشته و الگوریتم (GMDH) توانایی مناسبی جهت پیش‌بینی مقادیر مدول الاستیک نشان می‌دهد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">مدول الاستیک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">خاک دانه‌ای</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">آزمایش سه محوری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">بررسی گروهی داده‌ها</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://www.jiraeg.ir/article_103551_62d084a312d7821714b358f5f22a26fd.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

@@ -4,6 +4,7 @@ import requests as RQ
 from bs4 import BeautifulSoup
 import os
 import xml.etree.ElementTree as ET
+import random
 
 
 
@@ -64,4 +65,5 @@ for website , id in website_name.items():
                 if(PR.urlparse(link).netloc == NETLOC_mother):
                     seed.append(link)
         seed = list(set(seed))
+
         print(link_to_see,len(seed),len(visited),xml_count)

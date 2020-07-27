@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>4</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2016</Year>
+					<Month>12</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Surveying the Relation among Volume, Stock Return and Return Volatility in the Tehran Stock Exchange: A Wavelet Analysis</ArticleTitle>
+<VernacularTitle>بررسی رابطۀ بین حجم معامله، بازده سهام و نوسان بازده در زمان مقیاس‏های مختلف در بورس اوراق بهادار تهران</VernacularTitle>
+			<FirstPage>99</FirstPage>
+			<LastPage>114</LastPage>
+			<ELocationID EIdType="pii">21115</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2016.21115</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>ابراهیم</FirstName>
+					<LastName>عباسی</LastName>
+<Affiliation>گروه مدیریت دانشکده علوم اجتماعی و اقتصادی دانشگاه الزهرا، تهران، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>لیلا</FirstName>
+					<LastName>دهقان نیری</LastName>
+<Affiliation>گروه مدیریت دانشکده علوم اجتماعی و اقتصادی دانشگاه الزهرا، تهران، ایران.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>نازیلا</FirstName>
+					<LastName>پورداداش مهربانی</LastName>
+<Affiliation>گروه مدیریت دانشکده علوم اجتماعی و اقتصادی دانشگاه الزهرا، تهران، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>02</Month>
+					<Day>15</Day>
+				</PubDate>
+			</History>
+		<Abstract>Although many studies have tried to construct a theoretical or empirical structure of relation among trading volume, stock return and return volatility in financial markets, there still is not a general consensus about it. This study discovers latent information in variables time series for 96 months (April 2007- March 2015). To do so, related time series decomposed by using the maximum overlap discrete wavelet transform and wavelet coefficients has calculated. Then the relation between the series is examined by Granger causality test. The main feature of this research is to investigate the relation between variables at different time intervals. The results show that during the 2007 to 2015, the relation between variables in different time intervals varies. As in some periods, the Granger causality test confirms the causal relation between time series, while in some other time periods it does not support the existence of such relation. </Abstract>
+			<OtherAbstract Language="FA">با وجود انجام مطالعات گسترده در مورد چگونگی ارتباط حجم معامله - بازده سهام و حجم معامله - نوسان بازده در بازارهای مالی، هنوز در مورد ساختار نظری یا تجربی این ارتباط اجماع حاصل نشده ‏است. این پژوهش با هدف کشف اطلاعات نهفته در سری زمانی متغیرهای حجم معامله، بازده سهام و نوسان بازده در دورۀ زمانی 96 ماهه (ابتدای فروردین 1386 تا اسفند 1393) صورت گرفته است. بدین‌منظور سری‏های زمانی این متغیرها با استفاده از تبدیل موجک گسسته با حداکثر هم‌پوشانی، تجزیه و ضرایب موجک آن‏ها محاسبه شده است؛ سپس رابطۀ میان سری‏ها با استفاده از آزمون علّیت گرنجری بررسی شده است. نتایج به‌دست‌آمده از این پژوهش در دورۀ زمانی مورد بررسی، نشان‌دهندۀ تفاوت روابط بین متغیرها در مقیاس‏های زمانی متفاوت است، چنانکه در برخی از مقیاس‏ها، آزمون علّیت گرنجر، وجود رابطۀ علّی میان سری‏های زمانی را تأیید می‌کند و در برخی از مقیاس‏های زمانی این رابطه وجود ندارد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">حجم معامله</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">بازده سهام</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نوسان بازده</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تبدیل موجک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">علّیت گرنجری</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_21115_75f6a78d68c5a899c88b4cfaa5a594e5.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

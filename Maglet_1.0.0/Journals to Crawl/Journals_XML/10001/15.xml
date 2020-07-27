@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>2</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2014</Year>
+					<Month>11</Month>
+					<Day>22</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Prediction of TSE Companies Investment Behaviour Using Neural Networks</ArticleTitle>
+<VernacularTitle>پیش‌بینی رفتار سرمایه‌گذاری شرکت‌های بورس اوراق بهادار تهران با استفاده از شبکه‌های عصبی</VernacularTitle>
+			<FirstPage>63</FirstPage>
+			<LastPage>80</LastPage>
+			<ELocationID EIdType="pii">19893</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>رضا</FirstName>
+					<LastName>تهرانی</LastName>
+<Affiliation>دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>روح اله</FirstName>
+					<LastName>رهنما فلاورجانی</LastName>
+<Affiliation>دانشگاه تهران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>06</Month>
+					<Day>14</Day>
+				</PubDate>
+			</History>
+		<Abstract>Firm investment behaviour is a complex process which is influenced by many factors. In contrast to former studies, this study has a comprehensive approach and uses a metasynthesis method. This method primarily identifies factors affecting firm investments and separates financial factors from fundamental factors. Then, using causal method and identifying type of relationships, modeling is done. At last, the model is tested by neural network. The study uses 8 year data ending June 2011, so that the first five year data are used for explication and the last three year data are used for testing the model. Results indicate that capability of prediction of TSE companies investment behaviour using the model is more than 62 percent</Abstract>
+			<OtherAbstract Language="FA">رفتار سرمایه‌گذاری شرکتی، فرایند پیچیده‌ای است که تحت تأثیر عوامل بسیاری قرار دارد. بر خلاف پژوهش‌های قبلی، پژوهش حاضر رویکردی جامع نگر دارد و با استفاده از روش فراتلفیق، ابتدا عوامل اثرگذار بر سرمایه‌گذاری شرکتی را شناسایی و آن‌ها را به عوامل مالی و بنیادی تفکیک کرده است. سپس، با استفاده از روش مدل‌سازی علی، روابط میان متغیرهای مدل‌ سرمایه‌گذاری شرکتی، استخراج و در نهایت، مدل به وسیله شبکه عصبی آزمون شده است. در این پژوهش از داده‌های شرکت‌های موجود در بورس اوراق بهادار تهران در دوره 8 ساله منتهی به 29 اسفند 1390، استفاده شده است به نحوی که داده‌های 5 سال ابتدایی برای تأیید و یادگیری و 3 سال پایانی برای آزمون مدل، مورد استفاده قرار گرفته است. نتایج، مؤید توانایی بیش از 62 درصد مدل، در پیش‌بینی رفتار سرمایه‌گذاری شرکت‌ها در بورس اوراق بهادار تهران است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">رفتار سرمایه‌گذاری شرکتی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">فراتلفیق</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبکه عصبی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_19893_cb9127a924bd2f012539cd4fbf4f180d.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

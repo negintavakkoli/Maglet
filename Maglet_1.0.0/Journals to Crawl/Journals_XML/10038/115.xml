@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume></Volume>
+				<Issue>مقالات آماده انتشار</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>02</Month>
+					<Day>18</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Simulation of Hydraulic Fracturing Method with Cohesive Crack Model</ArticleTitle>
+<VernacularTitle>شبیه‌سازی روش شکست هیدرولیکی به کمک مدل ترک چسبنده</VernacularTitle>
+			<FirstPage></FirstPage>
+			<LastPage></LastPage>
+			<ELocationID EIdType="pii">103553</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>سجاد</FirstName>
+					<LastName>چهره قانی</LastName>
+<Affiliation>گروه مهندسی معدن دانشگاه ارومیه</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حسین</FirstName>
+					<LastName>آزاد سولا</LastName>
+<Affiliation>دانشکده مهندسی معدن، دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>بهنام</FirstName>
+					<LastName>صدایی سولا</LastName>
+<Affiliation>انستیتو مهندسی نفت، دانشکده مهندسی شیمی، دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محمد فاروق</FirstName>
+					<LastName>حسینی</LastName>
+<Affiliation>دانشکده مهندسی معدن- دانشگاه تهران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>09</Month>
+					<Day>02</Day>
+				</PubDate>
+			</History>
+		<Abstract>Hydraulic fracturing defined as a process in which a hydraulic loading caused by fluid injection in a part of wells result fracture propagation in the rock. The main purpose of this research is simulation of hydraulic fracturing based on the concepts of Finite Element Method (FEM) and parameters affecting it. For this goal, ABAQUS software has been used to examine hydraulic fracture initiation pressure in a simulated petroleum reservoir in which the cohesive elements theory with traction-separation law existed. To do so, a cohesive crack model has been introduced, govern equations has been discussed and then the way of building a poroelastic three-dimensional model with cohesive elements is described. The results show that the fracture pressure obtained from FEM model is in agreement with the analytical values. Fluid leak- off rate diagram shows three different time steps that the first two steps represent the expression of leak- off jump and third stage shows dynamic leak- off. Fluid pressure changes along the fracture shows a decreasing trend as the fluid pressure is lower than the initial pore pressure due to the phenomenon of fluid-lag at the fracture tip. Finally, a sensitivity analysis was conducted on a number of parameters on the fracture initiation pressure and results show increasing in all parameters except for Poisson&#039;s ratio, led to an increase in fracture initiation pressure. Also, the sensitivity function calculations for each of the parameters show that Young&#039;s modulus and leak-off coefficient have the highest and lowest effect on fracture initiation pressure, respectively.</Abstract>
+			<OtherAbstract Language="FA">فرایند شکست هیدرولیکی یکی از روش های متداول برای افزایش بهره وری چاه های نفتی است. در این روش، اعمال فشار هیدرولیکی در نقطه ی مشخصی از چاه، باعث ایجاد شکستگی هایی در مخازن شده و تراوایی آن افزوده می شود. در این تحقیق، روش شکست هیدرولیکی بر پایه مفاهیم روش المان محدود شبیه‌سازی شده است. بدین منظور با استفاده از نرم‌افزار ABAQUS شرایط معمول عملیات شکست هیدرولیکی در یک مخزن نفتی شبیه‌سازی شده و از تئوری مدل ترک چسبنده با قانون کشش- جدایش المان محدود توسعه یافته برای ایجاد و گسترش شکاف در درون مدل سه‌بعدی المان محدود استفاده شده است. نتایج نشان می‌دهد که فشار شکست سازند با مقدار تحلیلی آن تطابق خوبی دارد. نمودار نرخ نشت سیال سه مرحله زمانی مختلف را نشان می‌دهد که دو مرحله اول، بیان کننده جهش در هدرروی سیال و مرحله سوم نیز هدرروی دینامیکی را نشان می‌دهد. تغییرات فشار سیال در راستای شکاف روند کاهشی را از خود نشان داد به طوریکه در یک ناحیه میزان فشار سیال از فشار منفذی اولیه مخزن کمتر است که ناشی از پدیده تاخیر سیال در نوک شکستگی می‌باشد. در نهایت نیز تحلیل حساسیتی بر روی تعدادی از پارامترهای موثر بر روی فشار شروع شکست انجام شد که با افزایش همه پارامترها به جز نسبت پواسون، فشار شروع شکست نیز بیشتر شد. همچنین با محاسبه تابع حساسیت و فاکتور حساسیت برای هر یک از پارامترها مشخص شد که مدول یانگ بیشترین و ضریب نرخ نشت سیال کمترین تاثیر را بر روی فشار شروع شکست دارد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">شکست هیدرولیکی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدل ترک چسبنده</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">قانون کشش- جدایش</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تحلیل حساسیت</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://www.jiraeg.ir/article_103553_5eec1a735df7af565f9edc59890a0a43.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

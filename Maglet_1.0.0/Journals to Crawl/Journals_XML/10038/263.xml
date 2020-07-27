@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>11</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2018</Year>
+					<Month>11</Month>
+					<Day>22</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Geometric Modeling of Joints in 3D Discrete Fracture Network
+(Case Study: Liroo Dam construction site)</ArticleTitle>
+<VernacularTitle>مدلسازی هندسی درزه ها به روش شبکه شکستگیهای گسسته سه بعدی (مطالعه موردی ساختگاه سد لیرو)</VernacularTitle>
+			<FirstPage>29</FirstPage>
+			<LastPage>46</LastPage>
+			<ELocationID EIdType="pii">85026</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>فرزاد</FirstName>
+					<LastName>گهرویی باجگیرانی</LastName>
+<Affiliation>دانشجوی کارشناسی ارشد دانشگاه یزد</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>عنایت الله</FirstName>
+					<LastName>امامی میبدی</LastName>
+<Affiliation>عضو هیئت علمی گروه زمین شناسی دانشگاه یزد</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حمید</FirstName>
+					<LastName>مهرنهاد</LastName>
+<Affiliation>عضو هیئت علمی گروه مهندسی عمران دانشگاه یزد</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2018</Year>
+					<Month>09</Month>
+					<Day>19</Day>
+				</PubDate>
+			</History>
+		<Abstract>Nowadays, modeling of rock masses is widely used in order to accurately determine the properties of the rock mass and improve its behavior. In most cases, the geometric components of the fractures in the rock have a random nature.one of the most important methods to simulate the random nature of joints is the stochastic modeling of the fracture network of rock. The stochastic modeling of the fracture network makes the heterogeneous nature of rock mass with discrete elements, with geometrical properties and features that are statistically defined. In this study, the samples taken from the Liroo dam foundation are surveyed and analyzed. Then using the EasyFit that is a statistical software, the known distribution functions were determined by the maximum fitting on the surveyed geometric components and then their moments were determined. On the other hand, using the written code with Mathematica software, 3D-DFN three dimensional discrete fracture network method fractures simulated. Finally, the geometric model validated based on the comparison of the statistics of the distribution functions obtained from the model output with statistics of input distribution. The results in most cases indicate compliance of more than 90%. Also, P10, P21 and P32 values of the two-dimensional sections in a same strike with reality and in three-dimensional model were determined and compared with real values. The values of P10 and P32 showed more than 90% compliance and the P21 component was more than 75% consistent with actual data.</Abstract>
+			<OtherAbstract Language="FA">مطالعه رفتار جریان سیال در بسیاری از پروژه‌های عمرانی، معدنی و زیست محیطی از اهمیت بسیار زیادی برخوردار است. برآورد رفتار هیدرولیکی توده‌سنگ نیازمند درک مناسبی از رفتار هیدرولیکی شکستگی‌ها و مدلی دقیق از شبکه شکستگی‌های موجود در توده-سنگ است. از طرفی عدم قطعیت و تغییرپذیری در مطالعات زمین‌شناسی مهندسی در ارتباط با توده‌سنگ‌ها که از مواد طبیعی و ناهمگن ساخته شده‌اند اجتناب ناپذیر است. در این مقاله با توجه به اهمیت بالای ویژگی‌های تصادفی هندسی درزه‌ها شامل جهت‌داری و پایایی در رفتار هیدرولیکی توده‌سنگ ساختگاه سد لیرو، مدل شبکه شکستگی‌های گسسته سه‌بعدی درزه‌ها تهیه و توسعه داده شد. به این منظور کدی در نرم‌افزار Mathemtica ، با نام 3D-DFN نوشته شد. درزه‌های ساختگاه پبه روش شبکه شکستگی‌های گسسته سه‌بعدی مدل‌سازی گردید. در نهایت مدل هندسی تهیه شده بر اساس مقایسه آماره‌های توابع توزیع بدست آمده از خروجی مدل با آماره‌های توابع توزیع ورودی مدل اعتبارسنجی شد. نتایج بدست آمده در اغلب موارد نشان دهنده‌ی انطباق بیش از 90% است. همچنین مقادیر شدت‌های درزه‌داری خطی، سطحی و حجمی( P10 ، P21 و P32 ) از مقاطع دو بعدی تهیه شده هم‌راستا با سطوح برداشت و مدل سه بعدی محاسبه شد و با مقادیر برداشت مقایسه گردید. مقادیر P10 و P32 بیش از 90% انطباق را نشان داد و مولفه P21 بیش از 75% با داده‌های واقعی انطباق داشت. نتایج حاصل از این مقاله را می‌توان به عنوان ورودی قابل اطمینان برای مدل‌سازی عددی تحلیل پایداری و تحلیل هیدرولیکی مورد استفاده قرار داد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">مدلسازی هندسی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">3D -DFN</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ساختگاه سد لیرو</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبکه شکستگیهای گسسته سه بعدی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">روش عددی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://www.jiraeg.ir/article_85026_6c2ed497010e474c0f89095cd6bbefed.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

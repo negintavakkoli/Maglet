@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-20T22:13:13Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22108">http://amf.ui.ac.ir/?_action=export&amp;rf=summon&amp;issue=4393</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>زمستان 98</title>
+									</titles>
+									<abstract>زمستان 98</abstract>
+									<keywords>
+									
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>0</first_page>
+										<last_page>0</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_24359_0a321cf1e1849e9c8e0ed1821e67be6d.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>اندازه‏ گیری ریسک سیستمیک با استفاده از کسری نهایی مورد انتظار و ارزش در معرض خطر شرطی و رتبه‌بندی بانک‌ها</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>رضا</given_name>
+												<surname>عیوضلو</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهدی</given_name>
+												<surname>رامشگ</surname>
+											</person_name></contributors>
+									<abstract>ریسک سیستمیک به خطر شکست سیستم مالی یا شکست کل بازار اطلاق می‌شود. این ریسک می‌تواند از بی‌ثباتی یا بحران در مؤسسات مالی نشأت بگیرد و در اثر سرایت به کل نظام مالی انتقال یابد. به‌عبارتی ریسک سیستمیک به میزان به‌ هم‌پیوستگی در یک سیستم مالی اشاره دارد جایی‌که شکست در یک نهاد مالی می‌تواند به بحران کل سیستم منجر شود. در مقاله حاضر به تخمین ریسک سیستمیک با استفاده از دو روش کسری نهایی موردانتظار و ارزش در معرض خطر شرطی با استفاده از مدل‏های نوسان شرطی پویا در بین بانک‏های تجاری پرداخته شده است. نتایج پژوهش نشان می‌دهد در سنجش ریسک سیستمیک بین بانک‌های تجاری دو روش کسری نهایی مورد انتظار و ارزش در معرض خطر شرطی نتایج مشابه ارائه می‌کنند. پژوهش حاضر با استفاده از شاخص صنعت بانکداری و با بکارگیری مدل‏های آستانه‏ای خودهمبستگی برداری به تعریف یک آستانه به‌منظور مدل‌سازی بحران پرداخته است. پژوهش حاضر از این لحاظ نوآوری دارد که با استفاده از مدل‏های اماری (الگوی همبستگی شرطی پویا یکی از روش‏های مبتنی بر گارچ چند متغیره) و داده‏های دردسترس به دنبال رتبه‏بندی بانک‏های تجاری با استفاده از دو رویکرد کسری نهایی مورد انتظار و ارزش در معرض خطر شرطی است</abstract>
+									<keywords>
+									
+											<keyword>ریسک سیستمیک</keyword>
+											<keyword>کسری نهایی موردانتظار (MES)</keyword>
+											<keyword>ارزش در معرض خطر شرطی (COVAR)‏</keyword>
+											<keyword>مدل همبستگی شرطی پویا (DCC)</keyword>
+											<keyword>مدل‏های آستانه‏ای خودهمبستگی برداری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>16</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23292_751a6e8b0bce78149793a49655108049.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>نقش ارزش بازار در رابطه بین بازده دارایی‌ها و بازده حقوق صاحبان سهام با قیمت سهام در بورس اوراق بهادار تهران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی اکبر</given_name>
+												<surname>چهار محالی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>جواد</given_name>
+												<surname>زاهدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>رضا</given_name>
+												<surname>محمدی</surname>
+											</person_name></contributors>
+									<abstract>نسبت‌های مالی از پرکاربردترین ابزارهای ارزیابی شرکت‌ها و سرمایه‌گذاری‌ها تلقی می‌شود. از مهم‌ترین این معیارها نسبت‌های بازده دارایی‌ها و بازده حقوق صاحبان سهام است. پژوهش حاضر به دنبال کسب شواهدی پیرامون نقش ارزش بازار در ارتباط بین بازده دارایی‌ها و بازده حقوق صاحبان سهام با قیمت سهام و در مقایسه باارزش دفتری آن‌ها است. این پژوهش بر اساس داده‌های 136 شرکت حاضر در بورس اوراق بهادار تهران طی سال‌های 1386 تا 1394 صورت گرفته است. بدین منظور از هشت مدل رگرسیونی چند متغیره استفاده‌شده است. نتایج نشان داد که هر دو نسبت‌ها به ارزش دفتری و بازار رابطه معنادار مثبت با قیمت سهام دارد اما قدرت آن‌ها یکسان نیست. ارزش بازار ارتباط قوی‌تری نسبت به ارزش دفتری داراست، بازده دارایی‌ها در حدود 66% از تغییرات قیمت سهام را توضیح می‌دهد و ترکیب بازده دارایی‌ها به ارزش دفتری و بازده حقوق صاحبان سهام به ارزش بازار قوی‌ترین ارتباط را با تغییرات قیمت سهام دارد.</abstract>
+									<keywords>
+									
+											<keyword>بازده دارایی‌ها</keyword>
+											<keyword>بازده حقوق صاحبان سهام</keyword>
+											<keyword>ارزش بازار</keyword>
+											<keyword>ارزش دفتری</keyword>
+											<keyword>قیمت سهام</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>17</first_page>
+										<last_page>30</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23764_ad310e54b4f8910aa30c1132ba2d8cb0.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>سرمایه‌ گذاران خبره و راهبرد معاملاتی اقلام تعهدی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید احسان</given_name>
+												<surname>حسینی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سید عباس</given_name>
+												<surname>هاشمی</surname>
+											</person_name></contributors>
+									<abstract>در این پژوهش به‌کارگیری «راهبرد اقلام تعهدی سنتی» و «راهبرد اقلام تعهدی نسبی» توسط سرمایه‌گذاران خبره، آزمون شده است. همچنین، مقایسه‌ای بین سرمایه‌گذاران خبره‌ای که از راهبرد اقلام تعهدی سنتی و نسبی استفاده می‌کنند و سرمایه‌گذاران خنثی نسبت به این راهبردها، از حیث کسب بازده مازاد و بازده تعدیل شده بر اساس ریسک، انجام شد. بدین منظور داده‌های 950 سال-شرکت مربوط به شرکت های سرمایه‌گذاری پذیرفته شده در بورس اوراق بهادار تهران به صورت فصلی بین سال‌های 1390 تا 1397 جمع‌آوری و برای آزمون فرضیه‌ها از آزمون t استفاده شد. نتایج نشان داد سرمایه‌گذاران خبره، از راهبردهای یاد شده استفاده نمی‌کنند. البته استفاده از راهبردهای مذکور توسط زیرنمونه ای از سرمایه‌گذاران خبره، تایید شد. همچنین نتایج نشان داد سرمایه‌گذاران خبره‌ای که از راهبرد اقلام تعهدی سنتی استفاده می‌کنند، بازده مازاد و بازده تعدیل شده بر اساس ریسک بیشتری در مقایسه با سرمایه‌گذاران خنثی نسبت به این راهبرد، کسب نمی‌کنند. اما در مورد راهبرد اقلام تعهدی نسبی، شواهدی از کسب بازده مازاد و بازده تعدیل شده بر اساس ریسک بیشتر، یافت شد.</abstract>
+									<keywords>
+									
+											<keyword>ناهنجاری اقلام تعهدی</keyword>
+											<keyword>راهبرد اقلام تعهدی</keyword>
+											<keyword>سبد مصون‌سازی</keyword>
+											<keyword>سرمایه‌گذار خبره</keyword>
+											<keyword>فرضیه بازار کارا</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>31</first_page>
+										<last_page>48</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23536_549b4b4d823650b22b08bd7fea27e35f.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر حجم معاملات، زمان تا سررسید، تعداد موقعیت‌های تعهدی باز در بازده معاملات آتی سکۀ بهار آزادی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>فاطمه</given_name>
+												<surname>میرزاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علیرضا</given_name>
+												<surname>حیدرزاده هنزایی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علی</given_name>
+												<surname>سعیدی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;اهداف&lt;/strong&gt;: راه‌اندازی بازار آتی در بورس کالای ایران، فرصت پوشش ریسک ناشی از نوسان‌های قیمت و فضای جدیدی را برای سودآوری ایجاد کرد.&lt;br /&gt; &lt;strong&gt;روش&lt;/strong&gt;: با توجه به اینکه تنها قرارداد آتی فعال در ایران، قراردادهای آتی سکۀ تمام بهارآزادی در بورس کالای ایران است، جامعۀ آماری پژوهش، قراردادهای آتی سکۀ تمام بهار آزادی طرح امام خمینی(ره) تحویل اردیبهشت، تیر، شهریور، آبان، دی و اسفند در سال 1393 و تحویل تمامی ماه‎های‎ سال 1392 است که داده‎های آن شامل قیمت پایانی قراردادهای مذکور است و به‌صورت روزانه جمع‎آوری شده‎ است. متغیرهای پژوهش شامل بازده معاملات به‌عنوان متغیر وابسته، حجم معاملات، تعداد موقعیت تعهدی باز و زمان تا سررسید به‌عنوان متغیرهای مستقل است. این پژوهش از دیدگاه روش و ماهیت از نوع همبستگی است و برای آزمون فرضیه‌های پژوهش، از آزمون همبستگی و رگرسیون استفاده شده است.&lt;br /&gt; &lt;strong&gt;نتایج:&lt;/strong&gt; نتایج پژوهش نشان می‌دهد متغیر زمان تا سررسید در بازده معاملات آتی، تأثیر معناداری داشته است. در بررسی دو مورد دیگر، حجم معاملات و تعداد موقعیت‎های تعهدی باز، در بازده معاملات آتی، تأثیر معناداری ندارد.</abstract>
+									<keywords>
+									
+											<keyword>بازده معاملات آتی</keyword>
+											<keyword>تعداد موقعیت‎های تعهدی باز</keyword>
+											<keyword>حجم معاملات</keyword>
+											<keyword>زمان تا سررسید</keyword>
+											<keyword>قراردادهای آتی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>49</first_page>
+										<last_page>62</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23035_39ffca1efd64a66b51531c342b157d9a.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>اثر تعاملی محدودیت‌های تأمین مالی و اعتماد به‌ نفس بیش از اندازۀ مدیران بر حق‌الزحمۀ حسابرسی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>ولی</given_name>
+												<surname>خدادادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محسن</given_name>
+												<surname>رشیدی باغی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مسعود</given_name>
+												<surname>طاهری نیا</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;اهداف:&lt;/strong&gt; هزینه‌‌های مربوط به روابط قراردادی در نتیجۀ تفاوت تابع مطلوبیت مدیران و صاحبان سهام ایجاد می‌‌شود. حسابرسی مستقل راهکاری اثربخش برای محدودکردن اختیارات مدیران در روابط نمایندگی به شمار می‌‌آید. محور اصلی پژوهش، بررسی تغییر اثر تعاملی بین اعتماد به ‌نفس بیش از اندازۀ مدیران و حق‌الزحمۀ حسابرسی با توجه به نقش محدودیت تأمین مالی است.
+&lt;strong&gt;روش:&lt;/strong&gt; در طی دورۀ زمانی 1385 تا 1395 اطلاعات مربوط به شرکت‌‌های پذیرفته‌شده در بورس اوراق بهادار تهران گردآوری و برای آزمون فرضیه‌ها از الگوی رگرسیونی داده‌‌‌های ترکیبی استفاده شده است.
+&lt;strong&gt;نتایج:&lt;/strong&gt; نتایج پژوهش نشان می‌دهد اعتماد به ‌نفس بیش از اندازه و محدودیت تأمین مالی سبب تغییر حق‌الزحمۀ حسابرسی می‌‌شود. نتایج فرضیه بیان‌کنندۀ این است که محدودیت تأمین مالی اثر معناداری بر تعامل مشترک اعتماد به نفس بیش از اندازۀ مدیران و حق‌‎الزحمۀ حسابرسی دارد.</abstract>
+									<keywords>
+									
+											<keyword>اعتماد به نفس بیش از اندازه</keyword>
+											<keyword>حق‌الزحمۀ حسابرسی</keyword>
+											<keyword>محدودیت تأمین مالی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>63</first_page>
+										<last_page>80</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_24199_e0b3c57865d47c569e662e81ae90bd31.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>سوگیری‌های رفتاری، حجم غیرنرمال معاملات و بازده غیرعادی سهام</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد</given_name>
+												<surname>اصولیان</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مژگان</given_name>
+												<surname>بازچی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;هدف: &lt;/strong&gt;هدف از انجام پژوهش حاضر بررسی تأثیر سوگیری‌های رفتاری شامل فرااعتمادی، اثر ‌تمایلاتی و توجهات ‌سرمایه‌گذاران بر حجم غیرنرمال و بازده غیرعادی است.
+&lt;strong&gt;روش: &lt;/strong&gt;برای این منظور نمونه‌ای متشکل از 325 شرکت پذیرفته‌شده در بورس تهران، در بازۀ هفتگی و طی سال‌های1390 تا 1395 با استفاده از روش رگرسیون داده‌های ترکیبی نامتقارن بررسی شده ‌است.
+&lt;strong&gt;نتایج: &lt;/strong&gt;نتایج نشان می‌دهد توجهات سرمایه‌گذاران و اثر تمایلاتی موجب ایجاد حجم غیر‌نرمال می‌شود.دربارۀ بازده غیرعادی نیز توجهات سرمایه‌گذاران در الگوی رگرسیونی معنی‌دار است. نکتۀ مهم بررسی روابط علی زنجیره‌وار و درواقع، تأثیر سوگیری‌های رفتاری مؤثر بر حجم غیر‌نرمال در ایجاد بازده غیرعادی است. در نمونۀ بررسی‌شده توجهات سرمایه‌گذاران عامل ایجاد حجم غیر‌نرمال و سپس بازده غیرعادی است. دربارۀ فرااعتمادی، رابطۀ این سوگیری با حجم غیرنرمال و بازده غیرعادی معنی‌دار نیست و فرااعتمادی از عوامل ایجاد حجم غیرنرمال و بازده غیرعادی محسوب نمی‌شود.</abstract>
+									<keywords>
+									
+											<keyword>حجم غیر‌‌نرمال</keyword>
+											<keyword>بازده غیرعادی</keyword>
+											<keyword>توجهات سرمایه‌گذار</keyword>
+											<keyword>اثر تمایلاتی</keyword>
+											<keyword>فرااعتمادی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>81</first_page>
+										<last_page>96</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23759_5772577e3847b04c6d6226d216e04530.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تأثیر تمایلات و رفتار معاملاتی سرمایه‌گذاران فردی بر بازده مازاد: الگوی تجدیدنظرشدۀ فاما و فرنچ</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سیده زهرا</given_name>
+												<surname>نصیری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>یحیی</given_name>
+												<surname>کامیابی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;اهداف: &lt;/strong&gt;از دهۀ 1990 همواره تعیین ارزش منصفانۀ دارایی‌های مالی و اینکه آیا این ارزش تنها به عوامل بنیادی در الگو‌های قیمت‌گذاری بستگی دارد یا از عوامل رفتاری و روان‌شناختی نیز تأثیر می‌گیرد، مسئله‌ای بحث‌برانگیز بوده است. رشتۀ مالی رفتاری به مسائلی توجه کرده و الگو‌های قیمت‌گذاری دارایی‌های جایگزینی را ارائه داده است که جنبه‌های رفتاری تصمیم‌گیری را در بر می‌گیرند. هدف از انجام پژوهش حاضر، بررسی تأثیر همزمان معیارهای تمایلات و رفتار معاملاتی سرمایه‌گذاران حقیقی بر قیمت‌گذاری دارایی‌های سرمایه‌ای در 77 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران در دورۀ 1395 تا 1388 با روش داده‌های ترکیبی است.
+&lt;strong&gt;روش: &lt;/strong&gt;به این منظور الگوی تجدیدنظرشدۀ پنج‌عاملی فاما و فرنچ با افزودن معیارهای تمایلات سرمایه‌گذار و رفتار معاملاتی سرمایه‌گذار فردی ایجاد شد.
+&lt;strong&gt;نتایج: &lt;/strong&gt;نتایج تجربی نشان داد این دو عامل تأثیر بااهمیتی بر بازده مازاد در الگوی پنج‌عاملی دارند. در شرایطی که تمام سرمایه‌گذاران منطقی نیستند، تصمیم‌گیرندگان جوانب روان‌شناختی سرمایه‌گذار را برای درک چگونگی قیمت‌گذاری دارایی‌ها به کار می‌گیرند.</abstract>
+									<keywords>
+									
+											<keyword>الگوی پنج‌عاملی فاما و فرنچ</keyword>
+											<keyword>مالی رفتاری</keyword>
+											<keyword>تمایلات سرمایه‌گذار</keyword>
+											<keyword>رفتار معاملاتی سرمایه‌گذاران فردی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>97</first_page>
+										<last_page>116</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_24358_f8ba5238fcf12f568a4b0c1e96d32325.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

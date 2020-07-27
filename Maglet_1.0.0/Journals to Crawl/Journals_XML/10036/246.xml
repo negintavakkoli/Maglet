@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-26T06:22:02Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22055">http://aag.scu.ac.ir/?_action=export&amp;rf=summon&amp;issue=1674</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تحلیل ساختاری، دگرسانی، کانی سازی طلا- مس و مطالعه سیالات درگیر در jog اتساعی شمال شرق کاشمر</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علیرضا</given_name>
+												<surname>الماسی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد حسن</given_name>
+												<surname>کریم پور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>خسرو</given_name>
+												<surname>ابراهیمی نصرآبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>بهنام</given_name>
+												<surname>رحیمی</surname>
+											</person_name></contributors>
+									<abstract>تنش ناحیه­ای در محیط شکنا در jog هم­پوشان کاشمر سبب رخداد شکستگی­های نوع ریدل شده است. مهاجرت و چرخش دوگانه&lt;br /&gt;  محلول اکسیدان آهن­دار سبب دگرسانی در محل تلاقی شکستگی­ها و مکان­های کم­فشار و کانی­سازی شده است. در چرخه اول، محلول سبب دگرسانی­های آرژیلیک پیشرفته، سرسیتی و سیلیسی و کانی­سازی رگه­ای کالکوپیریت&lt;span style=&quot;font-family: Times New Roman;&quot;&gt;±&lt;/span&gt; پیریت &lt;span style=&quot;font-family: Times New Roman;&quot;&gt;±&lt;/span&gt;گالن و احتمالاً مگنتیت &lt;span style=&quot;font-family: Times New Roman;&quot;&gt;±&lt;/span&gt; طلا در عمق شده است طی چرخش دوم، محلول فوق اکسیدان با شستشوی مجدد عناصر، سبب اورپرینت دگرسانی­های تأخیری اکسیدآهن، کربناتی، اپیدوتی و کلریتی و کانی­سازی اسپکیولاریت&lt;span style=&quot;font-family: Times New Roman;&quot;&gt;±&lt;/span&gt; کالکوپیریت&lt;span style=&quot;font-family: Times New Roman;&quot;&gt;±&lt;/span&gt; طلا شده است. مقدار مس و سرب در رگه­های سولفیدی اولیه &lt;span style=&quot;font-family: Times New Roman;&quot;&gt;&lt;&lt;/span&gt;1 درصد و مقدار طلا در رگه­های &lt;span style=&quot;font-family: Times New Roman;&quot;&gt;IOCG&lt;/span&gt; ثانویه 5/1 درصد و مس، سرب و روی &gt;1 درصد است. مطالعه سیالات درگیر دلالت بر سیستم H&lt;sub&gt;2&lt;/sub&gt;O-NaCl-CaCl&lt;sub&gt;2&lt;/sub&gt;، دماهای متوسط تا بالا (245 تا 530) و شوری­های متوسط (15/14 تا 96/17) و نقش عمده محلول ماگمایی و کمپلکس­های کلریدی در حمل فلزات، بدون رخداد جوشش دارد. براساس این مطالعه محلول­های اکسیدان آهن­دار سبب کانی­سازی­های اسکارن و IOCG مختلفی در سرتاسر کمربند IOCG شمال گسل درونه شده­اند.</abstract>
+									<keywords>
+									
+											<keyword>jog</keyword>
+											<keyword>محلول اکسیدان</keyword>
+											<keyword>دگرسانی</keyword>
+											<keyword>IOCG</keyword>
+											<keyword>سیالات درگیر</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>19</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_13426_d5f0064430ceee1751b66bc4964e5341.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>زمین شناسی کانسنگ و مطالعه میان بارهای سیال در کانسار باریت- فلوئوریت جرین، جنوب خاور زنجان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حسین</given_name>
+												<surname>کوهستانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>میرعلی اصغر</given_name>
+												<surname>مختاری</surname>
+											</person_name></contributors>
+									<abstract>کانسار باریت-فلوئوریت جرین در پهنه ساختاری البرز و در فاصله 140 کیلومتری جنوب‌خاور زنجان قرار دارد. کانی‌سازی به‌صورت رگه‌های گرمابی دیرزاد درون آهک‌های دولومیتی‌شده کرتاسه (واحد Kl) رخ داده و دارای کنترل ساختاری و سنگ‌شناسی است. باریت و فلوئوریت، کانی‌های اصلی کانسنگ هستند که با اندکی کوارتز، کلسیت، دولومیت، گالن و پیریت همراهی می‌شوند. پنج مرحله کانه‌زایی در کانسار جرین قابل تفکیک است (به‌ترتیب از ابتدا به آخر): رگه‌های فلوئوریت، باریت‌های ریزبلور رگه‌ای و سیمان بِرش‌ها، رگه‌های باریتی درشت‌بلور، رگه‌های کوارتز-گالن-پیریت و کلسیت‌های رگه‌ای و پُرکننده فضاهای خالی. شواهد به‌دست آمده از مطالعات ریزدماسنجی نشان می‌دهد رگه‌های باریت-فلوئوریت در کانسار جرین نتیجه اختلاط شورابه‌های درون سازندی و آب‌های جوی تشکیل شده‌اند. ویژگی‌های کانسار جرین با کانسارهای تیپ MVT قابل مقایسه است. بررسی پهنه‌های گسلی موجود در سنگ‌های کربناته واحد Kl به‌ویژه در مناطقی که با دگرسانی دولومیتی همراهی می‌شود، کاربرد فراوانی در اکتشاف کانسارهای تیپ MVT در پهنه البرز دارد.</abstract>
+									<keywords>
+									
+											<keyword>باریت</keyword>
+											<keyword>فلوئوریت</keyword>
+											<keyword>میان‌بارهای سیال</keyword>
+											<keyword>تیپ MVT</keyword>
+											<keyword>جرین</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>20</first_page>
+										<last_page>34</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_13432_f27c6ed84120af67f365d9f5a9fff270.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی آنومالی های جریان حرارتی در ساختار گنبدهای نمکی جهانی، کنارسیاه و خوراب با استفاده از تصاویر سنجندههای OLI و TIRS ماهواره لندست8</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>کاظم</given_name>
+												<surname>رنگزن</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>فرهاد</given_name>
+												<surname>کاووسی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>بابک</given_name>
+												<surname>سامانی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>عظیم</given_name>
+												<surname>صابری</surname>
+											</person_name></contributors>
+									<abstract>مطالعه گنبدهای نمکی به خاطر ویژگیهای منحصر به فرد نمک از لحاظ تکتونیکی و سنگ شناسی و برهمکنشهای قوی میان جریانهای حرکتی و حرارتی از اهمیت شایانی برخوردار است. هدف از این پژوهش مطالعه دمای سطح گنبدهای نمکی با استفاده از تصاویر ماهواره لندست8، جهت تحلیل و بررسی گنبدهای نمکی از لحاظ ساختاری و حرارتی میباشد. نتایج حاصل نشان داد که جریان حرارتی بالاتر در یک جهت جغرافیایی مشترک در هر سه گنبد نمکی وجود دارد. مقایسه نیمرخ توپوگرافی تودههای گنبد نمکی و میزان جریان حرارتی نشان دهنده یک ارتباط معکوس بین ارتفاع و میزان حرارت درآنها میباشد. کاهش نیروی بالاران در نتیجه افزایش ارتفاع گنبد نمکی و غلبه نیروی وزن نمک بر نیروی بالاران سبب شکل گیری یک جریان نمکی گرمتر از حاشیه گنبد در جهت شیب توپوگرافی شده است. نتایج نشان دهنده وجود نسبت مستقیم بین جهت شیب توپوگرافی و میزان جریان حرارتی ونسبت معکوس بین عامل ارتفاع و درجه حرارت در هر سه گنبد نمکی مورد مطالعه میباشد. بالاترین درجه حرارت در گنبد های نمکی خوراب، کنارسیاه و جهانی به ترتیب 37، 37 و 38 درجه در نقاط ارتفاعی پایین به دست آمده است که نشان دهنده معکوس بودن رابطه عامل ارتفاع با درجه حرارت می باشد.</abstract>
+									<keywords>
+									
+											<keyword>گنبد های نمکی</keyword>
+											<keyword>سنجش از دور</keyword>
+											<keyword>انتقال گرما</keyword>
+											<keyword>LST</keyword>
+											<keyword>گسل کره بس</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>35</first_page>
+										<last_page>48</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_13472_0667ffbf18592bab6323d9f31de35873.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی و تفکیک محیط های رسوبی کواترنری در دشت خوزستان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>احمد</given_name>
+												<surname>عبیات</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>اژدری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>جودکی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>جواد</given_name>
+												<surname>درویشی خاتون آبادی</surname>
+											</person_name></contributors>
+									<abstract>بخش زیادی از سطح دشت خوزستان (خصوصاً در بخش‌های غربی و جنوبی) از رسوبات کواترنری پوشیده شده است ولی تاکنون هیچ‌گونه مطالعه و تفکیکی بر روی این رسوبات انجام نگردیده است. در این پژوهش به‌وسیله تصاویر ماهواره‌ای، عملیات میدانی و مطالعات آزمایشگاهی، محیط‌های رسوبی دشت خوزستان، مورد بررسی و تفکیک قرار گرفت. محیط‌های رسوبی کواترنری شناسایی شده در دشت خوزستان شامل محیط‌های مخروط افکنه ای، رودخانه‌ای، پهنه‌های بادی، دلتاها، سبخاها و تالاب‌ها شناسایی می باشند. مخروط افکنه های دشت خوزستان از شمال غرب به جنوب شرق، به چهار بخش قابل‌تقسیم هستند: مخروط افکنه های اندیمشک تا شوشتر، مخروط افکنه های شوشتر تا رامهرمز، مخروط افکنه های امیدیه و مخروط افکنه های تاقدیس رگ سفید. علاوه بر این مخروط افکنه های دیگری به‌طور پراکنده، در مجاورت تاقدیس‌های مارون، اهواز و میش‌داغ دیده می‌شوند که ویژگی‌های آن‌ها مشابه مخروط افکنه های تاقدیس رگ سفید است. محیط‌های رسوبی شناسایی‌شده در رودخانه‌های دشت خوزستان عبارت‌اند از: کانال (رسوبات کف کانال، پوینت بار و خاک‌ریز طبیعی)، کروس، دریاچه‌های شاخ گاوی و دشت سیلابی. ماسه‌بادی‌های دشت خوزستان در چهار منطقه دیده می‌شوند که شامل اهواز، شوش، دشت آزادگان و امیدیه می‌باشند. دلتاهای شناسایی‌شده در دشت خوزستان، شامل دلتای کارون، دلتای کرخه و دلتای جراحی می‌باشند.</abstract>
+									<keywords>
+									
+											<keyword>دشت</keyword>
+											<keyword>خوزستان</keyword>
+											<keyword>محیط رسوبی</keyword>
+											<keyword>کواترنری</keyword>
+											<keyword>خلیج فارس</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>49</first_page>
+										<last_page>64</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_13487_6599f9ecfbf1224d0d7b97bc5a271b56.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مدل سازی یک بعدی حوضه‌ی رسوبی در میدان گازی تابناک، منطقه ی فارس ساحلی، ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمدحسین</given_name>
+												<surname>صابری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>طه</given_name>
+												<surname>اشرفی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مهدی</given_name>
+												<surname>خالقی</surname>
+											</person_name></contributors>
+									<abstract>این مطالعه، پتانسیل تولید و بلوغ حرارتی را با استفاده از مدل سازی یک بعدی حوضه ی رسوبی و تحلیل آزمایش های راک-اول انجام شده بر روی 32 نمونه سنگ از سازند های حفاری شده در چاه شماره 1 میدان تابناک مورد بررسی قرار می دهد. بر اساس مقادیر Tmax و ضریب انعکاس ویترینایت بدست آمده، نمونه ها در محدوده ی نابالغ برای زایش هیدروکربن قرار میگیرند و نتایج مدل سازی نیز این فرضیه را تایید کردند. با اختصاص شار حرارتی ثابت mw/m280/34 از زمان حال تا میانه ی کرتاسه و mw/m260 از میانه ی کرتاسه تا اردویسین بهترین تطبیق با داده های تصحیح دمای درون چاهی و ضریب انعکاس ویترینایت به دست آمد. با تخصیص داده های TOC و HI برای سازند سرچاهان، مدل این سازند را به عنوان سنگ منشاء هیدروکربنهای منطقه تشخیص داد و معین کرد که در 5 میلیون سال پیش وارد پنجره ی نفتی شده و اکنون در وضعیت فوق بالغ قرار دارد. از نتایج این مدلسازی میتوان برای تعیین حجم ذخایر هیدروکربنی درجا و تصمیم گیری های راهبردی توسعه میدان استفاده کرد. همچنین تعیین سنگ منشا اصلی راهگشای تحقیقات پیرامون میادین مجاور و همچنین محدوده ی فارس ساحلی خواهد بود.</abstract>
+									<keywords>
+									
+											<keyword>سرچاهان</keyword>
+											<keyword>پالئوزوئیک</keyword>
+											<keyword>مدل سازی یک بعدی</keyword>
+											<keyword>تاریخچه ی تدفین</keyword>
+											<keyword>تاریخچه ی حرارتی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>65</first_page>
+										<last_page>75</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_13501_fe33b0a4e7397c29d7d684cf748e6031.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مطالعه آماری توزیع فضایی محورهای فشارش (P)، میانه (B) و کشش (T) در پیرامون گسل مسبب زلزله 2012 اهر-ورزقان، کوه های قوشاداغ، شمال غرب ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>احد</given_name>
+												<surname>نوری مخوری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>بهنام</given_name>
+												<surname>رحیمی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علی</given_name>
+												<surname>جعفری</surname>
+											</person_name></contributors>
+									<abstract>در این مطالعه با استفاده از 26 سازوکار کانونی زلزله های گردآوری شده، الگوی توزیع فضایی محورهای فشارش، میانه و کشش، به صورت آماری در اطراف سیستم گسلی قوشاداغ مطالعه گردیده است. جهت گیری متوسط هریک از محورهای فشارش، میانه و کشش به ترتیب 318/08، 082/74 و 221/12 می باشد. توزیع فضایی این محورها به ترتیب توزیع خوشه ای، خطی (کمربندی) و خطی (کمربندی) است. تغییر در جهت گیری محورهای فشارش و کشش بسیار اندک است به طوری که محورهای فشارش و کشش به ترتیب دارای جهت گیری NW-SE و NE-SW هستند. گستره تغییرات ماهیت سازوکارهای کانونی به صورت فشارشی، فشارشی-امتدادلغزی و امتدادلغزی است. تغییرات ماهیت سازوکار کانونی زلزله ها و همچنین تغییرات موقعیت فضایی هریک از محورهای فشارش، میانه و کشش نشانگر مشارکت هردو رژیم فشارشی و امتدادلغزی در این منطقه است که می تواند نشانه رژیم دگرشکلی ترافشارش در این منطقه باشد. این مجموعه داده ها نشان دهنده جهت گیری بیشینه تنش فشارشی افقی (SHmax) در راستای NW-SE برای این منطقه است. این تحقیق نشان می دهد، مطالعه ماهیت سازوکار کانونی زلزله ها و الگوی توزیع فضایی محورهای فشارش، میانه و کشش، در فهم الگوی دگرشکلی یک منطقه با اهمیت است.</abstract>
+									<keywords>
+									
+											<keyword>بیشینه تنش فشارشی افقی</keyword>
+											<keyword>زلزله اهر-ورزقان</keyword>
+											<keyword>سازوکار کانونی زلزله</keyword>
+											<keyword>سیستم گسلی قوشاداغ</keyword>
+											<keyword>الگوی توزیع فضایی محورها</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>76</first_page>
+										<last_page>82</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_13502_9583e8c675a647dbf333cfae84998f42.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی عوامل مؤثر در فرآیند کارستی شدن و لغزش در حوضه آبریز سد مخزنی جره استان خوزستان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>نصرالله</given_name>
+												<surname>کلانتری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سعید</given_name>
+												<surname>پهلوانی زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>بابک</given_name>
+												<surname>سامانی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>هادی</given_name>
+												<surname>محمدی</surname>
+											</person_name></contributors>
+									<abstract>حوضه آبریز سد مخزنی جره عمدتاً از سازند انحلال‌پذیر تبخیری گچساران تشکیل شده است و گسل‌های معکوس موجود در منطقه نقش به‌سزایی در فرآیند انحلال، توسعه کارست و لغزش در این سازند ایفا می‌کنند. هدف از این مطالعه شناسایی مناطق توسعه یافته کارستی، مناطق دارای پتانسیل لغزش و ریزش، فرار آب همچنین شناسایی عوامل موثر بر این پدیده‌ها می‌باشد. عوامل ساختاری موثر بر توسعه کارست با برداشت‌های صحرایی و با استفاده از تصاویر ماهواره‌ای و نرم‌افزار Envi استخراج و مورد مطالعه قرار گرفت همچنین بررسی شدت کارستفیکاسیون با استفاده از اشکال کارستی نیز انجام شده است. به منظور بررسی پتانسیل توسعه کارست و لغزش، عوارض ساختاری و مورفولوژیکی شناسایی و لایه‌های اطلاعاتی عوامل موثر در کارستی شدن، به کمک نرم افزار ArcGIS تهیه و سپس پهنه‌بندی پتانسیل توسعه کارست و لغزش صورت گرفت. برمبنای مطالعات انجام شده در منطقه مطالعاتی 2 پهنه کارستی با پتانسیل کارستی متوسط و زیاد، یک افق کارست زیرسطحی و یک گسل امتدادلغز درون مخزن مشاهده شد که منعکس کننده نقش فعالیت‌های تکتونیکی در ایجاد مناطق کارستی و لغزشی درون مخزن است. نتایج این مطالعات در شناسایی زون‌های آسیب‌پذیر و بهره ‌برداری بهینه از مخزن سد جره می تواند مورد استفاده قرار گیرد.</abstract>
+									<keywords>
+									
+											<keyword>پهنه‌بندی کارست</keyword>
+											<keyword>گسل</keyword>
+											<keyword>لغزش</keyword>
+											<keyword>سد جره</keyword>
+											<keyword>حوزه آبریز</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>83</first_page>
+										<last_page>94</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_13503_5702fa9d9e7816edc913ee3d7b7a6f7c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-09-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کاربرد کانی‌شناسی و ژئوشیمی عناصر فرعی و کمیاب در تعیین فازهای حامل عناصر استراتژیک در معدن روی و سرب انگوران ـ جنوب غرب زنجان</title>
+									</titles>
+									<abstract>          معدن روی و سرب انگوران در جنوب­غربی زنجان و در پهنه­ی ساختاری سنندج ـ  سیرجان قرار دارد. این ذخیره معدنی از نظر چینه­شناسی در مجموعه دگرگونی پروتروزوییک تکاب واقع شده است. شیست­های هم­ارز سازند کهر در فرودیواره و دولومیت­های جان­گوتاران (هم­ارز سازند سلطانیه) در فرادیواره،
+کانی­سازی روی و سرب انگوران را در میان گرفته­اند. کانی­سازی به دو بخش کلی سولفیدی و کربناتی تقسیم می­شود. اسفالریت، گالن و پیریت مهم­ترین &lt;br /&gt; کانی­های بخش سولفیدی هستند. بافت غالب در بخش سولفیدی، برشی، توده­ای و دانه­پراکنده است. اسمیت­زونیت، همی­مورفیت، سروزیت و میمتیت از مهم­ترین کانی­های بخش کربناتی هستند که بافت­های غالب در این بخش شامل برشی، گل­کلمی و پرکننده فضاهای خالی است. اسمیت­زونیت به عنوان فراوان­ترین کانی بخش کربناتی مطرح می­باشد که دارای حداقل سه نوع مختلف با رنگ­های متفاوت است. آنالیز­های ژئوشیمیایی انجام یافته بر روی نمونه­های برداشت شده از بخش­های مختلف توده­ی معدنی، نشان می­دهند که مجموع عناصر کمیاب خاکی (ΣREE) در این نمونه­ها ناچیز می­باشد. بیشترین مقدار این عناصر در &lt;br /&gt; شیست­های کانه­دار تمرکز دارد و مجموع عناصر کمیاب خاکی سبک (ΣLREE) نسبت به مجموع عناصر کمیاب خاکی سنگین (ΣHREE) دارای غنی­شدگی است. آنالیزهای شیمیایی انجام شده با استفاده از روش­های (ICP ـ MS+ICP ـ OES+INAA) بر روی کانی­های جدا شده از نمونه­های معدنی معدن روی و سرب انگوران، نشانگر غنی­شدگی کانی اسفالریت از عناصری نظیر نقره، گالیم، ژرمانیم، ایندیم، کادمیم، کبالت، نیکل، آرسنیک و سلنیم می­باشد. درصورتیکه کانی اسمیت­زونیت از عناصر کادمیم، نیکل، کبالت و آرسنیک غنی شده است. براساس مطالعات ژئوشیمیایی، اسمیت­زونیت در کانسنگ کربناتی و اسفالریت در کانسنگ سولفیدی، به عنوان مهم­ترین میزبان برای عناصر فرعی محسوب می­گردند و از نظر کاربردی برای استحصال این عناصر دارای اهمیت می­باشند.</abstract>
+									<keywords>
+									
+											<keyword>اسفالریت</keyword>
+											<keyword>اسمیت‌زونیت</keyword>
+											<keyword>عناصر فرعی و کمیاب</keyword>
+											<keyword>روی و سرب انگوران</keyword>
+											<keyword>زنجان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>95</first_page>
+										<last_page>113</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_13937_7648521d29c4c6c94b9dc5abad51e7c8.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

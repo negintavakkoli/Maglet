@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه تربت حیدریه</PublisherName>
+				<JournalTitle>علمی پژوهشی زراعت و فناوری زعفران</JournalTitle>
+				<Issn>2383-1529</Issn>
+				<Volume>4</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2016</Year>
+					<Month>12</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Modelling the Chemical and Microbial Changes of Saffron Flower during Storage Using Artificial Neural Networks and Genetic Algorithm</ArticleTitle>
+<VernacularTitle>مدل‌سازی تغییرات شیمیایی و میکروبی گل زعفران طی نگهداری با استفاده از شبکه‌های عصبی مصنوعی و الگوریتم ژنتیک</VernacularTitle>
+			<FirstPage>279</FirstPage>
+			<LastPage>289</LastPage>
+			<ELocationID EIdType="pii">38668</ELocationID>
+			
+<ELocationID EIdType="doi">10.22048/jsat.2016.38668</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>الهام</FirstName>
+					<LastName>آذرپژوه</LastName>
+<Affiliation>استادیار بخش تحقیقات فنی و مهندسی کشاورزی، مرکز تحقیقات و آموزش کشاورزی و منابع طبیعی خراسان رضوی، سازمان تحقیقات و آموزش ترویج کشاورزی، مشهد، ایران.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>احمد</FirstName>
+					<LastName>احتیاطی</LastName>
+<Affiliation>دانشجوی دکتری تکنولوژی مواد، گروه علوم و صنایع غذایی، دانشکده کشاورزی، دانشگاه فردوسی مشهد.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>پروین</FirstName>
+					<LastName>شرایعی</LastName>
+<Affiliation>استادیار بخش تحقیقات فنی و مهندسی کشاورزی، مرکز تحقیقات و آموزش کشاورزی و منابع طبیعی خراسان رضوی، سازمان تحقیقات و آموزش ترویج کشاورزی، مشهد، ایران.</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>03</Month>
+					<Day>09</Day>
+				</PubDate>
+			</History>
+		<Abstract>Saffron, as the most expensive agricultural and pharmaceutical product of the world, has a special value among plants. Since the Saffron harvesting period is short, its storage for later processing requires understanding the most effective factors affecting the quality of saffron and its deterioration. Therefore the effects of reposition thickness, storage temperature and storage time of saffron flowers on its chemical parameters including crocin, safranal and picrocrocin values of saffron stigma and its microbial quality indicators including total count, coliform and mold contamination were modelled. This was done using multi-layer perceptron artificial neural network (ANN) and its structure and the learning parameters were optimized using genetic algorithm technique. The optimized MLP neural networkwas capable to predict the saffron quality characteristics during storage with coefficient of determinations higher than %94 and low error values (RMSE lower than 3.5 for all responses). The ANN model showed that reposition thickness has the lowest impact on chemical and microbial parameters deterioration while increasing storage temperature and time drastically increased loss of quality although the effect of storage time is lower than that of storage temperature.  Overall, keeping fresh saffron flowers at a low temperature near zero degrees centigrade is necessary for maximum retention of valuable chemical compounds and minimum microbial contamination development during saffron flower storage for further processing.</Abstract>
+			<OtherAbstract Language="FA">زعفران به‌ عنوان گران‌ترین محصول کشاورزی و دارویی جهان، ارزش ویژه‌ای دارد. با توجه به بازه برداشت کوتاه این محصول، نگهداری گل زعفران در شرایط مناسب جهت فراوری با تأخیر، نیازمند بررسی عوامل مؤثر بر کاهش کیفیت زعفران است. اثر ضخامت انباشتگی، دمای نگهداری و زمان نگهداری گل زعفران بر شاخص‌های شیمیایی کروسین، سافرانال و پیکروکروسین و آلودگی‌های میکروبی کل، کلی‌فرم و کپک با استفاده از شبکه عصبی مصنوعی پرسپترون چند لایه مدل ‌سازی گردید و ساختار شبکه با استفاده از الگوریتم تکاملی ژنتیک بهینه ‌سازی شد. شبکه عصبی بهینه با ضریب تبین بالاتر از 94 درصد و خطای پایین، قادر به پیش‌بینی ویژگی‌های کیفی زعفران تحت شرایط نگهداری بود. بررسی مدل نشان داد ضخامت انباشتگی تأثیر کمی در مقایسه با دما و زمان نگهداری بر کیفیت شیمیایی و میکروبی زعفران دارد در حالی ‌که افزایش دمای نگهداری کاهش کیفیت شیمیایی و میکروبی را شدت می‌بخشد و زمان نگهداری نسبت به دما اثر کمتری دارد. نگهداری گل زعفران در دمای پایین و نزدیک به صفر درجه سانتی‌گراد برای حداکثر حفظ ترکیبات شیمیایی ارزشمند و کمترین توسعه آلودگی میکروبی طی نگهداری الزامی است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">پیکروکروسین</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">پرسپترون چندلایه</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سافرانال</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">کروسین</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://saffron.torbath.ac.ir/article_38668_1976fd9779380b3b00c0ce95febc9730.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+		<JOURNAL>
+<YEAR>1398</YEAR>
+<VOL>7</VOL>
+<NO>3</NO>
+<MOSALSAL>26</MOSALSAL>
+<PAGE_NO>0</PAGE_NO>
+<ARTICLES>
+
+
+				<ARTICLE>
+				<TitleF>ساختار پویای همبستگی؛ ریسک و بازده سهام</TitleF>
+				<TitleE>Dynamic Correlation Structure; Securities Risk and Return</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف: پویایی کوواریانس بازده دارایی‌ها همواره یکی از حوزه‌های چالش‌برانگیز مالی بوده است. الگو‌های مالی رفتار کوواریانس را در طی زمان تحلیل می‌کنند؛ اما الگو‌های اقتصادسنجی تنها رفتار واریانس را در گذر زمان بررسی می‌کنند. نخستین الگویی که رفتار کوواریانس را در طی زمان تحلیل می‌کند، الگوی گارچ چندمتغیره است که به‌دلیل نیاز به تخمین پارامتر زیاد، بسیار از آن انتقاد شده است. هدف این پژوهش، بررسی تأثیر ساختار پویای همبستگی بازده سهام بر ریسک سیستماتیک، غیرسیستماتیک و بازده سهام است.
+روش: به همین منظور نمونه‌ای متشکل از 148 شرکت‌ پذیرفته‌‎شده در بورس اورق بهادار تهران طی سال‌های 1393-1382 بررسی و برای آزمون روابط ذکرشده از الگوی گارچ استفاده شده است.
+نتایج: براساس نتایج به‌دست‌آمده، سهامی که در گذشته با عوامل فراگیر بازار (مومنتوم، بازار، اندازه، ارزش) همبستگی بالایی دا‌شته است، ریسک سیستماتیک، غیرسیستماتیک و بازده پایین‌تری دارد. احتمال مشاهدۀ رابطۀ معنادار همبستگی و ریسک غیرسیستماتیک سهام با گردش پایین‌تر (شاخص شفافیت اطلاعاتی) دور از انتظار نیست؛ اما این ارتباط برای شرکت‌های کوچک‌تر تصور نمی‌شود.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Objective: Modelling dynamic nature of covariance of assets return almost always is a challenging area of finance. Econometrics models just pay attention to variance behavior longitudinally, however, core of numerous finance models need the analysis of the total covariance structure of returns.
+Method: Among the first models that analyze covariance behavior are multivariate GARCH models which were criticized for the need to estimate a large number of parameters. This paper is aimed to investigate the effect of stock return dynamic correlation structure on systematic risk, idiosyncratic risk and average stock return. To this end, a sample of 148 listed companies in Tehran Stock Exchange is examined during 2003 to 2014. GARCH framework is used for testing this claim.
+Results: According to the results, securities that were highly correlated with market wide risk factors in the past are likely to have low systematic risk, idiosyncratic risk and average return at present. It can be expected there is significant relationship between idiosyncrstic risk and correlation for lower turnover stock (information transparency proxy) although there is no relationship for smaller firms.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>1</FPAGE>
+						<TPAGE>26</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>مریم</Name>
+						<MidName></MidName>		
+						<Family>دولو</Family>
+						<NameE>Maryam</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Davallou</FamilyE>
+						<Organizations>
+							<Organization>استادیار، گروه مدیریت مالی و حسابداری، دانشکدۀ مدیریت و حسابداری، دانشگاه شهید بهشتی، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار، گروه مدیریت مالی و حسابداری، دانشکدۀ</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>ma_davallou@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مرضیه</Name>
+						<MidName></MidName>		
+						<Family>خسروی</Family>
+						<NameE>marzieh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>khosravi</FamilyE>
+						<Organizations>
+							<Organization>کارشناس‌ارشد، گروه مدیریت مالی و حسابداری، دانشکدۀ مدیریت و حسابداری، دانشگاه شهید بهشتی، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس‌ارشد، گروه مدیریت مالی و حسابداری،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>khosravi.mz@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>پویایی همبستگی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ریسک اوراق بهادار</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ریسک همبستگی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>عوامل فراگیر بازار</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>1- باقرزاده، ح. سالم، ع. (1394). رابطۀ بین‌دوره‌ای ریسک و بازده با استفاده از همبستگی‌های شرطی پویا و تغییرات زمانی بتا، فصل نامه مالی دانشگاه تهران، (1)17: 20-1.##2- راعی، ر.؛ فرهادی، ر. و شیروانی، ا. (1390). رابطه در گذر زمان بین بازده و ریسک. شواهدی از الگوی قیمت گذاری دارایی سرمایه ای در گذر زمان،(ICAPM).  چشم انداز مدیریت و حسابداری، 2، 140-125##3-پاکیزه، ک. (1389). تاطم و بازده بازار: شواهدی از بورس اوراق بهادار تهران و بورس های بین الملل، فصل نامه تحقیقات مدل سازی اقتصادی، (2)1،20-1.##4-امیری، ش.؛ همایون‌فر، م.؛ کریم‌زاده، م. و فلاحی؛ م. (1394). بررسی همبستگی پویا بین دارایی‌های عمده در ایران با استفاده از روش DCC-GARCH ، پژوهش‌های رشد و توسعه پایدار (پژوهش‌های اقتصادی). (2)15، 201-183.##References##[1]  Acharya, V., &amp; Pedersen, L. (2005). Asset pricing with liquidity risk. Journal of Financial Economics, 77 (2), 375–410. Doi: 10.1016.##[2]  Amihud, Y. (2002). Illiquidity and stock returns: Cross-section and time-series effects. Journal of Financial Markets, 5, 31–56. Doi=10.1.1.145.9505&amp;rep=rep1&amp; type=pdf.##[3]  Amihud, Y., &amp; Mendelson, H. (1986). Asset pricing and the bid–ask spread. Journal of Financial Economics, 17, 223–249. Doi.org/10.1016/0304-405X (86)90065-6.##[4]  Amiri, S., Homayounifar, M., Karimzadeh, M., &amp; Falahi, M. A. (2015). Examination of dynamic correlation between major assets in Iran by DCC-GARCH approach. Quarterly Journal of Economic Research, 15 (2), 183-201. (in persian).##[5]  Andresen, T., &amp; Hansen, P. R. (2010). Asymmetric Sorrelation of Stock Portfolios Evidence from the Danish Market. (Master Thesis), Copenhagen Business School.##[6]  Ang, A., &amp; Bekaert, G. (2002). International asset allocation with regime shifts. Review of Financial Studies, 15, 1137-1187. https://Doi.org/10.1093/rfs/15.4.1137.##[7] Ang, A., &amp; Chen, J. (2002). Asymmetric correlations of equity portfolios. Journal of Financial Economics, 63, 443–494. https://Doi.org/10.1016/S0304-405X(02)00068-5.##[8] Ang, A., Chen, J., &amp; Xing, Y. (2006). Downside risk. Review of Financial Studies, 19, 1191-1239. DOI: 10.4236/jmf.2018. 81011.##[9] Bagherzadeh, H., &amp; Salem, A. (2015). The intertemporal relationship between risk and return with dynamic conditional correlation and time-varying beta. The Journal of Financial Research, 17 (1), 1-20. (in persian).##[10] Bali, T. G., &amp; Engle, R. (2010). The intertemporal capital asset pricing model with dynamic conditional correlations. Journal of Monetary Economics, 57 (4), 377-390. Doi: 10.1016/j.jmoneco.2010.03. 002.##[11] Barunik, J., Koˇcenda, E., &amp; V´acha, L. (2016). Gold, oil and stocks: Dynamic correlations. International Review of Economics &amp; Finance, 42, 186-201.##[12] Bertero, E., &amp; Mayer, C. (1990). Structure and performance: Global interdependence of stock markets around the crash of October. European Economic Review, 34 (6), 1155-1180. https://Doi.org/10.1016/0014-2921(90)90073-8.##[13] Bollerslev, T. (1986). Generalized autoregressive conditional heteroskedasticity. Journal of Econometrics, 31 (3), 307–327. https://Doi.org/10.1016/0304-4076(86) 90063-1.##[14] Bollerslev, T., Engle, R. F., &amp; Wooldridge, J. M. (1988). A capital asset pricing model with time-varying covariances. Journal of Political Economy, 96 (1), 116–131. Doi:10.1086/261527.##[15] Brandt, M. W., Brav, A., Graham, J. R., &amp; Kumar, A. (2010). The idiosyncratic volatility puzzle: Time trend or speculative episode? Review of Financial Studies, 23, 863-899.##[16] Brown, G., &amp; Kapadia, N. (2007). Firm-Specific risk and equity market development. Journal of Financial Economics, 84, 358-388. https://Doi.org/10.1016/j.jfineco.2006. 03.003.##[17] Buraschi, A., Kosowski, R., &amp; Trojani, F. (2011). When there is no place to hide: Correlation risk and the cross-section of hedge fund returns, (Working paper). Available at:http://efa2011.efa-online.org/fisher.osu.edu/blogs/efa2011/files/APE_9_3.pdf. https://Doi.org/10,1111/ j.1540-6261,.2009,.01533.x.##[18] Cao, C., Simin, T., &amp; Zhao, J. (2008). Can growth options explain the trend in idiosyncratic risk? Review of Financial Studies, 21 (6), 2599–2633. https://Doi.org/10.1093/rfs/hhl039.##[19] Cao, X., &amp; Xu, Y. (2010). Long-run idiosyncratic volatilities and cross-sectional stock returns. University of Texas at Dallas. (Working Paper). Available at: https://ssrn.com/abstract=1569945 or http://dx.Doi.org/10.2139/ssrn.1569945.##[20] Carhart, M. M. (1997). On persistence in mutual fund performance. Journal of Finance, 52, 57–82.##[21] Dennis, P., &amp; Strickland, D. (2004). The determinants of idiosyncratic volatility. (Working paper). Available at: http://media.terry.uga.edu/documents/finance/strickland.pdf. Doi/abs/10.1111/j.1540-6261. 2009.01467.x.##[22] Driessen, J., Maenhout, P. J., &amp; Vilkov, G. (2009). The price of correlation risk: Evidence from equity options. The Journal of Finance, 64 (3), 1377–1406.##[23] Engle, R. (1982). Autoregressive conditional heteroscedasticity with estimates of the variance of United Kingdom inflation. Econometrica, 50 (4), 987–1007. DOI: 10.2307/1912773.##[24] Engle, R. F. (2002). Dynamic conditional correlation: A simple class of multivariate generalized autoregressive conditional heteroskedasticity models. Journal of Business and Economic Statistics, 20, 339–350.Doi/abs/10.1198/0735001022886 18487.##[25] Fama, E. F., &amp; French, K. R. (1993). Common risk factors in the returns on stocks and bonds. Journal of Financial Economics, 33, 3–56. Doi=10.1.1.139.5892&amp;rep=rep1&amp;type=pdf.##[26] Fama, E. F., &amp; French, K. R. (2004). New lists: Fundamentals and survival rates. Journal of Financial Economics, 73 (2), 229-269. https://Doi.org/10.1016/j.jfineco. 2003.04.001.##[27] Fama, E., &amp; MacBeth, J. (1973). Risk, return and equilibrium: Empirical tests. Journal of Political Economy, 81, 607-636. Doi/abs/10.1086/260061.##[28] Goetzmann, W., Li, L., &amp; Rouwenhorst, G. (2005). Long term global market correlations. Journal of Business, 78, 1-38. DOI: 10.1086/426518.##[29] Hong, Y., Tu, J., &amp; Zhou, G. (2007). Asymmetries in stock returns: Statistical tests and economic evaluation. Review of Financial Studies, 20 (5), 1547–1581. DOI: 10.1093/rfs/hhl037.##[30] Huang, W., Liu, Q., Rhee, S., &amp; Zhang, L. (2010). Return reversal, idiosyncratic risk and expected returns. The Review of Financial Studies, 23 (1), 147-168.##[31] Kallberg, J., &amp; Pasquariello, P. (2008). Time-series and cross-sectional excess comovement in stock indexes. Journal of Empirical Finance, 15, 481–502. https://Doi.org/10.1016/j.jempfin.2007.06.002.##[32] King, M., &amp; Wadhwani, S. (1990). Transmission of volatility between stock markets. Review of Financial Studies, 3, 5-33. http://dx.Doi.org/10.,1093/rfs/3,1,5.##[33] Koch, P. D. &amp; Koch, T. W. (1991). Evolution in dynamic linkages across national stock indexes. Journal of International Money and Finance, 10, 231-251. https://Doi.org/10.1016/0261-5606(91)90037.##[34] Krishnan, C., Petkova, R., &amp; Ritchken, P. (2009). Correlation risk. Journal of Empirical Finance, 16, 353–367.##[35] Lee, S. C., Lin, C. T., &amp; Yang, C. K. (2011). The asymmetric behavior and procyclical impact of asset correlations. Journal of Banking &amp; Finance, 35, 2559–2568. http://dx.Doi.org/10.1016/j.jbankfin. 2011.02.014.##[36] Longin, F., &amp; Solnik, B. (2001). Correlation structure of international equity markets during extremely volatile periods. Journal of Finance, 56, 649-676. DOI: 10.1111/0022-1082.00340.##[37] Malkiel, B. G., &amp; Xu, Y. (2003). Investigating the behavior of idiosyncratic volatility. Journal of Business, 76, 613-644. DOI: 10.1086/377033.##[38] Markowitz, H. (1952). Portfolio Selection. The Journal of Finance, 7 (1), 77-91. DOI: 10.4236/am.2012.330210.##[39] Merton, R. C. (1973). An intertemporal asset pricing model. Econometrica, 41, 867-887. https://Doi.org/10.1016/0304-405X(79)90016-3.##[40] Oztek, M., &amp; Ocal, N. (2017). Financial crises and the nature of correlation between commodity and stock markets. International Review of Economics &amp; Finance, 48,56-68.##[41] Pakizeh, K. (2011). Volatility and Return (Empirical Evidence from Tehran and International Stock Exchanges). Journal of Economic Modeling Research, 1 (2), 1-20. (in persian).##[42] Pastor, L., &amp; Stambaugh, R. (2003). Liquidity risk and expected stock returns. Journal of Political Economy, 111 (3), 642–685. http://dx.Doi.org/10.1086/374184.##[43] Raei, R., Farhadi, R., &amp; Shirvani, A. (2012). Relation of return and risk in pass of time: Evidence from Intertemporal Capital Asset Pricing Model. Journal of Financial Management Perspective, 2, 125-140. (in persian).##[44] Vozlyublennaia, N., &amp; Meshcheryakov, A. (2014). Dynamic correlation structure and security risk. Journal of Economics and Business, 73, 48-64. http://dx.Doi.org/10.1016/j.jeconbus.2014. 01. 003.##[45] Wei, S., &amp; Zhang, C. (2006). Why did individual stocks become more volatile? Journal of Business, 79 (1), 259–292. DOI: 10.1086/497411.##[46] www.codal.ir##[47] www.tsetmc.com##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تأثیر نگرش کوتاه‌مدت مدیران در چسبندگی هزینۀ شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران</TitleF>
+				<TitleE>The Effect of Managerial Short-Termism on Cost Stickiness of Firms Listed on Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف: توضیح رفتار هزینه‌ها، اهمیت ویژه‌ای در مطالعات حسابداری و مالی دارد و مطالعات اخیر نشان داده است چسبندگی هزینه‌ها، بخشی جدانشدنی‌ از انگیزۀ مدیران را در کنترل و مدیریت هزینه‌ها شامل می‌شود. هدف از این پژوهش، بررسی ارتباط نگرش کوتاه‌مدت مدیریت و چسبندگی هزینه‌ها است. روش:  برای اندازه‌گیری نگرش کوتاه‌مدت مدیریت، از سه معیار اقلام تعهدی اختیاری جاری و اقلام واقعی (با دستکاری فروش و کاهش مخارج اختیاری) و همچنین از سایر متغیرهای کنترلی مؤثر در چسبندگی هزینه همچون تعداد کارکنان، حجم دارایی، کاهش فروش متوالی، لگاریتم طبیعی به‌علاوۀ بازده سهام سالانۀ اولیه، جریان نقد آزاد و پرداخت‌های ثابت مدیران استفاده شده است. جامعۀ آماری پژوهش حاضر، 95 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران برای دورۀ زمانی 1384-1393 است. نتایج: براساس نتایج پژوهش، رابطۀ مدیریت سود بر مبنای اقلام واقعی با کاهش مخارج اختیاری و چسبندگی هزینه‌ها پذیرفته می‌شود و گفتنی است نگرش کوتاه‌مدت مدیران، ارتباط منفی و معناداری با چسبندگی هزینه دارد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Objective: Cost and expense stickiness is an important issue in accounting and economics research, and the literature has shown that cost stickiness cannot be separated from managers’ motivations. This study examines the relationship between managerial short-termism and Cost Stickiness. Method: To measure managerial short-termism were used three criteria discretionary accruals and the actual items (through manipulation of sales and a reduction in discretionary spending) and also other control variables affecting cost stickiness such as the number of the staff, the amount of assets, and sales decline continuous, natural logarithm 1 in addition to the yield of initial annual share, free cash flow, constant payment to managers. Sampling population of the present study includes 95 accepted companies at Tehran stock exchange and manufacturing parts in the time period of 2005-2014. Results: Based on the findings the effects of earnings management based on actual items through reduction in discretionary spending on cost Stickiness is confirmed and can say managerial short-termism has a negative and meaningful relationship with cost stickiness.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>27</FPAGE>
+						<TPAGE>44</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>زهره</Name>
+						<MidName></MidName>		
+						<Family>حاجیها</Family>
+						<NameE>Zohreh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Hajiha</FamilyE>
+						<Organizations>
+							<Organization>دانشیار، گروه حسابداری، واحد تهران شرق، دانشگاه آزاد اسلامی ، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار، گروه حسابداری، واحد تهران شرق، دانشگاه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>drzhajiha@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>کاوه</Name>
+						<MidName></MidName>		
+						<Family>قادری</Family>
+						<NameE>Kaveh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Ghaderi</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد، گروه حسابداری، دانشکده مدیریت، دانشگاه پیام نور، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد، گروه حسابداری، دانشکده مدیریت،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>z_hajiha@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>صلاح الدین</Name>
+						<MidName></MidName>		
+						<Family>قادری</Family>
+						<NameE>Salah E Din</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Ghaderi</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی دکتری، گروه حسابداری، دانشگاه آزاد اسلامی، واحد تهران مرکز، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی دکتری، گروه حسابداری، دانشگاه آزاد</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>ghaderi_acc@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>اقلام تعهدی اختیاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>چسبندگی هزینه</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مدیریت سود</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نگرش کوتاه‌مدت مدیریت</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>منابع فارسی##آقایی، م. حسنی، ح.(1393). بررسی تاثیر انگیزه­های شخصی مدیران و حاکمیت شرکتی بر چسپندگی هزینه در شرکنه­های پذیرفته شده در بورس اوراق بهادار تهران. پژوهش­های حسابداری مالی، 6 (22): 128-109.##بنی مهد، ب.؛ حساس یگانه، ی. یزدانیان، ن. (1393). مدیریت سود و اظهارنظر حسابرس: شواهدی از بخش خصوصی حسابرسی. حسابداری مدیریت، 7 (21): 32-17.##بهارمقدم، م. کاوسی، م.(1392). بررسی عدم تقارن زمانی سود ناشی از محافظه­کاری و چسبندگی هزینه­ها. دانش حسابداری، 4 (15): 77-55.##خانی، ع.؛  امیری، ه، محمد­علی ش. (1393). بررسی اثر انگیزه­های شخصی مدیران بر عدم تقارن هزینه­ها در بورس اوراق بهادار تهران. پژوهش­های حسابداری مالی، 6 (19): 74-57.##زنجیردار، م.؛ غفاری آشتیانی، پ. مداحی، ز. (1393). بررسی وتحلیل عوامل موثر بر رفتار چسبندگی هزینه. حسابداری مدیریت، 7 (2): 91-79.##سجادی، ح.؛ حاجی‌زاد، س، نیک‌کار، ج. (1393). تأثیر چسبندگی هزینه بر تقارن زمانی سود با تأکید بر ارتباط میان چسبندگی هزینه و محافظه‌کاری شرطی. دانش حسابداری، 5 (16): 99-81.##عربصالحی، م.؛ حمیدیان، ن. قجاوند، ر. (1394). تاثیر ارزشگذاری بیش از حد سهام بر مدیریت سود واقعی شرکت­های پذیرفته شده در بورس اوراق بهادار تهران. مدیریت دارایی و تأمین مالی، 3 (3): 66-49.##کردستانی، غ، سید مرتضی م. (1391). بررسی تأثیر تصمیمات سنجیده مدیران بـر چسـبندگی هزینـه­هـا. بررسی­های حسابداری و حسابرسی، 19 (67):90-73.##کردستانی، غ. سید مرتضی، م .(1391). شناسایی عوامل تعیین کننده چسـبندگی هزینـه­هـا. پژوهش­های تجربی حسابداری مالی، 4(3): 32-13.##مهرانی، س. باقری، ب. (1388). بررسی اثر جریان نقد آزاد و سهامداران نهادی بر مدیریت سود. تحقیقات حسابداری، 1 (2): 64-51.##Aboody, D., Hughes, J., &amp; Liu, J. (2005). Earnings quality, insider trading, and cost of capital. Journal of Accounting Research. 43(5): 651–673.##Aghaei, M., &amp; Hasani, H. (2014). Study of the effect of managers&#039; personal incentives and corporate governance variables on costs stickiness in companies listed in Tehran Stock Exchange. Financial Accounting Researches. 6(22): 109-128. (in persian).##Anderson, M. C., Banker, R., Huang, R., &amp; Janakiraman, S. )2007(. Cost behavior and fundamental analysis of SG &amp; A costs. Journal of Accounting Auditing &amp; Finance. 22(1): 16-28.##Anderson, M. C., Banker, R., &amp; Janakiraman, S. (2003). Are selling general and administrative costs sticky? Journal of Accounting Research. 41(1): 47-63.##Arabsalehi, M., Hamidian, N., &amp; Ghajavand, Z. (2015). The effect of over-valuation stock price on real earnings management in listed companies of tehran Stock Exchange. Asset Management &amp; Fianaciang. 3 (3): 49-66. (in persian).##Baharmoghadam, M., &amp; Kavosi, M. (2014). Investigating of asymmetric timelines of earning due to conservatism and cost stickiness. Journal of Accounting Knowledge. 4(15): 55-77. (in persian).##Banimahd, B., Hasas Yeganeh, Y., &amp; Yazdanian, N. (2014). Earnings management and audit opinion: Evidences of private audit firms. Management Accounting. 7(21): 17-32. (in persian).##Bhojraj, S., &amp; Libby, R. (2005). Capital market pressure, disclosure frequency-induced earnings/cash flow conflict, and managerial myopia. The Accounting Review. 80(1): 1–20.##Bolou, Gh., Moazez, E., Khan-hosseini, D., &amp; Nikoonesbati, M. (2012). The relationship between managers’ standpoints and ‘sticky prices’ in Tehran Stock Exchange. The Journal of Planning and Budgeting. 17(3): 79-95.##Brochet, F., Loumioti, M., &amp; Serafeim, G. (2015). Speaking of the short-term: Disclosure horizon and managerial myopia. Review of Accounting Studies. 20(3): 1122-1163.##Bushee, B. (1998). The influence of institutional investors on myopic R &amp; D investment behaviour. The Accounting Review. 73(3): 305–333.##Chen, Y., Ghon Rhee, S., Veeraraghavan, M., &amp; Zolotoy, L. (2015). Stock liquidity and managerial short-termism. Journal of Banking &amp; Finance. 60: 44-59.##Chen, X., Lu, H., &amp; Sougiannis, T. (2008). Managerial empire building, corporate governance, and the asymmetrical behavior of selling general and administrative costs. Working paper. University of Illinois at Urbana: Champaign.##Chen, C., Lu, H., &amp; Sougiannis, T. (2012). The agency problem, corporate governance, and the asymmetrical behavior of selling, general, and administrative costs. Contemporary Accounting Research. 29(1): 252-282.##Chung, R., Firth, M., &amp; Kim, J. B. (2005). Earnings management, surplus free cash flow, and external monitoring. Journal of Business Research. 58: 766 –776.##Cohen, A., &amp; Zarowin, P. (2010). Accrual-based and real earnings management activities around seasoned equity offerings. Journal of Accounting and Economics. 50(1): 2–19.##De Jong, A., Mertens, G., Van Der Poel, M., &amp; Van Dijk, R. (2014). How does earnings management influence investor’s perceptions of firm value? Survey evidence from financial analysts. Review of Accounting Studies. 1: 606–627.##Dechow, P., &amp; Dichev, I. (2002), The quality of accruals and earnings: The role of accrual estimation errors. The Accounting Review. 77: 35-59.##Dichev, I. D., Graham, J. R., Harvey, C. R., &amp; Rajgopal, S. (2013). Earnings quality: Evidence from the field. Journal of Accounting and Economics. 56(1): 1–33.##Francis, J., Nanda, D., &amp; Olsson, P. (2008). Voluntary disclosure, earnings quality, and cost of capital. Journal of Accounting Research. 46(1): 53–99.##Graham, J. R., Harvey, C. R., &amp; Rajgopal, S. (2005). The economic implications of corporate financial reporting. Journal of Accounting and Economics. 40(1–3): 3–73.##Horngren, C. T., Foster, G., &amp; Datar, S. M. (2008). Cost accounting: A managerial emphasis. Upper Saddle River. NJ: Prentice Hall. 9 pbtEd Rio de Janeiro: LTC.##Jeong-Ho, K., Seungah, S., &amp; Tae-Young, P. (2015). Earning management and cost stickiness. Advanced Science and Technology Letters. 84: 40-44.##Jones, J. (1991). Earning management during import relief investigation. Journal of Accounting Research. 29(2): 193-228.##Kama, I., &amp; Weiss, D. (2013). Do earnings targets and managerial incentives affect sticky costs? Journal of Accounting Research. 51(1): 201-224.##Kanniainen, V. (2000) Empire building by corporate manager: The corporation as a saving instrument. Journal of Economic Dynamics and Control. 24(1): 127-142.##Karpoff, J. M., Lee, S., &amp; Martin, G. (2008). The costs to firms of cooking the books. Journal of Financial and Quantitative Analysis. 43(3): 581–612.##Khani, A., Amiri, H., &amp; Shahmohammadi, M. (2014). The effect of personal incentives managers on costs asymmetric in Tehran Stock Eexchange. Financial Accounting Researches. 6(19): 57-74. (in persian).##Kordestani, G., &amp; Mortazavi, S. (2012). The impact of managers’ deliberate decisions on costs’ stickiness. The Iranian Accounting and Auditing Review. 19(67): 73-90. (in persian).##Kordestani, G., &amp; Mortazavi, S. (2012). The identification of determinant factors on firms’ costs’ stickiness. Financial Accounting Researches. 4(3): 13-29. (in persian).##La Porta, R., Lopez de Silanes, F., Vishny, R., &amp; Shleifer, A. (2000). Agency problems and dividend policies around the word. Journal of finance. 60(1): 1-33.##Mehrani, S., &amp; Bagheri, B. (2009). The effect of free cash flow and institutional shareholders on earnings management in listed companies in Tehran Stock Exchange. Accounting Research. 1(2): 51-64. (in persian).##Roychowdhury, S. (2006). Earnings management through real activities manipulation. Journal of Accounting and Economics. 42(3): 335-370.##Sajadi, H., Hajizadeh, S., &amp; Nikkar, J. (2014). Effect of cost stickiness on symmetry time profit with emphasis on relationship between cost stickiness and conditional conservatism. Journal of Accounting Knowledge. 5(16): 81-99. (in persian).##Shuang X., &amp; Yun, H. (2015). Earnings management, corporate governance and expense stickiness. China Journal of Accounting Research. Available online 11 March 2015.##Stein, J. (1989). Efficient capital market, inefficient firms: A model of myopic corporate behaviour. Quarterly Journal of Economics. 104(4): 655–669.##Teoh, S., &amp; Wong, T. (2002). Why new issues and high accrual firms underperform: The case of analysts’ credulity. Review of Financial Studies. 15(3): 869–900.##Yasukata, K., &amp; Kajiwara, T. (2011). Are rticky costs the result of deliberate decision of managers? Online: http://www.ssrn.com.##Zanjirdar, M., Ghafari AShtiyani, P., &amp; Madahi, Z. (2014). Review and analyze the factors affecting the behavior of sticky costs. Management Accounting. 7(20): 79-91. (in persian).##Zang, Y. (2005). Evidence on the tradeoff between real manipulation and accrual manipulation. Working paper. University of Rochester. Available at http://ssrn.com/ abstract = 961293.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>توضیح بازده غیرعادی مرتبط با ریسک ورشکستگی با استفاده از الگوی دو بتا بر مبنای ریسک نرخ تنزیل و ریسک جریان نقدی</TitleF>
+				<TitleE>Explaining the Default Risk Premium Anomaly Using Two Beta Model</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف: ناتوانی الگوی قیمت‌گذاری دارایی سرمایه‌ای در توضیح بازده غیرعادی مرتبط با ریسک ورشکستگی شرکت‌ها سبب شده است برخی از پژوهشگران بکوشند ریسک ورشکستگی را با استفاده از الگوی دو بتا توضیح دهند. الگوی دو بتا با استفاده از اخبار جریان نقدی و اخبار نرخ تنزیل، بتای بازار دارایی را به بتای جریان نقدی و بتای نرخ تنزیل تجزیه می‌کند. هدف این پژوهش، بررسی قابلیت الگوی دو بتا، در توضیح ریسک ورشکستگی شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران است.
+روش: در این پژوهش، نمونه‌ای شامل 180 شرکت از میان شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران در سال‌های 1384 تا 1393 بررسی شد. برای رتبه‌بندی سهام شرکت‌ها به لحاظ ریسک ورشکستگی از الگوی اهلسون (1980) استفاده شده است.
+نتایج: نتایج حاصل از الگوی دو بتا نشان می‌دهد متوسط صرف ریسک جریان نقدی برای شرکت‌های نمونه به‌طور معناداری، بزرگ‌تر از متوسط صرف ریسک نرخ تنزیل است. به‌علاوه، با افزایش ریسک ورشکستگی شرکت‌های نمونه، بتای نرخ تنزیل افزایش و بتای جریان نقدی کاهش می‌یابد؛ بنابراین با توجه به شواهد، توانایی الگوی دو بتا در توضیح ریسک ورشکستگی شرکت‌های بورس اوراق بهادار تهران تأیید می‌شود.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Objective: Given some failures of the Capital Asset Pricing Model in explaining the default risk anomaly, some researchers have claimed the two-beta model, established by Campbell and Vulteenaho (2004), is functionally able to explain this peculiarity. Originated primarily from CAPM, two-beta model decomposes the market beta to the discount-rate beta and the cash-flow beta. In other words, the two beta model decomposes the systematic risk to the discount-rate and cash-flow risk.
+Method: In an attempt to test the ability of the model to explain the anomaly in the Tehran Sthock Exchange, we firstly ranked firms based on their default risks, measured by Ohlson’s (1980) model, and then employed the two-beta model to decompose the market beta to discount-rate beta and cash-flow beta. We, ultimately, applied a simple regression model to extract the discount-rate risk premium and cash-flow risk premium.
+Results: Our results reveal that as the default risk increases, the discount-rate beta increases and the cash-flow beta decreases. Furthermore, the cash-flow risk premium is significantly more than the discount-rate risk premium. Therefore, the two-beta model can explain the anomalous default risk existing in the Tehran Exchange Security.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>45</FPAGE>
+						<TPAGE>58</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>داریوش</Name>
+						<MidName></MidName>		
+						<Family>فروغی</Family>
+						<NameE>Daryoosh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Forooghi</FamilyE>
+						<Organizations>
+							<Organization>دانشیار گروه حسابداری، دانشکدۀ علوم اداری و اقتصاد، دانشگاه اصفهان، اصفهان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار گروه حسابداری، دانشکدۀ علوم اداری</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>foroghi@ase.ui.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>هادی</Name>
+						<MidName></MidName>		
+						<Family>امیری</Family>
+						<NameE>Hadi</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Amiri</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه اقتصاد، دانشکدۀ علوم اداری و اقتصاد، دانشگاه اصفهان، اصفهان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه اقتصاد، دانشکدۀ علوم اداری</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>h.amiri@ase.ui.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>ابراهیم</Name>
+						<MidName></MidName>		
+						<Family>صدرالدین</Family>
+						<NameE>Ebrahim</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Sadreddin</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی گروه حسابداری، دانشکدۀ علوم اداری و اقتصاد، دانشگاه اصفهان، اصفهان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی گروه حسابداری، دانشکدۀ علوم اداری</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>e.sadr@ase.ui.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>الگوی احتمال ورشکستگی اهلسون</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>الگوی دو بتا</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ریسک جریان نقدی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ریسک نرخ تنزیل</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ورشکستگی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] Campbell, J Y., &amp; Vuolteenaho, T. (2004). Bad beta, Good beta. American Economic Association. 94)5):1249-1275.##[2] Campbell, John Y., Hilscher, Jens., &amp; Szilagyi, J. (2008). In search of distress risk. Journal of Finance. 63: 2899–2939.##[3] Chung-Ying Y., Junming H, Kai-Li W., &amp; Che-Hui, L. (2015). Explaining the default risk anomaly by the two-beta model. Journal of Empirical Finance. 30(2015): 16-33.##[4] Davis, James.; Fama, Eugene F., &amp; French, Kenneth R. (2000). Characteristics, Covariances, and Average Returns: 1929 to 1997. Journal of Finance. 55(1): 389-406.##[5] Dichev, Ilia D. (1998). Is the risk of bankruptcy a systematic risk. Journal of Finance. 53: 1131–1147.##[6] Garlappi, L., Shu, T., &amp; Yan, H. (2008). Default risk, shareholder advantage and stock returns. Review of Financial Studies. 21: 2743–2778.##[7] Garlappi, L., &amp; Yan, H. (2011). Financial distress and the cross section of equity returns. Journal of Finance. 66: 789–822.##[8] Griffin, John M., &amp; Lemmon, Michael L. (2002). Does book-to-market equity proxy for distress risk?, Journal of Finance. 57: 2317–2336.##[9] Hillegeist, Stephen A., Keating, Elizabeth K., Cram, Donald P., &amp; Lundstedt, Kyle G. (2004). Assessing the probability of bankruptcy. Review of Accounting Studies. 9: 5–34.##[10] Merton, R. C. (1973). An intertemporal capital asset pricing model. Journal of Financial Economics. 41: 867–887.##[11] O&#039;Doherty, Michael. S. (2012). On the conditional risk and performance of financially distressed stocks. Management Science. 58: 1502–1520##[12] Ohlson, J. A. (1980). Financial ratios and the probabilistic prediction of bankruptcy. Journal of Accounting Research. 18: 109–131.##[13] Sharpe F. William. (1964). Capital asset prices: A theory of market equilibrium under conditions of risk. Journal of Finance. 19(3): 425-442.##[14] Yunhao C., Xiaoquan J., &amp; Bong-Soo Lee. (2015). Long-term evidence on the effect of aggregate earnings on prices. Financial Management. 44(2): 323–35.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تأثیر ساز و کارهای حاکمیت شرکتی در به‌هنگام‌بودن اطلاعات سود</TitleF>
+				<TitleE>The Impact of Corporate Governance Mechanisms on the Earning Timeliness</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف: استفاده‌کنندگان صورت‌های مالی، سود را مبنایی برای اتخاذ تصمیم­های اقتصادی به کار می­برند که برای مفیدبودن در اخذ تصمیم‌های سرمایه­گذاران باید ویژگی­هایی ازجمله به‌هنگام‌بودن داشته باشد. ساز و کارهای حاکمیت شرکتی با افشای اطلاعات مالی شفاف، مشکلات نمایندگی را به حداقل می‌رساند. هدف این پژوهش، بررسی تأثیر ساز و کارهای حاکمیت شرکتی در به‌هنگام‌بودن اطلاعات سود در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهـران است.
+روش: به‌هنگام‌بودن سود به‌عنوان یک ویژگی کیفی و نمادی از تغییر در ارزش بازار سهام و ساختار مالکیت (تمرکز مالکیت، مالکیت دولتی) و استقلال اعضای هیأت‌مدیره به‌عنوان ساز و کارهای حاکمیت شرکتی در نظر گرفته شده است. آزمون فرضیه‌های پژوهش با رویکرد تحلیل داده‌های تابلویی و به‌کارگیری نمونـه‌ای شامل 76 شـرکت پذیرفته‌شده در بورس اوراق بهادار تهـران بین سال‌های 1385 تا 1393 انجام شد.
+نتایج: نتایج پژوهش نشان داد تمرکز مالکیت، تأثیر مثبت و معناداری در به‌هنگام‌بودن سود دارد؛ به عبارتی، هرچه تمرکز در مالکیت افزایش یابد، سود حسابداری شرکت­ها به‌هنگام‌تر است، همچنین مالکیت دولتی، اثر منفی و معناداری در به‌هنگام‌بودن سود دارد؛ ولی استقلال هیأت‌مدیره در به‌هنگام‌بودن سود، تأثیری ندارد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Objectives: Users of financial statements mainly apply announced earnings as the basis for making economic decisions. However, in order to being useful for making sound decisions, the announced earnings must have some features such as timeliness. On the other hand, corporate governance mechanisms can minimize the agency problems through transparent disclosure of financial information. The purpose of this research is analyzing the effect of corporate governance mechanisms on the timeliness of announced earnings for listed companies in Tehran Stock Exchange.
+Method: In thin study, corporate ownership (concentrated ownership and state ownership) and independence of board of directors are considered as corporate governance mechanisms. We Used panel data of 76 listed companies in Tehran Stock Exchange from 2006 to 2014.
+Results: The results show that concentrated ownership has positive and meaningful effect on timeliness of earnings. In the other word, the higher the concentrated ownership, the more timeliness of earnings. On the other hand, state ownership have negative and meaningful effect on timeliness of earning and independence of board of directors have no effect on this relationship.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>59</FPAGE>
+						<TPAGE>70</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>مهدی</Name>
+						<MidName></MidName>		
+						<Family>علی نژاد ساروکلائی</Family>
+						<NameE>Mehdi</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Alinejadsaroukalaee</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه حسابداری، واحد ساری، دانشگاه آزاد اسلامی، ساری، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه حسابداری، واحد ساری، دانشگاه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mehdi12may@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>صفیه</Name>
+						<MidName></MidName>		
+						<Family>سالاری ساردویی</Family>
+						<NameE>Safieh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Salarisardoie</FamilyE>
+						<Organizations>
+							<Organization>کارشناسی ارشد حسابداری، دانشگاه آزاد اسلامی واحد علوم و تحقیقات سیرجان، سیرجان، ایران.</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناسی ارشد حسابداری، دانشگاه آزاد اسلامی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>salary.safiyeh@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>استقلال هیأت‌مدیره</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>به‌هنگام‌بودن سود</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تمرکز مالکیت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>حاکمیت شرکتی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مالکیت دولتی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>احمدپور، ا. مننظری، ه. (1390). نوع مدیریت سود و تاثیر اندازه شرکت، ساختار مالکیت و حاکمیت شرکتی بر آن، فصلنامه پیشرفت های حسابداری، 2-35: (1)3. ابراهیمی کردلر، ع. شهریاری، ع. (1388) بررسی رابطه بین هزینه‌های سیاسی و محافظه‌کاری (فرضیه سیاسی) در بورس اوراق بهادار تهران، بررسی‏های حسابداری و حسابرسی،  3-16: (4)16.##بحری ثالث، ج. بهنامون، ی. حسین زاده، ق (1392). ویژگی های هیات مدیره و مربوط بودن اطلاعات حسابداری، فصلنامه دانش حسابداری وحسابرسی مدیریت، (2)6: 51-64.##تنانی، م. صدیقی، ا. امیری، ع. (1394). بررسی نقش سازوکارهای حاکمیت شرکتی در کاهش ریسک ریزش قیمت سهام شرکت های پذیرفته شده در بورس اوراق بهادار تهران، فصلنامهعلمی- پژوهشیمدیریتداراییوتأمینمالی،## 4 :31-50##رزمیان فیض آبادی، ع. هشی، ع. (1392). تاثیر ترکیب هیات مدیره بر محتوای اطلاعاتی و کیفیت سود شرکت های پذیرفته شده در بورس اوراق بهادار تهران، دانش حسابداری،4(13):105-127##سبز علی پور، ف. قیطاسی، ر. رحمتی، س. (1391). تاثیر ترکیب هیات مدیره بر محتوای اطلاعاتی و کیفیت سود شرکت های پذیرفته شده در بورس اوراق بهادار تهران، پژوهش های حسابداری مالی، 4(2):123-140.##عباسی، ا. رستگارنیا، ف. (1391). تاثیر ساختار مالکیت بر ارزش شرکتها در بورس اوراق بهادار تهران، فصل نامه پژوهش های تجربی در حسابداری، دوره 2، (1) 5: 33-50 .##کردستانی، غ. خلیلی، م. (1390). تاثیر محافظه کاری بر محتوای اطلاعاتی تفاضلی جریان های نفدی و اقلام تعهدی، مجله دانش حسابداری، 2(4):83-104##کردستانی، غ. طایفه، س. (1392). ویژگی های کیفی سود و هزینه سرمایه سهام عادی، فصلنامه تحقیقات مالی، 15(1):75-94 مشایخ، ش. اسماعیلی، م. (1385). بررسی رابطه بین کیفیت سود و برخی از جنبه‌های اصول راهبری در شرکت‌های پذیرفته شده در بورس تهران، بررسی های حسابداری و حسابرسی، 13(3):25-44.##ذبیحی، ع. حنیفه، م.(1394). تاثیر مکانیزم های حاکمیت شرکتی بر به موقع بودن گزارش سود، کنفرانس بین المللی مدیریت اقتصادو علوم کشاورزی، 1 -17.##References##Abbasi, E., &amp; Rastegarnia, F. (2012). The effect of ownership structure on firms`value in Tehran Stock Exchange. Journal of Empirical Research in Accounting. 2 (1): 33-50. (in Persian).##Ahmadpoor, A., &amp; Montazeri, H. (2011). Type of earnings management and the impact of company size, ownership structure and corporate governance onearnings management. Journal of Accounting Advances. 3(2): 1-35. (in Persian).##Bahri-Sales, J., Behnamoon, &amp; Y. Hoseinzadeh, Gh.)2013 (.Board of directors characteristics and value relevance of accounting information in Tehran Stock Exchange (TSE). Iranian Management  Accounting Association. 2(6): 51–64. (in Persian).##Cullen, M., Kirwan, C., &amp; Brennan, N. )2007(. Comparative analysis of corporate governance theory. The Agency – Stewardship Continnum, Annual Conference of The Irish Accounting and Finance Association, Institute of Technology.##Ebrahimi Kordlar, A., &amp; Shahriari, A. (2009). A review of relationship between the political costs and conservatism in Tehran Stock Exchange. Journal of The Accounting and Auditing Review. 16(4): 3-16. (in Persian).##Jensen, M. C., &amp; Meckling, W. H. )1976.( Theory of the firm: Managerial behavior, agency costs and ownership structure. Journal of Financial Economics. 3(4): 305-360.## Kordestani, G., &amp; Khalili, M. (2011). Impact of accounting conservatism on differential information content of cash flows and accruals. Journal of Accounting Knowledge. 2(4): 83-104. (in Persian).##Kordestani, G., &amp; Tayefe, S. (2013). Profit qualitative characteristics and cost of equity. Journal of Financial Research. 15(1): 75-94. (in Persian).## Lim, M., How, J., &amp; Verhoeven, P. )2013(. Corporate ownership, corporate governance reform and timeliness of earnings:Malaysian evidence. Journal of Contemporary Accounting &amp; Economics. 10(1): 32-45.## Mashayekh, S., &amp; Ismaili, M. (2006). The relationship between earnings quality,and some aspects of governancein companies listedonthe Tehran Stock Exchange. Journal of The Accounting and Auditing Review. 13(3): 25-44. (in Persian).## Razmian Feizabadi, A., &amp; Hashi, A. (2013). Effect of board composition on informativeness and quality of earnings: evidence from companies listed in Tehran Stock Exchange. Journal of Accounting Knowledge. 4(13): 105-127. (in Persian).##SabzaliPoor, F., Qeytas, R., &amp; Rahmati, S. (2012). The relationship between corporate governance mechanisms and accurately predictearnings. Journal of Financial Accounting Research. 4(2): 123-140. (in Persian).##Tanani, M., Sedighi, A., &amp; Amiry, A. )2016(. The role some of corporate governance mechanisms in reducing the risk of share price crash in accepted companies in tehran stock exchange .Asset Management &amp; Financing. 3 (4): 31–50. (in Persian).## Zabihi, A., &amp; Hanifeh, M.)2015 (.The impact of corporate governance mechanisms on the timeliness of Reportingearningsin listed companies in Tehran Stock Exchang. Internationnal Conference on Economics Management and Agricultural Sciences. 1-17. https://www.civilica.com/Paper-ICMAS01-ICMAS01_260.html. (in Persian)##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی رابطۀ کارآیی سرمایه در گردش با انحراف از سطح بهینۀ ساختار سرمایه در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران</TitleF>
+				<TitleE>Investigation of the Relationship between Working Capital Efficiency and Deviation from the Optimal Level of Capital Structure in Firms Listed in Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>اهداف: واحدهای تجاری، راهکارهای جدیدی برای رشد و بهبود عملکرد مالی و کاهش ریسک در تأمین منابع مالی جستجو می‌کنند. با توجه به نقش کارآیی سرمایه در گردش در نحوۀ تأمین مالی شرکت‌ها، هدف، بررسی رابطۀ کارآیی سرمایه در گردش با انحراف از سطح بهینۀ ساختار سرمایه است. نوآوری این پژوهش استفاده از الگوی باتاچاریا برای اندازه‌‌گیری کارآیی سرمایه در گردش است.
+روش: دورۀ مدنظر برای آزمون فرضیه‌ها، سال‌‌های 1385 تا 1396 بوده و از داده‌‌های 172 شرکت پذیرفته‌‌شده در بورس اوراق بهادار تهران استفاده شده است.
+نتایج: نتایج حاصل از تخمین الگوی‌‌ پژوهش نشان می‌‌دهد با افزایش کارآیی سرمایه در گردش می‌توان میزان انحراف ساختار سرمایه از سطح بهینه را کاهش داد. افزون بر این، رابطۀ کارآیی سرمایه در گردش با انحراف از سطح بهینۀ ساختار سرمایه در شرکت‌های بیش‌اهرمی به‌‎صورت معناداری از شرکت‌های کم‌اهرمی، قوی‌تر است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Objective: Business units are looking for new ways to improve their financial performance and reduce their risk level while financing. Considering previous studies focusing on the role of working capital efficiency on companies finance, we aim to examine the relationship between working capital efficiency and deviation from the optimal level of capital structure.
+Method: In this research, two main hypotheses are proposed; firstly, to examine the previously mentioned relationship, and secondly, to measure the difference between the efficiency of working capital and the capital structure in terms of over-leveraged and under-leveraged companies. The data sample is restricted to 179 Firms listed in Tehran Stock Exchange during 2006-2017.
+Results: The results demonstrate that with increasing working capital efficiency, the amount of capital structure deviation from the optimal level can be reduced. In addition, the relationship between the efficiency of working capital and the deviation from the optimal level of capital structure in over-leveraged firms is significantly higher than under-leveraged firms.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>71</FPAGE>
+						<TPAGE>84</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>حسن</Name>
+						<MidName></MidName>		
+						<Family>زلقی</Family>
+						<NameE>Hassan</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Zalaghi</FamilyE>
+						<Organizations>
+							<Organization>استادیار، گروه حسابداری، دانشکدۀ اقتصاد و علوم اجتماعی، دانشگاه بوعلی سینا، همدان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار، گروه حسابداری، دانشکدۀ اقتصاد و</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>zalaghi@basu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>روح اله</Name>
+						<MidName></MidName>		
+						<Family>آماره</Family>
+						<NameE>Ruhollah</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Amareh</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی کارشناسی‌ارشد، گروه حسابداری، دانشکدۀ اقتصاد و علوم اجتماعی، دانشگاه بوعلی سینا، همدان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی کارشناسی‌ارشد، گروه حسابداری، دانشکدۀ</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>sarab2nya@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کارآیی سرمایه در گردش</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ساختار سرمایۀ بهینه</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بیش‌اهرمی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>کم‌اهرمی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] اعتمادی، ح.، و منتظری، ج. (1392). بررسی عوامل مؤثر بر ساختار سرمایۀ شرکت‌های پذیرفته‎شده در بورس اوراق بهادار تهران با تأکید بر رقابت بازار تولید. فصلنامۀ بررسی‏‌های حسابداری و حسابرسی، 20 (3)، 26-1.##[2] پورنجار، پ.، عادل، آ.، هادی، ش.، و روغنیان، ع. (1394). بررسی رابطۀ بین عناصر مدیریت سرمایه در گردش و ساختار سرمایه در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. اولین کنفرانس بین‌المللی مهندسی صنایع، مدیریت و حسابداری، به‌صورت الکترونیکی، مؤسسۀ پژوهشی البرز.##[3] حقیقت، ح.، و بشیری، و. (1391). بررسی رابطۀ انعطاف‌پذیری مالی و ساختار سرمایه. مجلۀ علمی -پژوهشی دانش حسابداری، (8) 3، 71-49.##[4] سپاسی، س.، حسنی، ح.، و سلمانیان، ل. (1396). مدیریت سرمایه در گردش، عملکرد مالی و محدودیت‌های تأمین مالی: شواهدی از بورس اوراق بهادار تهران. مدیریت دارایی و تأمین مالی، (4) 5، 116-99.##[5] ستایش، م.، و غیوری‌مقدم، ع. (1388). تعیین ساختار بهینۀ سرمایه در سطح صنایع با استفاده از تکنیک تحلیل پوششی داده‌ها.(DEA) . پژوهش‌های حسابداری مالی، (1) 1، 33-52.##[6] ستایش، م.، کاظم‌‌نژاد، م. و شفیعی، م. (1388). کاربرد الگوریتم ژنتیک در تعیین ساختار بهینۀ سرمایۀ شرکت‌های پذیرفته‎‌شده در بورس اوراق بهادار تهران. بررسی‏‌های حسابداری و حسابرسی، (2) 16، 58-39.##[7] ستایش، م.، منفردمهارلویی، م.، و ابراهیمی، ف. (1390). بررسی عوامل مؤثر بر ساختار سرمایه از دیدگاه تئوری نمایندگی. پیشرفت‌های حسابداری، (1) 3، 89-55.##[8] فتحی، س.، حبیبی، س.، و ابزری، م. (1393). فراتحلیل عوامل تعیین‌کنندۀ ساختار سرمایه در سطح شرکت. مدیریت دارایی و تأمین مالی، (1) 2، 55-74.##[9] فرمان‌آرا، الف.، عارف‌نژاد، م.، و جعفری، م. (1395). تأثیر مدیریت سرمایه در گردش و اهرم مالی بر سودآوری برخی شرکت‌های بورس اوراق بهادار تهران،  اقتصاد مالی (34) 10، 167-187.##[10] کردستانی، غ.، و فدائی‌کلورزی، الف. (1391). بررسی رابطۀ بین عدم تقارن اطلاعاتی و ساختار سرمایه در شرکت‏های پذیرفته‌شده در بورس اوراق بهادار تهران، پژوهش حسابداری، (4) 2، 100-77.##[11] کردستانی، غ.، و نجفی‌عمران، م. (1387). بررسی عوامل تعیین‎کنندۀ ساختار سرمایه: آزمون تجربی نظریۀ موازنۀ ایستا در مقابل نظریۀ سلسله‌مراتبی. فصلنامۀ تحقیقات مالی، 4، 90-73.##[12] کریمی، ف.، و اشرفی، م. (1390). بررسی ارتباط سازوکارهای نظام راهبری شرکتی و ساختار سرمایه در بورس اوراق بهادار تهران. پژوهش‌های حسابداری مالی، (2) 3، 92-79.##[13] مقدم، ع.، و مؤمنی‌یانسری، الف. (1391). بررسی تأثیر برخی ویژگی‎های نظام راهبری شرکت بر تصمیم‎های ساختار سرمایۀ شرکت‎های پذیرفته‌‎شده در بورس اوراق بهادار تهران، فصلنامۀ بررسی‏‌های حسابداری و حسابرسی، (68) 19، 123-136.##[14] نوو، ر. (1381). مدیریت مالی، ترجمۀ علی جهانخانی و علی پارساییان، تهران: سمت.##References##[15] Afza, T., &amp; Adnan, S. M. (2007). Determinants of corporate cash holdings: A case study of Pakistan. In Proceedings of Singapore Economic Review Conference(SERC), Organized by Singapore Economics Review and the University of Manchester, Singapore, 164-165. [Online], Available at: https://editorialexpress. com/cgi-bin/conference/download.cgi? db_name=SERC2007&amp;paper_id=166.##[16] Afza, T., &amp; Nazir, M. S. (2011). Working capital management efficiency of cement sector of Pakistan. Journal of Economics and Behavioral Studies. 2 (5): 223-235. http://amhinternational.com/journal/index.php/jebs/article/view/240.##[17] Aktas, N., Croci, E., &amp; Petmezas, D. (2015). Is working capital management value-enhancing? Evidence from firm performance and investments. Journal of Corporate Finance, 30 (1): 98-113. https://doi.org/10.1016/j.jcorpfin.2014.12.008.##[18] Appuhami, R. (2009). Corporate investments and the dual-role of working capital: Evidence from Thailand. Cmawebline. Org, 7 (1), 53–62. https://cmawebline.org/jamar/17-jamar-winter-2009.html.##[19] Bhattacharya, H. (1997). Total Management by Ratios. New Delhi: Sage Publications India Pvt Ltd. ISBN-10: 0761936211.##[20] Caballero, S. B., Teruel, P. J. G., &amp; Solano, P. M. (2014). Working capital management, corporate performance and financial constraints. Journal of Business Research, 67 (3), 332-338. https://doi.org/10.1016/ j.jbusres.2013.01.016.##[21] Chen, J., &amp; Strange, R. (2005). The determinants of capital structure: Evidence from Chinese listed companies. Economic Change and Restructuring, 38 (1), 11-35. http://doi.org/10.1007/s10644-005-4521-7.##[22] Cossin, D., &amp; Hricko, T. (2004). The benefits of holding cash: A real options approach. Managerial Finance, 30 (5): 29-43. DOI: 10.1108/03074350410769056.##[23] Diang, S., Guarigila, A., &amp; Knight, J. (2013). Investment and financing constraints in China: Does working capital management make a difference? Journal of Banking &amp; Finance, 37 (5): 1490-1507. DOI: http://doi.org/10.1016/j.jbankfin. 2012.03.025.##[24] Eljelly, A. M. A. (2004). Liquidity ‐ profitability tradeoff: An empirical investigation in an emerging market. International Journal of Commerce and Management, 14 (2), 48–61. https://doi.org/ 10.1108/10569210480000179.##[25] Etemadi, H., &amp; Montazeri, J. (2013). Investigating factors affecting the capital structure of companies accepted in Tehran Stock Exchange with emphasis on market competitiveness. Quarterly Journal of Accounting and Auditing, 20 (3), 1-26. (in Persian).##[26] FarmanAra, O., Arefnejad, M., &amp; Jafari, M. (2015). Impact of working capital management and financial leverage on the profitability of some Tehran Securities Exchange companies. Financial and Development Economics Quarterly, 43, 167-181. (in Persian).##[27] Fathi, S., Habibi, S., &amp; Abzari, M, (2014). Meta-Analysis of the determinants of corporate capital structure. Asset Management and Financing, 2 (1), 55-74. (in Persian).##[28] Frank, M. Z., &amp; Goyal, V. K. (2003). Testing the pecking order theory of capital structure. Journal of Financial Economics, 67 (2), 217–248. https://doi.org/10.1016/ S0304-405X(02)00252-0.##[29] Gill, A., Biger, N., &amp; Mathur, N. (2010). The relationship between working capital management and profitability: Evidence from the United States. Business and Economics Journal, 10 (1), 1-9. http://astonjournals.com/manuscripts/Vol2010/BEJ-10_Vol2010.pdf.##[30] Gill, A., &amp; Shah, C. (2012). Determinants of corporate cash holdings: Evidence from Canada. International Journal of Economics and Finance, 4 (1), 70–79. DOI: 10.5539/ijef.v4n1p70.##[31] Haghighat, H., &amp; Bashiri, W. (2012). Investigate the relationship between financial flexibility and capital structure. Accounting Knowledge, 3 (8), 49-71. (in Persian).##[32] Karimi, F., &amp; Ashrafi, M. (2011). Investigating the relationship between corporate governance mechanism and capital structure in Tehran Stock Exchange. Financial Accounting Research, 3 (2),##79-92. (in Persian).##[33] Kieschnick, R. L., Laplante, M., &amp; Moussawi, R. (2011). Working capital management and shareholder wealth. SSRN Electronic Journal, 17 (5), 1827–1852. https://EconPapers.repec.org/RePEc:oup:revfin:v:17:y:2013:i:5:p:1827-1852.##[34] Kordestani, G., &amp; Fadaei Kalvarzai, I. (2012). Investigating the relationship between information asymmetry and capital structure in companies accepted in Tehran Stock Exchange. Accounting Research, 2 (4), 77-100. (in Persian).##[35] Kordestani, G., &amp; Najafi Omran, M. (2008). Investigating the determinants of capital structure. Financial Research Journal,9 (4), 73-90. (in Persian).##[36] Lamberson, M. (1995). Changes in working capital of small firms in relation to changes in economic activity. American Journal of Business, 10 (2), 45-50 DOI: https://doi.org/10.1108/ 19355181199500015.##[37] Marie, A. A., &amp; Azhagaiah, R. (2017). Constructing indices for efficient management of working capital in indian iron and steel sector. Account and Financial Management Journal, 2 (12), 1207-1213.##[38] Moghaddam, A., &amp; Momeni, Y. A. (2012). Investigating the impact of some features of the corporate governance system on capital structure decisions of firms listed in Tehran Stock Exchange. Journal of Accounting and Auditing Review, 19 (68), 123-136. (in Persian).##[39] Nazir, M. S., &amp; Afza, T. (2009). Impact of aggressive working capital management policy on firms&#039; profitability. IUP Journal of Applied Finance, 15 (8), 19-30. DOI: http://doi.org/10.12691/jbms-6-1-4.##[40] Neveu, R. P. (2002). Financial Management, Transelated by JahanKhani, A., &amp; Parsayian, A. Tehran: Samt Press. (in Persian).##[41] Padachi, K. (2006). Trends in working capital management and its impact on firms’ performance: An analysis of mauritian small manufacturing firms. International Review of Business Research Papers, 2 (2), 45-58. http://citeseerx.ist. psu.edu/viewdoc/download?doi=10.1.1.475.2653&amp;rep=rep1&amp;type=pdf.##[42] Panda, A. K., &amp; Nanda, S. (2018). Working capital financing and corporate profitability of Indian manufacturing firms. Management Decision, 56 (2), 441-457. DOI: https://doi.org/10.1108/MD-07-2017-0698.##[43] Paternoster, R., Brame, R., Mazerlle, P., &amp; Piquero, A. (1998). Using the correct statistical test for the equality of regression coefficients. Criminology, 36 (4), 859–866. https://doi.org/10.1111/j.1745-9125.1998. tb01268.x.##[44] Pournajar, P., Azar, A., Shayesteh, H., &amp; Rughanian, E. (2015). The study of the relationship between elements of working capital management and capital structure in companies accepted in Tehran Stock Exchange. The first international conference on engineering, management and accounting, electronically, the Alborz Research Institute.##[45] Ross, S. A. (1977). The determination of financial structure: The incentive-signalling approach. The Bell Journal of Economics, 8 (1), 23-40. DOI: http://doi.org/10.2307/ 3003485.##[46] Sepasi, S., Hasani, H., &amp; Salmanian, L. (2016). Impact of aggressive working capital management policy on firms&#039; profitability. Asset Management and Financing, 5 (4), 99-116. (in Persian).##[47] Setayesh, M. H., &amp; GhayouriMoghadam, A. (2009). Determining the optimum capital structure at industrial level by using DEA case study: Listed. companies in Tehran Stock Exchange. Financial Accounting Researches, 1 (1), 33-52. (in Persian).##[48] Setayesh, M. H, Kazemnejad, M., &amp; Shafiee, M. J. (2009). Application of genetic algorithm in determining the optimal capital structure of companies in Tehran Stock Exchange. Journal of Accounting and Auditing Review, 16 (56), 39-58. (in Persian).##[49] Setayesh, M. H., Monfared M., M., &amp; Ebrahimi, F. (2011). Investigating factors affecting capital structure from the point of view of representation theory. The Journal of Accounting Advances, 3 (1), 55-89. (in Persian).##[50] Shyam-Sunder, L., &amp; Myers, S. C. (1999). Testing static tradeoff against pecking order models of capital structure. Journal of Financial Economics, 51 (2), 219-244. https://doi.org/10.1016/S0304-405X(98)00051-8.##[51] Smith, G. (2018). Strategic working capital sourcing strategies for the survival of small businesses.‏ (Doctoral Study), Walden University. College of Management and Technology. https://scholarworks. waldenu.edu/ dissertation.##[52] Synn, C. J., Ross, S. M., &amp; Williams, C. D. (2015). Financial reporting quality and optimal capital structure. In the 8th Capana annual research conference. williacd@umich.edu##[53] Valipour, H., &amp; Jamshidi, A. (2012). Determining the optimal efficiency index of working capital management and its relationship with efficiency of assets in categorized industries: Evidence from Tehran Stock Exchange (TSE). Advances in Management and Applied Economics, 2 (2), 191-209. https://ideas.repec.org/ a/spt/admaec/v2y2012i2f2_2_9.html.##[54] Verdi, R. S. (2006). Financial reporting quality and investment efficiency. Working Paper, Sloan School of Management Massachusetts Institute of Technology (MIT), 1-55. Available at: SSRN: https://ssrn.com .doi.org/10.2139/ssrn. 930922.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>کیفیت کارکنان شرکت و کیفیت سود پیش‌بینی‌‌شده به‌وسیلۀ مدیریت</TitleF>
+				<TitleE>Employee Quality and Quality Forecast Management Earnings</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>اهداف: نتایج پژوهش‌های اخیر نشان می‌دهد کارکنان نقش مهمی در فعالیت‌های شرکت ایفا می‌کنند و پیش‌بینی می‌شود کارکنان با تحصیلات بالاتر، اطلاعات بهتری در اختیار مدیران شرکت قرار دهند و افزایش کیفیت اطلاعات مدیران سبب بهبود کیفیت سود پیش‌بینی‌شده به‌وسیلۀ آنها شود؛ ازاین‌رو، هدف پژوهش حاضر بررسی رابطۀ کیفیت کارکنان و کیفیت سود پیش‌بینی‌شده به‌وسیلۀ مدیریت در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران طی سال‌های 1392 تا 1396 است.
+روش: برای سنجش کیفیت کارکنان، از سطح تحصیلات آنها و برای سنجش کیفیت سود پیش‌بینی‌شده به‌وسیلۀ مدیریت، از شاخص خطا و دقت پیش‌بینی سودِ مدیران استفاده شد. نمونۀ انتخاب‌شده از 84 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران تشکیل شده بود. فرضیه‌ها با بهره‌گیری از الگوی رگرسیون چندمتغیره مبتنی بر فن داده‌های تابلویی آزمون شدند.
+نتایج: یافته‌ها نشان می‌دهد بین کیفیت کارکنان و خطای پیش‌بینی سود رابطۀ منفی معنادار و بین کیفیت کارکنان و دقت پیش‌بینی سود مدیران رابطۀ مثبت معنادار وجود دارد؛ یعنی کیفیت کارکنان شرکت، کیفیت پیش‌بینی سود ازطرف مدیریت را بهبود می‌بخشد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Objective:The results of recent studies propound the view that employees play a pivotal role in the corporate operations as it is assumed that highly educated employees provide managers with more informative information; which in turn, the increased quality of the managers&#039; information will lead to an improved earnings prediction. The present study sets out to investigate the association between the employee quality and the quality of the managers` earnings forecast in the firms listed in Tehran Stock Exchange, during the period 2013-2017.
+Method: In doing so, the education level is adopted as the proxy for employee quality. Besides, the management earnings forecast errors and accuracy indices are employed to measure the quality of managers` earnings forecast. The research hypotheses are built upon a sample of 84 listed firms and then tested using the multivariate regression model, based on panel data.
+Results:The findings reveal that there is a significant negative correlation between employee quality and earnings forecast error. Furthermore, there is a significant positive correlation between employee quality and earnings prediction accuracy. In other words, the quality of the company&#039;s employee improves the quality of the managers` earnings forecast.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>85</FPAGE>
+						<TPAGE>98</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محمد حسن</Name>
+						<MidName></MidName>		
+						<Family>قلی زاده</Family>
+						<NameE>Mohammad Hassan</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Gholizadeh</FamilyE>
+						<Organizations>
+							<Organization>دانشیار، گروه مدیریت، دانشکدۀ ادبیات و علوم انسانی، دانشگاه گیلان، رشت، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار، گروه مدیریت، دانشکدۀ ادبیات و علوم</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>gholizadeh@guilan.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>دکتر یاسر</Name>
+						<MidName></MidName>		
+						<Family>رضائی پیته‌نوئی</Family>
+						<NameE>Yasser</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Rezaei Pitenoei (Ph.D)</FamilyE>
+						<Organizations>
+							<Organization>استادیار، گروه حسابداری، دانشکدۀ ادبیات و علوم انسانی، دانشگاه گیلان، رشت، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار، گروه حسابداری، دانشکدۀ ادبیات و</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>y.rezaeipitenoei@guilan.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محمد</Name>
+						<MidName></MidName>		
+						<Family>غلامرضاپور</Family>
+						<NameE>Mohammad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Gholamrezapoor</FamilyE>
+						<Organizations>
+							<Organization>دانش‌آموختۀ کارشناسی‌ارشد، گروه حسابداری، دانشکدۀ ادبیات و علوم انسانی، دانشگاه گیلان، رشت، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانش‌آموختۀ کارشناسی‌ارشد، گروه حسابداری،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mohammad.gh5736@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کیفیت کارکنان</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سطح تحصیلات کارکنان</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>پیش‌بینی سود</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>دقت پیش‌بینی سود</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>خطای پیش‌بینی سود</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] جامعی، ر.، و رستمیان، آ. (1394). تأثیر تخصص مالی اعضای کمیتۀ حسابرسی بر ویژگی‌های سود پیش‌بینی‌شده. پژوهش‌های حسابداری مالی و حسابرسی، 8 (29)، 17-1.##[2] حیدرپور، ف.، و خواجه‌محمود، ز. (1393). رابطۀ بین ویژگی‌های پیش‌بینی سود هر سهم توسط مدیریت بر ریسک و ارزش شرکت با هدف آینده‌نگری در تصمیم‌گیری. دانش مالی تحلیل اوراق بهادار، 7 (2)، 46-25.##[3] دستورالعمل اجرایی افشای اطلاعات ناشران ثبت‌شده نزد سازمان، مصوب 3 مرداد (1386). هیئت‌مدیرۀ سازمان بورس و اوراق بهادار.##[4] رضائی‌پیته‌نوئی، ی.، صفری‌گرایلی، م. و غلامرضاپور، م. (1398). کیفیت کارکنان و اثربخشی کنترل‌های داخلی: نقش تعدیلی نظارت خارجی. دانش حسابرسی، پذیرفته‎‌شده برای انتشار.##[5] فخاری، ح.، و حسن‌نتاج‌کردی، م. (1397). اثر تعدیل‌کنندگی راهبری شرکتی بر ارتباط بین رقابت در بازار محصول و کیفیت سود پیش‌بینی‌شده توسط مدیریت. پژوهش‌های حسابداری مالی و حسابرسی، 10 (38)، 237-209.##[6] نمازی، م.، و شمس‌الدینی، ک. (1387). بررسی سازه‌های مؤثر بر دقت پیش‌بینی سود توسط مدیریت شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. توسعه و سرمایه، 1 (1)، 28-1.##[7] Aier, J. K., Comprix, J., Gunlock, M. T., &amp; Lee, D. (2005). The financial expertise of CFOs and accounting restatements. Accounting Horizons, 19(3), 123–135. Doi: https://doi.org/10.2308/acch.2005.19.3.123##[8] Almeida, J., &amp; Dalmácio, F. (2015). The effects of corporate governance and product market competition on analysts&#039; forecasts: evidence from the Brazilian Capital Market. The International Journal of Accounting, 50, 316-339. Doi: https://doi.org/10.1016/j.intacc.2015.07. 007##[9] Bamber, L., Jiang, J., &amp; Wang, I. (2010). What’s my style? The influence of top managers on voluntary corporate financial disclosure. Accounting Review, 85(4), 1131–1162. Doi: https://doi.org/ 10.2308/accr. 2010.85.4.1131##[10] Beck, M. J., Francis, J. R., &amp; Gunn, J. L. (2017). Public company audits and city-specific labor characteristics. Contemporary Accounting Research, 35(1), 394-433. Doi: https://doi.org/10.1111/ 1911-3846.12344##[11] Bergstresser, D., &amp; Philippon, T. (2006). CEO incentives and earnings management. Journal of Financial Economics, 80(3), 511–529. Doi: https://doi.org/ 10.1016/j.jfineco. 2004.10.011##[12] Call, A. C., Campbell, J. L., Dhaliwal, D. S., &amp; Moon Jr, J. M. (2017). Employee quality and financial reporting outcomes. Journal of Accounting and Economics, 64(1), 123-149. Doi: https://doi.org/ 10.1016/j.jacceco.2017.06.003##[13] Chen, S. (2004). Why do managers fail to meet their own forecasts?Paper presented at the 14th Annual Conference on Financial Economics and Accounting (FEA). Retrieved from http://www.SSRN.com/ abstract=490562 Doi: 10.2139/ssrn.490562##[14] Demerjian, P., Lev, B., Lewis, M., &amp; McVay, S. (2013). Managerial ability and earnings quality. Accounting Review, 88(2), 463–498. Doi: https://doi.org/10.2308/accr-50318##[15] Fakhari, H., &amp; Hasannataj Kordi, M. (2018). The moderating effects of corporate governance on relationship between product market competition and quality forecast management earnings. Qurterly the Financial Accounting and Auditing Researches, 10(38), 209-237. (in Persian)##[16] Feng, M., Ge, W., Luo, S., &amp; Shevlin, T. (2011). Why do CFOs become involved in material accounting manipulations? Journal of Accounting and Economics, 51(1–2), 21–36 Doi: https://doi.org/ 10.1016/j.jacceco.2010.09.005##[17] Ge, W., Matsumoto, D., &amp; Zhang, J. L. (2011). Do CFOs have style? An empirical investigation of the effect of individual CFOs on accounting practices. Contemporary Accounting Research, 28(4), 1141–1179. Doi: https://doi.org/ 10.1111/j.1911-3846.2011.01097.x##[18] Gintis, H., &amp; Khurana, R. (2008). Corporate honesty and business education: A behavioral model. In: Zak, P. (Ed.), Moral Markets: The Critical Role of Values in the Economy. Princeton, NJ: Princeton University Press, 300-328.##[19] Gladstein, D. L. (1984). Groups in context: a model of task group effectiveness. Administrative Science Quarterly, 29(4), 499–517. Doi: https://psycnet.apa.org/ doi/10.2307/2392936##[20] Glaeser, E. L., &amp; Gottlieb, J. D. (2009). The wealth of cities: agglomeration economies and spatial equilibrium in the United States. Journal of Economic Literature, 47(4), 983–1028. Doi: 10.3386/w14806##[21] Glaeser, E. L., &amp; Saks, R. E. (2006). Corruption in America. Journal of Public Economics, 90(6-7), 1053–1072. Doi: 10.3386/w10821##[22] Gunn, J. (2013). City-location and Sell-side Analyst Research. University of Pittsburgh, Working Paper.##[23] Guo, J., Huang, P., Zhang, Y., &amp; Zhou, N. (2016). The effect of employee treatment policies on internal control weaknesses and financial restatements. Accounting Review, 91(4), 1167–1194. Doi: https://doi.org/10.2308/accr-51269##[24] Hambrick, D., &amp; Mason, P. (1984). Upper echelons: The organization as a reflection of its top managers. Academy of Management Review, 9(2), 193–206. Doi: https://psycnet.apa.org/doi/10.2307/258434##[25] Hennes, K., Leone, A., &amp; Miller, B. (2008). The importance of distinguishing errors from irregularities in restatement research: The case of restatements and CEO/CFO turnover. Accounting Review, 83(6), 1487–1519. Doi: https://doi.org/ 10.2308/accr.2008.83.6.1487##[26] Heydarpour, F. &amp; Khajeh Mahmoud, Z. (2014). The relation between characteristics of predicted earnings per share by management and risk and firm value in terms of future decision-making. Financial Knowledge of Securities Analysis, 7(2),##25-46. (in Persian)##[27] Hirst, D. E., Koonce, L., &amp; Miller, J. (1999). The joint effect of management&#039;s prior forecast accuracy and the form of its financial forecasts on investor judgment. Journal of Accounting Research, 37, 101-24. Doi: https://doi.org/10.2307/2491347##[28] Jamei, R., &amp; Rostamian, A. (2016). The effect of financial expertise of members of auditing committee on the forecasted earnings properties. Qurterly the Financial Accounting and Auditing Researches, 8(29), 1-17. (in Persian)##[29] Liu, C., Lin, B., &amp; Shu, W. (2017). Employee quality, monitoring environment and internal control. China Journal of Accounting Research, 10(1), 51-70. Doi: https://doi.org/10.1016/j.cjar.2016.12.002##[30] Merchant, K. A., &amp; Rockness, J. (1994). The ethics of managing earnings: an empirical investigation. Journal of Accounting and Public Policy, 13(1), 79–94. Doi: https://doi.org/10.1016/0278-4254(94)90013-2##[31] Moretti, E. (2004). Chapter 51 Human capital externalities in cities. In: H, J. V., Thisse, J.-F. (Eds.). In: Handbook of Regional and Urban Economics, Amsterdam: Elsevier, 2243–2291. Doi: 10.3386/w9641##[32] Namazi, M., &amp; Shamsoddini, K. (2008). The investigation of the impact of effective factors on accuracy of forecasted profits made by firms&#039; management in Tehran stock exchange market. Journal of Development and Capital, 1(1), 1-28. (in Persian) Doi: https://dx.doi.org/ 10.22103/jdc.2007.1884##[33] O’Fallon, M. J., &amp; Butterfield, K. D. (2005). A review of the empirical ethical decision-making literature: 1996-2003. Journal of Business Ethics, 59(4), 375–413. Doi: https://doi.org/10.1007/s10551-005-2929-7##[34] Rezaei Pitenoei, Y., Safari Gerayli, M. &amp; Gholamrezapoor, M. (2019). Employee quality and the effectiveness of internal controls: The moderating role of external monitoring, Audit Knowledge, Accepted Manuscript. (in Persian)##[35] https://www.seo.ir##[36] https://www.codal.ir##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی تأثیر جریان نقد عملیاتی بر اقلام تعهدی غیرعادی شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران با تأکید بر نوع صنعت</TitleF>
+				<TitleE>The Effect of the Operating Cash Flows on Abnormal Accruals in the Companies Listed in the Tehran Stock Exchange (with Emphasis on the Industry Type)</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>اهداف: پیامدهای منفی اقلام تعهدی به جریان نقد عملیاتی بستگی دارد و هدف این پژوهش تعیین تأثیر جریان نقد عملیاتی بر اقلام تعهدی غیرعادی در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران با تأکید بر نوع صنعت است.
+روش: برای محاسبۀ اقلام تعهدی غیرعادی از الگوی جونز تعدیل‌شده استفاده‌ شده است. فرضیه‌ها براساس داده‌های 118 شرکت بورس اوراق بهادار تهران طی دورۀ شش‌ساله (1390 تا 1395) با استفاده از الگوی رگرسیون چندمتغیره و داده‌های ترکیبی، آزمون و تجزیه ‌و تحلیل شد.
+نتایج: یافته‌ها نشان می‌دهد بین جریان نقد عملیاتی و اقلام تعهدی غیرعادی رابطۀ معکوس معناداری وجود دارد. جریان نقد عملیاتی در صنایع خودرو و قطعات، صنعت دارویی و صنعت سیمان، آهک و گچ نیز رابطۀ معکوس و معناداری با اقلام تعهدی غیرعادی دارد و با کاهش جریان نقد عملیاتی، اقلام تعهدی غیرعادی افزایش می‌یابد. به‌طور کلی، پیامدهای منفی اقلام تعهدی به میزان جریان نقد عملیاتی بستگی دارد و شرکت‌های دارای جریان نقد عملیاتی منفی، ممکن است نتایج آزمون اقلام تعهدی غیرعادی را تحریف کنند.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Objectives: It seems there is question mark over the claim “negative consequences of the accruals depend on the operating cash flows”; and therefore, the goal of this research is to determine the effect of operating cash flows on abnormal accruals in the companies listed in the Tehran Stock Exchange with an emphasis on the type of the industry.
+Method: In this research, we have used the modified Jones model to calculate the abnormal accruals. This research’s hypotheses on the data of 118 companies during the six-year period (2011 to 2016) were tested and analyzed, using the multivariate regression model and the panel data method.
+Results: The findings indicated that there is a significant inverse relationship between the operating cash flows and abnormal accruals. Furthermore, the results suggested that there is a significant inverse relationship between the operating cash flows in the automotive and parts industry, pharmaceutical industry, and the cement, lime and plaster industry with the abnormal accruals. In other words, with the reduction in the operating cash flows, the abnormal accruals will increase. In general, the findings show that the negative consequences of the accruals depend on the amount of operating cash flows and companies whose operating cash flows are negative could mat distort the results of testing abnormal accruals.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>99</FPAGE>
+						<TPAGE>12</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سجاد</Name>
+						<MidName></MidName>		
+						<Family>برندک</Family>
+						<NameE>Sajad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Barandak</FamilyE>
+						<Organizations>
+							<Organization>گروه حسابداری، موسسه آموزش عالی مقدس اردبیلی، اردبیل، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه حسابداری، موسسه آموزش عالی مقدس اردبیلی،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>sajadbarandak@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>عسگر</Name>
+						<MidName></MidName>		
+						<Family>پاک مرام</Family>
+						<NameE>Asgar</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Pakmaram</FamilyE>
+						<Organizations>
+							<Organization>گروه حسابداری، موسسه آموزش عالی مقدس اردبیلی، اردبیل، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه حسابداری، موسسه آموزش عالی مقدس اردبیلی،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>pakmaram@bonabiau.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سعید</Name>
+						<MidName></MidName>		
+						<Family>علی پور</Family>
+						<NameE>saeed</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>alipour</FamilyE>
+						<Organizations>
+							<Organization>گروه حسابداری، موسسه آموزش عالی مقدس اردبیلی، اردبیل، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه حسابداری، موسسه آموزش عالی مقدس اردبیلی،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>saeed.alipour@live.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>اقلام تعهدی غیرعادی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>جریان نقد عملیاتی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نوع صنعت</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] آقایی، م.، آذر، ع.، و جوان، ع. (1391). بررسی رابطۀ جایگزینی دستکاری فعالیت‌های واقعی و دستکاری اقلام تعهدی اختیاری. پژوهش‌های حسابداری مالی، 4 (2)، 40-19.##[2] آقایی، ع.، جمالی، غ.، و احمدی، ح. (1389). بررسی تأثیر تکانه‌های جریان وجوه نقد عملیاتی بر ساختار دارایی و سرمایۀ شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. فصلنامۀ علمی - پژوهشی حسابداری مالی، 2 (8)، 59-39.##[3] ابراهیمی، ک.، و احمدی‌مقدم، م. (1395). تأثیر بیش‌اطمینانی مدیران بر مدیریت سود واقعی شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. چشم‌انداز مدیریت مالی، 6 (15)، 23-9.##[4] ارجمند، م. (1390). ارتباط بین پایداری تغییرات غیرعادی مانده نقد با پایداری اقلام تعهدی اختیاری در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. پایان‌نامۀ کارشناسی‌ارشد، دانشگاه آزاد اسلامی، واحد تهران مرکزی.##[5] اصغری، ز.، سروشیار، الف.، و علی‌احمدی، س. (1396). بررسی تأثیر پراکندگی بازده در ناهنجاری‌های اقلام تعهدی و سرمایه‌گذاری در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. مدیریت دارایی و تأمین مالی، 5 (4)، 16-1.##[6] اکبری، م.، فتحی، س.، فرخنده، م.، و ایاغ، ز. (1396). بررسی رابطۀ بین فرصت‌های سرمایه‌گذاری و حساسیت سرمایه‌گذاری به جریان نقدی. چشم‌انداز مدیریت مالی، 7 (17)، 68-49.##[7] انواری‌رستمی، ع.، احمدیان، و.، و میرزاده، الف. (1394). بررسی تأثیر جریان وجوه نقد عملیاتی و تصمیمات ساختار سرمایه بر تصمیمات سرمایه‌گذاری شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. بورس اوراق بهادار، 8 (30)، 112-83.##[8] ایزدی‌نیا، ن.، منصورفر، غ.، و رشیدی‌خزایی، م. (1394). درماندگی مالی به‌عنوان عاملی برای وقوع مدیریت سود. راهبرد مدیریت مالی، 3 (3)،##[9] بیات، ر.، شعبانی، م.، و کلانتری، م. (1395). مطالعۀ تأثیر سرمایه‌گذاری در دارایی‌های نامشهود بر جریان‌های نقد عملیاتی آتی شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. فصلنامۀ مطالعۀ مدیریت و حسابداری، 2 (1)، 97-85.##[10] ثقفی، ع.، و محمدی، الف. (1391). جریان‌های نقدی آتی، اقلام تعهدی غیرعادی و ریسک ورشکستگی. پژوهش‌های حسابداری مالی، 4 (3)،##[11] ثقفی، ع.، و هاشمی، ع. (1383). بررسی تحلیلی رابطۀ بین جریان‌های نقدی عملیاتی و اقلام تعهدی، ارائۀ مدل برای پیش‌بینی جریان‌های نقدی عملیاتی. بررسی‌های حسابداری و حسابرسی، 11 (4)،##[12] جبارزاده‌کنگرلوئی، س.، منفرد، م.، و متوسل، م. (1393). تأثیر جریان وجوه نقد عملیاتی بر تعدیلات اهرم مالی در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. راهبرد مدیریت مالی،##2 (4)، 95-73.##[13] جرجرزاده، ع.، و نیکبخت‌نصرآبادی، ز. (1395). تأثیر اقلام تعهدی اختیاری و وجوه نقد عملیاتی بر بازده سهام در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. پژوهش‌های حسابداری مالی،##9 (1)، 104-91.##[14] حسن‌زاده، م.، و دیانتی‌دیلمی، ز. (۱۳۹۵). بررسی تأثیر محافظه‌کاری بر غیرعادی بودن اقلام تعهدی در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. چهارمین کنفرانس بین‌المللی پژوهش‌های کاربردی در مدیریت و حسابداری، تهران، دانشگاه شهید بهشتی.##[15] حیدرپور، ف.، و توحیدلو، م. (1391). تأثیر اقلام تعهدی غیرعادی بر گزارشگری حسابرسی. بررسی‌های حسابداری و حسابرسی، 19 (4)،##[16] حیدرپور، ف.، عربی، م.، و قناد، م. (1395). اثر افق‎‌های زمانی کوتاه، میان و بلندمدت در پیش‌بینی جریان‌های نقدی آتی؛ بررسی مقایسه‌ای توانایی سود و جریان وجه نقد عملیاتی. راهبرد مدیریت مالی، 4 (4)، 127-107.##[17] خانی، ع.، و ابراهیمی، خ. (1392). توانایی تخمین الگوهای اقلام تعهدی غیرعادی براساس تعدیل الگوی جونز و پیش‌بینی قیمت‌گذاری نادرست سهام. مجلۀ دانش حسابداری، 4 (14)، 90-67.##[18] دستگیر، م.، و خدابنده، ر. (1382). بررسی ارتباط بین محتوای اطلاعاتی اجزای اصلی گردش وجه نقد با بازده سهام. مجلۀ علوم اجتماعی و انسانی دانشگاه شیراز، 19 (2)، 112-100.##[19] دستگیر، م.، و واحدپور، م. (1396). علامت‌دهی ازطریق اقلام تعهدی اختیاری و تأثیر آن بر سرمایه‌گذاری در دارایی‌های سرمایه‌ای و نرخ بازده دارایی‌ها در شرکت‌های با محدودیت مالی. مجلۀ دانش حسابداری، 8 (3)، 140-113.##[20] رحیمیان، ن.، تقوی‎‌فرد، م.، و مالکی‌دیزجی، آ. (1396). رابطۀ بین اقلام تعهدی و اظهارنظر حسابرسی. فصلنامۀ پژوهش‌های نوین در حسابداری و حسابرسی، 1 (2)، 64-37.##[21] رضایی، ف.، و موسویان، خ. (1390). بررسی رابطۀ بین اقلام تعهدی غیرعادی و تمرکز مالکیت به‌عنوان سازوکارهای حاکمیت شرکتی با ویژگی‌های شرکت. فصلنامۀ حسابداری مالی، 3 (9)، 136-114.##[22] زمانی، ع.، و انواری‌رستمی، ع. (1396). بررسی رابطۀ غیرخطی تأمین مالی با بدهی و دستکاری جریان‌های نقدی: شواهدی از بورس تهران. مدیریت دارایی و تأمین مالی، 5 (4)، 154-143.##[23] شمس‌زاده، ب.، سیف، الف.، و داوودآبادی‌فراهانی، ح. (1395). بررسی رابطۀ بین ویژگی‌های مؤسسۀ حسابرسی و شرکای حسابرسی باکیفیت حسابرسی. مجلۀ علمی - پژوهشی دانش حسابداری مالی، 3 (1)، 156-135.##[24] شهریاری، س.، و سلیم، ف. (1392). بررسی و آزمون قیمت‌گذاری نادرست اقلام تعهدی غیرعادی در بورس اوراق بهادار تهران طی سال‌های 1381 تا 1389. مدیریت دارایی و تأمین مالی، 2 (3)، 16-1.##[25] عامری، الف. (1388). بررسی رابطۀ بین نوع اظهارنظر حسابرسان و مدیریت سود با استفاده از اقلام تعهدی غیرعادی. پایان‌نامۀ کارشناسی‌ارشد، دانشگاه بین‌المللی امام خمینی (ره) قزوین.##[26] عمارتی‌بخشایش، م.، و خان‌محمدی، م. (1395). رابطۀ اقلام تعهدی و جریان نقد عملیاتی در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. هفتمین کنفرانس بین‌المللی اقتصاد و مدیریت، سوئد، مرکز ارتباطات دانشگاهیICOAC.##[27] فغانی‌ماکرانی، خ.، صالح‌نژاد، ح.، و امین، و. (1395). پیش‌بینی مدیریت سود مبتنی بر مدل جونز تعدیل‌شده با استفاده از مدل شبکۀ عصبی مصنوعی و الگوریتم ژنتیک. مهندسی مالی و مدیریت اوراق بهادار (مدیریت پرتفوی)، 7 (28)، 117-136.##[28] قیطاسی، ر.، مسجدموسوی، م. س.، و حاجی‌زاده، ف. (1394). بررسی محتوای اطلاعاتی سود و جریان نقد عملیاتی هر سهم در تبیین سود تقسیمی در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. دانش حسابداری، 15 (60)، 177-196.##[29] کرمی، غ.، مرادی، م.، شهیدی، ز.، اسکندر، ه.، و بخشی، م. (1393). 2000 سؤال چهارگزینه‌ای حسابداری مالی و استانداردهای حسابداری. تهران: نگاه دانش.##[30] لاری‌دشت‌بیاض، م.، صالحی، م.، و سخاوت‌پور، م. (1397). بررسی رابطۀ محدودیت مالی، ساختار دارایی‌ها و تأمین مالی در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران. مدیریت دارایی و تأمین مالی، 6 (1)، 196-181.##[31] مشکی‌میاوقی، م.، و وثوقی، ف. (1396). بررسی نقش عامل رشد در حساسیت بازدهی به اقلام تعهدی اختیاری. فصلنامۀ دانش حسابداری مالی، 4(2)، 93-77.##[32] مهرانی، ک.، ابراهیمی‌کردلر، ع.، و حلاج، م. (1390). بررسی رابطۀ بین اقلام تعهدی غیرمنتظره و محافظه‌کاری در حسابداری در بورس اوراق بهادار. بررسی‌های حسابداری و حسابرسی، 18 (63)،##[33] نمازی، م.، حاجیها، ز.، و چناری، ح. (1397). مدل‌بندی و تعیین اولویت معیارهای مؤثر مدیریت سود واقعی بر پیش‌بینی ورشکستگی. راهبرد مدیریت مالی، 6 (4)، 27-1.##[34] نمازی، م.، و شیرزاده، ج. (1384). بررسی رابطۀ ساختار سرمایه با سودآوری شرکت‌های پذیرفته‎‌شده در بورس اوراق بهادار تهران با تأکید بر نوع صنعت. بررسی‌های حسابداری و حسابرسی، 12 (4)، 95-75.##[35] ودیعی، م.، و عظیمی‌فر، ف. (1391). ارزش‌گذاری بالای حقوق صاحبان سهام و ارتباط آن با اقلام تعهدی اختیاری. پیشرفت‌های حسابداری، 4 (2)، 203-179.##[36] یعقوبی‌خان‌خواجه، آ.، و جهانشاد، آ. (1396). تأثیر جریان نقد آزاد و رشد شرکت بر همزمانی بازده سهام. دانش مالی تحلیل اوراق بهادار (مطالعات مالی)، 10(35)، 47-35.##References##[37] Aghaei, M., A., Azar, A., &amp; Javan, A. A. (2012). Trade-off between real earnings manipulation and discretionary accruals manipulation. Financial Accounting Researches, 4 (2), 19-40. (in Persian).##[38] Aghaei, A., Jamali, G., &amp; Ahmadi, H. (2011). The effect of the shocks of operating cash flow on capital structure of assets of companies on Tehran Stock Exchange. Quarterly Financial Accounting Journal, 2 (8), 39-59. (in Persian).##[39] Akbari, M., Fathi, S., Farkhondeh, M., &amp; Ayagh, Z. (2017). The relationship between investment opportunities and sensitivity of investment to cash flow. Financial Management Perspective, 7 (17), 49-68.##(in Persian).##[40] Al-Attar, A., Hussein, S., &amp; Zuo, L. (2008). Earnings quality, bankruptcy risk and future cash flows. Accounting and Business Research, 38 (1), 5-20. Doi: 10.1080/00014788.2008.9663317.##[41] Ameri, A. (2009). An investigation of association between auditor opinions and earnings management (abnormal accruals), (Master Thesis Dissertation), Imam Khomeini International University Faculty of Social Science. (in Persian).##[42] Anvari Rostamy, A. A., Ahmadian, V., &amp; Mirzadeh, S. A. (2015). The effect of operating cash flow and capital structure decisions on the investment decisions in companies in Tehran Stock Exchange. Journal of Securities Exchange, 8 (30),##82-112. (in Persian).##[43] Arjmand, M. (2011). Relationship between stability of abnormal changes of cash balance with stability of voluntary commitment items in the accepted companies in Tehran Stock Exchange. (Master Thesis Dissertation), Islamic Azad University, Central Tehran Branch.##(in Persian).##[44] Asghari, Z., Soroushyar, A., &amp; Aliahmadi, S. (2017). The effect of return dispersion on the accrual and investment anomalies in companies listed in Tehran Stock Exchange. Asset Management &amp; Financing, (5) 4, 1-16. (in Persian). Doi: 10.22108/AMF.2017.21189.##[45] Baginski, S., Hassel, J., &amp; Kimbrough, M. (2002). The effect of legal environment on voluntary disclosure: Evidence from management earnings forecasts issued in U.S. and Canadian markets. The Accounting Review, 77 (1), 25-50. Doi: 10.2308/accr.2002.77.1.25.##[46] Bayat, R., Shabani, M., &amp; Kalantari, M. H. (2016). Investigating the effect of investment in intangible assets on future operating cash flows of Tehran Stock Exchange. Journals UCT, 2 (1), 97-85.##(in Persian).##[47] Beer, F., Hamdi, B., &amp; Zouaoui, M. (2018). Investor&#039;s sentiment and accruals anomaly: European evidence. Journal of Applied Accounting Research, 19 (4), 500-517. Doi: 10.1108/JAAR-03-2017-0043.##[48] Berger, P., &amp; Hann, R. (2007). Segment profitability and the proprietary and agency costs of disclosure. The Accounting Review, 82 (4), 869-906. Doi: 10.2308/accr.2007. 82.4.869.##[49] Chen.Y., Cheng. C. S. A., &amp; Huang. Y. L. (2012). Value of cash holdings: The impact of cash from operating. investment and financing activities. papers. ssrn.com/sol3/ papers.cfm? abstract_id =1985476.##[50] Chenjeef, Z., &amp; Shane, P. (2014). Changes in cash: Persistence and pricing implications. Journal of Accounting Research, 52 (3), 599-634. Doi: 10.1111/1475-679X.12050.##[51] Dastgir, M., &amp; Khodabandeh, R. (2003). The relationship between the main components for the information content of cash flow and stock returns. Journal ofSocial Sciences and Humanities of Shiraz University, 38, 100-112. (in Persian).##[52] Dastgir, M., &amp; Vahedpour, M. (2017). Signaling through discretionary accruals and its impact on capital investment and roa in financially constrained firms. Journal of Accounting Knowledge, 8 (30), 113-140. (in Persian). Doi: 10.22103/ JAK.2017.9977.2351.##[53] Dechow, P. M. (1994). Accounting earnings and cash flows as measures of firm performance: The role of accounting accruals. Journal of Accounting &amp; Economics, 18 (1), 3-42. Doi: 10.1016/ 0165-4101(94)90016-7.##[54] Dechow, P. M., Sloan, R. G., &amp; Sweeney, A. P. (1995). Detecting earnings management. Accounting Review, 70 (2), 193-225.##[55] Dopuch, N., Seethamraju, C., &amp; Xu, W. (2012). The pricing of accruals forprofit and loss firms. Review of Quantitative Finance and Accounting, 34 (4), 505-516. Doi: 10.1007/s11156-009-0144-9.##[56] Du, K., &amp; Jiang, D. (2017). On the connection between the market pricing of accruals quality and the accruals anomaly. Available at ssrn: https://ssrn.com/abstract =2949039 or http://dx.doi.org/10.2139/ssrn.2949039. Doi: 10.2139/ssrn.2949039.##[57] Ebrahimi, S. K., &amp; Ahmadi Moghadam, M. (2016). The impact of overconfidence managers on real earnings management of listed companies in Tehran Stock Exchange. Financial Management Perspective, 6 (15), 9-23. (in Persian).##[58] Efiong, E. J., &amp; Ejabu, F. E. (2018). Effects of discretion accruals on stock prices of quoted manufacturing companies in Nigeria. Account and Financial Management Journal, 3 (01), 1271-1276. Doi: 10.18535/afmj/v3i1.07.##[59] Emarati Bakhshayesh, M., &amp; khan Mohammadi, M. (2016). The relationship between accruals and operating cash flow in listed companies on Tehran Stock Exchange. 7th International conference on economics management, Sweden, ICOAC Academic Communication Center (in Persian).##[60] Faghani Makrani, K., Salehnezhad, S. H., &amp; Amin, V. (2016). Forecast earnings management based on adjusted jones model using artificial neural networks and genetic algorithms. Financial Engineering and Portfolio Management, 7 (28), 117-136.##(in Persian).##[61] Gu, Z., &amp; Jain, P. (2011). The Accrual anomaly and operating cash flows: Evidence from accrual components. Working paper, Georgetown University. DOI: 10.2139/ssrn.892250.##[62] Hassanzadeh, M., &amp; Dianati Deylami, Z. (2017). The effect of conservative on abnormal accruals in listed companies on Tehran Stock Exchange. 4th International Conference on applied research in management and accounting, Tehran, Shahid Beheshti University. (in Persian).##[63] Heidarpoor, F., Arabi, M., &amp; Ghannad, M. (2016). The effect of short-term, medium and long-term time horizons on the prediction of future cash flows: A comparative study of the ability of operating earnings and cash flows. Journal of Financial Management Strategy, 4 (4), 107-127. (in Persian). Doi: 10.22051/JFM.2017.9337.1077.##[64] Heidarpoor, F., &amp; Towhidlou, M. (2013). The impact of abnormal accruals on auditor reporting. The Iranian Accounting and Auditing Review, 19 (4). 33-50. (in Persian).##[65] Hoon Kim, J., &amp; Jun Kim, Y. (2017). Implications of firms having both highly negative accruals and cash flows for test of accruals anomaly. American Accounting Association, 31 (1), 1-22. Doi: 10.2308/acch-51513.##[66] Izadinia, N., Mansourfar, G., &amp; Rashidi khazaee, M. (2015). Financial distress as a risk factor for the occurrence of earnings management. Journal of Financial Management Strategy, 3 (3), 25-47. (in Persian). Doi: 10.22051/JFM.2015.2262.##[67] Jabarzadeh Kangarlouei, S., Monfared, M., &amp; Motavassel, M. (2014). Effect of cash flow on financial leverage adjustments in companies in Tehran Stock Exchange. Journal of Financial Management Strategy, 2 (4), 73-95. (in Persian). Doi: 10.22051/JFM.2015.977.##[68] Jorjor Zadeh, A. R., &amp; Nikbakhat Nasrabadi, Z, (2017). Investigating the relationship between discretionary accruals and stock return in growth and non-growth companies in Tehran Securities Exchange. Journal of Financial Accounting Research, 9 (2), 91-104. (in Persian). Doi: 10.22108/FAR.2017.84998.0.##[69] Jun Kim, Y., Lee, J., Jeong Lee, S., &amp; Sunwoo, H. Y. (2017). Do mutual funds exploit the accrual anomaly? Korean evidence. Pacific-Basin Finance Journal, 46 (B), 227-242. Doi: 10.1016/j.pacfin. 2017.09.008.##[70] Karami, G., Moradi, M., Shahidi, Z., Escandar, H., &amp; Bakhshi, M. (2014). 2000 Questions of financial accounting and accounting standards. Tehran: Negahedanesh##[71] Khani, A., &amp; Ebrahimi, Kh. (2013). Ability of accruals prediction models on the basis of jones model in prediction of abnormal accruals. Journal of Accounting Knowledge, 4 (14), 67-90. (in Persian) Doi: 10.22103/JAK.2013.604.##[72] Lari Dashtbayaz, M., Salehi, M., &amp; Sekhavatpoor, M. (2018). The relationship between financial constraints, the structure of assets and financing in companies listed in Tehran Stock Exchange. Asset Management &amp; Financing, 6 (1), 181-196. (in Persian) Doi: 10.22108/AMF.2017. 21332.##[73] Lev, B. (1989). On the usefulness of earnings and earnings research: Lessons and directions from two decades of empirical research. Journal of Accounting Research, 27: 153-192. Doi: 10.2307/ 2491070.##[74] Louis, H., &amp; Robinson, D. (2005). Do managers credibly use accruals to signal private information? Evidence from the pricing of discretionary accruals around stock splits. Journal of Accounting and Economics, 39 (2), 361-380. Doi: 10.1016/j.jacceco.2004.07.004.##[75] Mehrani, K., Ebrahimi Kordlar, A., &amp; Hallaj, M. (2011). Assessing the relationship between conservatism and unexpected accruals in Tehran Stock Exchange. The Iranian Accounting and Auditing Review, 18 (63), 113-128. (in Persian).##[76] Meshki Miavaghi, M., &amp; Vosooghi, F. (2017). The role of firm growth in stock return sensitivity to discretionary accruals. A Quarerly Journal of Empirical Reasearch of Financial Accounting, 4 (2), 77-93. (in Persian).##[77] Mithu, R. D., &amp; Lim, L. (2015). Accrual reliability, earnings persistence and stock prices Revisited. American Journal of Business, 30 (1), 22–48. Doi: 10.1108/AJB-07-2014-0041.##[78] Namazi, M., Hajiha, Z., &amp; Chenari, H. (2018). Modeling and identifying hierarchy of the effective measures of the earning management on the prediction of the bankruptcy. Journal of Financial Management Strategy, 6 (4), 1-27. (in Persian). Doi: 10.22051/JFM.2018.13604. 1257.##[79] Namazi, M., &amp; Shirzadeh, J. (2006). The relationship between capital structure and profitability of listed companies in Tehran Stock Exchange (with an emphasis on types). Journal of Accounting and Auditing Review, 12 (4), 75-95. (in Persian).##[80] Nobanee, H., &amp; Ellili, N. (2017). Does operational risk disclosure quality increase operating cash flows? Brazilian Administration Review, 14 (4), 1-13. Doi: 10.1590/1807-7692bar2017170025.##[81] Park, S. H., Han, I., Lee, J., &amp; Kim, B. (2018). Information asymmetry and the accrual anomaly. Asia-Pacific Journal of Financial Studies, 47 (4), 571-597. Doi: 10.1111/ajfs.12225.##[82] Qeytasi, R., Masjed Mousavi, M. S., &amp; Hajizadeh, F. (2015). The information content of earnings and cash flows in explaining dividend per share of listed companies in Tehran Stock Exchange. Journal of Accounting Science, 15 (60), 177-196. (in Persian).##[83] Rahimian, N., Taghavi Fard, M. T., &amp; Maleki Dizaji, A. (2017). Relationship between accruals and audit opinion. Journal of New Researches in Accounting and Auditing, 1 (2), 37-64. (in Persian).##[84] Rezaei, F., &amp; Mousavian, Kh. (2011). Survey on ralation between abnormal accruals, ownership concentration as corporate governance mechanisms and Firm&#039;s characteristics. Quarterly Financial Accounting, 3 (9), 114-136. (in Persian).##[85] Saghafi, A., &amp; Hashemi, A. (2004). Aggregate accruals and components of accruals; Opponents of accounting earning, predicting operating cash flow. Journal of Accounting and Auditing Review, 11 (4), 29-52. (in Persian).##[86] Saghafi, A., &amp; Mohammadi, A. (2012). Future cash flows, abnormal accruals and bankruptcy risk. Financial Accounting Researches, 4 (3), 1-12. (in Persian).##[87] Shahryari, S., &amp; Salim, F. (2014). Examination of the mispricing of abnormal accruals on the Tehran Stock Exchange from 1381 to 1389. Asset Management and Financing, 2 (3), 1-16. (in Persian).##[88] Shamszadeh, B., Seif, A., &amp; Davodabadi Farahani, H. (2016). Studying relationship between characteristics of audit institutions and audit partners with audit quality. A Quarerly Journal of Empirical Reasearch of Financial Accounting, 3 (1), 135-156. (in Persian).##[89] Skinner, D. (1997). Earnings disclosures and stockholder lawsuits. Journal of Accounting and Economics, 23 (3), 249-282. Doi: 10.1016/S0165-4101(97)00010-4.##[90] Sloan, R. G. (1996). Do stock prices fully reflect the information in accruals and cash flows about earnings? The Accounting Review, 71 (3), 289–315.##[91] Subramanyam, K. R. (1996). The pricing of discretionary accruals. Journal of Accounting and Economics, 22 (3), 249–281. Doi: 10.1016/S0165-4101(96)00434-X.##[92] Vadiee, M., &amp; Azimifard, F. (2012). High valuing of equity and discretionary accruals. Journal of Accounting Advances (J.A.A), 4 (2), 179-203. (in Persian) Doi: 10.22099/JAA.2012.1664.##[93] Yaghoubi Khankhajeh, A., &amp; Jahanshad, A. (2017). Application of dea in the calculation of consolidated index of stock liquidity evidence of Tehran Stock Exchange. Financial Knowledge of Securities Analysis, 10 (35), 35-47. (in Persian).##[94] Zamani, A., &amp; Anvary Rostamy, A. A (2017). Study of nonlinear relationship between debt financing and cash flow manipulation of listed companies in Tehran Stock Exchange. Asset Management &amp; Financing, 5 (4), 143-154. (in Persian). Doi: 10.22108/AMF.2017.21194.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE></ARTICLES>
+</JOURNAL>
+
+				</XML>
+				

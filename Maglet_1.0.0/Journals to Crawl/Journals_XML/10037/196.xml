@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXDOISerialArticleWorkRegistrationMessage xmlns:cl="http://www.medra.org/DOIMetadata/2.0/Citations" xmlns="http://www.editeur.org/onix/DOIMetadata/2.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.editeur.org/onix/DOIMetadata/2.0 http://www.medra.org/schema/onix/DOIMetadata/2.0/ONIX_DOIMetadata_2.0.xsd">
+	<Header>
+		<FromCompany>Sinaweb</FromCompany>
+		<FromPerson>Sinaweb DOI</FromPerson>
+		<FromEmail>doi@sinaweb.net</FromEmail>
+		<ToCompany>mEDRA</ToCompany>
+		<SentDate>20200726</SentDate>
+		<MessageNote>DOI Registration</MessageNote>
+		<NotificationResponse>01</NotificationResponse>
+	</Header>
+
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.12.4.543</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2553-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2553</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2553</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>12</JournalVolumeNumber>
+				<JournalIssueNumber>4</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 12, No. 4</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201904</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Forward and Inverse Modeling of GPR Data to use in Snow, Ice and Glaciological, A Case Study: Alam Kuh Glacier, Mazandaran Province</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Afsaneh Ahmadpour</PersonName>
+						<PersonNameInverted>Ahmadpour, Afsaneh</PersonNameInverted>
+						<NamesBeforeKey>Afsaneh</NamesBeforeKey>
+						<KeyNames>Ahmadpour</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Abolghasem Kamkar Rouhani</PersonName>
+						<PersonNameInverted>Kamkar Rouhani, Abolghasem</PersonNameInverted>
+						<NamesBeforeKey>Abolghasem</NamesBeforeKey>
+						<KeyNames>Kamkar Rouhani</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Reza Ahmadi</PersonName>
+						<PersonNameInverted>Ahmadi, Reza</PersonNameInverted>
+						<NamesBeforeKey>Reza</NamesBeforeKey>
+						<KeyNames>Ahmadi</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201904</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2019</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Afsaneh Ahmadpour</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.12.4.571</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2515-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2515</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2515</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>12</JournalVolumeNumber>
+				<JournalIssueNumber>4</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 12, No. 4</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201904</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText> Parametric and Numerical Study on Soft Ground Improvement using Stone Column Reinforced with Geogrid </TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mehdi Jalili</PersonName>
+						<PersonNameInverted>Jalili, Mehdi</PersonNameInverted>
+						<NamesBeforeKey>Mehdi</NamesBeforeKey>
+						<KeyNames>Jalili</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Amin Zare</PersonName>
+						<PersonNameInverted>Zare, Amin</PersonNameInverted>
+						<NamesBeforeKey>Amin</NamesBeforeKey>
+						<KeyNames>Zare</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mohammad Javad Shabani</PersonName>
+						<PersonNameInverted>Shabani, Mohammad Javad</PersonNameInverted>
+						<NamesBeforeKey>Mohammad Javad</NamesBeforeKey>
+						<KeyNames>Shabani</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201904</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2019</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mehdi Jalili</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.12.4.599</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2712-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2712</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2712</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>12</JournalVolumeNumber>
+				<JournalIssueNumber>4</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 12, No. 4</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201904</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Reinforced Concrete Lining Suggestion based on Seepage Control of Pressure Tunnels using the Finite Element Model</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Ehsan Dadashi</PersonName>
+						<PersonNameInverted>Dadashi, Ehsan</PersonNameInverted>
+						<NamesBeforeKey>Ehsan</NamesBeforeKey>
+						<KeyNames>Dadashi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Ali Noorzad</PersonName>
+						<PersonNameInverted>Noorzad, Ali</PersonNameInverted>
+						<NamesBeforeKey>Ali</NamesBeforeKey>
+						<KeyNames>Noorzad</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Koroush Shahriar</PersonName>
+						<PersonNameInverted>Shahriar, Koroush</PersonNameInverted>
+						<NamesBeforeKey>Koroush</NamesBeforeKey>
+						<KeyNames>Shahriar</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>4</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Kamran Goshtasbi</PersonName>
+						<PersonNameInverted>Goshtasbi, Kamran</PersonNameInverted>
+						<NamesBeforeKey>Kamran</NamesBeforeKey>
+						<KeyNames>Goshtasbi</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201904</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2019</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Ali Noorzad</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.12.4.617</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2526-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2526</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2526</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>12</JournalVolumeNumber>
+				<JournalIssueNumber>4</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 12, No. 4</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201904</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>4</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>A Model between Dynamic and Static Moduli of Limestone in Asmari Geological Formation ‎based on Laboratory and In-situ Tests ‎</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Ako Daraei</PersonName>
+						<PersonNameInverted>Daraei, Ako</PersonNameInverted>
+						<NamesBeforeKey>Ako</NamesBeforeKey>
+						<KeyNames>Daraei</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Shokrollah Zare</PersonName>
+						<PersonNameInverted>Zare, Shokrollah</PersonNameInverted>
+						<NamesBeforeKey>Shokrollah</NamesBeforeKey>
+						<KeyNames>Zare</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201904</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2019</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Ako Daraei</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.12.4.635</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2551-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2551</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2551</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>12</JournalVolumeNumber>
+				<JournalIssueNumber>4</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 12, No. 4</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201904</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>5</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>The Zoning of Earthquake-Induced Earthquake Hazards using the AHP Model</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Ali M. Rajabi</PersonName>
+						<PersonNameInverted>Rajabi, Ali M.</PersonNameInverted>
+						<NamesBeforeKey>Ali M.</NamesBeforeKey>
+						<KeyNames>Rajabi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Hossein Khosravi</PersonName>
+						<PersonNameInverted>Khosravi, Hossein</PersonNameInverted>
+						<NamesBeforeKey>Hossein</NamesBeforeKey>
+						<KeyNames>Khosravi</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201904</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2019</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Ali M. Rajabi</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.12.4.659</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2602-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2602</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2602</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>12</JournalVolumeNumber>
+				<JournalIssueNumber>4</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 12, No. 4</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201904</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>6</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Evaluation of Site Effect Using Ambient Noise Survey (A Case Study: Babol City)</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Sadegh Rezaei</PersonName>
+						<PersonNameInverted>Rezaei, Sadegh</PersonNameInverted>
+						<NamesBeforeKey>Sadegh</NamesBeforeKey>
+						<KeyNames>Rezaei</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Asskar Janalizadeh Choobbasti</PersonName>
+						<PersonNameInverted>Janalizadeh Choobbasti, Asskar</PersonNameInverted>
+						<NamesBeforeKey>Asskar</NamesBeforeKey>
+						<KeyNames>Janalizadeh Choobbasti</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201904</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2019</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Sadegh Rezaei</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.12.4.687</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2637-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2637</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2637</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>12</JournalVolumeNumber>
+				<JournalIssueNumber>4</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 12, No. 4</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201904</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>7</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>The Effect of Fines Type on Biological Improvement of Sandy Soil</TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Navid Sohrabi</PersonName>
+						<PersonNameInverted>Sohrabi, Navid</PersonNameInverted>
+						<NamesBeforeKey>Navid</NamesBeforeKey>
+						<KeyNames>Sohrabi</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Mehdi Khodaparast</PersonName>
+						<PersonNameInverted>Khodaparast, Mehdi</PersonNameInverted>
+						<NamesBeforeKey>Mehdi</NamesBeforeKey>
+						<KeyNames>Khodaparast</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201904</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2019</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Mehdi Khodaparast</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+		
+		<DOISerialArticleWork xmlns="http://www.editeur.org/onix/DOIMetadata/2.0">
+			<NotificationType>06</NotificationType>
+			<DOI>10.29252/jeg.12.4.707</DOI>
+			<DOIWebsiteLink>http://jeg.khu.ac.ir/article-1-2608-en.html</DOIWebsiteLink>
+			<RegistrantName>Sinaweb</RegistrantName>
+			<RegistrationAuthority>mEDRA</RegistrationAuthority>
+			<SerialPublication>
+				<SerialWork>
+					<Title>
+						<TitleType>01</TitleType>
+						<TitleText>Journal of  Engineering Geology</TitleText>
+					</Title>
+					<Title>
+						<TitleType>05</TitleType>
+						<TitleText>jeg</TitleText>
+					</Title>
+					<Publisher>
+						<PublishingRole>01</PublishingRole>
+						<PublisherIdentifier>	
+							<PublisherIDType>01</PublisherIDType>	
+							<IDValue>2608</IDValue>	
+						</PublisherIdentifier>	
+						<PublisherName>Kharazmi University</PublisherName>
+					</Publisher>
+					<CountryOfPublication>IR</CountryOfPublication>
+				</SerialWork>
+				<SerialVersion>
+					<ProductIdentifier>
+						<ProductIDType>01</ProductIDType>
+						<IDValue>2608</IDValue>
+					</ProductIdentifier>
+					<ProductForm>JB</ProductForm>
+				</SerialVersion>
+			</SerialPublication>
+				
+			<JournalIssue>
+				<JournalVolumeNumber>12</JournalVolumeNumber>
+				<JournalIssueNumber>4</JournalIssueNumber>
+				
+					<JournalIssueDesignation>Vol. 12, No. 4</JournalIssueDesignation>			
+					
+				
+				<JournalIssueDate>
+					<DateFormat>01</DateFormat>
+					<Date>201904</Date>
+				</JournalIssueDate>
+			</JournalIssue>
+				
+			<ContentItem>
+				<SequenceNumber>8</SequenceNumber>
+				<TextItem>
+					<TextItemType>10</TextItemType>
+				</TextItem>
+				<Title>
+					<TitleType>01</TitleType>
+					<TitleText>Simulation of Near-Field Records using  Wavelet Functions </TitleText>
+				</Title>
+					
+					<Contributor>
+						<SequenceNumber>1</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Sheyda Nazari</PersonName>
+						<PersonNameInverted>Nazari, Sheyda</PersonNameInverted>
+						<NamesBeforeKey>Sheyda</NamesBeforeKey>
+						<KeyNames>Nazari</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>2</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Afshin Meshkat-Dini</PersonName>
+						<PersonNameInverted>Meshkat-Dini, Afshin</PersonNameInverted>
+						<NamesBeforeKey>Afshin</NamesBeforeKey>
+						<KeyNames>Meshkat-Dini</KeyNames>
+					</Contributor>
+						
+					<Contributor>
+						<SequenceNumber>3</SequenceNumber>
+						<ContributorRole>A01</ContributorRole>
+						<PersonName>Jafar Keyvani</PersonName>
+						<PersonNameInverted>Keyvani, Jafar</PersonNameInverted>
+						<NamesBeforeKey>Jafar</NamesBeforeKey>
+						<KeyNames>Keyvani</KeyNames>
+					</Contributor>
+						
+				<Language>
+					<LanguageRole>01</LanguageRole>
+					<LanguageCode>eng</LanguageCode>
+				</Language>
+				<PublicationDate>201904</PublicationDate>
+				<CopyrightStatement>
+					<CopyrightYear>2019</CopyrightYear>
+					<CopyrightOwner>
+						<PersonName>Afshin Meshkat-Dini</PersonName>
+					</CopyrightOwner>
+				</CopyrightStatement>
+			</ContentItem>
+		</DOISerialArticleWork>
+	
+</ONIXDOISerialArticleWorkRegistrationMessage>
+ 
+  
+  
+  
+  
+ 

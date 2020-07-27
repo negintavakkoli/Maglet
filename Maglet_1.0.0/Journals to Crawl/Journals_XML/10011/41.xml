@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>9</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>03</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>An Intelligent System for Fraud Detection in Coin Futures Market’s Transactions of Iran Mercantile Exchange Based on Bayesian Network</ArticleTitle>
+<VernacularTitle>طراحی نوعی سیستم هوشمند برای کشف تقلب حاصل از حرکت القایی در معاملات بازار قراردادهای آتی سکۀ بورس کالای ایران مبتنی بر شبکۀ بیزی</VernacularTitle>
+			<FirstPage>1</FirstPage>
+			<LastPage>20</LastPage>
+			<ELocationID EIdType="pii">60680</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2017.60680</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Amir-Reza</FirstName>
+					<LastName>Abtahi</LastName>
+<Affiliation>Assistant Prof., Dep. of IT., Faculty of Management, Kharazmi University, Tehran, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Fatemeh</FirstName>
+					<LastName>Elahi</LastName>
+<Affiliation>MSc. Student in Decision Sciences and Knowledge Engineering, Faculty of Management Kharazmi University, Tehran, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Reza</FirstName>
+					<LastName>Yousefi-Zenouz</LastName>
+<Affiliation>Assistant Prof., Dep. of IT., Faculty of Management, Kharazmi University, Tehran, Iran</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>06</Month>
+					<Day>15</Day>
+				</PubDate>
+			</History>
+		<Abstract>In order to gain more illicit profit, some traders in the stock market try to make a targeted impact on prices by placing fake orders and false advertising. Due to the high customer population, it is not possible to discover these frauds using traditional methods. The present study seeks to provide a system for preventing the frauds in future market-trading coins based on Bayesian classifier model for Iran Mercantile Exchange. The proposed model has polynomial time complexity and high accuracy because of considering important dependencies among different features of data. The primary labeling of data has been done by Kmeans clustering. The test of model shows 94.55 percent similarity between model&#039;s output and labeled data. Using this system can helps to identify the fraudulent from non-fraudulent traders.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Bayesian network</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Fraud detection</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Futures Contract</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Induction behavior</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Mercantile exchange</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_60680_26aa06de30a6257fb58215616a88d6ba.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>9</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>03</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Designing Decision Support System to 
+Select IT Projects and Services 
+(Case Study: Tosan Company)</ArticleTitle>
+<VernacularTitle>طراحی سیستم پشتیبان تصمیم‏گیری به‌منظور انتخاب پروژه‏ها و خدمات فناوری اطلاعات (مطالعۀ موردی: شرکت توسن)</VernacularTitle>
+			<FirstPage>21</FirstPage>
+			<LastPage>38</LastPage>
+			<ELocationID EIdType="pii">59843</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2017.59843</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Ameneh</FirstName>
+					<LastName>Khadivar</LastName>
+<Affiliation>Assistant Prof. in Management, Faculty of Social science and Economics, University of Alzahra, Tehran, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Ghazal</FirstName>
+					<LastName>Pakdaman</LastName>
+<Affiliation>MSc. in IT., Faculty of Social Science and Economics, University of Alzahra, Tehran, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Fatemeh</FirstName>
+					<LastName>Mojibian</LastName>
+<Affiliation>Ph.D. of Industrial Management, Tarbiat Modares University, Tehran, Iran</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>08</Month>
+					<Day>27</Day>
+				</PubDate>
+			</History>
+		<Abstract>Nowadays, considering the focus of international community on the field of IT services as well as the move of large organizations toward profitability by providing appropriate services to the needs of organization and business markets, it is necessary to draw more consideration to the related projects than ever. In this regard, identification and selection of IT services&#039; indicators and evaluation of these services, and projects, are effective methods to increase profitability and effectiveness of IT in organizations. Therefore, in this study, first the effective criteria in selecting IT projects and services identified, and then a decision support system designed based on fuzzy analytical hierarchy process. And also, by applying the proposed system, the analysis was conducted to determine the sensitivity of various criteria against changes and the effects of each on the final ranking results. Finally, comparing the results of the study with others, the advantages of proposed decision support system have been described.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">balanced scorecard</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">decision support system</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Fuzzy Analytical Hierarchy Process</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">IT services</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_59843_388ce9a850c38087810d7849f8c5a2d2.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>9</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>03</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Textual Data Mining Applications in the Service Chain Knowledge Management of e-Government</ArticleTitle>
+<VernacularTitle>کاربردهای داده‏کاوی متنی در حوزۀ مدیریت دانش زنجیرۀ خدمات دولت‏ الکترونیکی</VernacularTitle>
+			<FirstPage>39</FirstPage>
+			<LastPage>60</LastPage>
+			<ELocationID EIdType="pii">60679</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2017.60679</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Jalal</FirstName>
+					<LastName>Rezaeenour</LastName>
+<Affiliation>Associate Prof., Faculty of Engineering &amp; Technology, University of Qom, Qom, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>MohammadReza</FirstName>
+					<LastName>SheikhBahaei</LastName>
+<Affiliation>MSc in Information Technology Engineering, Faculty of Technology and Engineering, University of Qom.</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>03</Month>
+					<Day>10</Day>
+				</PubDate>
+			</History>
+		<Abstract>Systems related to knowledge management can improve quality and efficiency of knowledge used for decision making process. Approximately 80 percent of corporate information are in textual data formats. That is why text mining is useful and important in service chain knowledge management. For example, one of the most important applications of text mining is in managing on-line source of digital documents and the analysis of internal documents. This research is based on text-based documents and textual information and interviews processed by Grounded theory. In this research clustering techniques were applied at first step. In the second step, Apriori association rules techniques for discovering and extracting the most useful association rules were applied. In other words, integration of datamining techniques was emphasized to improve the accuracy and precision of classification. Using decision tree technique for classification may result in reducing classification precision. But, the proposed method showed a significant improvement in classification precision.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">E-Government</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Knowledge Management</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Service Chain</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Textual datamining</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_60679_9eda52574ff189b6b7118a2a51292ce0.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>9</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>03</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>A New Similarity Method to Optimize Business 
+in the Online Stores Using the Rating 
+Time Technology</ArticleTitle>
+<VernacularTitle>ارائۀ روش جدید شباهت‌یابی برای بهینه‎سازی کسب‎وکار در فروشگاه‌های اینترنتی با استفاده از تکنولوژی‏های زمان نرخ‎دهی</VernacularTitle>
+			<FirstPage>61</FirstPage>
+			<LastPage>82</LastPage>
+			<ELocationID EIdType="pii">59844</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2017.59844</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Nayereh</FirstName>
+					<LastName>Zaghari</LastName>
+<Affiliation>Ph.D. Candidate in Computer Engineering, Azad University, Tehran, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Ardeshir</FirstName>
+					<LastName>Zamani</LastName>
+<Affiliation>Ph.D. Candidate in Business Management, Tehran University, Tehran, Iran</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>05</Month>
+					<Day>17</Day>
+				</PubDate>
+			</History>
+		<Abstract>These days, Emergence of e-commerce web sites is one of the important consequences of the Internet in modern times, but products data is growing exponentially. In such environment, customers face a problem in finding optimized information among huge data bases about the items or desired products. In order to assist buyers, large e-commerce companies are planning to introduce their own recommender systems to help their customers in making a better choice among the items. Due to high percentage error , a basic method to build such systems is not usually being applied. In this essay, two methods have been suggested in order to improve recommendations in recommender systems. Collaborative filtering method is one of the most successful methods used in the system, but using this method that it has common problem the increasing number of users and products, therefore system do not inability to request the requirement of cold start and data sparsity. Two methods have been suggested in order to improve recommendations in recommender systems. To resolve this problem, a new method has been introduced in which by integrating  rating time by Pearson also combining semantic technology with social networks offers a solution to reduce issues such as &quot;cold start&quot; and generally &quot;data sparsity&quot; in recommender systems. The result of simulating showed that the proposed approach provided better performance and more accurate predictions in addition of more consistent with user preferences.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Data sparsity</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Internet store</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Recommender systems</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Users rating time</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_59844_8ae8b2cdc32145c1d0da84db072df70a.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>9</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>03</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>The Effect of VAT e-Service Quality on Taxpayers’ Satisfaction in Iran</ArticleTitle>
+<VernacularTitle>اثر کیفیت سرویس‏های الکترونیکی مالیات بر ارزش افزوده بر رضایت مؤدیان مالیاتی در ایران</VernacularTitle>
+			<FirstPage>83</FirstPage>
+			<LastPage>102</LastPage>
+			<ELocationID EIdType="pii">60681</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2017.60681</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Maryam</FirstName>
+					<LastName>Alipour</LastName>
+<Affiliation>Ph.D. Candidate in IT, Faculty of Management &amp; Accounting, Allameh Tabataba’i University, Tehran, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Payam</FirstName>
+					<LastName>Hanafizadeh</LastName>
+<Affiliation>Associate Prof. of Industrial Management, Faculty of Management &amp; Accounting, Allameh Tabataba’i University, Tehran, Iran</Affiliation>
+<Identifier Source="ORCID">0000-0002-5233-987X</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>10</Month>
+					<Day>07</Day>
+				</PubDate>
+			</History>
+		<Abstract>The design of e-government websites with improper service quality is one of the common problems in the contemporary era. Users’ perceptions of e-service quality are affected by their perceived service content and delivery quality. In this study, based on the model of e-government service quality, first we identify the factors of service content and delivery related to Value Added Tax (VAT) system in Iran. Then, we develop a conceptual model that depicts the influence of these factors on service quality and users’ satisfaction.  Data gathering is performed through electronic questionnaire and the case study of taxpayers using VAT services. The results show that transactional performance and accessibility respectively, have the greatest impact on quality of service content and delivery. In addition, the users’ positive perceptions of service content and delivery quality influence their positive perceptions of overall service quality. This study offers the design of a user-centric governmental website with effective service quality to improve users’ satisfaction and also to encourage the adoption and continuance use of these services.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">e-Service quality</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Satisfaction</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Service content</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Service Delivery</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Value Added Tax</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_60681_9d8bd4d7dcba11f16708e678cdae22ce.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>9</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>03</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>A Comparative Study of the Evolution of Iranian 
+e-Business Models with the Most Successful Global Business Models</ArticleTitle>
+<VernacularTitle>مطالعۀ تطبیقی کسب‎وکارهای الکترونیکی در ایران در مقایسه با کسب‎وکارهای برتر در مقیاس جهانی</VernacularTitle>
+			<FirstPage>103</FirstPage>
+			<LastPage>122</LastPage>
+			<ELocationID EIdType="pii">58687</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2017.58687</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Emad</FirstName>
+					<LastName>Farazmand</LastName>
+<Affiliation>Assistant Prof. Dep. of Computer, Islamic Azad University, Mahshahr Branch, Mahshahr, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Reza</FirstName>
+					<LastName>AliBakhshi</LastName>
+<Affiliation>MBA Student, Tehran University, Tehran, Iran</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>01</Month>
+					<Day>21</Day>
+				</PubDate>
+			</History>
+		<Abstract>Nowadays portions of the national income in developed countries are due to income of the electronic businesses and electronic commerce. Realizing these businesses and their strategical governance priorities regarding the development of those business with most profitability are among the most important necessities in this field. Accordingly, indicating the status quo of electronic business in our country can be of great value in having an effective policy-making. In this research we aim to compare the status of Iranian electronic commerce with the most successful ones in the globe. To do so, first we have considered the top hundred website according to Alexa ranking, nationally and globally, and we have extracted their main business models as well. Afterward, the frequency of these business models in addition to the average ranking of their websites have been extracted and compared accordingly. Results of this study show that those electronic business models which are highly valued globally are less attractive for Iran’s electronic commerce.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">e-Business models</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">E-commerce</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Ranking</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">TOPSIS</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_58687_de8033c3f01925de824589a08cb3ec0b.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>9</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>03</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Attribute Reduction in Incomplete Information System based on Rough Set Theory Using 
+Fuzzy Imperialist Competitive Algorithm</ArticleTitle>
+<VernacularTitle>کاهش ویژگی سیستم‌های اطلاعاتی ناقص بر مبنای تئوری مجموعۀ راف با استفاده از الگوریتم رقابت استعماری فازی</VernacularTitle>
+			<FirstPage>123</FirstPage>
+			<LastPage>142</LastPage>
+			<ELocationID EIdType="pii">60268</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2017.60268</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Mohammad</FirstName>
+					<LastName>Ghanei Ostad</LastName>
+<Affiliation>MSc. Student in IT Engineering, University of Birjand, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Hosein</FirstName>
+					<LastName>Khosravi Mahmoee</LastName>
+<Affiliation>MSc. Student in IT Engineering, University of Birjand, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Majid</FirstName>
+					<LastName>Abdolrazzagh Nezhad</LastName>
+<Affiliation>Assistant Prof., Faculty of Engineering, Dep. of Computer, Bozorgmehr University of Qaenat, Qaen, Iran</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>02</Month>
+					<Day>13</Day>
+				</PubDate>
+			</History>
+		<Abstract>In recent years, rough set theory has been considered as a strong solution to solve artificial intelligence problem such as data mining. But, the classic rough set theory is not effective in the case of attribute reduction in incomplete information systems. Since there are null values for some of attributes in a data set, an incomplete information system is created. In this paper, a novel method proposed to solve attribute reduction in incomplete information system based on rough set theory by combining and modifying imperialist competitive algorithm with fuzzy logic. Utilizing the fuzzy logic to control the parameters of the algorithm was useful and generated better solutions compared to its classic draft. In this research, no changes imposed on incomplete data, and it was just considered as a complete systems. The fuzzy imperialist competitive algorithm acted intelligently to reduce the number of attribute in incomplete information system, providing appropriate results that is worthy of attention.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Attribute reduction</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Fuzzy logic</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Imperialist competitive algorithm</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Incomplete information system</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Rough Set Theory</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_60268_cd3782d25f47ec99107486de9967922f.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>9</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>03</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>A Comprehensive Framework for Information Technology Governance and Localizing it for Automotive Industry of Iran (Case Study: ATLAS Automotive Holding)</ArticleTitle>
+<VernacularTitle>ارائۀ چارچوب جامع راهبری فناوری اطلاعات و بومی‌سازی آن برای صنعت خودروی ایران (مطالعۀ موردی: مادرشرکت خودروی اطلس)</VernacularTitle>
+			<FirstPage>143</FirstPage>
+			<LastPage>165</LastPage>
+			<ELocationID EIdType="pii">61210</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2017.61210</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Mohammad</FirstName>
+					<LastName>Mosakhani</LastName>
+<Affiliation>Associate Prof. in IT, Faculty of Management, University of Tehran, Tehran, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Amir</FirstName>
+					<LastName>Manian</LastName>
+<Affiliation>Associate Prof. in IT, Faculty of Management, University of Tehran, Tehran, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Jafar</FirstName>
+					<LastName>Mahmoodi</LastName>
+<Affiliation>Assistant Prof., Imam Hossein University, Tehran, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>MohammadHasan</FirstName>
+					<LastName>Kargar</LastName>
+<Affiliation>Ph.D. Candidate in IT., Faculty of Management , University of Tehran, Tehran, Iran</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>08</Month>
+					<Day>08</Day>
+				</PubDate>
+			</History>
+		<Abstract>Due to the absence of a comprehensive framework for IT governance, the main objective of the study is to identify all components of IT governance and present them in the form of a comprehensive IT governance framework .The localization of provided framework for the automotive industry is the secondary objective of the study. In this regard, the research questions are: what is the comprehensive framework of IT governance? What are the components and dimensions of a comprehensive framework of IT governance? What is the localized comprehensive framework of IT governance for the Iranian automotive industry? All researches on IT governance were investigated using meta-synthesis qualitative method and were limited to 96 selected articles by performing a meta-synthesis process. Then, the five categories, 19 concepts and 79 codes of IT governance were identified through detailed study of these articles. Then, a comprehensive framework of IT governance was presented. For localizing, a questionnaire designed based on the identified IT governance components, and distributed among the automotive industry experts. Statistical hypothesis testing of collected data led to the rejection of cross/functional job rotation component in the automotive industry. To demonstrate the applicability of the framework, the IT governance status of ATLAS holding company was evaluated based on the comprehensive framework that localized for automotive industry.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Automotive industry</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Comprehensive framework</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Information technology governance</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Meta-synthesis</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_61210_c4b2f62f6c52cf3fcd2eacf0cc3468a3.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

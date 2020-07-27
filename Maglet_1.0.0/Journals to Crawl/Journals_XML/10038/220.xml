@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>12</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>02</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Investigating the Performance and Optimization of New Management Methods (LID-BMP) to Improve Surface Runoff in Tehran-A Case Study of District 22</ArticleTitle>
+<VernacularTitle>بررسی عملکرد و بهینه سازی جانمایی روش‌های نوین مدیریتی (LID-BMP) در بهبود کمیت رواناب سطحی شهر تهران-مطالعه موردی منطقه 22</VernacularTitle>
+			<FirstPage>1</FirstPage>
+			<LastPage>21</LastPage>
+			<ELocationID EIdType="pii">101076</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>سودابه</FirstName>
+					<LastName>تقی زاده</LastName>
+<Affiliation>عمران- سازه های هیدرولیکی-قم</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>طاهر</FirstName>
+					<LastName>رجایی</LastName>
+<Affiliation>گروه مهندسی عمران، هیدرولوژی، دانشگاه قم</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>03</Month>
+					<Day>14</Day>
+				</PubDate>
+			</History>
+		<Abstract>This research presents urban flood risk management through new management approaches including the implementation of penetration trenches, permanent containment reservoirs and permeable pavements in the surface water collection network. The multi-objective optimization model presented in this research is based on the multi-objective MOPSO algorithm that is combined with Surface Surface Simulation Modeling Software by SWMM software. The application of the proposed method has been described on a case study of the Surface Surface Network of Tehran 22nd District, which consists of four different scenarios; the first scenario examines the performance of new management methods for improving surface runoff quantity without using BMP, and second scenarios, Third, and fourth, BMPs including penetrating trenches, permanent containment tanks and permeable pavements, which were applied in six, four and two percent of the sub basins for the return period of two, five and ten years, were used respectively. Modeling results show that biological storage tanks are more capable of reducing peak courier than penetration trenches and permeable pavements. Also, with the increase of the return period, the impact of BMPs decreases, so that the biosecurity tanks are 10% more effective than penetration trenches and about 20% more than penetrating pavements in reducing peak cours. The goal of the optimization model is to reduce peak coursing, which results suggest that using the optimal combination of all three new approaches leads to a 51% to 54% reduction in peak versus the most effective BMP.</Abstract>
+			<OtherAbstract Language="FA">این تحقیق مدیریت خطرپذیری سیلاب شهری را با به‌کارگیری روش‌های نوین مدیریتی شامل اجرای ترانشه های نفوذ، مخازن نگهداشت دائمی زیستی و روسازی‌های نفوذپذیر در شبکه جمع‌آوری آب‌های سطحی ارائه می‌نماید. مدل بهینه‌سازی چندهدفه ارائه شده در این تحقیق با استفاده از الگوریتمMOPSO چندهدفه توسعه‌یافته که با مدل شبیه‌سازی شبکه جمع‌آوری آب‌های سطحی توسط نرم‌افزار SWMM ترکیب شده است. کاربرد روش پیشنهادی بر روی مطالعه موردی شبکه جمع‌آوری آب‌های سطحی منطقه 22 تهران تشریح شده است که شامل چهار سناریو مختلف می باشد؛ سناریو اول به بررسی عملکرد روش های نوین مدیریتی در بهبود کمیت رواناب سطحی بدون استفاده از BMP پرداخته شده است و سناریوهای دوم، سوم و چهارم به ترتیب از BMP های شامل ترانشه نفوذ، مخازن نگهداشت دائمی زیستی و روسازی نفوذپذیر، که در شش، چهار و دو درصد از زیر حوضه‌ها برای دوره بازگشت دو، پنج و 10ساله اعمال شده، استفاده‌ گردیده است. نتایج مدل‌سازی نشان می‌دهد که مخازن نگهداشت زیستی نسبت به ترانشه های نفوذ و روسازی‌های نفوذپذیر، توانایی بیشتری در کاهش دبی پیک دارد. همچنین با افزایشی دوره بازگشت از تاثیر BMPs کاسته می شود بطوری که مخازن نگهداشت زیستی 10% بیشتر از ترانشه‌های نفوذ و حدود20% بیشتر از روسازی‌های نفوذ پذیر در کاهش دبی پیک تاثیر گذار می باشند. هدف مدل بهینه‌سازی کاهش دبی پیک می‌باشد که نتایج نشان می‌دهد به‌کارگیری ترکیب بهینه هر سه رویکرد نوین، منجر به کاهش 51% تا 54% دبی پیک نسبت به موثربخش ترین BMP می‌شود.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">مدیریت سیلاب</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">LID-BMP</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبکه جمع‌آوری آب‌های سطحی شهری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">خطرپذیری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">PSO</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>12</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>02</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>The effect of Kaolinite clay on the liquefaction resistance of the sandy soil; case study of the Gorgan city in north of Iran</ArticleTitle>
+<VernacularTitle>تاثیر رس کائولینیت بر مقاومت خاک ماسه ای در برابر روانگرایی، مطالعه موردی شهرستان گرگان در شمال ایران</VernacularTitle>
+			<FirstPage>23</FirstPage>
+			<LastPage>41</LastPage>
+			<ELocationID EIdType="pii">101374</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>رسول</FirstName>
+					<LastName>یازرلو</LastName>
+<Affiliation>دانشگاه تربیت مدرس - دانشکده علوم پایه - گروه زمین شناسی مهندسی</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>ماشااله</FirstName>
+					<LastName>خامه چیان</LastName>
+<Affiliation>استاد گروه زمین شناسی مهندسی دانشگاه تربیت مدرس</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محمدرضا</FirstName>
+					<LastName>نیکودل</LastName>
+<Affiliation>دانشگاه تربیت مدرس - دانشکده علوم پایه - گروه زمین شناسی مهندسی</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>02</Month>
+					<Day>12</Day>
+				</PubDate>
+			</History>
+		<Abstract>In this paper by performing of a series of triaxial cyclic test the effect of adding fines on the liquefaction potential of sandy soil are studied, after sampling of the soil and doing basic geotechnical tests on the samples. The result of triaxial cyclic tests showed that pure sandy soil after 54 cycle of loading is liquefied which prove the studied soil is liquefaction prone. Moreover it can be inferred from the test results that in low fine percent liquefaction resistance is decrease that can be attributed to breaking the coarse grain’s bond by fine particles. While by increasing the percent of the Kaolinite clay the soil liquefaction resistance is increase which can be explain by domination of the fine in soil structure and making soil more cohesive. This decreasing and increasing trend in soil resistance against liquefaction by adding fines is observed in several other studies which the percent of the fine that change the trend is named threshold fine amount. The result of the paper has been shown for studied sand of Noor city the threshold fine amount of Kaolinite clay is 12 weight percent.</Abstract>
+			<OtherAbstract Language="FA">در این مقاله پس از نمونه گیری از خاک ماسه‌ای منطقه و انجام آزمایشات پایه ژئوتکنیکی بر روی آن، با انجام یک سری آزمایش سه محوری سیکلی (دوره ای) اثر افزودن این ریزدانه بر پتانسیل روانگرایی خاک ماسه ای مورد مطالعه قرار گرفت. نتایج آزمایشات سه محوری سیکلی نشان داد که خاک ماسه ای مورد مطالعه پس از 54 سیکل بارگذاری روانگرا گردیده که نشان از مستعد بودن آن برای روانگرایی است. همچنین با افزودن ریزدانه به بافت خاک در درصدهای پایین مقاومت خاک در برابر روانگرایی کاهش یافته است که می تواند ناشی از شکسته شدن پیوند بین دانه‌های خاک توسط ذرات ریزدانه بوده باشد. اما با افزایش درصد ریزدانه مقاومت خاک در برابر روانگرایی افزایش می‌یابد که دلیل آن چیره شدن ریزدانه در بافت خاک و ایجاد چسبندگی در آن است. این روند کاهشی و سپس افزایشی در مقاومت خاک در برابر روانگرایی با افزودن ریزدانه در مطالعات دیگر نیز دیده شده است که به مقدار ریزدانه‌ای که پس از آن مقاومت خاک رو به افزایش میگذارد، ریزدانه حدی گفته می شود. نتایج این مقاله نشان داد که برای خاک ماسه ای شهرستان گرگان مقدار ریزدانه حدی خاک رس کائولینیت مقدار 12 درصد وزنی می باشد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">خاک ماسه ای</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">آزمایش سه محوری سیکلی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">روانگرایی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شهرستان گرگان</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>12</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>02</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Ranking and Evaluating the Coal Seam Mechanization Based on Geological Conditions
+Case study: The Eastern Alborz coal basin and Tabas coal mine</ArticleTitle>
+<VernacularTitle>ارزیابی و طبقه‌بندی قابلیت مکانیزاسیون لایه‌های زغال‌سنگ تحت شرایط زمین‌شناسی (مطالعه موردی: حوضه البرز شرقی و طبس)</VernacularTitle>
+			<FirstPage>43</FirstPage>
+			<LastPage>64</LastPage>
+			<ELocationID EIdType="pii">101375</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>رضا</FirstName>
+					<LastName>میکائیل</LastName>
+<Affiliation>گروه مهندسی معدن، دانشکده مهندسی معدن و مواد دانشگاه صنعتی ارومیه</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>احسان</FirstName>
+					<LastName>جعفرنژاد قراحسنلو</LastName>
+<Affiliation>دانشکده مهندسی معدن و مواد، دانشگاه صنعتی ارومیه، ارومیه، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>امیر</FirstName>
+					<LastName>جعفرپور</LastName>
+<Affiliation>دانشکده مهندسی معدن و متالورژی، دانشگاه یزد، یزد، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>03</Month>
+					<Day>04</Day>
+				</PubDate>
+			</History>
+		<Abstract>Nowadays, very important issues are considered by geological and mining engineers in extraction process of minerals. The important goals are: productivity and high production rates, improve working conditions and lower operating costs. The most suitable option to achieve these goals is to replace the traditional extraction methods with full-mechanized methods. The mechanization of the extraction operations is time consuming process and it requires high investment costs. So, cause special sensitivity in all design and implementation phases. Therefore, it is important to design, investigate and identify the capability of mechanization of coal layers in the first stage.&lt;br /&gt; For this purpose, the engineering capabilities of the coal layers of different mines should be analyzed that is important and necessary to achieve the above goals. Therefore, criteria affecting the mechanization of coal layers were identified. Then, 17 Stopes were studied that located in the Eastern Alborz Basin and Tabas mine. The combined used method to evaluate mechanization capability is combination method of Fuzzy set theory and FDAHP. The results of the fuzzy classification system presented in current study show that the T layer of Tabas has a good quality, the K11 layer of the Takht mine is located in the middle class and other layers have not qualify for mechanization properly. In the following, the results of this study were validated with current mining conditions. The results of the study showed that the multifactorial fuzzy classification system can reliably use to classify the mechanization of coal layers based on geological conditions.</Abstract>
+			<OtherAbstract Language="FA">امروزه به‌ موازات استخراج مواد معدنی به‌ویژه زغال‌سنگ، اهدافی همچون دستیابی به بهره‌وری و نرخ تولید بالا، بهبود شرایط کاری و کاهش هزینه‌های معدنکاری دنبال می‌شود. یکی از مناسب‌ترین گزینه‏ها برای رسیدن به این اهداف، جایگزینی روش‌های استخراج سنتی با استخراج تمام‌مکانیزه‌ است. مکانیزه کردن فرآیند استخراج لایه‏های زغالی، برخلاف روش‏های سنتی امری زمان‌بر و نیازمند صرف هزینه‌های سرمایه‌گذاری بالا می‏باشد. لذا توجه به این امر حساسیت ویژه‏ای در تمامی مراحل طراحی و اجرا را موجب می‏شود. قابلیت مکانیزاسیون لایه‌های زغالی متأثر از عوامل عمده‌ای نظیر شیب، ضخامت، یکنواختی لایه، کیفیت سنگ سقف، کیفیت سنگ کف و دبی آب موجود در سینه‌کار است. در تحقیق حاضر سعی شده است یک سیستم طبقه بندی فازی چند فاکتوره با استفاده از تلفیق رویکرد فازی چند‌معیاره و روش FDAHP، جهت ارزیابی و شناسایی قابلیت مکانیزاسیون لایه‏های زغالی ارائه شود. بدین منظور قابلیت مکانیزاسیون 17 کارگاه استخراجی مربوط به لایه‌های زغالی در حوضه البرز شرقی و طبس مورد ارزیابی قرار گرفت. مطابق نتایج به‌دست‌آمده از سیستم طبقه‌بندی فازی ارائه‌شده، تنها دو لایه زغالی T پروده طبس، با رده کیفی خوب و لایه زغالی K11 معدن تخت، با رده کیفی متوسط شرایط اجرای استخراج مکانیزه را دارا بوده و سایر لایه‌ها رده کیفی مناسبی برای مکانیزاسیون به‌دست نیاوردند. در ادامه نتایج حاصل از بررسی‏ قابلیت مکانیزاسیون لایه‏های مورد مطالعه با شرایط اجرایی فعلی آن‏ها مورد ارزیابی قرار گرفت. نتایج بررسی‏ها نشان داد که با قابلیت اطمینان بالایی lمیتوان به ارزیابی قابلیت مکانیزاسیون لایه های زغالی با استفاده از سیستم طبقه بندی فازی چند فاکتوره پرداخت.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">مکانیزاسیون</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">طبقه‌بندی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تئوری فازی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">زغال‌سنگ البرز شرقی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">طبس</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>12</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>02</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Case Study on the effects of physical parameters in electrical resistivity of fine grain soil</ArticleTitle>
+<VernacularTitle>بررسی موردی اثر پارامترهای فیزیکی بر تغییرات مقاومت الکتریکی خاکهای ریزدانه</VernacularTitle>
+			<FirstPage>65</FirstPage>
+			<LastPage>74</LastPage>
+			<ELocationID EIdType="pii">101377</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>عبداله</FirstName>
+					<LastName>سهرابی بیدار</LastName>
+<Affiliation>دانشکده زمین‌شناسی، پردیس علوم، دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>ابراهیم</FirstName>
+					<LastName>اصغری کلجاهی</LastName>
+<Affiliation>عضو هیات علمی گروه علوم زمین/ دانشگاه تبریز</Affiliation>
+<Identifier Source="ORCID">0000-0003-0408-6107</Identifier>
+
+</Author>
+<Author>
+					<FirstName>بهزاد</FirstName>
+					<LastName>امینی</LastName>
+<Affiliation>دانش‌آموخته دوره کارشناسی ارشد، دانشکده زمین‌شناسی</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>04</Month>
+					<Day>22</Day>
+				</PubDate>
+			</History>
+		<Abstract>Soil electrical resistivity is an easy indicator of soil corrosion potential assessment. In order to investigate the soil corrosion in an industrial zone on the margin of the Meyghan salt lake (Kheyr-Abad industrial town), the electrical resistivity was measured by Miller box in laboratory considering different conditions in terms of moisture content. Soils in the region are generally fine-grained and typically are from clay type (CL/CH) according to USCS. In the minimum considered moisture content for the test, which correspond to the dry season, the soils of the study area have the moderate to the severe corrosive potential that increases to the Meyghan lake side. The corrosion potential pattern in superficial soils (0 to 5 m) follows northeastern to southwest waterway channels and is more homogeneous in the deeper parts (5 to 10 m). With increasing moisture content, the electrical resistivity is strongly reduced and in the moisture content of 25%, the corrosion potential of the soils of the study area increases to severe and very severe. Analysis of covariance and correlation coefficient of resistivity decreasing ratio due to increased moisture content with the basic physical properties of soil indicates that the fine grained material content (passing #200) has the most effect on the decreasing of resistivity. The plasticity index, liquid limit and dry density have minor effects in comparison to fine grained material content.</Abstract>
+			<OtherAbstract Language="FA">مقاومت الکتریکی شاخصی ساده برای ارزیابی پتانسیل خورندگی خاکها می‌باشد. جهت بررسی خورندگی خاک در منطقه صنعتی شهرک خیرآباد در حاشیه دریاچه میقان در استان اراک، مقاومت ویژه الکتریکی به صورت آزمایشگاهی و با استفاده از جعبه میلر و در شرایط مختلف از نظر رطوبت اندازه گیری شده است. خاکهای منطقه از نوع ریزدانه بوده و نوعاً رسی هستند. در رطوبت کمینه و متناظر با وضعیت فصل خشک، خاکهای منطقه دارای پتانسیل خورندگی متوسط تا شدید هستند که به سمت دریاچه میقان افزایش می‌یابد. الگوی وضعیت خورندگی در خاکهای سطحی (0 تا 5 متر) از آبراهه‌های شمال شرقی به جنوب غربی پیروی می‌کند و در اعماق بیشتر (5 تا 10 متر) همگنی نسبی بیشتری دیده می‌شود. با افزایش مقدار رطوبت، مقاومت الکتریکی به شدت کاهش یافته و به تبع آن در رطوبت 25 درصد، پتانسیل خورندگی خاکهای منطقه به رده شدید و بسیار شدید تغییر می‌یابد. تحلیل کوواریانس و ضریب همبستگی نسبت کاهش مقاومت الکتریکی در اثر افزایش رطوبت با مشخصات فیزیکی پایه خاک، حاکی از اثرگذاری عمده مواد ریزدانه عبوری از الک 200 بوده و اثر شاخص خمیری، حد روانی و دانسیته خشک در مقایسه با آن کمتر است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">مقاومت الکتریکی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">خورندگی خاک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مشخصات فیزیکی خاک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">جعبه میلر</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>12</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>02</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Application of AHP Method and Site Specifications in Seismic zonation and building vulnerability assessment  (Case Study: Kermanshah City)</ArticleTitle>
+<VernacularTitle>بکارگیری روشAHP و مشخصات ساختگاه در پهنه‌بندی لرزه‌ای و بررسی آسیب‌پذیری ساختمانها (مطالعه موردی شهر کرمانشاه)</VernacularTitle>
+			<FirstPage>75</FirstPage>
+			<LastPage>94</LastPage>
+			<ELocationID EIdType="pii">101378</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>مریم</FirstName>
+					<LastName>حسنی نیا</LastName>
+<Affiliation>دانشکده عمران، واحد نجف آباد، دانشگاه آزاد اسلامی،ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>رسول</FirstName>
+					<LastName>اجل لوئیان</LastName>
+<Affiliation>استاد گروه زمین شناسی مهندسی، دانشکده علوم پایه، دانشگاه اصفهان، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محمدرضا</FirstName>
+					<LastName>حبیبی</LastName>
+<Affiliation>گروه عمران، واحد کرمانشاه، دانشگاه آزاد اسلامی، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>05</Month>
+					<Day>11</Day>
+				</PubDate>
+			</History>
+		<Abstract>Different methods for seismic zonation and building vulnerability sassessment are produced in different parts of the world. In these studies, seismic zonation is generally based on the geotechnical profile of the soil and the shear wave velocity. In 2013, Karmania hazard model (KHM) was presented to Iran, in which seismic zonation and vulnerability assessment of buildings and individuals in the worst earthquake scenarios are based on the basic parameters of the site, such as soil texture, groundwater level, microteremore data, and alluvial depth. In this study analytic hierarchy process (AHP (is applied in KHM model for seismic zonation and building vulnerability assessment of Kermanshah city. The results show that the vulnerability level for 80% of residential buildings would be low to moderate, but 2% of buildings would suffer from complete destruction (D1), 7% with very high destruction (D2) and 11% with high destruction (D3). Finally, the model is verified with the help of the data and observations from the Sarpol Zahab earthquake, which shows that the model is in good agreement with the actual earthquake data.</Abstract>
+			<OtherAbstract Language="FA">در نقاط مختلف جهان روش‌های متفاوتی برای پهنه‌بندی لرزه‌ای و ارزیابی آسیب‌پذیری ساختمان‌ها در برابر زلزله ارائه شده است. در این مطالعات، پهنه‌بندی لرزه‌ای عموما تنها براساس پروفیل ژئوتکنیکی خاک و سرعت موج برشی در آن می-باشد. در سال 2013 مدلی برای کشور ایران تحت عنوان karmania hazard model (KHM) ارائه شد که در آن پهنه‌بندی لرزه‌ای و ارزیابی آسیب‌پذیری ساختمان‌ها و افراد در بدترین سناریوی زلزله برمبنای پارامترهای اساسی ساختگاه مانند بافت خاک، سطح آب زیرزمینی، داده های میکروترمور و ضخامت آبرفت انجام شده است. &lt;br /&gt; در این مطالعه برای پهنه‌بندی لرزه‌ای و بررسی آسیب‌پذیری ساختمان‌ها در شهر کرمانشاه، روش تحلیل سلسله مراتبی در مدل KHM بکار گرفته شده است. نتایج نشان می-دهد که میزان آسیب‌پذیری برای 80% از ساختمان‌های مسکونی در سطح خرابی کم تا متوسط خواهد بود اما 2% از ساختمان‌ها دچار تخریب کامل (D1)، 7% دچار تخریب بسیار زیاد (D2) و 11% دچار تخریب زیاد(D3) می‌شود. مدل ارائه شده به کمک داده‌ها و مشاهدات حاصل از زلزله سرپل‌ذهاب صحت‌سنجی شده است که نتایج حاصل از مدل تطابق خوبی با داده‌ها و مشاهدات واقعی زلزله دارد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">پهنه‌بندی لرزه‌ای</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">آسیب‌پذیری ساختمان‌ها</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شدت زلزله</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>12</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>02</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Proposing the optimum locations for drilling in Saveh North-Narbaghi ‎porphyry copper deposit on the basis of geophysical data modeling</ArticleTitle>
+<VernacularTitle>پیشنهاد موقعیت بهینه حفاری در کانسار مس پورفیری نارباغی شمالی ساوه براساس مدل-‏سازی داده‌های ژئوفیزیکی ‏</VernacularTitle>
+			<FirstPage>95</FirstPage>
+			<LastPage>121</LastPage>
+			<ELocationID EIdType="pii">101379</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>رضا</FirstName>
+					<LastName>احمدی</LastName>
+<Affiliation>عضو هیئت علمی گروه مهندسی معدن، دانشکده مهندسی علوم زمین، دانشگاه صنعتی اراک</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محمدرضا</FirstName>
+					<LastName>رضاپور</LastName>
+<Affiliation>دانش آموخته کارشناسی ارشد مهندسی معدن، دانشگاه صنعتی اراک</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>06</Month>
+					<Day>09</Day>
+				</PubDate>
+			</History>
+		<Abstract>In the present research, modeling of magnetic, resistivity (Rs) and induced polarization (IP) data ‎of Saveh North-Narbaghi deposit has been carried out. Also 23 deep boreholes with a total ‎depth of 2425m have been drilled scattered at the studied area. In the first step, processing ‎sequences were applied for magnetic data to highlight the deep anomalies using the Oasis ‎montaj. Afterward, inverse modeling of the geoelectric profiles were done using Res2dinv and ‎the optimum location of drilling was proposed on the basis of qualitative interpretation of ‎geophysical real sections containing chargeability, resistivity and metal factor (MF). In the ‎following the depth variations map of geoelectric properties was plotted and interpreted for ‎inverted data in four depths of 10, 25, 43 and 78 meters. Afterward, to imagine the spatial ‎variations of the electrical properties of the region and proposing the most appropriate location ‎for drilling operation, the quasi three-dimensional solid model of Rs, IP and MF variations of the ‎deposit after the smoothness inversion was mapped using Rockworks. Plotting ore deposit cross-‎section along the geophysical profiles using the assay data from the boreholes, revealed that ‎drilling of some boreholes located on the profiles and independent of the results of geophysical ‎operation, has been carried out without any right logic, purpose and design with no ore body. ‎Also the qualitative accordance of the results of geoelectrical operations with the assay data ‎from boreholes having ore body, located on the geophysical profiles, showed in general a ‎moderate qualitative accordance between these data.‎</Abstract>
+			<OtherAbstract Language="FA">در پژوهش حاضر مدل‎‌‎سازی داده‌های ژئوفیزیکی مغناطیس سنجی، قطبش القایی و مقاومت ویژه در کانسار مس پورفیری نارباغی شمالی ‏ساوه انجام شد. اطلاعات لیتولوژی و عیارسنجی مس مغزه‌های حاصل از حفاری 23 حلقه گمانه اکتشافی عمیق با متراژ کلی 2425 متر ‏بطور پراکنده در سطح محدوده نیز در دسترس می‌باشد. در گام نخست بر روی داده‌های مغناطیسی، پردازش‌های مورد نیاز به منظور ‏برجسته سازی بی‌هنجاری‌های عمقی، با استفاده از نرم‌افزار ‏Oasis montaj‏ اعمال شد. سپس مدل‌سازی وارون داده‌های هفت پروفیل ‏ژئوالکتریکی با استفاده از نرم‌افزار ‏Res2dinv‏ صورت گرفت و براساس تفسیر کیفی مقاطع ژئوفیزیکی بارپذیری، مقاومت ویژه و فاکتور ‏فلزی پروفیل‌ها، موقعیت بهینه حفاری بر روی هر پروفیل پیشنهاد گردید. در ادامه نقشه تغییرات عمقی ویژگی‌های ژئوالکتریکی منطقه ‏برای داده‌های وارون سازی شده چهار عمق 10، 25، 43 و 78 متری ترسیم و تفسیر شد. سپس برای تجسم تغییرات فضایی ویژگی‌های ‏الکتریکی منطقه و پیشنهاد مناسب‌ترین موقعیت عملیات حفاری، مدل شبه سه‌بعدی تغییرات مقاومت ویژه، بارپذیری و فاکتور فلزی ‏‏محدوده کانسار بعد از مدل‌سازی وارون، با استفاده از نرم‌افزار ‏Rockworks‏ ترسیم شد. ترسیم مقطع ماده‌ معدنی منطبق بر پروفیل‌های ‏ژئوفیزیکی با استفاده از داده‌های عیارسنجی گمانه ها نشان داد که حفاری برخی از گمانه های منطبق بر پروفیل‌ها و غیرمبتنی بر نتایج ‏عملیات ژئوفیزیکی، بدون هیچ‌گونه منطق، هدف و طراحی درستی صورت گرفته و فاقد ماده معدنی نیز می‌باشند. همچنین بررسی میزان ‏تطابق کیفی نتایج عملیات برداشت ژئوالکتریک با داده‌های عیارسنجی گمانه‌های حاوی ماده معدنی منطبق بر پروفیل‌های ژئوفیزیک، به ‏طورکلی تطابق کیفی متوسطی را بین این داده‌ها نشان داد.‏</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">کانسار مس نارباغی شمالی ساوه</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مغناطیس‌سنجی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مقاومت‌ویژه (‏Rs‏)</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">قطبش القایی (‏IP‏)</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدل‌سازی ژئوفیزیکی</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>12</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>02</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>The Status of the Principles of Land Ethics in Monitoring the Eco-Hydrological Effects of Civil Projects</ArticleTitle>
+<VernacularTitle>جایگاه مبانی نظریة اخلاق زمین در پایش اثرات اکوهیدرولوژیکی پروژه‎های عمرانی</VernacularTitle>
+			<FirstPage>123</FirstPage>
+			<LastPage>143</LastPage>
+			<ELocationID EIdType="pii">101381</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>وحید</FirstName>
+					<LastName>جودکی</LastName>
+<Affiliation>کارشناسی ارشد، دانش آموخته گرایش زمین‌شناسی مهندسی</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>رسول</FirstName>
+					<LastName>اجل لوئیان</LastName>
+<Affiliation>استاد، گروه زمین&amp;lrm;&amp;lrm;شناسی مهندسی، دانشکده علوم پایه، دانشگاه اصفهان،</Affiliation>
+<Identifier Source="ORCID">0000-0001-9770-1695</Identifier>
+
+</Author>
+<Author>
+					<FirstName>نغمه</FirstName>
+					<LastName>مبرقعی دینان</LastName>
+<Affiliation>دانشیار، گروه محیط زیست، پژوهشکده علوم محیطی، دانشگاه شهید بهشتی، تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>عبداله</FirstName>
+					<LastName>سهرابی بیدار</LastName>
+<Affiliation>دانشیار، بخش زمین&amp;lrm;شناسی مهندسی و تکتونیک، دانشکده زمین‌شناسی، پردیس علوم، دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>علی</FirstName>
+					<LastName>عالی انوری</LastName>
+<Affiliation>استادیار، گروه مهندسی معدن، دانشکده فنی و مهندسی، دانشگاه کاشان</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>02</Month>
+					<Day>21</Day>
+				</PubDate>
+			</History>
+		<Abstract>Therefore, the present study aims to investigate the role of the principles of the theory of land ethics in monitoring the environmental impacts of civil projects. The present study is a field study. The research community includes all human communities, water resources and ecosystems (vegetation, animals, etc.) within the boundaries of the ghomroud tunnel project site. The data was collected using a field observations method and a series of field visits of site design (Geological survey in the city of Aligoudarz). Data analysis has been done with the help of descriptive statistics that have been interpreted in terms of land&#039;s theory of ethics. The results of the studies indicate that the ghomroud tunnel drilling operations, to changed the hydrology regime (the reduction dubai of springs and wells), migrating villagers , Weakening of agriculture and the local economy network, Impact on the habitat of plant-animal species, the impact on the region&#039;s image (the potential of the geotourism industry) led. Hydrogeological regime change in the region and social consequences, was related by geological conditions during drilling (existence of crushed zones, folding, slope of layers, lithological changes, etc.) in site design (Geological Zone of Sanandaj, Sirjan). Other implications of the project are also indirectly related to the geological conditions of the region.According to the results, it can be said that thinking of preventive measures to control the environmental consequences of such a project depends directly on the way of thinking and ethical planning of planners (relative to the environment).</Abstract>
+			<OtherAbstract Language="FA">پژوهش حاضر با هدف بررسی نقش مبانی نظریة اخلاق زمین در پایش پیامدهای اکوهیدرولوژیکی پروژه‎های عمرانی صورت گرفته است. پژوهش حاضر یک مطالعه میدانی است. جامعه پژوهش شامل تمامی جوامع انسانی، منابع آب و اکوسیستم‎ها (گیاهی، جانوری و...) در محدوده اجرای تونل‎های پروژه قمرود است. اطلاعات به روش مشاهداتِ میدانی و طی چند مرحله بازدیدهای صحرایی ضمن بررسی شرایط زمین‎شناسی ساختگاه طرح (در منطقه شهرستان الیگودرز) جمع‎آوری شده است و از منظر مبانی نظریة اخلاق زمین مورد تفسیر قرار گرفته‎اند. نتایج به دست آمده نشان می‎دهد که عملیات حفاری تونل قمرود، موجب تغییر رژیم هیدروژئولوژی منطقه (کاهش دبی چاه‎ها و چشمه‎ها)، مهاجرت روستاییان، تضعیف کشاورزی و شبکه‎ اقتصاد محلی، تاثیر بر زیستگاه گونه‎های گیاهی- جانوری، تاثیر بر سیمای منطقه (پتانسیل صنعت ژئوتوریسم) شده است. تغییر رژیم هیدروژئولوژی و پیامدهای اجتماعی آن، متأثر از شرایط زمین‎شناسی حین حفاری (هجوم آب در اثر وجود زون‎های خردشده، چین‎خوردگی‎ها، شیب لایه‎بندی‎ها، تغییرات لیتولوژیکی و ...) در ساختگاه طرح (زون زمین‎شناسی سنندج سیرجان) بوده است. سایر پیامدهای طرح نیز بطور غیر مستقیم به شرایط زمین‎شناسی منطقه ارتباط پیدا می‏کند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">اخلاق زمین</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">اکوهیدرولوژیکی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">زون سنندج سیرجان</Param>
+			</Object>
+		</ObjectList>
+</Article>
+</ArticleSet>

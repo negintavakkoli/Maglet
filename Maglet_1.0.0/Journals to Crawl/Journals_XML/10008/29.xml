@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشکده مدیریت دانشگاه تهران</PublisherName>
+				<JournalTitle>مدیریت صنعتی</JournalTitle>
+				<Issn>2008-5885</Issn>
+				<Volume>1</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2009</Year>
+					<Month>09</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Neuro- Fuzzy Statistical Process Control</ArticleTitle>
+<VernacularTitle>کنترل فرآیند آماری عصبی ـ فازی</VernacularTitle>
+			<FirstPage></FirstPage>
+			<LastPage></LastPage>
+			<ELocationID EIdType="pii">20384</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>نظام‌الدین</FirstName>
+					<LastName>فقیه</LastName>
+<Affiliation>دانشگاه شیراز</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>امیرعباس</FirstName>
+					<LastName>معصومی</LastName>
+<Affiliation></Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>1970</Year>
+					<Month>01</Month>
+					<Day>01</Day>
+				</PubDate>
+			</History>
+		<Abstract>Controlling a system with minimum information and regardless of dynamic equations which dominate systems is the aim of intelligent control. One of the common approaches for process control is applying Shewhart&#039;s quality control charts. Neuro-Fuzzy networks, as one of the branches of Artificial Intelligence (AI), can play an effective role in the enforcement of process control&#039;s common approaches. In this paper, through applying ANFIS, two patterns of trend and areas of out of control limits are discussed. The final obtained results show that through applying this approach, one can considerably increase the degree of certainty of quality control systems, particularly in quality control charts domain.</Abstract>
+			<OtherAbstract Language="FA">هدف از کنترل هوشمند،کنترل یک سیستم بدون در دست داشتن معادلات دینامیکی حاکم بر آن سیستم با حداقل اطلاعات می‌باشد. فرآیند تولید یک محصول،همواره تحت تأثیر عوامل گوناگونی قرار گرفته و رفتار آن از یک رابطه ریاضی مشخص تبعیت نمی‌کند. یکی از روش‌های رایج برای کنترل فرآیند، استفاده از نمودارهای کنترل کیفیت شوهارت می‌باشد. تجزیه و تحلیل این نمودارها مستلزم دانش و تجربه کافی است که در عمل ممکن است همه اپراتورها از آن برخوردار نباشند. شبکه‌های عصبی- فازی به عنوان یکی از مؤلفه‌های هوش مصنوعی، می‌توانند نقش مؤثری را در تقویت روش‌های رایج کنترل فرآیند بر عهده بگیرند. در این تحقیق به کمک نرم افزار MATLAB و با استفاده از شبکه ANFIS ، به طبقه‌بندی دو الگوی غیر طبیعی در نمودارهای کنترل کیفیت پرداخته  شده است. نتایج نهایی به‌دست آمده در این تحقیق نشان می‌دهند که با استفاده از ANFIS می‌توان با کاهش خطاهای مرتبط، ضریب اطمینان  سیستم‌های کنترل کیفیت را به خصوص در زمینه نمودارهای کنترل کیفیت، تا حدود زیادی افزایش داد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">داده‌کاوی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سیستم عصبی‌- فازی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">کنترل هوشمند</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدیریت کیفیت</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نمودارهای کنترل کیفیت</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://imj.ut.ac.ir/article_20384_f29070dbd470ff89f0ff67e195ffc92d.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

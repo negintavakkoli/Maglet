@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-27T01:46:45Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://www.jiraeg.ir/?_action=export&amp;rf=summon&amp;issue=8770</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1394</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی ویژگی‌های فیزیکی و مکانیکی رادیولاریت‌های چرتی جنوب شهر کرمانشاه</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید داود</given_name>
+												<surname>محمدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ناصر</given_name>
+												<surname>مهدی آبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>بهمن</given_name>
+												<surname>ساعدی</surname>
+											</person_name></contributors>
+									<abstract>شناخت ویژگی­های زمین­شناسی مهندسی سازندهای سنگی ایران به عنوان یک ضرورت مطرح است. هدف از این پژوهش شناخت ویژگی­های زمین­شناسی مهندسی رادیولاریت­های چرتی کرمانشاه که سنگ بستر شهر کرمانشاه را تشکیل داده و در ارتباط با سازه­های مهندسی متمرکز و خطی فراوانی است، می­باشد. بدین منظور بر روی این سنگ­ها آزمایش­های فیزیکی و مکانیکی شامل، تعیین وزن واحد حجم خشک و اشباع، تخلخل، جذب آب، مقاومت فشاری تک‌محوری، مقاومت کششی برزیلی، چکش اشمیت و سرعت موج فشاری انجام گردید. وضعیت تکتونیکی و شکنندگی سنگ­های مورد مطالعه،  مغزه­گیری را با مشکلاتی مواجه نمود، لذا کوشش گردید با بررسی توزیع آماری داده­ها، اعمال آزمون کولموگروف- اسمیرنوف و صحت‌سنجی فاصله اطمینان 95%، ابتدا وضعیت آماری داده­ها مشخص شده و سپس روابط مناسبی بین نتایج آزمایش­ها به­دست آید. نتایج تحلیل­های آماری نشان می­دهد که داده­های حاصل از آزمایش­های انجام شده، از توزیع نرمال و یا توزیع لوگ نرمال تبعیت کرده و در فاصله اطمینان 95% قرار می­گیرند. ضمناً روابط تجربی به­دست آمده، دارای ضریب تعیین بسیار مناسب جهت تخمین غیرمستقیم پارامترهای فیزیکی و مکانیکی می­باشند.</abstract>
+									<keywords>
+									
+											<keyword>رادیولاریت‌های کرمانشاه</keyword>
+											<keyword>سنگ چرت</keyword>
+											<keyword>خصوصیات فیزیکی و مکانیکی</keyword>
+											<keyword>تحلیل‌های آماری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>16</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68363_062455739008da858d7f946a7e824831.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1394</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تعیین موقعیت گسل جنوب مشهد با استفاده از میکروترمورها</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مهسا</given_name>
+												<surname>زهانی قائینی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ناصر</given_name>
+												<surname>حافظی مقدس</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>غفوری</surname>
+											</person_name></contributors>
+									<abstract>در این پژوهش، جهت تعیین موقعیت تقریبی گسل جنوب مشهد از داده‌های میکروترمور استفاده شده است. برای این منظور داده‌های میکروترمور به روش تک ایستگاهی، در 5 پروفیل و 27 ایستگاه عمود بر ارتفاعات جنوبی شهر برداشت و بروش نسبت طیفی مولفه افقی به مولفه قائم (HVSR)، تحلیل شده است. سپس نقشه‌های هم پریود و  تغییرات آن، در محدوده ارتفاعات جنوب شهر ترسیم شده و ایستگاه‌های دارای تغییر ناگهانی و مشخص در مقادیر فرکانس بر روی نقشه مشخص شده‌اند. علاوه بر این به کمک جهت داری میکروترمورها و چرخش H/V، تغییرات دامنه تقویت در آزیموت‌های مختلف در هر ایستگاه مورد بررسی قرار گرفت و ایستگاه‌های دارای بیشترین آشفتگی در مقادیر دامنه تقویت، نشانه‌گذاری شدند. نهایتاً با مقایسه نتایج حاصل از هر دو روش و با بررسی گمانه‌های منطقه و شواهد فعالیت گسل بر روی عکس‌های هوایی، موقعیت تقریبی پهنه گسلی جنوب شهر مشهد مشخص شده است. نتایج مطالعات همخوانی مناسبی با شواهد صحرایی، تفسیر عکس‌های هوایی و اطلاعات حاصل از گمانه‌ها نشان می‌دهد.</abstract>
+									<keywords>
+									
+											<keyword>میکروترمور</keyword>
+											<keyword>نسبت طیفی مولفه افقی به قائم</keyword>
+											<keyword>پریود تشدید</keyword>
+											<keyword>چرخش H/V</keyword>
+											<keyword>گسل جنوب مشهد</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>17</first_page>
+										<last_page>30</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68364_0533f494b8009f510a89e85d8d7660c2.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1394</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مخاطرات حفاری مکانیزه تونل در بافت فرسوده شهری</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>قدرت</given_name>
+												<surname>برزگری</surname>
+											</person_name></contributors>
+									<abstract>ایجاد فضاهای زیرزمینی و حفاری‌های تونل در زیر مناطق شهری که عمدتاً دارای سازه­هایی متراکم با بافت فرسوده و غیرمهندسی هستند حتی علیرغم استفاده از ماشین‌آلات حفاری پیشرفته با چالش­هایی همراه است. در این مقاله، مخاطراتی که در حفاری مکانیزه تونل‌ها با استفاده از ماشین حفار نوع سپر تعادلی در محیط­های شهری باعث آسیب­پذیری سازه­ها و ساختمان‌های مجاور می­شوند مورد بررسی قرار گرفته­اند.&lt;br /&gt; خط یک متروی تبریز به طول 2/17 کیلومتر از میدان ائل‌گلی آغاز و پس از عبور از مرکز و بافت فرسوده شهری در کوی لاله خاتمه می­یابد. حدود 8 کیلومتر از مسیر به صورت تونل عمیق با دو دستگاه ماشین حفار از نوع سپر تعادلی در حال حفاری می‌باشد. بررسی مخاطرات حفاری در بافت شهری نشان می­دهد ایجاد ترک‌های بزرگ و جزئی در ساختمان­ها به ترتیب حدود 13 و 31 درصد را بخود اختصاص داده و نفوذ فوم حفاری و دوغاب تزریقی از طریق حفرات مدفون با فروانی 11 درصد، از آسیب‌هایی هستند که در زمان حفاری با آنها مواجه شده است. وجود حفره­های مدفون در شهرهای تاریخی و با سابقه زلزله‌خیزی مثل تبریز از عوامل تشدید کننده آسیب­های حفاری تونل می­باشد. بر اساس نتایج ابزار دقیق، بیشترین نشست در زمان عبور ماشین حفار اتفاق افتاده و مقدار آن با عمق افزایش پیدا می­کند. نتایج این مقاله می­تواند در پیش­بینی و کاهش مخاطرات حفاری سایر خطوط متروی تبریز و یا شهرهای مشابه نقش مؤثری داشته باشد.</abstract>
+									<keywords>
+									
+											<keyword>تونل‌های شهری</keyword>
+											<keyword>مخاطرات</keyword>
+											<keyword>حفاری مکانیزه</keyword>
+											<keyword>متروی تبریز</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>31</first_page>
+										<last_page>46</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68365_dd77e81e4bb4c733793aed4a83e864b7.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1394</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تأثیر ویژگی‌های زمین‌شناسی‌مهندسی و ژئومکانیکی بر گام پیشروی مجاز تونل</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مهدی</given_name>
+												<surname>تلخابلو</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سید محمود</given_name>
+												<surname>فاطمی عقدا</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>میلاد</given_name>
+												<surname>معتمدی</surname>
+											</person_name></contributors>
+									<abstract>نیروگاه­های تلمبه ذخیره‌ای از جدیدترین سامانه‌هایی هستند که به‌طور غیرمستقیم به ذخیره انرژی برق می‌پردازند. با توجه به اهمیت تونل آب بر از جهت قرارگیری توربین‌ها و آگاهی از این موضوع که اکثر ناپایداری‌های شایع در فضاهای زیرزمینی مدتی پس از اجرا و نپرداختن به بعضی مسائل مهندسی رخ می‌دهد اقدام به مطالعه ویژگی‌های زمین‌شناسی مهندسی مسیر تونل آب بر نیروگاه تلمبه ذخیره­ای سد آزاد شده و تغییرات برخی از این پارامترها در نرم‌افزار Rockwork 2008 نشان داده ‌شده است. همچنین در این تحقیق از طبقه‌بندی جدیدی موسوم به IRMR  جهت مطالعه ویژگی‌های مهندسی توده‌سنگ‌های مسیر تونل بهره گرفته ‌شده است. نتایج طبقه‌بندی IRMR با طبقه‌بندی­های کلاسیک RMR و GSI نشانگر قرا‌رگیری محدوده­های ورودی و خروجی مسیر تونل در شرایط نامساعد بوده است. بامطالعه درزه­های موجود در مسیر تونل و بهره­گیری از نرم‌افزار المان محدود مناطقی که احتمال تشکیل گوه سنگی داشتند مشخص‌شده است. همچنین با بررسی­های زمین­شناسی‌ مهندسی و به کمک معیارهای متداول موجود، احتمال مچاله شوندگی و انفجار سنگ مورد ارزیابی قرار گرفته و با لحاظ کردن آنها برای توده‌سنگ‌های مسیر تونل و استفاده از نرم‌افزار FLAC3D حداکثر گام مجاز پیش روی برای مناطق بحرانی پیشنهاد شده است.</abstract>
+									<keywords>
+									
+											<keyword>ویژگی‌‌های ژئومکانیکی</keyword>
+											<keyword>نیروگاه تلمبه ذخیره‌ای</keyword>
+											<keyword>FLAC 3D</keyword>
+											<keyword>IRMR</keyword>
+											<keyword>RMR</keyword>
+											<keyword>GSI</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>47</first_page>
+										<last_page>64</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68366_068975f9b5a057315a89ab756d0afcf5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1394</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی مقاومت کششی با استفاده از نتایج آزمایش شکست هیدرولیکی و مقایسه آن با مقاومت کششی برزیلی و مقاومت بار نقطه‌ای: مطالعه موردی (سازند آسماری)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>عرفان</given_name>
+												<surname>صادقی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمدرضا</given_name>
+												<surname>نیکودل</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>بدیل</given_name>
+												<surname>پهلوان</surname>
+											</person_name></contributors>
+									<abstract>امروزه به دلیل اهمیت منابع هیدروکربنی و بالا رفتن نرخ مصرف در جهان، نیاز به بالا بردن استخراج این مواد بیش از پیش احساس می​شود. از طرفی وجود سازندهای با تخلخل موثر پایین که سنگ مادر مخازن هیدروکربنی محسوب می­شوند، مانع از بهره­وری مناسب از این مخازن می‌گردند. شکست هیدرولیکی که به عنوان یک فرایند آغاز و گسترش شکستگی­ها در اثر تزریق سیال به درون قسمتی از گمانه حفر شده در سازندهای سنگی شناخته می​شود، نقش موثری در افزایش استحصال مخازن هیدروکربنی کم بازده دارا می­باشد. آغاز و گسترش شکستگی­ها وابستگی بالایی به پارامترها و خصوصیات سنگ مخزن دارند. از میان این پارامترها می​توان به مواردی همچون جنس سنگ­های تشکیل دهنده، مقاومت کششی سنگ­ها، فشارمنفذی درون سنگ و غیره اشاره نمود. اهمیت مقاومت کششی سنگ به منظور پیش­بینی فشار شکست آزمایش شکست هیدرولیکی بسیار بالا بوده و خود این پارامتر نیز تابع سنگ­شناسی سنگ مخزن می­باشد. از این روی در این پژوهش با نمونه­گیری از مقطع تیپ سازند آسماری به بررسی و ارزیابی پارامتر فشار شکست به عنوان تابعی از پارامترهای مقاومت کششی سنگ و سنگ‌شناسی پرداخته شده است. با دستیابی به مقاومت کششی سنگ از آزمایش شکست هیدرولیکی به مقایسه آن با مقاومت کششی برزیلی و مقاومت بارنقطه­ای پرداخته شده است. اختلاف میان این نسبت­ها نشان از وابستگی پارامتر مقاومت کششی به روش آزمایش دارد. مقاومت کششی به دست آمده از آزمایش شکست هیدرولیکی برای این سازند حدوداً برابر با 20 مگاپاسکال و نسبت میان مقاومت کششی شکست هیدرولیکی به برزیلی معادل 35/2 می­باشد. با توجه به حفرات کارستی ریز در ساختار این سنگ­ها و به تبع آن تخلخل نسبتاً پایین این سازند و همچنین وجود حفرات درون ذره­ای به دلیل وجود فسیل در ساختار سنگ، اختلاف ناچیز در پراکندگی داده­ها و ضریب رگرسیونی 9/0 را می­توان بدین دلیل دانست. تمام شواهد اعم از نتایج خصوصیات فیزیکی و مکانیکی اثبات کننده تأثیر سنگ‌شناسی بر نتایج مقاومت کششی بدست آمده از آزمایش شکست هیدرولیکی می­باشد. همچنین می­توان از آزمایش برزیلین برای ارزیابی تنش‌های مورد نیاز جهت شکست هیدرولیکی استفاده نمود.</abstract>
+									<keywords>
+									
+											<keyword>شکست هیدرولیکی</keyword>
+											<keyword>سازند آسماری</keyword>
+											<keyword>آزمایش برزیلی</keyword>
+											<keyword>مقاومت کششی سنگ</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>65</first_page>
+										<last_page>80</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68367_e1f240e2f8dcce5811b9e8d3bc1775b2.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1394</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مقایسه ضریب تحکیم حاصل از آزمایش CPTu و آزمایش تحکیم یک بعدی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>اکبر</given_name>
+												<surname>چشمی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>زهرا</given_name>
+												<surname>عزالدین</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>کاظم</given_name>
+												<surname>مرادی هرسینی</surname>
+											</person_name></contributors>
+									<abstract>ضریب تحکیم یکی از پارامترهای مهمی است که در طراحی‌های ژئوتکنیکی استفاده می­شود. این ضریب معمولا از آزمایش تحکیم یک بعدی آزمایشگاهی بدست می­آید. آزمایش نفوذ مخروط آزمایشی برجاست که در آن امکان اندازه­گیری تغییرات فشار آب منفذی با زمان و تعیین ضریب تحکیم وجود دارد. این آزمایش قبلا بعنوان آزمایش محو فشار آب­منفذی (Dissipation) معرفی شده است. ته (Teh, 1987)، هولسبی و ته (Houlsby &amp; Teh, 1988)، ته و هولسبی (Teh &amp; Houlsby, 1991) و جونز و راست (Jones &amp; Rust, 1995) روش‌های مختلفی برای تعیین ضریب تحکیم از نتایج آزمایش نفوذ مخروط پیشنهاد نموده­اند. در این مقاله با استفاده از 43 آزمایش محو فشار منفذی و 35 آزمایش تحکیم آزمایشگاهی در سه ناحیه در جنوب ایران، ضمن مقایسه ضریب بدست آمده از 4 روش فوق، ضریب بدست آمده از این روش‌ها با ضریب حاصل از آزمایش آزمایشگاهی تحکیم مقایسه شده است. نتایج نشان می­دهد ضریب بدست آمده از آزمایش آزمایشگاهی از مقادیر بدست آمده از روش ته و هولسبی بیشتر و از سایر روش‌ها کمتر است. نتایج آزمایشگاهی از نظر مقدار و روند به نتایج بدست آمده از روش ته و هولسبی نزدیکتر هستند. رابطه تجربی بین ضریب تحکیم آزمایشگاهی و برجا با ضریب تعیین بیشتر از 0.7 پیشنهاد شده است. بیشترین ضریب تعیین مربوط به روش هولسبی و ته و کمترین مربوط به روش جونز و راست است. زمانی‌که یک رابطه تجربی برای همه سایت­های مطالعه شده پیشنهاد گردیده ضریب تعیین نسبت به زمانیکه روابط تجربی برای هر سایت بصورت مستقل تعیین گردیده، کاهش یافته است بنابراین روابط می­توان گفت روابط تجربی متاثر از ویژگی­های هر منطقه می­باشند.</abstract>
+									<keywords>
+									
+											<keyword>: آزمایش نفوذ مخروط</keyword>
+											<keyword>آزمایش محو فشار منفذی</keyword>
+											<keyword>ضریب تحکیم</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>81</first_page>
+										<last_page>94</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68368_c0fc0d25cb685f1af1e47daf596424df.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1394</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تأثیر عوامل مختلف موثر بر خوردگی فلزات در خاک با استفاده از تحلیل‌های آماری</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مجید</given_name>
+												<surname>تقی‌پور</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>غلامرضا</given_name>
+												<surname>لشکری پور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>غفوری</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>ناصر</given_name>
+												<surname>حافظی مقدس</surname>
+											</person_name></contributors>
+									<abstract>در این مقاله با استفاده از آنالیزهای آماری به بررسی میزان تأثیر عوامل مختلف بر روی خوردگی فلزات در خاک پرداخته ‌شده است. به دلیل عدم وجود داده‌‌های مشابه در کشور که بتواند تأثیر هر عامل را بر روی خوردگی فلزات مدفون مشخص نماید، از داده‌های حاصل از آزمایش‌های صورت گرفته توسط سازمان ملی استانداردهای امریکا بر روی خورندگی فلزات در خاک بین سال‌های 1922 تا 1947، استفاده‌ شده است. به‌منظور تعیین سهم هر عامل در خوردگی فلزات توسط خاک، یک رگرسیون چندمتغیره بین عوامل مختلف خورندگی خاک و میانگین کاهش جرم لوله‌های مدفون ایجاد شد و در نهایت بهترین مدل برای هریک از متغیرهای مستقل براساس معیار P-value که در آزمون F و در جدول آزمون T نشان داده شده، متغیرهای موثر مدل رگرسیونی انتخاب گردید. این آنالیز برای متوسط زمان آزمایش 5/1 و 5/11 سال و میانگین کل آزمایش (18سال) صورت گرفت. نتایج ماتریس همبستگی ایجاد شده نشان می‌دهد که بیشترین همبستگی بین نتایج مربوط به سال آزمایش و پس از آن اسیدیته‌ی کلی است و سایر متغیرها (میزان کلر، میزان سولفات، درصد رطوبت، بارش، مقاومت و میزان pH خاک) در مدل تأیید نمی‌شوند. مدل نهایی ایجاد شده یک مدل نمایی است که طبق نتیجه آنالیز تحلیل باقی‌مانده‌ها، صحت مدل تأیید می‌گردد. نتایج این تحقیق از این جهت حائز اهمیت هستند که داده‌های مورد مطالعه مربوط به شرایط واقعی و بلندمدت هستند.</abstract>
+									<keywords>
+									
+											<keyword>خورندگی خاک</keyword>
+											<keyword>خوردگی فلزات مدفون</keyword>
+											<keyword>خواص خاک</keyword>
+											<keyword>کاهش جرم فلز</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>95</first_page>
+										<last_page>104</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68369_280d8d5aa8527af1332ccba7a2df8f33.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

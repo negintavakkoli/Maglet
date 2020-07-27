@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>زمستان 98</title>
+			</titleInfo>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>زمستان 98</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>0</start>
+					<end>0</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_24359_0a321cf1e1849e9c8e0ed1821e67be6d.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2019.24359</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Measuring systemic risk in the financial institution via dynamic conditional correlation and delta conditional value at risk mode and bank rating</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">reza</namePart>
+				<namePart type="given">eivazlu</namePart>
+				<affiliation>Assistant Prof, Finance  and Insurance Department, Tehran University, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">mehdi</namePart>
+				<namePart type="given">rameshg</namePart>
+				<affiliation>MSc. Financial- financial law , mamagment Department, tehran University, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Systematic risk (in economics often called aggregate risk or undiversifiable risk) is vulnerability to events which affect aggregate outcomes such as broad market returns, total economy-wide resource holdings, or aggregate income. In many contexts, events like earthquakes and major weather catastrophes pose aggregate risks they affect not only the distribution but also the total amount of resources. In this paper we study systemic risks in the Iranian banking sector by using two famous systemic risk measures theMES (marginal expected shortfall) and CoVaR. To compute both measures we employ Engle&#039;s dynamic conditional correlation model. Our empirical analysis shows, first, that although these two systemic risk measures differ in defining the contributions to systemic risk, both are qualitatively very similar in explaining the cross-sectional differences in systemic risk contributions across banks. Last, using a threshold VAR model, we suggest an overall systemic risk measure – the aggregateMES – and its associated threshold value for use as an early warning indicator. The paper is innovative in terms of the use of statistical models (dynamic conditional correlation model) and available data Looking for the rating of commercial banks using by approaches MES and COVAR.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>1</start>
+					<end>16</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_23292_751a6e8b0bce78149793a49655108049.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2019.112150.1283</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The Role of Market Capitalization in the Relationship Between ROA, ROE and Stock Prices in Tehran Stock Exchange</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">AliAkbar</namePart>
+				<namePart type="given">Chaharmahali</namePart>
+				<affiliation>Accounting Department &amp;amp;ndash; Faculty of Management and Accounting &amp;amp;ndash; Islamic Azad University (North Tehran Branch)- Tehran -IRAN</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Javad</namePart>
+				<namePart type="given">Zahedi</namePart>
+				<affiliation>Department of Accounting, Faculty of Management &amp;amp;amp; Accounting, Islamic Azad University Mashhad Branch, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Reza</namePart>
+				<namePart type="given">Mohammadi</namePart>
+				<affiliation>Department of Management, Faculty of Accounting and Management, Islamic Azad University Mashhad Branch, Mashhad, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Financial ratios analysis is considered among the most widely used tools for evaluating the performance of companies and investments. In this regard, ROA and ROE ratios are among the most important criterias. This study seeks evidence about the role of market capitalization in the relationship between return on assets and return on equity with Stock prices and is compared with their book value. This study was conducted on 136 companies listed on the Tehran Stock Exchange between 2008-2016. In order to test hypotheses, we used of 8 multivariate regression. The results indicate that both of ratios with book value and market value have a significant and positive relationship with stock prices; But the strength of this relationship is not the same, market value has more strongest relation than book value, return on assets can explain the stock price changes alone and about 66% and Combined return on assets to book value and return on equity to market value have strongest correlation with the stock price changes.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>17</start>
+					<end>30</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_23764_ad310e54b4f8910aa30c1132ba2d8cb0.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2019.103686.1094</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Sophisticated Investors and Accruals Trading Strategy</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Seyed Ehsan</namePart>
+				<namePart type="given">Hosseini</namePart>
+				<affiliation>Ph.D. Student, Department of Accounting, Faculty of Administrative Science and Economics, University of Isfahan, Isfahan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Seyed Abbas</namePart>
+				<namePart type="given">Hashemi</namePart>
+				<affiliation>Associate Professor, Department of Accounting, Faculty of Administrative Sciences and Economics, University of Isfahan, Isfahan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>This study examines whether sophisticated investors implement traditional accruals strategy and percent accruals strategy. Moreover we compare the amount of excess return and risk adjusted return of accruals strategy sophisticated investors and of those who are neutral to accruals strategy. For this purpose, we collect quarterly data of 950 observation of investment companies listed in Tehran Stock Exchange for the years 2011-2018. The hypotheses were tested using one sample t test. The results show that sophisticated investors do not implement accruals strategy. But implementation of accruals strategy by a subsample of sophisticated investors was verified. The results show traditional accruals strategy sophisticated investors do not earn excess return and risk adjusted return in compare with those who are neutral to traditional accruals strategy regardless of return measures. But there is some evidence that percent accruals strategy sophisticated investors earn excess return and risk adjusted return in compare with those who are neutral to percent accruals strategy.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>31</start>
+					<end>48</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_23536_549b4b4d823650b22b08bd7fea27e35f.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2019.114976.1366</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The Effect of Trade Volume, Time-to-Maturity and Open Interest on the Return of Gold Coid Future Trades</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">fatemeh</namePart>
+				<namePart type="given">mirzadeh</namePart>
+				<affiliation>Ph.D. Student, Department of Management, Faculty of Management and Social Sciences, Tehran North Branch, Islamic Azad University, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Alireza</namePart>
+				<namePart type="given">Heidarzadeh hanzaee</namePart>
+				<affiliation>Assistant Prof., Department of Management, Faculty of Management and Social Sciences Tehran North Branch, Islamic Azad University, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Ali</namePart>
+				<namePart type="given">Saeedi</namePart>
+				<affiliation>Associate Prof., Department of Management, Faculty of Management and Social Sciences Tehran North Branch, Islamic Azad University, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Objectives:The main purpose of this research is to study the effect of trade volumes, Open positions and Time to maturity on future trading returns of Gold Coin in Iran Mercantile Exchange. In this research, contract volumes, open positions and time to maturity are the independent variables and the return of contracts is the dependent variable. Method: Considering the subject, statistical population includes 15 samples of future contracts on Gold coin in Iran Mercantile Exchange. The research data has been gathered among the listed future contracts on with maturity data of 2013 and 2014. The linear Regression with fixed effects has been used to test the assumptions. Results: The results have revealed that there is a leaner relationship between the effects of time-to-maturity and the returns of future contracts, and there is no significant linear relationship between the volume and number of Open positions and the return of future contracts.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>49</start>
+					<end>62</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_23035_39ffca1efd64a66b51531c342b157d9a.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2018.91633.0</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The Interactive Effect of Financing Constraints and Management`s Over-Confidence on Audit Fees</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">vali</namePart>
+				<namePart type="given">khodadadi</namePart>
+				<affiliation>University of Shahid Chamran Ahwaz, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">mohsen</namePart>
+				<namePart type="given">rashidi baghi</namePart>
+				<affiliation>Assistant Prof. in accounting, Faculty of Economics and Administrative Sciences University of Lorestan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">masood</namePart>
+				<namePart type="given">taherinia</namePart>
+				<affiliation>Assistant Prof. in accounting, Faculty of Economics and Administrative Sciences University of Lorestan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Objectives: Agency problems arise as a result of the conflict of interests between managers and shareholders. Auditing is considered as an effective way to limit the power of managers in contractual relationships. The basis of this paper is examining the role of funding constraints in changing the interactive effect between managers’ over-confidence and auditing fees.
+Method: The data of the companies, listed in the Tehran Stock Exchange for the period 2006 to 2016, have been extracted and the combined data regression model has been used to test the research hypotheses.
+Results: The results indicate that excessive self-confidence and financial constraints lead to changes in audit fees. Also, the results indicate that financing constraints have a significant effect on the joint interaction of management`s over-confidence and the audit fees.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>63</start>
+					<end>80</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_24199_e0b3c57865d47c569e662e81ae90bd31.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2019.114240.1343</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Behavioral Bias, Abnormal Volume, and Abnormal Return</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mohammad</namePart>
+				<namePart type="given">Osoolian</namePart>
+				<affiliation>Assistant Professor, Department of Financial Management, Faculty of Management &amp; Accounting, Shahid Beheshti University, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mozhgan</namePart>
+				<namePart type="given">Bazchi</namePart>
+				<affiliation>M.A, Department of Financial Management, Faculty of Management &amp; Accounting, Shahid Beheshti University, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Objectives: This research evaluates the effects of overconfidence, disposition effect and investors’ attention on the abnormal volume and abnormal returns of stocks through Interruption in independent variables.
+Method: It uses the unbalanced panel data regression technique to study a sample of 325 listed firms in Tehran Stock Exchange at weekly intervals between 2011 and 2016.
+Resutls: The results show that disposition effect and investors’ attention cause abnormal volume. In addition, with regards to abnormal return, the effect of investors&#039; attention on abnormal return is significant in the regression model. The important point in this study is the investigation of the effect of behavioral biases on abnormal volume while generating abnormal returns. The results indicate that only investors’ attention causes both abnormal volume and abnormal returns. Also, in the case of overconfidence, the relationship between this bias and abnormal volume and abnormal returns is not significant.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>81</start>
+					<end>96</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_23759_5772577e3847b04c6d6226d216e04530.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2019.112224.1282</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Investigating the Impact of Investor's Sentiment and Trading Behavior on Excess Return: Revised Fama and French Five Factor Model</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">seyedeh zahra</namePart>
+				<namePart type="given">nasiri</namePart>
+				<affiliation>Department of Accounting, Faculty of Administrative and Economics Sciences, Mazandaran University, Babolsar, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">yahya</namePart>
+				<namePart type="given">kamyabi</namePart>
+				<affiliation>Department of Accounting, Faculty of Administrative and Economics Sciences, Mazandaran University, Babolsar, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Objectives: Since the 1990s, the determination of the fair value of financial assets and whether this value depends only on fundamental factors in pricing models or is influenced by behavioral and psychological factors has always been a debatable issue. The behavioral finance field focuses on issues and proposes asset pricing models that incorporate behavioral decision-making aspects. The purpose of this study is to investigate the simultaneous effect of the criteria of the sentiment and individual investors trading behavior on the pricing of capital assets in 77 listed firms in Tehran Stock Exchange during the period from 2009 to 2014, using combination data method.
+Method: For this purpose, a revised Fama and French five-factor model is created by adding sentiment and individual investors trading behavior.
+Results: The experimental results showed that these two factors have a significant effect on the return on the five-factor model. In a situation where all investors are not rational, decision-makers can use the investor&#039;s psychological aspects to understand how asset pricing works.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>7</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>97</start>
+					<end>116</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_24358_f8ba5238fcf12f568a4b0c1e96d32325.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2019.116716.1418</identifier>
+			</mods>
+		</modsCollection>

@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Asset Management &amp; Financing</title>
+			</titleInfo>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>0</start>
+					<end></end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_19878_31db7523f95a9aadedd16fbe44d90b7e.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>A</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Hojatolah</namePart>
+				<namePart type="given">Sadeghi</namePart>
+				<affiliation>Yazd university</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Marziyeh</namePart>
+				<namePart type="given">Shams</namePart>
+				<affiliation>Yazd university</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>A way to estimate the downside risk is the value at risk (VaR) which indicates the highest possible loss in a portfolio of financial possessions in a special time horizon at a specified level of confidence and is a suitable measure for estimating the risk of financial asset and managing it. In the present study, common parametric and non-parametric methods of estimating the risk of financial assets are reviewed. Following that, a totally different parametric method named Cornish-Fisher (CF) estimate for estimation of VaR for financial fims listed on the Tehran Stock Exchange (Investment companies, Insurance companies, Leasing companies and banks) during 2010 to 2012 have been investigated. The findings of the current study indicate that this approximation has operated well for observations whose distribution has a small discrepancy with normal distribution. Using this approximate can lead to a more suitable risk management decisions.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>1</start>
+					<end>20</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_19868_4f241c98313b2c4b7873076c5c102df9.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The effect of changes in cash flows on cash Holdings regarding Financing constraint facing the companies listed in Tehran Stock Exchange</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Darush</namePart>
+				<namePart type="given">Foroghi</namePart>
+				<affiliation>isfahan university</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">سعید</namePart>
+				<namePart type="given">فرزادی</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The main objective of this study is to evaluate the impact of changes in cash flows on corporate cash holdings. The effect of financing constraints on the effectiveness of cash flow on cash holdings is the other objective of the present study. Sample includes data of 144 companies listed in Tehran Stock Exchange for the period 1381-1390. Due to the specific characteristics of the control variables a moment generalized method of moments (GMM4) is used to test the hypotheses. The results indicate that there is an inverse and significant relation between cash flows (positive or negative) and cash holdings. Also Firms with financing constraints, regardless of the type of cash flows tend to hold higher levels of cash balances.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>21</start>
+					<end>36</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_19870_9842f8912e8151cdf783d081c6b5ad8a.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The Investigation of Factors Affecting the Capital Structure using the Tobit Models: An Empirical Examination of Static Trade-Off, Pecking Order and Agency Costs Theories</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Rahman</namePart>
+				<namePart type="given">saedi</namePart>
+				<affiliation>Faculty Member of Accounting, Islamic Azad University Dolat Abad Branch</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Seyed Ahmad</namePart>
+				<namePart type="given">Khalifeh Soltani</namePart>
+				<affiliation>** Department of Accounting, Alzahra University, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Hasanali</namePart>
+				<namePart type="given">akhlaghi</namePart>
+				<affiliation>Department of Accounting, Payamenoor University, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The objective of this research is investigation about the factors affecting on capital structure from the approaches of static trade-off, pecking order and agency costs theories for companies listed on the Tehran Exchange Stock. To obtain this objective, we selected 114 companies from the statistical population which had necessary information for the 11 year period of the research (2001 - 2011). Regarding the theoretical basis and related literature, six hypotheses were composed. The Tobit regression model, which has received little attention in behavioral science, was used to test the hypothesis.. The results indicate that there is a significant relationship between firm growth, firm size, profitability, liquidity and asset uniqueness with capital structure, but there is no significant relationship between business risk and capital structure.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>37</start>
+					<end>54</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_19872_62d0476e3cc7fbb066d8f1d757867b6a.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Determinants of Capital Structure: Meta-analysis</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">solmaz</namePart>
+				<namePart type="given">habibi</namePart>
+				<affiliation>university of esfahan</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">mehdi</namePart>
+				<namePart type="given">abzari</namePart>
+				<affiliation>university of esfahan</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">saeed</namePart>
+				<namePart type="given">fathi</namePart>
+				<affiliation>university of esfahan</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Capital structure is one of the most important issues facing financial managers to achieve their financial goals. Companies are always looking to choose the best combination to maximize firm value. So far, many research fields, mainly concerned with factors affecting the capital structure of the company, have been performed and theories have been developed to determine the optimal capital structure. In this paper, a meta-analysis approach is used to examine the impact of factors such as firm size, asset structure, growth opportunities, ownership structure and capital structure. This study analyze the results of 127 studies conducted in this area during 1990-2013, and use the extracted data from them to test the hypotheses. The findings show that firm size, asset structure, and growth opportunities play a decisive role in deciding the capital structure.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>55</start>
+					<end>74</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_19875_52d8932f6f8e4f2b36ac4d06c8bb17b4.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The Relationship Between Unrecognized Inflation Gain or Loss, Future Cash Flows and Abnormal Returns of Companies Listed in Tehran Stock Exchange</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mohsen</namePart>
+				<namePart type="given">Dastgir</namePart>
+				<affiliation>University of  Isfahan</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Vajiheh</namePart>
+				<namePart type="given">Yousefi Gavarti</namePart>
+				<affiliation>University of  Mobarakeh</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>In inflationary conditions, the financial information that can help to predict future profitability and return on investment is useful. Review of previous research shows that if unrecognized inflation gains or losses be revealed over time, it can help to predict future cash flows. Also, if the impact on future cash flows is not recognized by the capital market, unrecognized inflation gains or losses can affect the future returns of the stock. Therefore, the purpose of the present study is to investigate the relationship between unrecognized inflation gain or loss and future operating cash flows, cash flows from the sale of assets, and subsequent abnormal returns on classified portfolios. Multivariate regression models have been applied to a sample of 100 firms listed on the Tehran Stock Exchange, using the systematic elimination, during the period of 1999-2011, to test research hypotheses. We also used combined data and the Limer F test and the Hasman test have been used to identify the type of the combined data. The findings indicate that an increase in unrecognized inflation gain or loss leads to an increase in future cash flows from the sale of assets and reduce future operating cash flows and also abnormal returns of classified portfolios.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>75</start>
+					<end>100</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_19877_31da0ac72d733752615e39f67026e9e5.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The effect of conservatism on firms' financing methods and propensity to save cash</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">dina</namePart>
+				<namePart type="given">tajaddini</namePart>
+				<affiliation>ShahidBahonar University of Kerman</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">ahmad</namePart>
+				<namePart type="given">khodamipour</namePart>
+				<affiliation>ShahidBahonar University of Kerman</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Due to the importance of financial reporting on users&#039; decisions and the influence of conservatism methods on the financial statements and consequently on firms&#039; financial decisions, in this survey, the relationship between accounting conservatism and financial decisions, related to firms&#039; financing methods and propensity to save cash, has been studied. Analysis of these decisions is performed according to the two visions of &quot;Efficient Contracting View&quot; and &quot;Distortion of Information View&quot;. This research is performed using a sample of firms listed on the Tehran Stock Exchange, based on the multiple regression method for model one and the Probit method for model two. The measure of Dichev and Tang (2008) has been used to estimate accounting conservatism based on quarterly data for the firms listed on the Tehran Stock Exchange over the period of 1379-1390, using rolling and time series methods, to estimate accounting conservatism for each firm over the period 1385-1390. The results indicate that the propensity to save cash corresponds with distortion of information view, showing that firms with greater reporting conservatism have a more propensity to save cash. Moreover, although the meaningful relationship between conservatism and firm&#039;s financing methods has the overall significance, but because of a greater use of debt in firms&#039; financing, it was impossible to define the type of relationship.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>101</start>
+					<end>112</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_19874_93651304f6b0468969806f18e93802a8.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The Relationship between Ownership Concentration and Board Structure with Working Capital Management Efficiency</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Fatemeh</namePart>
+				<namePart type="given">Rahmani</namePart>
+				<affiliation>Shahid Chamran of University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Seyed Ali</namePart>
+				<namePart type="given">Vaez</namePart>
+				<affiliation>عضو هیئت علمی دانشگاه شهید چمران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Nasrin</namePart>
+				<namePart type="given">Ghanavati</namePart>
+				<affiliation>Shahid Chamran of University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Seyed Ali</namePart>
+				<namePart type="given">Vaez</namePart>
+				<affiliation>Shahid Chamran of University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mohammad Hosein</namePart>
+				<namePart type="given">Ghalambor</namePart>
+				<affiliation>Shahid Chamran of University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>This paper investigates the relationship between some governance indicators such as ownership concentration (shares hold by five major shareholders) and board structure (board size and proportion of non-executive directors) with working capital management efficiency. In order to better assess the working capital management, four common proxies are used: Days of Accounts Receivables (D_AR), Days of Inventories Conversion (D_INV), Days of Accounts Payables (D_AP), and Cash Conversion Cycle (CCC). In this regard, research hypotheses were tested based on 113 firms listed on the Tehran Stock Exchange during the period of 2007-2013 and by using panel data models. The results indicate that level of ownership concentration has a significant negative relationship with D_INV and CCC, but does not have a significant relation with D_AR and D_AP. In other word, increasing the percentage of shares hold by five major shareholders, due to raising the level of shareholder monitoring, and by reducing the length of D_INV and CCC, can lead to the increase of efficiency of working capital management. While, board structure, except with D_AR, does not have a significant relation with the other proxies of working capital management. This reflects the weakness and inefficiency of board controls and monitoring on working capital policies of Iranian firms.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>113</start>
+					<end>128</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_19876_52ffa3730b3c7a625e716ad4ea782c88.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		</modsCollection>

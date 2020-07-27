@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-27T00:06:47Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://www.jiraeg.ir/?_action=export&amp;rf=summon&amp;issue=10382</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-05-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>11</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی ومقایسه مدل‌های رایج در پیش بینی عملکرد ماشین با استفاده از داده‌های واقعی در قطعه دوم تونل انتقال آب زاگرس</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی اصغر</given_name>
+												<surname>قائدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>جعفر</given_name>
+												<surname>حسن‌پور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>اکبر</given_name>
+												<surname>چشمی</surname>
+											</person_name></contributors>
+									<abstract>روش‌های مختلفی برای تخمین عملکرد ماشین‌های حفر تونل (TBM) برای هر منطقه معرفی‌شده‌اند؛ بنابراین ممکن است که استفاده آن‌ها در دیگر پروژه‌ها با شرایط زمین‌شناسی متفاوت، موجب خطاهایی شود. لذا ضروری است برای هر پروژه از مدل‌هایی استفاده شود که شرایط زمین‌شناسی مشابه­ای را با پروژه دارند. در این مقاله ابتدا با استفاده از داده‌های واقعی عملکرد ماشین در پروژه تونل سازی انتقال آب زاگرس، عملکرد ماشین به‌وسیلهٔ مدل‌های رایج، پیش‌بینی‌شده است. سپس نتایج به‌دست‌آمده از مدل‌های رایج ازجمله مدل‌های تجربی NTNU، Palmestrom (1995)  و مدل تئوریک CSM را با نتایج به‌دست‌آمده از مدل Hassnpour et al. (2009, 2011) که بر اساس داده‌های پروژه‌هایی با شرایط زمین‌شناسی مشابه توسعه داده‌ شده است، مقایسه و اختلاف میان آن‌ها به‌صورت کمی تبیین گردیده است. نتایج این مطالعه نشان می‌دهد که مدل تجربی حسن‌پور و همکاران به دلیل همخوانی بانک اطلاعاتی با پروژه‌های داخلی، نتایج نزدیک‌تر به واقعیت را نسبت به دیگر مدل‌ها نشان می‌دهند. همچنین مدل‌های تجربی NTNU و RMi به دلیل در نظر گرفتن پارامترهای زمین‌شناسی مختلف به‌ویژه پارامترهای درزه‌داری توده سنگ، نتایج قابل‌قبول‌تری را نسبت به مدل CSM ارائه می‌دهند.</abstract>
+									<keywords>
+									
+											<keyword>تونل انتقال آب زاگرس</keyword>
+											<keyword>ماشین حفر تونل</keyword>
+											<keyword>مدل‌های تجربی</keyword>
+											<keyword>مدل تئوریک</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>05</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>17</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_79169_27895be3dd953025341e7fcc5ccf43d5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-05-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>11</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی تزریق پذیری با هدف آب بندی به روش SPI در گنگلومرای پلیوسن (مطالعه موردی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید داود</given_name>
+												<surname>محمدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>عبدالرضا</given_name>
+												<surname>نوریزدان</surname>
+											</person_name></contributors>
+									<abstract>راه آهن دورود- خرم آباد با طول 114 کیلومتر،در 5 فاز جداگانه در دست ساخت می باشد. از نظر زمین شناسی، بخش زیادی از طول  این مسیر، از زون زاگرس خرد شده و راندگی چغلوندی عبور می کند. فاز 5 از کیلومتر 72 تا 98، و با طول 26 کیلومتر، حدفاصل  بیران شهر، تا منطقه ده پیر در شمال شهر خرم آباد، دارای دو دستگاه تونل با طول بیش از 7500 متر می باشد. با توجه به اقلیم منطقه و بالا بودن سطح آب زیر زمینی در مسیر، مطالعات توده سنگی  با هدف آب بندی تونل ضروری است.  به این منظور، شناخت ویژگی گنگلومرای پلیوسن شامل ویژگی های مکانیکی و فیزیکی در مسیر تونل، از اهمیت خاصی برخوردار است. به این منظور ابتدا میزان نفوذپذیری توده سنگ با استفاده از آزمایش های فشار آب(Water pressure tests) تعیین شده است. سپس، میزان تزریق پذیری  این واحد سنگی بر اساس شاخص SPI مشخص شده است. بر اساس نتایج SPI، رفتار توده سنگ در 19 % موارد در کلاس C، در 67 % از موارد در کلاسB  و در  14% از موارد در کلاس A قرار می گیرد. همچنین 86 درصد از توده سنگ در محل های مورد مطالعه نیاز به بهسازی با استفاده از سیمان دارد. همچنین می توان گفت، به علت شرایط یکسان زمین شناسی در این منطقه، تونل های در دست ساخت در گنگلومرای میوسن نیاز به عملیات بهسازی دارند.</abstract>
+									<keywords>
+									
+											<keyword>شاخص نفوذپذیری ثانویه</keyword>
+											<keyword>لوژان</keyword>
+											<keyword>راه آهن دورود- خرم آباد</keyword>
+											<keyword>گنگلومرای پلیوسن</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>05</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>19</first_page>
+										<last_page>35</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_76906_0b4b487d12be1aff070b11ef9616cfd5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-05-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>11</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر نانوذرات بنتونیت بر تغییر خصوصیات ژئوتکنیکی ماسه</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مینا</given_name>
+												<surname>صنایعی کرمانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمدرضا</given_name>
+												<surname>نیکودل</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علی</given_name>
+												<surname>ارومیه ای</surname>
+											</person_name></contributors>
+									<abstract>ویژگی­های مهندسی مخلوط­های خاکی مختلف، تحت تأثیر رفتار هر یک از اجزا می­باشد. در این تحقیق تأثیر ذرات نانوبنتونیت بر ویژگی­های مهندسی مخلوط نانوبنتونیت ماسه بررسی شده است. این مخلوط می­تواند به عنوان مصالح مصرفی در ساخت لندفیل­ها مورد استفاده قرار گیرد. برای ارزیابی تأثیر ذرات نانوبنتونیت روی رفتار مکانیکی مخلوط نانوبنتونیت ماسه (NBS)، آزمایشات تراکم استاندارد، برش مستقیم و نفوذپذیری بر روی 10 نمونه انجام گردید. نمونه­ها با نسبت 0 تا 10 درصد نانوبنتونیت به ترتیب در مقابل 100 تا 90 درصد ماسه آماده سازی شده و مورد آزمایش تراکم قرار گرفت. وزن واحد حجم حداکثر و درصد رطوبت بهینه بدست آمده و سپس نمونه ها برای آزمایش برش مستقیم آماده سازی شدند. بر اساس نتایج برش مستقیم، بالاترین میزان چسبندگی مربوط به نمونه 5 درصد نانوبنتونیت و بالاترین زاویه اصطکاک داخلی مربوط به نمونه 9 درصد نانوبنتونیت بدست آمد. دو نمونه 5 و 9 درصد نانوبنتونیت برای آزمایش نفوذپذیری به روش ثابت انتخاب شده و در 4 حالت 90، 100، 110 و 120 درصد تراکم حداکثر، آزمایشات انجام شدند.&lt;br /&gt; نتایج تحقیق نشان می­دهد که با افزایش درصد نانوبنتونیت تا درصد مشخصی و همچنین افزایش درصد تراکم، میزان نفوذپذیری کاهش یافته و پارامترهای مقاومتی تغییر می­نماید. بیشترین کاهش نفوذپذیری در 9 درصد نانوبنتونیت به دست آمده است. با افزایش درصد نانوبنتونیت تا 5 درصد، مقدار چسبندگی افزایش می­یابد، اما افزایش بیشتر نانوبنتونیت باعث افزایش زاویه اصطکاک داخلی می­گردد. در نمونه 5 درصد نانوبنتونیت با افزایش تراکم، تا 110 درصد، نفوذپذیری کاهش اندکی نشان می­دهد، اما در 120 درصد کاهش نفودپدیری چشمگیر است. درنمونه 9 درصد، کاهش نفوذپذیری با افزایش درصد تراکم کاهش قابل ملاحظه ای نشان می­دهد.</abstract>
+									<keywords>
+									
+											<keyword>نانوبنتونیت</keyword>
+											<keyword>ماسه</keyword>
+											<keyword>نفوذپذیری</keyword>
+											<keyword>تراکم</keyword>
+											<keyword>آزمایش برش مستقیم</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>05</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>37</first_page>
+										<last_page>47</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_79170_df5b499e3b871b4c747151127992719b.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-05-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>11</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مقایسة نتایج برگردان دوبُعدی داده‎های مقاومت‎سنجی با شرایط زمین‏شناسی در مسیر حفاری قطعه 3 و4 تونل قمرود</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>وحید</given_name>
+												<surname>جودکی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رسول</given_name>
+												<surname>اجل لوئیان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>نرگس</given_name>
+												<surname>یزدخواستی</surname>
+											</person_name></contributors>
+									<abstract>محدوده مطالعاتی این تحقیق در پهنة زمین‎شناسی سنندج سیرجان قرار دارد. در این ناحیه، جنبش‎های متعدد تکتونیکی موجب ایجاد انبوهی از گسل‎خوردگی‎ها، زون‏های خرد شده و شکستگی‏های متعدد در توده‎سنگ‎ها شده است. در کاوشهای ساختگاهی قطعه 3و4 تونل قمرود، انجام مطالعات زیرسطحی با محدودیت مواجه بوده است و اطلاعات حاصل از گمانه‏های اکتشافی، منجر به شناسایی شرایط زیرسطحی در مناطق بحرانی نشده است. شرایط نامساعد زمین‎شناسی، باعث چندین مورد توقف TBM و تأخیرات طولانی‎مدت (مجموعاً حدود 600 روز توقف کامل) در روند حفاری شده است. عمده مشکلات به دلیل برخورد دستگاه حفار با زون‎های گسلی بوده است. در این پژوهش با برگردان دو بُعدی داده‏های مقاومت سنجی، میزان پتانسیل مطالعات ژئوفیزیکی طرح جهت شناسایی شرایط زیرسطحی در مسیر حفاری، مورد بررسی قرار گرفته است. نتایج حاصل از تحلیلهای دو بُعدی که نحوه توزیع لایه‏ها بر اساس مقاومت ویژه آنها را ارائه کرده است حاکی از وجود چند زون با مقاومت ویژه پایین در مسیر تونل است که منطبق با محل زون‎های خرد شدة گسلی و نیز تغییرات سنگ‏شناسی در مسیر حفاری می‏باشد. نتایج حاصل بیانگر این حقیقت است که پردازش دو بُعدی داده‎های مقاومت سنجی، امکان دستیابی به اطلاعاتی قابل توجه از شرایط زیرسطحی را فراهم آورده است که میتوانست در مرحله مطالعات ساختگاهی (جانمایی مناسبتر گمانه‎های اکتشافی و ...) و نیز در مرحله اجرای تونل مورد استفاده قرار گیرد</abstract>
+									<keywords>
+									
+											<keyword>تونل قمرود</keyword>
+											<keyword>TBM</keyword>
+											<keyword>برگردان دوبُعدی داده‎های مقاومت‎سنجی</keyword>
+											<keyword>زون‎های گسلی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>05</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>49</first_page>
+										<last_page>64</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_81237_6f82882c5c2b48b19ea4f45919bfaab5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-05-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>11</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>توسعه طبقه بندی آبرفت های تهران بر اساس ویژگی های زمین شناسی و پارامترهای ژئوتکنیکی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>اکبر</given_name>
+												<surname>چشمی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سید رمضان</given_name>
+												<surname>رمضان نژآد الیردی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علی</given_name>
+												<surname>فاخر</surname>
+											</person_name></contributors>
+									<abstract>پیشنهاد طبقه‌بندیهای مبتنی بر ترکیب متغیرهای زمین‌شناسی و پارامترهای ژئوتکنیکی امکان استفاده از دانش زمین‌شناسی در تخمین پارامترهای ژئوتکنیکی مصالح را فراهم می‌کند. شهر تهران یکی از کلان شهرهایی است که بر روی رسوبات آبرفتی کواترنر بنا شده، این رسوبات بر اساس سن و شرایط تشکیل به چهار گروه C, B, A و D تقسیم شده است. برخی محققین طبقه‌بندی جدیدی با تلفیق متغیرهای زمین‌شناسی و پارامترهای ژئوتکنیکی، برای آبرفت‌های A وC تهران ارائه داده‌اند. هدف تحقیق حاضر که در ادامه تحقیقات قبلی است، پیشنهاد طبقه‌بندی مبتنی بر ترکیب این دو سری اطلاعات برای آبرفت‌های B تهران است. در این تحقیق براساس برداشتهای زمین‌شناسی صورت گرفته در بیش از 66 نقطه از رخنمونهای آبرفت‌های تهران، متغیرهای زمین‌شناسی موثر بر پارامترهای ژئوتکنیکی بخش درشت دانه آبرفت B شامل اندازه دانه، شکل دانه، نحوه اتصال دانه‌ها، سیمان بین دانه‌ها، همگنی و لایه‌بندی شناسایی گردید و بر اساس این متغیرهای این آبرفت به چهار واحد Bn1 ، Bn2 ، Bn3 و Bn4 تقسیم شد. با انجام 27 آزمایش برش مستقیم برجا و 70 آزمایش بارگذاری صفحه در واحدهای مشخص شده پارامترهای ژئوتکنیکی این 4 واحد شامل زاویه اصطکاک داخلی، چسبندگی و مدول تغییر شکل‌پذیری تعیین شد. با تلفیق متغیرهای زمین‌شناسی و پارامترهای ژئوتکنیکی جدولی پیشنهاد گردید که امکان تخمین پارامترهای ژئوتکنیکی بر اساس متغیرهای زمین‌شناسی برای این آبرفت را فراهم میاورد.</abstract>
+									<keywords>
+									
+											<keyword>آبرفت های تهران</keyword>
+											<keyword>آزمایش برش مستقیم برجا</keyword>
+											<keyword>آزمایش بارگذاری صفحه ای</keyword>
+											<keyword>طبقه‌بندی زمین‌شناسی مهندسی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>05</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>65</first_page>
+										<last_page>79</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_81241_8fb40c136c3f7625acfe5ab80fdde928.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-05-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>11</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تعیین پارامتر‌های هندسی اهداف استوانه ای پنهان در تصاویر ‏GPR‏ با استفاده از الگوریتم ‏بهینه سازی تجمع ذرات ‏‎(PSO)‎</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>رضا</given_name>
+												<surname>احمدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سجاد</given_name>
+												<surname>نان بده</surname>
+											</person_name></contributors>
+									<abstract>روش ژئوفیزیکی رادار نفوذی به زمین ‏‎(GPR)‎‏ با ارسال امواج الکترومغناطیسی در محدوده فرکانسی یک مگاهرتز تا بیش از یک ‏گیگاهرتز به درون زمین و دریافت امواج بازتابی اهداف مدفون، قادر‎ ‎به‎ ‎آشکارسازی‎ ‎و‎ ‎شناسایی‎ ‎اهداف به ویژه استوانه‌های مدفون‎ ‎در ‏اعماق‎ ‎کم، بدون ایجاد شکستگی و تخریب در محیط‎ ‎می‌باشد‎.‎‏ در پژوهش حاضر از این روش برای شناسایی پارامترهای هندسی عمق ‏دفن و شعاع اهداف استوانه‌ای مدفون، از طریق روابط ریاضی موجود بین این پارامترها و پارامترهای هذلولی پاسخ ‏GPR، به کمک ‏الگوریتم بهینه‌سازی تجمع ذرات (‏PSO‏) استفاده شده است. برای این منظور ابتدا مدلسازی پیشرو داده‌های ‏GPR‏ با استفاده از روش ‏تفاضل محدود‎ ‎دوبعدی حوزه‎ ‎زمان (‏FDTD‏) به کمک نرم‌افزار ‏GPRMAX‏ برای تعداد زیادی از مدل‌های مصنوعی متناظر با اهداف ‏متداول در کاربردهای ژئوتکنیکی و شناسایی ساختارها و تاسیسات زیرسطحی استوانه‌ای انجام شد. در این پژوهش همچنین برداشت-‏های میدانی متعددی در محوطه دانشگاه صنعتی اصفهان بر روی اهداف استوانه‎‌‎ای شکل مدفون از پیش شناخته شده، انجام شد و پاسخ ‏GPR‏ آن‎‌‎ها بعد از اعمال توالی‎‌‎های پردازشی مختلف، مورد بررسی قرار گرفت. به‌منظور استخراج پارامترهای هندسی اهداف استوانه‌ای ‏مدفون در مدل‌های مصنوعی و برداشت‌های واقعی، از الگوریتم ‏PSO‏ در محیط نرم‌افزار ‏MATLAB‏ استفاده شد. عملکرد الگوریتم برای ‏تعداد 7 مدل مصنوعی تولید شده شامل اهداف استوانه‌ای با جنس‌ها، شعاع‌ها و عمق دفن‌های مختلف و نیز نگاشت‌های راداری واقعی ‏GPR‏ پروفیل‌های برداشت شده در محوطه دانشگاه صنعتی اصفهان، مورد آزمایش و ارزیابی قرار گرفت که برای مدل‌های مصنوعی ‏نتایج مطلوب و در مورد تصاویر واقعی، نتایج قابل قبولی حاصل نمود.‏</abstract>
+									<keywords>
+									
+											<keyword>رادار نفوذی به زمین (‏GPR‏)</keyword>
+											<keyword>مدل‌سازی پیشرو</keyword>
+											<keyword>هذلولی پاسخ</keyword>
+											<keyword>استخراج پارامترهای هندسی اهداف استوانه‌ای</keyword>
+											<keyword>الگوریتم بهینه‌سازی ‏انبوه ذرات (‏PSO‏)‏</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>05</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>81</first_page>
+										<last_page>94</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_81242_bc0297f95aa0cefd21dfe92440da8173.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-05-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>11</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی خصوصیات مکانیکی سنگ نمک با تکیه بر ریزساختار آن</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حدیثه</given_name>
+												<surname>منصوری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رسول</given_name>
+												<surname>اجل لوئیان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>رامین</given_name>
+												<surname>الیاس زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>علیرضا</given_name>
+												<surname>ندیمی</surname>
+											</person_name></contributors>
+									<abstract>در این مقاله تأثیر ریزساختار اولیه سنگ نمک بر رفتار دگرشکلی آن مورد بررسی قرار گرفت. نمونه‌های مورد مطالعه از دیاپیر نمکی دهکویه واقع در 27 کیلومتری شهرستان لار در استان فارس برداشت شدند. ریزساختار اولیه دو نمونه متعلق به بخش‌های فوقانی دیاپیر و یک نمونه متعلق به قسمت میانی ساقه دیاپیر به روش پراش الکترون‌های برگشتی در دانشگاه اتاگو نیوزیلند مطالعه شد. اکثر دانه‌ها در نمونه متعلق به ساقه دارای دگرشکلی داخلی هستند، اندازه دانه‌های آن کوچکتر و فراوانی مرزهای کم زاویه در آن بیشتر است. مقاومت تراکمی تک محوری، مدول الاستیک و مقاومت کششی این نمونه کمتر و کرنش آنی، کرنش خزشی و نرخ کرنش آن تحت تنش محوری 12 مگاپاسکال بیشتر از نمونه‌های متعلق به بخش‌های فوقانی دیاپیر است که می‌تواند در نتیجه بیشتر بودن درصد تخلخل و منافذ کوچک میکروسکوپی در امتداد مرز دانه‌ها در این نمونه باشد. در مقابل ساز و کار دگرشکلی غالب در نمونه‌های متعلق به بخش‌های فوقانی دیایپر رشد دانه‌ها در اثر مهاجرت مرز دانه‌ها بوده‌است. این سازوکار سبب حذف منافذ و نقص‌های موجود در دانه‌ها می‌شود. از این رو این نمونه‌ها از مقاومت و مدول الاستیک بالاتری برخوردار بوده و دگرشکلی پلاستیک دانه‌ها در حین آزمون‌ها مکانیکی با سهولت بیشتری انجام می‌شده‌است. در کل نتایج این تحقیق پیشنهاد می‌کند که بررسی ریزساختار سنگ نمک و چگونگی رفتار آن تحت شرایط بارگذاری مختلف در درک رفتار مخازن ذخیره ایجاد شده در نمک مهم و اساسی است.</abstract>
+									<keywords>
+									
+											<keyword>سنگ نمک</keyword>
+											<keyword>ریزساختار</keyword>
+											<keyword>خصوصیات مکانیکی</keyword>
+											<keyword>روش پراش الکترون‌های برگشتی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>05</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>95</first_page>
+										<last_page>115</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_81269_f13bcc9b79add7eb33925c4ed7d79ff9.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

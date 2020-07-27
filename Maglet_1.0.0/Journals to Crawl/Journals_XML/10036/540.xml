@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه شهید چمران اهواز</PublisherName>
+				<JournalTitle>زمین شناسی کاربردی پیشرفته</JournalTitle>
+				<Issn>2251-7057</Issn>
+				<Volume></Volume>
+				<Issue>مقالات آماده انتشار</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>04</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Vertical accuracy assessment for SRTM and ASTER Digital Elevation Models in Khuzestan plain</ArticleTitle>
+<VernacularTitle>ارزیابی دقت ارتفاعی مدل‌های رقومی ارتفاع ASTER و SRTM در بخش جلگه ای استان خوزستان</VernacularTitle>
+			<FirstPage></FirstPage>
+			<LastPage></LastPage>
+			<ELocationID EIdType="pii">15492</ELocationID>
+			
+<ELocationID EIdType="doi">10.22055/aag.2020.30916.2037</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>مصطفی</FirstName>
+					<LastName>کابلی زاده</LastName>
+<Affiliation>گروه مهندسی سیستم های اطلاعات جغرافیایی دانشگاه شهید چمران اهواز</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>کاظم</FirstName>
+					<LastName>رنگزن</LastName>
+<Affiliation>دانشگاه شهید چمران اهواز</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>شاهین</FirstName>
+					<LastName>محمدی</LastName>
+<Affiliation>دانشگاه شهید چمران اهواز</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>خلیل</FirstName>
+					<LastName>حبشی</LastName>
+<Affiliation>دانشگاه شهید چمران اهواز</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>09</Month>
+					<Day>01</Day>
+				</PubDate>
+			</History>
+		<Abstract>Assessment of data uncertainty increases our ability to study and accurate understanding of about real world, because awareness from uncertainty of resources and remove error for improving the obtained results is one of the most important items in the remote sensing science. Since the digital elevation model (DEM) extracted from different sensors and geometry, Therefore selection of the most suitable DEM that provide better ground conditions is the one of the main needs for experts in this field. The aim of this study to vertical accuracy assessment of the ASTER and SRTM digital elevation model compared to the elevation data from topographic maps that prepared by the Iran National Cartographic Center in the 12 city from Khuzestan province. In order to evaluation the accuracy of the data, the Mean Error (ME) index and Root Mean Square Error (RMSE) index are used. The result of evaluation ME index for the cities with topographic map for ASTER and SRTM data showed the value 6.08 and 2.34 meter, respectively. Also, the result of RMSE index for ASTER and SRTM data showed the value 6.94 and 3.46 meter, respectively. Therefore more, the result showed that in most cities of Khuzestan province the DEM derived from SRTM has a higher accuracy than the ASTER digital model; Since the SRTM data have a low uncertainty, Therefore in studies related to the extraction drainage network, drainage density, physiography of the watershed area, runoff or geology, it is suggested that SRTM elevation model be used.</Abstract>
+			<OtherAbstract Language="FA">بررسی عدم قطعیت داده‌ها، توانایی ما را جهت مطالعه و درک درست از جهان واقعی افزایش می‌دهد از آنجاییکه مدل‌های رقومی ارتفاع با استفاده از سنجنده‌های مختلف و هندسه متفاوت به‌دست می‌‎آیند، بنابراین انتخاب مناسب‌ترین مدل رقومی ارتفاع که بتواند با دقت بهتری شرایط سطح زمین را ارائه دهد یکی از نیازهای اصلی متخصصان این زمینه می‌باشد. تحقیق حاضر با هدف ارزیابی دقت ارتفاع عمودی مدل‌های رقومی ارتفاع ASTER و SRTM در مقایسه با داده‌های ارتفاعی نقشه‌های توپوگرافی تهیه شده توسط سازمان نقشه برداری کشور در 12 شهر از استان خوزستان انجام می‌شود. در این راستا به منظور ارزیابی دقت داده‌ها از شاخص‌های میانگین خطا (ME) و خطای جذر میانگین مربعات (RMSE) استفاده می‌شود. نتایج ارزیابی مقدار متوسط خطا برای شهرهای مورد بررسی با نقشه‌های توپوگرافی سازمان نقشه‌برداری برای داده‌های ASTER و SRTM به ترتیب مقدار 08/6 و34/2 متر را نشان داد. همچنین نتایج ارزیابی شاخص RMSE برای داده‌های ASTER و SRTM به‌ترتیب مقدار 94/6 و 46/3 برآورد شد. یافته‌های مطالعه حاضر نشان داد که در اغلب شهرهای استان خوزستان مدل رقومی ارتفاعی حاصل از SRTM دقت بالاتری نسبت به مدل رقومی ASTER دارد؛ زیرا داده‌های SRTM عدم قطعیت کمتری دارند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">عدم قطعیت</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">خطا</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ژئوئید</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">DEM</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">EGM96</Param>
+			</Object>
+		</ObjectList>
+</Article>
+</ArticleSet>

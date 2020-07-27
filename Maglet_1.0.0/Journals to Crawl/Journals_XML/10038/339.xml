@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>5</Volume>
+				<Issue>شماره 3 و 4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2013</Year>
+					<Month>02</Month>
+					<Day>19</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Elastic modulus prediction of limestone using multiple variable regression and artificial neural network</ArticleTitle>
+<VernacularTitle>پیش‌بینی مدول الاستیک سنگ آهک با استفاده از رگرسیون چند متغیره و شبکه عصبی مصنوعی</VernacularTitle>
+			<FirstPage>33</FirstPage>
+			<LastPage>38</LastPage>
+			<ELocationID EIdType="pii">68317</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>رسول</FirstName>
+					<LastName>اجل لوئیان</LastName>
+<Affiliation>استاد گروه زمین شناسی مهندسی دانشگاه اصفهان</Affiliation>
+<Identifier Source="ORCID">0000-0001-9770-1695</Identifier>
+
+</Author>
+<Author>
+					<FirstName>حدیثه</FirstName>
+					<LastName>منصوری</LastName>
+<Affiliation>کارشناس ارشد زمین‌شناسی مهندسی از دانشگاه اصفهان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مجتبی</FirstName>
+					<LastName>محمدی</LastName>
+<Affiliation>دانشجوی دکتری زمین‌شناسی مهندسی دانشگاه خوارزمی</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2012</Year>
+					<Month>07</Month>
+					<Day>17</Day>
+				</PubDate>
+			</History>
+		<Abstract>It is important to determinate the elastic modulus of intact rock in many engineering projects relating to rock such as tunnels, slopes and foundations. Determination of this parameter need of high quality core samples and sophisticated test equipment because these make performing this test difficult and costly. There for in current years, researches have tried to produce relationships for prediction of this parameter using physical and index characteristics of rocks. So here an attempt has been made to predicate the elastic modulus of limestone by uniaxial compress strength, porosity and longitudinal wave velocity. So we used multiple variable regression method and perceptron artificial   neural network with 3-4-1 architecture. Data base contains 123 samples that 70% and 30% of them has been used for train and test respectively in ANN. The models have been compared using coefficients of R&lt;sup&gt;2&lt;/sup&gt;, RMSE and VAF. The coefficient of determination ( R&lt;sup&gt;2&lt;/sup&gt;) using multiple variable regression was 0.738. it was 0.805 and 0.832 for ANN train data set and ANN test data set respectively. This shows the ANN method have more accuracy than regression.</Abstract>
+			<OtherAbstract Language="FA">در اغلب پروژه‌های مهندسی مرتبط با سنگ از جمله تونل‌ها، شیب‌ها و پی‌ها، تعیین مدول الاستیک سنگ بکر مهم و اساسی است. تعیین این پارامتر نیازمند تهیه مغزه سالم از سنگ و تجهیزات آزمایشگاهی پیشرفته می‌باشد به طوری که انجام این آزمون را مشکل و هزینه‌بر می‌سازد. بدین لحاظ در سال‌های اخیر محققین مختلف درصدد ارائه روابطی تجربی برای تخمین این پارامتر با تکیه بر خصوصیات فیزیکی و شاخص سنگ‌ها بوده‌اند. در این مقاله سعی شده است با استفاده از مقاومت تک‌محوره، تخلخل و سرعت موج طولی، مدول الاستیک سنگ آهک را پیش‌بینی نمود. بدین منظور از روش رگرسیون چندمتغیره و شبکه عصبی پرسپترون با ساختار 1-4-3 استفاده شده است. پایگاه داده استفاده شده شامل 123 داده است که در مورد شبکه عصبی70% آن‌ها جهت آموزش و 30% جهت آزمایش شبکه استفاده شده است. جهت مقایسه عملکرد مدل‌ها و ارزیابی دقت آن‌ها از ضرایب &lt;sup&gt;2&lt;/sup&gt;R،  RMSE و VAF استفاده شد. ضریب تعیین (&lt;sup&gt;2&lt;/sup&gt;R) با استفاده از رگرسیون چندمتغیره 738/0 و مقدار آن برای داده‌های آموزش شبکه عصبی 805/0 و برای داده‌های آزمایش 832/0 می‌باشد. این امر بیانگر آن است که روش شبکه عصبی از دقت بالاتری برخوردار است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">رگرسیون چندمتغیره</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سنگ آهک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبکه عصبی مصنوعی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدول لاستیکی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مقاومت تراکمی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://www.jiraeg.ir/article_68317_c60ee4f754da85ad4e410d29d071016e.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

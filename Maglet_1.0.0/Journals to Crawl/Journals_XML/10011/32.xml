@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>8</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2016</Year>
+					<Month>03</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Application of Heuristic Rules and Genetic Algorithm in ARMA Model Estimation for Time Series Prediction</ArticleTitle>
+<VernacularTitle>کاربرد قواعد کشفی و الگوریتم ژنتیک در ساخت مدل ARMA برای پیش بینی سری زمانی</VernacularTitle>
+			<FirstPage>1</FirstPage>
+			<LastPage>26</LastPage>
+			<ELocationID EIdType="pii">55761</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2016.55761</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Mohammadreza</FirstName>
+					<LastName>Asghari Oskoei</LastName>
+<Affiliation>Assistant Prof./ Allameh Tabataba&amp;#039;i University</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Mohammad</FirstName>
+					<LastName>Ghasemmzade</LastName>
+<Affiliation>student/Allameh Tabataba&amp;amp;#039;i University</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2015</Year>
+					<Month>08</Month>
+					<Day>31</Day>
+				</PubDate>
+			</History>
+		<Abstract>The first step of forecasting time series is to build an appropriate model. Determining orders and estimation of ARMA model parameters is a challenging field in traditional statistical and intelligent methods. In this paper, genetic algorithm is used for parameter estimation and heuristic rules are used to determine orders of ARMA model. Heuristic rules are extracted according to time series properties. The data are selected using sliding time window. Model identification is carried out by using Bayesian information criterion (BIC). The mean squares error and the mean absolute percentage error are used to evaluate the results of prediction. The proposed method was applied to eight time series in different types, and the results were compared with results of statistical methods. The achieved result shows equivalent or superior performance for the proposed method in comparison with the classic method.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">ARMA model estimation</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Genetic Algorithm</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">heuristic rules</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">time series prediction</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_55761_c834d3d6cfe322297c5434d754f6b6af.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

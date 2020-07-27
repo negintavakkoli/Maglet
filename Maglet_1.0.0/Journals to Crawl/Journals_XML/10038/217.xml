@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Prioritization of landslide effective factors and its hazard mapping using AHP model (A case study: Keshvari watershed)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Salman</namePart>
+				<namePart type="given">Soori</namePart>
+				<affiliation>MSc student, Engineering Geology, Ferdowsi University of Mashhad, soorisalman@yahoo.com</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Gholamreza</namePart>
+				<namePart type="given">Lashkaripour</namePart>
+				<affiliation>. Professor, Engineering Geology, Ferdowsi University of Mashhad</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mohammad</namePart>
+				<namePart type="given">Ghafoori</namePart>
+				<affiliation>Professor, Engineering Geology, Ferdowsi University of Mashhad</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Taher</namePart>
+				<namePart type="given">Farhadi</namePart>
+				<affiliation>PhD student, Economic Geology, Islamic Azad University, Science and Research Branch, Tehran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Identify the effective variables on landslides occurrence in the basin and zoning its hazard is one of fundamental methods for management and avoiding the risk. Keshvari watershed with an area about 345  km2 is located in the 20 kilometers far from the south east of Khorram Abad city in Lorestan province. According to the tectonic and old basins division of Iran, this basin is part of folded Zagros and based on geological formations, topography, siesmology and climate, this basin is prone to landslide occurrence. In order to check the stability of slopes in this basin, in the first step landslide prone areas were identified. By merging the effective factors including slope, aspect, altitude, geology, earthquake, rainfall, landuse and distance from the fault and drainages on landslide with the landslide distribution map, impact of each of these factors assessed in ArcGIS software and then these factors were prioritized using AHP model. According the results of using the AHP in landslide risk zonation, 5.9, 38.2, 38.1, 15.79 and 2.01 percent of the area are located in very low, low, medium, high and very high risk classes respectively.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>6</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>1</start>
+					<end>12</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68322_4987fd8953a275583b3572c7af262408.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Evaluation of permeability and groutability of quaternary deposits and sedimentary rock masses at Nargesi damsite</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Rasoul</namePart>
+				<namePart type="given">Ajalloeian</namePart>
+				<affiliation>Professor, Department of Engineering Geology, Isfahan University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Abdolazim</namePart>
+				<namePart type="given">Azimian</namePart>
+				<affiliation>Al-Hadi Institute, Karbala Qurb, Khatamol Anbiya Institute, Shiraz, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Naser</namePart>
+				<namePart type="given">Hafezi Moghaddas</namePart>
+				<affiliation>Department of Engineering Geology, Faculty of Science, Ferdowsi University, Mashhad, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Fereidoon</namePart>
+				<namePart type="given">Bahrami Samani</namePart>
+				<affiliation>Department of Geotechnical Engineering, Tamavan Consulting Engineering Company, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Water seepage through foundation and abutments of dams is one of the most important parameters in design and construction of dams. Seepage endangers stability of dam in addition to lose water reserves. For this purpose, studies are done about permeability of the rocks mass damsite and the sealing methods. Moreover, seepage of Nargesi dam is discussed as a case study in this article. Based on the geological studies, Nargesi dam is located on the quaternary deposits and sedimentary formations that include; Bakhtiary, Mishan and Gachsaran. Water seepage was evaluated according to the water pressure tests (lufrance and Lugeon) on quaternary deposits and sedimentary formations where outcrops in the left and right abutments. The secondary permeability index (SPI) introduced by Foyo et al (2005) for investigate effect rocks jointing characterization in its permeability. The key point of this method is the fact that it allows distinguishing the difference between dilation and hydraulic fracturing. Permeability of the rock masses interpreted based on SPI considering the result of Lugeon tests and the drilled core properties. Also, Permeability and rock quality designation zonation according to effective engineering geological properties was dawn with Rockwork 14 software. Finally suitable profiles were presented 3 dimensional view and comfortable engineering verdicts. Results of the studies indicate that except of some cases, there is a reasonable correlation between SPI and RQD values. According to these results, type and composition of grout is suggested for construction of the grout curtain. The results also show that maximum value of water seepage occurs in the left abutment and Mishan formation has better situation as compared to Gachsaran and Bakhtiary formations from view point of permeability.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>6</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>13</start>
+					<end>32</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68323_aef9ab58fde3405d60e36c4031f82ee3.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>An analytical procedure for estimating land subsidence parameters using field data and InSAR images in Neyshabur plain</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Hadi</namePart>
+				<namePart type="given">Nameghi</namePart>
+				<affiliation>Associate Professor, Civil Engineering Department, Ferdowsi University of Mashhad, Mashhad, Iran,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Seyed Mahmood</namePart>
+				<namePart type="given">Hosseini</namePart>
+				<affiliation>2. Professor, Civil Engineering Department, Ferdowsi University of Mashhad, Mashhad, Iran,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mohammad Bagher</namePart>
+				<namePart type="given">Sharifi</namePart>
+				<affiliation>Associate Professor, Civil Engineering Department, Ferdowsi University of Mashhad, Mashhad, Iran,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Groundwater exploitation, when the aquifer discharge is greater than its recharge, changes the balance of the aquifer and results in temporal and spatial decline of hydraulic heads in the aquifer. Decline in hydraulic head or water level, decreases pore water pressure and increases effective stress on aquifer sediments. This phenomenon leads to consolidation of interbed layers which consequently results in land subsidence. In recent years, over-withdrawals from aquifer of Neyshabur plain in the North East Part of Iran have been reported. As a result, an average of 90 cm/year decline in water level and maximum displacement rate of 19 cm/year in ground level have been recorded. This study focuses on the estimation of effective parameters related to the land subsidence in Neyshabur Plain. These parameters include the thickness of the fine compressible sediments and inelastic skeletal specific storage (Sskv), which are directly involved in inelastic displacement computations. In the first step, using the geologic log of 231 boreholes and Kriging interpolation method, a map showing the distribution of fine sediments in Neyshabur plain was prepared. This map was used to investigate for reasonable relationships between annual subsidence rate and groundwater yield with the thickness of the fine sediment. Comparisons of maps indicate that the least amount of discharge is seen in regions where the fine layers have the most thickness. In the second step, subsidence rate, extracted from InSAR images, and water level decline at several observation wells located in the study area were analyzed. Investigation of the trend of land subsidence during the recharge and discharge seasons at observation wells showed that the compaction of the aquifer is majorly due to plastic deformation and that the share of elastic deformation is significant. Then, by using the fine sediments distribution map prepared in the first step, the Sskv valueswere calculated at different locations. The end result of the proposed procedure was a map showing the spatial distribution of inelastic skeletal specific storage (Sskv) in Neyshabur plain.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>6</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>33</start>
+					<end>50</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68324_326373278a4f60e751ae4db691f4dc6a.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Evaluation of travertine samples  deterioration against salt crystallization using alteration index and alteration velocity parameters</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Ahmad</namePart>
+				<namePart type="given">Zalooli</namePart>
+				<affiliation>MSc student, Department of Engineering Geology, Tarbiat Modares University, Tehran-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mashaallah</namePart>
+				<namePart type="given">Khamehchian</namePart>
+				<affiliation>Department of Engineering Geology, Tarbiat Modares University, Tehran-Iran,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mohammadreza</namePart>
+				<namePart type="given">Nikudel</namePart>
+				<affiliation>Assistant professor, Department of Engineering Geology, Tarbiat Modares University,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Amin</namePart>
+				<namePart type="given">Jamshidi</namePart>
+				<affiliation>PhD student, Department of Engineering Geology, Tarbiat Modares University, Tehran-Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Salt crystallization is one of the important factors on durability and deterioration of building stones. Magnesium sulphate is a common salt that can lead to deterioration, thus it is necessary to consider this subject before select the stones as building facade. In this research, alteration index and alteration velocity were be used to evaluate the durability of travertine against Magnesium sulphate that can be used as criterion in salt crystallization test. For this purpose, fifteen travertine were sampled from different areas in Iran then petrologic, some chemical (density, porosity and water adsorption) and mechanical properties (uniaxial compressive strength and tensile strength) were obtained for samples. Salt crystallization test were carried out 60 cycles and alteration index, alteration velocity were calculated for samples based on the weight loss and appearance variation of samples then relationship between alteration index and alteration velocity with effective porosity, tensile strength and weight was analyzed with regression analysis. The results show that alteration velocity has higher correlation with tensile strength, effective porosity and weight loss whereas the alteration index of the travertine is not. Also the results show that fabric, effective porosity and tensile strength are important factors that controll durability of samples in salt crystallization test.  </abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>6</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>52</start>
+					<end>66</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68325_b88bfd7a592b0e62d7ff1d8621588578.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Effect of physical and mechanical properties of aggregate on concrete</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Javad</namePart>
+				<namePart type="given">Sharifi</namePart>
+				<affiliation>MSc student, Department of Engineering Geology, Tarbiat Modares University, Tehran-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mohammadreza</namePart>
+				<namePart type="given">Nikudel</namePart>
+				<affiliation>Assistant professor, Department of Engineering Geology, Tarbiat Modares University,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mahmood</namePart>
+				<namePart type="given">Yazdani</namePart>
+				<affiliation>Department of Soil and Foundation Engineering, Tarbiat Modares University, Tehran-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>To evaluate the engineering properties of aggregate in the concrete, some rocks selected from various mines, then used for making concrete. Firstly, physical and mechanical properties of aggregates were determined, and then the materials crashed into aggregate (sand and gravel size particles). Next, other properties such as shape, pores, aggregate crushing value, aggregate impact value and grading were determined. The concrete was prepared by using a constant mix design. The mechanical properties of prepared concrete, such as compressive strength, tensile strength and elastic modulus after 7, 28 and 90 days, were determined. The results were analyzed and the percentage of each aggregate on concrete properties has been studied. The percentage is useful guides for identifying suitable aggregates; also for required tests for exploration the aggregates resources.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>6</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>67</start>
+					<end>82</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68326_13f8e8dfcde0ed292919dd1928ee04fb.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Assessment of the impact of down time on TBM performance using the interaction matrix (Karaj - Tehran water conveyance tunnel, lot II)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Majid</namePart>
+				<namePart type="given">Tajik</namePart>
+				<affiliation>1. M Sc in Engineering Geology, SAHEL consultant engineering</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Omid</namePart>
+				<namePart type="given">Foroogh</namePart>
+				<affiliation>PhD in Mining Engineering, Head of tunnel discipline, Pars Geometry Consultant,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>In TBM tunneling projects, prediction of the machine performance is very important as it has a major influence on the duration and cost of the project. CSM, NTNU and QTBM are main models in TBM performance prediction which introduce equations for estimating the utilization factor. But, in each model some different factors are entered without considering their interactions. On the other hand, many parameters have a strong bond with each other and may simultaneously affect the TBM performance. So, using interaction matrixes it can possible evaluate effect of parameters on each other and estimate TBM performance. In this study, the matrix is composed of 21 parameters that affect on utilization factor. Interaction of these parameters indicates that the lack of utility services has the greatest impact in TBM performance. Down time index (DTI) can be significant if operating and delay times records in hour per meter. In each part of tunnel, DTI has opposite and direct relationship (r2=0.872) with TBM performance and excavation time respectively. </abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>6</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>83</start>
+					<end>96</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68327_cd0224e0b3aea2ef961bba21b2bbaac1.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The stability analysis of slope overlocked Khersan3 dam power plant under earthquake loading by using UDEC2D software</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mahdi</namePart>
+				<namePart type="given">Hosseini</namePart>
+				<affiliation>. Mininig Engineering Department, Imam Khomeini International University,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Rokhsare</namePart>
+				<namePart type="given">Naghdi</namePart>
+				<affiliation>MSc student, Mininig Engineering Department, Imam Khomeini International University, Ghazvin, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2013</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The stability analysis of rock slopes is carried out using limit equilibrium method, numerical and experimental methods and stereo-graphical images. The stability analysis method is selected based on local conditions, the type of failure potential, advantage, disadvantage, and the limitations of each factor. The slope stability under earthquake loading is investigated in the area next to Khersan3 dam construction site. An earthquake dynamic loading is one of the factors that can make rock slope unstable.  Firstly, by reviewing the previous reports, the necessary information for the stability analysis of rock slope is extracted. The slope stability is carried out in three steps: first, stability analysis under static loading by using numerical methods; second, dynamic analysis under earthquake loading by applying UDEC software; and in the third step, the quasi-static stability analysis were carried out. This modeling software works on the basis of discrete element method and is applicable in environments where the discontinuities play an essential role on the behavior of rocks. The Analysis results show that the rock slope next to Khersan3 dam construction is unstable under earthquake loading and thus, it is essential to install a support system on it.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>6</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2013</text>
+				<extent unit="pages">
+					<start>97</start>
+					<end>110</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68328_316d599c8f8a17f6d67a17d77846c2f7.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		</modsCollection>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1399</year>
+	<month>2</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2020</year>
+	<month>5</month>
+	<day>1</day>
+</pubdate>
+<volume>14</volume>
+<number>1</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>بررسی نتایج آزمون بارگذاری صفحه‌ای با استفاده از شبیه‌سازی عددی سه‌بعدی در ساختگاه سد بهشت‌آباد</title_fa>
+	<title>Application of 3D numerical simulation to process the plate loading test results-Beheshtabad dam as a case study</title>
+	<subject_fa>ژئوتکنیک (مکانیک خاک و سنگ)</subject_fa>
+	<subject>Geotecnic</subject>
+	<content_type_fa>مقاله مستقل</content_type_fa>
+	<content_type>Original Manuscript</content_type>
+	<abstract_fa>&lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:B Lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;مدول تغییرشکل&#8204;پذیری تودۀ سنگ یکی از پارامترهای اساسی در طراحی سدهای بتنی قوسی که می&#8204;تواند به&#8204;طور مستقیم با استفاده از آزمون&#8204;های برجا یا به&#8204;صورت غیرمستقیم از روابط تجربی برآورد شود. برای ارزیابی مدول تغییرشکل&#8204;پذیری توده&#8204;سنگ در کوله&#8204;های سد بهشت&#8204;آباد که بخش مهمی از پروژه انتقال آب به فلات مرکزی ایران است، از آزمایش بارگذاری صفحه&#8204;ای استفاده شده است. در این تحقیق ابتدا روش&#8204;های برآورد مدول تغییرشکل&#8204;پذیری بررسی و بعد از توصیف ژئوتکنیکی ساختگاه سد، مدول تغییرشکل&#8204;پذیری تکیه&#8204;گاه سد با بهره&#8204;گیری از روش&#8204;های تجربی و تحلیلی برآورد شده است. روش&#8204;های تجربی در سه رده دسته&#8204;بندی شدند و مشخص شد مدول برآورد شده به&#8204;وسیلۀ روش&#8204;های تجربی که از نتایج طبقه&#8204;بندی مهندسی و پارامترهای سنگ بکر به&#8204;طور هم&#8204;زمان استفاده می&#8204;کنند، به مدول ارزیابی شده به&#8204;وسیلۀ آزمون بارگذاری صفحه&#8204;ای نزدیک&#8204;تر است. تطابق نداشتن شرایط مرزی فرض شده در روش&#8204;های تحلیلی با روش اجرا منجر به افزایش ناگهانی مدول تغییر شکل محاسبه شده بر مبنای آزمون بارگذاری صفحه&#8204;ای با افزایش عمق می&#8204;شود. از این&#8204;رو، به&#8204;منظور بررسی تأثیر شرایط مرزی موجود بر مدول تغییرشکل&#8204;پذیری، نتایج آزمون بارگذاری صفحه&#8204;ای با استفاده از شبیه&#8204;سازی عددی سه&#8204;بعدی و تحلیل برگشتی بررسی شد. بر اساس نتایج تحلیل عددی، توده سنگ همگن است و توزیع تنش حاصل از صفحات بارگذاری با آن&#8204;چه با استاندارد &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:Times New Roman,serif;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;ASTM D4394&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:B Lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt; ارزیابی می&#8204;شود از صفر تا 90 درصد تفاوت دارد که میزان تفاوت با فاصله گرفتن از صفحات بارگذاری افزایش پیدا می&#8204;کند.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</abstract_fa>
+	<abstract>&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br&gt;
+Rock mass deformation modulus is one of&amp;nbsp; the major parameters has to be considered in the design phase of arch dams. Due to filling and discharging of reservoir and corresponding loading and unloading on the dam abutments, irreversible deformation takes place within the rock mass and consequently, increases the potential of creating a separation between dam body and abutments. Therefore, the rock mass modulus must be more than an alowable value in order to prevent arch dam failure. Regarding small core samples and lack of joints and other similar discontinuities in samples, the determined modulus through performing laboratory tests is higher than those obtained through in-situ tests. The available technique to estimate the rock mass deformation modulus is divided into two classes as direct and indirect methods. In direct methods, the rock mass deformation modulus is measured via performing in-situ tests such as plate loading test while it is estimated through empirical equations using rock mass classification and laboratory test results in indirect methods. These equations are developed based on regression analysis between the rock mass modulus calculated via in-situ tests, the rock mass classification and laboratory test results. Although application of these equations is simple and cost-effective, the results are doubtful and cannot be used in the design phase of arch dam due to the heterogeneous nature of rock mass and rock type variability. The numbers of micro-cracks which are developed after gallery excavation using drilling and blasting technique are more close to the loading plate. Thus, calculated modulus in these points is lower than reality. The displacement in the points far from loading plate was near to zero while the transmitted load which is calculated applying ASTM D4394 standard is more than reality in small galleries. Consequently, the calculated modulus was extremely larger than real values and sometimes even more than intact value. The empirical equations are site dependent and they are just applicable in sites with similar geotechnical condition. It is obvious that in-situ tests, such as plate loading, are the appropriate method in order to determine the modulus of deformation, however, due to some simplification in the data processing such as semi-infinite boundary condition, the application of numerical simulation as a data processing tool is more appropriate. In this research, the Beheshtabad dam was introduced and the geology characteristics of dam site were investigated. Applying direct and indirect methods, the rock mass modulus of dam abutments is calculated.&lt;br&gt;
+&lt;strong&gt;Material and Methods&lt;/strong&gt;&lt;br&gt;
+The dam site is placed approximately at a distance of 2.7 km from the intersection of Koohrange and Beheshtabad river. In accordance with geological studies, the rocks in the site could be categorized in four units combined of Dolomite, Dolomitic Limestone, Limestone, Marl and Marly Limestone. Applying empirical equation the rock mass modulus of dam abutments is evaluated based on the laboratory test results and rock mass engineering classification systems. In addition, ASTM D4394 is applied to investigate the results of ten plate loading tests which are executed in the right and left abutments. To interpret the plate loading test results in the right abutment, a three-dimensional Fast Lagrange Analysis of Continuum (FLAC3D) model is developed.&lt;br&gt;
+&lt;strong&gt;Result and Discussion&lt;/strong&gt;&lt;br&gt;
+To process the numerical simulation results, back analysis as a data processing tool is used. In this approach, the input parameters of numerical model will be changed in the way that the measured quantities by extensometers at the monitoring points are almost equal with the computed ones via numerical model at the corresponding points. Based on the sensitivity analysis carried out on the Mohr-Coulomb failure criterion parameters, the friction coefficient and cohesion variation do not affect the displacements calculated via numerical simulation as the more portion of gallery displacements are elastic. The error function is minimum when the rock mass modulus is 12 GPa and the horizontal to vertical stress ratio (K0) is equal to 0.5. The evaluated rock mass modulus based on the numerical simulation is two times lower than corresponding one evaluated applying empirical equation as a result of empirical equation uncertainty. Consideration of stress decrement under loading plate shows lower level of stress decrement under loading plate in ASTM D4394 compared to numerical simulation. This is why, the rock mass modulus, calculated based on ASTM D4394, increases dramatically by getting distance from the loading plate.&amp;nbsp;&lt;br&gt;
+&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;br&gt;
+The empirical methods estimating the modulus of deformation based on rock mass classification systems tend to evaluate large value of modulus especially for the weak massive rocks.&lt;br&gt;
+As a result of galleries dimensions and semi-infinite boundary condition assumed in ASTM D4394, the calculated rock mass modulus increases dramatically by getting distance from loading plate. Therefore, the numerical simulation was applied to process the plate loading test results. A new normalized error function was developed based on measured displacements and the rock mass modulus in the right abutment was determined 12 GPa which is very lower than the calculated value using ASTM D 4394. Also, as a result of numerical simulation, the rock mass is uniform. The stress increment perpendicular to the loading plate was calculated applying numerical simulation which is 0-90 percent lower than those suggested by ASTM D 4394.&amp;nbsp;&lt;br&gt;
+&amp;nbsp;</abstract>
+	<keyword_fa>آزمون بارگذاری صفحه‌ای, مدول تغییرشکل‌پذیری, تحلیل برگشتی, سد بهشت‌آباد</keyword_fa>
+	<keyword>Plate Loading Test, Modulus of Deformation, Back Analysis, Beheshtabad dam.</keyword>
+	<start_page>175</start_page>
+	<end_page>202</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-108-2&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>Saeed</first_name>
+	<middle_name></middle_name>
+	<last_name> Mahdavi</last_name>
+	<suffix></suffix>
+	<first_name_fa>سعید</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>مهدوی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>smahdevari@cc.iut.ac.ir</email>
+	<code>10031947532846004282</code>
+	<orcid>10031947532846004282</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی اصفهان، دانشکدۀ مهندسی معدن،</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name> Mehrnosh </first_name>
+	<middle_name></middle_name>
+	<last_name>Haghighat</last_name>
+	<suffix></suffix>
+	<first_name_fa>مهرنوش</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>حقیقت</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email></email>
+	<code>10031947532846004283</code>
+	<orcid>10031947532846004283</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی اصفهان، دانشکدۀ مهندسی معدن،</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Maryam </first_name>
+	<middle_name></middle_name>
+	<last_name>Mokhtari</last_name>
+	<suffix></suffix>
+	<first_name_fa>مریم</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>مختاری</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email></email>
+	<code>10031947532846004284</code>
+	<orcid>10031947532846004284</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه یزد، پردیس فنی و مهندسی، دانشکده مهندسی عمران</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

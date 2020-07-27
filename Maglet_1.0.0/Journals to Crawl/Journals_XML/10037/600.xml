@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+<JOURNAL>
+<YEAR>1395</YEAR>
+<VOL>10</VOL>
+<NO>2</NO>
+<MOSALSAL>26</MOSALSAL>
+<PAGE_NO>3536</PAGE_NO>
+
+
+<ARTICLES>
+
+	<ARTICLE> 
+		<TitleF>مقایسه روش های مختلف تحلیل پاسخ لرزه ای زمین های نرم مستعد روانگرایی در برابر زلزله های میدان دور و نزدیک</TitleF>
+		<TitleE>Comparison the Different Methods of Seismic Response Analysis in Liquefiable sites against Near and Far-Field Earthquakes</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>با توجه به&#8204; اهمیت روزافزون زمین&#173;شناسی محلی و شرایط زمین&#173;ریخت&#8204;شناسی بر پاسخ لرزه&#173;ای زمین، در این مقاله به&#8204;بررسی جزئیات مربوط به اثر وجود لایه&#173;های روان&#8204;گرا بر پاسخ لرزه&#173;ای سطح زمین می&#8204;پردازیم. به&#8204;منظور بررسی تفاوت&#173; روش&#173;های مختلف تحلیل پاسخ زمین، ابتدا تحلیل بر مبنای روش معادل&#173;خطی مبتنی بر مدل تنش کل در حوزۀ فرکانس و سپس بر اساس روش غیرخطی با مدل&#173;های تنش کل، تنش مؤثر و اعمال افزایش اضافه فشار آب حفره&#8204;ای در حوزۀ زمان انجام شده است. در این راستا از ویرایش پنجم نرم&#173;افزار DEEPSOIL بر مبنای جدیدترین دستاوردها و تکنیک&#173;های مختلف در هردو حوزۀ حل، استفاده شده است. محل بررسی شده برای انجام این تحقیق، پروژۀ بندر LNG عسلویه واقع در جنوب ایران است. با توجه به پژوهش&#8204;های رایج لرزه&#173;خیزی انجام شده و عدم ثبت داده&#173;های واقعی زلزله میدان&#173; نزدیک در محل پروژه به&#8204;ویژه برای گسل محتمل آن، از روش شبیه&#173;سازی مصنوعی زلزله&#160;برای گسل مولد استفاده شده&#173;است. همین&#173;طور بر اساس بررسی&#8204;های عرف لرزه&#173;خیزی در محل، سه زلزله میدان دور نیز برای انجام تحلیل&#173;های پاسخ زمین انتخاب شده&#173;اند. سپس به&#8204;منظور درک&#160;بهتر از پاسخ&#173;های به&#8204;دست آمده، طیف پاسخ&#173;های حاصل با طیف طرح شتاب ارائه شده در برخی از آیین&#173;نامه&#173;های معتبر مقایسه شده&#173;اند. نتایج&#8204; حاصل نشان می&#173;دهد که در نظر گرفتن اثر پالس در مؤلفۀ افقی شتاب در جهت عمود بر راستای گسل برای زلزله&#173;های میدان &#173;نزدیک، پاسخ سطح زمین و محتوای فرکانسی آن را تحت تأثیر قرار می&#173;دهد. به&#8204;طوری&#8204;که پاسخ&#173;های به&#8204;دست آمده در سطح زمین در حوزۀ زمان با توجه به در نظر گرفتن ماهیت رفتار غیرخطی خاک و اعمال افزایش اضافه فشار آب حفره&#173;ای با مقایسۀ پاسخ&#173;ها در حوزۀ فرکانس مبتنی بر روش معادل&#173;خطی، تفاوت&#173;های زیادی دارند.&#160;</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Due to the increasing importance of geomorphologic conditions on the seismic ground response, the effect of liquefiable soils on seismic ground surface response is discussed. At first, the equivalent linear analysis based on total stress model in the frequency domain is carried out and then the nonlinear analyses based on total stress, effective stress model and considering the pore water pressure development in time domain are done in order to evaluate the differences between the several types of ground response analysis methods. DEEPSOIL.Ver5 software is used based on the latest achievements and various techniques in both solution domains. LNG port project in Assaluyeh, situated in south of Iran, is considered as a case study. Due to lack of the real data recorded near-field fault at the project site, the simulated method is used in order to create the artificial earthquake. Also three far-field earthquakes have been selected based on conventional seismic hazard studies for the seismic ground response analysis. Then, in order to better understanding of the obtained responses, the resulted responses spectra are compared with the acceleration design spectra provided in some valid codes. The result of this study indicates that the pulse effect in the horizontal component of acceleration perpendicular to the fault plane direction, affects severely the surface ground response of the near-field earthquake. The obtained results of the nonlinear modeling of the soil with excess pore water pressure build-up in the time-domain are extremely different from those of frequency-domain responses based on the equivalent linear method. In addition, because of the inherent linearity of equivalent linear analysis which can lead to spurious resonances in ground responses, the peak ground acceleration in the time-domain is lower than the frequency-domain.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>3379</FPAGE>
+			<TPAGE>3404</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>محمد</Name>
+				<MidName></MidName>
+				<Family>آدم پیرا</Family>
+				<NameE>Mohammad</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Adampira</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد اسلامی واحد علوم و تحقیقات، گروه عمران، تهران، ایران</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد اسلامی واحد علوم و تحقیقات</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>m.adampira@srbiau.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>حمید</Name>
+				<MidName></MidName>
+				<Family>علی الهی</Family>
+				<NameE>Hamid</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Alielahi</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد اسلامی واحد زنجان، دانشکده فنی و مهندسی، گروه ارشد خاک و پی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد اسلامی واحد زنجان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>h.alielahi@iauz.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>مهدی</Name>
+				<MidName></MidName>
+				<Family>پنجی</Family>
+				<NameE>Mehdi</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Panji</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد اسلامی واحد زنجان، دانشکده فنی و مهندسی، گروه ارشد خاک و پی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد اسلامی واحد زنجان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>m.panji@srbiau.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>حمید</Name>
+				<MidName></MidName>
+				<Family>کوهساری</Family>
+				<NameE>Hamid</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Koohsari</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد اسلامی واحد زنجان، دانشکده فنی و مهندسی، گروه ارشد خاک و پی</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد اسلامی واحد زنجان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>h.koohsari@gmail.com</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Site seismic response</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Equivalent linear method</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Nonlinear method</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Pore water pressure</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Liquefaction</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>پاسخ لرزه ای ساختگاه</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>روش معادل خطی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>روش غیرخطی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>فشار آب حفره ای</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>روانگرایی</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1.	Hashash Y.M.A., Grohalski D.R., Philips C.A., &quot;Recent Advances in Non-Linear Site Response Analysis&quot;, 5th International Conference on Recent Advances in Geotechnical Earthquake Engineering and Soil Dynamics, No.4, Sandiego, California (2010).## 2.	Zorapapel G.T., Vucetic M., &quot;The Effects of Seismic Pore Water Pressure on Ground Surface Motion&quot;, Earthquake Spectra, EERI, 10 (2) (1994) 403-437. ## 3.	Yang J., Sato T., Savidis S., Li X.S., &quot;Horizontal and Vertical Components of Earthquake ground motions at Liquefiable Site&quot;, Soil Dyn. Earthquake Eng., 22 (2002) 229-240. ## 4.	Youd T.L., Carter B., &quot;Influence of Soil Softening and Liquefaction on Spectral Acceleration&quot;, Journal of Geotechnical and Geoenvironmental Engineering, Vol. 131(7) (2005) 811-825. ## 5.	&quot;AASHTO LRFD Bridge Design Specifications&quot;, American Association of State Highway and Transportation Officials, Washington, D.C. (1998). 6.	Foerster E., Modaressi H., &quot;Nonlinear Numerical Method for Earthquake Site Response Analysis II-Case Studies&quot; Bull Earthquake Eng 5 (2007) 325-345. ## 7.	Zheng W., Luna R., &quot;Nonlinear Site Response and Liquefaction Analysis in the New Madrid Seismic Zone&quot;, Geotech Geol Eng 29 (2011) 463-475. ## 8.	Kramer S.L., Hartvigsen A.J., Sideras S.S., Ozener P.T., &quot;Site Response Modeling in Liquefiable Soil Deposits&quot;, 4th IASPEI / IAEE International Symposium: Effects of Surface Geology on Seismic Motion, August 23-26, 2011 ,University of California Santa Barbara (2011). ## 9.	Hashash Y.M.A., Groholski D.R., Phillips C.A., Park D, Musgrove M., DEEPSOIL 5.1, User Manual and Tutorial (2012). ## 10.	وکیلی ر.، صادقی عبدالهی ع.، علی‌الهی ح.، نورزاد ع.، بررسی روش‌های ارزیابی لرزه‌ای پتانسیل روان‌گرایی در مجاورت سازه‌های دریایی، مجلۀ مهندسی عمران دانشگاه آزاد اسلامی، سال سوم، شمارۀ 2، بهار (1389). ## 11.	Lee S.H.H., &quot;Regression Models of Shear Wave Velocities&quot;, J Chinese Institute of Engineers, No.13 (1990) 515-532. ## 12.	Rollins K.M., Evans M.D., Diehl N.B., Daily W.D., &quot;Shear Modulus and Damping Relationships for Gravels&quot;, Journal of Geothecnical and Geoenvironmental Engineering, 124, No.5 (1998) 396-405. ## 13.	Martin F., Kawase H., Modaressi-Farahmand Razavi A., &quot;Nonlinear Soil Response of a Borehole Station Based on One-Dimensional Inversion during the 2005 Fukuoka Prefecture Western Offshore Earthquake&quot;, Bulletin of the Seismological Society of America (2010). ## 14.	Zhaohui J.Y, Dutta U., GangXu KenanHazirbaba ElmerE Marx, &quot;Numerical analysis of permafrost effects on the seismic site response&quot;t Soil Dyn (2011). ## 15.	Seed H.B., Idriss I.M., &quot;Soil Module and Damping Factors for Dynamic Response Analyses&quot;, Report No. EERC 70-10, Earthquake Engineering Research Center, University of California, Berkeley, California (1970). ## 16.	Campbell K.W., Bozorgnia, Y. &quot;New empirical models for predicting nearsource horizontal, vertical and V IH response spectra: Implications for design&quot;, Proceedings of the Sixth International Conference on Seismic Zonation (2000). ## 17.	&quot;IPSN Proposition de modification de la Regie Fondamentale 1.2.c. relative a la determination des mouvements sismiques a prendre en compte pour la sllrete des tranches nucleairescomportant un reacteur a eau sous pression, applicables II l' ensemble des&quot;, Installations nucleaires de base en surface. Rapport IPSN DES nO 348 (1999). ## 18.	قائم مقامیان م.ر، خلیلی ب.، تاثیر نوع گسل، بزرگای زلزله و اثر فاصله برای گسلش ناهمگن بر حرکات توانمند زمین در حوزۀ نزدیک گسل، پژوهش‌نامه زلزله‌‌شناسی و مهندس زلزله، شمارۀ 33 (1385) 35-46. ## 19.	Somerville P.G., &quot;Engineering Characterization of Near fault Ground Motion&quot;, NZSEE Conference (2005). ## 20.	Hayden C.P., Bray J.D., Abrahamson N.A., &quot;Selection of Near-Fault Pulse Motions&quot;, J. Geotech. Geoenviron. Eng. (ASCE), 140 (2014). ## 21.	Boore D.M., &quot;Simulation of Ground Motion using Stochastic Method&quot;, Journal of pure and applied Geophysics, 160 (2003) 635-676. ## 22.	Mavroeidis G.P., Papageorgiou A.S., &quot;A Mathematical Representation of Near-Fault Ground Motions&quot;, Bulletin Seismological Society of America, No. 93 (2003) 1099-1131. ## 23.	Towhata I., &quot;Geotechnical Earthquake Engineering, Springer Series in Geomechanics and Geoengineering&quot;, Springer-Verlag Berlin Heidelberg (2008). ## 24.	علی‌الهی ح.، پنجی م.، آدم‌پیرا م. غبرائی لنگرودی م.، بررسی اثرات ساختگاهی خاک‌های مستعد روان‌گرایی تحت اعمال زلزله‌های قوی، هفتمین کنگرۀملی مهندسی عمران، زاهدان، اردیبهشت (1392). ## 25.	Berrill J.B., Davis R.O., &quot;Energy Dissipation and Seismic Liquefaction of Sands: revised model, Soils Found&quot;, 25(2) (1985) 106-118. ## 26.	Green R.A., Mitchell J.K., Polito C.P., &quot;An Energy-Based Pore Pressure Generation Model for Cohesion less Soils&quot;, Proceedings: John Booker Memorial Symposium, Melbourne, Australia, November 16-17 (2000). ## 27.	Polito C.P., Green R.A., Lee J.H., &quot;Pore Pressure Generation Models for Sands and Silty Soils Subjected to Cyclic Loading&quot;, Journal of Geotechnical and Geoenvironmental Engineering, 134(10) (2008) 1490- 1500. ## Rogers A.M., Tinsiey J.C., Borcherdt R.D., &quot; Predicting Relative Ground Response, Proc. Symposium on Seismic Hazards Ground Motions&quot;, Soil Liquefaction and Engineering Practice in Eastern North America (1987) 403-432. ## 28.	جعفری م.، کمالیان م.، بررسی پدید تشدید در آبرفت تهران، گزارش تحقیقات پژوهشگاه بین‌المللی زلزله، جلد3 (1372). ## 29.	&quot;Uniform Building Code (UBC)&quot;, International Conference of Building Officials (ICBO), Whittier, California (1997). ## 30.	مرکز تحقیقات ساختمان و مسکن، آیین‌نامه طراحی ساختمان‌ها در برابر زلزله )استاندارد 2800 ، ویرایش سوم(، وزارت مسکن و شهرسازی (1384). ## 31.	AASHTO (Association of State Highway and Transportation Officials) &quot;Guide Specification for Seismic Isolation Design&quot;, Third Edition, American Association of State Highway and Transportation Officials, Washington, D.C. (2010). ## 32.	FHWA (Federal Highway Administration) &quot;LRFD Seismic Analysis and Design of Transportation Geotechnical Features and Structural Foundations&quot;, FHWA-NHI-11-032, Washington, DC, March (2011). ## 33.	Ports and Harbours Bureau, Ministry of Land, infrastructure, Transport and Tourism (MUT), National institute for Land and infrastructure Management &amp; Port and Airport Research institute &quot;Technical Standards and Commentaries for Port and Harbour Facilities in Japan&quot;, Development Institute Of Japan The Overseas Coastal Area (2009). ## ##1.	Hashash Y.M.A., Grohalski D.R., Philips C.A., &quot;Recent Advances in Non-Linear Site Response Analysis&quot;, 5th International Conference on Recent Advances in Geotechnical Earthquake Engineering and Soil Dynamics, No.4, Sandiego, California (2010).## 2.	Zorapapel G.T., Vucetic M., &quot;The Effects of Seismic Pore Water Pressure on Ground Surface Motion&quot;, Earthquake Spectra, EERI, 10 (2) (1994) 403-437. ## 3.	Yang J., Sato T., Savidis S., Li X.S., &quot;Horizontal and Vertical Components of Earthquake ground motions at Liquefiable Site&quot;, Soil Dyn. Earthquake Eng., 22 (2002) 229-240. ## 4.	Youd T.L., Carter B., &quot;Influence of Soil Softening and Liquefaction on Spectral Acceleration&quot;, Journal of Geotechnical and Geoenvironmental Engineering, Vol. 131(7) (2005) 811-825. ## 5.	&quot;AASHTO LRFD Bridge Design Specifications&quot;, American Association of State Highway and Transportation Officials, Washington, D.C. (1998). 6.	Foerster E., Modaressi H., &quot;Nonlinear Numerical Method for Earthquake Site Response Analysis II-Case Studies&quot; Bull Earthquake Eng 5 (2007) 325-345. ## 7.	Zheng W., Luna R., &quot;Nonlinear Site Response and Liquefaction Analysis in the New Madrid Seismic Zone&quot;, Geotech Geol Eng 29 (2011) 463-475. ## 8.	Kramer S.L., Hartvigsen A.J., Sideras S.S., Ozener P.T., &quot;Site Response Modeling in Liquefiable Soil Deposits&quot;, 4th IASPEI / IAEE International Symposium: Effects of Surface Geology on Seismic Motion, August 23-26, 2011 ,University of California Santa Barbara (2011). ## 9.	Hashash Y.M.A., Groholski D.R., Phillips C.A., Park D, Musgrove M., DEEPSOIL 5.1, User Manual and Tutorial (2012). ## 10.	وکیلی ر.، صادقی عبدالهی ع.، علی‌الهی ح.، نورزاد ع.، بررسی روش‌های ارزیابی لرزه‌ای پتانسیل روان‌گرایی در مجاورت سازه‌های دریایی، مجلۀ مهندسی عمران دانشگاه آزاد اسلامی، سال سوم، شمارۀ 2، بهار (1389). ## 11.	Lee S.H.H., &quot;Regression Models of Shear Wave Velocities&quot;, J Chinese Institute of Engineers, No.13 (1990) 515-532. ## 12.	Rollins K.M., Evans M.D., Diehl N.B., Daily W.D., &quot;Shear Modulus and Damping Relationships for Gravels&quot;, Journal of Geothecnical and Geoenvironmental Engineering, 124, No.5 (1998) 396-405. ## 13.	Martin F., Kawase H., Modaressi-Farahmand Razavi A., &quot;Nonlinear Soil Response of a Borehole Station Based on One-Dimensional Inversion during the 2005 Fukuoka Prefecture Western Offshore Earthquake&quot;, Bulletin of the Seismological Society of America (2010). ## 14.	Zhaohui J.Y, Dutta U., GangXu KenanHazirbaba ElmerE Marx, &quot;Numerical analysis of permafrost effects on the seismic site response&quot;t Soil Dyn (2011). ## 15.	Seed H.B., Idriss I.M., &quot;Soil Module and Damping Factors for Dynamic Response Analyses&quot;, Report No. EERC 70-10, Earthquake Engineering Research Center, University of California, Berkeley, California (1970). ## 16.	Campbell K.W., Bozorgnia, Y. &quot;New empirical models for predicting nearsource horizontal, vertical and V IH response spectra: Implications for design&quot;, Proceedings of the Sixth International Conference on Seismic Zonation (2000). ## 17.	&quot;IPSN Proposition de modification de la Regie Fondamentale 1.2.c. relative a la determination des mouvements sismiques a prendre en compte pour la sllrete des tranches nucleairescomportant un reacteur a eau sous pression, applicables II l' ensemble des&quot;, Installations nucleaires de base en surface. Rapport IPSN DES nO 348 (1999). ## 18.	قائم مقامیان م.ر، خلیلی ب.، تاثیر نوع گسل، بزرگای زلزله و اثر فاصله برای گسلش ناهمگن بر حرکات توانمند زمین در حوزۀ نزدیک گسل، پژوهش‌نامه زلزله‌‌شناسی و مهندس زلزله، شمارۀ 33 (1385) 35-46. ## 19.	Somerville P.G., &quot;Engineering Characterization of Near fault Ground Motion&quot;, NZSEE Conference (2005). ## 20.	Hayden C.P., Bray J.D., Abrahamson N.A., &quot;Selection of Near-Fault Pulse Motions&quot;, J. Geotech. Geoenviron. Eng. (ASCE), 140 (2014). ## 21.	Boore D.M., &quot;Simulation of Ground Motion using Stochastic Method&quot;, Journal of pure and applied Geophysics, 160 (2003) 635-676. ## 22.	Mavroeidis G.P., Papageorgiou A.S., &quot;A Mathematical Representation of Near-Fault Ground Motions&quot;, Bulletin Seismological Society of America, No. 93 (2003) 1099-1131. ## 23.	Towhata I., &quot;Geotechnical Earthquake Engineering, Springer Series in Geomechanics and Geoengineering&quot;, Springer-Verlag Berlin Heidelberg (2008). ## 24.	علی‌الهی ح.، پنجی م.، آدم‌پیرا م. غبرائی لنگرودی م.، بررسی اثرات ساختگاهی خاک‌های مستعد روان‌گرایی تحت اعمال زلزله‌های قوی، هفتمین کنگرۀملی مهندسی عمران، زاهدان، اردیبهشت (1392). ## 25.	Berrill J.B., Davis R.O., &quot;Energy Dissipation and Seismic Liquefaction of Sands: revised model, Soils Found&quot;, 25(2) (1985) 106-118. ## 26.	Green R.A., Mitchell J.K., Polito C.P., &quot;An Energy-Based Pore Pressure Generation Model for Cohesion less Soils&quot;, Proceedings: John Booker Memorial Symposium, Melbourne, Australia, November 16-17 (2000). ## 27.	Polito C.P., Green R.A., Lee J.H., &quot;Pore Pressure Generation Models for Sands and Silty Soils Subjected to Cyclic Loading&quot;, Journal of Geotechnical and Geoenvironmental Engineering, 134(10) (2008) 1490- 1500. ## Rogers A.M., Tinsiey J.C., Borcherdt R.D., &quot; Predicting Relative Ground Response, Proc. Symposium on Seismic Hazards Ground Motions&quot;, Soil Liquefaction and Engineering Practice in Eastern North America (1987) 403-432. ## 28.	جعفری م.، کمالیان م.، بررسی پدید تشدید در آبرفت تهران، گزارش تحقیقات پژوهشگاه بین‌المللی زلزله، جلد3 (1372). ## 29.	&quot;Uniform Building Code (UBC)&quot;, International Conference of Building Officials (ICBO), Whittier, California (1997). ## 30.	مرکز تحقیقات ساختمان و مسکن، آیین‌نامه طراحی ساختمان‌ها در برابر زلزله )استاندارد 2800 ، ویرایش سوم(، وزارت مسکن و شهرسازی (1384). ## 31.	AASHTO (Association of State Highway and Transportation Officials) &quot;Guide Specification for Seismic Isolation Design&quot;, Third Edition, American Association of State Highway and Transportation Officials, Washington, D.C. (2010). ## 32.	FHWA (Federal Highway Administration) &quot;LRFD Seismic Analysis and Design of Transportation Geotechnical Features and Structural Foundations&quot;, FHWA-NHI-11-032, Washington, DC, March (2011). ## 33.	Ports and Harbours Bureau, Ministry of Land, infrastructure, Transport and Tourism (MUT), National institute for Land and infrastructure Management &amp; Port and Airport Research institute &quot;Technical Standards and Commentaries for Port and Harbour Facilities in Japan&quot;, Development Institute Of Japan The Overseas Coastal Area (2009). ##  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>تحلیل تراوش در تونل انتقال آب چشمه روزیه در مرحله ساخت و بهره‌برداری با بهره‌گیری از شبیه‌سازی عددی</TitleF>
+		<TitleE>Flow analysis of the Rozieh water conveyance tunnel during the construction and operation phase using numerical simulation</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>با توجه به قرارگیری بخش عمدۀ ایران در ناحیۀ خشک و بیابانی حفر تونل&#8204;های انتقال آب امری&#8204; اجتناب&#8204;ناپذیر است. یکی از چالش&#8204;های اساسی در ساخت این تونل&#8204;ها ورود آب به آن در مرحلۀ ساخت و بهره&#8204;برداری است. تونل انتقال آب چشمۀ روزیه به&#8204;طول 3200 متر بخشی از طرح انتقال آب به شهر سمنان است که در 30 کیلومتری شمال شرق سمنان ساخته شده است. بر اساس اطلاعات حاصل از گمانه&#8204;های حفاری شده، تونل از نقطه&#8204;نظر ژئومکانیکی به 8 پهنه تقسیم شده که در این تحقیق بعد از بررسی پارامترهای ژئومکانیکی و هیدروژئولوژیکی تونل با توجه به دبی آب ورودی به تونل در حین ساخت ضریب نفوذپذیری سنگ میزبان تونل در هر پهنه با استفاده از تحلیل برگشتی و بر اساس نتایج شبیه&#8204;سازی عددی ارزیابی شده است. در ادامه برررسی پارامتری بر ضخامت زون تزریق، ضریب نفوذپذیری پوشش و زون تزریق در هر پهنه انجام شده است. بر اساس نتایج این پژوهش، تأثیر تغییرات ضخامت زون تزریق بر دبی آب ورودی به تونل ناچیز است. از این رو، با فرض ضخامت 3 متر برای زون تزریق، ضریب نفوذپذیری سنگ میزبان بعد از تزریق ارزیابی شده است. تزریق سیمان می&#8204;تواند نفوذپذیری سنگ میزبان را از 10 تا 1000 مرتبه بسته به نفوذپذیری اولیه سنگ کاهش دهد. دبی آب ورودی به تونل در هر پهنه با استفاده از تحلیل توأمان هیدرومکانیکی نیز محاسبه شد. نتایج تحلیل نشان داد که دبی ورودی به تونل در تحلیل توأمان 50 تا 70 درصد کم&#8204;تر از تحلیل هیدرولیکی است.&#160;</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Because most part of Iran country is located in a dry climate, construction of water conveyance tunnels is inevitable. One of the major challenges in the construction of these tunnels is inflow of water into the tunnel during the construction and operation phase. The Rozieh water conveyance tunnel whose length is 3200 meters is a part of water conveyance project to the Semnan city and it is located 30 k NE of Semnan city. In accordance with the drilled boreholes, the tunnel route has been classified into eight zones from the geotechnical view. Then the permeability coefficients of host rock were calculated using back analysis approach on the basis of numerical simulation results and water inflow quantity during the construction phase. A parametric study was done on the lining and cement injection zone permeability and the thickness of cement injection zone. According to this study, the effect of injection zone thickness variation on the water inflow quantity is negligible. So with the assumption of 3 meters thickness for the injection zone, the permeability coefficient of host rock after injection were evaluated. Dependent on the initial rock permeability, cement injection could reduce the rock permeability 10 to 1000 times. In addition, the water inflow into the tunnel was calculated using hydro-mechanical coupling analysis. According to this analysis, the water inflow calculated by the hydro-mechanical coupling analysis is 50 to 70 percent less than the hydraulic analysis.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>3405</FPAGE>
+			<TPAGE>3426</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>علی</Name>
+				<MidName></MidName>
+				<Family>احمدزاده</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Ahmadzadeh</FamilyE>
+				<Organizations>
+				<Organization>دانشکده مهندسی معدن، دانشگاه صنعتی اصفهان</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه صنعتی اصفهان، دانشکده معدن</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>راحب</Name>
+				<MidName></MidName>
+				<Family>باقرپور</Family>
+				<NameE>R</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Bagherpour</FamilyE>
+				<Organizations>
+				<Organization>دانشکده مهندسی معدن، دانشگاه صنعتی اصفهان</Organization>
+				</Organizations>
+				<Universities>
+				<University>استادیار دانشکده مهندسی معدن، دانشگاه صنعتی اصفهان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>bagherpour@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>سعید</Name>
+				<MidName></MidName>
+				<Family>مهدوری</Family>
+				<NameE>Saeed</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Mahdevari</FamilyE>
+				<Organizations>
+				<Organization>دانشکده مهندسی معدن، دانشگاه صنعتی اصفهان</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه صنعتی اصفهان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>smahdevari@cc.iut.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Hydro-Mechanical Coupling Analysis</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Numerical Simulation</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>The Rozieh Tunnel</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Flow Analysis</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تحلیل توامان هیدرومکانیکی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شبیه‌سازی عددی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تونل چشمه روزیه</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تراوش آب</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1. Tseng, Dar-Jen, Tsai, Bin-Ru, Chang, Lung-Chen,&quot;A case study on ground treatment for a rock tunnel with high groundwater ingression in Taiwan&quot;,Tunnelling and Underground Space Technology, Vol. 16 (2001) 175-183.## 2. El Tani Mohammed, &quot;Circular tunnel in a semi-infinite aquifer&quot;, Tunnelling and Underground Space Technology, Vol. 18 (2003) 49-55. ## 3. Song W.K., Hamm S., Cheong J.,&quot; Estimation of groundwater discharged into a tunnel&quot;, Tunnelling and Underground Space Technology, Vol. 21 (2006) 1-7.	## 4. Kolymbas D., Wagner P., &quot;Groundwater ingress to tunnels the exact analytical solution&quot; Tunnelling and Underground Space Technology, Vol. 22 (2007) 23-27. ## 5. Wang T. ., Jeng F.S., Lo W.,&quot;Mitigating large water ingresses into the new Yungchuen tunnel, Taiwan&quot;, Bulletin of Engineering Geology and Environment, Vol. 70 (2011) 173-186. ## 6. Shahriar K., Sharifzadeh M., Khademi H. J.,&quot;Geotechnical risk assessment based approach for rock TBM selection in difficult ground conditions&quot;, International Journal of Tunnelling and Underground Space Technology, Vol. 23 (2008) 318-325. ## 7. Wenner, Dieter, Wannenmacher, Helmut, &quot;Alborz service tunnel in Iran: TBM tunnelling in difficult ground conditions and its solutions&quot;, 1st Regional and 8th Iranian Tunneling Conference, 18-20 May, Tehran, Iran, (2009) 1-12. ## 8. Zarei H.R., Uromeihy A., Sharifzadeh M.,&quot;Identifying geological hazards related to tunneling in Carbonate Karstic rocks-Zagros, Iran&quot;, Arabian Journal of Geosciences, Vol. 5, (2012) 457-464. ## 9. Park Kyung Ho, Adisorn Owatsiriwong, Joo Gong Lee, &quot;Analytical solution for steady-state groundwater inflow into a drained circular tunnel in a semi-infinite aquifer: A revisit&quot;, Tunnelling and Underground Space Technology, Vol. 23 (2008) 206-209. ## 10. Gong Q.M., Yin L.J., She Q.R., &quot;TBM tunneling in marble rock masses with high in situ stress and large groundwater inflow: A case study in China&quot;, Bulletin of Engineering Geology and Environment, Vol. 72 (2013) 163-172. ## 11. Huai-Na Wu, Run-Qiu Huang, Wen-Juan Sun, Shui-Long Shen, Ye-Shuang Xu, Yan-Bin Liu, Shou Ji Du, &quot;Leaking behavior of shield tunnels under the Huangpu River of Shanghai with induced hazards&quot;, Natural Hazards, Vol. 70 (2014) 1115-1132. ## 12. Goodman R.E., Moye D.G., Van Schalkwyk A., Javandel I., &quot;Groundwater inflows during tunnel driving&quot;, Bulletin of the International Association of Engineering Geologists, Vol. 2 (1965) 39-56. ## 13. Franklin J.A., Zhang L., &quot;Prediction of water flow into rock tunnels: An analytical solution assuming an hydraulic conductivity gradient&quot;, International journal of Rock Mechanics and Mining Science, Vol. 30 (1993) 37-46. ## 14. Lei Shizhong, &quot;An analytical solution for steady flow into a tunnel&quot;, Atomic Energy Control Board, Vol. 37 (1999) 23-26. ## 15. Shin J.H., Lee I.M., Shin Y.J., &quot;Elasto-plastic seepage induced stresses due to tunneling&quot; International Journal of Numerical and Analytical Methods in Geomechanics, Vol. 35 (2011) 1432-1450. ## 16. Ming Huang fu, Wang Meng-Shu, Tan Zhong-Sheng, Wang Xiu-Ying, &quot;Analytical solutions for steady seepage into an underwater circular tunnel&quot;, Tunnelling and Underground Space Technology, Vol. 25 (2010) 391-396. ## 17. Fernandez G., &quot;Behavior of pressure tunnels and guidelines for liner design&quot;, Journal of Geotechnical Engineering, Vol. 120 (1994) 1768-1791. ## 18. Schleiss A., &quot;Design of reinforced concrete linings of pressure tunnels and shafts for external water pressure&quot;, International Journal on Hydropower and Dams, Vol. 4 (1997). ## 19. Perrochet P., &quot;Confined flow into a tunnel during progressive drilling&quot;, Journal of Ground Water, Vol. 43 (2005) 943-946. ## 20. Perrochet P., Antonio D., &quot;Modeling transient discharge into a tunnel drilled in a heterogeneous formation&quot;, Journal of Ground Water, Vol. 45 (2007) 786-790. ## 21. Preisig G., Dematteis A., Torri R., Monin N., Milnes E., Perrochet P., &quot;Modeling discharge rates and ground settlement induced by tunnel excavation&quot;, Journal of Rock Mechanics and Rock Engineering, Vol. 47 (2014) 869-884. ## 22. Marechal J.C., Lanini S., Aunay B., Perrochet P.,&quot;Analytical solution for modeling discharge into a tunnel drilled in a heterogeneous unconfined aquifer&quot;, Journal of Ground Water, Vol. 52 (2014) 597-605. ## 23. Bobet A., &quot;Characteristic curves for deep circular tunnels in poroplastic rock&quot;, Journal of Rock Mechanics and Rock Engineering, Vol. 43 (2010) 185-200. ## 24. Carranza-Torres C., Zhao J., &quot;Analytical and numerical study of the effect of water pressure on the mechanical response of cylindrical lined tunnels in elastic and elasto-plastic porous media&quot;, International Journal of Rock Mechanics and Mining Sciences, Vol. 46 (2009) 531-547. ## 25. Heuer R.E., &quot;Estimating rock-tunnel water inflow&quot;, Proceeding of the Rapid Excavation and Tunneling Conference, San Francisco, (1995) 41-60. ## 26. Zarei H.R., Uromeihy A., Sharifzadeh M., &quot;Evaluation of high local groundwater inflow to a rock tunnel by characterization of geological features&quot;, Tunnelling and Underground Space Technology, Vol. 26 (2011) 364-373. ## 27. Jing L., Ma Y., Fang Z., &quot;Modeling of fluid flow and solid deformation for fractured rocks with discontinuous deformation analysis (DDA) method&quot;, International Journal of Rock Mechanics and Mining Sciences, Vol. 38 (2001) 343-355. ## 28. Sharifzadeh M., Karegar S., Ghorbani M., &quot;Influence of rock mass properties on tunnel inflow using hydromechanical numerical study&quot;, Arabian Journal of Geosciences, Vol. 6 (2013) 169-175. ## 29. Chen H., Zhao Z., Sun J.,&quot; Coupled hydro-mechanical model for fractured rock masses using the discontinuous deformation analysis&quot;, Tunnelling and Underground Space Technology, Vol. 38 (2013) 506-516. ## 30. Ohtsu H., Ohnishi Y., Taki H., Kamemura K., &quot;A study on problems associated with finite element excavation analysis by the stress-flow coupled method&quot;, International Journal for Numerical and Analytical Methods in Geomechanics, Vol. 23 (1999) 1473-1492. ## 31. Yoo C., &quot;Interaction between tunneling and groundwater-Numerical investigation using three dimensional stress-Pore pressure coupled analysis&quot;, Journal of Geotechnical and Geoenvironmental Engineering, Vol. 131 (2005) 240-250. ## 32. Graziani A., Boldini D., &quot;Influence of hydro-mechanical coupling on tunnel response in clays&quot;, Journal of Geotechnical and Geoenvironmental Engineering, Vol. 138 (2012) 415-418. ## 33. مهندسین مشاور مهاب قدس، گزارش تونل انتقال آب چشمه روزیه، تهران (1384). ## 34. Palmström A., &quot;RMi - A System for characterizing rock mass strength for use in rock engineering&quot;, Journal of Rock Mechanics and Tunnelling Technology, Vol. 1 (1995) 69-108. ## 35. Hoek E., Diederichs M.S., &quot;Empirical estimation of rock mass modulus&quot;, International Journal of Rock Mechanics and Mining Sciences, Vol. 43, (2006) 203-215. ## 36. مهدوری س.، هاشمی م.، آیتی ف.، بررسی دبی آب نشتی از تونل انتقال آب بهشت‌آباد با استفاده از روش‌های تحلیلی و عددی، نشریه علمی پژوهشی مهندسی معدن، سال چهارم، شمارۀ 7 (1388). ## ##1. Tseng, Dar-Jen, Tsai, Bin-Ru, Chang, Lung-Chen,&quot;A case study on ground treatment for a rock tunnel with high groundwater ingression in Taiwan&quot;,Tunnelling and Underground Space Technology, Vol. 16 (2001) 175-183.## 2. El Tani Mohammed, &quot;Circular tunnel in a semi-infinite aquifer&quot;, Tunnelling and Underground Space Technology, Vol. 18 (2003) 49-55. ## 3. Song W.K., Hamm S., Cheong J.,&quot; Estimation of groundwater discharged into a tunnel&quot;, Tunnelling and Underground Space Technology, Vol. 21 (2006) 1-7.	## 4. Kolymbas D., Wagner P., &quot;Groundwater ingress to tunnels the exact analytical solution&quot; Tunnelling and Underground Space Technology, Vol. 22 (2007) 23-27. ## 5. Wang T. ., Jeng F.S., Lo W.,&quot;Mitigating large water ingresses into the new Yungchuen tunnel, Taiwan&quot;, Bulletin of Engineering Geology and Environment, Vol. 70 (2011) 173-186. ## 6. Shahriar K., Sharifzadeh M., Khademi H. J.,&quot;Geotechnical risk assessment based approach for rock TBM selection in difficult ground conditions&quot;, International Journal of Tunnelling and Underground Space Technology, Vol. 23 (2008) 318-325. ## 7. Wenner, Dieter, Wannenmacher, Helmut, &quot;Alborz service tunnel in Iran: TBM tunnelling in difficult ground conditions and its solutions&quot;, 1st Regional and 8th Iranian Tunneling Conference, 18-20 May, Tehran, Iran, (2009) 1-12. ## 8. Zarei H.R., Uromeihy A., Sharifzadeh M.,&quot;Identifying geological hazards related to tunneling in Carbonate Karstic rocks-Zagros, Iran&quot;, Arabian Journal of Geosciences, Vol. 5, (2012) 457-464. ## 9. Park Kyung Ho, Adisorn Owatsiriwong, Joo Gong Lee, &quot;Analytical solution for steady-state groundwater inflow into a drained circular tunnel in a semi-infinite aquifer: A revisit&quot;, Tunnelling and Underground Space Technology, Vol. 23 (2008) 206-209. ## 10. Gong Q.M., Yin L.J., She Q.R., &quot;TBM tunneling in marble rock masses with high in situ stress and large groundwater inflow: A case study in China&quot;, Bulletin of Engineering Geology and Environment, Vol. 72 (2013) 163-172. ## 11. Huai-Na Wu, Run-Qiu Huang, Wen-Juan Sun, Shui-Long Shen, Ye-Shuang Xu, Yan-Bin Liu, Shou Ji Du, &quot;Leaking behavior of shield tunnels under the Huangpu River of Shanghai with induced hazards&quot;, Natural Hazards, Vol. 70 (2014) 1115-1132. ## 12. Goodman R.E., Moye D.G., Van Schalkwyk A., Javandel I., &quot;Groundwater inflows during tunnel driving&quot;, Bulletin of the International Association of Engineering Geologists, Vol. 2 (1965) 39-56. ## 13. Franklin J.A., Zhang L., &quot;Prediction of water flow into rock tunnels: An analytical solution assuming an hydraulic conductivity gradient&quot;, International journal of Rock Mechanics and Mining Science, Vol. 30 (1993) 37-46. ## 14. Lei Shizhong, &quot;An analytical solution for steady flow into a tunnel&quot;, Atomic Energy Control Board, Vol. 37 (1999) 23-26. ## 15. Shin J.H., Lee I.M., Shin Y.J., &quot;Elasto-plastic seepage induced stresses due to tunneling&quot; International Journal of Numerical and Analytical Methods in Geomechanics, Vol. 35 (2011) 1432-1450. ## 16. Ming Huang fu, Wang Meng-Shu, Tan Zhong-Sheng, Wang Xiu-Ying, &quot;Analytical solutions for steady seepage into an underwater circular tunnel&quot;, Tunnelling and Underground Space Technology, Vol. 25 (2010) 391-396. ## 17. Fernandez G., &quot;Behavior of pressure tunnels and guidelines for liner design&quot;, Journal of Geotechnical Engineering, Vol. 120 (1994) 1768-1791. ## 18. Schleiss A., &quot;Design of reinforced concrete linings of pressure tunnels and shafts for external water pressure&quot;, International Journal on Hydropower and Dams, Vol. 4 (1997). ## 19. Perrochet P., &quot;Confined flow into a tunnel during progressive drilling&quot;, Journal of Ground Water, Vol. 43 (2005) 943-946. ## 20. Perrochet P., Antonio D., &quot;Modeling transient discharge into a tunnel drilled in a heterogeneous formation&quot;, Journal of Ground Water, Vol. 45 (2007) 786-790. ## 21. Preisig G., Dematteis A., Torri R., Monin N., Milnes E., Perrochet P., &quot;Modeling discharge rates and ground settlement induced by tunnel excavation&quot;, Journal of Rock Mechanics and Rock Engineering, Vol. 47 (2014) 869-884. ## 22. Marechal J.C., Lanini S., Aunay B., Perrochet P.,&quot;Analytical solution for modeling discharge into a tunnel drilled in a heterogeneous unconfined aquifer&quot;, Journal of Ground Water, Vol. 52 (2014) 597-605. ## 23. Bobet A., &quot;Characteristic curves for deep circular tunnels in poroplastic rock&quot;, Journal of Rock Mechanics and Rock Engineering, Vol. 43 (2010) 185-200. ## 24. Carranza-Torres C., Zhao J., &quot;Analytical and numerical study of the effect of water pressure on the mechanical response of cylindrical lined tunnels in elastic and elasto-plastic porous media&quot;, International Journal of Rock Mechanics and Mining Sciences, Vol. 46 (2009) 531-547. ## 25. Heuer R.E., &quot;Estimating rock-tunnel water inflow&quot;, Proceeding of the Rapid Excavation and Tunneling Conference, San Francisco, (1995) 41-60. ## 26. Zarei H.R., Uromeihy A., Sharifzadeh M., &quot;Evaluation of high local groundwater inflow to a rock tunnel by characterization of geological features&quot;, Tunnelling and Underground Space Technology, Vol. 26 (2011) 364-373. ## 27. Jing L., Ma Y., Fang Z., &quot;Modeling of fluid flow and solid deformation for fractured rocks with discontinuous deformation analysis (DDA) method&quot;, International Journal of Rock Mechanics and Mining Sciences, Vol. 38 (2001) 343-355. ## 28. Sharifzadeh M., Karegar S., Ghorbani M., &quot;Influence of rock mass properties on tunnel inflow using hydromechanical numerical study&quot;, Arabian Journal of Geosciences, Vol. 6 (2013) 169-175. ## 29. Chen H., Zhao Z., Sun J.,&quot; Coupled hydro-mechanical model for fractured rock masses using the discontinuous deformation analysis&quot;, Tunnelling and Underground Space Technology, Vol. 38 (2013) 506-516. ## 30. Ohtsu H., Ohnishi Y., Taki H., Kamemura K., &quot;A study on problems associated with finite element excavation analysis by the stress-flow coupled method&quot;, International Journal for Numerical and Analytical Methods in Geomechanics, Vol. 23 (1999) 1473-1492. ## 31. Yoo C., &quot;Interaction between tunneling and groundwater-Numerical investigation using three dimensional stress-Pore pressure coupled analysis&quot;, Journal of Geotechnical and Geoenvironmental Engineering, Vol. 131 (2005) 240-250. ## 32. Graziani A., Boldini D., &quot;Influence of hydro-mechanical coupling on tunnel response in clays&quot;, Journal of Geotechnical and Geoenvironmental Engineering, Vol. 138 (2012) 415-418. ## 33. مهندسین مشاور مهاب قدس، گزارش تونل انتقال آب چشمه روزیه، تهران (1384). ## 34. Palmström A., &quot;RMi - A System for characterizing rock mass strength for use in rock engineering&quot;, Journal of Rock Mechanics and Tunnelling Technology, Vol. 1 (1995) 69-108. ## 35. Hoek E., Diederichs M.S., &quot;Empirical estimation of rock mass modulus&quot;, International Journal of Rock Mechanics and Mining Sciences, Vol. 43, (2006) 203-215. ## 36. مهدوری س.، هاشمی م.، آیتی ف.، بررسی دبی آب نشتی از تونل انتقال آب بهشت‌آباد با استفاده از روش‌های تحلیلی و عددی، نشریه علمی پژوهشی مهندسی معدن، سال چهارم، شمارۀ 7 (1388). ##  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>بررسی جایگاه سنگ های مارنی در سیستم های طبقه بندی مهندسی توده سنگ مطالعه موردی : ساختگاه سد دوستی</TitleF>
+		<TitleE>Investigation of position marlston in rock mass enginnering classification system,case study: Doosti Dam</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>با انتخاب 222 متر از مغزه&#173;های حفاری در محور سرریز ساختگاه سد دوستی از سنگ&#173;های مارنی سازند آب تلخ و انجام طبقه&#173;بندی تودۀ سنگ در سیستم&#173;های RQD، RSR، RMR و Q، نمونه&#173;های بررسی شده در رده&#173;های مختلف طبقه&#173;بندی&#173;های مذکور قرار گرفت و فروانی هریک به&#8204;دست آمد. نتیجه تحقیق نشان می&#173;دهد که طبقه&#173;بندی RMR مناسب&#173;ترین روش ارزیابی تودۀ سنگ مارن بررسی شده است و بیش&#8204;ترین هم&#8204;بستگی را با شاخص RQD نشان می&#173;دهد. اعتبارسنجی روابط مختلف بین Q-RMR با استفاده از نسبت خطا (ER) نشان می&#8204;دهد که رابطۀ کامرون و همکاران (1981) و مورنو (1982) دارای کم&#8204;ترین نسبت خطا است و در سنگ&#173;های مارنی بررسی شده دارای بیش&#8204;ترین اعتبار است. رابطۀ بنیاوسکی (1989) تعیین&#173;کننده حدپایینی منحنی Q-RMR و رابطۀ کامرون و&#160; همکاران (1981) حد بالایی این رابطه در سنگ&#173;های مارنی است.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Marly rocks of Abtalkh formation were classified by Q, RMR, RSR and RQD rock mass classification systems using 222 meters logs from exploratory boreholes in Doosti dam site. The results show that the RMR is the most suitable method for classification of studied rock masses and has highest correlation coefficient with RQD. The validity of different Q-RMR equations was studied using error ratio (ER). Cameron et al. (1981) and Morno (1982) equations have lowest ER and highest validity for studied marlstones. Bieniawski (1989) and Cameron (1981) relationships are lower and higher limits of equations for marly rocks respectively.&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>3427</FPAGE>
+			<TPAGE>3444</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>حامد</Name>
+				<MidName></MidName>
+				<Family>رضایی</Family>
+				<NameE>hamed</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>rezaiy</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه گلستان</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه گلستان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>rezaiy.hamed@gmail.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>ماشالله</Name>
+				<MidName></MidName>
+				<Family>خامه چیان</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه تربیت مدرس</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه تربیت مدرس</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Engineering classification of rock masses</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>marlstones</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>geological engineering</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Doosti dam</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Abtalkh formation</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>طبقه بندی مهندسی توده سنگ</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سنگ های مارنی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>زمین شناسی مهندسی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سد دوستی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سازند آب تلخ</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1. Ghiasi V. Husaini O.H., Rostami J., Zainuddin B., Ghiasi S., Huat B.K., Ratnasamy M., &quot;Geotechnical and geological studies of NWCT tunnel in Iran focusing on the stabilization analysis and design of support :A case study. Scientific Research and Essays&quot;, 6 (1) (2011) 79-97.## 2. Bieniawski Z.T., &quot;Engineering Rock Mass Classifications&quot;, Wiley, New York (1989) 251. ## 3. Robert H., &quot;An evaluation of slope stability classification, ISRM EUROCK&quot;, Sociedade Portuguesa de Geotecnia. Portugal, Madeira, Funchal (2002) 3-32. ## 4. Romana M., &quot;DMR (an adaptation of RMR), a new geomechanics classification for using dams foundations&quot;, Universidad politechnica de Valencia, Spain (2004). ## 5. Edelbro C., &quot;Evalution of rock mass strength&quot;, Lulea University of technology ( 2004). ## [1]	6. احمدی م.، نجاتی ح.، تخمین ضریب بهرهوری TBM بر اساس شاخصهای سیستم طبقهبندی مهندسی سنگ و نیروی نفوذ ماشین، نشریۀ مهندسی معدن ، دورۀ پنجم، شمارۀ دهم (1389) 65-72. ## 7. دادخواه ر.، اجل‌لوئیان ر.، هاشمی‌اصفهانیان م.، محمدی‌کوجانی ج.، برآورد پارامترهای ژئومکانیکی توده سنگ‌های دربرگیرنده مسیر تونل‌های متروی اصفهان قطعه جنوبی(صفه-آزادی)، مجموعه مقالات نهمین همایش انجمن زمینشناسی ایران، دانشگاه تربیت معلم تهران (1384) 84-91. ## 8. Hosseinitoudeshki V., Vosoughikargazloo A.A., Noori Gheidari M.H., Sarveram H., &quot;Influences of crushed fault zone in the stability of Zaker-Sorkhedizaj tunnel&quot;, NW Iran. Middle-East Journal of Scientific Research 12 (10) (2012) 1426-1434. ## 9. بشیرگنبدی م.، ارومیه‌ای ع. ، نیکودل م.ر.، لشکری‌پور غ. ر.، ارزیابی کارآیی رده‌بندی RMR در پیش‌بینی رفتار مهندسی سازند شمشک در حفریات زیرزمینی منطقۀ سیاه بیشه، مجموعه مقالات ششمین کنفرانس زمین‌ شناسی مهندسی و محیط زیست ایران (1388) 753-764. ## 10. رضایی ح.، خصوصیات زمین‌شناسی مهندسی سنگ‌های مارنی ساختگاه سد دوستی، پایان‌نامۀ کارشناسی ارشد زمین‌شناسی مهندسی، دانشگاه تربیت مدرس (1379) 204. ## 11. امیری ص.، محمدی ا.، برآورد پارامترهای ژئومکانیکی توده سنگ‌های واقع در محل ساختگاه سد خرسان 3، هشتمین همایش انجمن زمین‌شناسی مهندسی و محیط زیست ایران، دانشگاه فردوسی مشهد (1392) 716-722. ## 12. Ramamurthy T., &quot;Penetration rate of TBMs”. World Tunnel Congress-Underground Facilities for Better Environment and Safety&quot;, India (2008) 1552-1563. ## 13. اجللوئیان ر.، داوودی د.، رده‌بندی توده سنگ، روشی کاربردی در مهندسی عمران، ترجمه، انتشارات فن آوران (1382) 349. ## 14. Palmstroom A., Singh R.,&quot;The deformation modulus of masses comparisons between in- situ tests and indirect estimates&quot;, Tunneling Underground Space Technol, Vol. 16 (2001) 31-115. ## 15. بشری ع.، اعتبارسنجی آماری روابط تجربی تعیین مدول تغییرشکل پذیری توده سنگ، پایان‌نامۀ کارشناسی ارشد رشته مهندسی معدن، دانشگاه تهران (1388) 124. ## 16. Verman M., Singh B., Viladkar M.N., &quot;Effect of Tunnel Depyh on Modulus of Deformation of Rock Mass&quot;, J.L.Jethwa Rock Mech. Rock Engng.Vol.30 (3) (1997) 121-127. ## 17. Mehrotra V.K., &quot;Estimation of engineering parameters of rock mass&quot;, Ph.D. Thesis Department of Civil Engineering, University of roorkee, India (1992). ## 18. زارع م.، ترابی س.ر.، مطالعه آزمایشگاهی تأثیر مواد پرکننده برمقاومت برشی ناپیوستگی‌های سنگی، هشتمین کنگره بین‌الملی مهندسی عمران، دانشگاه شیراز (1388). ## 19. رضایی ح.، تقوی س.ا.، کاربرد آمار در علوم زمین، انتشارت دانشگاه گلستان، (1394) 351. ## 20. Castro F., Diego C., Ballester M., Alvarez G., &quot;Correlation between Bieniawski’s RMR and Barton’s Q Index in Low-Quality Soils&quot;, Revista de la Construccion, Vol. 9 (2010) 107-119. ## 21. کیانی ر.، مزایای برآورد پارامترهای ژئومکانیکی در مقایسه با آزمایشات برجا و معرفی یک رابطه جدید، طرح ملی گاوشان – تونل انتقال آب گاوشان (1383) 1-13. ## 22. Hossaini S.M., Nezhadshahmohamad F., Dadkhah M., &quot;Stability Assessment and Support Design for Water Deviation Binary Tunnels of Bakhtiyari Dam-Iran&quot;, 11th Underground Coal Operators Conference, University of Wollongong &amp; the Australasian Institute of Mining and Metallurgy (2011) 99-104. ## 23. Munir K., Farooq K., Mujtaba H., &quot;A comparative analysis of rock mass classification systems for Hydropower projects of Pakistan&quot;, Pakistan Journal of Science, Vol.(65), No.(1) (2013) 108-113. ## 24. Cosar S., &quot;Application of rock mass classification systems for future support design of the DIM tunnel near alanya&quot;, In partial fulfillment of the requirements for the degree of master of science in Mining engineering (2004). ## ##1. Ghiasi V. Husaini O.H., Rostami J., Zainuddin B., Ghiasi S., Huat B.K., Ratnasamy M., &quot;Geotechnical and geological studies of NWCT tunnel in Iran focusing on the stabilization analysis and design of support :A case study. Scientific Research and Essays&quot;, 6 (1) (2011) 79-97.## 2. Bieniawski Z.T., &quot;Engineering Rock Mass Classifications&quot;, Wiley, New York (1989) 251. ## 3. Robert H., &quot;An evaluation of slope stability classification, ISRM EUROCK&quot;, Sociedade Portuguesa de Geotecnia. Portugal, Madeira, Funchal (2002) 3-32. ## 4. Romana M., &quot;DMR (an adaptation of RMR), a new geomechanics classification for using dams foundations&quot;, Universidad politechnica de Valencia, Spain (2004). ## 5. Edelbro C., &quot;Evalution of rock mass strength&quot;, Lulea University of technology ( 2004). ## [1]	6. احمدی م.، نجاتی ح.، تخمین ضریب بهرهوری TBM بر اساس شاخصهای سیستم طبقهبندی مهندسی سنگ و نیروی نفوذ ماشین، نشریۀ مهندسی معدن ، دورۀ پنجم، شمارۀ دهم (1389) 65-72. ## 7. دادخواه ر.، اجل‌لوئیان ر.، هاشمی‌اصفهانیان م.، محمدی‌کوجانی ج.، برآورد پارامترهای ژئومکانیکی توده سنگ‌های دربرگیرنده مسیر تونل‌های متروی اصفهان قطعه جنوبی(صفه-آزادی)، مجموعه مقالات نهمین همایش انجمن زمینشناسی ایران، دانشگاه تربیت معلم تهران (1384) 84-91. ## 8. Hosseinitoudeshki V., Vosoughikargazloo A.A., Noori Gheidari M.H., Sarveram H., &quot;Influences of crushed fault zone in the stability of Zaker-Sorkhedizaj tunnel&quot;, NW Iran. Middle-East Journal of Scientific Research 12 (10) (2012) 1426-1434. ## 9. بشیرگنبدی م.، ارومیه‌ای ع. ، نیکودل م.ر.، لشکری‌پور غ. ر.، ارزیابی کارآیی رده‌بندی RMR در پیش‌بینی رفتار مهندسی سازند شمشک در حفریات زیرزمینی منطقۀ سیاه بیشه، مجموعه مقالات ششمین کنفرانس زمین‌ شناسی مهندسی و محیط زیست ایران (1388) 753-764. ## 10. رضایی ح.، خصوصیات زمین‌شناسی مهندسی سنگ‌های مارنی ساختگاه سد دوستی، پایان‌نامۀ کارشناسی ارشد زمین‌شناسی مهندسی، دانشگاه تربیت مدرس (1379) 204. ## 11. امیری ص.، محمدی ا.، برآورد پارامترهای ژئومکانیکی توده سنگ‌های واقع در محل ساختگاه سد خرسان 3، هشتمین همایش انجمن زمین‌شناسی مهندسی و محیط زیست ایران، دانشگاه فردوسی مشهد (1392) 716-722. ## 12. Ramamurthy T., &quot;Penetration rate of TBMs”. World Tunnel Congress-Underground Facilities for Better Environment and Safety&quot;, India (2008) 1552-1563. ## 13. اجللوئیان ر.، داوودی د.، رده‌بندی توده سنگ، روشی کاربردی در مهندسی عمران، ترجمه، انتشارات فن آوران (1382) 349. ## 14. Palmstroom A., Singh R.,&quot;The deformation modulus of masses comparisons between in- situ tests and indirect estimates&quot;, Tunneling Underground Space Technol, Vol. 16 (2001) 31-115. ## 15. بشری ع.، اعتبارسنجی آماری روابط تجربی تعیین مدول تغییرشکل پذیری توده سنگ، پایان‌نامۀ کارشناسی ارشد رشته مهندسی معدن، دانشگاه تهران (1388) 124. ## 16. Verman M., Singh B., Viladkar M.N., &quot;Effect of Tunnel Depyh on Modulus of Deformation of Rock Mass&quot;, J.L.Jethwa Rock Mech. Rock Engng.Vol.30 (3) (1997) 121-127. ## 17. Mehrotra V.K., &quot;Estimation of engineering parameters of rock mass&quot;, Ph.D. Thesis Department of Civil Engineering, University of roorkee, India (1992). ## 18. زارع م.، ترابی س.ر.، مطالعه آزمایشگاهی تأثیر مواد پرکننده برمقاومت برشی ناپیوستگی‌های سنگی، هشتمین کنگره بین‌الملی مهندسی عمران، دانشگاه شیراز (1388). ## 19. رضایی ح.، تقوی س.ا.، کاربرد آمار در علوم زمین، انتشارت دانشگاه گلستان، (1394) 351. ## 20. Castro F., Diego C., Ballester M., Alvarez G., &quot;Correlation between Bieniawski’s RMR and Barton’s Q Index in Low-Quality Soils&quot;, Revista de la Construccion, Vol. 9 (2010) 107-119. ## 21. کیانی ر.، مزایای برآورد پارامترهای ژئومکانیکی در مقایسه با آزمایشات برجا و معرفی یک رابطه جدید، طرح ملی گاوشان – تونل انتقال آب گاوشان (1383) 1-13. ## 22. Hossaini S.M., Nezhadshahmohamad F., Dadkhah M., &quot;Stability Assessment and Support Design for Water Deviation Binary Tunnels of Bakhtiyari Dam-Iran&quot;, 11th Underground Coal Operators Conference, University of Wollongong &amp; the Australasian Institute of Mining and Metallurgy (2011) 99-104. ## 23. Munir K., Farooq K., Mujtaba H., &quot;A comparative analysis of rock mass classification systems for Hydropower projects of Pakistan&quot;, Pakistan Journal of Science, Vol.(65), No.(1) (2013) 108-113. ## 24. Cosar S., &quot;Application of rock mass classification systems for future support design of the DIM tunnel near alanya&quot;, In partial fulfillment of the requirements for the degree of master of science in Mining engineering (2004). ##  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>ارزیابی ریسک محیط زیستی سد پاوه‌رود زنجان در مرحله ساختمانی با استفاده از تلفیق روش های TOPSIS و RAM-D</TitleF>
+		<TitleE>Assessing Environmental Risk Caused by Zanjan’s Paverood Dam in its Construction Stage Using a combination of TOPSIS and RAM-D Methods</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>هدف از انجام این تحقیق، شناخت، بررسی و ارزیابی ریسک سد پاوه&#8204;رود در مرحلۀ ساختمانی است. پس از جمع&#8204;آوری و بررسی اطلاعات مربوط به شرایط محیط&#8204;زیست منطقۀ بررسی شده و شرایط فنی ساخت سد، لیستی از عوامل احتمالی ریسک به&#8204;صورت پرسش&#8204;نامه تهیه و برای بررسی صحت آن&#8204;ها، در اختیار گروهی متخصص شامل نخبگان و اساتید در رشته&#8204;های مرتبط با محیط زیست و عمران سد قرارگرفت. تعداد پرسش&#8204;نامه&#8204;ها بر اساس فرمول کوکران تعیین شد. بدین&#8204;صورت که ابتدا، به&#8204;منظور تحلیل پرسش&#8204;نامه&#8204;های به&#8204;دست آمده و ریسک&#8204;های موجود در منطقه در قالب طیف لیکرت، از گروه کارشناسی در تحقیق خواسته شد تا امتیازدهی کنند. پس از تجزیه و تحلیل امتیازات داده شده با استفاده از یافته&#8204;های روش 1PHA، از روش 2TOPSIS به&#8204;منظور اولویت&#8204;بندی ریسک&#8204;های شناسایی شدۀ سد پاوه&#8204;رود استفاده شد. نتایج به&#8204;دست آمده از این روش نشان داد که از بین 36 عامل ریسک، فرسایش در اولویت اول قرار گرفت.&#160;پس از اولویت&#8204;بندی بین عوامل ریسک، ارزیابی ریسک با استفاده از روش 1RAM-D صورت گرفت که تأثیر بر منطقه حفاظت شده سرخ&#8204;آباد با امتیاز 9، فرسایش با امتیاز 6 و کار در ارتفاع با امتیاز 3 مهم&#8204;ترین ریسک&#8204;های سد پاوه&#8204;رود شناخته شدند. به&#8204;منظور کاهش اثرات ریسک&#8204;های سد در فاز ساختمانی برنامه مدیریت محیط&#8204;زیستی ضروری است و بدین&#8204;منظور برای رویارویی با ریسک&#8204;های شناسایی شده، در انتها گزینه&#8204;های کاهش ریسک پیشنهاد شد.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Objective of the present research is to identify, analyze, and assess risk of Paveroud Dam during construction phase. Following collection and analysis of the information related to environmental conditions of the area of study and technical specifications of dam construction, a list of probable risk factors was prepared in the form of a questionnaire, and for verification, the questionnaires were provided to a group of specialists consisting of elites and professors specialized at the disciplines relevant to environment and civil engineering. Number of questionnaires was determined based on Cochran&#8217;s formula. In the first step, the expert group in the research was asked to score in Likert scale format so as to analyze the acquired responses and the risks present in the region. Having analyzed the scores using the findings of PHA method, TOPSIS technique was applied to prioritize the identified risks of Paveroud Dam. The results indicated that erosion had the highest priority among 36 risk factors. After prioritization among the risk factors, risk was also assessed using RAM-D technique in which &#8220;impact on Sorkhabad Protected Zone with 9 scores, &#8220;erosion&#8221; with 6 scores, and &#8220;work at high elevation&#8221; with 3 scores were recognized as three major risks of Paveroud Dam. In order to mitigate the effects of dam risks during construction phase, environmental management planning is crucial, and for this purpose, risk mitigation choices were recommended at the end aimed at coping with the identified risks.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>3445</FPAGE>
+			<TPAGE>3464</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>سحر</Name>
+				<MidName></MidName>
+				<Family>رضائیان</Family>
+				<NameE>sahar</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>rezaian</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد اسلامی واحد شاهرود، دانشکده علوم‌پایه</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشیار گروه محیط زیست، دانشکده فنی و مهندسی،دانشگاه آزاد اسلامی واحد تهران شمال</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>s_rezaian@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>سیدعلی</Name>
+				<MidName></MidName>
+				<Family>جوزی</Family>
+				<NameE>seyed ali</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>jozi</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد اسلامی واحد تهران شمال، دانشکده فنی و مهندسی، گروه محیط زیست،</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد اسلامی واحد تهران</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>sajozi@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>صدف</Name>
+				<MidName></MidName>
+				<Family>عطائی</Family>
+				<NameE>sadaf</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>ataee</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد اسلامی واحد علوم و تحقیقات تهران</Organization>
+				</Organizations>
+				<Universities>
+				<University>کارشناس ارشد محیط زیست، ارزیابی و آمایش سرزمین، دانشگاه آزاد اسلامی واحد علوم و تحقیقات تهران</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>sadaf_ataee@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Environmental risk Assessment</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Dam</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>TOPSIS method</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>RAM-D method</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>PHA method</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ارزیابی ریسک محیط زیستی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سد</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>روش TOPSIS</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>روشRAM-D</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>ارزیابی مقدماتی ریسک</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>. نیکبخت مریم، شامحمدی حیدری زمان، ارزیابی اثرات زیست‌محیطی مرحله بهره‌برداری سد سردشت در استان خوزستان، فصل‌نامۀ علمی پژوهشی آب و فاضلاب، دورۀ 15، شمارۀ 52، (1383) 67-70.## 2. Matalucci Rudolph V., &quot;Risk Assessment Methodology for Dams (RAM-D)&quot;, Proceeding of Management, San Juan, Pueto Rico, USA (2002) 23-28. ## 3. Heller S., &quot;Managing industrial risk-Having a tested and proven system to prevent and assess risk&quot;, Journal of Hazardous Materials, Volume 130, Issues 1-2, 17 (2006) 58-63. ## 4. خسروانی هدا، سیستم‌های استفاده از چند معیار تصمیم‌گیری (MADM) و مدل RAM-D در فاز ارزیابی از ساخت و ساز سد (مطالعه موردی: سد رودبار لرستان)، پایان‌نامۀ کارشناسی ارشد (1390). ## 5. درویشی سحر، ملماسی سعید، نظری‌دوست علی، ارزیابی ریسک زیست محیطی سد صیدون خوزستان در مرحله ساختمانی با استفاده از روش‌های تصمیم گیری چند شاخصه، سومین کنفرانس برنامه‌ریزی و مدیریت محیط زیست، تهران، دانشگاه تهران (1392). ## 6. جوزی سیدعلی، سیف‌السادات سیده حمید، ارزیابی ریسک محیط‌ زیستی سد گتوند علیا در مرحلۀ بهره‌برداری با استفاده از روش تلفیقی آنالیز مقدماتی خطر و تکنیک EFMEA، مجلۀ محیط شناسی، دورۀ 40، شمارۀ 1 (1393) 107-120. ## 7. Bowles D., &quot;Portfolio Risk Assessment (PRA): A Tool For Dam Safety Risk Management&quot;, Proceedings of the USCOLD Annual lecture, Buffalo, New York (1998). ## 8. مهندسین مشاور تماوان، گزارش مطالعه محیط زیستی سد پاوه رود (1380). ## 9. سرمد زهره، بازرگان عباس، حجازی الهه، روش‌های تحقیق در علوم رفتاری، ویرایش اول, چاپ بیست و پنجم، نشر آگه (1392). ## 10. محمدفام ایرج، تکنیک‌های آنالیز ایمنی، آنالیز مقدماتی خطر، همدان، نشر فن آوران (1384). ## 11. حلوانی غلامحسین، زارع محسن، مهندسی ایمنی سیستم‌ها و مدیریت ریسک، نشر آثار سبحان (1390). ## 12. مؤمنی منصور، مباحث نوین تحقیق در عملیات، دانشگاه تهران (1389). ## 13. جوزی سید علی، ارزیابی و مدیریت ریسک، دانشگاه آزاد اسلامی واحد تهران شمال (1387). ## ##. نیکبخت مریم، شامحمدی حیدری زمان، ارزیابی اثرات زیست‌محیطی مرحله بهره‌برداری سد سردشت در استان خوزستان، فصل‌نامۀ علمی پژوهشی آب و فاضلاب، دورۀ 15، شمارۀ 52، (1383) 67-70.## 2. Matalucci Rudolph V., &quot;Risk Assessment Methodology for Dams (RAM-D)&quot;, Proceeding of Management, San Juan, Pueto Rico, USA (2002) 23-28. ## 3. Heller S., &quot;Managing industrial risk-Having a tested and proven system to prevent and assess risk&quot;, Journal of Hazardous Materials, Volume 130, Issues 1-2, 17 (2006) 58-63. ## 4. خسروانی هدا، سیستم‌های استفاده از چند معیار تصمیم‌گیری (MADM) و مدل RAM-D در فاز ارزیابی از ساخت و ساز سد (مطالعه موردی: سد رودبار لرستان)، پایان‌نامۀ کارشناسی ارشد (1390). ## 5. درویشی سحر، ملماسی سعید، نظری‌دوست علی، ارزیابی ریسک زیست محیطی سد صیدون خوزستان در مرحله ساختمانی با استفاده از روش‌های تصمیم گیری چند شاخصه، سومین کنفرانس برنامه‌ریزی و مدیریت محیط زیست، تهران، دانشگاه تهران (1392). ## 6. جوزی سیدعلی، سیف‌السادات سیده حمید، ارزیابی ریسک محیط‌ زیستی سد گتوند علیا در مرحلۀ بهره‌برداری با استفاده از روش تلفیقی آنالیز مقدماتی خطر و تکنیک EFMEA، مجلۀ محیط شناسی، دورۀ 40، شمارۀ 1 (1393) 107-120. ## 7. Bowles D., &quot;Portfolio Risk Assessment (PRA): A Tool For Dam Safety Risk Management&quot;, Proceedings of the USCOLD Annual lecture, Buffalo, New York (1998). ## 8. مهندسین مشاور تماوان، گزارش مطالعه محیط زیستی سد پاوه رود (1380). ## 9. سرمد زهره، بازرگان عباس، حجازی الهه، روش‌های تحقیق در علوم رفتاری، ویرایش اول, چاپ بیست و پنجم، نشر آگه (1392). ## 10. محمدفام ایرج، تکنیک‌های آنالیز ایمنی، آنالیز مقدماتی خطر، همدان، نشر فن آوران (1384). ## 11. حلوانی غلامحسین، زارع محسن، مهندسی ایمنی سیستم‌ها و مدیریت ریسک، نشر آثار سبحان (1390). ## 12. مؤمنی منصور، مباحث نوین تحقیق در عملیات، دانشگاه تهران (1389). ## 13. جوزی سید علی، ارزیابی و مدیریت ریسک، دانشگاه آزاد اسلامی واحد تهران شمال (1387). ##  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>رسوب ‌شناسی ترکیب نهشته‌های رودخانه شربیان به عنوان ماده اولیه آسفالت گرم و بهینه‌سازی آن با استفاده از آهک هیدراته</TitleF>
+		<TitleE>Sedimentology of fluvial deposits composition of Sharbyan River as raw material for hot asphalt and its optimization using hydrated lime</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>رودخانۀ شربیان در استان آذربایجان&#173;شرقی، شهرستان سراب،&#173;&#173;&#173;&#173;&#173;&#173;&#173;&#173; دهستان شربیان واقع است. رسوبات این رودخانه از واحدهای سنگی متعلق به الیگومیوسن و میوسن تأمین می&#173;شود که شامل واحدهای سنگی کنگلومرا، ماسه&#173;سنگ، آهک، مارن و شیل است. این رسوبات مواد اولیۀ آسفالت دو کارخانۀ آسفالت گرم را که در مجاورت رودخانه ساخته شده&#173;اند، تأمین می&#173;کند و آسفالت تهیه شده عمدتاً در استان&#173;های مجاور استفاده می&#173;شود که آب و هوای نسبتاً سرد دارند. آنالیز ترکیبی این رسوبات بیان&#8204;گر میزان سیلیس زیاد (60 درصد) است و آسفالت&#173;هایی که از این رسوبات تهیه می&#173;شوند، در فصول سرد سال مستعد پدیدۀ عریان&#173;شدگی می&#8204;شوند. طی این فرایند، با نفوذ رطوبت به&#8204;داخل مصالح سنگی و مخلوط آسفالتی، اتصال قیر- مصالح تضعیف شده و زمینه برای تخریب آسفالت فراهم می&#173;گردد. با توجه به این&#8204;که نقش رسوبات و تأثیر آن در کیفیت آسفالت در این منطقه بررسی نشده است، از این رو، در این پژوهش علاوه بر پرداختن به&#8204;علت رسوب&#173;شناسی تخریب آسفالت، راه&#173;حل&#8204;های مقابله با این پدیده نیز بررسی و ارائه شده است. این تحقیق بر اساس روش&#173;های مرسوم رسوب&#173;شناسی، استانداردهای مختلف ASTM،AASHTO و نیز آیین&#173;نامه&#173;های راه&#8204;سازی و دستورالعمل&#173;های وزارت راه و شهرسازی صورت گرفته است. در این پژوهش برای مقابله با پدیدۀ عریان&#173;شدگی، از تأثیر توأم آهک هیدراته (فیلر آهکی) و فیلر طبیعی مصالح سنگی با نسبت&#8204;های متفاوت (با 3-5/1 درصد آهک&#160;هیدراته) استفاده شده و پارامترهای استحکام، نرمی، مقاومت کششی غیرمستقیم به&#8204;عنوان معیارهایی برای ارزیابی کیفیت و دوام آسفالت در مقابل پدیدۀ عریان&#8204;شدگی ارزیابی شده است. نتایج تحقیق بیان&#8204;گر آن است که با اضافه کردن افزودنی&#173;های مذکور در نسبت&#173;های مختلف، پارامترهای مذکور تغییر یافته و نسبت به حالت اولیه بهتر می&#173;گردند. از این رو، آسفالت تولیدی دارای کیفیت و دوام بیش&#8204;تری نسبت به&#8204;روش&#8204;ها و طرح&#8204;های گذشته است. بر اساس این نتایج، درجه عریان&#8204;شدگی در حداکثر حالت این نسبت یعنی با ترکیب 3 درصد آهک، به عدد 1 رسیده و با افزایش و بهبود سایر پارامترها، پدیدۀ عریان&#8204;شدگی تقریباً از بین می&#173;رود. بر این اساس، به&#8204;کارگیری نتایج این تحقیق می&#173;تواند از تخریب جاده&#173;های آسفالتی بکاهد و از لحاظ اقتصادی بسیار مطلوب واقع گردد.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>The Sharbyan river is located in the Sharbyan village, Sarab, East Azarbaijan province. This river alluvials are supplied from rock units belonging to Oligo-miocene and Miocene, including conglomerate, sandy lime, limestone, marl and shale. These deposits are used as raw materials of producing hot asphalt in two asphalt plants that have been built in the vicinity of this river, and the produced asphalt is used mainly in the neighbor provinces that have rather cold climate. Combined analysis of the sediments indicate high level of silica, around 60 percent, for which&#160; the prepared asphalt&#160; is prone to stripping phenomenon in the cold seasons. During this process, the moisture penetration in aggregates and asphalt mixtures, causes weakening bitumen-asphalt materials bounding and finally asphalt demolition.&#160; The role of sediments and its impact on the quality of asphalt has not been studied in this area, therefore, the solutions for dealing with this phenomenon is also examined and presented. This study is based on the conventional sedimentology methods, different standards of ASTM, AASHTO and Ministry of Roads and Urban Development guidelines. In this study, the combined effects of hydrated lime (lime filler) and natural filter materials with different proportions was used to deal with the stripping phenomenon, and&#160; the parameters of strength, softness, indirect tensile strength, asphalt quality and durability criteria, have been appraised. The results show that these parameters are improved using additives in various proportions and the produced asphalt quality and durability is better. The results illustrate, when the lime is used in its maximum ratio of 3%, stripping score is 1 and is disappeared by other parameters improvement</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>3465</FPAGE>
+			<TPAGE>3482</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>عباس</Name>
+				<MidName></MidName>
+				<Family>ضیغمی</Family>
+				<NameE>abbas</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>zeighmi</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد اسلامی واحد اهر، گروه زمین شناسی، اهر، ایران</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد اسلامی واحد اهر</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>tsml_54@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>ناصر</Name>
+				<MidName></MidName>
+				<Family>عبدی</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه آزاد اسلامی واحد اهر، گروه زمین شناسی، اهر، ایران</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه آزاد اسلامی واحد اهر</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>1234@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Hot Asphalt</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Hydrated Lime</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Indirect Tensile Strength</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Stability and Flow</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Stripping</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>آسفالت گرم</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>آهک هیدراته</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>استحکام و نرمی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>عریان‌شدگی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مقاومت کششی غیر‌مستقیم</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1.	دفتر آموزش شرکت سهامی آزمایشگاه فنی و مکانیک خاک، مفاهیم پایه آسفالت، معاونین فنی مراکز استان‌ها (1385).## 2.	فخری م.، بوالحسنی م.، بررسی تأثیر استفاده هم‌زمان فیلر آهکی و آنتی‌استریپینگ مایع بر روی خرابی عریان‌شدگی بتن آسفالتی گرم، دانشگاه فردوسی مشهد (1389). ## 3.	الیاسی م.، باقریه ع.، اثر سیمان در کاهش حساسیت مخلوط‌های آسفالتی گرم به رطوبت، دانشگاه ملایر (1391). ## 4.	کیانی س.، بهبود خصوصیات عملکردی آسفالت با استفاده از سرباره کلوخه‌ای ذوب‌آهن، دانشگاه آزاد واحد نجف آباد (1389). ## 5.	نوبخت ش.، عابدی ح.، تأثیر نوع دانه‌بندی بر حساسیت رطوبتی مخلوط‌های آسفالتی گرم، دانشگاه فردوسی مشهد (1389). ## 6.	مزاری م.، تأثیر فیلر بر تغییر شکل‌های دائمی بتن آسفالتی روسازی‌ها، دانشگاه علم و صنعت ایران (1384). ## 7.	سرائی پور م.، آسفالت، انتشارات دهخدا. چاپ چهارم (1377). ## 8.	سازمان زمین شناسی و اکتشافات معدنی کشور، نقشه زمین شناسی چهارگوش قره چمن – ترکمنچای به مقیاس 1:100000(1377). ## 9.	فاروقی ف.، مصالح، طراحی و ساخت روسازی آسفالتی، چاپ اول. دانشگاه کردستان (1389). ## 10.	سازمان مدیریت و برنامه‌ریزی، مشخصات فنی عمومی راه، نشریه 101، تجدید نظر دوم (1392). ## 11.	معاونت برنامه‌ریزی و نظارت، آیین‌نامه روسازی آسفالتی راه‌های ایران، نشریه 234، تجدید نظر اول (1390). ## 12.	Little, Dallas N., Epps J.A., &quot;Hydrated Lime-More Than Just A Filler&quot;, National Lime Association, USA. (2001). ## 13.	Buttlar W.G., Bozkurt D.A. Khateeb G.G., Waldorf A.S., &quot;Understanding Asphalts Mastic Behavior through Micromechanics&quot;, Proc., Annual Meeting, Transportation Research Board, Washington, D.C. (1999). ## 14.	AASHTO: T2, &quot;Standard Method of Testing For Sampling of Aggregates&quot;.## 15.	AASHTO: T27, &quot;Standard Method of Test for Sieve Analysis of Fine and Coarse Aggregates&quot;.## 16.	ASTM D1559-89, &quot;Standard Test Method for Resistance to Plastic Flow of Bituminous Mixtures Using Marshall Apparatus. 1994 Annual Book of ASTM Standards&quot;, Volume 04.03, American Society for Testing and Materials, Philadelphia 19103-1187.ASTM (1994). ## 17.	AASHTO: T283, &quot;Standard Method of Test for Resistance of Compacted for Hot Mix Asphalt (HMA) of Moisture Induced Damage&quot;.## ##1.	دفتر آموزش شرکت سهامی آزمایشگاه فنی و مکانیک خاک، مفاهیم پایه آسفالت، معاونین فنی مراکز استان‌ها (1385).## 2.	فخری م.، بوالحسنی م.، بررسی تأثیر استفاده هم‌زمان فیلر آهکی و آنتی‌استریپینگ مایع بر روی خرابی عریان‌شدگی بتن آسفالتی گرم، دانشگاه فردوسی مشهد (1389). ## 3.	الیاسی م.، باقریه ع.، اثر سیمان در کاهش حساسیت مخلوط‌های آسفالتی گرم به رطوبت، دانشگاه ملایر (1391). ## 4.	کیانی س.، بهبود خصوصیات عملکردی آسفالت با استفاده از سرباره کلوخه‌ای ذوب‌آهن، دانشگاه آزاد واحد نجف آباد (1389). ## 5.	نوبخت ش.، عابدی ح.، تأثیر نوع دانه‌بندی بر حساسیت رطوبتی مخلوط‌های آسفالتی گرم، دانشگاه فردوسی مشهد (1389). ## 6.	مزاری م.، تأثیر فیلر بر تغییر شکل‌های دائمی بتن آسفالتی روسازی‌ها، دانشگاه علم و صنعت ایران (1384). ## 7.	سرائی پور م.، آسفالت، انتشارات دهخدا. چاپ چهارم (1377). ## 8.	سازمان زمین شناسی و اکتشافات معدنی کشور، نقشه زمین شناسی چهارگوش قره چمن – ترکمنچای به مقیاس 1:100000(1377). ## 9.	فاروقی ف.، مصالح، طراحی و ساخت روسازی آسفالتی، چاپ اول. دانشگاه کردستان (1389). ## 10.	سازمان مدیریت و برنامه‌ریزی، مشخصات فنی عمومی راه، نشریه 101، تجدید نظر دوم (1392). ## 11.	معاونت برنامه‌ریزی و نظارت، آیین‌نامه روسازی آسفالتی راه‌های ایران، نشریه 234، تجدید نظر اول (1390). ## 12.	Little, Dallas N., Epps J.A., &quot;Hydrated Lime-More Than Just A Filler&quot;, National Lime Association, USA. (2001). ## 13.	Buttlar W.G., Bozkurt D.A. Khateeb G.G., Waldorf A.S., &quot;Understanding Asphalts Mastic Behavior through Micromechanics&quot;, Proc., Annual Meeting, Transportation Research Board, Washington, D.C. (1999). ## 14.	AASHTO: T2, &quot;Standard Method of Testing For Sampling of Aggregates&quot;.## 15.	AASHTO: T27, &quot;Standard Method of Test for Sieve Analysis of Fine and Coarse Aggregates&quot;.## 16.	ASTM D1559-89, &quot;Standard Test Method for Resistance to Plastic Flow of Bituminous Mixtures Using Marshall Apparatus. 1994 Annual Book of ASTM Standards&quot;, Volume 04.03, American Society for Testing and Materials, Philadelphia 19103-1187.ASTM (1994). ## 17.	AASHTO: T283, &quot;Standard Method of Test for Resistance of Compacted for Hot Mix Asphalt (HMA) of Moisture Induced Damage&quot;.##  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>پهنه بندی خطرزمین لغزش در محدوده پی و مخزن سد پلرود با روش تحلیل سلسله مراتبی (AHP)</TitleF>
+		<TitleE>Landslide hazard zonatoin of Polroud Dam site using Analytic Hierarchical Process (AHP) method</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>مقاله حاضر نتیجۀ ارزیابی و پهنه&#8204;بندی خطرناپایدار&#8204;های دامنه&#8204;ای در محدودۀ بدنه و دریاچه سد پلرود را ارائه می&#8204;کند. سد مخزنی پلرود یکی از سدهایی است که در منطقۀ گیلان و در فاصلۀ 29 کیلومتری جنوب رودسر بر رودخانۀ پلرود در حال بررسی و ساخت است. شرایط ریخت&#8204;شناسی طبیعی از یک&#8204;سو و وجود نهشته&#8204;های تحکیم نیافته و سازندهای سنگی خرد شده ناشی از گسل&#8204;های موجود در ساختگاه سد از سوی دیگر، محل احداث بدنه سد و دریاچه آن را مستعد ناپایداری&#8204;های دامنه&#8204;ای ساخته است. بررسی سابقه تاریخی منطقه نیز بیان&#8204;گر پتانسیل زیاد دامنه&#8204;های منطقه برای ناپایداری&#8204;های دامنه&#8204;ای است. از جمله این ناپایداری&#8204;ها می&#173;توان به زمین&#8204;لغزش بزگ رخ داده در سال 1374 اشاره کرد که سبب خسارت&#8204;های فراوانی در منطقه شده است. از این&#8204;رو، تعیین مناطق پرخطر محدوده مخزن و ساختگاه پیش از آب&#8204;گیری آن ضرورت زیادی دارد. در این پژوهش با استفاده از عمده عوامل مؤثر در وقوع زمین&#173;لغزش، شامل درصد شیب، جهت&#160; شیب، لیتولوژی، فاصله از گسل، فاصله از جاده، فاصله از آبراهه، ارتفاع، پوشش گیاهی و میزان بارندگی، نقشۀ پهنه&#8204;بندی خطرزمین لغزش تهیه شده است. برای وزن&#8204;دهی به این عوامل، روش تحلیل مراتبی(AHP) در سیستم اطلاعات جغرافیایی(GIS)، استفاده شده&#173;است. نتایج این پژوهش نشان می&#8204;دهد که حدود 26 درصد از شیب&#8204;های مشرف به دریاچۀ سد در منطقه با خطر زیاد قرار می&#173;گیرند. هم&#8204;چنین مشخص شد که از بین عوامل 9&#8204;گانه که به&#8204;نحوی در وقوع زمین&#8204;لغزش منطقه نقش ایفا می&#8204;کنند، تأثیر جهت شیب و لیتولوژی نسبت به دیگر عوامل بیش&#8204;تر است</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>This paper presents landslide assessment and landslide hazard zonation of the Polroud Dam area. Polroud Dam is one of the largest dams that are in construction, 29 km south of Roudsar in Gilan Province. Considering to geomorphology and geological conditions of the area, the site is susceptible to landslide hazard. Field survey shows many evidences of the instabilities especially in the slopes overlooking to the dam and the reservoir. The historical record also demonstrates high potential of the region to slope instabilities. A large landslide that occurred in 1996 discern that the frequency of the hazard in the region. Therefore, Identification of the landslide potential hazard is vital before impounding the reservoir. In this study, we investigated landslide hazard in the site and we have prepared landslide hazard zonation map using the main parameters. These parameters include; slope percent, slope aspect, lithology, fault, roads, drainage catchment, elevation, vegetation and precipitation amount. Analytic Hierarchical Process (AHP) has been used to prepare and to cross the maps. The results show that about 26 percent of the slopes are situated in highly hazard zones. It was determined also that lithology and slope aspects play main role in occurring of the landslides in the study area.
+&#160;</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>3483</FPAGE>
+			<TPAGE>3500</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>محمد</Name>
+				<MidName></MidName>
+				<Family>کشاورز بخشایش</Family>
+				<NameE></NameE>
+				<MidNameE></MidNameE>
+				<FamilyE></FamilyE>
+				<Organizations>
+				<Organization>دانشگاه پیام نور</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه پیام نور مرکز زنجان</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>keshavarzm@yahoo.com</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>محمود</Name>
+				<MidName></MidName>
+				<Family>فلاح</Family>
+				<NameE>M</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Fallah</FamilyE>
+				<Organizations>
+				<Organization>شرکت ملی نفت ایران، فلات قاره</Organization>
+				</Organizations>
+				<Universities>
+				<University>شرکت ملی نفت ایران، فلات قاره</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Polroud Dam</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>landslide hazard</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>AHP</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>GIS</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سد پلرود</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>زمین ‌لغزش</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>پهنه‌بندی مدل AHP</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>سیستم اطلاعات جغرافیایی</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1.	Müller L., &quot;The Vaiont catastrophe-a personal review&quot;, Engineering Geology, Vol. 24 (1/4) (1987).## 2.	Saaty T.L., Vargas G.L., &quot;Models, Methods, Concepts, and Applications of the Analytic Hierarchy Process&quot;, Kluwer Academic Publisher, Boston (2001). ## 3.	احمدی ح.، اسمعلی ا.، فیض‌نیا س.، شریعت‌جعفری م.، پهنه‌بندی خطر حرکت‌های توده‌ای با استفاده از دو روش رگرسیون چند متغییره( MR) و تحلیل سلسله مراتبی سیستم‌ها (AHP) مطالعه موردی حوضه آبخیز گرمی چای، مجله منابع طبیعی ایران، نشریه شماره 4 (1382). ## 4.	فیض‌نیا س.، کلارستاقی ع.ا.، احمدی ح.، صفایی م.، بررسی عوامل مؤثر در وقوع زمین‌لغزش‌ها و پهنه‌بندی خطر زمین‌لغزش مطالعه موردی: حوزۀ آبخیز شیرین رود سد تجن، مجله منابع طبیعی، جلد 57. شمارۀ 1 (1383). ## 5.	شادفر ص.، مجتبی ی.، جمال ق.، جعفر غ.، پهنه‌بندی خطر زمین‌لغزش با استفاده از تحلیل سلسله مراتبی-مطالعه موردی حوزه آبخیزچالک‌رود، پژوهش و سازندگی در منابع طبیعی، شماره ‌75 (1376). ## 6.	عظیم‌پور ع.، حسن ص.، علی د.، محمدرضا ث.، ارزیابی نتایج مدل AHP در پهنه‌بندی خطر زمین لغزه - مطالعۀ موردی حوضۀ آبریز اهر چای، فضای جغرافیایی، جلد 9، شمارۀ 26 (1388). ## 7.	بهنیافر ا.، پروین ک.، کاربرد مدل AHP و منطق فازی در منطقه‌بندی خطرات زمین‌لغزش حوضۀ آبریز فریزی در دامنه شمالی کوه‌های بینالود، مجله جغرافیای طبیعی، سال سوم، شماره 9 (1389). ## 8.	میرصانعی ر.، محمدرضا م.، راهنمای تهیه نقشۀ پهنه‌بندی خطر زمین‌لغزش در ایران، کارگروه زلزله و لغزش لایه‌های زمین، پژوشکده سوانح طبیعی (1384). ## 9.	Chacon J., Irigaray C., Fernandez T.,&quot;Large to middle scale landslides inventory analysis and mapping with modeling and assessment of derived susceptibility&quot;, Hazards and risks in a GIS, 7th International IIAEG congress (1994) 4669-4678. ## 10.	Lee S., Min K.,&quot;Statistical analysis of landslide susceptibility at Yongin, Korea&quot;, Environmental Geology, 40 (2001) 1095-1113. ## 11.	Lee S., Pradhan B.,&quot;Landslide hazard mapping at Selangor, Malaysia using frequency ratio and logistic regression model&quot;, Landslides, 4 (1) (2007) 33-41. ## 12.	سازمان زمینشناسی و اکتشافات معدنی کشور، نقشۀ زمینشناسی چارگوش 1:100000 جواهرده (1380). ## 13.	Crippen R.E., &quot;Calculating the vegetation index faster,' Remote Sensing of Environment&quot;, Vol. 34 (1990) 71-73. ## 14.	سازمان هواشناسی کشور، گزارش ایستگاه‌های هواشناسی استان گیلان دردوره 45 ساله (1385). ## 15. Weier J., Herring D., &quot;Measuring Vegetation (NDVI EVI)&quot;, http:// earthobservatory.nasa.gov/Library/MeasuringVegetation/measuring_vegetation_1.html## ##1.	Müller L., &quot;The Vaiont catastrophe-a personal review&quot;, Engineering Geology, Vol. 24 (1/4) (1987).## 2.	Saaty T.L., Vargas G.L., &quot;Models, Methods, Concepts, and Applications of the Analytic Hierarchy Process&quot;, Kluwer Academic Publisher, Boston (2001). ## 3.	احمدی ح.، اسمعلی ا.، فیض‌نیا س.، شریعت‌جعفری م.، پهنه‌بندی خطر حرکت‌های توده‌ای با استفاده از دو روش رگرسیون چند متغییره( MR) و تحلیل سلسله مراتبی سیستم‌ها (AHP) مطالعه موردی حوضه آبخیز گرمی چای، مجله منابع طبیعی ایران، نشریه شماره 4 (1382). ## 4.	فیض‌نیا س.، کلارستاقی ع.ا.، احمدی ح.، صفایی م.، بررسی عوامل مؤثر در وقوع زمین‌لغزش‌ها و پهنه‌بندی خطر زمین‌لغزش مطالعه موردی: حوزۀ آبخیز شیرین رود سد تجن، مجله منابع طبیعی، جلد 57. شمارۀ 1 (1383). ## 5.	شادفر ص.، مجتبی ی.، جمال ق.، جعفر غ.، پهنه‌بندی خطر زمین‌لغزش با استفاده از تحلیل سلسله مراتبی-مطالعه موردی حوزه آبخیزچالک‌رود، پژوهش و سازندگی در منابع طبیعی، شماره ‌75 (1376). ## 6.	عظیم‌پور ع.، حسن ص.، علی د.، محمدرضا ث.، ارزیابی نتایج مدل AHP در پهنه‌بندی خطر زمین لغزه - مطالعۀ موردی حوضۀ آبریز اهر چای، فضای جغرافیایی، جلد 9، شمارۀ 26 (1388). ## 7.	بهنیافر ا.، پروین ک.، کاربرد مدل AHP و منطق فازی در منطقه‌بندی خطرات زمین‌لغزش حوضۀ آبریز فریزی در دامنه شمالی کوه‌های بینالود، مجله جغرافیای طبیعی، سال سوم، شماره 9 (1389). ## 8.	میرصانعی ر.، محمدرضا م.، راهنمای تهیه نقشۀ پهنه‌بندی خطر زمین‌لغزش در ایران، کارگروه زلزله و لغزش لایه‌های زمین، پژوشکده سوانح طبیعی (1384). ## 9.	Chacon J., Irigaray C., Fernandez T.,&quot;Large to middle scale landslides inventory analysis and mapping with modeling and assessment of derived susceptibility&quot;, Hazards and risks in a GIS, 7th International IIAEG congress (1994) 4669-4678. ## 10.	Lee S., Min K.,&quot;Statistical analysis of landslide susceptibility at Yongin, Korea&quot;, Environmental Geology, 40 (2001) 1095-1113. ## 11.	Lee S., Pradhan B.,&quot;Landslide hazard mapping at Selangor, Malaysia using frequency ratio and logistic regression model&quot;, Landslides, 4 (1) (2007) 33-41. ## 12.	سازمان زمینشناسی و اکتشافات معدنی کشور، نقشۀ زمینشناسی چارگوش 1:100000 جواهرده (1380). ## 13.	Crippen R.E., &quot;Calculating the vegetation index faster,' Remote Sensing of Environment&quot;, Vol. 34 (1990) 71-73. ## 14.	سازمان هواشناسی کشور، گزارش ایستگاه‌های هواشناسی استان گیلان دردوره 45 ساله (1385). ## 15. Weier J., Herring D., &quot;Measuring Vegetation (NDVI EVI)&quot;, http:// earthobservatory.nasa.gov/Library/MeasuringVegetation/measuring_vegetation_1.html##  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>بررسی آزمایشگاهی تاثیر زاویه شیب کناره و دانه بندی ذرات بر فرسایش نشتی سواحل رودخانه</TitleF>
+		<TitleE>Experimental Investigation of Bank Angle and Grain Size ِDistribution Effects on Seepage Erosion of River Banks</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>جریان زیرسطحی به&#8204;عنوان بخش چشم&#8204;گیری از جریان آبراهه و عامل مهمی در بار رسوبی رودخانه&#173;ها است. هدف این تحقیق بررسی فرسایش نشتی کنارۀ رودخانه&#8204;ها در لایۀ ماسه&#8204;ای با دانه&#8204;بندی متفاوت در کنارۀ رودخانه است. در این تحقیق به مطالعه و بررسی آزمایشگاهی تأثیر اندازۀ ذرات خاک و هم&#8204;چنین شیب کنارۀ رودخانه بر فرسایش نشتی پرداخته شده است. بدین&#8204;منظور تعدادی آزمایش در یک لایسی&#8204;متر برای چهار شیب&#173;های مختلف و دانه&#8204;بندی&#173;های مختلف انجام شد. نتایج نشان داد که عدد رینولدز محیط متخلخل نقش اساسی در عمق حفره آبشستگی لایۀ غیرچسبنده دارد. هم&#8204;چنین مشاهده شد که زمان شروع به حرکت ذرات با افزایش قطر مشخصه آن&#8204;ها کاهش پیدا می&#173;کند.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Subsurface flow contributes considerably to river flow and plays an important role in river sediment loads. This research has been focused on investigation of soil properties and bankstream slope on seepage erosion. For this purpose a series of lysimeter experiments were performed for four different slopes of bankstream by varying the soil grain sizes. The obtained results indicate that Reynolds number in porous medium plays an effective role in depth of scour hole in noncohesive layer. It was observed that the time of beginning of sediment motion decreases with an increase in the soil grain size.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>3501</FPAGE>
+			<TPAGE>3516</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>اعظم</Name>
+				<MidName></MidName>
+				<Family>مسعودی</Family>
+				<NameE>Azam</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Masoodi</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه شهید بهشتی، پردیس فنی مهندسی شهید عباسپور</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه شهید بهشتی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>a_masoodi@sbu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>محمدرضا</Name>
+				<MidName></MidName>
+				<Family>مجدزاده طباطبایی</Family>
+				<NameE>Mohammad Reza</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Majdzadeh Tabatabi</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه شهید بهشتی، پردیس فنی مهندسی شهید عباسپور</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه شهید بهشتی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>m_majdzadeh@sbu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>علی</Name>
+				<MidName></MidName>
+				<Family>نورزاد</Family>
+				<NameE>Ali</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Noorzad</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه شهید بهشتی، پردیس فنی مهندسی شهید عباسپور</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه شهید بهشتی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>a_noorzad@sbu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Subsurface Flow</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Seepage Erosion</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Bankstream Slope</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Depth of Scour Hole</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>جریان زیرسطحی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>فرسایش نشتی</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>شیب کناره رودخانه</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>عمق آبشستگی</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1.	سلامت‌روندی ه.، خرازی‌فرد م.ح.، مجدزاده طباطبایی م.ر.، برآورد طول حفرۀ آب‌شستگی ناشی از فرسایش نشتی کناره رودخانه بر اساس نتایج تجربیات آزمایشگاهی، نشریۀ زمین‌شناسی مهندسی، 7 (2) (1392) 1833-1846.## 2.	شیرخانی ر.، مطالعۀ آزمایشگاهی اثر تغییر جریان بر فرسایش کناره رودخانه، پایان‌نامۀ کارشناسی ارشد، دانشگاه صنعتی امیرکبیر، تهران (1389). ## 3.	صمدی ا.، امیری تکلدانی ا.، داودی م.ا.، رحیمی ح.، مطالعۀ آزمایشگاهی و تحلیلی پایداری دیواره‌های طاقی شکل در سواحل رودخانه‌ها، پنجمین کنگره ملی مهندسی عمران (1389). ## 4.	محمودیان شوشتری م.، هیدرولیک آب‌های زیرزمینی، دانشگاه شهید چمران اهواز، چاپ دوم، (1392) 68. ## 5.	نوربخش ف.، بررسی آزمایشگاهی تغییرات شیب شیروانی و لایه‌بندی کناره بر فرسایش درونی در رودخانه‌های آبرفتی، پایان‌نامۀ کارشناسی ارشد، دانشگاه صنعت آب و برق، تهران (1391). ## 6.	Cancienne R.M., Fox G.A., Simon A., &quot;Influence of seepage undercutting on the stability of root-reinforced stream-banks. Earth Surface Processes and Landforms&quot;, 33 (8) (2008) 1769-1786. ## 7.	Chu-Agor M.L., Wilson G.V., Fox G.A., &quot;Numerical modeling of bank stability by seepage erosion&quot;, Journal of Hydrologic Engineering, 13(12) (2008) 1133-1145. ## 8.	Fox G.A., Wilson G.V., Periketi R.K., Cullum R.F., &quot;Sediment Transport Model for Seepage Erosion of Streambank Sediment&quot;, Journal of Hydrologic Engineering, 11(6) (2006) 603-611. ## 9.	Fox G.A, Wilson G.V., Periketi R.K., Cullum R.F., Gordji L., &quot;The Role of Subsurface Water in Contributing to Streambank Erosion&quot;, US-China Workshop on Advanced Computational Modeling in Hydroscience &amp; Engineering, September 19-21, Oxford, Mississippi, USA (2005). ## 10.	Fox G.A., Chu-Agor M.L., Wilson G.V., &quot;Seepage Erosion: A Significant Mechanism of Stream Bank Failure&quot;, Proceedings of the American Society of Civil Engineers (ASCE) World Environmental and Water Resources Congress, May (2007) 15-19. ## 11.	Schnellmann R.M., Busslinger H., Schneider R., Rahardjo H., &quot;Effect of rising water table in an unsaturated slope&quot;, Engineering Geology, 114 (2010) 71-83. ## 12.	Todd D.K., Mays L.W., &quot;Groundwater Hydrology&quot;, John Wiley and Sons (2005). ## 13.	Wilson G.V., Periketi R.K., Fox G.A., Dabney S.M., Shields F.D., Cullum R.F., &quot;Soil properties controlling seepage erosion contributions to streambank failure&quot;, Earth Surface Processes and Landforms, 32 (3) (2006) 447-459. ## ##1.	سلامت‌روندی ه.، خرازی‌فرد م.ح.، مجدزاده طباطبایی م.ر.، برآورد طول حفرۀ آب‌شستگی ناشی از فرسایش نشتی کناره رودخانه بر اساس نتایج تجربیات آزمایشگاهی، نشریۀ زمین‌شناسی مهندسی، 7 (2) (1392) 1833-1846.## 2.	شیرخانی ر.، مطالعۀ آزمایشگاهی اثر تغییر جریان بر فرسایش کناره رودخانه، پایان‌نامۀ کارشناسی ارشد، دانشگاه صنعتی امیرکبیر، تهران (1389). ## 3.	صمدی ا.، امیری تکلدانی ا.، داودی م.ا.، رحیمی ح.، مطالعۀ آزمایشگاهی و تحلیلی پایداری دیواره‌های طاقی شکل در سواحل رودخانه‌ها، پنجمین کنگره ملی مهندسی عمران (1389). ## 4.	محمودیان شوشتری م.، هیدرولیک آب‌های زیرزمینی، دانشگاه شهید چمران اهواز، چاپ دوم، (1392) 68. ## 5.	نوربخش ف.، بررسی آزمایشگاهی تغییرات شیب شیروانی و لایه‌بندی کناره بر فرسایش درونی در رودخانه‌های آبرفتی، پایان‌نامۀ کارشناسی ارشد، دانشگاه صنعت آب و برق، تهران (1391). ## 6.	Cancienne R.M., Fox G.A., Simon A., &quot;Influence of seepage undercutting on the stability of root-reinforced stream-banks. Earth Surface Processes and Landforms&quot;, 33 (8) (2008) 1769-1786. ## 7.	Chu-Agor M.L., Wilson G.V., Fox G.A., &quot;Numerical modeling of bank stability by seepage erosion&quot;, Journal of Hydrologic Engineering, 13(12) (2008) 1133-1145. ## 8.	Fox G.A., Wilson G.V., Periketi R.K., Cullum R.F., &quot;Sediment Transport Model for Seepage Erosion of Streambank Sediment&quot;, Journal of Hydrologic Engineering, 11(6) (2006) 603-611. ## 9.	Fox G.A, Wilson G.V., Periketi R.K., Cullum R.F., Gordji L., &quot;The Role of Subsurface Water in Contributing to Streambank Erosion&quot;, US-China Workshop on Advanced Computational Modeling in Hydroscience &amp; Engineering, September 19-21, Oxford, Mississippi, USA (2005). ## 10.	Fox G.A., Chu-Agor M.L., Wilson G.V., &quot;Seepage Erosion: A Significant Mechanism of Stream Bank Failure&quot;, Proceedings of the American Society of Civil Engineers (ASCE) World Environmental and Water Resources Congress, May (2007) 15-19. ## 11.	Schnellmann R.M., Busslinger H., Schneider R., Rahardjo H., &quot;Effect of rising water table in an unsaturated slope&quot;, Engineering Geology, 114 (2010) 71-83. ## 12.	Todd D.K., Mays L.W., &quot;Groundwater Hydrology&quot;, John Wiley and Sons (2005). ## 13.	Wilson G.V., Periketi R.K., Fox G.A., Dabney S.M., Shields F.D., Cullum R.F., &quot;Soil properties controlling seepage erosion contributions to streambank failure&quot;, Earth Surface Processes and Landforms, 32 (3) (2006) 447-459. ##  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+
+	<ARTICLE> 
+		<TitleF>طراحی بهینه دیوار‌های خاکی میخ‌کوبی شده بر‌مبنای تغییر مکان تحت بار‌های لرزه‌ای</TitleF>
+		<TitleE>Optimum Design of Soil Nailed Walls Based on Deformation Criterion under Seismic Loads</TitleE>
+		<TitleLang_ID>1</TitleLang_ID>
+		<ABSTRACTS>
+			<ABSTRACT>
+			<Language_ID>1</Language_ID>
+			<CONTENT>میخ&#8204;کوبی خاک از روش&#173;های رایج برای پایدارسازی گود&#173;برداری&#173;ها به&#8204;صورت موقت و دائم است که در صورت استفاده از آن به&#8204;صورت سازه دائم، بررسی لرزه&#173;ای این سازه&#173;ها اهمیت دارد. برای بررسی رفتار دیوار&#173;های خاکی میخ&#8204;کوبی شده تحت بار زلزله چند مدل&#8204;سازی فیزیکی انجام شده و اطلاعات محدودی موجود است. برای بررسی اثرات انواع پارامتر&#8204;ها بر پایداری و عملکرد دیوارهای خاکی میخ&#8204;کوبی شده می&#8204;توان از مدل&#173;سازی عددی استفاده کرد که در پژوهش حاضر از این روش استفاده شده است. در این تحقیق، به بررسی تأثیر پارامتر&#173;های مختلفی از جمله فاصله، چیدمان و طول میخ&#173;ها و ارتفاع دیوار بر تغییر مکان لرزه&#8204;ای دیوار&#173;های خاکی میخ&#8204;کوبی شده تحت شتاب&#173;نگاشت&#8204;های مختلف زلزله پرداخته شده است. برای بررسی اثر چیدمان و طول میخ&#173;ها در عملکرد این سازه&#173;ها، دو چیدمان یک&#8204;نواخت و متغیر در ارتفاع استفاده شده است. برای بررسی تأثیر فاصلۀ میخ&#173;ها و ارتفاع دیوار، فواصل 2 و 5/1 متر، و ارتفاع&#8204; 14، 20 و 26 متر در نظر گرفته شده &#160;است. تحلیل&#8204;های لرزه&#173;ای با استفاده از نرم&#173;افزار المان محدود دوبعدی Plaxis صورت گرفته است. برای محاسبۀ طول میخ&#173;ها، ضریب اطمینان پایداری مدل&#8204;های مختلف ثابت در نظر گرفته شده و از نرم&#173;افزار تعادل حدی GeoSlope بهره برده شده است. پس از تعیین طول میخ&#8204;ها بر اساس ضریب اطمینان پایداری ثابت، تغییر شکل مدل&#8204;ها تحت شتاب نگاشت&#8204;های مختلف محاسبه شده و توصیه&#8204;هایی در زمینه کاهش تغییر مکان لرزه&#8204;ای دیوارهای میخ&#8204;کوبی شده ارائه شده است.</CONTENT>
+			</ABSTRACT>
+			<ABSTRACT>
+			<Language_ID>2</Language_ID>
+			<CONTENT>Soil nailing is a prevalent method for temporary or permanent stabilization of excavations which, if it is used for permanent purposes, the seismic study of these structures is important. There are a few physical models, with limited information available, for the study of behavior of soil nailed walls under earthquake loading. Numerical methods may be used for the study of effects of various parameters on the performance of soil nailed walls, and this technique has been used in the current paper. In this research, the effects of various parameters such as the spacing, configuration, and lengths of nails, and the height of wall on seismic displacement of soil nailed walls under the various earthquake excitations were studied. To investigate the effects of the configuration and the lengths of nails on the performance of these structures, two configurations of uniform and variable lengths of nails have been used. To study the effects of the spacing between nails and the height of the wall the spacings of 2 and 1.5 meters and the heights of 14, 20, and 26 meters have been considered. The seismic analysis has been carried out using the finite element software Plaxis 2D. To analyze the lengths' of nails, it was assumed that the safety factors of stability of different models are constant, and the limit equilibrium software GeoSlope was used. After specification of the lengths of nails based on constant safety factor of stability, the deformations of the models under several earthquakes records were analyzed, and recommendations were made on minimizing the deformations of soil nailed walls under seismic loading.</CONTENT>
+			</ABSTRACT>
+		</ABSTRACTS>
+
+		<PAGES>
+			<PAGE>
+			<FPAGE>3517</FPAGE>
+			<TPAGE>3536</TPAGE>
+			</PAGE>
+		</PAGES>
+
+		<AUTHORS>
+			<AUTHOR>
+				<Name>پویا</Name>
+				<MidName></MidName>
+				<Family>نقشین</Family>
+				<NameE>P</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Naghshin</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکده فنی مهندسی، گروه عمران</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه خوارزمی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email></Email>
+				</EMAILS>
+			</AUTHOR>
+
+			<AUTHOR>
+				<Name>هادی</Name>
+				<MidName></MidName>
+				<Family>شهیر</Family>
+				<NameE>H</NameE>
+				<MidNameE></MidNameE>
+				<FamilyE>Shahir</FamilyE>
+				<Organizations>
+				<Organization>دانشگاه خوارزمی، دانشکده فنی مهندسی، گروه عمران</Organization>
+				</Organizations>
+				<Universities>
+				<University>دانشگاه خوارزمی</University>
+				</Universities>
+				<Countries>
+				<Country>ایران</Country>
+				</Countries>
+				<EMAILS>
+				<Email>shahir@khu.ac.ir</Email>
+				</EMAILS>
+			</AUTHOR>
+		</AUTHORS>
+
+
+		<KEYWORDS>
+			<KEYWORD>
+				<KeyText>Soil-nailed wall</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Seismic behaviour</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Finite element modeling</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Seismic displacement</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>Time history analysis</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>دیوار خاکی میخکوبی شده</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>رفتار لرزه‌ای</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>مدل‌سازی اجزای محدود</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تغییر مکان لرزه‌ای</KeyText>
+			</KEYWORD>
+
+			<KEYWORD>
+				<KeyText>تحلیل تاریخچه زمانی</KeyText>
+			</KEYWORD>
+		</KEYWORDS>
+
+		<REFRENCES>
+			<REFRENCE>
+				<REF>1.	Manual for Design &amp; Construction Monitoring of Soil Nail Walls&quot;, Federal Highway Administration, Publication No.FHWA-SA-96-069R (1998).## 2.	&quot;Demonstration Project 103-Design and Construction Monitoring of Soil Nail Walls&quot;, 7 Federal Highway Administration, Publication No. FHWA-IF-99-026 (1999). ## 3.	Vucetic M., Tufenkjian M.R., Doroudian M., &quot;Dynamic Centrifuge Testing of Soil-Nailed Excavations&quot;, Geotechnical Testing Journal, Vol. 16, No. 2 (1993) 172-187. ## 4.	Tufenkjian M.R., Vucetic M., &quot;Seismic Stability of Soil-Nailed Excavations&quot;, Report No. ENG-97-169, Civil Engineering Department, University of California, Los Angeles (1993). ## 5.	Chokeir M., &quot;seismic Analysis of Reinforced Earth and Soil Nailed Structures&quot;, Ph.D. Thesis, New York Polytechnic University (1996). ## 6.	Choukeir M., Juran I., Hanna S., &quot;Seismic Design of Reinforced- Earth and Soil-Nailed Structures&quot;, Ground Improvement, Vol. 1 (1997) 223-238. ## 7.	Zhang M., Song E., Chen Z., &quot;Ground movement analysis of soil nailing construction by three-dimensional (3-D) finite element modeling (FEM)&quot;, Computers and Geotechnics, Vol. 25 (1999) 191-204. ## 8.	Vela J.C., &quot;Theoretical Modeling and Field Instrumentation of an Earth Retention System for Seismic Response&quot;, Ph.D. Thesis, Washington State University (2000). ## 9.	Hong Y., Chen R, Wu C., Chen J., &quot;Shaking Table Test and Stability Analysis of Steep Nailed Slopes, Canadian Jeotechnical Journal&quot;, Vol. 42 (2005) 1264-1279. ## 10.	Sivakumar Babu G.L., Singh V.p. &quot;Numerical Analysis of Performance of Soil Nail Walls in Seismic Conditions&quot;, Journal of Earthquake Technology, Paper No. 496, Vol.45, No. 1-2, March-June (2008) 31-40. ## 11.	Chu L.M., Yin J.H., &quot;Comparision of Interface Shear Strenght of Soil Nails Measured by Both Direct Shear Box Tests and Pull-out Tests&quot;, J. of Geotech and Geoenviron Eng, ASCE, Vol. 131, No. 9 (2005) 1097-1107. ## 12.	Plaxis, &quot;PLAXIS 2D: Reference Manual Version 8.0&quot;, Plaxis BV, Delft, The Netherlands (2002). ## ##1.	Manual for Design &amp; Construction Monitoring of Soil Nail Walls&quot;, Federal Highway Administration, Publication No.FHWA-SA-96-069R (1998).## 2.	&quot;Demonstration Project 103-Design and Construction Monitoring of Soil Nail Walls&quot;, 7 Federal Highway Administration, Publication No. FHWA-IF-99-026 (1999). ## 3.	Vucetic M., Tufenkjian M.R., Doroudian M., &quot;Dynamic Centrifuge Testing of Soil-Nailed Excavations&quot;, Geotechnical Testing Journal, Vol. 16, No. 2 (1993) 172-187. ## 4.	Tufenkjian M.R., Vucetic M., &quot;Seismic Stability of Soil-Nailed Excavations&quot;, Report No. ENG-97-169, Civil Engineering Department, University of California, Los Angeles (1993). ## 5.	Chokeir M., &quot;seismic Analysis of Reinforced Earth and Soil Nailed Structures&quot;, Ph.D. Thesis, New York Polytechnic University (1996). ## 6.	Choukeir M., Juran I., Hanna S., &quot;Seismic Design of Reinforced- Earth and Soil-Nailed Structures&quot;, Ground Improvement, Vol. 1 (1997) 223-238. ## 7.	Zhang M., Song E., Chen Z., &quot;Ground movement analysis of soil nailing construction by three-dimensional (3-D) finite element modeling (FEM)&quot;, Computers and Geotechnics, Vol. 25 (1999) 191-204. ## 8.	Vela J.C., &quot;Theoretical Modeling and Field Instrumentation of an Earth Retention System for Seismic Response&quot;, Ph.D. Thesis, Washington State University (2000). ## 9.	Hong Y., Chen R, Wu C., Chen J., &quot;Shaking Table Test and Stability Analysis of Steep Nailed Slopes, Canadian Jeotechnical Journal&quot;, Vol. 42 (2005) 1264-1279. ## 10.	Sivakumar Babu G.L., Singh V.p. &quot;Numerical Analysis of Performance of Soil Nail Walls in Seismic Conditions&quot;, Journal of Earthquake Technology, Paper No. 496, Vol.45, No. 1-2, March-June (2008) 31-40. ## 11.	Chu L.M., Yin J.H., &quot;Comparision of Interface Shear Strenght of Soil Nails Measured by Both Direct Shear Box Tests and Pull-out Tests&quot;, J. of Geotech and Geoenviron Eng, ASCE, Vol. 131, No. 9 (2005) 1097-1107. ## 12.	Plaxis, &quot;PLAXIS 2D: Reference Manual Version 8.0&quot;, Plaxis BV, Delft, The Netherlands (2002). ##  ##</REF>
+			</REFRENCE>
+		</REFRENCES>
+
+	</ARTICLE>
+
+</ARTICLES>
+
+</JOURNAL>
+</XML>

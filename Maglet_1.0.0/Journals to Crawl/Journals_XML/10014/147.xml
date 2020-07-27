@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Human Resource Management in Oil Industry</title>
+<title_fa>مدیریت منابع انسانی در صنعت نفت</title_fa>
+<short_title>Human Resource Management in The Oil Industry</short_title>
+<subject>Literature &amp; Humanities</subject>
+<web_url>http://iieshrm.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2251-8886</journal_id_issn>
+<journal_id_issn_online>2588-4409</journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi></journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai>8888</journal_id_nlai>
+<journal_id_science>374</journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1393</year>
+	<month>6</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2014</year>
+	<month>9</month>
+	<day>1</day>
+</pubdate>
+<volume>5</volume>
+<number>20</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>other</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>طراحی سیستم هوشمند برنامه کارکنان درمانی اورژانس برای ارتقای بهره‌وری</title_fa>
+	<title>Intelligent scheduling for emergency room(ER) personnel
+to improve productivity
+</title>
+	<subject_fa>مديريت</subject_fa>
+	<subject>Management</subject>
+	<content_type_fa>پژوهشي</content_type_fa>
+	<content_type>Research</content_type>
+	<abstract_fa>&lt;span style=&quot;font-family:b zar;&quot;&gt;&lt;span style=&quot;font-size:13.0pt;&quot;&gt;ارتقای بهره&#8204;وری در ارائه خدمات اورژانس و مدیریت بهینه منابع محدود آن، همواره از دغدغه های اصلی مدیران مراکز درمانی صنعت نفت بوده است. یکی از منابع مهم و پرهزینه، نیروی انسانی است که کمبود آن موجب طولانی شدن صفهای انتظار بیماران می شود. لذا به منظور استفاده حداکثر از منابع انسانی موجود، یک برنامه نوبت کاری مناسب مورد نیاز است. در این برنامه باید به معیارهای متعدد و متضادی توجه شود که محقق کردن آن توسط فرد خبره بیمارستان، مشکل است. هدف این پژوهش طراحی برنامه هوشمند نوبت کاری کادر درمانی بخش اورژانس است به گونه&#8204;ای که ضمن اعمال محدودیتهای مدیریتی بیمارستان، زمان انتظار بیماران کاهش یابد. لذا ابتدا گردش بیمار در اورژانس شبیه&#8204;سازی گردید. سپس از الگوریتم ژنتیک (یک روش هوشمند) برای بهینه سازی چند معیاره استفاده شد.نتایج نشان می&#8204;دهد که متوسط و انحراف معیار زمان انتظار بیماران برای اولین ویزیت در برنامه بهینه 74% و 53% نسبت به وضعیت فعلی کاهش می یابد.&lt;/span&gt;&lt;/span&gt;</abstract_fa>
+	<abstract>Improving productivity in emergency services and managing limited resources of emergency room(ER) are key challenges for health managers of oil industry. One critical and costly resource is ER personnel&amp;nbsp; and its lack can lead to long queue of patients. Thus appropriate scheduling for nurses and physicians can help ER managers to&amp;nbsp; get maximum benefit of their current human resource and reduce their costs. In this schedule different criteria should be considered . Meeting all of them is difficult for the hospital expert person.Objective of this research is to design an intelligent schedule for ER personnel in order that waiting time is reduced and hospital management constraints are fully considered.First , patient flow in ER is simulated.Secondly, Gentic Algorithm(an Intelligent approach) is applied to solve the multi objective problem.Results show that average and standard deviation of patients waiting time for first visit is reduced by 74% and&amp;nbsp; 53% respectively.&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;</abstract>
+	<keyword_fa>بهره وری اورژانس , هوش مصنوعی ,  الگوریتم ژنتیک , برنامه نوبت کاری کارکنان اورژانس </keyword_fa>
+	<keyword>Emergency room productivity - Artifical Intelligent- Genetic Algorithm- Emergency Room scheduling</keyword>
+	<start_page>137</start_page>
+	<end_page>158</end_page>
+	<web_url>http://iieshrm.ir/browse.php?a_code=A-10-311-33&amp;slc_lang=other&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>Masoume </first_name>
+	<middle_name></middle_name>
+	<last_name>Amidi</last_name>
+	<suffix></suffix>
+	<first_name_fa>معصومه</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>عمیدی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>m.amidi@nioc.ir</email>
+	<code>10031947532846001870</code>
+	<orcid>10031947532846001870</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی امیر کبیر</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Farzad </first_name>
+	<middle_name></middle_name>
+	<last_name>Towhidkhah</last_name>
+	<suffix></suffix>
+	<first_name_fa>فرزانه</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>توحید خواه</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email></email>
+	<code>10031947532846001871</code>
+	<orcid>10031947532846001871</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی امیر کبیر</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Rasoul </first_name>
+	<middle_name></middle_name>
+	<last_name>Khayati</last_name>
+	<suffix></suffix>
+	<first_name_fa>رسول</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>خیاطی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email></email>
+	<code>10031947532846001872</code>
+	<orcid>10031947532846001872</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه شاهد</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

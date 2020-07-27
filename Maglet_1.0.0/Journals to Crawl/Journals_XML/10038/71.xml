@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>13</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>05</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Estimation of Specific Drilling in Small Tunnel by Using SVM</ArticleTitle>
+<VernacularTitle>تخمین حفاری ویژه انفجار در تونلهای کوچک مقطع با استفاده از ماشین بردار پشتیبان</VernacularTitle>
+			<FirstPage>1</FirstPage>
+			<LastPage>13</LastPage>
+			<ELocationID EIdType="pii">101382</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>عارف</FirstName>
+					<LastName>علیپور</LastName>
+<Affiliation>گروه مهندسی معدن دانشگاه صنعتی ارومیه</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مجتبی</FirstName>
+					<LastName>مختاریان اصل</LastName>
+<Affiliation>دانشگاه صنعتی ارومیه</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مصطفی</FirstName>
+					<LastName>اسدی زاده</LastName>
+<Affiliation>گروه مهندسی معدن، دانشگاه صنعتی همدان</Affiliation>
+<Identifier Source="ORCID">0000-0001-5944-0084</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>06</Month>
+					<Day>14</Day>
+				</PubDate>
+			</History>
+		<Abstract>Drilling and Blasting method is the controlled use of explosives to break rocks for excavation. It is practiced most often in mining and civil engineering. Basically short tunnels are usually constructed by drilling and blasting method. The value of specific drilling in tunnel blasting processes considerably affects the efficiency of the blasting. Specific drilling affects costs of drilling and blasting, specific charge, fragmentation size, muck pile shape, over break profile shape. In this paper, we present an application of Support Vector Machine (SVM) to the calculation of the specific drilling for small size tunnel blasting. Certain small size tunnel blast tests in four case studies have been used to present the SVM-based model. Among available existing parameters in the literature, some of the most influencing parameters are selected. These models are based on seismic wave velocity (P-wave), Rock Quality Designation (RQD), coupling ratio of explosive charge, maximum depth of blast hole and tunnel area. Evaluation of the numerical measures of the goodness of the statistical fit clearly indicated that corresponding SVM model is more acceptable than multiple linear regression model for estimating specific drilling.</Abstract>
+			<OtherAbstract Language="FA">روش سنتی چالزنی و انفجار با توجه به انعطاف پذیری زیاد آن، مناسب ترین انتخاب به منظور حفاری تونل‌های کوتاه و مقاطع متغیر می باشد. یکی از پارامترهای مهم در طراحی و اجرای الگوهای آتشکاری تونل‌، تعیین حفاری ویژه آن است؛ حفاری ویژه، به متراژ حفاری لازم برای حفر واحد حجم سنگ اطلاق می شود؛ ارائه ی مدل مناسب تخمین حفاری ویژه در تکمیل طراحی الگوی چالزنی و انفجار و در کنترل و مدیریت پروژه حایز اهمیت است. در تحقیق حاضر بر مبنای نتایج ثبت شده از 41 سری داده مربوط به حفر چهار رشته تونل در کشور هند، اقدام به مدل سازی تخمین حفاری ویژه صورت گرفته است؛ برای این منظور از رگرسیون چند متغیره خطی و الگوریتم ماشین بردار پشتیبان مبتنی بر تابع کرنل چندجمله ای ساده، به عنوان ابزارهای کاربردی استفاده شده است. در مدلسازی پیشنهادی، شاخص کیفیت توده سنگ، سرعت امواج طولی در سنگ، سطح مقطع تونل، ماکزیمم طول چال‌ انفجاری و شاخص جفت شدگی چال انفجاری، به عنوان پارامترهای مستقل (ورودی مدل) در نظر گرفته شده‌اند. نتایج مدلسازی عملکرد ماشین بردار پشتیبان، با حداقل خطا را تائید میکند؛ مقادیر ضریب تعیین R2 برای هردو سری داده آموزش و آزمون ماشین بردار پشتیبان، برابر 0/98 بدست آمده است؛ این ضریب برای رگرسیون خطی نیز برابر 0/91 حاصل شده است. علی رغم برتری نسبی ماشین بردار پشتیبان، نتایج روش رگرسیون نیز کارا بوده و رابطه‌ی‌ مبتنی بر آن نیز به عنوان یک گزینه ی دردسترس پیشنهاد می شود.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">چالزنی و انفجار</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">حفاری ویژه</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ماشین بردار پشتیبان و رگرسیون چندمتغیره خطی</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>13</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>05</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Evaluation of the effect of shape and loading position on the stability of geotextile-reinforced slope using centrifuge modeling</ArticleTitle>
+<VernacularTitle>ارزیابی اثر شکل و موقعیت بارگذاری بر پایداری شیب مسلح شده با ژئوتکستایل با استفاده از مدل سازی سانتریفوژ</VernacularTitle>
+			<FirstPage>15</FirstPage>
+			<LastPage>28</LastPage>
+			<ELocationID EIdType="pii">101383</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>بهزاد</FirstName>
+					<LastName>معین</LastName>
+<Affiliation>دانشگاه قم، گروه مهندسی عمران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>علی محمد</FirstName>
+					<LastName>رجبی</LastName>
+<Affiliation>زمین شناسی مهندسی دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مهدی</FirstName>
+					<LastName>خداپرست</LastName>
+<Affiliation>گروه مهندسی عمران، دانشگاه قم، قم، ایران</Affiliation>
+<Identifier Source="ORCID">0000-0002-4007-4093</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>09</Month>
+					<Day>03</Day>
+				</PubDate>
+			</History>
+		<Abstract>Geosynthetic reinforced soil is recognized as one of the fastest and most economical ways to slopes and retaining walls. In this research, using centrifugal modeling, the behavior of soil walls reinforced with relatively high height and slope geotextiles (1H : 5V) under the influence of surcharge was evaluated. For this purpose, 3 models of reinforced soil slope with a height of 35 cm with a scale of 1:30 and an unreinforced soil slope were made and loaded on the centrifuge during acceleration of 30 g. The results showed that the bearing capacity of the foundations on the reinforced soil slope was directly related to the shape of the foundations and for the same widths as the square shape changed to the strip type (increasing the length of the foundations) from the final load will be reduced. Through the investigation of soil reinforcing elements at different depths in terms of failure and elongation, it was revealed that regarding the elongation and failure of geotextiles and the depth of failure for footings with equal widths the maximum value is associated with strip footing and the minimum value is associated with square footing.</Abstract>
+			<OtherAbstract Language="FA">خاک مسلح ژئوسنتتیکی به عنوان یکی از روش‌های سریع و اقتصادی پایدارسازی شیروانی ها و احداث دیوارهای حائل شناخته می‌شود. در این تحقیق با استفاده از مدلسازی سانتریفوژ، رفتار دیوارهای خاک مسلح شده با ژئوتکستایل با ارتفاع نسبتا بلند و شیب (5 قایم به 1 افقی) تحت اثر سربار خارجی مورد ارزیابی قرار گرفته است. بدین منظور 3 نمونه شیب خاک مسلح به ارتفاع 35 سانتی متر با مقیاس 1:30 و یک مدل بدون مسلح کننده ساخته و پس از رسیدن به شتاب g30 در دستگاه سانتریفوژ تحت بارگذاری قرار گرفت. نتایج بدست آمده نشان داد، ظرفیت باربری پی های قرار گرفته بر روی کوله های خاک مسلح ارتباط کاملا مستقیمی با شکل پی داشته و برای پی های با عرض یکسان هرچقدر شکل پی از نوع مربع به نوع نواری تغییر یابد (طول پی افزایش یابد) از میزان باربری نهایی آن کاسته خواهد شد. با بررسی المان های مسلح کننده خاک در لایه های مختلف، مشخص گردید که بیشترین میزان خرابی ژئوتکستایل مربوط به حالتی است که تحت بار نواری بوده و کمترین تخریب مربوط به بارگذاری با سطح مقطع مربعی می باشد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">شیب خاک مسلح</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ژئوتکستایل</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدلسازی سانتریفوژ</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">هندسه بارگذاری</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>13</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>05</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>The evaluation of reaction potential of different aggregates based on petrographic studies and comparison with chemical tests.</ArticleTitle>
+<VernacularTitle>ارزیابی پتانسیل واکنش زایی سنگدانه های مختلف بر پایه مطالعات پتروگرافی و مقایسه آن با آزمون های شیمیایی</VernacularTitle>
+			<FirstPage>29</FirstPage>
+			<LastPage>45</LastPage>
+			<ELocationID EIdType="pii">102491</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>پژمان</FirstName>
+					<LastName>کاظمی</LastName>
+<Affiliation>دانشگاه تربیت مدرس، گروه زمین شناسی مهندسی</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محمدرضا</FirstName>
+					<LastName>نیکودل</LastName>
+<Affiliation>دانشگاه تربیت مدرس تهران دانشکده علوم پایه</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>ماشااله</FirstName>
+					<LastName>خامه چیان</LastName>
+<Affiliation>دانشگاه تربیت مدرس، دانشکده علوم، گروهزمین شناسی</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>سایمون</FirstName>
+					<LastName>مارتین کلارک</LastName>
+<Affiliation>دانشگاه مکواری- دانشکده علوم زمین</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>شیما</FirstName>
+					<LastName>طاهری</LastName>
+<Affiliation>دانشگاه مکواری سیدنی</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>پریتوش</FirstName>
+					<LastName>گیری</LastName>
+<Affiliation>دانشگاه مکواری، استرالیا</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>09</Month>
+					<Day>09</Day>
+				</PubDate>
+			</History>
+		<Abstract>Abstract: The durability of concrete is affected by various factors including its ingredients, workmanship, environment, working life, and so on. The alkali reaction within the concrete can shorten its lifespan due to the expansive pressure build up and cracking caused by the deleterious action of alkali reaction by-products. The alkali reaction is a gradual reaction that can happen between the alkaline pore solution of the concrete and various types of aggregates. Understanding the behavior of the aggregate, as the main reactive component, is thus essential in understanding of the reaction mechanism, reducing the alkali reaction potential or even preventing it. Not all aggregates are susceptible to alkali reaction. Therefore, detecting susceptible aggregates and selecting the ones with low levels of reactive materials, can eventually help to minimize and mitigate alkali reaction problems. The aim of this research was to assess the susceptibility of four commonly used aggregates in constructing projects: Granite, Rhyodacite, Limestone and Dolomite. The study was performed under accelerated conditions in accordance with the ASTM test method C1260 and ambient condition (room temperature).specimens were analyzed using Scanning Electron Microscopy (SEM),X-ray Diffraction (XRD) and Light Microscopy. Limestone and Rhyodacite aggregates, were found to be susceptible to expansion reaction.</Abstract>
+			<OtherAbstract Language="FA">چکیده:&lt;br /&gt; دوام بتن متأثر از عوامل مختلفی مانند اجزا تشکیل‌دهنده آن، عمل‌آوری، محیط قرارگیری و مدت سرویس‌دهی می‌باشد. واکنش زایی قلیایی ایجادشده درون بتن و فشار انبساطی و ترک‌دار شدن ناشی از واکنش مخرب تشکیل ژل سیلیسی-قلیایی می‌تواند به کوتاه‌تر شدن عمر بتن منجر شود. واکنش زایی قلیایی یک واکنش تدریجی می‌باشد که می‌تواند بین محلول منفذی قلیایی بتن و انواع مختلفی از سنگ‌دانه‌ها روی دهد. شناخت رفتار سنگ‌دانه به‌عنوان اصلی‌ترین تشکیل‌دهنده بتن در شناخت مکانیسم واکنش زایی قلیایی، کاهش پتانسیل واکنش زایی و حتی جلوگیری از آن ضروری می‌باشد. همه سنگ‌دانه‌ها در برابر واکنش‌زایی‌ قلیایی آسیب‌پذیر نمی‌باشند بنابراین شناسایی سنگ‌دانه‌های آسیب‌پذیر و انتخاب سنگ‌دانه‌های با واکنش زایی کمتر در ساخت بتن می‌تواند درنهایت منجر به کم شدن و جلوگیری از خسارت های ناشی از واکنش زایی قلیایی شود. هدف این تحقیق ارزیابی آسیب‌پذیری چهار سنگ‌دانه مورداستفاده در بتن شامل: گرانیت ، ریوداسیت، آهک و دولومیت می‌باشد. این مطالعه تحت شرایط تسریع شده بر اساس استاندارد ASTM C1260 و شرایط دمای اتاق انجام شد. آنالیز نمونه‌ها با استفاده از میکروسکوپ الکترونی همراه با پراش کننده انرژی (SEM/EDX)، میکروسکوپ نوری، آنالیزهای XRD و XRF انجام شد. نتایج این تحقیق نشان داد که سنگ‌دانه‌های ریوداسیتی و آهکی دارای پتانسیل واکنش زایی می‌باشند درحالی‌که سنگ‌دانه‌های دولومیتی و گرانیتی موردمطالعه فاقد واکنش زایی بوده‌اند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">واکنش زایی قلیایی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سنگ‌دانه</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">بتن</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">آزمون‌های تسریع شده</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مطالعات پتروگرافی</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>13</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>05</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>The Assessment of Crushed Sand Effects on the Properties of Self-Compacting Concrete</ArticleTitle>
+<VernacularTitle>ارزیابی تاثیر درصد ماسه‌های شکسته استاندارد بر روی ویژگی‌های بتن خودمتراکم</VernacularTitle>
+			<FirstPage>103</FirstPage>
+			<LastPage>118</LastPage>
+			<ELocationID EIdType="pii">102492</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>جمید رضا</FirstName>
+					<LastName>امینی</LastName>
+<Affiliation>عمران سازه، دانشگاه زنجان، زنجان، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>بهزاد</FirstName>
+					<LastName>سعیدی رضوی</LastName>
+<Affiliation>گروه پژوهشی ساختمانی و معدنی، پژوهشگاه استاندارد، سازمان ملی استاندارد. کرج. ایران</Affiliation>
+<Identifier Source="ORCID">0000000183065253</Identifier>
+
+</Author>
+<Author>
+					<FirstName>جمال</FirstName>
+					<LastName>احمدی</LastName>
+<Affiliation>استادیار دانشگاه زنجان، زنجان، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مهدی</FirstName>
+					<LastName>بابایی</LastName>
+<Affiliation>استادیار دانشگاه زنجان، زنجان، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>06</Month>
+					<Day>25</Day>
+				</PubDate>
+			</History>
+		<Abstract>The crushed shape of aggregates, regarding its effect on the yield stress, plastic viscosity and the friction between concrete components play an important role in the performance of ordinary and also self-compacting concrete. In this research, the effect of standard crushed sand on the properties of SCC concrete has been studied. To do so, different mixture designs were tested to achieve a suitable mixture design that meets the minimum rheology and resistance requirements of self-consolidating concrete and as a result, five mixture designs with replacing different values of standard crushed sand with natural sand have been fabricated. Rheology Tests (slump flow, V-funnel, J-ring and L-box), Mechanical Resistance Tests (Compressive, tensile and flexural strength) and Durability Tests (capillary water absorption and freeze–thaw cycling resistance) tests have been assessed. It has been observed that by replacing a proportion of natural standard sand with crushed standard sand, filling ability and possibility of self-consolidating concrete have improved. Regarding the obtained results, the mechanical properties of SCC concrete in the specimens with crushed standard sand increased. Also, capillary water absorption has improved in these specimens which shows durability increase in specimens with crushed standard sand.</Abstract>
+			<OtherAbstract Language="FA">شکستگی سنگدانه‌ها، با توجه به تأثیرات آن در تنش تسلیم، لزجت خمیری و اصطکاک بین اجزای بتن، نقش مهمی در عملکرد بتن به ویژه بتن‌های خودمتراکم دارد، لذا در این تحقیق تاثیر درصد ماسه استاندارد شکسته بر روی خواص بتن خودمتراکم مورد بررسی قرار گرفته است. برای این منظور طرح اختلاط‌های مختلفی برای دستیابی به طرح مخلوطی که الزامات حداقلی بتن خودمتراکم را برآورده کند، مورد آزمایش قرار گرفته و در نهایت از پنج طرح با جایگزین کردن مقادیر مختلف ماسه شکسته به جای ماسه طبیعی استفاده شده و آزمایش‌های رئولوژی (جریان اسلامپ، قیف V، حلقه‌ی J و جعبهL)، مشخصات مکانیکی (مقاومت فشاری، مقاومت کششی و مقاومت خمشی) و دوام (چرخه یخبندان و جذب مویینه) انجام شده است. &lt;br /&gt; بر مبنای نتایج بدست آمده، با جایگزینی مقادیر ۲۵، ۵۰ و ۷۵ درصد از ماسه استاندارد طبیعی با ماسه استاندارد شکسته، مقادیر قطر پخش‌شدگی در آزمون جریان اسلامپ که بیانگر تنش تسلیم بتن تازه و معیاری برای ارزیابی قابلیت پرکنندگی بتن خودمتراکم می‌باشد به ترتیب برابر ۷/۰، ۲ و ۱۰ درصد کاهش یافته است. با توجه به نتایج بدست آمده مقاومت فشاری ۹۰ روزه نمونه‌های ساخته شده با ۲۵، ۵۰، ۷۵ درصد ماسه شکسته، به ترتیب برابر ۴، ۱/۷ و ۷/۶ درصد افزایش یافته است. همچنین، جذب موئینه با جایگزینی ماسه شکسته افزایش یافته است که نشان دهنده‌ تغییر و اصلاح دوام و پایایی نمونه‌های بتن خودمتراکم دارای ماسه شکسته می‌باشد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">بتن‌خودمتراکم</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ماسه استاندارد شکسته</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">رئولوژی بتن</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مقاومت مکانیکی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">دوام بتن</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>13</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>05</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Stabilization of a deep excavation using demolition and construction waste materials</ArticleTitle>
+<VernacularTitle>استفاده از نخاله ساختمانی برای پایدارسازی دیواره گود عمیق</VernacularTitle>
+			<FirstPage>47</FirstPage>
+			<LastPage>59</LastPage>
+			<ELocationID EIdType="pii">103454</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>زهرا</FirstName>
+					<LastName>سبزی</LastName>
+<Affiliation>گروه مهندسی عمران، واحد کرج، دانشگاه آزاد اسلامی</Affiliation>
+<Identifier Source="ORCID">0000-0003-4919-9797</Identifier>
+
+</Author>
+<Author>
+					<FirstName>اکبر</FirstName>
+					<LastName>چشمی</LastName>
+<Affiliation>تهران - دانشگاه تهران - پردیس علوم دانشکده زمین شناسی</Affiliation>
+<Identifier Source="ORCID">0000-0002-0024-6161</Identifier>
+
+</Author>
+<Author>
+					<FirstName>سید رمضان</FirstName>
+					<LastName>رمضان نژاد</LastName>
+<Affiliation>کارشناس مهندسین مشاور</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>10</Month>
+					<Day>03</Day>
+				</PubDate>
+			</History>
+		<Abstract>The increasing amount of demolition and construction waste (D&amp;CW) materials has created many problems in large cities. Recycling waste materials helps to protect the environment. D&amp;CW can be used in many projects, especially in road construction, retaining walls, landscaping and pavements. In this research, a project in which, D&amp;CW used as fill materials to stabilize a deep excavation is investigated. The project site is located at the southwest of Tehran and the west of the Kan River. Site soil is basically composed of the C alluvium of Tehran. Strength parameters of soil were determined using recursive stability analysis. By performing an experimental embankment of D&amp;CW (500 m length, 8 m width and 0.5 m height) and compacting it, in-situ density, plate load and dynamic probing tests were implemented and parameters of D&amp;CW were obtained. Then stability analysis of excavation was performed under different conditions using Geo-Slope and the results showed that the D&amp;CW embankment is capable to provide factor of safety. Finally, in order to control the quality of execution, according to the field observations, the guidelines were suggested to use D&amp;CW. The results of this study show that D&amp;CW can be significantly usable in engineering applications.</Abstract>
+			<OtherAbstract Language="FA">در این تحقیق یک گود که با استفاده از نخاله پایدارسازی شده، مورد مطالعه قرار گرفته است. گود مذکور در جنوب غرب تهران و در غرب رودخانه کن واقع شده است. جنس مصالح تشکیل دهنده دیواره گود شن و ماسه با مقادیر سیلت و رس بوده که از نظر زمین شناسی در گروه آبرفتهای C تهران طبقه‌بندی می‌شود. در تحقیق حاضر با استفاده از آنالیز برگشتی و با توجه به ابعاد گود، پارامترهای مهندسی مصالح دیواره گود، تعیین شد. به منظور تعیین پارامترهای مهندسی نخاله‌های ساختمانی یک خاکریز آزمایشی از نخاله‌های مذکور به طول، عرض و ارتفاع به ترتیب 500 ، 8 و 0.5 متر اجرا و با استفاده از غلطک ویبره، متراکم شد. سپس با انجام آزمایشهای دانسیته در محل، بارگذاری صفحه و کاوشگر دینامیکی بر روی خاکریز، پارامترهای مهندسی نخاله‌های ساختمانی تعیین گردید. با انجام مدل‌سازی با استفاده از نرم‌افزار Geo- Slope تحلیل پایداری گود و خاکریز در شرایط مختلف انجام شد. نتایج نشان می‌دهد که خاکریز مذکور قادر است پایداری دیواره گود را با توجه به مقادیر مجاز ضریب اطمینان تامین کند. با توجه به مشاهدات و برداشت‌های میدانی از آنجا که تنوع و تغییرات در نخاله‌های ساختمانی زیاد است به منظور کنترل کیفیت و حصول اطمینان از مناسب بودن مصالح و روش اجرا، دستورالعمل اجرایی برای استفاده از این مصالح جهت خاکریزی پیشنهاد گردید. نتایج این تحقیق نشان می‌دهد برخلاف رویه معمول، نخاله‌های ساختمانی، یه طور قابل توجهی می‌توانند در کاربردهای مهندسی قابل استفاده باشند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">پایدار‌سازی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">گود عمیق</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">خاکریزی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نخاله‌های ساختمانی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Geo-Slope</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>13</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>05</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Failure Modes Analysis of Sandstones (Case Study: Markazi Province Sandstones)</ArticleTitle>
+<VernacularTitle>تحلیل الگوی شکست ماسه سنگ‌ها (مطالعه موردی: ماسه سنگ‌های استان مرکزی)</VernacularTitle>
+			<FirstPage>61</FirstPage>
+			<LastPage>86</LastPage>
+			<ELocationID EIdType="pii">103455</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>مهران</FirstName>
+					<LastName>نوری</LastName>
+<Affiliation>گروه زمین‌شناسی دانشگاه بوعلی سینا همدان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>غلامرضا</FirstName>
+					<LastName>خانلری</LastName>
+<Affiliation>گروه زمین‌شناسی دانشگاه بوعلی سینا همدان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>وهاب</FirstName>
+					<LastName>سرفرازی</LastName>
+<Affiliation>گروه مهندسی معدن دانشگاه صنعتی همدان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>بهروز</FirstName>
+					<LastName>رفیعی</LastName>
+<Affiliation>گروه زمین‌شناسی دانشگاه بوعلی سینا همدان</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>09</Month>
+					<Day>04</Day>
+				</PubDate>
+			</History>
+		<Abstract>The aim of this study is analyzing the failure modes of sandstones related to Markazi Province using compressive strength changes. For this purpose, the fracture modes of five different types of sandstones with different compressive strength values have been studied experimentally and numerically. Also, The effect of failure modes on uniaxial compressive strength was quantified. block samples were collected from different sandstone formations located in northern part of Markazi province. These sandstones were divided into five types based on the textural and mineralogical characteristics. These samples were subjected to uniaxial compressive strength testing. Examination of the fracture modes showed that simple shear mode occurred at low values of strength and it changes to multiple extension mode with increasing the compressive strength. The dominant failure mode for types 1, 2 and 4 is simple shear and for types 3 and 5 is multiple extension. Investigation of failure modes in different strength ranges showed that the dominant failure modes up to 140 and over 140 MPa are simple shear and multiple extension, respectively. Therefore, strength of 140 MPa was considered as the transisson point. Also, in this study, the failure modes of the experimental samples were numerically simulated using PFC2D software. The results of numerical modeling showed a good agreement with the experimental results.</Abstract>
+			<OtherAbstract Language="FA">هدف از این پژوهش، تحلیل الگوهای شکست ماسه سنگ‌های دوران مزوزوئیک و سنوزوئیک استان مرکزی با توجه به تغییرات مقاومت فشاری آنها می‌باشد. برای این منظور، الگوهای شکست پنج تیپ مختلف از ماسه سنگ‌های با مقادیر مقاومت فشاری تک‌محوره (UCS) متفاوت حاصل از نتایج آزمایشگاهی و آنالیز عددی مورد بررسی قرار گرفتند. همچنین در این مطالعه اثر الگوهای شکست بر روی مقاومت فشاری تک‌محوره کمی‌سازی گردید. برای انجام این پژوهش نمونه‌های بلوکی از ماسه سنگ‌های سازند‌های مختلف واقع در بخش شمالی استان مرکزی جمع‌آوری و براساس ویژگی‌های بافتی و کانی‌شناسی به پنج تیپ (تیپ‌‌‌‌های 1 تا 5) تقسیم گردیده و تحت آزمایش UCS قرار گرفتند. بررسی الگوهای شکست این ماسه سنگ‌ها در محدوده‌های مختلف مقاومتی نشان داد که در مقادیر پایین مقاومت، الگوی شکست عمدتا از نوع برشی ساده (Simple shear) می‌باشد که با افزایش مقاومت فشاری به نوع کششی چندگانه (Multiple extenssion) تغییر می‌یابد. الگوی غالب شکست برای تیپ‌های 1، 2 و 4 از نوع برشی ساده و برای تیپ‌های 3 و 5 از نوع کششی چندگانه می‌باشد. بررسی الگوهای شکست در بازه‌های مقاومتی مختلف برای کل نمونه‌‌‌‌های ماسه‌سنگی نشان داد که تا مقادیر 140 مگاپاسکال، الگوی شکست غالب از نوع برشی ساده و برای مقادیر بیش از 140 مگاپاسکال، الگوی شکست از نوع کششی چندگانه می‌باشد. همچنین در این مطالعه، الگوهای شکست نمونه‌های آزمایشگاهی با استفاده از نرم‌افزار PFC2D به صورت عددی شبیه‌سازی شدند و ملاحظه گردید که نتایج بدست آمده از مدل‌سازی عددی، همخوانی قابل قبولی با نتایج آزمایشگاهی نشان می‌دهند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">ماسه سنگ‌ها</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">الگوی شکست</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مقاومت فشاری تک‌محوره</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نرم‌افزار PFC2D</Param>
+			</Object>
+		</ObjectList>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>13</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>05</Month>
+					<Day>21</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Evaluating the variations of shear wave velocity and dry density of schist rock under the weathering effect</ArticleTitle>
+<VernacularTitle>ارزیابی تغییرات سرعت موج برشی و چگالی خشک سنگ شیست تحت تأثیر هوازدگی</VernacularTitle>
+			<FirstPage>87</FirstPage>
+			<LastPage>102</LastPage>
+			<ELocationID EIdType="pii">103550</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>سید زانیار</FirstName>
+					<LastName>سید موسوی</LastName>
+<Affiliation>بخش مهندسی معدن، دانشکده فنی و مهندسی، دانشگاه شهید باهنر کرمان، کرمان، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حسین</FirstName>
+					<LastName>توکلی</LastName>
+<Affiliation>بخش مهندسی معدن، دانشکده فنی و مهندسی، دانشگاه شهید باهنر کرمان، کرمان، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>پرویز</FirstName>
+					<LastName>معارف‌وند</LastName>
+<Affiliation>گروه مکانیک سنگ، دانشکده مهندسی معدن و متالورژی، دانشگاه صنعتی امیرکبیر</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محمد</FirstName>
+					<LastName>رضائی</LastName>
+<Affiliation>استادیار گروه مهندسی معدن، دانشکده مهندسی، دانشگاه کردستان، سنندج، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>03</Month>
+					<Day>27</Day>
+				</PubDate>
+			</History>
+		<Abstract>Freezing-melting cycles are a serious natural weathering for rock engineering projects and constructed structures on the rocks in mountainous regions. So evaluation of the rock geo mechanical parameters reduction due to freezing-thawing cycles is very crucial in these areas. In this study, shear wave velocity and dry density of intact and weathered schist samples (under freezing-thawing cycles of 7, 15, 25, 40 and 75) of the Angouran mine wall were measured. For each weathering cycle, 5 samples have been tested and calculations were made based on their average values. Results showed that by increasing the number of weathering cycles, the shear wave velocity and dry density values of samples are exponentially decreased while the initial cycles of freezing-thawing have the less effect on rock properties. By analyzing the obtained results, an experimental equation was extracted and proposed to calculate shear wave velocity and dry density in schist against the different cycles of freezing-thawing. Also, the texture of samples in intact status and after 75 cycles of freezing-thawing was studied by an electronic microscope. The results of microscopic study indicate that the texture of intact samples is denser than those of the weathered status. Also, after applying 75 cycles of freezing-thawing, the spacing between discontinuities has been increased and new cracks created in the samples body.</Abstract>
+			<OtherAbstract Language="FA">چرخه‌های انجماد-ذوب یک هوازدگی طبیعی جدی برای پروژه‌های مهندسی سنگ و سازه‌های ساخته شده بر روی سنگ‌ها در مناطق کوهستانی می‌باشد. لذا ارزیابی کاهش پارامترهای ژئومکانیکی سنگ در اثر چرخه‌های انجماد-ذوب در این مناطق بسیار حیاتی است. در این تحقیق سرعت موج برشی و چگالی خشک نمونه‌های سنگ شیست بکر و هوازده (چرخه‌های انجماد-ذوب 7، 15، 40 و 75) دیواره معدن انگوران اندازه‌گیری شده است. در هر چرخه هوازدگی 5 نمونه مورد آزمایش قرارگرفته و محاسبات بر مبنای میانگین آن‌ها صورت گرفته است. نتایج نشان می‌دهد که با افزایش تعداد چرخه‌های هوازدگی، مقدار سرعت موج برشی و چگالی خشک نمونه‌ها به صورت نمایی کاهش می‌یابد بطوریکه چرخه‌های اولیه انجماد-ذوب تأثیر کمتری بر روی خواص سنگ داشته است. با برازش نتایج، روابطی تجربی جهت محاسبه سرعت موج برشی و چگالی خشک سنگ شیست به ازای چرخه‌های مختلف انجماد-ذوب در این تحقیق استخراج و پیشنهاد شده است. همچنین، بافت نمونه‌ها در حالت بکر و پس از 75 چرخه انجماد-ذوب به‌وسیله میکروسکوپ الکترونیکی مورد مطالعه قرار گرفت. نتایج مطالعه میکروسکوپی نشان‌دهنده متراکم بودن بافت نمونه‌ها در حالت بکر می‌باشد. همچنین پس از اعمال 75 چرخه انجماد-ذوب، فاصله بین ناپیوستگی‌ها افزایش یافته و ترک‌های جدیدی در بدنه نمونه‌ها ایجاد شده است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">"معدن انگوران"</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">"سنگ شیست"</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">"چگالی خشک"</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">"سرعت موج برشی"</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">"فرآیند انجماد-ذوب"</Param>
+			</Object>
+		</ObjectList>
+</Article>
+</ArticleSet>

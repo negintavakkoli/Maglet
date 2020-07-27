@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_75543_59b53d180a136ba29f8fc1404ffd37a8.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>زمین آمار</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>مدلسازی رشد درزه در شیب سنگ های درزه دار (مطالعه موردی: دیواره بلوک تکتونیکی2-4 معدن چغارت)</article-title>
+			        <subtitle>مدلسازی رشد درزه در شیب سنگ های درزه دار (مطالعه موردی: دیواره بلوک تکتونیکی2-4 معدن چغارت)</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1">
+			          <name>
+			            <surname>پیرنیا</surname>
+			            <given-names>زهرا</given-names>
+			          </name>
+					  <aff>دانش آموخته مکانیک سنگ دانشکده معدن و متالوژی دانشگاه یزد</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>عزیزی</surname>
+			            <given-names>رقیه</given-names>
+			          </name>
+					  <aff>دانش آموخته مکانیک سنگ دانشکده معدن و متالوژی دانشگاه یزد</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3" corresp="yes">
+			          <name>
+			            <surname>یار احمدی بافقی</surname>
+			            <given-names>علیرضا</given-names>
+			          </name>
+					  <aff>دانشیار دانشکده مهندسی معدن و متالوژی دانشگاه یزد</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c4">
+			          <name>
+			            <surname>فاتحی مرجی</surname>
+			            <given-names>محمد</given-names>
+			          </name>
+					  <aff>دانشیار دانشکده مهندسی معدن و متالوژی دانشگاه یزد</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2018</year>
+			      </pub-date>
+			      <volume>10</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>1</fpage>
+			      <lpage>13</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>27</day>
+			          <month>09</month>
+			          <year>2015</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>22</day>
+			          <month>09</month>
+			          <year>2018</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2018, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2018</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_75543.html">http://www.jiraeg.ir/article_75543.html</self-uri> 		
+			      <abstract>
+			        <p>سنگ‌ها در طبیعت دارای دسته درزه‌های‌ ناممتد هستند و در تحلیل پایداری سنگ­ها عموما درزه‌ها بصورت ممتد بررسی میگردند در حالیکه نوک درزه‌ها‌ی ناممتد محل تمرکز تنش می­باشد و این تمرکز تنش در اندازه و جهت رشد درزه­های موجود در سنگ و پایداری سازه‌های ایجاد شده در آن مثل شیب‌های سنگی موثراست. مکانیک شکست سنگ علمی است که امکان رشد ترک و تعیین جهت انتشار آن را مطالعه می‌کند. توسعه این علم امکان استفاده از مدل‌های درزه‌ای واقعی ناممتد در تحلیل پایداری شیب­های سنگی و کنترل رفتار مکانیکی ناپیوستگی­ها بخصوص پیرامون نوک ترک را فراهم می کند. با ایجاد شیب­های سنگی و تغییر ماتریس تنش منطقه‌ای، در نوک درزه‌ها تمرکز تنش بوجود می‌آید. درصورت غلبه این تنش بر پارامترهای مقاومتی درزه رشد می­کند و با انتشار درزه‌ها بلوک‌های سنگی تشکیل می‌گردند. این مطالعه برآنست با استفاده از اصول مکانیک شکست، رشد و توسعه درزه­ها­ی ناممتد و تصادفی در شیب سنگ‌های درزه‌دار را مدل‌سازی نماید. روش عددی قابل قبول مدل‌سازی مکانیسم شکست درزه‌ها، روش المان مرزی با عنوان روش ناپیوستگی جابجایی (DDM) انتخاب گردید.بعنوان مطالعه موردی مدل هندسی3 بعدی ناپیوستگی‌های دیواره بلوک تکتونیکی 2-4 معدن چغارت بروش دیسک‌های تصادفی توسط برنامه 3DGM یاراحمدی ـ گودرزی در محیط نرم‌افزاری متمتیکا ساخته و مقطع 2 بعدی مورد نظر تهیه‌گردید.با اعمال شرایط مرزی، تنش‌های برجا، ماتریس سختی، مقدار و جهت انتشار درزهها محاسبه گردید. پارامترهای مکانیکی توده مورد مطالعه بر اساس ویژگی‌های ژئومکانیکی گزارش شده در تحلیل‌های پایداری شیب این دیواره استفاده شد. مش‌بندی ناپیوستگی‌ها با ابعاد 3 متر و گام انتشار 2/0 طول درزه در نظر گرفته شد و مدل برای 4 مرحله رشد ترک اجرا گردید. مدل هندسی بوجود آمده شامل درزه های اولیه و رشد یافته قابل استفاده در نرم افزارهایی است که مدل‌های هندسی ناپیوستگی‌ها در آنها پایه اصلی تحلیل بوده ولی قابلیت انتشار ترک را ندارند. پس کد تهیه شده به عنوان مکمل روش‌های تحلیلی مثل گروه­های کلیدی و عددی مثل روش های المان مجزا (نرم افزار UDEC) در تحلیل توده‌سنگ‌های درزه‌دار ناممتد قابل استفاده می باشد.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>شیب سنگی</kwd>
+						<kwd>روش ناپیوستگی جابجایی</kwd>
+						<kwd>انتشار درزه</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>حسن پور، ر.، چوپانی، ن.، 1386. "اندازه‌گیری چقرمگی شکست سنگ و بررسی خصوصیات شکست آن تحت شرایط بارگذاری مرکب با استفاده از روشهای عددی و آزمایشگاهی"،سومین کنفرانس مکانیک سنگ ایران،دانشگاه صتعتی امیرکبیر،تهران.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>گودرزی، ه.، 1392. "مدلسازی هندسی سه بعدی دیوارهشمالی معدن چغارت به روش دیسک­هایتصادفی"، پایان نامه کارشناسی ارشد،دانشگاه آزاد اسلامی واحدبافق.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>موسوی ، س.ا.، فاتحی مرجی، م.، لازمی، ح.ع.، 1392. " محاسبه ی تنش ها و جابجایی های اطراف تونل  های دایره ای به روش عددی المان مرزی غیر مستقیم " اولین کنفرانس ملی مهندسی ژئوتکنیک.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>نظری، س.، یاراحمدی بافقی، ع.، فاتحی مرجی، م.، 1393. " مدل سازی عددی انتشار ترک در شیب سنگ های درزه دار به روش ناپیوستگی جابجایی"،  نشریه علمی پژوشی "مهندسی معدن" .</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>یاراحمدی بافقی، ع.ر.، 1384. "تعیین قابلیت اعتماد دیوارههای نهایی معادن سطحی با مطالعه موردی روی دیواره های معدن سنگ آهن چغارت"، طرح پژوهشی، مرکز تحقیقات مواد معدنی ایران، یزد.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Behnia, M., Goshtasbi, K., FatehiMarji, M., Golshani, A.A., 2011. On the crack propagation modeling of hydraulic fracturing by a hybridized displacement discontinuity/boundary collocation method. Journal of Mining &amp; Environment, 2: p.p.1ـ16.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Bieniawski, Z. T., 1967. Mechanics of brittle fracture of rock. Part I, II and III. Int. J. RockMech. Min.Sci. 4: 3p.95ـ4/</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Itasca. 2000. UDEC User’s Guide (Version 3.1). Minneapolis:Itasca Consulting Group Inc.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Marji, M. F., Hosseini_Nasab, H. Kohsary, A.H., 2006. On the uses of special crack tip elements innumerical rock fracture mechanics.  Int. J. Solids andStruct, 43: 1669ـ 1692.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Whittaker, N., Singh, R.N., Sun, G.,1992. Rock fracture mechanics: principles, design and applications, Elsevier, New York._||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_75544_9bea4dad735787752f4fe75b0096a48c.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>زمین شناسی مهندسی ابنیه فنی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>شناسایی و اولویت‌بندی گزینه های احداث سد زیرزمینی در دشت سیلابی قره‌بوته زنجان با استفاده از روش فرآیند تحلیل سلسله مراتبی(AHP)</article-title>
+			        
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>بخشایش</surname>
+			            <given-names>محمد</given-names>
+			          </name>
+					  <aff>استادیار دانشگاه پیام نور زنجانkeshavarzm@yahoo.com</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>نوربخش</surname>
+			            <given-names>مهدی</given-names>
+			          </name>
+					  <aff>مدیر اجرایی بخش آبخیزداری جهاد کشاورزی استان زنجان</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2018</year>
+			      </pub-date>
+			      <volume>10</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>15</fpage>
+			      <lpage>30</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>09</day>
+			          <month>11</month>
+			          <year>2016</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>31</day>
+			          <month>05</month>
+			          <year>2018</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2018, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2018</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_75544.html">http://www.jiraeg.ir/article_75544.html</self-uri> 		
+			      <abstract>
+			        <p>هدف اصلی این مقاله، شناسایی گزینه های مناسب برای احداث سد زیرزمینی در محدوده دشت سیلابی قره­بوته واقع در جنوب­غربی استان زنجان است. سطح آبهای­زیرزمینی این منطقه در سالهای اخیر کاهش یافته­است. احداث سدزیرزمینی، می­تواند تا حدودی به رفع کمبود آب در این منطقه کمک نماید. محدوده مورد مطالعه، از نظر پتانسیل احداث سد زیرزمینی مورد مطالعه قرارگرفته و13 محل برای احداث سازه شناسایی شده­است. در این تحقیق، ابتدا مهمترین عوامل تاثیرگذار در احداث سد زیرزمینی، شناسایی شده­است. این عوامل شامل واحدهای زمین شناسی، گسل، آبراهه، کیفیت آب، عمق سنگ ­بستر و حجم مخزن هستند که با استفاده از روش تحلیل سلسله مراتبی، مقایسه زوجی بین آنها صورت­گرفته و بر اساس ارجحیت هریک از این عوامل به دیگری، ضریب آنها محاسبه شده­است. در این روش با استفاده از تعیین معیار و زیر معیار عوامل موثر در انتخاب ساختگاه، میزان اهمیت آنها در انتخاب محل توسط یک سیستم مقایسه و رتبه­بندی زوجی صورت می­گیرد. به منظور مقایسه نتایج روش تحلیل سلسله مراتبی، از روش وزن­دهی نیز برای اولویت­بندی گزینه­ها استفاده شده­است. در روش وزن دهی، با در نظر گرفتن میزان اهمیت هریک از عوامل شناسایی شده، عددی به عنوان وزن (Weight) آن عامل در نظر گرفته می­شود. برای زیر عاملها نیز، متناسب با درجه اهمیت عددی به عنوان نرخ (Rate) مشخص می­شود. نتیجه مقایسه، بیانگر انطباق مناسب اولویت­بندی­ گزینه­ها با دوروش متفاوت است. با اینحال، به نظر می­رسد که روش AHP به­دلیل مقایسه زوجی عوامل، از دقت بیشتری نسبت به روش وزن­دهی برخوردار است.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>سد زیرزمینی</kwd>
+						<kwd>تحلیل سلسله مراتبی</kwd>
+						<kwd>روش وزن‌دهی</kwd>
+						<kwd>استان زنجان</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>بربریان،م.، 1362، شکل قاره­ای فلات ایران­زمین، گزارش پژوهش وبررسی لرزه زمینساخت ایران­زمین، بخش چهارم، سازمان زمین­شناسی کشور، گزارش شماره 52.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>سازمان هواشناسی استان زنجان، 1393، گزارش هواشناسی 20 ساله اخیر استان زنجان (1390-1370)، سازمان هواشناسی، زنجان، ایران، 47 ص.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>سازمان زمین شناسی و اکتشافات معدنی کشور، 1348، شرح نقشه زمین شناسی زنجان با مقیاس 250000/1. سازمان زمین­شناسی ایران، تهران، ایران.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>سازمان زمین­شناسی و اکتشافات معدنی کشور، 1378، نقشه‌ زمین‌شناسی 100000/1 چارگوش حلب، سازمان زمین شناسی ایران، تهران، ایران.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>گلزارپور، ز.، وزارت جهاد کشاورزی، 1393، گزارش مطالعات ژوتکنیک سدهای زیرزمینی درمنطقه اصفهان، پژوهشکده حفاظت خاک وآبخیزداری ایران، 44 ص.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>معاونت برنامه­ریزی و نظارت راهبردی ریاست جمهوری، 1393، ضوابط ومعیارهای فنی طراحی و اجرای بندهای زیرزمینی، انتشارات سازمان برنامه و بودجه، تهران، ایران، 106 ص.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Anagnostopoulos, K.P., Petlas, C. and Pisinaras,V., 2005. Water resources planningusing the AHP and ROMETHEE multicriteria methods: The case of Nestos river–Greece, The 7th Balkan Conference on Operational Research, 12 pages.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Bancy, M. M., 2006. Overview of Water and soil Nutrient Management under Smallholder Rain-fed Agriculture in East Africa, International Water Management Institude.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Barkhordari,  J., 2015. The pre-selection of suitable sites for small underground dams in arid areas using GIS (A case study in Yazd_Ardakan watershed), International Geoinformatics Research and Development Journal,  6(1): pp: 18-27.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Bowen, M., 1990. Subjective judgments and data environment analysis in site selection, Computer, Environment and Urban Systems, 14: 133-144.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Dey, P. K., Ramcharan, E. K., 2008. Analytic hierarchy process helps select site for limestone quarry explosion in Barbados, Journal of Environmental Management, 88 (2): 1384-1395.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>FAO, WFP, IFAD, 2012. The State of Food Insecurity in the World 2012.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Golden, B.L., Wasil E.A., Harker, P.T.,1989. The analytic hierarchy process: Applications and studies, Springer-Verlag, Berlin. http://www.expertchoice.com/about-us/history/.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Giovanni, F., Marco, G., Caparrini, F., Fabio, C.,2008. A methodology for the pre-selection of suitable sites for surface and underground small dams in arid areas: a case study in the region of Kidal, Mali, Phys. Chem. Earth, 33: 74-85.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Greaves, G.E., 2011. On water augmentation strategies for small island developing states: Case study of Bequia, St. Vincent, National Central University, Taiwan.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Hansson, G., Nilsson, A., 1986. Groundwater dams for rural water supplies in developing countries. Groundwater, 24 (4): 497–506.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Ishizaka, A., Labib, A., 2011. Review of the main developments in the analytic hierarchy process, Expert Systems with Applications, 38: 14336-14345.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Liu R., 2004. Using system dynamics in decision support for sustainable waste management, National University of Singapore, Singapore.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Opricovic, S., 2011. Fuzzy VIKOR with an application to water resources planning. Expert Systems with Applications, 38 (10): 12983 – 12990.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Paliska, D., Cop, R., Fabjan, D., 2010. The use of GIS-based spatial multi-criteria evaluation in the selection process for the New Slovenia geomagnetic observatory site. SITE. Annales Series Hisoria Nataturalis, 20(1): 1-8.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Saaty, T. L., 2008. Decision making with the analytic hierarchy process. Int. J. Sci., 1 (1): 83-98.</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Saaty, T.L., Vargas, G.L., 2001. Models, Methods, Concepts, and Applications of the Analytic Hierarchy Process, Kluwer Academic Publisher, Boston.</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Satoshi I., Motoii K., Eiichi A.,.Fazal, M.A., Takeo T.,  Masayuki I.,2003. Construction of subsurface dams and their impact on the environment,  Materials Geoenvironment, 50 (1): 1091-114.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Srdjevic, B., Medeiros, Y.D.P., 2008. Fuzzy AHP assessment of water management plans, Water Resources Management, 22: 877-894.</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>Telmer, K. and M. Best., 2004. Underground dams; a practical solution for the water needs of small communities in semi-arid regions, scientific communications, TERRAE, 1(1): 63-65.</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Wang, X., 2009. A proposal and application of the integrated benefit assessment model for urban water resources exploitation and utilization, Water Resources Management,  23: 1171-1182.</element-citation>
+		</ref>
+		<ref id="R27">
+			<label>27</label>
+			<element-citation> _||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_75545_3a7bcb26f46d4084bd23cc940dd2127b.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>ویژگی های زمین شناسی مهندسی مصالح طبیعی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>تولید سبکدانه از شیل و مقایسه مشخصات آن با سبکدانه‌های تولیدی در ایران</article-title>
+			        <subtitle>تولید سبکدانه از شیل و مقایسه مشخصات آن با سبکدانه‌های تولیدی در ایران</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1">
+			          <name>
+			            <surname>امیری</surname>
+			            <given-names>محمدکاظم</given-names>
+			          </name>
+					  <aff>دانشجوی دکتری زمین­شناسی مهندسی، دانشگاه فردوسی مشهد</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2" corresp="yes">
+			          <name>
+			            <surname>نیکودل</surname>
+			            <given-names>محمدرضا</given-names>
+			          </name>
+					  <aff>استادیار،‌ گروه زمین‌شناسی مهندسی دانشکده علوم پایه دانشگاه تربیت مدرس  nikudelm@yahoo.com</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2018</year>
+			      </pub-date>
+			      <volume>10</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>31</fpage>
+			      <lpage>4</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>15</day>
+			          <month>10</month>
+			          <year>2015</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>04</day>
+			          <month>12</month>
+			          <year>2017</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2018, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2018</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_75545.html">http://www.jiraeg.ir/article_75545.html</self-uri> 		
+			      <abstract>
+			        <p>از سبکدانه­ها به منظور کاهش وزن، عایق­کاری حرارتی و صوتی، ساخت فرآورده­های سبک مانند انواع بتن­های ­سبک، ملاتها و اندودها، فرآورده­های قیری و خاک کشاورزی استفاده می‌شود. با توجه به فروان بودن سازندهای شیلی در زونهای مختلف ساختاری ایران و از طرف دیگر ارزشمند بودن منابع خاک رس مورد نیاز برای تولید سبکدانه‌ها از لحاظ زیست محیطی و کشاورزی، شیل‌ها جایگزین مناسبی برای تولید این مصالح­اند. در این مقاله آنالیزهای شیمیایی بر روی شیل‌ها  و مارن­های استان فارس انجام گرفت، سپس با توجه به مطالعات صورت گرفته شیل‌های آرژیلیتی بکت و نورآباد برای حرارت­دهی و تولید سبکدانه‌ها مناسب تشخیص داده شد. سپس برخی خصوصات، فیزیکی، شیمیایی و مکانیکی نمونه­های حرارت داده شده و ویژگی­های اولیه سبکدانه­های تولیدی مورد بررسی قرار گرفت و با سبکدانه­های تولیدی حال حاضر در ایران مقایسه شد. نتایج نشان داد که سبکدانه­های شیل منبسط­شده تولیدی وزن مخصوص کمتر، درصد جذب آب، ارزش فشاری و ضربه­ای بیشتری از لیکا و لیاپور دارند و از لحاظ دانه­بندی و pH  هر سه سبکدانه در یک محدوده قرار دارند. با توجه به نتایج بدست آمده، شیل منبسط­شده تولید شده سبکتر از نمونه­های تولیدی در ایران است اما مقاومت کمتری از آنها دارد و می­توان از آن به عنوان پرکننده، ساخت عایق­های حرارتی و ساختن بتن برای دیوارهای جداکننده و غیرباربر استفاده کرد.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>شیل منبسط شده</kwd>
+						<kwd>تئوری ریلی</kwd>
+						<kwd>حرارت‌دهی</kwd>
+						<kwd>لیکا</kwd>
+						<kwd>لیاپور</kwd>
+						<kwd>خواص فیزیکی و مکانیکی</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>آقانباتی، ع.، 1383. زمین‌شناسی ایران. انتشارات سازمان زمین‌شناسی کشور، 707 ص.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>تهرانی، ف،1377،راهنمای جامع لیکا: دانه­های رس منبسط شده و فرآورده­های آن.شرکت لیکا،تهران، 143ص.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>شکرچی­زاده،م؛امدادی،ا؛لیبر،ن.ع؛1387. بتن سبکدانه، فناوری وکاربردها. موسسه انتشارات و چاپ دانشگاه تهران، 115 ص.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>موسسه استاندارد و تحقیقات صنعتی ایران، 1385. دفتر امرو تدوین استاندارد، فهرست استاندارهای ساختمان، مصالح ساختمانی و مواد معدنی، استاندارد 1162، 17 ص.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>AASHTO, Designation T 88, 2000, Particle size analysis of soils.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>AASHTO The Voice of Transportation. T0 27. (2006)</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Al-Ajeel, A, Muslim, W., Joodi, M., 2011. Bloating characteristic of low grade Ca-Montmorillonite claystone and the effective of some additive. Iraqi Bulletin of Geology and Mining, 7(2): 57-67.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>ASTM C29 / C29M-16, 2016, Standard Test Method for Bulk Density (“Unit Weight”) and Voids in Aggregate, ASTM International, West Conshohocken, PA, www.astm.org</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>ASTM C136 / C136M-14, Standard Test Method for Sieve Analysis of Fine and Coarse Aggregates, ASTM International, West Conshohocken, PA, 2014, www.astm.org</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>ASTM C136 / C136M-14, 2014. Standard Test Method for Sieve Analysis of Fine and Coarse Aggregates. ASTM International, West Conshohocken, PA, www.astm.org.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>ASTM D1293-12, 2012. Standard Test Methods for pH of Water. ASTM International, West Conshohocken, PA, www.astm.org.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>ASTM D3906-03), 2013. Standard Test Method for Determination of Relative X-ray Diffraction Intensities of Faujasite-Type Zeolite-Containing Materials, ASTM International, West Conshohocken, PA, www.astm.org.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>ASTM D5381-93, 2014, Standard Guide for X-Ray Fluorescence (XRF) Spectroscopy of Pigments and Extenders, ASTM International, West Conshohocken, PA, www.astm.org.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>British Standards Institution, 2000. Tests for Mechanical and Physical Properties of Aggregates: Part 6 Determination of Particle Density and Water Absorption. British Standards Institution.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>BS 812-112, 1990, esting aggregates. Method for determination of aggregate impact value (AIV).</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Burdett, J.K., Price, G.L., Price, G.L., 1982. Role of the crystal-field theory in determining the structures of spinels. Journal of American Chemical Society, 104: 92–95.    </element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Buyle-Bodin , F., Madhkhan, M., 2002. Performance and modelling of steel fiber reinforced piles under seismic loading.Engineering Structures, 24: 1049-1056.       </element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Chandra, S., Berntsson, L., 2002. Lightweight Aggregate Concrete: Science, Technalogy and                                     Applications. First ed., Noyes Puplications, New York, 250p.              </element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Clarke, J.L., 1993. Structural Lightweight Aggregate. First ed., Blackie Academic, Professional, Londen. </element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>El-Hady, A., 1990, Analictical and Mechanical Investigation of Lightweight Expanded Clay Aggregate for Utilizationin Concrete. Master of science thesis, Ain shams University, Cairo, 114p.  </element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Haydn, H., Smith, M., 1958. Lightweight Aggregate Potentialities of Some Indiana Shale. Indiana Department of Conservation Geologival Survey, Report of Progress, 12.</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>ESCSI, 2011 . Expanded Shale, Clay and Slate Inistitute. Document 7600, available at www.escsi.org. </element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Medri, V., Papa, E., Mazzocchi, M., Laghi, L., Morganti, M., Francisconi, J., Landi, E., 2015. Production and characterization of lightweight vermiculite/ geopolymer-based panels. Materials and Design, 85: 266–274.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Nehdi, M., Duquette, J., Damatty, E.L., 2003. Performance of rice husk ash produced using a new technology as mineral admixtures in concrete. Cement and Concrete Research, 33: 1203-1210.</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>Ouchi, M., Hibino, M., Okamura, H. 1996. Effect of super plasticizer on self-compact ability of fresh concrete, Journal of Transportation Research Board, 1574: 37- 40.</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Ozawa, K., Maekawa, K., Okamura, H., 1996. Self-Compacting high performance concrete , Collected Papers (University of Tokyo: Department of Civil Engineering), 34: 135-149.</element-citation>
+		</ref>
+		<ref id="R27">
+			<label>27</label>
+			<element-citation>Ozguven, A., Gunduz, L., 2012 .Examination of effective parameters for the  production of expanded clay aggregate. Cement &amp; Concrete Composites, 34(28): 781-787.    </element-citation>
+		</ref>
+		<ref id="R28">
+			<label>28</label>
+			<element-citation>Riley, C.M., 1951. Relation of chemical properties to the bloating of clays. Minnesota Geological Survey, Summary Report , Minnesota, 5: 121–28.</element-citation>
+		</ref>
+		<ref id="R29">
+			<label>29</label>
+			<element-citation>   Sabtan,  A.A., 2005. Geotechnical properties of expansive clay shale in Tabuk, Saudi Arabia. Journal of Asian Earth Sciences, 25: 747–757.        </element-citation>
+		</ref>
+		<ref id="R30">
+			<label>30</label>
+			<element-citation> UNE-EN 1097-6, 2000. Test for mechanical and physical properties of aggregates, Part 6:   determination of particle density and water absorption.</element-citation>
+		</ref>
+		<ref id="R31">
+			<label>31</label>
+			<element-citation>Volland, S., Brötz, J., 2015. Lightweight aggregates produced from sand sludge and zeolitic rocks.  Construction and Building Materials, 85: 22–29.</element-citation>
+		</ref>
+		<ref id="R32">
+			<label>32</label>
+			<element-citation> _||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_75546_573d92c2264fe5142f7de70189ed754d.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>ویژگی های زمین شناسی مهندسی مصالح طبیعی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>بررسی کارایی روش عدد پتروگرافی در تعیین کیفیت برخی از مصالح سنگی کشور جهت استفاده در سازه های حفاظت دریایی</article-title>
+			        <subtitle>بررسی کارایی روش عدد پتروگرافی در تعیین کیفیت برخی از مصالح سنگی کشور جهت استفاده در سازه های حفاظت دریایی</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1">
+			          <name>
+			            <surname>کمانی</surname>
+			            <given-names>مجتبی</given-names>
+			          </name>
+					  <aff>دانشجوی دکترای زمین­شناسی مهندسی، دانشگاه اصفهان</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2" corresp="yes">
+			          <name>
+			            <surname>اجل لوئیان</surname>
+			            <given-names>رسول</given-names>
+			          </name>
+					  <aff>استاد زمین‌شناسی مهندسی، دانشگاه اصفهان</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2018</year>
+			      </pub-date>
+			      <volume>10</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>45</fpage>
+			      <lpage>59</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>14</day>
+			          <month>01</month>
+			          <year>2018</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>22</day>
+			          <month>09</month>
+			          <year>2018</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2018, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2018</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_75546.html">http://www.jiraeg.ir/article_75546.html</self-uri> 		
+			      <abstract>
+			        <p>آیین­نامه­های مختلفی برای ارزیابی منابع سنگی به ویژه سنگ­های آهکی جهت استفاده در سازه­های آبی ارائه شده است. اگرچه تفاوت­هایی بین این آیین­نامه­ها وجود دارد ولی برای ارزیابی مصالح سنگی طبق این آیین­نامه­ها، آزمایشات متعددی مورد نیاز است که اغلب وقت­گیر، هزینه­بر و بعضاً به لحاظ اجرایی مشکل خواهد بود. روش عدد پتروگرافی، یکی از روش­های سریع، آسان و کم هزینه در این زمینه است که پیشنهاداتی برای بیان کیفیت مصالح سنگ آهکی دارد. در روش عدد پتروگرافی درصد مولفه­های پتروگرافی سنگ شامل نوع آلوکم، تخلخل، سیمان و ماتریس، کانی­های کربناته و غیرکربناته بدست آمده و با روش جمع عددی تبدیل به یک عدد به نام عدد پتروگرافی می­شود. در این مقاله به بررسی این روش پرداخته شده است. بدین منظور تعداد 33 نمونه از سنگ­آهک مورد استفاده در سازه­های حفاظت دریایی در سواحل جنوب و سدهای داخل کشور جمع­آوری شده است. آزمایشات وزن واحد حجم، درصد جذب آب، ارزش ضربه­ای، شاخص بار نقطه­ای، مقاومت تراکمی تک محوره، سلامت سنگ در سولفات، شاخص دوام و سایش لس­آنجلس برروی نمونه­ها انجام گرفته است. همچنین به منظور تعیین عدد پتروگرافی، از همان نمونه­ها مقاطع نازک میکروسکوپی تهیه و عدد پتروگرافی برای آنها محاسبه شده است. سپس به بررسی همبستگی و سطح معناداری بین عدد پتروگرافی با نتایج آزمایشات پرداخته شده است. همچنین نتایج طبقه­بندی حاصل از آیین­نامه­های مختلف با طبقه­بندی حاصل از عدد پتروگرافی سنجیده شده است. به طور کلی، نتایج حاکی از وجود ارتباط مناسب بین عدد پتروگرافی با نتایج آزمایشات و آیین­نامه­ها دارد. ضریب همبستگی (R) بین عدد پتروگرافی با سایر نتایج آزمایشات به جزء سلامت سنگ در سولفات و مقاومت تراکمی تک محوره، بزرگتر از 79/0 است. همچنین رابطه­ی بین عدد پتروگرافی با مجموع امتیازات معیار وزارت راه ضریب همبستگی برابر 86/0= R2نشان می دهد.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>روش عدد پتروگرافی</kwd>
+						<kwd>کیفیت مصالح آهک</kwd>
+						<kwd>سازه‌های حفاظت دریایی</kwd>
+						<kwd>معیارهای انتخاب مصالح سنگی</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>امینی، م.، 1385. ارزیابی عملکرد سنگ در موج­شکن­های توده­سنگی سواحل شمالی خلیج فارس، پایان­نامه کارشناسی ارشد زمین­شناسی مهندسی، دانشکده علوم پایه، دانشگاه تربیت مدرس.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>امینی­، م.، شفیعی­فر، م.، نیکودل، م.ر.، 1388. مقایسه سنگ­های آهکی بکار رفته در موج شکن­های سواحل جنوبی کشور با معیارهای ارزیابی کیفیت سنگ، پژوهشنامه حمل و نقل، سال ششم، شماره سوم.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>تلخابلو، م.، ۱۳۸۶. ارزیابی ویژگی‌های مهندسی سنگها و ارائه معیارهای مناسب جهت کاربرد در سازه‌های دریایی- سواحل جنوبی ایران، رساله دکتری زمین­شناسی مهندسی، دانشکده علوم پایه، دانشگاه تربیت مدرس.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>جلالی، ح.، 1369. اهمیت دوام سنگ در پایداری موج­شکن­های سنگریزه­ای، اولین کنفرانس بین­المللی بندر سازی و سازه­های دریایی، جلد دوم، تهران.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>مومنی، م.، قیومی، ع.، 1395. تحلیل های آماری با استفاده از SPSS ، 312 ص.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>نیکودل، م.، 1369. مطالعه معیارهای شناخت زوال­پذیری سنگ، پایان­نامه کارشناسی ارشد زمین­شناسی مهندسی، دانشکده علوم پایه، دانشگاه تربیت مدرس.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>وزارت راه و ترابری، 1388. آئین­نامه کاربرد سنگ در موج­شکن­ها و سازه­های حفاظت، مرکز نشر پژوهشکده حمل و نقل، تهران.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Ajalloeian, R., Kamani, M., 2017. An investigation of the relationship between Los Angeles abrasion loss and rock texture for carbonate aggregates, Bulletin of Engineering Geology and the Environment, Published online: 20-12-2017, https://doi.org/10.1007/s10064-017-1209-y</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Ajalloeian, R., Mansouri, H., Baradaran, E., 2017. Some carbonate rock texture effects on mechanical behavior, based on Koohrang tunnel data, Iran, Bull Eng Geol Environ.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>ASTM, 2013. Annual Book of Standards. American Society ofTesting and Materials, West Conshohocken.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Bayne, RL., Brownridge, FC, 1955, Petrographic analysis for determining quality of coarse aggregate, Proceeding, Canadian Good Roads Association, 36: 114-122.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>Bragg, DJ., 1995. Petrolographic examination of construction aggeregate of Newfoundland, Geological survey, Report 95-1, pp. 77-104.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>British Standard Institution, BSI 812, 1989. "Code of practice for determination of Aggregate", Impact Value, "B.S. 812".</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>British Standard, BS 6349, 200. Martime structures, Part 1: Code of practice for general criteria.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Broch, E. and Franklin, J., 1972. The point-load strength test. Paper presented at the International Journal of Rock Mechanics and Mining Sciences &amp; Geomechanics Abstracts.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Chitnarin, A., 2015. The influence of lithology, petrography and chemistry on mechanical property of the Permian limestones in central Thailand, 5th GEOINDO,  Khon Kaen ,Thailand.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Choquette, P. W., and L. C. Pray, 1970. Geologic nomenclature and classification of porosity in sedimentary carbonates: AAPG Bulletin, 54(2): 207–250.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>CIRIA/CUR. 2000، Manual on the use of rock in coastal and shoreline engineering, Construction Industry Research and Information Association, London. CIRIA Spec Publ 83/CUR, Report 154.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Dunham RJ., 1962. Classification of carbonate rocks according to depositional textures. In: Ham WE (ed) Classification of carbonate rocks, A symposium, Am Assoc Petroleum Geologist Mem, 1: 108–121.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Fookes, P., Gourley, C. and Ohikere, C., 1988. Rock weathering in engineering time. Quarterly Journal of Engineering Geology and Hydrogeology, 21(1): 33-57.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Howarth, D. and Rowlands, J., 1987, Quantitative assessment of rock texture and correlation with drillability and strength properties. Rock mechanics and rock engineering, 20(1): 57-85.</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>ISRM, International Society for Rock Mechanics, 1978. Commission on standardization of laboratory and field tests, Int. J. Rock Mech. Min. Sci. &amp; Geomech. Abstr., Vol. 15.</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Kamani, M., Ajalloeian, R., 2018. Evaluation of engineering properties of some carbonate rocks trough corrected texture coefficient, Geotechnical and Geological Engineering, https://doi.org/10.1007/s10706-018-0630-8.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Mather, R., 1985. Rock for breakwater construction in Western Australia-its availability and influence on design. Engineering Geology, 22(1): 35-44.</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>McClellan, G.H., Eades, JL., Grerory, JS., Fountain, KB., 2002. Evaluation and petrologic characteristics of Florida riprap sources. Final Report, Department of Geological Science, University of Florida. p 107.</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Nishiyama, T., Youqing, C., Kusuda, H., Ito, T., Kaneko, K., Kita, H., Sato, T., 2002. The examination of fracturing process subjected to triaxial compression test in Inada granite. Eng. Geol. 66: 257–269.</element-citation>
+		</ref>
+		<ref id="R27">
+			<label>27</label>
+			<element-citation>Norusis, M., 2002. SPSS 11.0 Guide to data analysis. Prentice Hall Inc., Upper Saddle River, NJ, 637 pp.</element-citation>
+		</ref>
+		<ref id="R28">
+			<label>28</label>
+			<element-citation>OCDI, 2000. Technical Standards and Commentaries for Port and Harbour Facilities in Japan. The Overseas Coastal Area Development Institute, Japan.</element-citation>
+		</ref>
+		<ref id="R29">
+			<label>29</label>
+			<element-citation>Oyen, C.W., Fountain, K.B., McClellan, G.H., Eades, J.L., 1998. Thin-section petrography of concrete aggregates: Alternative approach for petrographic number evalution of carbonate aggregate soundness, Transportation research record 1619: 18-25.</element-citation>
+		</ref>
+		<ref id="R30">
+			<label>30</label>
+			<element-citation>Rogers, C.A., 1990. Petrographic examination of aggregate and concrete in Ontario, In Erlin B and Stark D, (eds) Petrography applied to concrete and concrete aggregates, ASTM STP 1061: American society for testing and Materials, Philadelphia, p. 5-31.</element-citation>
+		</ref>
+		<ref id="R31">
+			<label>31</label>
+			<element-citation>Shakoor, A., Bonelli, R.E., 1991. Relationship between petrophysical characteristics, engineering index properties and mechanical properties of selected sandstones. Bull. Assoc. Eng. Geol. 28: 55–71.</element-citation>
+		</ref>
+		<ref id="R32">
+			<label>32</label>
+			<element-citation>Tamrakar, K.N., Yokota, S., Shrestha, S.D., 2007. Relationships among mechanical, physical and petrographic properties of Siwalik sandstones, Central Nepal sub-Himalayas. Eng. Geol. 90: 105–123.</element-citation>
+		</ref>
+		<ref id="R33">
+			<label>33</label>
+			<element-citation>Tandon, R.S., Gupta, V., 2013. The control of mineral constituents and textural characteristics on the petrophysical &amp; mechanical (PM) properties of different rocks of the Himalaya. Eng. Geol. 153: 125–143.</element-citation>
+		</ref>
+		<ref id="R34">
+			<label>34</label>
+			<element-citation>Tiryaki, B., Cagatay Dikmen, A., 2006. Effects of rock properties on specific cutting energy in linear cutting of sandstones by picks, Rock Mech. Rock Engng. 39( 2): 89–120</element-citation>
+		</ref>
+		<ref id="R35">
+			<label>35</label>
+			<element-citation>Ulusay, R., Tureli, K., Ider, M.H., 1994. Prediction of engineering properties of a selected litharenite sandstone from its petrographic characteristics using correlation andmultivariate statistical techniques. Eng. Geol. 38 (1–2): 135–157.</element-citation>
+		</ref>
+		<ref id="R36">
+			<label>36</label>
+			<element-citation>Ündül, O., 2016. Assessment of mineralogical and petrographic factors affecting petro-physical properties, strength and cracking processes of volcanic rocks, Engineering Geology, 210: 10–22.</element-citation>
+		</ref>
+		<ref id="R37">
+			<label>37</label>
+			<element-citation> _||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_75547_fe9da9ea34223020632d033d13f4b1a4.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>زمین آمار</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>مدل‌سازی گسیختگی واژگونی بلوکی-خمشی پیشرونده با استفاده از روش عددی المان مجزا (مطالعه موردی: منطقه ویژه پارس جنوبی)</article-title>
+			        
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1">
+			          <name>
+			            <surname>آذرافزا</surname>
+			            <given-names>محمد</given-names>
+			          </name>
+					  <aff>دانشجوی دکتری زمین‌شناسی مهندسی، دانشگاه اصفهان، اصفهان</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2" corresp="yes">
+			          <name>
+			            <surname>قاضی فرد</surname>
+			            <given-names>اکبر</given-names>
+			          </name>
+					  <aff>عضو هیات علمی گروه زمین‌شناسی، دانشگاه اصفهان، اصفهان</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>اصغری کلجاهی</surname>
+			            <given-names>ابراهیم</given-names>
+			          </name>
+					  <aff>عضو هیات علمی گروه زمین‌شناسی، دانشگاه تبریز، تبریز</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2018</year>
+			      </pub-date>
+			      <volume>10</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>61</fpage>
+			      <lpage>73</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>02</day>
+			          <month>02</month>
+			          <year>2018</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>22</day>
+			          <month>09</month>
+			          <year>2018</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2018, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2018</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_75547.html">http://www.jiraeg.ir/article_75547.html</self-uri> 		
+			      <abstract>
+			        <p>واژگونی بلوکی-خمشی به دلیل درگیر کردن مکانیسم­های گسیختگی چندگانه (لغزش-دوران- خمش و برش) در بلوک­های سنگی همواره تنها به صورت رویکردهای کینماتیک تحلیل شده و مکانیسم ناپایدارساز آن کمتر مورد توجه قرار گرفته است. در این مقاله سعی گردیده تا با بکارگیری روش المان مجزا (DEM) توسط نرم­افزار UDEC، مکانیسم گسیختگی واژگونی بلوکی-خمشی که به عنوان پیچیده­ترین نوع ناپایداری در دامنه­های سنگی درزه­دار مطرح است، ارزیابی شود. بدین منظور دامنه سنگی درزه­دار واقع در بزرگراه اصلی جاده عسلویه-کنگان (منطقه ویژه پارس جنوبی) که به لحاظ مواصلاتی در منطقه دارای اهمیت بالایی می­باشد، به عنوان مطالعه موردی انتخاب گردیده است. این دامنه از آهک­های مارنی درزه­دار سازند آغاجاری تشکیل شده که عامل اصلی ناپایداری و لغزش در این بزرگراه محسوب می­شود. بر پایه نتایج حاصل از مدل­سازی، رویکرد عددی بکارگرفته شده، به صورت موفقیت­آمیزی سناریو لغزش پیش­رونده در دامنه را شبیه­سازی نموده و سطح لغزش نهایی بحرانی برای گسیختگی دامنه تحت مکانیسم واژگونی بلوکی-خمشی برآورد گردیده است. همچنین مکانیسم­های گسیختگی چندگانه نیز بصورت شهودی کاملاً شناسایی گردیده است. باتوجه به شبیه­سازی­های انجام گرفته، گسترش سطح گسیختگی به هر دو حالت بین بلوکی و درون بلوکی مشاهده می­گردد که از ویژگی­های مهم واژگونی بلوکی-خمشی است. رخداد دوران در زمان گسیختگی برای ستون­های شکسته شده نیز مشاهده می­گردد. واژگونی بلوکی-خمشی، روش المان مجزا (DEM)، شبیه­سازی کامپیوتری، تحلیل پایداری، عسلویه.  </p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>واژگونی بلوکی-خمشی</kwd>
+						<kwd>روش المان مجزا (DEM)</kwd>
+						<kwd>شبیه‌سازی کامپیوتری</kwd>
+						<kwd>تحلیل پایداری</kwd>
+						<kwd>عسلویه</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>آقانباتی ع.، 1385. زمین­شناسی ایران. انتشارات سازمان زمین­شناسی و اکتشافات معدنی کشور، تهران، ایران.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>Alejano, L.R., Gómez-Márquez, I., Martínez-Alegría, R., 2010. Analysis of a complex toppling-circular slope failure. Engineering Geology, 114(1): 93-104.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>Amini, M., Ardestani, A., Khosravi, M.H., 2017. Stability analysis of slide-toe-toppling failure. Engineering Geology, 228: 82-96.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>Amini, M., Majdi, A., Aydan, Ö., 2009. Stability analysis and the stabilisation of flexural toppling failure. Rock Mechanics and Rock Engineering, 42(5): 751-782.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>Amini, M., Majdi, A., Veshadi, M.A., 2012. Stability analysis of rock slopes against block flexure toppling failure. Rock Mechanics and Rock Engineering, 45(4): 519-532.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Ashby, J., 1971. Sliding and toppling modes of failure in models and jointed rock slopes. M.Sc. thesis, Imperial College, University of London.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>ASTM D3080., 2011. Standard Test Method for Direct Shear Test of Soils Under Consolidated Drained Conditions. ASTM International, West Conshohocken, PA, USA.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>ASTM D7012., 2014. Standard Test Methods for Compressive Strength and Elastic Moduli of Intact Rock Core Specimens under Varying States of Stress and Temperatures. ASTM International, West Conshohocken, PA, USA.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>ASTM D5873., 2014. Standard Test Method for Determination of Rock Hardness by Rebound Hammer Method. ASTM International, West Conshohocken, PA, USA.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>ASTM D5731., 2016. Standard Test Method for Determination of the Point Load Strength Index of Rock and Application to Rock Strength Classifications. ASTM International, West Conshohocken, PA, USA.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>ASTM D4914., 2016. Standard Test Methods for Density of Soil and Rock in Place by the Sand Replacement Method in a Test Pit. ASTM International, West Conshohocken, PA, USA.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>Aurenhammer, F., Klein, R., Lee, D., 2013. Voronoi Diagrams and Delaunay Triangulations.World Scientific Publication, New Jersey, USA.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Azarafza, M., Asghari-Kaljahi, E., Akgün, H., 2017. Assessment of Discontinuous Rock Slope Stability with Block Theory and Numerical Modeling: A Case Study for the South Pars Gas Complex, Assalouyeh, Iran. Environmental Earth Science, 76(1): 397.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Brideau, M.A., Stead, D., 2010. Controls on block toppling using a three dimensional distinct element approach. Rock Mechanics and Rock Engineering, 43: 241-260.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Cundall, P., 1971. A computer model for simulating progressive, large scale movements in blocky rock systems. Proceedings of the International Symposium on Rock Fracture, Nancy, France.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Gallier, J., 2012. Notes on Convex Sets, Polytopes, Polyhedra, Combinatorial Topology, Voronoi Diagrams and Delaunay Triangulations. Department of Computer and Information Science, University of Pennsylvania, Philadelphia USA.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Goodman, R.E., 1989. Introduction to Rock Mechanics. Wiley &amp; Sons, New Jersey, USA.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Goodman, R.E., Bray, J.W., 1976. Toppling of rock slopes. Rock Engineering for Foundations and Slopes (ASCE), 2: 201-234.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Hudson, J.A., Harrison, J.P., 1997. Engineering rock mechanics: an introduction to the principles. Pergamon Elsevier, Amsterdam, Netherlands.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Hudson, J.A., Priest, S.D., 1979. Discontinuous and rock mass geometry. International Journal of Rock Mechanics and Mining Sciences &amp; Geomechanics Abstracts, 16: 336-362.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Itasca., 2008. UDEC - Universal distinct element code. Itasca Consulting Group, Inc., Minneapolis. UDEC Version 4.00, USA, 2008.</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Jing, L., Hudson, J.A., 2002. Numerical Methods in Rock Mechanics. International Journal of Rock Mechanics and Mining Sciences, 39(4): 409-427.</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Müller, L., 1968. New considerations on the Vaiont slide. Rock Mechanics &amp; Engineering Geology, 6: 1-91.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Nikoobakht, S., Azarafza, M., 2016. Stability analysis and numerical modelling of toppling failure of discontinuous rock slope (A Case study). Journal of Geotechnical Geology, 12(2): 169-178.</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>Sukumar, N., Bolander, J.E., 2009. Voronoi-based Interpolants for Fracture Modelling. Tessellations in the Sciences, 1-27.</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Wyllie, D.C., Mah, C.W., 2004. Rock Slope Engineering. 4th Edition, Spon Press, London, UK._||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_75683_804d651c1e4fc19280afc5a0a9c7acf8.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>اکتشافات زیر سطحی وآزمایشات برجا</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>تاثیر جهت‌داری تنش‌های محصورکننده بر نفوذ دیسک TBM با استفاده از PFC2D</article-title>
+			        <subtitle>تاثیر جهت‌داری تنش‌های محصورکننده بر نفوذ دیسک TBM با استفاده از PFC2D</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>‌سرفرازی</surname>
+			            <given-names>وهاب</given-names>
+			          </name>
+					  <aff>هیات علمی دانشگاه صنعتی همدان، گروه مهندسی معدن، همدان، ایران</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>شیرکوند</surname>
+			            <given-names>رحمان</given-names>
+			          </name>
+					  <aff>دانشجوی فوق لیسانس معدن، دانشگاه صنعتی همدان، همدان، ایران</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2018</year>
+			      </pub-date>
+			      <volume>10</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>75</fpage>
+			      <lpage>84</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>26</day>
+			          <month>06</month>
+			          <year>2017</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>22</day>
+			          <month>09</month>
+			          <year>2018</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2018, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2018</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_75683.html">http://www.jiraeg.ir/article_75683.html</self-uri> 		
+			      <abstract>
+			        <p>در این تحقیق با استفاده از نرم‌افزار PFC2D تاثیر جهت‌داری تنش‌های محصورکننده بر مکانیزم خردشدگی سنگ بررسی شده است. به این منظور 5 زاویه‌داری برای تنش‌های محصورکننده وارد بر سنگ با مقاومت کششی 1/2 مگاپاسکال انتخاب شده است. مدل‌های عددی با جهت‌داری‌های 0، 30، 45، 60 و 90 درجه به ترتیب تحت تنش محصورکننده 5، 10 و 15 درصد تنش شروع ترک قرار گرفتند. دیسک‌های انتخاب شده جهت حفاری سنگ U شکل و فاصله‌داری بین آنها ثابت1a بودند.(a عرض تیغه می باشد). در نهایت از  نتایج گرفته شده می‌توان دریافت که بهینه‌ترین جهت‌داری تنش‌های محصورکننده در فاصله‌داری ثابت a1، و در جهت صفر درجه می‌باشد که باعث خردایش بهتر و ایجاد تراشه در سنگ در فضای بین دیسک‌های برنده می‌شود.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>نرم‌افزار PFC2D</kwd>
+						<kwd>جهت‌داری</kwd>
+						<kwd>مقاومت کششی</kwd>
+						<kwd>تنش‌های محصورکننده</kwd>
+						<kwd>فاصله‌داری دیسک</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>سرفرازی، و.، میخک بیرالوند، ن.، 1395. مطالعه تاثیر نسبت مقاومت کششی به فشار محصورکننده بر نفوذ دیسک u  شکل TBMتوسط روش اجزای گسسته، نشریه علمی پژوهشی مهندسی معدن، دوره یازدهم، شماره23، پاییز، صفحه 33-45.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>Bejari. H, Kakaie. R, Ataei .M, Khademi-Hamidi .J.2011. Simultaneous effects of joint spacing and joint orientation on the penetration rate of a single disc cutter. Mining Science and Technology (China) 21:507–512.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>Bejari.H , Khademi Hamidi.J.2013. Simultaneous Effects of Joint Spacing and Orientation on TBM Cutting Efficiency in Jointed Rock Masses. Rock Mech Rock Eng 46:897–907.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>Grandori R, Jaeger M, Antonini F, Vigl L. 1995. Evinos-Mornos Tunnel, Greece—construction of a 30 km long hydraulic tunnel in less than three years under the most adverse geological conditions. Proceedings of the RECT, San Francisco, Society for Mining, Metallurgy, and Exploration. p. 747–67.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>Gong, Q.M., Jiao, Y.Y., Zhao, J., 2006. Numerical simulation of influence of joint spacing on rock fragmentation by TBM cutters. Tunneling and Underground Space Technology 21 (1), 46–55.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Hongsu Ma, 2011. Numerical study of the effect of confining stress on rock fragmentation by TBM cutters, State Key Laboratory of High- Efficient Mining and Safety of Metal Mines, Ministry of Education, University of Science and Technology Beijing, Beijing, 100083, PR China.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Jung-Woo Cho, Seokwon Jeon, Sang-Hwa Yu, Soo-Ho Chang,2010. Optimum spacing of TBM disc cutters: A numerical simulation using the three-dimensional dynamic fracturing method. Tunnelling and Underground Space Technology 25: 30–244.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Liu, H.Y., Kou, S.Q., Lindqvist, C.A., Tang, C.A., 2002. Numerical simulation of the rock fragmentation process induced by indenters. International Journal of Rock Mechanics and Mining Science 39, 491– 505..</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Ramamurthy T. 1993. Strength and modulus responses of anisotropic rocks, comprehensive rock engineering, vol. 1. UK: Pergamon Press,. p. 313–29 [Chapter 13].</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Seung-Joong Lee, Sung O. Choi.. , 2009.  Numerical Analysis on Fragmentation Mechanism by Indentation of Disc Cutter in a Rock Specimen with a Single Joint. TUNNEL &amp; UNDERGROUND SPACE, Vol. 19, No. 5, pp. 440-449._||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_75684_2e4d06ea93782c56c80d642623c41969.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>ویژگی های زمین شناسی مهندسی مصالح طبیعی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>بررسی عوامل موثر در بهبود ویژگی‌های فیزیکی سنگ‌مصنوعی و مقایسه ویژگی های مهندسی سنگ‌مصنوعی ساخته شده با دو نمونه سنگ طبیعی</article-title>
+			        
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1">
+			          <name>
+			            <surname>میرجلیلی</surname>
+			            <given-names>طیبه</given-names>
+			          </name>
+					  <aff>فارغ التحصیل کارشناسی ارشد زمین­شناسی مهندسی دانشگاه تربیت مدرس</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2" corresp="yes">
+			          <name>
+			            <surname>خامه چیان</surname>
+			            <given-names>ماشااله</given-names>
+			          </name>
+					  <aff>استاد گروه زمین­شناسی مهندسی، دانشگاه تربیت مدرس</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>نیکودل</surname>
+			            <given-names>محمدرضا</given-names>
+			          </name>
+					  <aff>استادیار،‌ گروه زمین‌شناسی مهندسی دانشکده علوم پایه دانشگاه تربیت مدرس  nikudelm@yahoo.com</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2018</year>
+			      </pub-date>
+			      <volume>10</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>85</fpage>
+			      <lpage>96</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>23</day>
+			          <month>08</month>
+			          <year>2016</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>21</day>
+			          <month>09</month>
+			          <year>2018</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2018, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2018</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_75684.html">http://www.jiraeg.ir/article_75684.html</self-uri> 		
+			      <abstract>
+			        <p>در تولید سنگ مصنوعی از پودرسنگ و سنگ­دانه و مقدار کمی سیمان یا رزین و دیگر مواد شیمیایی استفاده می شود. در این تحقیق سنگ­دانه­های کربناته (در اندازه075/0 تا 19میلی­متر)، پودرسنگ و سیمان سفیددر مرحله اول مخلوط و مرطوب شده، در مرحله بعد برای شکل­گیری نمونه در قالب مکعبی، تحت سه فرآیند فیزیکی ویبره، خلاء و فشار، متراکم شده­اند. هدف این تحقیق  بررسی تاثیر فشار و خلاء در بهبود ویژگی­های فیزیکی و همچنین مقایسه ویژگی­های مهندسی سنگ­مصنوعی ساخته شده با دو نمونه سنگ طبیعی شامل سنگ­چینی (سنگ اولیه در تولیدسنگ­دانه) و تراورتن (سنگ متخلخل و سبک ساختمانی) می­باشد، نتایج نشان داد سنگ­مصنوعی ساخته شده از نظر توصیف ویژگی های مهندسی مشابه کیفیت سنگ تراورتن می­باشند بنابراین با توجه به ویژگی­های مهندسی در محدوده قابل قبول، می توان از مخلوط سنگ­دانه– سیمان برای تولید سنگ­های مصنوعی قالب­ریزی شده با ویژگی­های مکانیکی قابل قبول استفاده کرد.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>سنگ‌مصنوعی</kwd>
+						<kwd>فشار</kwd>
+						<kwd>خلاء</kwd>
+						<kwd>سنگ‌دانه‌</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>رحیمی، ح.، 1388. مصالح ساختمانی، انتشارات دانشگاه تهران، چاپ سوم، تهران.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>شرکت شهرک­های صنعتی خراسان.، 1387. امکان سنجی تولید سنگ­مصنوعی، Www.khorasaniec.ir/files/tip/sang.pdf.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>شریفی، ج.، 1387. بررسی اثر جنس سنگ­دانه⁪های مختلف بر ویژگی مقاومتی بتن، پایان­نامه کارشناسی ارشد زمین⁪شناسی مهندسی، دانشگاه تربیت مدرس.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>میرجلیلی، ط.، 1393. تاثیر ویژگی‌های‌ زمین‌شناسی ‌مهندسی سنگ­دانه‌های آهکی روی خصوصیات سنگ‌های مصنوعی، پایان­نامه دوره کارشناسی ارشد زمین­شناسی مهندسی، دانشگاه تربیت مدرس.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>Ahmad, S., 2003. Reinforcement corrosion in concrete structures, its monitoring and service life prediction - a review, Cement &amp; Concrete Composites, 25: pp 459–471.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Alawode, O., Dip, P., Idowu, O., 2000. Effects of Water-Cement Ratios on the Compressive Strength and Workability of Concrete and Lateritic Concrete Mixes. The Pacific Journal of Science and Technology, 12(2): 99-105.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>ASTM (American society for testing and materials) C 136-01., 2004. Standard Test Method for Sieve Analysis of Fine and Coarse Aggregates.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>ASTM (American society for testing and materials) D 2938-95., 2002. Standard test method of unconfined compressive strength of intact rock core specimens.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>ASTM (American society for testing and materials) D 3967-95a., 2001. Standard test method for Splitting Tensile Strength of Intact Rock Core Specimens, Designation</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>ASTM (American society for testing and materials) D 4644., 1998. Standard Test Method for Slake Durability of Shales and Similar Weak Rocks.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>http://dx.doi.org/10.14382/epitoanyag-jsbcm.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>Carlos, A., Masumi, I., Hiroaki, M., Maki, M., Takahisa, O., 2010. The effects of limestone aggregate on concrete properties. Construction and Building Materials, 24: 2363–2368</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Chi, J., Huang, R., Yang, C., Chang, J., 2003. Effect of aggregate properties on the strength and stiffness of lightweight concrete. Cement and Concrete Composites, 25: 197-205.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Dreesen, R., and Dusar, M., 2004. Historical building stones in the province of limburg (NE Belgium): role of petrography in provenance and durability assessment. Materials Characterization, 53: 273 – 287.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Galetakis, M., Raka, S., 2004. Utilization of limestone dust for artificial stone production:an experimental approach, Mineral Engineering,17: 355-357</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Güneyisi, E., Özturan, T., Gesoğlu, M., 2005. A study on reinforcement corrosion and relatedproperties of plain and blended cement concretes under different curing conditions, Cement &amp; ConcreteComposites, 27: 449-461.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>http://dx.doi.org/10.14382/epitoanyag-jsbcm.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>ISRM; Commission on Standartization of Laboratory and Fild Tests, Suggested Methods for Rock Characterization Teesting and Monit, In: Brown, E.T. (Ed.), oring. Pergamon, Oxford, 1981. pp:113-116 and 123-127.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Kolias, S., Georgiou, C., 2005. The effect of paste volume and of water content on the strength andwater absorption of concrete. Cement and Concrete Composites, 27: 211-216.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Lee, M.y., Ko, Ch. H., Chang, F. Ch., Lo, Sh.Li., Lin, J.D., Shan,M.Y., Lee, J.ch., 2008. Artificial stone slab production using waste glass stone fragments and vacuum vibratory compaction, cement and concrete composites, 30: 583-587.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Mitchell, C.J., Harrison, D.J., Robinson, H.L, Ghazireh, N., 2004. Minerals from waste recent BGS and Tarmac experience in finding uses for mine and quarry waste, Miner Eng, 17: 279–284. doi:10.1016/j.mineng.2003.07.020</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Poon, C.S., Kou, S.C., lam, L., 2002. Use of recycled aggregates in moulded concrete bricks and blocks. Construction and Building Materials, 16: 281-289.</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Sakai, T., 2000. artificial stone composition and method of manufacturing artificial stone. Doppel Co" Ltd" Tokyo’ Japan. Patent Number, 6: 127,458.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Sieve Analysis of Fine and Coarse Aggregates.</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>Topličić- Ćurčić, G., Grdić, Z., Despotović, I., Ristić, N., 2010. Influence of crushed stone aggregate type on concrete consistency. Architecture and Civil Engineering ,8 )1(: 99-109. _||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_75685_856b21c9f998bf73ca4f6b3d0d36e7ae.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>زمین شناسی مهندسی ابنیه فنی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>تحلیل پایداری و طراحی سیستم نگهدارنده تونل آب بر سد معشوره</article-title>
+			        <subtitle>تحلیل پایداری و طراحی سیستم نگهدارنده تونل آب بر سد معشوره</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>سبزواری ده کبود</surname>
+			            <given-names>بهزاد</given-names>
+			          </name>
+					  <aff>کارشناسی ارشد زمین شناسی مهندسی دانشگاه یزد</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>فلاح</surname>
+			            <given-names>امین</given-names>
+			          </name>
+					  <aff>کارشناسی ارشد زمین شناسی مهندسی دانشگاه یزد</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>مشرفی فر</surname>
+			            <given-names>محمد رضا</given-names>
+			          </name>
+					  <aff>استادیار و عضو هیئت علمی گروه زمین شناسی، دانشگاه یزد</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c4">
+			          <name>
+			            <surname>امامی</surname>
+			            <given-names>عنایت الله</given-names>
+			          </name>
+					  <aff>استادیار و عضو هیئت علمی گروه زمین شناسی، دانشگاه یزد</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>21</day>
+			        <month>09</month>
+			        <year>2018</year>
+			      </pub-date>
+			      <volume>10</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>97</fpage>
+			      <lpage>111</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>23</day>
+			          <month>05</month>
+			          <year>2018</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>21</day>
+			          <month>09</month>
+			          <year>2018</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2018, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2018</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_75685.html">http://www.jiraeg.ir/article_75685.html</self-uri> 		
+			      <abstract>
+			        <p>تونل آب­بر سد معشوره با هدف تامین آب مورد نیاز برای نیروگاه برق آبی سد مذکور احداث شده است. تاقدیس منگنی کوه و خرم آباد از  اصلی­ترین ساختارهای تشکیل دهنده  مسیر تونل هستند. در این مقاله با استفاده از سه روش تجربی، تحلیلی و عددی سیستم نگهداری پیشنهادی ارائه شده است. در روش تجربی از دو روش RMR و Q استفاده شده است. با استفاده از نرم افزار RocSupport شرایط پایداری تونل به روش تحلیلی انجام شد. در تحلیل به روش عددی از نرم افزار phase2 که بر پایه اجزای محدود است استفادهشده است. نتایج تحلیل عددی نشان می دهد که جابجای های کل، افقی و عمودی بدون نصب سیستم نگهداری به ترتیب 4/11، 3/6 و 4/11 سانتیمتر است که با نصب سیستم نگهداری میزان جابجای کل، افقی و عمودی به ترتیب 7/4، 8/2 و 7/4 سانتیمتر کاهش پیدا کرده است. ضریب اطمینان بعد از نصب سیستم نگهداری به 21/2 می رسد که پایداری تونل را نشان می دهد. نتایج حاصل از سه روش تجربی، تحلیلی و عددی سیستم نگهدارنده مشابه را ارائه می دهند.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>تحلیل پایداری</kwd>
+						<kwd>طراحی سیستم نگهداری</kwd>
+						<kwd>روش عددی</kwd>
+						<kwd>روش تحلیلی</kwd>
+						<kwd>روش تجربی</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>شرکت توسعه منابع آب و نیروی ایران، طرح سد مخزنی تنگ معشوره، گزارش مطالعات مکانیک سنگ سد تنگ معشوره، 1389، انتشارات وزارت نیرو.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>مدنی، حسن،1373،تونلسازی، جلد سوم ،تحلیل پایداری، انتشارات دانشگاه امیر کبیر.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>اجل لوئیان، رسول، رسول دادخواه، محمود هاشمی، 1385، تحلیل پایداری و طراحی سیستم نگهداری تونل انحراف سد خرسان3، مجله علوم دانشگاه تهران.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>وزارت صنایع و معادن، 1389، دستورالعمل طراحی و اجرای سیستم نگهداری تونلهای مدنی، انتشارات سازمان مهندسی معدن نشریه شماره 537.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>Hoek, E. 2002. A brief history of the development of the Hoek-Brown failure criterion.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Hoek, E., Carranza-Torres, C., &amp; Corkum, B. 2002. Hoek-Brown failure criterion-2002 edition. Proceedings of NARMS-Tac, 1: 267-273.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Hoek, E., &amp; Brown, E. T. 1980. Underground excavations in rock (No. Monograph).</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Hoek, E., &amp; Diederichs, M. S. 2006. Empirical estimation of rock mass modulus. International Journal of Rock Mechanics and Mining Sciences, 43(2): 203-215.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Hoek, E. 2001. Big tunnels in bad rock. Journal of Geotechnical and Geoenvironmental Engineering, 127(9): 726-740.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Deere, D. U., Peck, R. B., Monsees, J. E., Schmidt, B. 1969. Design of tunnel liners and support systems (No. Final Rpt).</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Hoek, E., &amp; Diederichs, M. S. 2006. Empirical estimation of rock mass modulus. International Journal of Rock Mechanics and Mining Sciences, 43(2): 203-215.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>FAMA, M. E. D. 1995. Numerical modeling of yield zones in weak rock. In Analysis and design methods (pp. 49-75).</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Lecture, T. T. R. (1983). Strength of jointed rock masses. Gotechnique, 33(3): 187-223._||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>

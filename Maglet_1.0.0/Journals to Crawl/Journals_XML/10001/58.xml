@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>2</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2014</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Asset Management &amp; Financing</ArticleTitle>
+<VernacularTitle>مدیریت دارایی و تأمین مالی</VernacularTitle>
+			<FirstPage>0</FirstPage>
+			<LastPage></LastPage>
+			<ELocationID EIdType="pii">19886</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>06</Month>
+					<Day>14</Day>
+				</PubDate>
+			</History>
+		<Abstract></Abstract>
+			<OtherAbstract Language="FA"></OtherAbstract>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_19886_77b229cb83d8f24877d0ff484141ce7d.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>2</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2014</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Prediction of Stock Market Returns with out of Sample Data: Evaluating out of Sample Methods (Regression Method and Wavelet Neural Network)</ArticleTitle>
+<VernacularTitle>پیش‌بینی بازده آتی بازار سهام با استفاده از مدل‌های آریما، شبکه عصبی و نویززدایی موجک</VernacularTitle>
+			<FirstPage>1</FirstPage>
+			<LastPage>16</LastPage>
+			<ELocationID EIdType="pii">19880</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>میثم</FirstName>
+					<LastName>محمودی آذر</LastName>
+<Affiliation>دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>رضا</FirstName>
+					<LastName>راعی</LastName>
+<Affiliation>دانشگاه تهران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>06</Month>
+					<Day>14</Day>
+				</PubDate>
+			</History>
+		<Abstract>Understanding stock price behavior and price forecasting are one of the most challenging issues that speculators, traders and brokers are faced with. Since stock market was established in the nineteenth century, many researchers have focused on investigating the stock price forecasting model. At the outset some of the models such as Autoregressive, ARMA, ARIMA, ARCH and GARCH were widely applied. Although some of these models were better than others in performance, but none of them had satisfactory result. Recently a number of researchers have been considering the stock market as a dynamic nonlinear system. On the other hand, artificial intelligence techniques including neural networks, genetic algorithms and fuzzy logic have produced successful results in solving complex problems. In this study we tried to use wavelet transform and neural network to present a model that more accurately predict the return on stock market index. In this hybrid model, the smoothing property of wavelet transform is used to reduce the noise level of data then a neural network model is used for forecasting. Comparison of forecast error in ARIMA models, neural network and wavelet neural network indicates that noise reduction improves forecasting of the index returns.</Abstract>
+			<OtherAbstract Language="FA">موضوع شناخت و بررسی رفتار قیمت سهام، همواره یکی از موضوع‌های مهم و مورد توجه محافل علمی و سرمایه‌گذاری بوده است. اخیراً تعداد زیادی از پژوهشگران در پژوهش‌های خود بازار سهام را به عنوان یک سیستم پویای غیرخطی در نظر گرفته‌اند. در این پژوهش، تلاش شده است با استفاده از تبدیل موجک و شبکه عصبی مدلی ارایه شود که پیش بینی دقیق‌تر و با خطای کمتری از بازده شاخص بورس اوراق بهادار داشته باشد. در این مدل ترکیبی، از خاصیت هموارسازی تبدیل موجک برای کاهش سطح نویز داده‌ها استفاده و سپس به وسیله شبکه عصبی پیش‌بینی شده است. مقایسه خطای پیش بینی مدل‌های آریما، شبکه عصبی و شبکه عصبی موجکی نشان می‌دهد که کاهش نویز عملکرد پیش-بینی بازده شاخص را بهبود می‏بخشد. به بیان بهتر، مدل شبکه عصبی موجکی (نویززدایی سیگنال) عملکردی بهتر از مدل‌های آریما و شبکه عصبی دارد. همچنین، مدل‌های شبکه عصبی قدرت پیش‌بینی‏کنندگی بهتری را نسبت به مدل‌های آریما نشان می‌دهد. مقادیر مربوط به آزمون دایبولد – ماریانو نیز این نتایج را تایید می‏نماید.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">آریما</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">پیش بینی برون نمونه‌ای</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبکه عصبی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبکه عصبی موجکی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نویززدایی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_19880_9c0c45ad6d0a19d209d5f8eb98d4cbfe.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>2</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2014</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Investigate the Relationship between Working Capital Management and Agency Costs</ArticleTitle>
+<VernacularTitle>بررسی رابطه مدیریت سرمایه در گردش و هزینه‌های نمایندگی</VernacularTitle>
+			<FirstPage>17</FirstPage>
+			<LastPage>30</LastPage>
+			<ELocationID EIdType="pii">19884</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>میثم</FirstName>
+					<LastName>علی محمدی</LastName>
+<Affiliation>کارگزاری بهمن</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مریم</FirstName>
+					<LastName>صابری</LastName>
+<Affiliation>اداره مالیات</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محمد</FirstName>
+					<LastName>نوروزی</LastName>
+<Affiliation>کارگزاری بهمن</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محمد رضا</FirstName>
+					<LastName>رستمی</LastName>
+<Affiliation>دانشگاه الزهرا</Affiliation>
+<Identifier Source="ORCID">0000-0001-6761-6297</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>06</Month>
+					<Day>14</Day>
+				</PubDate>
+			</History>
+		<Abstract>The purpose of this study was to assess the impact of working capital management on the agency costs of listed companies in Tehran Stock Exchange. The question is: Do different types of working capital management company representing the amount of money they have in Impact What are the Types of Working Capital Management at less cost effective representation? Agency costs may adversely affect the company&#039;s value. In the present investigation agency costs as a function of the interaction between the company&#039;s growth opportunities and free cash flow definition and the index of Tobin Q as a measure has been used to measure growth opportunities.For this purpose, the data of 127 firms listed in Tehran Stock Exchange during the period 1391-1386 has been adopted. Research hypotheses using multiple regression analysis and correlation has been studied. Our findings suggest that the costs of debt collection agency, there is no statistically significant relationship between the payment of debts and expenses represent a significant direct relationship is established</Abstract>
+			<OtherAbstract Language="FA">هدف این پژوهش، ارزیابی تأثیر مدیریت سرمایه درگردش برهزینه‌‌های نمایندگی شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران است. پرسش مطرح شده این است آیا متفاوت بودن ابزارهای مدیریت سرمایه در گردش شرکت‌ها بر میزان هزینه نمایندگی آنها تأثیر دارد؟ به عبارتی کدام‌ یک از ابزارهای مدیریت‌های سرمایه در گردش در کمتر شدن هزینه‌ای نمایندگی مؤثر است؟ در پژوهش حاضر هزینه نمایندگی تابعی از تعامل بین فرصت‌های رشد شرکت و جریان‌های نقدی آزاد تعریف شده است. بدین منظور اطلاعات 127 شرکت پذیرفته شده در بورس اوراق بهادار تهران، طی دوره زمانی 1392- 1387 به کار گرفته شده و فرضیه‌های پژوهش با استفاده از تحلیل رگرسیون چندگانه و آزمون همبستگی بررسی شده است. یافته‌های پژوهش نشان می‌دهد رابطه مثبت و معناداری بین متوسط دوره گردش موجودی کالا و هزینه نمایندگی وجود داشته، بین دوره وصول مطالبات و هزینه‌های نمایندگی رابطه معناداری به ‌لحاظ آماری وجود ندارد، همچنین بین دوره پرداخت بدهی‌ها و هزینه‌های نمایندگی رابطه معکوس و معناداری وجود دارد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">هزینه نمایندگی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سرمایه در گردش</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">دوره وصول مطالبات</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">دوره پرداخت بدهی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_19884_e62691dca6177a9df6597bc16ae36288.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>2</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2014</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Identifying Islamic Alternatives to Short Selling in Iranâs Stock Market and Prioritizing Them Using TOPSIS</ArticleTitle>
+<VernacularTitle>شناسایی راهکارهای اسلامی جایگزین فروش استقراضی در بازار اوراق بهادار ایران و اولویت بندی آن ها با استفاده از روش TOPSIS</VernacularTitle>
+			<FirstPage>31</FirstPage>
+			<LastPage>48</LastPage>
+			<ELocationID EIdType="pii">19881</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>محمود</FirstName>
+					<LastName>خطیب</LastName>
+<Affiliation>دانشگاه علامه طباطبایی</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>میثم</FirstName>
+					<LastName>احمدوند</LastName>
+<Affiliation>دانشگاه علامه طباطبایی</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محمد جواد</FirstName>
+					<LastName>محقق نیا</LastName>
+<Affiliation>دانشگاه علامه طباطبایی</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>06</Month>
+					<Day>14</Day>
+				</PubDate>
+			</History>
+		<Abstract>Trading strategies such as short sale and margin trading have an important and undeniable role in the development of capital markets in different countries. However, due to the structure of these contracts and existence of non-religious factors, using these trading strategies in Islamic stock markets has some difficulties. For this reason, financial researchers in these countries, along with Islamic scholars and by implementation of juridical trading strategies, have tried to benefit from aforementioned instruments for the development of capital markets. One of trading strategies that significantly contributes to market liquidity growth is short sale. However, contradiction of using this trading strategy with some principles of Islam has caused the Islamic finance scholars to design a suitable legal mechanism using Islamic contracts. In this paper, we first explain short selling and its benefits and damages. Then, using expertsâ opinions and TOPSIS method as well as regarding to legal, financial and juridical criteria adopted, we evaluate and prioritize Islamic alternatives to short selling and finally, we introduce the most proper approach for implementing it in Iranâs stock market.</Abstract>
+			<OtherAbstract Language="FA">استفاده از راهکارهای معاملاتی از قبیل تأمین مالی خرید اعتباری و فروش استقراضی نقش انکارناپذیری در گسترش بازار سرمایه در کشورهای مختلف داشته‌اند. با این حال، بهره‌گیری از کارکردهای آن‌ها در بورس‌های اسلامی به‌دلیل ساختار قراردادهای مورد استفاده و دخیل بودن عوامل غیرشرعی با مشکلاتی همراه است. به همین دلیل پژوهشگران مالی در این کشورها تلاش کرده‌اند با کمک علمای اسلامی و به کارگیری راه‌کارهای معاملاتی اسلامی، از کارکردهای این ابزارها برای توسعه بازار سرمایه استفاده کنند. یکی از راهکارهای معاملاتی که کمک چشمگیری به افزایش نقدشوندگی بازار می‌کند، فروش استقراضی است. البته مغایرت این راهکار با برخی اصول اسلامی، پژوهشگران مالی اسلامی را بر آن داشته تا با استفاده از قراردادهای اسلامی، سازوکار شرعی مناسبی برای آن طراحی نمایند. در این مقاله، ابتدا فروش استقراضی و مزایا و آسیب‌های آن در بازار اوراق بهادار تبیین شده سپس، با استفاده از نظر خبرگان و روش TOPSIS و با توجه به معیارهای اتخاذ شده قانونی، مالی و فقهی، راهکارهای جایگزین فروش استقراضی بررسی و اولویت‌بندی گردیده و در نهایت مناسبترین روش برای پیاده‌سازی آن در بازار اوراق بهادار ایران معرفی می‌شود.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">بیع‌العربون</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">سلم</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">وعد</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">فروش استقراضی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">روش TOPSIS</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_19881_ffa4a2ab2045805017e37d92f881330c.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>2</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2014</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Analysis of big Shareholdersâ Perspective on Block Divestiture of Shares in Business Financing Through Matching Method (Tehran Stock Exchange as A Case Study)</ArticleTitle>
+<VernacularTitle>تحلیل دیدگاه سهامداران بزرگ به عمل واگذاری بلوکی سهام برای تأمین مالی بنگاه به روش مچینگ (مورد مطالعه: شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران)</VernacularTitle>
+			<FirstPage>39</FirstPage>
+			<LastPage>64</LastPage>
+			<ELocationID EIdType="pii">19885</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>راضیه</FirstName>
+					<LastName>صادق فلاح</LastName>
+<Affiliation>دانشگاه اصفهان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حسین</FirstName>
+					<LastName>رضایی دولت ابادی</LastName>
+<Affiliation>دانشگاه اصفهان</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>06</Month>
+					<Day>14</Day>
+				</PubDate>
+			</History>
+		<Abstract>The purpose of this study is to investigate the big shareholdersâ perspective on block divestiture of shares in business financing through propensity score matching method in Tehran stock exchange. The statistical population of this study includes all of listed companies in Tehran stock exchange. 102 companies were examined from 2003 to 2012 and their data was collected through website of Tehran stock exchange and software of Novin Rahavard. In order to test the hypotheses, Logistic regression and matching based on the attitude score methods were used. The results of this study revealed that attitudes of big shareholders toward divestiture influence business policies negatively. As a result, shareholders seek to eliminate obstacles of appropriate divestiture opportunities.</Abstract>
+			<OtherAbstract Language="FA">هدف اصلی پژوهش حاضر، تحلیل دیدگاه سهامداران بزرگ به عمل واگذاری بلوکی سهام برای تأمین مالی بنگاه در بورس اوراق بهادار تهران است. برای این منظور، نمونه‌ای متشکل از 102 شرکت پذیرفته شده در بورس اوراق بهادار تهران طی سال‌های 1382 تا 1391 بررسی شده است. برای آزمون این دیدگاه از روش‌های همسان‌سازی بر اساس نمره گرایش (مچینگ) و رگرسیون لاجیت استفاده می‌گردد. نتایج به دست آمده ضمن تأیید دیدگاه مثبت و معنادار برخی از سهامداران بزرگ نسبت به واگذاری، بیانگر تأثیر منفی بزرگترین سهامدار، به دلیل محدودیت در فرصت‌های واگذاری، بر سیاست‌های بنگاه است. بنابراین، در صورت وجود فرصت‌های مناسب برای واگذاری، سهامداران از هر گونه ممانعت از این فعالیت، جلوگیری می‌نمایند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">ساختار مالکیت</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">واگذاری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">رگرسیون لاجیت</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نمره گرایش</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_19885_5174430a694c1102545b61442673034e.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>2</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2014</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Business diversification effects on performance and value of listed companies in Tehran Stock Exchange</ArticleTitle>
+<VernacularTitle>تأثیر تنوع‌سازی کسب و کار بر عملکرد و ارزش شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران به تفکیک درجه تمرکز صنعتی</VernacularTitle>
+			<FirstPage>65</FirstPage>
+			<LastPage>86</LastPage>
+			<ELocationID EIdType="pii">19882</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>سمانه</FirstName>
+					<LastName>شاهرضایی</LastName>
+<Affiliation></Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حمزه</FirstName>
+					<LastName>دیدار</LastName>
+<Affiliation></Affiliation>
+<Identifier Source="ORCID">0000-0003-4651-7729</Identifier>
+
+</Author>
+<Author>
+					<FirstName>محمد</FirstName>
+					<LastName>ایمانی برندق</LastName>
+<Affiliation></Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حمزه</FirstName>
+					<LastName>دیدار</LastName>
+<Affiliation></Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>06</Month>
+					<Day>14</Day>
+				</PubDate>
+			</History>
+		<Abstract>In recent years, the relationship between performance and firm diversification become as an important empirical matter. The diversity strategies in companyâs business are able to affect the competitive balance of an industry. The aim of this study, investigate the effect of business diversification on performance and value of accepted firms in Tehranâs Stock Exchange. To achieve this goal, the Herfindahl-Hryshmn index and TobinQ index were used to assess the business diversification and the companyâs value from the market value in each year, respectively. This sample includes 125 accepted firms in Tehranâs stock exchange within 7 industries, in the periods of 1381-1390. In order to verify the hypothesis, a multiple regression based on panel data by Estimated Generalized Least Square (EGLS) was used. The results from the study hypothesis indicate that there is significant and direst relationship between Herfindahl _ Hryshmn index and the performance of studied firms in comparative industries, in semi concentrated industries, there is a negative relationship between Herfindahl _ Hryshmn index and the performance of studied firms, but not significant. Also there is a negative relationship between Herfindahl _ Hryshmn index and the value of studied firms in competitive, concentrated and semi-concentrated industries, but are not significant. &lt;br /&gt;In conclusion we can say that the business diversification have an significant and positive effect of performance and have non-significant and negative effects on value of studied firms.</Abstract>
+			<OtherAbstract Language="FA">درسال‌های اخیر، ارتباط بین عملکرد و تنوع شرکت موضوع مهم تجربی در مدیریت مالی شده است. استراتژی‌های تنوع در کسب و کار شرکت‌ها می‌توانند توازن رقابتی یک صنعت را تحت تأثیر قرار دهند. هدف این مقاله بررسی تأثیر تنوع‌سازی کسب‌وکار بر عملکرد و ارزش شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران است. برای دستیابی به این هدف از شاخص هرفیندال_هریشمن برای اندازه‌گیری تنوع‌سازی کسب‌وکار، برای ارزیابی عملکرد از شاخص کیوتوبین و برای ارزش شرکت از ارزش بازار هرسهم در پایان سال استفاده گردیده است. نمونه مورد بررسی شامل 125 شرکت در غالب 7 صنعت، در دوره زمانی 1381-1390 است. به منظور بررسی صحت فرضیه‌های پژوهش، از رگرسیون چندمتغیره مبتنی بر داده‌های تلفیقی به روش حداقل مربعات تعمیم یافته (EGLS) استفاده شده است. نتایج حاصل از آزمون فرضیه‌های پژوهش بیانگر این است که بین شاخص هرفیندال_هریشمن و عملکرد شرکت‌های مورد بررسی در صنایع رقابتی رابطه مستقیم و معنادار، در صنایع نیمه‌متمرکز رابطه معکوس و معنادار و در صنایع متمرکز رابطه معکوس و غیرمعناداری وجود دارد. و بین شاخص هرفیندال_هریشمن و ارزش شرکت‌های مورد بررسی در صنایع رقابتی، نیمه متمرکز و متمرکز رابطه معکوس و غیرمعناداری وجود دارد. در نتیجه می‌توان گفت که تنوع‌سازی کسب و کار، بر عملکرد شرکت‌های مورد پژوهش تأثیر مثبت و معنادار و بر ارزش شرکت‌های مورد پژوهش تأثیر منفی و غیرمعناداری داشته است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">تنوع‌سازی کسب و کار</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">عملکرد</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ارزش شرکت</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شاخص هرفیندال_هریشمن</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_19882_a4d82102ff72bfbe5636a8d4b133e7e7.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>2</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2014</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Investigation of the Impact of Disclosure Quality on the Relationship between free Cash Flow and Firm Value</ArticleTitle>
+<VernacularTitle>بررسی تأثیر کیفیت افشا بر رابطه بین وجه نقد آزاد و ارزش شرکت</VernacularTitle>
+			<FirstPage>87</FirstPage>
+			<LastPage>98</LastPage>
+			<ELocationID EIdType="pii">19879</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>جواد</FirstName>
+					<LastName>مرادی</LastName>
+<Affiliation></Affiliation>
+
+</Author>
+<Author>
+					<FirstName>هاشم</FirstName>
+					<LastName>ولیپور</LastName>
+<Affiliation>دانشگاه فیروزآباد</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>مهدی</FirstName>
+					<LastName>خادمی</LastName>
+<Affiliation></Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>06</Month>
+					<Day>14</Day>
+				</PubDate>
+			</History>
+		<Abstract>Holding cash surplus to requirements of a firm, will lead to misuse of the funds. Therefore the amount of cash holding in the firm must be optimized at the level itâs needed in the firm. Also result of managersâ performance must be disclosed in order to prevent misuse. This paper examines the impact of disclosure quality on the relationship between free cash flow and firm value. For this purpose, a sample of 70 firms listed in Tehran Stock Exchange during the years 1383 to 1389 were studied. The multivariate regression model was used to test the research hypotheses. The findings suggest that when the disclosure quality is high in a firm, and it has high growth opportunities, free cash flows have a strong and positive effect on the firm value.</Abstract>
+			<OtherAbstract Language="FA">نگهداری وجوه نقد مازاد بر نیاز شرکت باعث سوء استفاده از وجوه و در نتیجه کاهش ارزش شرکت می‌شود. بدین منظور باید وجوه نقد را به اندازه مورد نیاز و در حد بهینه در شرکت نگهداری کرد و از طرفی برای جلوگیری از سوء استفاده باید نتایج حاصل از عملکرد مدیران شرکت افشا شود. مقاله حاضر تأثیر کیفیت افشا بر رابطه بین وجوه نقد آزاد و ارزش شرکت را با در نظر گرفتن فرصت رشد شرکت بررسی می‌کند. بدین منظور نمونه آماری شامل 70 شرکت پذیرفته شده در بورس اوراق بهادار تهران طی سال‌های 1383 تا 1391 بررسی شد. برای آزمون فرضیه‌ پژوهش مدل رگرسیون چند متغیره استفاده شد. یافته‌های پژوهش بیان می‌دارد زمانی که کیفیت افشای شرکت بالا باشد و شرکت فرصت رشد بالایی داشته باشد، جریان‌های نقد آزاد تأثیر مثبت و قوی‌تری بر ارزش شرکت دارند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">افشا</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">وجه نقد آزاد</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">فرصت رشد</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ارزش شرکت</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_19879_2206a928919e9e45a16696aee09a1972.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>2</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2014</Year>
+					<Month>08</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>The Effect of CEO Reputation on Relationship between Agency Costs and Cumulative Abnormal Returns in Firms over (under)Investment</ArticleTitle>
+<VernacularTitle>تأثیر اعتبار هیأت مدیره بر رابطه بین هزینه‌های نمایندگی و بازده غیرعادی انباشته در شرکت‌های بیش(کم) سرمایه گذار</VernacularTitle>
+			<FirstPage>99</FirstPage>
+			<LastPage>122</LastPage>
+			<ELocationID EIdType="pii">19883</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>شهین</FirstName>
+					<LastName>حیدرزاده</LastName>
+<Affiliation></Affiliation>
+
+</Author>
+<Author>
+					<FirstName>فرزین</FirstName>
+					<LastName>رضایی</LastName>
+<Affiliation>دانشگاه آزاد اسلامی قزوین-باراجین</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>06</Month>
+					<Day>14</Day>
+				</PubDate>
+			</History>
+		<Abstract>One of the most important principles of corporate governance, the CEO of the Company on the Company&#039;s operations and results could be the different ways it affects. One of the current discussions on the theme of the CEO, focused on the issue of the CEO reputation.The goal of this research is evaluating the effect of CEO reputation on relationship between agency costs and cumulative abnormal returns in firms over(under)investment. In this research, information was collected from company listed in TSE during 1383 -1391. capital investment ratio as the indicator of measuring over(under)investment, free cash flow and interaction between growth opportunities and free cash flow as the indicators of agency costs. research method was descriptive correlation and for hypothesis test of method pooled Least Squares . the research finding show the negative and significant relationship between agency costs and cumulative abnormal returns and effect CEO reputation and factors(CEO Tenure, CEO outsider,CEO perform) on the relationship are positive and significant.</Abstract>
+			<OtherAbstract Language="FA">یکی از اصول مهم حاکمیت شرکتی، هیأت مدیره شرکت است که می‌تواند به گونه‌های مختلفی بر عملیات شرکت و نتایج آن، تأثیر بگذارد. یکی از مباحث موجود در زمینه موضوع هیأت مدیره، بر مسأله اعتبار هیأت مدیره تمرکز دارد. هدف از این پژوهش بررسی اثر اعتبار هیأت مدیره بر رابطه بین هزینه‌های نمایندگی و بازده غیرعادی انباشته در شرکت‌های بیش وکم سرمایه‌گذار است. در این پژوهش از اطلاعات جمع‌آوری شده 77 شرکت پذیرفته شده در بورس اوراق بهادار تهران طی سال‌های 1383 لغایت 1391 استفاده شده است. از نسبت مخارج سرمایه‌ای به عنوان شاخص اندازه گیری بیش (کم) سرمایه‌گذاری و از جریان نقدی آزاد و تعامل فرصت‌های رشد با جریان نقدی آزاد، به عنوان شاخص‌های هزینه نمایندگی استفاده شده است. روش این پژوهش، روش همبستگی و روش تحلیل، رگرسیون چند متغیره با الگوی داده‌های تلفیقی است. یافته‌های پژوهش نشان داد که هزینه‌های نمایندگی با بازده غیرعادی انباشته رابطه منفی و معنادار دارد و تأثیر اعتبار هیأت مدیره و عناصرآن (مدت تصدی هیأت مدیره، استقلال هیأت مدیره، عملکرد هیأت مدیره) بر این رابطه مثبت و معنادار است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">اعتبار هیأت مدیره</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">بیش سرمایه‌گذاری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">کم سرمایه‌گذاری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">بازده غیرعادی انباشته</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">هزینه‌های نمایندگی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_19883_602870c26db6e4a7488144ae6af9e420.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

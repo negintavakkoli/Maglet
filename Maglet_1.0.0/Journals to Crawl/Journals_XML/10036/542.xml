@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه شهید چمران اهواز</PublisherName>
+				<JournalTitle>زمین شناسی کاربردی پیشرفته</JournalTitle>
+				<Issn>2251-7057</Issn>
+				<Volume>2</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2012</Year>
+					<Month>09</Month>
+					<Day>22</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle></ArticleTitle>
+<VernacularTitle>شناسایی پدیده های طیفی ناشناخته از داده های تلفیقی تصاویر ماهواره ای ALI+ASTER و ابر طیفی Hyperion بر مبنای روش ضریب همبستگی:مطالعه موردی محدوده معدنی مس سرچشمه</VernacularTitle>
+			<FirstPage>59</FirstPage>
+			<LastPage>68</LastPage>
+			<ELocationID EIdType="pii">11576</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>طاهر</FirstName>
+					<LastName>نجفیان</LastName>
+<Affiliation>کارشناس ارشد مهندسی اکتشاف معدن دانشگاه شهید باهنر کرمان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>نادر</FirstName>
+					<LastName>فتحیان پور</LastName>
+<Affiliation>دانشکده مهندسی معدن دانشگاه صنعتی اصفهان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حجت اله</FirstName>
+					<LastName>رنجبر</LastName>
+<Affiliation>بخش مهندسی معدن دانشگاه باهنر کرمان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>رامین</FirstName>
+					<LastName>بخش پور</LastName>
+<Affiliation>کارشناس ارشد مهندسی نساجی دانشگاه صنعتی اصفهان</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2012</Year>
+					<Month>04</Month>
+					<Day>21</Day>
+				</PubDate>
+			</History>
+		<Abstract></Abstract>
+			<OtherAbstract Language="FA">      یکی از مسائل مهم در بکارگیری تصاویر ماهواره ای چند طیفی و ابرطیفی، شناسایی و تشخیص رفتارهای طیفی متفاوت و  به تصویر کشیدن الگوی رفتاری آنها می باشد. که این امر تنها از طریق الگوریتم­های شناساگر که قادر به تشخیص شباهت­های طیفی مشاهدات آزمایشگاهی و یا صحرایی با داده های ماهواره ای می باشد، امکان پذیر است. در این تحقیق سعی شده تا بوسیله توسعه الگوریتمی مبتنی بر تصویر کردن طیف کانی­ها و مقایسه آنها با روش ضریب همبستگی، طیف ناشناسی را که از تصاویر ماهواره ای (چند طیفی و ابر طیفی) بدست می­آید با طیف­های کتابخانه­ای مرجع مقایسه و بر اساس شباهت طیفی، امکان تعلق آن به مجموعه کانی­های موجود در بانک کتابخانه طیفی محاسبه و کانی دارای حداکثر شباهت به کانی ناشناس مشخص گردد. در ابتدا و به منظور ارزیابی عملکرد الگوریتم از طیف­های کتابخانه­ای مرجع که توسط سازمان زمین شناسی آمریکا (USGS) ارائه شده است، استفاده گردید. نتایج حاصل از اجرای الگوریتم بر روی داده­های کتابخانه­ای حاکی از تشخیص دقیق طیف­های ناشناس می­باشد. همچنین ارزیابی و صحت سنجی عملکرد الگوریتم فوق بر روی داده­های تصاویر ماهواره­ای مربوط به دگرسانی فیلیک در منطقه­ی معدنی مس دره زار واقع در جنوب معدن مس سرچشمه، حداکثر شباهت را به طیف کتابخانه ای مسکویت که مشخصه دگرسانی فیلیک می­باشد، نسبت داد. از این روش همچنین می توان جهت شناسایی کانی­ها با استفاده از طیف­های اندازه گیری شده توسط دستگاه اسپکترورادیومتر استفاده نمود.    &lt;br /&gt; </OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">کلمات کلیدی: سنجش از دور</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ضریب همبستگی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">دگرسانی فیلیک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">کتابخانه طیفی USGS</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">طیف ناشناس</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://aag.scu.ac.ir/article_11576_b867ccd0bf102ebe78a2c78dc1602be5.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

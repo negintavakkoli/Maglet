@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>8</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2020</Year>
+					<Month>03</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Evaluating the Effectiveness of GARCH Models in the Estimation of Systematic Risk in listed companies of the Tehran Stock Exchange</ArticleTitle>
+<VernacularTitle>ارزیابی کارآیی الگو‌های گارچ در برآورد ریسک سیستماتیک دارایی‌‌های مالی شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران</VernacularTitle>
+			<FirstPage>23</FirstPage>
+			<LastPage>40</LastPage>
+			<ELocationID EIdType="pii">23535</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2018.105837.1155</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>نعمت</FirstName>
+					<LastName>راستگو</LastName>
+<Affiliation>دانشجوی دکتری ،گروه حسابداری ، واحد کاشان ، دانشگاه آزاد اسلامی ، کاشان ، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حسین</FirstName>
+					<LastName>پناهیان</LastName>
+<Affiliation>دانشیار ،گروه حسابداری،واحد کاشان، دانشگاه آزاد اسلامی ، کاشان ، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2017</Year>
+					<Month>08</Month>
+					<Day>08</Day>
+				</PubDate>
+			</History>
+		<Abstract>The stock market of each country, in addition to reflecting its economic structure, is considered as an important source of capital Circulation of that country. Therefore, recognizing the causes of instability in market is of great importance for economic planners. The purpose of this research is systematic risk modeling using GARCH, E-GARCH, &lt;br /&gt; M-GARCH&lt;em&gt;،&lt;/em&gt; ARFIMA-GARCH AND ARFIMA- FIGARCH models that is focuses on the residual review of the regression model , whose dependent variable is the market return and the independent variable, the natural logarithm of the change in the price index and cash return (TEDPIX) as a market portfolio. Accordingly, the relevant data for 174 companies in Tehran stock exchange were extracted daily for the period 1385-1394. After analyzing and checking the data in OXmetrics software and examining the models using three criteria, RMSE&lt;em&gt;،&lt;/em&gt; MAE &amp; TIC, the results showed that the ARFIMA-FIGARCH model had the least error in terms of all three criteria, which indicates the efficiency of the model in the systematic risk beta estimation.</Abstract>
+			<OtherAbstract Language="FA">بازار سهام هر کشوری علاوه بر منعکس‌کردن ساختار اقتصادی آن کشور، منبع مهم گردش سرمایه در آن محسوب می‌شود؛ بنابراین، شناخت عوامل ایجادکنندۀ بی‌ثباتی در بازار سهام اهمیت زیادی برای برنامه‌‎ریزان اقتصادی دارد. از عوامل شناخته‌شده در مدیریت سبد سهام، مطالعه دربارۀ رفتار ریسک سیستماتیک است. هدف این پژوهش الگو‌سازی ریسک سیستماتیک با استفاده از الگوهای گارچ&lt;sup&gt;&lt;sup&gt;[1]&lt;/sup&gt;&lt;/sup&gt;، ایگارچ&lt;sup&gt;&lt;sup&gt;[2]&lt;/sup&gt;&lt;/sup&gt;، ام گارچ&lt;sup&gt;&lt;sup&gt;[3]&lt;/sup&gt;&lt;/sup&gt;، آرفیما - گارچ&lt;sup&gt;&lt;sup&gt;[4]&lt;/sup&gt;&lt;/sup&gt; و آرفیما - فیگارچ&lt;sup&gt;&lt;sup&gt;[5]&lt;/sup&gt;&lt;/sup&gt;  است که بر بررسی باقی‌ماندۀ الگوی رگرسیونی متمرکز است و متغیر وابستۀ آن بازده بازار و متغیر مستقل آن لگاریتم طبیعی تغییرات شاخص قیمت و بازده نقدی&lt;sup&gt;&lt;sup&gt;[6]&lt;/sup&gt;&lt;/sup&gt; به‌منزلۀ سودآوری سبد بازار است؛ ازاین‌رو، داده‌های مرتبط برای ‌174‌‌ شرکت در بورس اوراق بهادار تهران و به‌صورت روزانه برای بازۀ زمانی 1394-1385 استخراج شد. پس از تحلیل و بررسی داده‌‌ها در نرم‌افزار اُکس متریکس&lt;sup&gt;&lt;sup&gt;[7]&lt;/sup&gt;&lt;/sup&gt; و بررسی الگوها با استفاده از سه معیار مجذور میانگین مربعات خطا&lt;sup&gt;&lt;sup&gt;[8]&lt;/sup&gt;&lt;/sup&gt;، میانگین قدر مطلق خطا&lt;sup&gt;&lt;sup&gt;[9]&lt;/sup&gt;&lt;/sup&gt; و ضریب تایل&lt;sup&gt;&lt;sup&gt;[10]&lt;/sup&gt;&lt;/sup&gt;، نتایج نشان داد الگوی آرفیما - فیگارچ در هر سه معیار کمترین خطا را دارد که نشان‌دهندۀ کارآیی زیاد الگو در برآورد بتای ریسک سیستماتیک است.&lt;br /&gt; &lt;br clear=&quot;all&quot; /&gt;&lt;br /&gt; &lt;br /&gt; [1]. GARCH&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; [2]. E-GARCH&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; [3]. M-GARCH&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; [4]. ARFIMA-GARCH&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; [5]. ARFIMA- FIGARCH&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; [6]. TEDPIX&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; [7]. OXmetrics&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; [8]. RMSE&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; [9]. MAE&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; [10]. TIC</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">ریسک سیتماتیک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">الگوهای گارچ</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شاخص نابرابری تایل</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">بورس اوراق بهادار تهران</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_23535_59e2a87e7e77ec18e5ce83b5dde3eb15.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

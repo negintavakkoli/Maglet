@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Human Nobility Indicators in an Organization (with Emphasis on Islamic Approach)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">hosein</namePart>
+				<namePart type="given">Afkhami Rouhani</namePart>
+				<affiliation>دانشجوی دکترای مدیریت منابع انسانی دانشگاه فردوسی مشهد</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">ali</namePart>
+				<namePart type="given">shirazi</namePart>
+				<affiliation>دانشیار دانشگاه‌ فردوسی ‌مشهد</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">saeid</namePart>
+				<namePart type="given">Mortazavi</namePart>
+				<affiliation>استاد دانشکده علوم اداری و اقتصادی دانشگاه فردوسی مشهد</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">abdolhamid</namePart>
+				<namePart type="given">Vaseti</namePart>
+				<affiliation>استاد حوزه علمیه؛ معاون تحقیقات مؤسسه مطالعات راهبردی علوم و معارف اسلام</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">meisam</namePart>
+				<namePart type="given">Latifi</namePart>
+				<affiliation>استادیار دانشکده معارف اسلامی و مدیریت دانشگاه امام صادق(ع).</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">jahangir</namePart>
+				<namePart type="given">Masoudi</namePart>
+				<affiliation>دانشیار دانشکده الهیات و معارف اسلامی دانشگاه فردوسی مشهد</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت در دانشگاه اسلامی</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>پژوهشگاه فرهنگ و معارف اسلامی وابسته به نهاد نمایندگی مقام معظم رهبری در دانشگاه‌ها</publisher>
+			</originInfo>
+			<identifier type="issn">2345-5713</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>7</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>3</start>
+					<end>20</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://miu.nahad.ir/article_9_e7906afa20f4f77e73a3cf2e90e46ede.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The Effects of Theistic Faith on Organization Perspective</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">mohammad saeid</namePart>
+				<namePart type="given">Taslimi</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">mohammad ali</namePart>
+				<namePart type="given">Shah Hoseini</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">mohammad hosein</namePart>
+				<namePart type="given">Naghavi</namePart>
+				<affiliation>دانشجوی دکترای سیاستگذاری علم و فنّاوری دانشگاه تهران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت در دانشگاه اسلامی</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>پژوهشگاه فرهنگ و معارف اسلامی وابسته به نهاد نمایندگی مقام معظم رهبری در دانشگاه‌ها</publisher>
+			</originInfo>
+			<identifier type="issn">2345-5713</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>7</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>21</start>
+					<end>40</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://miu.nahad.ir/article_12_4e8ef6b7cdd1416c74db804757a1576c.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Analyzing the National Elites Foundation Programs in Recognition, Employment and Promotion of Elites</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">hosein</namePart>
+				<namePart type="given">Akhavan Alavi</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">mahdi</namePart>
+				<namePart type="given">Alvani</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">mojtaba</namePart>
+				<namePart type="given">Hosseini Fard</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">tayebeh</namePart>
+				<namePart type="given">Bayat</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract> </abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت در دانشگاه اسلامی</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>پژوهشگاه فرهنگ و معارف اسلامی وابسته به نهاد نمایندگی مقام معظم رهبری در دانشگاه‌ها</publisher>
+			</originInfo>
+			<identifier type="issn">2345-5713</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>7</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>41</start>
+					<end>70</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://miu.nahad.ir/article_18_521861ba13bd44bbe9007478703b0085.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Improving the Cooperative Management in University Based on Suggestion System and Justice (with Emphasis on Islamic Teachings)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">mohammad rasoul</namePart>
+				<namePart type="given">Heshmati</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">alireza</namePart>
+				<namePart type="given">Khorakian</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">yaghoub</namePart>
+				<namePart type="given">Maharati</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>  Improving the Cooperative Management in University Based on Suggestion System and Justice(with Emphasis on Islamic Teachings</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت در دانشگاه اسلامی</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>پژوهشگاه فرهنگ و معارف اسلامی وابسته به نهاد نمایندگی مقام معظم رهبری در دانشگاه‌ها</publisher>
+			</originInfo>
+			<identifier type="issn">2345-5713</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>7</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>71</start>
+					<end>94</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://miu.nahad.ir/article_19_65b04d67261284902d70c78187cb1b1e.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Planning a Comprehensive Pattern of Leadership for Organizational Effectiveness (Based on Iranian- Islamic Development Pattern)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">ali akbar</namePart>
+				<namePart type="given">Afjei</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">abdolhosein</namePart>
+				<namePart type="given">Khosropanah</namePart>
+				<affiliation>دانشیار و رئیس پژوهشکده حکمت و فلسفه اسلامی</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">ebadollah</namePart>
+				<namePart type="given">Baneshi</namePart>
+				<affiliation>دانشجوی دکترای مدیریت بازرگانی، گرایش منابع انسانی و رفتار سازمانی؛ دانشگاه علامه طباطبایی</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت در دانشگاه اسلامی</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>پژوهشگاه فرهنگ و معارف اسلامی وابسته به نهاد نمایندگی مقام معظم رهبری در دانشگاه‌ها</publisher>
+			</originInfo>
+			<identifier type="issn">2345-5713</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>7</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>95</start>
+					<end>114</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://miu.nahad.ir/article_20_31f4e33e217d8418e8c6dbfdec738900.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Analyzing the Relationship Between Intellectual Capital and Creativity in Islamic University</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">mohammad</namePart>
+				<namePart type="given">Taban</namePart>
+				<affiliation>استادیار دانشگاه ایلام
+Email:
+M.taban@ilam.ac.ir</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">alireza</namePart>
+				<namePart type="given">Kheyri</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">hasan</namePart>
+				<namePart type="given">Rahimi Pardanjani</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">farideh</namePart>
+				<namePart type="given">Saydi</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت در دانشگاه اسلامی</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>پژوهشگاه فرهنگ و معارف اسلامی وابسته به نهاد نمایندگی مقام معظم رهبری در دانشگاه‌ها</publisher>
+			</originInfo>
+			<identifier type="issn">2345-5713</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>7</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>115</start>
+					<end>128</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://miu.nahad.ir/article_21_d7e608dc315cb3252e089d81e27892e9.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Analyzing the Organizational Responses to Institutional Pressures (Case Study: Imam Sadegh University)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">ali</namePart>
+				<namePart type="given">Raddadi</namePart>
+				<affiliation>دانشجوی دکترای سیاستگذاری بازرگانی دانشگاه تهران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">mesbah alhoda</namePart>
+				<namePart type="given">Bagheri Kani</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">bahman</namePart>
+				<namePart type="given">Hajipour</namePart>
+				<affiliation></affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2014</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>مدیریت در دانشگاه اسلامی</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>پژوهشگاه فرهنگ و معارف اسلامی وابسته به نهاد نمایندگی مقام معظم رهبری در دانشگاه‌ها</publisher>
+			</originInfo>
+			<identifier type="issn">2345-5713</identifier>
+			<part>
+				<detail type="volume">
+					<number>3</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>7</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2014</text>
+				<extent unit="pages">
+					<start>129</start>
+					<end>142</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://miu.nahad.ir/article_22_62961c5bc34e7b8be42b70d2c6206903.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		</modsCollection>

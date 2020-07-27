@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-27T01:36:08Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://www.jiraeg.ir/?_action=export&amp;rf=summon&amp;issue=8734</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2008-08-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1387</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی خصوصیات ژئومکانیکی توده‌ سنگ مسیر تونل انتقال سد درونگر جهت طراحی سیستم نگهدارنده</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد</given_name>
+												<surname>غفوری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>غلامرضا</given_name>
+												<surname>لشکری پور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>صادق</given_name>
+												<surname>طریق ازلی</surname>
+											</person_name></contributors>
+									<abstract>در این مقاله پارامترهای ژئومکانیکی توده های سنگی و تمهیدات سیستم نگهدارنده مقدماتی برای تونل انتقال  سد درونگر، بر اساس دو روش تجربی و عددی مورد بررسی قرار گرفته است. در روش تجربی از سه سیستم طبقه بندی RMR (طبقه بندی ژئومکانیکی توده سنگ)، Q (شاخص کیفی تونل بری) و GSI (اندیس مقاومت زمین شناسی) به منظور برآورد کیفیت توده سنگهای در برگیرنده تونل انتقال و برآورد سیستم نگهدارنده مقدماتی استفاده شده است. همچنین در روش عددی از روش اجزای مشخص) نرم افزار (UDEC  استفاده شده است. آزمایش های مقاومت فشاری تک محوره و سه محوره سنگ بکر, مدول الاستیسیته, وزن مخصوص, تخلخل و درصد جذب آب بر روی نمونه های سنگی بدست آمده از حفاری, در آزمایشگاه مکانیک سنگ انجام شد. همچنین به منظور تخمین پارامترهای مقاومتی توده سنگی (مانند مقاومت فشاری تک محوره توده سنگ، مقاومت کششی، مدول الاستیسیته توده سنگ، ثابت های هوک – بران و پارامترهای مقاومتی موهر-کلمب) از معیار تجربی هوک - بران استفاده شده است. در نهایت اینکه با استفاده از دو روش تجربی و عددی بر میزان دقت و اعتمادپذیری طراحی تونل افزوده شده است.</abstract>
+									<keywords>
+									
+											<keyword>ژئومکانیک</keyword>
+											<keyword>توده سنگ</keyword>
+											<keyword>تونل انتقال آب</keyword>
+											<keyword>اجزای مشخص</keyword>
+											<keyword>مقاومت</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2008</year>
+										<month>08</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>14</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68123_66dfd8ea4a2143a7803bd0b3ad2a3aea.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2008-08-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1387</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی ژئومکانیکی واحدهای رسوبی سازند آغاجاری در پهنه زاگرس</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>داریوش</given_name>
+												<surname>طاهری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>عبدالهادی</given_name>
+												<surname>قزوینیان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمدرضا</given_name>
+												<surname>نیکودل</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>ماشاالله</given_name>
+												<surname>خامه چیان</surname>
+											</person_name></contributors>
+									<abstract>رسوبات جوان سازند آغاجاری در جنوب و جنوب‌غربی ایران دارای بیرون‌زدگی‌های گسترده‌ای می‌باشند. به دلیل این گستردگی، ساختگاه تعداد زیادی از پروژه‌های عمرانی در این سازند واقع شده‌اند. بنابراین آشنایی با ویژگی‌های سنگ‌‌شناسی و پارامترهای ژئومکانیکی واحدهای مختلف این سازند در پهنة زاگرس می‌تواند جهت تهیه یک بانک اطلاعات ژئوتکنیکی، مفید واقع شود. این بانک اطلاعاتی در مطالعات اولیه بسیاری از پروژه‌های مهندسی و تهیه نقشه‌های زمین‌شناسی مهندسی این پهنه، مورد استفاده خواهد بود. در این بررسی ضمن تفکیک این سازند به سه بخش شمال‌غربی، مرکزی و جنوب‌شرقی در پهنة زاگرس، پارامترهای ژئومکانیکی آنها بر اساس داده‌های بدست آمده از آزمون‌های آزمایشگاهی مکانیک سنگ و همچنین اطلاعات حاصل از پروژه‌های اجرا شده در این پهنه، مورد مقایسه و ارزیابی قرار گرفته است. به علاوه ضرایب تبدیل مقاومتی بر اساس نتایج آزمون‌های ساده و ارزان قیمت ارائه شده است. پایداری هر یک از واحدهای سنگی این سازند در برابر فرآیندهای هوازدگی با استفاده از آزمایش دوام‌پذیری نیز مورد ارزیابی قرار گرفته است. در آزمایش‌های سه‌محوری ضمن تعیین سطوح مختلف تنش اصلی در هنگام شکست، پارامترهای &lt;em&gt;φ&lt;/em&gt;، &lt;em&gt;c&lt;/em&gt;، &lt;em&gt;m&lt;sub&gt;i&lt;/sub&gt;&lt;/em&gt; و &lt;em&gt;&lt;sub&gt;ci&lt;/sub&gt;&lt;/em&gt;&lt;em&gt;σ&lt;/em&gt; محاسبه و شرایط انتقال از رفتار شکننده به شکل‌پذیر نیز مورد ارزیابی قرار گرفته است. ارزیابی اجمالی نتایج بدست آمده نشان می‌دهد که واحدهای سنگی سازند آغاجاری واقع در بخش مرکزی نسبت به دو بخش شمال‌غربی و جنوب‌شرقی این پهنه، دارای مقادیر مقاومتی بالاتری هستند. این نتیجه ممکن است به این فرضیه منجر شود که واحدهای این بخش احتمالاً به دلیل قرار گرفتن در محدوده عملکرد گسل‌های امتدادلغز هندیجان و کازرون، فرآیندهای دیاژنتیکی را سریع‌تر طی کرده‌‌اند.</abstract>
+									<keywords>
+									
+											<keyword>سازند آغاجاری</keyword>
+											<keyword>پهنة زاگرس</keyword>
+											<keyword>مقاومت فشاری تک‌محوری</keyword>
+											<keyword>شاخص بارنقطه‌ای</keyword>
+											<keyword>مقاومت کششی برزیلی</keyword>
+											<keyword>امواج الاستیک</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2008</year>
+										<month>08</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>15</first_page>
+										<last_page>30</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68125_5777ab580aa526db8231a15157464aeb.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2008-08-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1387</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی اثر تغییر زاویه نوک کاوشگر دینامیکی DCP بر تکرارپذیری نتایج آنها</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید داود</given_name>
+												<surname>محمدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمدرضا</given_name>
+												<surname>نیکودل</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حسن</given_name>
+												<surname>رحیمی</surname>
+											</person_name></contributors>
+									<abstract>استفاده از کاوشگرهای دینامیکی در ارزیابی­های زمین شناسی مهندسی و ژئوتکنیکی نسبت به روش هایی مانند گمانه زنی اقتصادی تر، سریع تر و حمل آن به نقاطی با دسترسی دشوار راحت­تر است. کاوشگر دینامیکیDCP  نوع خیلی سبک کاوشگرهای دینامیکی با عمق کاوش 1 تا 2/1 متر است و در ارزیابی CBR اساس و زیراساس راه ها به کار رفته است. در این تحقیق امکان توسعه کاربرد این کاوشگر و اثر تغییر در زاویه راس مخروط نفوذ بر نتایج آن بررسی گردیده است. بررسی  تکرارپذیری نتایج و توابع مختلف توزیع احتمال مربوطه، بر تکرارپذیر بودن نتایج حاصل از کاوشگر DCP دلالت دارد. با توجه به مقادیر ضریب تعیین  (R&lt;sup&gt;2&lt;/sup&gt;) بهترین توزیع احتمال نتایج حاصله، مربوط به توزیع لوگ نرمال و بعد از آن، توزیع نرمال است. بررسی اثر تغییر در زاویه راس مخروط در آزمایش هایDCP  نشان داد که تکرارپذیرترین نتایج مربوط به مخروط با زاویه راس90 درجه  بوده و مخروط با زاویه رأس 30 درجه دارای بیشترین خطا می باشد. مخروط نفوذ استاندارد (60 درجه) نیز دارای دقت مناسبی بوده و نتایج آن قابل قبول است. </abstract>
+									<keywords>
+									
+											<keyword>کاوشگر دینامیکی DCP</keyword>
+											<keyword>توابع توزیع احتمال</keyword>
+											<keyword>ضریب تغییرات</keyword>
+											<keyword>تکرارپذیری</keyword>
+											<keyword>زاویه راس مخروط</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2008</year>
+										<month>08</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>31</first_page>
+										<last_page>42</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68131_355f83c5b44d92c270e6c7524522daa3.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2008-08-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1387</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی عوامل مؤثر در وقوع زمین لغزش در جنوب غرب خلخال با استفاده از جداول توافقی و آزمون های آماری مربع کای</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>رضا</given_name>
+												<surname>طلائی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محسن</given_name>
+												<surname>شریعت جعفری</surname>
+											</person_name></contributors>
+									<abstract>این پژوهش به منظور شناخت و بررسی عوامل مؤثر در وقوع زمین‎لغزش‎های منطقه خلخال و بومی سازی مدلهای آماری انجام شده است. موارد استفاده نتایج آن در برنامه­ریزی­های توسعه مسکونی، عمرانی، کشاورزی، منابع طبیعی، زیست محیطی و اقتصادی خواهد بود. با شناسائی و ثبت زمین­لغزش­های منطقه با استفاده از عکس­های هوایی موجود و پیمایش صحرائی و با تولید نقشه‎های پایه زمین شناسی، شیب، کاربری اراضی، بارش، پراکنش رودخانه­ها، جاده­ها، ابنیه­ها و چاه­های فاضلاب، در مقیاس 50000 :1، مطالعات آماری داده­های تهیه شده با استفاده از نرم­افزارهای کامپیوتری به روش جداول توافقی و آزمون مربع­ کای انجام شد. همچنین مقادیر ضرایب و توافق برای تک­تک عوامل مؤثر محاسبه و با یکدیگر مقایسه شدند. نتایج نشان داد که تفاوت های معنی‎دار بین نوع رده‎های مختلف عوامل و وقوع حوادث حرکات دامنه‎ای وجود دارد و میزان این اختلافات براساس نوع عامل متفاوت است. براساس ضرایب توافق، ترتیب تأثیر عوامل مختلف در وقوع لغزش­های منطقه مشخص شده و با مقایسه مقادیر باقیمانده­ها، مؤثرترین رده از هر عامل نیز تعیین گردید. نتایج نشان داد که عامل لیتولوژی در صدر عوامل مؤثر در وقوع لغزش­های منطقه است. در نهایت با توجه به نوع عوامل مؤثر در وقوع لغزش­های منطقه راهکارهای اولیه­ای برای کاهش خسارات مستقیم و غیر مستقیم آنها پیشنهاد شد.</abstract>
+									<keywords>
+									
+											<keyword>زمین لغزش</keyword>
+											<keyword>جداول توافقی</keyword>
+											<keyword>آزمون آماری مربع کای</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2008</year>
+										<month>08</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>43</first_page>
+										<last_page>62</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68133_f6458145186a70c5c9a0e680bf67afa0.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2008-08-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1387</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>استفاده از روش منشأیابی در تعیین سهم واحدهای سنگ‌شناسی حوضه پلدشت در تولید رسوب</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>شاهرخ</given_name>
+												<surname>حکیم خانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسن</given_name>
+												<surname>احمدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>جعفر</given_name>
+												<surname>غیومیان</surname>
+											</person_name></contributors>
+									<abstract>به دلیل‌ وجود مشکلات زیاد در کاربرد روشهای‌ سنتی‌، روش انگشت­نگاری، ردیابی یا بعبارتی منشأیابی به‌ عنوان‌ روشی جایگزین‌ و مناسب مورد توجه ‌محققین‌ مختلف‌ قرار گرفته‌ است. در این روش‌، خصوصیات فیزیکی‌، ژئوشیمیایی‌ و آلی‌ رسوب و منابع رسوب برای‌ تعیین‌ منابع‌ اصلی‌ رسوب و اهمیت نسبی‌ آنها مورد استفاده قرار می­گیرند. در روش یاد شده با استفاده از ترکیبی مناسب از خصوصیات جدا کننده منابع‌ رسوب، سهم منابع رسوب در تولید رسوب تعیین می­شود. در این تحقیق، سعی شده است با بهره­گیری از ترکیبی مناسب از عناصر ژئوشیمیایی که قادر به جداسازی واحدهای سنگ­شناسی در یکی از زیر حوضه­های حوضه ایستگاه پخش سیلاب پلدشت واقع در شهرستان ماکو از استان آذربایجان غربی است سهم واحدهای یاد شده تعیین شود. بعد از برداشت 106 نمونه معرف از واحدهای سنگ­ شناسی و 6 نمونه رسوب از انتهای حوضه نسبت به تجزیه 18 عنصر ژئوشیمیایی اقدام شد. با بهره­گیری از روش تحلیل تشخیص، حدود 12 عنصر از 18 عنصر به عنوان ترکیب مناسب انتخاب شدند. در آخر با استفاده از ترکیب یاد شده و مدل­های چند متغیره ترکیبی سهم واحدهای مارن، کنگلومرا، آهک و دولومیت، شیل و اسلیت و رسوبات کواترنری به ترتیب برابر با 9/53، 75/29، 85/8،  5/7 و 0 درصد بدست آمد. میانگین خطای نسبی تقریبا برابر با 5/17 درصد و متوسط ضریب کارایی مدل حدود 99/0 است. روش منشأیابی رسوب به عنوان روشی با ارزش برای کسب اطلاعات از منابع رسوب تشخیص داده شد.</abstract>
+									<keywords>
+									
+											<keyword>عناصر ژئوشیمیایی</keyword>
+											<keyword>منابع رسوب</keyword>
+											<keyword>واحدهای سنگ شناسی</keyword>
+											<keyword>پلدشت</keyword>
+											<keyword>تحلیل تشخیص</keyword>
+											<keyword>منشأیابی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2008</year>
+										<month>08</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>63</first_page>
+										<last_page>74</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68134_e2ea3c87f4f0e70e645250958c828037.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2008-08-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1387</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر برداشت شن و ماسه بر خصوصیات ریخت‌سنجی رسوبات بستر رودخانه</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید حمیدرضا</given_name>
+												<surname>صادقی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>عبدالواحد</given_name>
+												<surname>خالدی درویشان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>لیلا</given_name>
+												<surname>غلامی</surname>
+											</person_name></contributors>
+									<abstract>برداشت مصالح از بستر رودخانه­ها منجر به تغییرخصوصیات هیدرولیکی و هندسی رودخانه شده و با افزایش گل­آلودگی و طبعاً انرژی جریان، ضمن تشدید فرسایش و ایجاد مخاطرات زیست­محیطی، پارامترهای ریخت­سنجی رسوبات بستر را نیز تحت تأثیر قرار می­دهد. تحقیق حاضر با هدف بررسی نقش­ برداشت دو معدن شن و ماسه بر خصوصیات ریخت­سنجی رسوبات بستر در رودخانه &quot;واز&quot; واقع در استان مازندران صورت گرفت. به منظور انجام تحقیق پس از تعیین چهار مقطع قبل و بعد از محدوده­های برداشت شن و ماسه، رسوبات بستر به روش ترکیبی نمونه­برداری و مجموعه خصوصیات ریخت­سنجی رسوبات بستر شامل میانگین، جورشدگی، چولگی، کشیدگی، نَما، قطرهای ده، پنجاه و نود درصد، درصد شن، ماسه، سیلت و رس، قطرهای بزرگ، متوسط و کوچک، فاکتور شکل، قطر ظاهری، کرویت، گردشدگی، نسبت پهنی و بافت رسوبات تعیین شد. بررسی نتایج علاوه بر تائید شرایط نسبی هیدرولیکی مشابه در مقاطع قبل و بعد از معادن مورد مطالعه، نشان داد که فعالیت­های برداشت شن و ماسة رودخانه­ای بر تمام خصوصیات ریخت­سنجی بررسی شده به غیر از کرویت و بافت رسوبات تأثیر داشته است. </abstract>
+									<keywords>
+									
+											<keyword>برداشت شن و ماسه</keyword>
+											<keyword>ریخت‌سنجی رسوبات بستر</keyword>
+											<keyword>گراولومتر</keyword>
+											<keyword>رودخانة واز</keyword>
+											<keyword>استان مازندران</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2008</year>
+										<month>08</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>75</first_page>
+										<last_page>86</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68143_9ddf17e5342863ce4b03516db1a4c5c0.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2008-08-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1387</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تحلیل زمین ساخت- رسوبی رسوبات پلیو- کواترنری مرتفع دامنه جنوبی میشوداغ در شمال باختری ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>داوود</given_name>
+												<surname>مختاری</surname>
+											</person_name></contributors>
+									<abstract>در این مقاله نقش فعالیتهای زمین­ساختی در سامانه رودخانه­ای و ایجاد فضای رسوبگذاری برای رسوبات پلیوکواترنری دامنه جنوبی رشته کوهستانی میشوداغ به عنوان بخش مهمی از سامانه فرابوم فروبوم شمال دریاچه ارومیه در شمال باختری ایران، مورد بررسی قرار گرفته است. نتیجه عملکرد این فعالیت­ها به همراه سایر فرآیندهای محیطی و زمین ریخت­شناسی، تحمیل ساز و کارهای کنترلی متعدد بر چگونگی رسوبگذاری در محیط­های رسوبی منطقه بوده است. بررسی­های انجام شده بر روی رسوبات پلیو- کواترنری منطقه از طریق تفسیر نقشه­های زمین­شناسی و توپوگرافی، عکس­های هوایی و به ویژه بازدیدهای میدانی، حاکی از وجود چندین مرحله فرگشتی در سامانه­های رسوبگذاری بخش­های مختلف منطقه می­باشد. بر این اساس، پنج دوره فرگشتی برای رسوبات فوق با عناوین رسوبات کنگلومرای نیمه متراکم، Qt1، Qt2، Qt3و Qt4 طرح شده است و در هریک از آنها نقش فعالیت­های زمین­ساختی در ایجاد فضای رسوبگذاری مورد بررسی قرار گرفته است. بر اساس نتایج این پژوهش، سیمای توپوگرافی و زمین­ریختی فعلی منطقه به شدت از فعالیت­های زمین­ساختی کواترنری متأثر شده است و بر طبق شواهد موجود فعالیت­های زمین­ساختی کواترنری مهمترین  نقش را در ایجاد فضای رسوبگذاری و شکل­گیری شبکة آبراهه­ای  ناموافق داشته­اند. سابقه تشکیل شبکه رودخانه­ای ناموافق با ساختار زمین­شناسی منطقه به دوره بعد از کوهزایی پاسادنین و قبل از شروع رسوبگذاری واحد Qt1 بر     می­گردد. با توجه به این که شواهدی مبنی بر حرکات بالاآمدگی در هسته اصلی کوهستان در دوره­های اخیر زمین­شناسی و به ویژه در کواترنری وجود ندارد، لذا  باید دلیل افزایش تدارک رسوبی رودخانه­ها و بجاگذاری رسوبات کواترنری گسترده منطقه را در عوامل دیگری غیر از    فعالیت­های زمین­ساختی مانند تغییرات اقلیمی جستجو نمود. با این حال شواهد ژئومورفولوژی مبتنی بر ویژگی­های سامانه­های رودخانه­ای منطقه، حاکی از پائین رفتن بستر دریاچه ارومیه در اثر عملکرد گسل شرفخانه در پلئیستوسن پایانی و هولوسن است که همزمان با اثر تغییرات اقلیمی، افت سطح آب دریاچه ارومیه را سبب شده است. در مجموع، این مقاله مطالعه­ای موردی را که می­تواند به درک چگونگی برگشت چشم انداز در نواحی فعال زمین ساختی بیانجامد، در اختیار می­گذارد. </abstract>
+									<keywords>
+									
+											<keyword>تحلیل‌های زمین ساخت- رسوبی</keyword>
+											<keyword>رسوبات پلیو- کواترنری</keyword>
+											<keyword>رسوبات رودخانه‌ای</keyword>
+											<keyword>شبکه آبراهه‌ای ناموافق</keyword>
+											<keyword>فضای رسوبگذاری</keyword>
+											<keyword>دامنه جنوبی میشوداغ</keyword>
+											<keyword>شمال باختری ایران</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2008</year>
+										<month>08</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>87</first_page>
+										<last_page>101</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_68145_0909656d3ffa6a3810dd65e40ae3539a.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

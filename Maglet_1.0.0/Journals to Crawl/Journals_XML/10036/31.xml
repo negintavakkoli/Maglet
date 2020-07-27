@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Sharp boundary inversion of magnetotelluric data for prospecting of hydrocarbon structures in Gachsaran area.</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">شهاب</namePart>
+				<namePart type="given">البرزیان جونقانی</namePart>
+				<affiliation>فارغ التحصیل کارشناسی ارشد اکتشاف نفت</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">علی</namePart>
+				<namePart type="given">مرادزاده</namePart>
+				<affiliation>هیات علمی گروه معدن دانشکده فنی دانشگاه تهران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">رضا</namePart>
+				<namePart type="given">قائدرحمتی</namePart>
+				<affiliation>هیات علمی گروه معدن دانشگاه ملی خرم آباد</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">علی</namePart>
+				<namePart type="given">نجاتی کلاته</namePart>
+				<affiliation>هیات علمی دانشکده معدن،نفت و ژئوفیزیک دانشکده معدن دانشگاه شاهرود</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">محمد</namePart>
+				<namePart type="given">فیلبندی کشکولی</namePart>
+				<affiliation>فارغ التحصیل کارشناسی ارشد اکتشاف نفت</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>8</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>1</start>
+					<end>12</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_14204_a7b69edb5952af151b5f098e432e79b4.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2019.17774.1558</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Investigation of Hydrogeochemistry and quality of Groundwater in the Aquifer of Bukan Plain, West Azerbaijan Province</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">ظاهر</namePart>
+				<namePart type="given">آروم</namePart>
+				<affiliation>دانشگاه صنعتی شاهرود</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">گیتی</namePart>
+				<namePart type="given">فرقانی تهرانی</namePart>
+				<affiliation>عضو هیأت علمی، دانشگاه صنعتی شاهرود</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">غلامعباس</namePart>
+				<namePart type="given">کاظمی</namePart>
+				<affiliation>عضو هیأت علمی، دانشگاه صنعتی شاهرود</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>8</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>13</start>
+					<end>32</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_14205_b4f6608f313ddc724e1c81f875947d5f.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2019.20782.1651</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Folding Geometry in the Varavi, Lamerd, Tabnak, Gavbandi, Khayyam and Madar gas fields, within the coastal Fars</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">علی</namePart>
+				<namePart type="given">تقوی</namePart>
+				<affiliation>دانشکده علوم زمین، دانشگاه شهید بهشتی، تهران، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">مهدی</namePart>
+				<namePart type="given">نجفی</namePart>
+				<affiliation>دانشگاه تحصیلات تکمیلی علوم پایه زنجان، زنجان، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">نجمه</namePart>
+				<namePart type="given">اعتمادسعید</namePart>
+				<affiliation>دانشگاه تحصیلات تکمیلی علوم پایه زنجان، زنجان، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">محمد</namePart>
+				<namePart type="given">صدیق</namePart>
+				<affiliation>شرکت نفت مناطق مرکزی ایران، تهران، ایران</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>8</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>33</start>
+					<end>43</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_14206_fa59c99ec14ab8d1b271ebff43e17b09.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2019.22682.1733</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Geology and genesis of Halab 2 Fe occurrence in Takab—Takht-e-Soleiman—Anguoran metallogenic zone</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">فرخنده</namePart>
+				<namePart type="given">توفیقی</namePart>
+				<affiliation>دانشجوی کارشناسی ارشد گروه زمین شناسی دانشگاه زنجان</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">میر علی اصغر</namePart>
+				<namePart type="given">مختاری</namePart>
+				<affiliation>هیئت علمی گروه زمین شناسی دانشگاه زنجان</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">جواد</namePart>
+				<namePart type="given">ایزدیار</namePart>
+				<affiliation>هیئت علمی گروه زمین شناسی دانشگاه زنجان</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">حسین</namePart>
+				<namePart type="given">کوهستانی</namePart>
+				<affiliation>هیات علمی گروه زمین شناسی دانشگاه زنجان</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>8</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>44</start>
+					<end>59</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_14207_35fbc025f5d7e2de525002087d6f90ea.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2018.22926.1747</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Numerical Modeling of soil dynamic compaction using Finite Difference method</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">مرتضی</namePart>
+				<namePart type="given">بختیاری</namePart>
+				<affiliation>دانشگاه علوم و فنون دریایی خرمشهر</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">احسان</namePart>
+				<namePart type="given">کمال پور اصل</namePart>
+				<affiliation>دانشگاه علوم و فنون دریایی خرمشهر</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">جواد</namePart>
+				<namePart type="given">احدیان</namePart>
+				<affiliation>دانشگاه شهید چمران اهواز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>8</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>60</start>
+					<end>68</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_13919_558591cb07a6d2b9dfb1ba1b18a5281f.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2018.23603.1769</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Structural Zones Arasbaran Mountains in north Azerbaijani plateau (Iran)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">نرجس</namePart>
+				<namePart type="given">غضنفری</namePart>
+				<affiliation>دانشجو</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">بهزاد</namePart>
+				<namePart type="given">زمانی قره چمنی</namePart>
+				<affiliation>گروه علوم زمین/ دانشکده علوم طبیعی/ دانشگاه تبریز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">فاطمه</namePart>
+				<namePart type="given">مصباحی</namePart>
+				<affiliation>گروه علوم زمین، دانشکده علوم طبیعی، دانشگاه تبریز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>8</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>69</start>
+					<end>82</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_14208_d41e62200b97f57fcbf402ca13e3fe49.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2019.23794.1784</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Investigation on focal mechanism of Ahar – Varzaghan twin earthquake on    August 2012 and its aftershocks</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">حمیده</namePart>
+				<namePart type="given">اصغری</namePart>
+				<affiliation>کارشناس مرکز پردازش- شرکت عملیات اکتشاف نفت</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>8</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>83</start>
+					<end>94</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_14209_9280da7dd6595c81fcbf0264d2cd0226.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2018.22660.1790</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Structural and geodynamical analysis of Taft fault system, based on its fractal and geometry density, west and southwest Yazd</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">حسین</namePart>
+				<namePart type="given">حاجی علی بیگی</namePart>
+				<affiliation>گروه حوضه های رسوبی و نفت، دانشکده علوم زمین، دانشگاه شهید بهشتی</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">مهناز</namePart>
+				<namePart type="given">ندایی</namePart>
+				<affiliation>گروه اموزشی زمین شناسی دانشگاه پیام نور بیرجند</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">بابک</namePart>
+				<namePart type="given">سامانی</namePart>
+				<affiliation>دانشکده علوم زمین دانشگاه اهواز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">وحید</namePart>
+				<namePart type="given">ارامشیان</namePart>
+				<affiliation>گروه حوضه های رسوبی ونفت دانشکده علوم زمین دانشگاه شهید بهشتی</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2019</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Journal of Advanced Applied Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Shahid Chamran University of Ahvaz</publisher>
+			</originInfo>
+			<identifier type="issn">2251-7057</identifier>
+			<part>
+				<detail type="volume">
+					<number>8</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2019</text>
+				<extent unit="pages">
+					<start>95</start>
+					<end>105</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://aag.scu.ac.ir/article_14210_c0e773040b18afe3417c3cdfd6050cf5.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22055/aag.2019.24070.1791</identifier>
+			</mods>
+		</modsCollection>

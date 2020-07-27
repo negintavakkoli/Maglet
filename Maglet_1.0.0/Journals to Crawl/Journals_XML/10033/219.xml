@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-25T02:12:15Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22048">http://saffron.torbath.ac.ir/?_action=export&amp;rf=summon&amp;issue=768</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2013-12-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>پژوهش‌های زراعی زعفران در ایران: روند گذشته و نگاهی به آینده</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علیرضا</given_name>
+												<surname>کوچکی</surname>
+											</person_name></contributors>
+									<abstract> زعفران از جنبه‌های مختلف اقتصادی، اجتماعی، زیست محیطی و سیاسی جایگاه ویژه‌ای در کشاورزی ایران و بخصوص مناطق زعفران‌کاری دارا می‌باشد. نقش کشاورزان ایران در اهلی‌سازی و تکامل زراعی این گیاه در منابع متعدد علمی بین‌المللی به‌صورت بارزی آورده شده است. گرچه نام این محصول مینیاتوری و به‌ اصطلاح دست‌ساز همیشه با نام ایران همراه بوده است ولی به‌نظر نمی‌رسد تلاش‌های علمی پژوهشگران ما در گذشته در خور این گیاه پرآوازه بوده باشد و مسلماً انتظار جهانیان از پژوهشگران ایرانی در زمینه زعفران خیلی بیش از آن است که امروزه برآورده شده است. در این نوشتار سعی شده است با نگاهی به پژوهش‌های زراعی زعفران در گذشته در سطح کشور، وضع موجود و دورنمای آینده آن نیز ترسیم شود. اگرچه پژوهش‌های زراعی اولیه در مورد زعفران در کشور از سابقه‌ای 70 ساله برخوردار است ولی طی یک دوره 40 ساله فعالیت علمی خاصی در این زمینه صورت نگرفت و فعالیت‌های پژوهشی منسجم عملاً از دهه 50 توسط برخی پژوهشگران پیشگام در خراسان آغاز شد. در دهه‌های 50 و 60 با پیدایش سازمان‌هایی همچون سازمان پژوهش‌های علمی و صنعتی (واحد خراسان) و شروع گسترش دوره‌های تحصیلات تکمیلی در دانشکده‌های کشاورزی پژوهش‌های زراعی زعفران در دهه‌های 50 و 60 نسبتاً گسترش یافت و این موضوع بخصوص در دهه‌های 70 و 80 سرعت بیشتری به‌ خود گرفت. در اوایل دهه 80 با تاسیس قطب علمی گیاهان زراعی ویژه در دانشکده کشاورزی دانشگاه فردوسی مشهد و در اواخر دهه 80 با تاسیس گروه پژوهشی زعفران در دانشکده کشاورزی دانشگاه بیرجند و همچنین تأسیس کانون ارتباط با دانش زعفران در همان دانشگاه، فعالیت‌های پژوهشی تداوم یافت. در اوایل دهه 90 تاسیس پژوهشکده زعفران در دانشگاه تربت حیدریه و تلاش در جهت انتشار دو نشریه تخصصی زعفران توسط دانشکده کشاورزی دانشگاه بیرجند و پژوهشکده زعفران و گسترش قابل ملاحظه دوره‌های تحصیلات تکمیلی در دانشگاه‌ها و نیز توجه بیشتر به این محصول سرعت پژوهش‌های مربوط بیشتر شد. تأسیس دبیرخانه دائمی جشنواره زعفران در قائن، تشکیل شورای ملی زعفران در اتاق بازرگانی صنایع و معادن مشهد، تدوین طرح جامع بهبود و فرآوری زعفران، برگزاری کنگره و همایش‌های ملی، برگزاری دومین سمپوزیوم بین‌المللی زعفران در دانشکده کشاورزی دانشگاه فردوسی مشهد نمونه‌هایی از توجه بیشتر به زعفران در سطح ملّی است که بدون تردید می‌تواند عامل مهمی در گسترش پژوهش‌های علمی روی این محصول باشد. امید است چنین رویه‌هایی زمینه‌های لازم را برای نوعی جنبش علمی در مورد زعفران فراهم ساخته باشد و انتظار می‌رود این جنبش علمی به‌صورتی منسجم و جامع، مبانی پژوهش‌های رایج را مورد تجدید نظر قرار داده و به‌علاوه جنبه‌های نوینی از تولید زعفران از جمله تولید در محیط‌های تحت کنترل، ارزیابی خلأ عملکرد، مدلسازی رشد و نمو، جنبه‌های فیزیولوژی و اکولوژی زراعی، نقش تغییرات اقلیم و گرمایش جهانی در گسترش سطح کشت و جابجایی عرصه‌های تولید آن در قالب پروژه‌های کلان بررسی نماید. بدون تردید انتقال یافته‌های علمی به عرصه‌های تولید و عرضه نتایج پژوهش‌ها درقالب نوشتارهای استاندارد بین‌المللی به جامعه علمی جهانی می‌تواند دستاورد عملی چنین جنبشی باشد.</abstract>
+									<keywords>
+									
+											<keyword>ایران</keyword>
+											<keyword>زراعی</keyword>
+											<keyword>پژوهش‌های زعفران</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2013</year>
+										<month>12</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>3</first_page>
+										<last_page>21</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_4808_49228290cce92368676638ddc340783c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2013-12-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر وزن بنه مادری و سطوح مختلف کود گاوی بر عملکرد بنه و گل زعفران (.<i>Crocus sativus</i> L)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>فاطمه</given_name>
+												<surname>حسن زاده اول</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>پرویز</given_name>
+												<surname>رضوانی مقدم</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>بنایان اول</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>رضا</given_name>
+												<surname>خراسانی</surname>
+											</person_name></contributors>
+									<abstract> به‌منظور مقایسه وزن‌های مختلف بنه مادری کشت شده و تعیین سطوح مناسب کود گاوی بر عملکرد گیاه زعفران (&lt;em&gt;Crocus sativus&lt;/em&gt; L.)، آزمایشی طی 2 سال زراعی 1391-1390 و 1392-1391 در مزرعه تحقیقاتی دانشکده کشاورزی دانشگاه فردوسی مشهد به‌صورت فاکتوریل در قالب طرح بلوک‌های کامل تصادفی با 4 سطح وزن بنه مادری (شامل گروه‌های وزنی 3 – 1/1، 5 – 1/3، 7 – 1/5 و 9- 1/7 گرم) و 4 سطح کود گاوی (0، 20، 40 و 60 تن در هکتار) و در 3 تکرار اجرا گردید. نتایج تجزیه واریانس شاخص‌های عملکرد بنه زعفران نشان داد که این شاخص‌ها به‌طور معنی‌داری تحت تاثیر وزن بنه مادری و کود گاوی قرار گرفت. همچنین اثر متقابل وزن بنه مادری در سطوح مختلف کود گاوی نیز بر شاخص‌های ذکر شده معنی⁭دار بود. در بین تیمارهای آزمایش، استفاده از بنه مادری با گروه وزنی 9-1/7 گرم با میزان مصرف 60 تن در هکتار کود گاوی، بیشترین تعداد کل بنه در واحد سطح (510 بنه در متر مربع) و بیشترین عملکرد بنه (1044 گرم در متر مربع) را نشان داد. به‌نظر می‌رسد بنه‌های با وزن بیشتر در سال اول کشت، تعداد بنه‌های بیشتری (در هر 4 گروه وزنی) تولید کرده اما بنه‌های با وزن کمتر توانایی تولید بنه‌های با وزن بیشتر از وزن بنه مادری، بیشتری دارند. شاخص‌های عملکرد گل زعفران در سال اول نشان داد که با افزایش وزن بنه‌های کشت شده، عملکرد گل در سال اول کشت افزایش ‌یافت. نتایج تجزیه واریانس تعداد گل و عملکرد تر و خشک گل و کلاله زعفران در سال دوم حاکی از پاسخ معنی‌دار این شاخص‌ها در واکنش به وزن بنه مادری، کود گاوی و اثر متقابل وزن بنه مادری در سطوح مختلف مصرف کود گاوی بود، به‌طوریکه با افزایش وزن بنه مادری و افزایش سطوح مصرف کود گاوی مقادیر این شاخص‌ها افزایش یافت. به نظر می‌رسد تولید بنه‌های با وزن بیشتر در سال اول کشت زعفران و به⁭دنبال آن افزایش عملکرد گل، نیازمند بنه‌های مادری درشت و مصرف کود گاوی در سطوح بیشتر باشد.</abstract>
+									<keywords>
+									
+											<keyword>اندازه بنه</keyword>
+											<keyword>بنه دختری</keyword>
+											<keyword>کود دامی</keyword>
+											<keyword>عملکرد کلاله</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2013</year>
+										<month>12</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>22</first_page>
+										<last_page>39</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_4809_5bdf2836198fcc23f05c20c626a64694.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2013-12-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تجزیه و تحلیل بیوانفورماتیکی توالی‌های EST کلاله زعفران (.<i>Crocus sativus</i> L) به منظور تعیین جهت‌گیری کارکردی ژنوم و شبکه ژنی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>معصومه</given_name>
+												<surname>علی اکبری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>روح اله</given_name>
+												<surname>شاملو دشت پاگردی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>اسماعیل</given_name>
+												<surname>ابراهیمی</surname>
+											</person_name></contributors>
+									<abstract>&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;; mso-fareast-font-family: GillSansMT; mso-fareast-language: EN-GB;&quot; lang=&quot;FA&quot;&gt;روش‌های ژنومیکس کارکردی نظیر تجزیه و تحلیل توالی‌های &lt;/span&gt;&lt;span style=&quot;mso-bidi-font-size: 10.0pt; mso-fareast-font-family: GillSansMT; mso-fareast-language: EN-GB;&quot; dir=&quot;LTR&quot;&gt;EST&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;; mso-fareast-font-family: GillSansMT; mso-fareast-language: EN-GB;&quot; lang=&quot;FA&quot;&gt;، امکان شناسایی، بررسی بیان و مطالعه رونوشت‌های ژنی درگیر در شبکه‌های تنظیمی و متابولیکی را فرآهم آورده‌اند. در این پژوهش به منظور شناسایی جهت گیری کارکردی ژنوم و تعیین شبکه ژنی درگیر در تکامل کلاله زعفران، &lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;;&quot; lang=&quot;FA&quot;&gt;6202 توالی&lt;/span&gt;&lt;span dir=&quot;LTR&quot;&gt; EST&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;;&quot; lang=&quot;FA&quot;&gt; مربوط به کتابخانه‌ی کلاله بالغ زعفران مورد بررسی و تحلیل قرار گرفتند. پس از پیرایش اولیه توالی‌ها، دسته بندی و هم گذاری آنها انجام شد که منتج به ایجاد 910 &lt;/span&gt;&lt;span style=&quot;mso-ansi-language: EN-GB;&quot; lang=&quot;EN-GB&quot; dir=&quot;LTR&quot;&gt;unigene&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;;&quot; lang=&quot;FA&quot;&gt;&lt;span style=&quot;mso-spacerun: yes;&quot;&gt; &lt;/span&gt;(604 کانتیگ و 304 سینگلتون) گردید. جستجوی بلاست ایکس نشان داد که 570 &lt;/span&gt;&lt;span style=&quot;mso-ansi-language: EN-GB;&quot; lang=&quot;EN-GB&quot; dir=&quot;LTR&quot;&gt;unigene&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;; mso-ansi-language: EN-GB;&quot; lang=&quot;FA&quot;&gt; دارای &lt;/span&gt;&lt;span style=&quot;mso-ansi-language: EN-GB;&quot; lang=&quot;EN-GB&quot; dir=&quot;LTR&quot;&gt;hit&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;; mso-ansi-language: EN-GB;&quot; lang=&quot;FA&quot;&gt; مشخص در بین پروتئین‌های آرابیدوپسیس بودند و برای سایر توالی‌ها &lt;/span&gt;&lt;span style=&quot;mso-ansi-language: EN-GB;&quot; lang=&quot;EN-GB&quot; dir=&quot;LTR&quot;&gt;hit&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;; mso-ansi-language: EN-GB;&quot; lang=&quot;FA&quot;&gt; مشخصی شناسایی نشد. گروه‌بندی و &lt;/span&gt;&lt;span style=&quot;mso-ansi-language: EN-GB;&quot; lang=&quot;EN-GB&quot; dir=&quot;LTR&quot;&gt;Gene enrichment analysis&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;; mso-ansi-language: EN-GB;&quot; lang=&quot;FA&quot;&gt; توالی‌ها آنها را در 31 گروه کارکردی مختلف قرار داد که حضور 12 گروه در سطح آماری 1% معنی‌دار گردید. &lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;;&quot; lang=&quot;FA&quot;&gt;شبکه ژنی مربوط به توالی های با حضور بالا (بیش از 20 رونوشت)، نشان داد که ارتباطات ژنی پیچیده ای در کلاله بالغ زعفران وجود دارد. نتایج مشخص نمود که مسیر علامت‌دهی جاسمونیک اسید و عوامل رونویسی مربوط به آن همچون &lt;/span&gt;&lt;em&gt;&lt;span style=&quot;mso-ansi-language: EN-GB;&quot; lang=&quot;EN-GB&quot; dir=&quot;LTR&quot;&gt;MYB21&lt;/span&gt;&lt;/em&gt;&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;; mso-ansi-language: EN-GB;&quot; lang=&quot;FA&quot;&gt; و &lt;/span&gt;&lt;em&gt;&lt;span style=&quot;mso-ansi-language: EN-GB;&quot; lang=&quot;EN-GB&quot; dir=&quot;LTR&quot;&gt;Zinc finger&lt;/span&gt;&lt;/em&gt;&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;; mso-ansi-language: EN-GB;&quot; lang=&quot;FA&quot;&gt; ها سهم بزرگی از شبکه تنظیمی را به خود اختصاص می‌دهند و نقش کلیدی ای در تنظیم متابولیسم اولیه و ثانویه کلاله و به خصوص متابولیسم کارتنوئیدها (به عنوان مهم ترین متابولیت های زعفران)، بر عهده دارند. ژن‌های شناسایی شده در این پژوهش می توانند نامزدهای مناسبی برای دست‌ورزی تکامل و متابولیسم کلاله زعفران باشند.&lt;/span&gt;</abstract>
+									<keywords>
+									
+											<keyword>ژنومیکس کارکردی</keyword>
+											<keyword>کارتنوئید</keyword>
+											<keyword>متابولیت ثانویه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2013</year>
+										<month>12</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>40</first_page>
+										<last_page>54</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_4810_a57089c7ceacbc722b38950bd3434e7a.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2013-12-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>اثرات تاریخ و مقادیر کاربرد کاه و کلش گندم برخصوصیات بنه های دختری و گل‌انگیزی زعفران (.<i>Crocus sativus</i> L) در سال دوم</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>پرویز</given_name>
+												<surname>رضوانی مقدم</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علیرضا</given_name>
+												<surname>کوچکی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>عبداله</given_name>
+												<surname>ملافیلابی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>سید محمد</given_name>
+												<surname>سیدی</surname>
+											</person_name></contributors>
+									<abstract>&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;;&quot; lang=&quot;FA&quot;&gt;به‌منظور بررسی تاثیر زمان پخش و مقادیر کاربرد کاه و کلش گندم بر شاخص‌های مربوط به عملکرد بنه‌های دختری زعفران در سال دوم، آزمایشی در دو سال زراعی 90-1389 و 1391-1390 بصورت فاکتوریل در قالب طرح بلوک‌های کامل تصادفی با 15 تیمار و سه تکرار در مزرعه تحقیقاتی دانشگاه فردوسی مشهد اجرا شد. تیمارهای آزمایش بر اساس پنج سطح کاربرد مالچ کلش گندم (شاهد (عدم پخش مالچ)، 2، 4، 6 و 8 تن در هکتار) در سه زمان (&lt;/span&gt;&lt;span class=&quot;StyleComplexLotus12pt&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; mso-ansi-font-size: 11.0pt;&quot; lang=&quot;AR-SA&quot;&gt;خرداد، مرداد و مهرماه)&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11.0pt; mso-ansi-font-size: 10.0pt; font-family: &#039;B Mitra&#039;;&quot; lang=&quot;FA&quot;&gt; به‌صورت پخش سطحی طراحی شدند. نتایج تجزیه واریانس در آزمایش حاکی از تاثیر معنی‌دار زمان پخش مالچ کلش گندم، مقادیر کاربرد مالچ و نیز اثر متقابل آن‌ها بر تمامی شاخص‌های کمی گل زعفران بود. بر اساس نتایج آزمایش، پخش مالچ کلش در مهرماه بیشترین تاثیر را در افزایش معنی‌دار تعداد گل در متر مربع و عملکرد گل‌تر و ‌خشک زعفران (به ترتیب تا 46، 61 و 65 درصد) داشت. هم‌چنین تمامی شاخص‌های مورد مطالعه بنه‌های دختری زعفران به‌طور معنی‌داری تحت تاثیر زمان پخش مالچ کلش گندم قرار گرفت. در بین تیمارهای مورد بررسی، بیشترین افزایش در عملکرد بنه‌های بیش از 12 گرم و عملکرد کل بنه‌های دختری زعفران در نتیجه کاربرد 8 تن مالچ کلش در مهرماه مشاهده شد. به‌طوری که کاربرد تیمار ذکر شده در مقایسه با شاهد، عملکرد بنه‌های با وزن بیش از 12 گرم و عملکرد کل بنه‌های زعفران را به‌ترتیب تا 104 و 103 درصد افزایش داد.&lt;/span&gt;</abstract>
+									<keywords>
+									
+											<keyword>بنه‌های زعفران</keyword>
+											<keyword>گل‌انگیزی</keyword>
+											<keyword>مالچ گندم</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2013</year>
+										<month>12</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>55</first_page>
+										<last_page>70</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_4811_1364d95726c5ffe883521030081e71a8.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2013-12-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>امکان سنجی نواحی مستعد کشت زعفران در دشت کاشمر با استفاده از GIS</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید امیر محمد</given_name>
+												<surname>علـوی زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>منظم اسماعیل پور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمود</given_name>
+												<surname>حسین زاده کرمانی</surname>
+											</person_name></contributors>
+									<abstract>زعفران به‌عنوان گران‌بهاترین محصول کشاورزی و دارویی جهان از جمله گیاهانی است که با توجه به مقاومت خود در برابر خشکی نقش قابل توجهی در وضعیت اقتصادی و اجتماعی مناطق خشک و نیمه خشک خراسان جنوبی و رضوی پیدا کرده است. هدف اصلی این مطالعه، تعیین نواحی مستعد کشت زعفران با توجه به برخی متغیرهای اصلی مؤثر در آن می‌باشد. داده‌های اقلیمی مورد نیاز، از اداره کل هواشناسی خراسان رضوی برای دوره 1390-1368 اخذ شد. جهت تهیه نقشه سطوح ارتفاعی، شیب، جهت شیب، و TIN (شبکه نامنظم مثلثاتی) از نقشه‌های توپوگراف DEM(مدل رقومی ارتفاع) سازمان نقشه‌برداری با مقیاس 50000 :1استفاده گردید. نقشه پوشش گیاهی و کاربری اراضی از نقشه‌های قابلیت اراضی در مقیاس50000 :1 مربوط به موسسه تحقیقات آب و خاک کشور استخراج گردید. از سامانه اطلاعات جغرافیایی به‌منظور رقومی‌سازی و تهیه نقشه‌ها استفاده شد. پس از تشکیل پایگاه اطلاعات فضایی منطقه، با استفاده از نرم ‌افزار ArcGIS 9.3 اطلاعات توصیفی نقشه‌ها به آنها اضافه گردید. سپس براساس شرایط مورد نیاز در خصوص هر پارامتر و اهمیت هر یک از لایه‌ها، با استفاده از نرم‌افزار  AHP (فرایند تحلیل سلسله مراتبی) وزن‌دهی صورت گرفت و پس از عملیات هم‌پوشانی وزنی در محیط GIS پهنه‌بندی انجام گردید. نتایج حاصله قسمت‌های مرکزی و جنوبی دشت را به‌عنوان مستعدترین مناطق نشان داد که در حال حاضر کاربری این اراضی به کشت دیم، آبی، مراتع نیمه متراکم و متراکم اختصاص دارد.</abstract>
+									<keywords>
+									
+											<keyword>پهنه‌بندی</keyword>
+											<keyword>زعفران</keyword>
+											<keyword>سیستم اطلاعات جغرافیایی</keyword>
+											<keyword>شاخص‌های محیطی و اقلیمی</keyword>
+											<keyword>کاشمر</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2013</year>
+										<month>12</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>71</first_page>
+										<last_page>95</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_4812_035e1b027a6554719db8b1a9011a1b9b.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2013-12-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1392</year>
+									</publication_date>
+									<journal_volume>
+										<volume>1</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تاثیر حلال در پیش تغلیظ و اندازه گیری کادمیوم در نمونه های زعفران به روش میکرواستخراج مایع-مایع پخشی بر پایه جامد شدن قطره آلی شناور- اسپکتروفتومتری UV- Vis</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سمیه</given_name>
+												<surname>حیدری</surname>
+											</person_name></contributors>
+									<abstract>در این پژوهش از روش میکرواستخراج مایع- مایع پخشی بر پایه جامد شدن قطره آلی شناور – اسپکتروفتومتری UV- Vis به‌منظور استخراج و اندازه گیری آلاینده کادمیوم در نمونه‌های زعفران استفاده شد. اتانول به عنوان حلال پخشی، 1- آندکانول به عنوان حلال استخراج و استون به‌عنوان حلال رقیق کننده استفاده گردید. بررسی ها نشان داد که نوع و حجم حلال پخشی، حلال استخراج و حلال رقیق کننده در راندمان استخراج تاثیر به‌سزایی دارد. تحت شرایط بهینه، حد تشخیص 0005/0 میکروگرم بر میلی لیتر به‌دست آمد. نمونه‌های زعفران تربت حیدریه، قائنات و باخرز با روش پیشنهادی مورد تجزیه قرار گرفت و درصد بازیابی برای نمونه های زعفران آلوده شده با 1/0 میکروگرم بر میلی لیتر از کادمیوم به‌دست آمد. </abstract>
+									<keywords>
+									
+											<keyword>اندازه گیری اسپکتروفتومتری</keyword>
+											<keyword>زعفران</keyword>
+											<keyword>کادمیوم</keyword>
+											<keyword>میکرواستخراج</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2013</year>
+										<month>12</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>96</first_page>
+										<last_page>115</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_4813_a4dcce887f7423ad6460ca126a27fa15.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

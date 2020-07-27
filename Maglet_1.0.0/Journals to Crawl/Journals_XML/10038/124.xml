@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_68322_4987fd8953a275583b3572c7af262408.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>مخاطرات زمین شناسی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>اولویت‌بندی عوامل مؤثر بر زمین‌لغزش و تهیه نقشه خطر آن با استفاده از مدل فرآیند تحلیل سلسله مراتبی (مطالعه موردی: حوضه کشوری)</article-title>
+			        
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>سوری</surname>
+			            <given-names>سلمان</given-names>
+			          </name>
+					  <aff>دانشجوی کارشناسی ارشد، زمین شناسی مهندسی، دانشگاه فردوسی مشهد،</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>لشکری پور</surname>
+			            <given-names>غلامرضا</given-names>
+			          </name>
+					  <aff>استاد گروه زمین شناسی مهندسی دانشگاه فردوسی</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>غفوری</surname>
+			            <given-names>محمد</given-names>
+			          </name>
+					  <aff>دانشگاه فردوسی مشهد</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c4">
+			          <name>
+			            <surname>فرهادی</surname>
+			            <given-names>طاهر</given-names>
+			          </name>
+					  <aff>دانشجوی دکتری، زمین‌شناسی اقتصادی، دانشگاه آزاد اسلامی واحد علوم تحقیقات، تهران</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>23</day>
+			        <month>08</month>
+			        <year>2013</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>1</fpage>
+			      <lpage>12</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>22</day>
+			          <month>02</month>
+			          <year>2012</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>29</day>
+			          <month>07</month>
+			          <year>2013</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2013, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2013</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_68322.html">http://www.jiraeg.ir/article_68322.html</self-uri> 		
+			      <abstract>
+			        <p>شناسایی عوامل مؤثر در وقوع زمین‌لغزش در یک حوضه و پهنه‌بندی خطر آن یکی از ابزارهای اساسی جهت مدیریت و اجتناب از خطر می‌باشد. حوضه آبریز کشوری با مساحت ٣45 کیلومتر‌مربع در٢٠ کیلومتری جنوب شرق خرم‌آباد جزء زاگرس چین‌خورده است و با توجه به نوع سازند‌های زمین‌شناسی، وضعیت توپوگرافی، لرزه‌خیزی و اقلیم، از پتانسیل لغزشی بالایی برخوردار می‌باشد. به منظور بررسی پایداری دامنه‌ها در این حوضه ابتدا لغزش‌های حوضه شناسایی و ثبت گردیدند. با قطع نقشه‌های عوامل مؤثر بر لغزش با نقشه پراکنش زمین‌لغزش‌ها، تأثیر هر یک از عوامل شیب، جهت شیب، ارتفاع، زمین‌شناسی، بارش، کاربری اراضی، فاصله از گسل و آبراهه به ناپایداری شیب‌ها در محیط نرم‌افزار ArcGIS با استفاده از روش تحلیل سلسله مراتبی (AHP) برآورد گردید. بر اساس نتایج پهنه‌بندی خطر زمین‌لغزش با روش تحلیل سلسله مراتبی به ترتیب 9/5، 2/38، 1/38، 79/15 و 01/2 درصد از مساحت منطقه در کلاس‌های خطر خیلی کم، کم، متوسط، زیاد و خیلی زیاد قرار گرفته است.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>زمین‌لغزش</kwd>
+						<kwd>پهنه‌بندی</kwd>
+						<kwd>حوضه کشوری</kwd>
+						<kwd>تحلیل سلسله مراتبی</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>احمدی، ح.، محمدخان، ش.، فیض‌نیا، س.، قدوسی،  ج.، 1384. ساخت مدل منطقه‌ای خطر حرکت‌های توده‌ای با استفاده از ویژگی‌های کیفی و سلسله مراتبی سیستم‌ها(AHP) ، مطالعه موردی حوضه آبخیز طالقان. مجله منابع طبیعی ایران، 85(1):14-3.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>امیراحمدی، ا.، کامرانی دلیر ح.، صادقی م.، 1389. پهنه‌بندی خطر زمین‌لغزش با استفاده از روش تحلیل سلسله مراتبی (AHP)(مطالعه موردی: حوضه آبخیز چلاو آمل). نشریه جغرافیا، 8(27): 203-181.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>بهنیافر، ا.، منصوری دانشور، م.، کهربائیان، پ.، 1389. کاربرد مدل AHP و منطق فازی در منطقه‌بندی خطرات زمین لغزش (مطالعه موردی: حوضه آبریز فریزی). جغرافیای طبیعی، 3(9): 100-89.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>رنجبر، م.، روغنی، پ.، 1388. پهنه‌بندی خطر زمین‌لغزش در شهرستان اردل با استفاده از روش تحلیل سلسله مراتبی (AHP). فصل‌نامه جغرافیای چشم‌انداز زاگرس، 1(2): 30-21.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>زمانی، ص.، 1390. تهیه نقشه پهنه‌بندی مخاطرات زمین با تأکید بر زمین‌لغزش در حوضه یدک طویل (شرق قوچان). پایان‌نامه کارشناسی ارشد، دانشگاه فردوسی مشهد، 126 ص.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>قدسی‌پور، س.ح.، 1387. فرایند تحلیل سلسله مراتبی (AHP). انتشارات دانشگاه امیر کبیر، 220ص.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>کلارستاقی، ع.، 1381. بررسی نقش عوامل مؤثر بر وقوع زمین لغزش‌ها. پایان‌نامه کارشناسی ارشد، دانشگده منابع طبیعی، دانشگاه تهران، 141ص.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>محمدی، م.، مرادی، ح.، فیض‌نیا، س.، پورقاسمی، ح.، 1388. اولویت‌بندی عوامل مؤثر بر زمین‌لغزش و تهیه نقشه خطر آن با استفاده از مدل‌های ارزش اطلاعات و فرآیند تحلیل سلسله مراتبی (مطالعه موردی: بخشی از حوزه آبخیز هراز). علوم زمین، 19(74): 32-27.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Ayalew, L., Yamagishi, H., Marui, H., Kanno, T., 2005. Landslide in Sado Island of Japan part II. GIS-based susceptibility mapping with comparisons of results from to methods and verifications. Engineeing Geology, 81: 432-445.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Ercanoglu, M., Kasmer, O., Temiz, N., 2008. Adaptation and comparison of expert opinion to analytical hierarchy process for landslide susceptibility mapping. Bull. Eng. Geol. Envir., 67: 565-578.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Gharahi, H., Bohlooli, B., Sayyar, A., Shariat jafari, M., 2011. Landslide Susceptibility Mapping in the Reservoir of Alborz Dam Using Analytical Hierarchy Process and Bivariate Statistics. Geosciences Scientific Quarterly Journal, 81: 93-100.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>Komac, M., 2006. A landslide susceptibility model using the analytical hierarchy process method and multivariate statistics in Perialpine Slovenia. Geomorphology, 74: 17–28.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Lan, H.X., Zhou, C.H., Wang, L.J., Zhang, H.J., Li, R.H. (2004) Landslide watershed. Yunnan, China, Engineering Geology, 76: 101-128.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Mezughi, T.H., Akhir, J.M., Rafek, A.G., Abdullah, I., 2012. Analytical Hierarchy Process Method for Mapping Landslide Susceptibility to an Area along the E-W Highway (Gerik-Jeli), Malaysia. Asian Journal of Earth Sciences, 5: 13-24.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Mohammady, M., Morady, H.R., Feiznia, S.,  Pourghasemi, H.R., 2010. Prioritization of Landslide Effective Factors and it´s Hazard Mapping using Information Value and AHP Models(Case Study: A Part of Haraz Watershed). Geosciences Scientific Quarterly Journal , 74: 27.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Ownegh,  M., 2002. Landslide hazard, and risk assessment in the southern Sunbirds of Newcastle. Sabbatical research report No. 2, University of Newcastle, Australia, 85 pp.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Pourghasemi, H.R., Pradhan, B., Gokceoglu, C., 2012. Application of fuzzy logic and analytical hierarchy process (AHP) to landslide susceptibility mapping at Haraz watershed, Iran. Natural Hazards, DOI: 10.1007/s11069-012-0217-2.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Yalcin, A., 2008, GIS-based landslide susceptibility mapping using analytical hierarchy process and bivariate statistics in Ardesen (Turkey). Comparisons of results and confirmations, Catena, 72: 1-12.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Yalcin, A., Reis, S., Aydinoglu, A.C., Yomralioglu T., 2011. A GIS-based comparative study of frequency ratio, analytical hierarchy process, bivariate statistics and logistics regression methods for landslide susceptibility mapping in Trabzon. NE Turkey, Catena, 85: 274-287.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation> _||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_68323_aef9ab58fde3405d60e36c4031f82ee3.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>زمین شناسی مهندسی ابنیه فنی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>ارزیابی نفوذپذیری و تزریق‌پذیری نهشته‌های کواترنری و توده‌سنگ‌های رسوبی ساختگاه سد نرگسی</article-title>
+			        <subtitle>ارزیابی نفوذپذیری و تزریق‌پذیری نهشته‌های کواترنری و توده‌سنگ‌های رسوبی  ساختگاه سد نرگسی</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>اجل لوئیان</surname>
+			            <given-names>رسول</given-names>
+			          </name>
+					  <aff>استاد گروه زمین شناسی مهندسی دانشگاه اصفهان</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>عظیمیان</surname>
+			            <given-names>عبدالعظیم</given-names>
+			          </name>
+					  <aff>دانشگاه آزاد اسلامی، واحد علوم و تحقیقات، گروه محیط زیست، بوشهر، ایران</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>حافظی مقدس</surname>
+			            <given-names>ناصر</given-names>
+			          </name>
+					  <aff>استاد گروه زمین شناسی مهندسی</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c4">
+			          <name>
+			            <surname>بهرامی سامانی</surname>
+			            <given-names>فریدون</given-names>
+			          </name>
+					  <aff>بخش مهندسی ژئوتکنیک، شرکت مهندسین مشاور تماوان، ایران</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>23</day>
+			        <month>08</month>
+			        <year>2013</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>13</fpage>
+			      <lpage>32</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>24</day>
+			          <month>10</month>
+			          <year>2012</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>26</day>
+			          <month>10</month>
+			          <year>2013</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2013, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2013</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_68323.html">http://www.jiraeg.ir/article_68323.html</self-uri> 		
+			      <abstract>
+			        <p>یکی از مهمترین پارامترها در طراحی و ساخت سدها مسئله نشت آب از محل پى و تکیه گاه‌ها است که علاوه بر هدر رفتن آب ذخیره شده در پشت سد، پایدارى سازه سد را نیز به خطر مى‌اندازد. بدین منظور مطالعات وسیعی جهت تعیین مقدار نفوذپذیری توده‌سنگ‌های ساختگاه سد و روش‌های آب‌بندی آن انجام شده است. در این ارتباط، مقاله حاضر به طور موردی به موضوع نشت در سد نرگسی پرداخته است. این سد برروی نهشته‌های کواترنری و سازندهای رسوبی بختیاری، میشان و گچساران قرار دارد. بر مبنای آزمایش‌های فشار آب (لوفران و لوژون) موضوع نشت در این ساختگاه مورد ارزیابی قرار گرفته است. شاخص نفوذپذیری ثانویه در سال 2005 توسط فویو و همکاران به منظور بررسی تاثیر ویژگی‌های درزه‌داری سنگ در نفوذپذیری آنها معرفی گردید. اهمیت این روش امکان تشخیص بین تفاوت بین جک هیدرولیکی و شکست هیدرولیکی می‌باشد. بر اساس شاخص نفوذپذیری ثانویه (SPI) و داده‌های حاصل از آزمایش لوژون و همچنین ویژگی‌های مغزه‌های حفاری، نفوذپذیری توده‌های سنگی  بررسی گردید. همچنین با توجه به نقش خصوصیات زمین شناسی مهندسی، ناحیه‌بندی نفوذپذیری و کیفیت توده‌سنگ در محیط نرم‌افزار  Rockwork 14به منظور ارائه دید سه بعدی و قضاوت مهندسی ساده‌تر انجام و نتایج آن بصورت مقاطع مناسب ارائه شده است. نتایج این تحقیق نشان می‌دهد که بجز برخی موارد، همبستگی خوبی میان مقادیر SPI و RQD وجود دارد. نتایج نشان می‌دهد که بیشترین میزان نشت آب از تکیه‌گاه چپ می‌باشد و سازند میشان از لحاظ نفوذپذیری وضعیت بهتری نسبت به سازندهای گچساران و بختیاری دارد.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>شاخص نفوذپذیری ثانویه(SPI)</kwd>
+						<kwd>آزمایش فشار آب</kwd>
+						<kwd>سد نرگسی</kwd>
+						<kwd>نفوذپذیری</kwd>
+						<kwd>نشت</kwd>
+						<kwd>نرم‌افزارRockwork 14</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>مهندسین مشاور تماون، 1388. گزارش سیمای طرح سد نرگسی، کارفرما: آب منطقه‌ای استان فارس. </element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>Ajalloeian, R., Fatehi, L., Ganjalipour, K., 2011. Evaluation of hydrojacking and hydrofracturing behavior in Aghajari formation (Gotvand dam site foundation), Iran. Journal of Geology and Mining Research, 3(3): pp. 46-53.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>Ajalloeian, R., Habibi, V., Sharifipour, M., Azimian, A., 2012. Evaluation Engineering Geology Properties of Jamishan Dam Site with Emphasis on Its Groutability. Electronic Journal of Geotechnical Engineering, 17(Bund. T): 2777-2793.  </element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>Ajalloeian, R., Moein, F., 2009. Evaluation of Damsites Groutability Using Secondary Permeability Index, Rock Classification (Case Studies). American Journal of Applied Sciences, 6: 1235-1241.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>Azimian, A., Ajalloeian, R., 2013. Comparison between lugeon with secondary permeability index obtained of water pressure test in rock masses. Electronic Journal of Geotechnical Engineering, 18( Bund. H): 1603-1612.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Coli, N., Pranzini, G., Alﬁ, A., Boerio. V., 2008. Evaluation of rock-mass permeability tensor and prediction of tunnel inﬂows by means of geostructural surveys and ﬁnite element seepage analysis. Engineering Geology, 10:174–184.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Ewert, F.K., 1981. Untersuchungen zu Felsinjektionen Teil 2. Types and dam sites are needed. Munster. Forsch Geol Paleont 53.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Ewert, F.K., 1997a. Permeability, groutability and grouting of rocks related to dam sites Part 1, Springer verlarg. Berlin, pp. 31–77.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Ewert, F.K., 1997b. Permeability, groutability and grouting of rocks related to dam sites Part 2, Springer verlarg. Berlin, pp. 123–176.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Ewert, F.K., 1997c. Permeability, groutability and grouting of rocks related to dam sites Part 3, Springer verlarg. Berlin, pp. 271–325. </element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Fransson, A., Tsang, C.F., Rutqvist, J, Gustafson, G., 2007. A new parameter to assess hydromechanical effects in single–hole hydraulic testing and grouting, International Journal of Rock Mechanics and Mining Science, 44:1011-1021.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>Fransson, A., Tsang, C.F., Rutqvist, J., Gustafson, G., 2010. Estimation of deformation and stiffness of fractures close to tunnels using data from single-hole hydraulic testing and grouting. International Journal of Rock Mechanics and Mining Sciences, 47 (6): 887- 893.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Foyo, A., Sanchez, M.A., 2002. Permeability tests for rock masses. A proposal for a new expression for the equivalent Lugeon unit (ELU). Dam Engineering, 8(3):199–218.  </element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Foyo, A., Sanchez, Miguel A., Carmen, Tomillo., 2005. A proposal for a Secondary Permeability Index obtained from water pressure tests in dam foundations. Engineering Geology, 77: 69–82.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Gothäll, R., Stile, H., 2010.Fracture-fracture interaction during grouting. Tunneling and Underground Space Technology, 25: 331-339.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Gurocak, Z., Alemdag, S., 2011. Assessment of permeability and injection depth at the Atasu dam site (Turkey) based on experimental and numerical analyses. Bulletin of Engineering Geology and the Environment, 64: 400-409.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Houlsby, A.c., 1990. Construction and Design of Cement Grouting. John-Wiley, 427p.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Karagqzel, R., Kilic, R., 2000.The effect of the alteration degree of ophiolitic melange on permeability and grouting. Engineering Geology, 57: 1 – 13.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Kiraly, L., 2002. Karstiﬁcation and groundwater ﬂow. In: Gabrovsek F. (Ed.) Evolution of Karst from Prekarst to Cessation. Zalozba ZRC, Postojna-Ljubljana, pp. 155–190.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Kutzner, T.C., 1996. Grouting of Rock and Soil, A., A., Balkema/ Rotterdam/ Brook Field, 271 p.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Lombardi, A.C., 2003. Grouting of rock masses. 3rd International Conference on Grouting and Grout Treatment, P. 1-42.</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Maghous, S., Saada, Z., Dormieux, L., Canou, J., Dupla, J.C., 2007. A model for in situ grouting with account for particle filtration. Computers and Geotechnics, 34:164-174.</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Todd, D.K., Mays, L.W., 2005. Ground Water Hydrology, John Wiley &amp; Sons, Inc, 636p.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Uromeihy, A., Farrokhi, R., 2011. Evaluating Groutability at the Kamal-Saleh Dam based on Lugeon Tests. Bulletin of Engineering Geology and the Environment, 64:382-387</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation> _||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_68324_326373278a4f60e751ae4db691f4dc6a.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>مخاطرات زمین شناسی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>ارائه روشی تحلیلی برای تخمین عوامل مؤثر بر نشست زمین با استفاده از داده‌های صحرایی و تصاویر InSAR در دشت نیشابور</article-title>
+			        <subtitle>ارائه روشی تحلیلی برای تخمین عوامل مؤثر بر نشست زمین با استفاده از داده‌های صحرایی و تصاویر InSAR در دشت نیشابور</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>نامقی</surname>
+			            <given-names>هادی</given-names>
+			          </name>
+					  <aff>دانشیار گروه مهندسی عمران، دانشکده مهندسی، دانشگاه فردوسی مشهد</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>حسینی</surname>
+			            <given-names>سید محمود</given-names>
+			          </name>
+					  <aff>استاد گروه مهندسی عمران، دانشکده مهندسی، دانشگاه فردوسی مشهد</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>شریفی</surname>
+			            <given-names>محمدباقر</given-names>
+			          </name>
+					  <aff>دانشیار گروه مهندسی عمران، دانشکده مهندسی، دانشگاه فردوسی مشهد</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>23</day>
+			        <month>08</month>
+			        <year>2013</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>33</fpage>
+			      <lpage>50</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>24</day>
+			          <month>10</month>
+			          <year>2012</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>14</day>
+			          <month>05</month>
+			          <year>2013</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2013, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2013</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_68324.html">http://www.jiraeg.ir/article_68324.html</self-uri> 		
+			      <abstract>
+			        <p>توسعة برداشت از آب‌های زیرزمینی به اندازه‌ای که مقدار تخلیه آبخوان از تغذیه آن بیشتر شود، موجب برهم خوردن تعادل در آبخوان شده و به صورت زمانی یا مکانی موجب کاهش ارتفاع هیدرولیکی می‌گردد. کاهش ارتفاع هیدرولیکی و یا افت سطح آب باعث کاهش فشار آب منفذی و افزایش تنش مؤثر وارد بر ذرات آبخوان می‌شود. این پدیده، تحکیم لایه‌هایی از رسوبات ریزدانه را به‌دنبال دارد، که نتیجه آن به صورت نشست در سطح زمین نمایان می‌شود. در سال‌های اخیر افزایش برداشت از آبخوان دشت نیشابور واقع در شمال شرقی ایران، گزارش شده است که نتیجه آن افت سطح آب با میانگین 90 سانتی‌متر در سال و ثبت حداکثر نرخ نشست موضعی 19 سانتی‌متر در سال، بوده است. در این تحقیق بر روی برآورد پارامترهای مؤثر بر نشست دشت نیشابور تمرکز شده‌است. پارامترهای مورد بررسی شامل ضخامت مؤثر لایه‌های ریزدانه تراکم‌پذیر و ذخیره ویژه پلاستیک کالبد آبخوان ( )، می‌باشند که به‌طور مستقیم در محاسبات مربوط به نشست‌های برگشت‌ناپذیر، وارد می‌شوند. در گام اول، ضمن بررسی اطلاعات 231 گمانه، با روش درون‌یابی کریجینگ، نقشه توزیع ریزدانه‌ها در سطح دشت نیشابور تهیه و ارتباط منطقی بین نشست ثبت شده و پتانسیل آبدهی چاه‌های دشت، با ضخامت لایه‌های ریزدانه تحقیق گردید. نتایج حاصل نشان داد که بین ضخامت ریزدانه‌ها در پهنه دشت و میزان تخلیه از چاه‌ها، ارتباطی معکوس وجود دارد. به عبارت دیگر کم‌ترین میزان تخلیه در عمده نواحی دارای بیشترین مقدار ریزدانه (رس و سیلت) دیده می‌شود و ریزدانه بودن بافت آبخوان، و به تبع آن کم بودن هدایت هیدرولیکی، بر کاهش آبدهی چاه‌ها تأثیر مستقیم داشته است. در گام دوم، روند تغییرات نرخ نشست حاصل از تصاویر ماهواره­ای InSAR و افت سطح آب برای چاه‌های پیزومتری واقع در محدوده نشست، مورد تحلیل قرار گرفت. بررسی‌ها نشان داد که تراکم آبخوان نیشابور عمدتاً در نتیجه تغییر شکل‌های پلاستیک بوده و سهم تغییر شکل‌های الاستیک ناچیز می‌باشد. لذا با صرف‌نظر از تغییرشکل‌های الاستیک، به استناد نقشه‌های نرخ سالانه نشست و نقشه‌های هم‌افت سطح آب، روشی مبتنی بر آنالیز تنش-کرنش برای تعیین مقادیر ذخیره ویژه کالبد پلاستیک آبخوان ارائه گردید. سپس به‌کمک نتایج حاصل از گام نخست، مقادیر ذخیره ویژه پلاستیک کالبد آبخوان ( ) محاسبه شد. نتیجه حاصل از تعمیم روش فوق منجر به تهیه نقشه توزیع مقادیر  برای رسوبات ریزدانه پراکنده در سطح دشت نیشابور گردید.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>آب زیرزمینی</kwd>
+						<kwd>دشت نیشابور</kwd>
+						<kwd>ذخیره ویژه کالبد آبخوان</kwd>
+						<kwd>نشست زمین</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>آمیغ پی، م.، عربی، س.، طالبی، ع.، جمور، ی.، 1388. بررسی مناطق نشست‌خیز ایران براساس داده‌های تراز‌یابی. مجله نقشه برداری، شماره 104.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>علی‌پور، ا.، 1390. تعیین پتانسیل لایه آبدار آزاد با استفاده از ارتباط بین داده­های ژئوالکتریک و پارامترهای آبخوان (مطالعه موردی: دشت نیشابور). پایان‌نامه کارشناسی ارشد، دانشگاه فردوسی مشهد.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>شرکت آب منطقه‌ای خراسان رضوی- دفتر مطالعات آب‌های زیرزمینی، 1389. گزارش پیشنهاد ممنوعیت دشت نیشابور.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>شریفی‌کیا، م. 1389. بررسی پی‌آمدهای ناشی از پدیده فرونشست در اراضی و دشت‌های مسکونی ایران. مجله انجمن زمین شناسی مهندسی ایران، جلد سوم، شماره 3و4 (43-58).</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>Bouwer, H., 1977. Land Subsidence and Cracking Due to Ground-Water Depletion. Ground Water, 15: 358–364.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Bull, W.B., Poland, J.F., 1975. Land subsidence due to ground-water withdrawal in the Los Banos–Kettleman City area, California, Part 3. Interrelations of water level change, change in aquifer-system thickness, and subsidence: U.S. Geological Survey Professional Paper 437-G, 62 p.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Burbey, T.J., Warner, S.M., Blewitt, G., Bell, J.W., Hill, E., 2006. Three dimensional deformation and strain induced by municipal pumping, part 1: analysis of ﬁeld data. Journal of  Hydrology, 319(1-4):123–142</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Butler, J. J., 2009. Pumping Tests for Aquifer Evaluation—Time for a Change?. Ground Water, 47: 615–617.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Calderhead, A.I., Therrien, R., Rivera, A., Martel, R., Garﬁas, J., 2011. Simulating pumping-induced regional land subsidence with the use of  InSAR and ﬁeld data in the Toluca Valley, Mexico. Advances in Water Resources, 34:83–97.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Chaplot, V., Darboux, F., Bourennane, H., Leguédois, S., Silvera, N., Phachomphon, K., 2006. Accuracy of interpolation techniques for the derivation of digital elevation models in relation to landform types and data density. Geomorphology, Vol. 77: 126-141.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Dehghani, M., Hooper, A., Hanssen, R.F., Zoej, M.J.V., Saatchi, S., Entezam, I., 2010. Hybrid conventional and persistent scatterer SAR interferometry for land subsidence monitoring in Tehran Basin, Iran. Proceedings FRINGE Workshop 2009, Frascati, Italy.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>Dehghani, M., Mansourian, A., Zoej, M.J.V., Entezam, I., Saatchi, S., 2009. InSAR monitoring of progressive land subsidence in Neyshabour, northeast Iran. Geophysical Journal International, 178:47–56.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Faunt, C.C. (Ed), 2009.Ground-water availability of California’s Central Valley Aquifer, California. U.S. Geological Survey Professional Paper 1766, 225 p.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Galloway, D.L. (Ed), 2010. Land subsidence, associated hazards and the role of natural resources development: proceedings. Eighth International Symposium on Land Subsidence, Santiago de Querétaro, Mexico, IAHS publication, no. 339, pp. 61–67</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Galloway, D.L., Burbey, T.J., 2011. Review: Regional land subsidence accompanying groundwater extraction. Hydrogeology Journal, 19(8):1459-1486.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Hanson, R.T., 1989. Aquifer-system compaction, Tucson Basin and Avra Valley, Arizona: U.S. Geological Survey Water-Resources Investigations Report 88-4172, 69 p.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Helm, D.C., 1975. One-dimensional simulation of aquifer system compaction near Pixley, California 1. Constant parameters: Water Resources Research, vol. 11, no. 3, pp. 465–478.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Helm, D.C., 1976. One-dimensional simulation of aquifer system compaction near Pixley, California 2. Stress-dependent parameters: Water Resources Research, vol. 12, no. 3, pp. 375–391.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Helm, D.C., 1998. Poroviscosity. In: Borchers, J.W. (Ed.), Land subsidence case studies and current research. Proceedings of the Dr. Joseph F. Poland Symposium on Land Subsidence, vol. 8, 4–5 Oct 1995, Sacramento, CA., Association of Engineering Geologists, Special Publication, Star, Belmont, CA., pp. 395–405.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Hoffmann, J., 2003. The application of satellite radar interferometry to the study of land subsidence over developed aquifer systems. Ph.D. thesis, Stanford University.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Hoffmann, J., Leake, S.A., Galloway, D.L. &amp; Wilson, A.M., 2003. MODFLOW-2000 ground-water model, user guide to the subsidence and aquifer-system compaction (SUB) package, U.S. Geological Survey Open-File Report 03-233.</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Johnson, A.I., 1984. Laboratory tests for properties of sediments in subsiding areas, part 1, chapter 4, of Poland, J.F., ed., Guidebook to studies of land subsidence due to ground-water withdrawal: Paris, UNESCO, Studies and Reports in Hydrology 40, pp. 55–88.</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Jorgensen, D.G., 1980. Relationships between basic soils engineering equations and basic ground-water ﬂow equations: U.S. Geological Survey Water-Supply Paper 2064, 40 p.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Kruseman, G. P., Ridder, N. A. (1990). Analysis and evaluation of pumping test data. ILRI publication, (47).</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>Leake, S.A., Galloway, D.L., 2007. MODFLOW ground-water model—User guide to the Subsidence and Aquifer-System Compaction Package (SUB-WT) for water-table aquifers: U.S. Geological Survey, Techniques and Methods 6–A23, 42 p.</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Leake, S.A., Galloway, D.L., 2010. Use of the SUB-WT Package for MODFLOW to simulate aquifer-system compaction in Antelope Valley, California, USA., Proceedings of EISOLS 2010, Querétaro, Mexico, IAHS Publication. 339, pp. 61-67.</element-citation>
+		</ref>
+		<ref id="R27">
+			<label>27</label>
+			<element-citation>Leake, S.A., Prudic, D.E., 1991. Documentation of a computer program to simulate aquifer-system compaction using the modular ﬁnite-difference ground-water ﬂow model. U.S. Geological Survey, Techniques of Water-Resources Investigations, Book 6, Chapter A2.</element-citation>
+		</ref>
+		<ref id="R28">
+			<label>28</label>
+			<element-citation>Mishra, P.K., 2010. Pumping Test Inference of Saturated/Unsaturated Aquifer Properties. Ph.D. dissertation, University of Arizona, Tucson.</element-citation>
+		</ref>
+		<ref id="R29">
+			<label>29</label>
+			<element-citation>Morris, D.A., Johnson, A.I., 1967. Summary of hydrologic and physical properties of rock and soil materials as analyzed by the Hydrologic Laboratory of the U.S. Geological Survey 1948-1960.U.S. Geological Survey, Water Supply Paper 1839-D. 42 p.</element-citation>
+		</ref>
+		<ref id="R30">
+			<label>30</label>
+			<element-citation>Motagh, M., Djamour, Y., Walter, T.R., Wetzel, H.U., Zschau, J., Arabi, S., 2007. Land subsidence in Mashhad Valley, northeast Iran: Results from InSAR, levelling and GPS. Geophysical Journal International, 168: pp. 518–526.</element-citation>
+		</ref>
+		<ref id="R31">
+			<label>31</label>
+			<element-citation>Poland, J.F., 1961. The coefﬁcient of storage in a region of major subsidence caused by compaction of an aquifer system, Geological Survey Research 1961: U.S. Geological Survey Professional Paper 424-B, pp. B52–B54.</element-citation>
+		</ref>
+		<ref id="R32">
+			<label>32</label>
+			<element-citation>Poland, J.F., Davis, G.H., 1969. Land subsidence due to withdrawals of fluids, in Varnes, D.J., Kiersch, G., (Eds.), Geological Society of America Reviews in Engineering Geology, vol. 2, pp. 187−269.</element-citation>
+		</ref>
+		<ref id="R33">
+			<label>33</label>
+			<element-citation>Poland, J.F., Lofgren, B.E., Ireland, R.L., Pugh, R.G., 1975. Land subsidence in the San Joaquin Valley, California, as of 1972: U.S. Geological Survey Professional Paper 437-H, 78 p.</element-citation>
+		</ref>
+		<ref id="R34">
+			<label>34</label>
+			<element-citation>Prudic, D.E., Williamson, A.K., 1986. Evaluation of a technique for simulating a compacting aquifer system in the Central Valley of California, U.S.A., in Johnson, A.I., Carbognin, Laura, and Ubertini, Lucio, (Eds)., Land subsidence: Proceedings of the Third International Symposium on Land Subsidence held in Venice, Italy, Wallingford, Oxfordshire, IAHS Press, Institute of Hydrology, IAHS publication 151, pp. 53–63.</element-citation>
+		</ref>
+		<ref id="R35">
+			<label>35</label>
+			<element-citation>Riley, F.S., 1969. Analysis of borehole extensometer data from central California, in Tison, L.J., (Ed)., Land subsidence: Brussels, IASH–Unesco, International Association of Scientiﬁc Hydrology Publication 89, vol. 2, pp. 423–431</element-citation>
+		</ref>
+		<ref id="R36">
+			<label>36</label>
+			<element-citation>Riley, F.S., 1998. Mechanics of aquifer systems, The scientific legacy of Dr. Joseph F. Poland, in Borchers, J.W., (Ed.), Land subsidence case studies and current research: Proceedings of the Dr. Joseph F. Poland Symposium on Land Subsidence, Association of Engineering Geologists Special Publication, No. 8, pp. 13-27.</element-citation>
+		</ref>
+		<ref id="R37">
+			<label>37</label>
+			<element-citation>Riley, F.S., McClelland, E.J., 1971. Application of the modiﬁed theory of leaky aquifers to a compressible multiple-aquifer system: Mechanics of aquifer systems: Analysis of pumping tests near Pixley, California: U.S. Geological Survey Open-File Report, 96 p.</element-citation>
+		</ref>
+		<ref id="R38">
+			<label>38</label>
+			<element-citation>Sneed, M., Galloway, D.L., 2000. Aquifer-system compaction and land subsidence: measurements, analyses, and simulations: the Holly site, Edwards Air Force Base, Antelope Valley, California. U.S. Geological Survey, Techniques of Water-Resources Investigations, Report 00–4015.</element-citation>
+		</ref>
+		<ref id="R39">
+			<label>39</label>
+			<element-citation>Taylor, D.W., 1948. Fundamentals of soil mechanics, Wiley, New York, 700 p.</element-citation>
+		</ref>
+		<ref id="R40">
+			<label>40</label>
+			<element-citation>Terzaghi, K., 1925. Principles of soil mechanics: IV; settlement and consolidation of clay: Erdbaummechanic, vol. 95, no. 3, pp. 874–878.</element-citation>
+		</ref>
+		<ref id="R41">
+			<label>41</label>
+			<element-citation>Terzaghi, K., 1943, Theoretical soil mechanics: New York, Wiley, 510 p.</element-citation>
+		</ref>
+		<ref id="R42">
+			<label>42</label>
+			<element-citation>Therrien, R., McLaren, R.G., Sudicky, E.A., Panday, S.M., 2010. HydroGeoSphere: a three-dimensional numerical model describing fully-integrated subsurface and surface ﬂow and solute transport (draft edition 23 July 2010). Groundwater Simulations Group, University of Waterloo, Waterloo.</element-citation>
+		</ref>
+		<ref id="R43">
+			<label>43</label>
+			<element-citation>Welhan, J.A., Farabaugh, R.L., Merrick, M.J., Anderson, S.R., 2006. Geostatistical modeling of sediment abundance in a heterogeneous basalt aquifer at the Idaho National Laboratory, Idaho: U.S. Geological Survey Scientific Investigations Report, 2006-5316 (DOE/ID-22201), 32 p.</element-citation>
+		</ref>
+		<ref id="R44">
+			<label>44</label>
+			<element-citation>Yeh, HD., Huang, YC., 2009. Analysis of pumping test data for determining unconfined-aquifer parameters: Composite analysis or not?. Hydrogeology Journal , Vol. 17, Issue 5, pp 1133-1147_||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_68325_b88bfd7a592b0e62d7ff1d8621588578.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>ویژگی های زمین شناسی مهندسی مصالح طبیعی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>ارزیابی زوال‌پذیری نمونه‌هایی از تراورتن‌ها در مقابل تبلور نمک با استفاده از پارامترهای شاخص تجزیه و سرعت تجزیه</article-title>
+			        
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1">
+			          <name>
+			            <surname>ذلولی</surname>
+			            <given-names>احمد</given-names>
+			          </name>
+					  <aff>دانشجوی کارشناسی ارشد زمین­شناسی مهندسی، دانشکده علوم پایه، دانشگاه تربیت مدرس، تهران</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2" corresp="yes">
+			          <name>
+			            <surname>خامه چیان</surname>
+			            <given-names>ماشااله</given-names>
+			          </name>
+					  <aff>2. دانشیار زمین­شناسی مهندسی، دانشکده علوم پایه، دانشگاه تربیت مدرس، تهران</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>نیکودل</surname>
+			            <given-names>محمدرضا</given-names>
+			          </name>
+					  <aff>استادیار،‌ گروه زمین‌شناسی مهندسی دانشکده علوم پایه دانشگاه تربیت مدرس</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c4">
+			          <name>
+			            <surname>جمشیدی</surname>
+			            <given-names>امین</given-names>
+			          </name>
+					  <aff>دانشجوی دکتری زمین­شناسی مهندسی، دانشکده علوم پایه، دانشگاه تربیت مدرس، تهران</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>23</day>
+			        <month>08</month>
+			        <year>2013</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>52</fpage>
+			      <lpage>66</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>11</day>
+			          <month>03</month>
+			          <year>2013</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>29</day>
+			          <month>06</month>
+			          <year>2013</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2013, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2013</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_68325.html">http://www.jiraeg.ir/article_68325.html</self-uri> 		
+			      <abstract>
+			        <p>یکی از مهمترین عوامل تأثیرگذار روی دوام و زوال­پذیری سنگ­های ساختمانی تبلور نمک­های محلول است. سولفات منیزیم از نمک­های متداول و مخرب  است که می­تواند باعث زوال­پذیری سنگ­های ساختمانی شود. از این رو ضروری است قبل از انتخاب یک سنگ برای استفاده در نمای بیرونی ساختمان­ها به این موضوع توجه ویژه­ای شود. در تحقیق حاضر از پارامترهای شاخص تجزیه و سرعت تجزیه برای ارزیابی زوال­پذیری نمونه­هایی از تراورتن­ها در مقابل تبلور نمک سولفات منیزیم استفاده شده است که می­توان به عنوان یک معیار مقاومت نمونه‌ها در مقابل تبلور نمک از آن­ها استفاده کرد. بدین منظور 15 نمونه تراورتن از مناطق مختلف ایران تهیه شد و علاوه بر مطالعات سنگ‌شناسی، تعدادی از ویژگی­های فیزیکی و مکانیکی آن­ها شامل چگالی، تخلخل، جذب آب، مقاومت فشاری تک­محوری و کششی برزیلین اندازه­گیری شد. سپس آزمایش تبلور نمک در محلول سولفات منیزیم تا 60 چرخه انجام شد و بر اساس افت وزنی و همچنین وضعیت ظاهری نمونه­ها، پارامترهای شاخص تجزیه و سرعت تجزیه برای هر نمونه تعیین و ارتباط آن­ها با  تخلخل مؤثر، مقاومت کششی برزیلین و افت وزنی نمونه­ها با انجام آنالیزهای رگرسیون برقرار شد. نتایج نشان می­دهد سرعت تجزیه همبستگی بالایی با تخلخل مؤثر، مقاومت کششی برزیلین و افت وزنی نمونه­ها دارد در صورتی که برای شاخص تجزیه اینگونه نیست. همچنین نتایج نشان می­دهد ویژگی­های ساختاری نمونه­ها، تخلخل مؤثر و مقاومت کششی برزیلین از عوامل مهم کنترل کننده دوام نمونه­ها در مقابل تبلور نمک می­باشند.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>زوال‌پذیری</kwd>
+						<kwd>تبلور نمک</kwd>
+						<kwd>شاخص تجزیه</kwd>
+						<kwd>سرعت تجزیه</kwd>
+						<kwd>تراورتن</kwd>
+						<kwd>تخلخل مؤثر</kwd>
+						<kwd>مقاومت کششی برزیلین</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>جمشیدی، ا.، نیکودل، م.ر.، حافظی­مقدس، ن.، 1387. مقایسه اثر تخریبی محلول­های سولفات سدیم و سولفات منیزیم روی نمونه­هایی از سنگ­های ساختمانی. مجموعه مقالات دوازدهمین همایش انجمن زمین­شناسی ایران، شرکت ملی مناطق نفت­خیز جنوب، اهواز.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>جمشیدی، ا.، نیکودل، م.ر.، خامه­چیان، م.،  ذلولی، ا.، 1391. ارزیابی دوام تراورتن قرمز آذرشهر در مقابل یخبندان و تبلور نمک با انجام آزمون­های آزمایشگاهی. مجموعه مقالات سی و یکمین گردهمایی علوم زمین،­ سازمان زمین­شناسی و اکتشافات معدنی کشور.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>Angeli, M., Bigas, J.P., Benavente, D., Menendez, B., Hebert, R., David, C., 2007. Salt crystallization in pores: quantification and estimation of damage. Environmental Geology, 52: 205–213. </element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>Angeli, M., Heber, R., Menendez, B., David, C., Bigas, J.P., 2010. Influence of temperature and salt concentration on the salt weathering of a sedimentary stone with sodium sulphate. Engineering Geology, 115:  193-199.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>Benavente, D., Garcia del Cura, M.A., Fort, R., Ordonez, S., 1999. Thermodynamic modeling of changes induced by salt pressure crystallization in porous media of stone. Journal of Crystal Growth, 204: 168-178.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Benavente D, Garcia del Cura MA, Bernabeu A, Ordonez S., 2001. Quantification of salt weathering in porous stones using experimental continuous partial immersion method. Engineering Geology, 59; 313–25.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Benavente, D., García del Cura, M.A., Fort, R., Ordóñez, S., 2004. Durability estimation of porous building stones from pore structure and strength. Engineering Geology, 74: 113-127.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Benavente, D., Martinez, J., Cueto, N., Cura, M.A, 2007, Salt weathering in dual-porosity building dolostones, Engineering Geology, 94: 215-226.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Chafetz, H.S., Folk, R.L., 1984. Travertines: depositional morphology and the bacterially constructed constituents. Journal of Sedimentary Petrology, 54 (1): 289–316.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Cultrone, G., Luque, A., Sebastián, E., 2012. Petrophysical and durability tests on sedimentary stones to evaluate their quality as building materials. Quarterly Journal of Engineering Geology and Hydrogeology, 45:  415-422.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Dreesen, R., Dusar, M., 2004. Historical building stones in the province of Limburg (NE Belgium): role of petrography in provenance and durability assessment. Materials Characterization 53: 273– 287.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>IAEG, 1979. Classification of rocks and soils for engineering geological mapping. part 1: Rock and soil materials. Bulletin Association Engineering Geology, 19, 364–371.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>ISRM., 2007. The complete ISRM suggested methods for rock characterization, testing and monitoring. In: Ulusay R, Hudson J.A (Eds.), Suggested methods prepared by the commission on testing methods,  1974–2006.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>ISRM., 1981. Rock characterization testing and monitoring. ISRM suggested methods. Pergamon Press, Oxford.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>RILEM, 1980. Recommended tests to measure the deterioration of stone and to assess the effectiveness of treatment methods. Commission 25-PEM. Materials and Structures, 13: 175–253.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Rodriguez-Navarroa, C., Doehnea, E., Sebastianb, E., 2000. How does sodium sulfate crystallize? Implications for the decay and testing of building materials. Cement and Concrete Research, 30: 1527- 1534.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Ruedrich, J., Siegesmund, S., 2007. Salt and ice crystallisation in porous sandstones. Environmental Geology 52: 225-249.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Scherer, G., 1999. Crystallization in pores. Cement and Concrete Research, 29: 1347-1358.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Schneider, C., Gommeaux, M., Fronteau, G., Oguchi, C.T., Eyssautier, S., Kartheuser, B., 2011. A comparison of the properties and salt weathering susceptibility of natural and reconstituted stones of the Orval Abbey (Belgium). Environmental Earth Scinces, 63: 1447–1461.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Sousa, M.O., Suarez del Rio, M., Calleja, L., Argandona, V., Rodriguez, A., 2005. Influence of microfractures and porosity on the physico-mechanical properties and weathering of ornamental granites.  Engineering Geology, 77: 153-168.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Tsui, N., Flatt, R., Scherer, G., 2003. Crystallization damage by sodium sulfate. Journal of Cultural Heritage 4: 109–115.</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Ulusoy, M., 2007. Different igneous masonry blocks and salt crystal weathering rates in the architecture of historical city of Konya. Building and Environment, 42: 3014-3024.</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Urosevic, M., Pardo, E., Cardell, C., 2010. Rough and polished travertine building stone decay evaluated by a marine aerosol ageing test. Construction and Building Materials,  24: 1438-1448.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Yavuz, A.B., 2006, Deterioration of the volcanic kerb and pavement stones in a humid environment in the city centre of Izmir, Turkey. Environmental Geology, 51: 211-227.</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>Yavuz, A.B., Topal, T., 2007. Thermal and salt crystallization effects on marble deterioration: Examples from Western Anatolia, Turkey. Engineering Geology, 90: 30-40.</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Zedef, V., Kocak, K., Doyen, A., Ozsen, H., Kekec, B., 2007, Effect of salt crystallization on stones of historical buildings and monuments, Konya, Central Turkey. Building and Environment, 42: 1453-1457._||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_68326_13f8e8dfcde0ed292919dd1928ee04fb.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>ویژگی های زمین شناسی مهندسی مصالح طبیعی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>تأثیر خصوصیات زمین‌شناسی مهندسی سنگدانه‌ها بر مقاومت بتن</article-title>
+			        <subtitle>تأثیر خصوصیات زمین‌شناسی مهندسی سنگدانه‌ها بر مقاومت بتن</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1">
+			          <name>
+			            <surname>شریفی</surname>
+			            <given-names>جواد</given-names>
+			          </name>
+					  <aff>دانش‌آموخته زمین­شناسی مهندسی دانشگاه تربیت مدرس</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2" corresp="yes">
+			          <name>
+			            <surname>نیکودل</surname>
+			            <given-names>محمدرضا</given-names>
+			          </name>
+					  <aff>استادیار،‌ گروه زمین‌شناسی مهندسی دانشکده علوم پایه دانشگاه تربیت مدرس</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>یزدانی</surname>
+			            <given-names>محمود</given-names>
+			          </name>
+					  <aff>استادیار عمران - خاک و پی دانشگاه تربیت مدرس</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>23</day>
+			        <month>08</month>
+			        <year>2013</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>67</fpage>
+			      <lpage>82</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>24</day>
+			          <month>08</month>
+			          <year>2010</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>28</day>
+			          <month>08</month>
+			          <year>2013</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2013, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2013</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_68326.html">http://www.jiraeg.ir/article_68326.html</self-uri> 		
+			      <abstract>
+			        <p>در این تحقیق به منظور ارزیابی خواص مهندسی سنگدانه‌ها در بتن، سنگ‌هایی از معادن مختلف انتخاب و سپس برای ساخت بتن مورد استفاده قرار گرفته است. در ابتدا خصوصیات فیزیکی و مکانیکی سنگدانه‌های انتخاب شده در آزمایشگاه تعیین و در مراحل بعد مصالح موجود به سنگدانه‌هایی در اندازه شن و ماسه خرد شده و برخی خصوصیات سنگدانه‌ها مثل شکل، تخلخل، ارزش ضربه، ارزش فشاری و دانه‌بندی آنها تعیین شده است. سپس با استفاده از طرح اختلاط ثابتی از سنگدانه‌های موجود بتن تهیه و خصوصیات مکانیکی بتن تهیه شده از قبیل مقاومت فشاری، مقاومت کششی و مدول الاستیسیته بعد از گذشت 7، 28 و 90 روز تعیین شده است. در ادامه نتایج بدست آمده مورد تحلیل و تجزیه قرار گرفته و درصد تاثیر هر یک از خواص سنگدانه‌ها بر مقاومت بتن مورد بررسی قرار گرفته است. این درصد تاثیر راهنمای مفیدی برای شناسایی سنگدانه‌های مطلوب و همچنین آزمایش‌های مورد نیاز و ضرورری برای اکتشاف منابع سنگدانه‌ای می‌باشد.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>سنگدانه‌</kwd>
+						<kwd>طرح اختلاط بتن</kwd>
+						<kwd>خواص فیزیکی</kwd>
+						<kwd>خواص مکانیکی</kwd>
+						<kwd>سنگ‌شناسی</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>رمضانیان‌پور، ع.ا.، طاحونی، ش.، پیدایش، م.، 1380. دستنامه اجرای بتن، موسسه انتشارات و چاپ دانشگاه تهران، چاپ اول، تهران.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>سامع، س.ع.، کیفیت و طرح اختلاط بتن، 1377. انتشارات جهاد دانشگاهی واحد صنعتی اصفهان، چاپ اول، اصفهان.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>شریفی، ج.، احمدی، م.ج.، نیکودل، م.ر.، خامه چیان، م.، 1390. ارزیابی خواص نامطلوب ماسه‌سنگ‌های قرمز فوقانی و روش‌های بهسازی آن جهت استفاده در بتن، مجموعه مقالات هفتمین کنفرانس زمین شناسی مهندسی و محیط زیست ایران، دانشگاه صنعتی شاهرود، شاهرود، 15 تا 17 شهریور.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>شریفی، ج.، 1387. بررسی اثر جنس سنگدانه­های مختلف بر خواص مقاومتی بتن، پایان‌نامه کارشناسی ارشد، زمین‌شناسی مهندسی، دانشگاه تربیت مدرس، تهران.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>شریفی، ج.، نیکودل، م.ر.، 1390. تاثیرخواص مهندسی سنگدانه‌ها درکیفیت بتن، مجموعه مقالات هفتمین کنفرانس زمین شناسی مهندسی و محیط زیست ایران، دانشگاه صنعتی شاهرود، شاهرود، 15 تا 17 شهریور.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>شریفی، ج.، نیکودل، م.ر.، ایزدی، ه.، 1390. مدل سازی اعداد چکش اشمیت با استفاده از شبکه‌های عصبی مصنوعی برای پیش‌بینی دقیق‌تر مقاومت بتن، مجموعه مقالات ششمین کنگره ملی مهندسی عمران، دانشگاه سمنان، سمنان، 6تا 7 اردیبهشت.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>شریفی، ج.، نیکودل، م.ر.، 1389. بررسی تاثیر کانی شناسی سنگدانه‌ها بر کیفیت بتن، نشریه زمین شناسی مهندسی، دانشگاه تربیت معلم، تهران، جلد چهارم، شماره دو، ص. 971-986.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>شریفی، ج.، نیکودل، م.ر.، یزدانی، م.، 1388. تاثیر جنس سنگدانه‌ها بر سرعت انتشار امواج فشاری در بتن، مجموعه مقالات هشتمین کنگره بین المللی مهندسی عمران، 21تا 23 اردیبهشت، دانشگاه شیراز، شیراز.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>شریفی، ج.، نیکودل، م.ر.، یزدانی، م.، 1378. بررسی ویژگی‌های نامطلوب مصالح سنگدانه‌ای چابهار بر خواص بتن، مجموعه مقالات چهارمین کنگره ملی مهندسی عمران، دانشگاه تهران، جلد دوم، ص. 523-531.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>مستوفی نژاد، د.، 1385. تکنولوژی و طرح اختلاط بتن، انتشارات ارکان دانش، چاپ یازدهم، اصفهان.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>نویل، ا.م.، بروکس، ج.ج.، 1378. خواص بتن، ترجمه هرمز فامیلی، انتشارات ابوریحان بیرونی، چاپ اول، تهران.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>ACI 221R, 1996. Guide for Use of Normal Weight and Heavyweight Aggregate in Concrete, American Concrete Institute, Michigan, USA.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>ACI Committee 308 American Concrete Institute Recommended Practice for Selecting Proportions for Concrete, Farmington Hills, USA.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>ASTM C 294, 1990. Standard Descriptive Nomenclature for Constituents of Concrete Aggregates, Annual Book of ASTM Standards, vol. 4.08, ASTM, Philadelphia, PA.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>ASTM C 33, 1990. Standard Specification for Concrete Aggregates, Annual Book of ASTM Standards, vol. 4.08, ASTM, Philadelphia, PA.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>ASTM C143 / C143M – 12, 1990. Standard Test Method for Slump of Hydraulic-Cement Concrete, Annual Book of ASTM Standards, vol. 4.08, ASTM, Philadelphia, PA.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>ASTM C496 / C496M - 11, 1990. Standard Test Method for Splitting Tensile Strength of Cylindrical Concrete Specimens, Annual Book of ASTM Standards, vol. 4.08, ASTM, Philadelphia, PA.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Beshr, H., Almusallam, A.A., Maslehuddin, M., 2003. Effect of coarse aggregate quality on the mechanical properties of high strength concrete, Construction and Building Materials 17, 97–103.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>British Standard Institution, BS 1881-116:1983 (BS EN 12390-3:2002), Testing hardened concrete, Compressive strength of test specimens, London.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>British Standard Institution, BS 812-105.1:1989 (BS EN 933-4:2008), Methods for determination of particle shape. Flakiness index, London.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>BS 1881-121:1983, Testing concrete, Method for determination of static modulus of elasticity in compression, London.</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Donza, H., Cabrera, O., Irassar, E.F., 2002. High-strength concrete with different fine aggregate. Cement and Concrete Research, 32: 1755–1761.</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>El-Dash, K.M., Ramadan, M.O., 2006. Effect of aggregate on the performance of confined concrete. Cement and Concrete Research, 36: 599 – 605.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Gambhir, M. L., Concrete technology,1986. third edition, New Delhi, Tata McGraw-Hill.</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>ISRM, in: E.T. Brown (Ed.), 1981. Rock Characterization Testing and Monitoring-ISRM Suggested Methods, Pergamon, Oxford, 211 pp.</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Kuo-Yu Liao, Ping-Kun Chang, Yaw-Nan Peng, Chih-Chang Yang, 2004. A study on characteristics of interfacial transition zone in concrete. Cement and Concrete Research, 34: 977–989.</element-citation>
+		</ref>
+		<ref id="R27">
+			<label>27</label>
+			<element-citation>Mehmet, G., Turan, O., Erhan, Gu., 2006. Effects of cold-bonded fly ash aggregate properties on the shrinkage cracking of lightweight concretes. Cement and Concrete Composites, 28: 598–605.</element-citation>
+		</ref>
+		<ref id="R28">
+			<label>28</label>
+			<element-citation>Rittenhouse G, 1943. A visual method of estimating 2-dimensional sphericity. Journal of  Sedimentary Petrolology. 13(2):79–81.</element-citation>
+		</ref>
+		<ref id="R29">
+			<label>29</label>
+			<element-citation>Stroeven P et al., 2009. Shape assessment of particles in concrete technology: 2D image analysis and 3D stereological extrapolation. Cement and Concrete Composites, 31: 84-91.</element-citation>
+		</ref>
+		<ref id="R30">
+			<label>30</label>
+			<element-citation>Taleb, A.,  Eyad, M., Erol,T., Pan, T., 2007. Evaluation of image analysis techniques for quantifying aggregate shape characteristics. Construction and Building Materials, 21: 978–990.</element-citation>
+		</ref>
+		<ref id="R31">
+			<label>31</label>
+			<element-citation>Wadell, H., 1932. Volume, shape and roundness of rock particles. Journal of geology. 40:443–51.</element-citation>
+		</ref>
+		<ref id="R32">
+			<label>32</label>
+			<element-citation>Wu, K.R., Chen, B., Yao, W., Zhang, D., 2001. Effect of coarse aggregate type on mechanical properties of high-performance concrete. Cement and Concrete Research, 31: 1421–1425. _||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_68327_cd0224e0b3aea2ef961bba21b2bbaac1.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>زمین شناسی مهندسی ابنیه فنی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>ارزیابی تأثیر تأخیرات بر عملکرد TBM با استفاده از ماتریس اندرکنش (مطالعه موردی قطعه دوم تونل انتقال آب کرج - تهران)</article-title>
+			        
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>تاجیک</surname>
+			            <given-names>مجید</given-names>
+			          </name>
+					  <aff>1. کارشناس ارشد زمین شناسی مهندسی موسسه مهندسین مشاور ساحل</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>فروغ</surname>
+			            <given-names>امید</given-names>
+			          </name>
+					  <aff>2. دکتری مهندسی معدن، سرپرست بخش تونل مهندسین مشاور هندسه پارس</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>23</day>
+			        <month>08</month>
+			        <year>2013</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>83</fpage>
+			      <lpage>96</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>17</day>
+			          <month>07</month>
+			          <year>2012</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>21</day>
+			          <month>03</month>
+			          <year>2014</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2013, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2013</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_68327.html">http://www.jiraeg.ir/article_68327.html</self-uri> 		
+			      <abstract>
+			        <p>در حفاری مکانیزه تونل پیش‌بینی عملکرد TBM به منظور تخمین زمان و هزینه پروژه از اهمیت زیادی برخوردار است. مدل‌های CSM، NTNU و QTBM به عنوان مدل‌های اصلی پیش‌بینی عملکرد TBM شناخته شده‌اند که در آنها روابطی برای تخمین ضریب بهره‌وری نیز وجود دارد. اگرچه در هر کدام از این مدل‌ها برای تخمین ضریب بهره‌وری از پارامترهای خاصی استفاده شده است ولیکن به طور کلی تأثیر توأم دو یا چند عامل در نظر گرفته نشده است. از طرف دیگر بسیاری از پارامترها وابستگی شدیدی با یکدیگر داشته و ممکن است به طور همزمان بر عملکرد TBM تأثیر بگذارند. بنابراین می‌توان با تشکیل یک ماتریس اندرکنش اثر متقابل پارامترها بر یکدیگر و در نتیجه بر عملکرد TBM را ارزیابی کرد. در این تحقیق ماتریسی با 21 پارامتر مؤثر بر ضریب بهره‌وری تشکیل داده شده است. اندرکنش این پارامترها نشان می‌دهد که نبود خدمات فنی بیشترین تأثیر را در عملکرد TBM دارد. با ثبت مقادیر واقعی فعالیت‌ها و تأخیرات بر حسب ساعت بر متر می‌توان شاخص تأخیرات (DTI) را به دست آورد که این شاخص نسبت عکس با عملکرد TBM داشته و با ضریب همبستگی 872/0 رابطه مستقیم با زمان خالص حفاری تونل دارد.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>عملکرد TBM</kwd>
+						<kwd>ماتریس اندرکنش</kwd>
+						<kwd>ضریب بهره وری</kwd>
+						<kwd>شاخص تأخیرات</kwd>
+						<kwd>کرج</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>تاجیک، م.، اروجی، م.، نوین، آ.، 1389. بررسی عملکرد ماشین حفاری مکانیزه (TBM) در حفاری قطعه اول تونل انتقال آب کرج – تهران. مجله انجمن زمین‌شناسی‌مهندسی ایران، جلد سوم، شماره 1 و 2.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>فروغ، ا.، ترابی، ر.، رمضان زاده، ا.، S. Yagiz، 1390. تأثیر شرایط توده‌‌سنگ بر توقفات TBM در تونل انتقال آب کرج. نخستین همایش آسیایی و نهمین همایش ملی تونل.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>موسسه مهندسین مشاور ساحل، 1389. گزارش زمین‌شناسی مسیر تونل.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>موسسه مهندسین مشاور ساحل، 1388. مطالعات هیدوژئولوژی مسیر تونل.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>یاوری، ف.، منصوری، ح.، ابراهیمی فرسنگی.، م، 1390. تعیین نرخ پیشروی TBM به روش سیستم های مهندسی سنگ. نخستین همایش آسیایی و نهمین همایش ملی تونل.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>یعقوبی، ه.، 1389. پیش بینی عملکرد TBM با روش سیستم های مهندسی سنگ. پایان نامه کارشناسی ارشد، دانشگاه باهنر کرمان.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Abd Al-Jalil, Y. Q., 1998. Analysis of Performance of Tunnel Boring Machine-Based System. PhD Thesis, the University of Texas.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Barton, N., 1999. TBM Performance Estimation in Rock Using QTBM. Tunnel &amp; Tunneling International, No. 9.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Barton, N., 2000. TBM Tunneling in Jointed and Faulted Rock. A. A. Balkema Publisher: Rotterdam, Brookfield, Holland.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Benardos, A.G., Kaliampakos, D.C., 2004. Modelling TBM Performance with Artificial Neural Networks. Tunnelling and Underground Space Technology: Vol. 19: 597–605.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Bieniawski Z. T., Celada B., Galera J. M., 2007. TBM Excavability: Prediction and Machine - Rock Interaction. RETC, Toronto, 1118p.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>Bieniawski Z. T., 2007b. Predicting TBM Excavability. Tunnel &amp; Tunnelling International.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Bruland, A, 1998. Drillability Test Method: Hard Rock Tunnel Boring Machine. PhD Thesis, Trondheim, Norwegian University of Science and Technology, NTNU, Vol. 8 of 10.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Bruland, A, 1998b. Advance Rate and Cutter Wear: Hard Rock Tunnel Boring Machine. PhD Thesis, Trondheim, Norwegian University of Science and Technology, NTNU, Vol. 3 of 10.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Ceryan N., Ceryan S., 2008. An Application of The Interaction Matrices Method for Slope, Failure Susceptibility Zoning: Dogankent settlement area (Giresun, NE Turkey). Bulletin of Engineering Geology and the Environment, 67(3): 375.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Farmer, IW, Glossop, NH, 1980. Mechanics of Disc Cutter Penetration. Tunnels and Tunneling, 12(6): 22-25.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Frough O., Torabi S. R., Yagiz S., Tajik M., 2012. Effect of Rockmass Conditions on TBM Utilization Factor in Karaj – Tehran Water conveyance tunnel, World Tunneling Congress, Thailand.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation> Gansser A., Huber H., 1962. Geological Observation in the Central Elburz: Iran. Schweizerische Mineralogische Und Petrographische Mitteilungen, 42p.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Gong, Q. M., Zhao, J., Jiao, Y. Y., 2004. Numerical Modeling of the Effects of Joint Orientation on Rock Fragmentation by TBM Cutters. Tunnelling and Underground Space Technology, 20 (2): 183-191.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Gong, Q. M., Jiao, Y. Y., Zhao, J, 2005. Numerical Modelling of The Effects of Joint Spacing on Rock fragmentation by TBM cutters. Tunnelling and Underground Space Technology, 21 (1): 46-55.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Graham, PC, 1976. Rock Exploration for Machine Manufactures. Proceedings Symposium on Exploration for Rock Engineering, Johannesburg, South Africa, pp173-180.</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Hassanpour, J., Rostami, J., Khamechian, M., Tavakoli, H.R., 2010. TBM Performance Analysis in Pyroclastic Rocks: Case History of Karaj Water Conveyance Tunnel. Journal of Rock mechanics and Rock Engineering, 4: 427-445.</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Hudson, J. A., 1992. Rock Engineering Systems: Theory and Practice. Ellis Horwood, Chichester.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Hudson, J.A., Harrison, J.P., 1997. Engineering Rock Mechanics: an Introduction to the Principles. pergamon, PP. 223-235.</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation> Innaurato, N. et al., 1991. Forecasting and Effective TBM Performances in a Rapid Excavation of a Tunnel in Italy. Proceeding of 7th International Congress on Rock Mechanics, Aachen, Germany, pp. 1009-1014.</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Khalukakei, R., zare naghadehi, M., 2009. The Analysis and Classification of Rock Slopes Instability Potential in Khosh – Yeylagh Mountainous Road Using Systems Approach. Journal of Iranian Association of Engineering Geology, 2(1, 2).</element-citation>
+		</ref>
+		<ref id="R27">
+			<label>27</label>
+			<element-citation>Kim, T., 2004. Development of a Fuzzy Logic Based Utilization Predictor Model for Hard Rock Tunnel Boring Machines. PhD Thesis, Colorado School of Mines.</element-citation>
+		</ref>
+		<ref id="R28">
+			<label>28</label>
+			<element-citation>Laughton, C., 1998. Evaluation and Prediction of Tunnel Boring Machine Performance in Variable Rock Masses. PhD Thesis, The University of Texas.</element-citation>
+		</ref>
+		<ref id="R29">
+			<label>29</label>
+			<element-citation>Nelson, P., O’Rouke, T.D., Kulhawy, F.H., 1983. Factors Affecting TBM Penetration Rates in Sedimentary Rocks. 24th U.S. Symposium on Rock Mechanics, USA.</element-citation>
+		</ref>
+		<ref id="R30">
+			<label>30</label>
+			<element-citation>Palmstrom, A., 1994. RMi Parameters Applied in Prediction of Tunnel Boring Penetration: A Rock Mass Characterization for Rock Engineering Purposes PhD thesis, Norway.</element-citation>
+		</ref>
+		<ref id="R31">
+			<label>31</label>
+			<element-citation>Ramezanzadeh, A., 2002. Performance Prediction Models for Hard Rock Tunnel Boring Machines. The 6th Iranian Tunneling Conference.</element-citation>
+		</ref>
+		<ref id="R32">
+			<label>32</label>
+			<element-citation>Rostami, J., Ozdemir, L., 1993. A New Model for Performance Prediction of Hard Rock TBMs. RETC conference proceedings, Boston.</element-citation>
+		</ref>
+		<ref id="R33">
+			<label>33</label>
+			<element-citation>Rostami, J., Ozdemir, L., Nilson, B., 1997. Comparison between CSM and NTH Hard Rock TBM Performance Prediction Models. Colorado Scholl of Mines, Golden, Colorado, USA.</element-citation>
+		</ref>
+		<ref id="R34">
+			<label>34</label>
+			<element-citation>Roxborough FF, Phillips HR, 1975. Rock Excavation by Disc Cutter. International journal of Rock Mechanic and Mining Sciences, 12: 361-366.</element-citation>
+		</ref>
+		<ref id="R35">
+			<label>35</label>
+			<element-citation>Rozos, D. et al., 2008. An Implementation of Rock Engineering System for Ranking the Instability Potential of Natural Slopes in Greek Territory: An Application in Karditsa County. Landslides journal, Vol. 5: 261-270.</element-citation>
+		</ref>
+		<ref id="R36">
+			<label>36</label>
+			<element-citation>Sadeghi, M., rasouli, V., 2005. Evaluation of Stability of Underground Opening with Rock Engineering Systems (RES). the 7th Proceeding of Iranian Mining Engineering Conference.</element-citation>
+		</ref>
+		<ref id="R37">
+			<label>37</label>
+			<element-citation>SAHEL Consultant Engineers Institute, 2009. Engineering Geology Report of Karaj-Tehran Water Conveyance Tunnel (Lot 2). SCE Archive.</element-citation>
+		</ref>
+		<ref id="R38">
+			<label>38</label>
+			<element-citation>SAHEL Consultant Engineers Institute, 2009 to 2011. Engineering Geology As built Maps and Site Reports of Conveyance Tunnel (Lot 2). SCE Archive.</element-citation>
+		</ref>
+		<ref id="R39">
+			<label>39</label>
+			<element-citation>Sapigni, M., Berti, M., Bethaz, E., Busillo, A., Cardone, G., 2002. TBM Performance Estimation Using Rock Mass Classification. International Journal of Rock Mechanic and Mining Sciences, Vol. 39.</element-citation>
+		</ref>
+		<ref id="R40">
+			<label>40</label>
+			<element-citation>Sanio, H.P. 1985. Prediction of the Performance of Disc Cutters in Anisotropic Rock. International Journal of Rock Mechanics and Mining Sciences and Geomechanics, 22(3): 153-161.</element-citation>
+		</ref>
+		<ref id="R41">
+			<label>41</label>
+			<element-citation>Sato, K., Gong F., Itakura, K., 1991. Prediction of Disc Cutter Performance Using a Circular Rock Cutting Ring. 1st International Mine Mechanization and Automation Symposium, Colorado School of Mines, USA.</element-citation>
+		</ref>
+		<ref id="R42">
+			<label>42</label>
+			<element-citation>Sharp, W. R., Kennedy, E. R., Little, W. E., 1983. Estimating Tunneling Costs Using an Interactive Computer Model. RETC, Chicago.</element-citation>
+		</ref>
+		<ref id="R43">
+			<label>43</label>
+			<element-citation>Snowdon, A., R., Ryley D., M., Temporal, J., 1982. Study of Disc Cutting in Selected British Rocks. International Journal of Rock Mechanics and Mining Science &amp; Geomechanics, 19(3): 107-121.</element-citation>
+		</ref>
+		<ref id="R44">
+			<label>44</label>
+			<element-citation>Tarkoy, P.J., 1973. Predicting TBM Penetration Rates in Selected Rock Types. Ninth Canadian Symposium on Rock Mechanics, Montreal, Canada.</element-citation>
+		</ref>
+		<ref id="R45">
+			<label>45</label>
+			<element-citation>Tarkoy, P.J., 1975. Rock Hardness Index Properties and Geotechnical Parameters for Predicting Tunnel Boring Machine Performance. PhD thesis, University of Illinois at Urbana-Champaign, Illinois, USA, 326p</element-citation>
+		</ref>
+		<ref id="R46">
+			<label>46</label>
+			<element-citation>Yagiz, S., 2007. Utilizing Rock Mass Properties for Predicting TBM Performance in Hard Rock Condition. Tunnelling and Underground Space Technology, 23: 326-339</element-citation>
+		</ref>
+		<ref id="R47">
+			<label>47</label>
+			<element-citation> Zare naghadehi, M., 2012. The Assessment of Rock Slope Instability along the Khosh-Yeylagh Main Road (Iran) Using a Systems Approach. Environmental Earth Sciences, 67 (3): 665.</element-citation>
+		</ref>
+		<ref id="R48">
+			<label>48</label>
+			<element-citation> Zhang L. Q., Yang, Z.F., Liao Q.L., Chen J., 2004. An Application of the Rock Engineering System (RES) Methodology to Rockfall Hazard Assessment on the Chengdu-Lhasa Highway: China. International Journal of Rock Mechanics &amp; Mining Sciences, 41 (3): 526-527._||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JIAEG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Iranian Association of Engineering Geology</journal-id>
+			    	<journal-title-group>
+				      <journal-title>نشریه انجمن زمین شناسی مهندسی ایران</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2228-5245</issn>
+			      <publisher>
+			        <publisher-name>Iranian Association of Engineering Geology</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">393</article-id>
+			      <article-id pub-id-type="doi"></article-id>		
+			      <ext-link xlink:href="http://www.jiraeg.ir/article_68328_316d599c8f8a17f6d67a17d77846c2f7.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>زمین شناسی مهندسی ابنیه فنی</subject>
+					          		<subject>مخاطرات زمین شناسی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>تحلیل پایداری سطوح شیبدار مشرف به نیروگاه سد خرسان 3 تحت بارگذاری زلزله به کمک نرم‌افزار UDEC</article-title>
+			        <subtitle>تحلیل پایداری سطوح شیبدار مشرف به نیروگاه سد خرسان 3 تحت بارگذاری زلزله  به کمک نرم‌افزار UDEC</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>حسینی</surname>
+			            <given-names>مهدی</given-names>
+			          </name>
+					  <aff>استادیار دانشگاه بین­المللی امام خمینی(ره)، دانشکده فنی و مهندسی، گروه مهندسی معدن،</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>نقدی</surname>
+			            <given-names>رخساره</given-names>
+			          </name>
+					  <aff>2. دانشجوی کارشناسی ارشد مهندسی معدن، دانشگاه بین­المللی امام خمینی(ره)،</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>23</day>
+			        <month>08</month>
+			        <year>2013</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>شماره 1 و 2</issue>
+			      <fpage>97</fpage>
+			      <lpage>110</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>11</day>
+			          <month>05</month>
+			          <year>2013</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>18</day>
+			          <month>12</month>
+			          <year>2013</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2013, Iranian Association of Engineering Geology. </copyright-statement>	
+			        <copyright-year>2013</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://www.jiraeg.ir/article_68328.html">http://www.jiraeg.ir/article_68328.html</self-uri> 		
+			      <abstract>
+			        <p>تحلیل پایداری شیروانی‌های سنگی به کمک روش‌هایی مانند تعادل حدی، عددی، تجربی و تصاویر استریوگرافیکی صورت می‌پذیرد. روش تحلیل با توجه به شرایط محلی و نوع پتانسیل گسیختگی و با در نظر گرفتن محتاطانه ضعف‌ها، قوت‌ها و محدودیت‌های هر روش انتخاب می‌شود. در این تحقیق پایداری سطوح شیبدار مشرف به نیروگاه سد خرسان 3 در اثر بارگذاری زلزله بررسی می‌گردد. در هنگام وقوع زمین لرزه‌های بزرگ خسارت فراوانی به سازه‌های سطحی وارد می‌شود و با توجه به اینکه بار دینامیکی زلزله یکی از عواملی است که می‌تواند شیب‌های سنگ را ناپایدار سازد برای ارزیابی پایداری سطوح شیبدار در مقابل زلزله می‌توان از تحلیل دینامیکی استفاده کرد. در این تحقیق ابتدا با بررسی گزارش‌ها و اطلاعات موجود و برداشت‌های زمین‌شناسی در منطقه، اطلاعات لازم جهت تحلیل پایداری شیروانی، استخراج می‌گردد و سپس تحلیل پایداری شیروانی در سه مرحله صورت می گیرد: مرحله اول، تحلیل پایداری استاتیکی به کمک روش عددی، مرحله دوم، تحلیل پایداری دینامیکی تحت بارگذاری زلزله به کمک روش عددی و در مرحله سوم، تحلیل پایداری شبه استاتیکی انجام می‌شود. برای بررسی پایداری سطوح شیبدار سنگی به کمک روش عددی از نرم‌افزار UDEC استفاده می‌گردد. این نرم‌افزار براساس روش المان مجزا کار می‌کند و در محیط‌هایی که ناپیوستگی‌ها نقش اساسی را در رفتار سنگ ایفا می‌کنند کاربرد دارد. نتایج تحلیل نشان می‌دهد شیروانی مشرف به نیروگاه سد خرسان 3 تحت بارگذاری زلزله ناپایدار است و بنابراین نصب سیستم نگهداری ضروری است. تحلیل پایداری شبه استاتیکی و محاسبه فاکتور ایمنی شیروانی مشرف به ساختگاه نیروگاه سد خرسان 3 به ازای ضریب زلزله 2/0 و 3/0 نیز انجام شد. نتایج حاصل از این تحلیل نشان می‌دهد که شیروانی مذکور ناپایدار است. نتیجه مشابه تحلیل پایداری به کمک نرم‌افزار UDEC است.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>تحلیل پایداری</kwd>
+						<kwd>سد</kwd>
+						<kwd>بارگذاری زلزله</kwd>
+						<kwd>سطوح شیبدار سنگی</kwd>
+						<kwd>محیط ناپیوسته</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>رحیمی، ب.، شهریار، ک.، شریف‌زاده، م.، 1388. برآورد تجربی پارامترهای ژئومکانیکی و تنش‌های برجای توده‌سنگ مسیر تونل شماره یک راه‌آهن قزوین- رشت. مجموعه مقالات هشتمین کنفرانس تونل، دانشگاه تربیت مدرس صفحات 39-30.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>شرکت توسعه منابع آب و نیروی ایران، 1387. گزارش لرزه‌خیزی و برآورد خطر زمین‌لرزه، مطالعات مرحله دوم طرح سد مخزنی و نیروگاه خرسان 3.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>شرکت توسعه منابع آب و نیروی ایران، 1388. گزارش مکانیک سنگ پارامترهای ژئومکانیکی ماده و توده‌سنگ، مطالعات مرحله دوم طرح سد مخزنی و نیروگاه برق‌آبی خرسان3.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>شرکت توسعه منابع آب و نیروی ایران، 1389. گزارش زمین‌شناسی مهندسی و ژئوتکنیک، مطالعات مرحله دوم طرح سد مخزنی و نیروگاه برق‌آبی خرسان3.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>شریفی، م.، و صالحی، د.، 1390. تحلیل پایداری دینامیکی تکیه‌گاه راست سد گتوند علیا در برابر زلزله. اولین کنفرانس بین‌المللی و سومین کنفرانس ملی سد و نیروگاه‌های برق‌آبی، ایران.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Azhari, A., Yarahmadi, A., and Faramarzi, L., 2012. Dynamic Analysis of Tectonic Blocks 1 and 2 of Choghart Open-Pit Mines under earthquake. in 9th International Congress on CivilEngineering, Isfahan, Iran.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Eerhardt, E., 2003. Rock Slope Stability Analysis Utilization of Advanced Numerical Techniques. Earth  And Ocean sciences at UBC– Vancouver, Canada.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Itasca Consulting Group, 1993. Universal Distinct Element Code (Version 4). User Manual.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Li, A.J., Lyamin, A.V. and Merifield, R.S.,2008. Seismic rock slope stability charts based on limit analysis methods. Computers and Geotechnics, vol. 36: 135-148.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>SEISMOSOFT, 2011. SeismoSignal v4.3. Available from URL: http://www.seismosoft.com._||_</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-24T06:53:21Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://www.nowavari.ir/?_action=export&amp;rf=summon&amp;issue=2453</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-12-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>3</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>پیکربندی سازوکارهای کنترلی در شرکتهای نوآور</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید محمود</given_name>
+												<surname>حسینی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>رضائیان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>منیژه</given_name>
+												<surname>قر هچه</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>عیسی</given_name>
+												<surname>پریزادی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;نظریه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های سنتی مدیریت، &lt;/strong&gt;&lt;strong&gt;‌‌&lt;/strong&gt;&lt;strong&gt;کنترل و نوآوری را نقطة مقابل یکدیگر می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;دانستند و استدلال می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;کردند که نظام&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های کنترلی مانعی بر سر راه خلاقیت و نوآوری در درون سازمان هستند و اصولاً نوآوری با درجة رسمیت سازمانی رابطه  عکس دارد. اما رویکردهای جدید مطرح شده در ادبیات &lt;/strong&gt;&lt;strong&gt;‌‌&lt;/strong&gt;&lt;strong&gt;کنترل و پژوهش&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های تجربی جدید نشان می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;دهند که &lt;/strong&gt;&lt;strong&gt;‌‌&lt;/strong&gt;&lt;strong&gt;کنترل بر خلاف نگاه سنتی تنها پدیده&lt;/strong&gt;&lt;strong&gt;‌‌‌&lt;/strong&gt;&lt;strong&gt;ای غیرمنعطف، ایستا و متمرکز بر استانداردسازی و کمینه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;سازی تنوع و تازگی نیست و &lt;/strong&gt;&lt;strong&gt;‌‌‌&lt;/strong&gt;&lt;strong&gt;نظام&lt;/strong&gt;&lt;strong&gt;‌‌&lt;/strong&gt;&lt;strong&gt;های &lt;/strong&gt;&lt;strong&gt;‌‌&lt;/strong&gt;&lt;strong&gt;کنترل رسمی می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;توانند نقش مثبت و معناداری در فرآیند مدیریت نوآوری ایفا نمایند. در این مقاله با استفاده از رویکرد پیکربندی و از طریق توسعة چهار پیکربندی، چارچوب جدیدی برای سازگار کردن &lt;/strong&gt;&lt;strong&gt;‌‌&lt;/strong&gt;&lt;strong&gt;کنترل و نوآوری در سازمان&lt;/strong&gt;&lt;strong&gt;‌‌‌‌&lt;/strong&gt;&lt;strong&gt;ها مفهومی سازمانی ارائه می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شود. دو پیکربندی از میان پیکربندی&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های استخراج شده، زمینه و بستر لازم برای بروز نوآوری را فراهم می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;سازند. به عبارت دیگر، سازمان&lt;/strong&gt;&lt;strong&gt;‌‌‌‌‌&lt;/strong&gt;&lt;strong&gt;هایی که به&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;دنبال نوآوری هستند و اقتضائات سازمانی آنها، نوآوری را الزامی می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;سازد، باید از &lt;/strong&gt;&lt;strong&gt;‌‌&lt;/strong&gt;&lt;strong&gt;سازوکار&lt;/strong&gt;&lt;strong&gt;‌‌&lt;/strong&gt;&lt;strong&gt;های کنترلی مطرح&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شده در این دو پیکربندی استفاده نمایند تا امکان بروز نوآوری فراهم گردد. &lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>بستة کنترل</keyword>
+											<keyword>کنترل مدیریتی</keyword>
+											<keyword>کنترل راهبردی</keyword>
+											<keyword>نوآوری</keyword>
+											<keyword>رویکرد پیکربندی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>12</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>32</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_14722_ec30d914c2613fc2eb7dcaa48f087954.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-12-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>3</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی رابطه متقابل نوآوری درک شده سازمانی با سایر مولفه های جو سازمانی در کارکنان ستاد شرکت برق منطقه ای خراسان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سعید</given_name>
+												<surname>مرتضوی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علیرضا</given_name>
+												<surname>خوراکیان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>الهه</given_name>
+												<surname>ناصری نژاد</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>علی</given_name>
+												<surname>معماری</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;مفهوم نوآوری درک&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شده سازمانی به درک کارکنان از حمایت سازمان از نوآوری می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;پردازد که باعث افزایش رضایت و تعهد کارکنان می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شود. پژوهشگران در پژوهش&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های خود اثر عوامل سازمانی بر نوآوری درک&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شده سازمانی را بررسی کرده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;اند. پژوهش حاضر با هدف بررسی میزان اثر جو سازمانی و ابعاد آن بر نوآوری درک&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شده سازمانی با توجه به نقش جنسیت به&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;عنوان یک متغیر تعدیلگر انجام شده است. جامعه آماری پژوهش را 150 نفر از کارشناسان ستادی شرکت برق منطقه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ای خراسان تشکیل می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;دهند. برای جمع&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;آوری داده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها از ابزار پرسشنامه استفاده شده و روایی آن به صورت محتوایی و تحلیل عاملی مورد تایید قرار گرفته است. برای پردازش داده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها از نرم&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;افزارهای آماری &lt;/strong&gt;&lt;strong&gt;SPSS&lt;/strong&gt;&lt;strong&gt; و &lt;/strong&gt;&lt;strong&gt;AMOS&lt;/strong&gt;&lt;strong&gt; استفاده شد. یافته&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های حاصل از آزمون مدل نشان داد که فقط سه بعد جو سازمان شامل خودمختاری، انسجام و اعتماد اثر مثبتی بر نوآوری درک&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شده سازمانی دارند و میان جو سازمانی و نوآوری درک&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شده رابطه بسیار قوی وجود دارد. همچنین فرض نقش تعدیلگری جنسیت کارکنان در رابطه میان جو سازمانی و نوآوری درک&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شده سازمانی مورد تایید واقع نشد.&lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>جو سازمانی</keyword>
+											<keyword>خودمختاری</keyword>
+											<keyword>انسجام</keyword>
+											<keyword>نوآوری درک شده سازمانی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>12</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>33</first_page>
+										<last_page>52</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_14723_0878fbc84a1fd8c17ad4326b69ed8a34.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2024-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>3</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تاثیر شبکه دانش بر عملکرد نوآوری محصول با استفاده از مدل معادلات ساختاری (مطالعه موردی:شرکتهای تجارت الکترونیک استان اصفهان)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>شهره</given_name>
+												<surname>نصری نصرآبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>الهام</given_name>
+												<surname>فلاح</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سمانه</given_name>
+												<surname>شیرانی لپری</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;کسب دانش جدید، علاوه بر ایجاد مزیت رقابتی برای سازمان&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها موجب ارتقاء عملکرد سازمانی نیز می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شود. شبکه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های دانشی، یکی از منابع اصلی کسب دانش در هر سازمان محسوب می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شوند. پژوهش حاضر با هدف بررسی رابطه مدیریت شبکه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt; دانش و عملکرد نوآوری محصول انجام شد. برای این منظور، ابتدا یک چارچوب مفهومی از عملکرد نوآوری محصول با توجه به مولفه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های مدیریت دانش و راهبردهای توسعه محصول ارائه گردید و در ادامه، تاثیر تمرکز راهبردی بر توسعه محصولات جدید و عملکرد نوآوری محصول از نقطه نظر دانش فنی، دانش رقابتی و  دانش مشتری مورد بررسی تجربی قرار گرفت. جامعه آماری این پژوهش را کارشناسان فناوری اطلاعات شرکت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های تجارت الکترونیک استان اصفهان و خبرگان دانشگاهی در حوزه مدیریت دانش و نوآوری (جهت بررسی روایی محتوا) تشکیل می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;دهند. برای آزمون مدل مفهومی، روش معادلات ساختاری و نرم افزار &lt;/strong&gt;&lt;strong&gt;AMOS&lt;/strong&gt;&lt;strong&gt; و برای تایید شاخص&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها و روایی سازه، تحلیل عاملی اکتشافی مورد استفاده قرار گرفت. نتایج نشان داد که عملکرد نوآوری محصول از مدیریت شبکه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های دانشی ایجاد می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شود. همچنین مشخص گردید که برخی از  راهبردهای توسعه محصول بر عملکرد نوآوری محصول و شبکه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های دانشی تاثیر معناداری دارند. از بین راهبردهای توسعه محصول، راهبرد افزایشی هیچ&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گونه تاثیر معناداری بر عملکرد نوآوری محصول ندارد. همچنین شبکه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های دانشی بر عملکرد نوآوری محصول تاثیر مثبت و معناداری دارد.&lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>مدیریت دانش</keyword>
+											<keyword>شبکه دانش</keyword>
+											<keyword>مدیریت نوآوری</keyword>
+											<keyword>توسعه محصول جدید</keyword>
+											<keyword>مدل معادلات ساختاری</keyword>
+											<keyword>شرکتهای تجارت الکترونیکی استان اصفهان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2024</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>53</first_page>
+										<last_page>75</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_14724_78115de430cb6624b1bc833db38564f2.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-12-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>3</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شبیه سازی فرآیند اشاعه محصولات نوین با رویکرد پویایی های سیستم</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد هاشم</given_name>
+												<surname>موسوی حقیقی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهدی</given_name>
+												<surname>تاجیک</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;فرآیند اشاعة نوآوری، فرآیندی پیچیده و پویاست و تحت تأثیر متغیر&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های متعددی مانند کیفیت، رقابت، قیمت، زمان ورود به بازار، تبلیغات و رضایت جامعه قرار دارد. الگوهای سنتی تبیین&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شده به منظور تحلیل و بررسی اشاعة نوآوری همچون الگوی باس، پویایی&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های موجود در این فرآیند را نادیده می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گیرند و با فرضیه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های ساده اقدام به تحلیل فرآیند اشاعه می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;کنند. از این رو، پژوهش حاضر با هدف ایجاد یک مدل توسعه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;یافته و پویا از فرآیند اشاعة محصولات مبتنی بر نوآوری با استفاده از روش&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt; پویایی&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های سیستم انجام شد. &lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;الگوی پیشنهادی این پژوهش بر اساس این رویکرد طراحی و با نرم&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;افزار &lt;/strong&gt;&lt;strong&gt;Vensim DSS&lt;/strong&gt;&lt;strong&gt; شبیه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;سازی و اعتبار آن با استفاده از آزمون&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های آماری و سیستمی مورد سنجش قرار گرفته است. همچنین این الگو بر یک محصول نوین شرکت مواد غذایی «ب آ» پیاده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;سازی &lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گردیده و پس از اطمینان از باز تولید رفتار سیستم واقعی، سناریو&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;هایی جهت بهبود روند پذیرش اجرا شده است. نتایج بیانگر آن هستند که عامل «خرید توصیه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ای» نسبت به متغیر « خرید از طریق تبلیغات رسانه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ای» تأثیر بیشتری بر تسریع فرآیند اشاعة نوآوری دارد. از این&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;رو، عواملی همچون رضایت مشتریان اولیه که بر فرآیند خرید توصیه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ای تأثیر گذارند، نقش مهمی در نرخ اشاعة نوآوری خواهند داشت.&lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>گسترش نوآوری</keyword>
+											<keyword>الگوی باس</keyword>
+											<keyword>رضایت مشتری</keyword>
+											<keyword>پویاییهای سیستم</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>12</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>77</first_page>
+										<last_page>99</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_14725_5891c3c0fdd5ca41fda2f15f04290403.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-12-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>3</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارائه یک مدل مفهومی برای اثربخش نمودن واسط دانشی در فرآیند اشتراک دانش</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>احسان</given_name>
+												<surname>وزیری گودرزی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>فرزاد</given_name>
+												<surname>موحدی صبحانی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;مفهوم واسط دانشی، یک مفهوم سهل و ممتنع است. سهل است، زیرا واسط دانشی، وظیفة برقراری ارتباط میان شخص نیازمند دانش و شخص صاحب دانش را دارد. ممتنع است، زیرا انتقال دانش بدون نهادینه شدن دانش اثربخش نیست. هدف این پژوهش شناسایی ویژگی&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های واسط دانشی برای اثربخش نمودن فرآیند اشتراک دانش است. پژوهش حاضر از نظر روش&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شناسی، یک پژوهش کیفی با رویکرد داده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;بنیاد است. بر این اساس، وظایف واسط&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های دانشی و ویژگی&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های آنها در بستر یک سازمان دانش&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;بنیان داخل کشور مورد بررسی قرار گرفت و ارتباط ساختاری میان ویژگی&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های فوق و وظایف واسط&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های دانشی برای اثربخش نمودن فرآیند اشتراک دانش تبیین شد. داده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های پژوهش از طریق انجام مجموعه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ای از مصاحبه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های نیمه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ساخت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;یافته با مدیران و خبرگان سازمان مورد مطالعه، جمع&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;آوری گردید و با استفاده از شیوة کدگذاری باز، محوری و انتخابی تجزیه و تحلیل شدند. یافته&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های پژوهش، چهار ویژگی برون&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گرایی، جاذبة شخصیتی، برخورداری از جایگاه و اختیارات سازمانی و توانایی رهبری را برای واسط&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های دانشی آشکار ساخت. همچنین مدل مفهومی ارائه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شده در این پژوهش نشان داد که واسط&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های دانشی، علاوه بر ایجاد ظرفیت ارتباطی، ظرفیت تغییر در سازمان را ارتقاء می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;بخشند و از این طریق منجر به اثربخش نمودن فرآیند اشتراک دانش می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شوند.&lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>مدیریت دانش</keyword>
+											<keyword>اشتراک دانش</keyword>
+											<keyword>واسط دانشی</keyword>
+											<keyword>ویژگی های واسط دانشی</keyword>
+											<keyword>واسط دانشی اثربخش</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>12</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>101</first_page>
+										<last_page>120</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_14734_35a829be158fd12c23ca9777acfc2bd5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-12-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>3</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>طراحی محصول با استفاده از مدل ترکیبی کانو و گسترش عملکرد کیفیت با استفاده از تاپسیس (مطالعه موردی تلفن همراه)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید محمد</given_name>
+												<surname>طباطبایی نسب</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهسا</given_name>
+												<surname>ابراهیم پور</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;تاکنون روش&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های متعددی برای توسعة محصولات و خدمات، ابداع و آزمون شده است. امروزه با توجه به مزایا و معایب هر روش، رویکردهای تلفیقی بیشتر مورد توجه است. در این پژوهش نیز تلفیقی از دو روش گسترش عملکرد کیفیت و کانو مدنظر قرار گرفته است. خروجی روش تلفیقی، محصول جدیدی است که ضمن پوشش نیازهای اساسی و الزامات رقابتی، مشخصه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های نوآورانه را نیز شامل می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شود. در پژوهش حاضر، در گام اول نیازهای مشتریان از طریق مصاحبه با گروه کانون، شناسایی و با پیمایشی بر 282 نفر از کاربران به روش کانو گروه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;بندی گردید. سپس رابطة هر مشخصه و نیاز مرتبط با آن توسط خبرگان تعیین و در ماتریس نهایی گسترش عملکرد کیفیت لحاظ شد. همزمان، 18 مشخصه پس از رتبه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;بندی به کمک تاپسیس به ماتریس نهایی راه یافتند. بعد از تشکیل ماتریس گسترش عملکرد کیفیت با استفاده از تحلیل&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های گوناگون، اهداف تعیین شدند و گوشی تلفن همراه واجد مشخصه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های نوآور و رقابتی معرفی گردید. در نهایت، مشخصه&lt;/strong&gt;&lt;strong&gt;‌‌&lt;/strong&gt;&lt;strong&gt;هایی که رضایت مشتری و همچنین مزیت رقابتی را به دنبال دارند، در ماتریس گسترش عملکرد کیفیت باقی&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ماندند و در طراحی نهایی محصول لحاظ گردیدند. مسیر طراحی با این روش می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;تواند خطر عرضة محصول جدید را کاهش و قدرت رقابت پذیری بنگاه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها را افزایش دهد.&lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>گسترش عملکرد کیفیت</keyword>
+											<keyword>مدل کانو</keyword>
+											<keyword>توسعة محصول جدید</keyword>
+											<keyword>تاپسیس</keyword>
+											<keyword>تلفن همراه</keyword>
+											<keyword>رضایت مندی مشتری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>12</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>121</first_page>
+										<last_page>144</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_14735_24902358206bde3de7ae00d881d7bc29.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

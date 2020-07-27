@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1388</year>
+	<month>8</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2009</year>
+	<month>11</month>
+	<day>1</day>
+</pubdate>
+<volume>3</volume>
+<number>1</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>پیش‌بینی عدد لوژن به کمک شبکهٔ عصبی مصنوعی و مقایسهٔ آن با روش‌های آماری</title_fa>
+	<title>Estimation of engineering properties of rocks</title>
+	<subject_fa></subject_fa>
+	<subject></subject>
+	<content_type_fa></content_type_fa>
+	<content_type></content_type>
+	<abstract_fa>برآورد ویژگی‌های هیدروژئولوژیکی تودهٔ سنگ و پیش‌بینی میزان جریان آب از بحث‌های حیاتی و جدی در مهندسی سنگ به‌شمار می‌‌رود. از آن‌جا که در تودهٔ سنگ‌های درز و شکاف‌دار ناپیوستگی‌ها مسیرهای اصلی جریان آب را به‌وجود می‌‌آورند، مشخصات آن‌ها تأثیر چشم‌گیری بر آب‌گذری خواهد داشت. با وجود تحقیقات فراوان هنوز روش مناسبی که رابطه مشخصی بین همه پارامترها و میزان ‌آب‌گذری برقرار کند وجود ندارد. امروزه شبکه‌های عصبی ابزار قدرتمندی برای حل مسائل پیچیده از قبیل پیش‌بینی، تشخیص الگو و طبقه‌بندی انواع متغیرها هستند. در این تحقیق به کمک نوعی شبکهٔ عصبی مصنوعی، رفتار و مقدار ‌‌آب‌گذری تودهٔ سنگ‌های گرانودیوریتی ساختگاه سد شور-جیرفت از روی برخی وی‍ژگی ناپیوستگی‌ها از جمله شاخص کیفی سنگ، فراوانی درزه‌ها، بازشدگی، چگالی وزنی درزه، زون‌های خرد شده و عمق پیش‌بینی شده است. رابطهٔ این پارامتر‌ها با آب‌گذری با روش آماری رگرسیون چند متغیره نیز بررسی شده است. داده‌های به‌کار رفته در آموزش و آزمایش این شبکهٔ عصبی شامل نتایج مربوط به 304 آزمایش لوژن در تودهٔ سنگ‌های گرانودیوریتی ساخت‌گاه سد شور-جیرفت است. شبکهٔ عصبی پرسپترون چندلایه با قاعده پس انتشار خطا با الگوریتم آموزش Levenberg-Marquardt در این تحقیق استفاده شده است. این بررسی‌های نشان می‌دهد که شبکهٔ عصبی مصنوعی از توانایی فراوانی در حل چنین مسائلی برخوردار است.</abstract_fa>
+	<abstract>(Paper pages 513-522) Estimation of engineering properties of rocks and flow rate is an important issue in rock engineering. Properties of discontinuities have considerable effect on rock mass inflow, because they are the main pass of water flow in fracture rock masses. Despite the bulky research about water flow in rock mass, there is no clear evidence as to relationships between all of these parameters and water inflow in rock masses. Neural network systems have a great advantage in dealing with complicated problems such as forecasting, classification and pattern recognition. In this paper, artificial neural network techniques were used in order to forecast Lugeon amount and Hydraulic conductivity behavior of Granodioritic rock mass of Shoor-Jiroft dam site from some characterization of discontinuities such as Rock quality designation, Fracture frequency, Aperture, Weighted joint density, Fracture zone and depth. Relationships between these factors were analyzed with Simple Linear Regression, Multivariate Regression and Stepwise Regress-ion. A Multilayer Perceptron Neural Network (MLPNN) with back propaga-tion procedure was developed for training the network. A Dataset containing 304 values of water pressure test in Granodioritic rock mass of Shoor-Jiroft Dam project was used to train and test the network with the Levenberg-Marquardt training algorithm. The results indicated that neural network forecast hydraulic conductivity considerably better than regression methods do.</abstract>
+	<keyword_fa>شبکه‌ عصبی پرسپترون چندلایه , لوژن , ویژگی ناپیوستگی‌ها , رگرسیون چندمتغیره , ساختگاه سد شور-جیرفت , پیش‌بینی , </keyword_fa>
+	<keyword>Multilayer Perceptron Neural Network , Lugeon , discontinuity properties , Multivariate Regression , Shoor-Jiroft Dam Site , Forecasting , </keyword>
+	<start_page>513</start_page>
+	<end_page>522</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-3-26&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-21T02:02:34Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://miu.nahad.ir/?_action=export&amp;rf=summon&amp;issue=98</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارائه چارچوب سطح بندی شده عوامل موثر بر توسعه دیپلماسی علم و فناوری دانشگاه های ج.ا.ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>تسلیمی</given_name>
+												<surname>محمد سعید</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>خلیل</given_name>
+												<surname>نوروزی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>وحید</given_name>
+												<surname>تارویردی زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمدعلی</given_name>
+												<surname>صادقی کیا</surname>
+											</person_name></contributors>
+									<abstract>حوزۀ دیپلماسی علم و فنّاوری(دعف) دارای قلمرو مفهومی نوپایی دارد و با وجود قوّت قلمرو کاربردی، فاقد ادبیات نظری درخور در متون علمی و دانشگاهی است. دانشگاههای علوم انسانی به دلیل تعامل بیشتر با مسائل سیاسی، همواره مدّ نظر دستگاههای سیاست خارجۀ کشورها بوده‌اند و قبل از ورود دانشگاههای فنی و مهندسی و علوم پزشکی، زمینه‌ساز تعاملات بین‌المللی تلقی شده‌اند. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; هدف از انجام پژوهش پیشِ رو، علاوه بر شناسایی عوامل مؤثر بر دعف، ارائۀ چارچوب توسعۀ آن از طریق ظرفیتهای دانشگاههای علوم انسانی ج.ا.ایران بود. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; در این مقاله، نخست به شناسایی درخت دانش عوامل مؤثر بر تأثیرگذاری دانشگاههای علوم انسانی کشور بر توسعۀ دعف پرداخته شده، سپس با استفاده از رویکرد مدلسازی تفسیری- ساختاری به سطح‌بندی عوامل و در نهایت، با استفاده از نرم‌افزار دیمتل به اندازه‌گیری شدت روابط بین عوامل در سطوح مختلف اقدام شده است. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; پنج سطح کلی زمینه‌ها، موانع، علل و لوازم، راهبردها و پیامدها و شدت روابط بین آنها و متغیّرهای درونی آنها ارائه شده است.</abstract>
+									<keywords>
+									
+											<keyword>دیپلماسی علم و فنّاوری(دعف)</keyword>
+											<keyword>دانشگاه</keyword>
+											<keyword>چارچوب توسعۀ دیپلماسی</keyword>
+											<keyword>دیمتل</keyword>
+											<keyword>آی.اس.ام</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>215</first_page>
+										<last_page>234</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_585_126b4211bcbefad220150bbd459e7bc1.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>وضعیت اشتغال دانش‌آموختگان رشتۀ مدیریت آموزشی دانشگاه علامه طباطبایی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حمید</given_name>
+												<surname>رحیمیان</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>فاطمه</given_name>
+												<surname>جهانی جوانمردی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>نوروزی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; بررسی وضعیت اشتغال دانش‌آموختگان رشتۀ مدیریت آموزشی دانشگاه علامه طباطبایی. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; پژوهش حاضر به روش توصیفی- پیمایشی انجام شد. جامعۀ آماری پژوهش، کلیۀ دانش‌آموختگان رشتۀ مدیریت آموزشی دانشگاه علامه طباطبایی طی سالهای 94-1390 به تعداد 338 نفر(191 کارشناس و 147 کارشناس ارشد) بودند. نمونه‌ در دسترس طبقه‌ای، به ترتیب 123 و 108 نفر و ابزار جمع‌آوری داده‌ها، پرسشنامۀ محقق‌ساخته بود. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; 4/53 درصد از دانش‌آموختگان بیکارند. اشتغال اکثر شاغلان از طریق شرکت در آزمون استخدامی و در سازمانهای خصوصی از نوع خدماتی بوده است. میزان رضایت شغلی و ارتباط شغل با رشتۀ‌ تحصیلی اکثر شاغلان، متوسط بوده است. تأثیر برند دانشگاه علامه طباطبایی بر اشتغال در حد متوسط متمایل به زیاد بوده است. از 53 عنوان درس تخصصی و اصلی مدیریت آموزشی در مقاطع کارشناسی و ارشد، تنها 7 درس برای شاغلان کاربرد داشته و از طرفی ، بیشتر نیازهای آموزشی آنان برای انجام بهینۀ شغل، شامل مهارت‌آموزی، کارهای رایانه‌ای و نرم‌افزاری، دوره‌های آموزشی شغلی، زبان، مهارتهای نیازسنجی آموزشی و آشنایی با کارهای اداری است. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;‌&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;گیری:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; در ایران، بین نیاز جامعه به نیروی کار دانا و ماهر با کیفیتِ خروجی‌های دانشگاهی فاصلۀ قابل توجهی وجود دارد. بنا به یافته‌های پژوهش، ضرورت تحول و دگرگون‌سازی محتوای آموزشی و برنامۀ درسی در رشتۀ مدیریت آموزشی کاملاً احساس می‌شود. همچنین لازم است دو درس کار عملی در سازمانهای آموزشی با جدّیت و بهره‌وری بیشتر اجرا شود تا مهارت لازم برای دانشجو تا حدودی حاصل شود.</abstract>
+									<keywords>
+									
+											<keyword>اشتغال دانش‌آموختگان</keyword>
+											<keyword>مدیریت آموزشی</keyword>
+											<keyword>دانشگاه علامه طباطبایی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>235</first_page>
+										<last_page>252</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_586_8f4cefa78b305846819db4219523f201.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>آسیب‌شناسی فرهنگ و مدیریت جهادی با استفاده از روش فراترکیب</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>معصومه</given_name>
+												<surname>الماسی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>عبدالله</given_name>
+												<surname>توکلی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/strong&gt; هدف مؤلفان در این مقاله، شناسایی شاخصهای آسیب‌شناسی مدیریت جهادی بود. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش:&lt;/span&gt;&lt;/strong&gt; با روش تحقیق فراترکیب، داده‌های اصلی مقالات منتخب، تفسیر و دسته‌بندی و به صورت شبکۀ مضامین نمایش داده شد. این تحقیق از نظر نتایج، در زمرة تحقیقات توسعه‌ای و از حیث داده‌ها، کیفی است. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها:&lt;/span&gt;&lt;/strong&gt; یافته‌های تحقیق در دو گروه آسیبهای درونی و بیرونی عبارتند از: آسیبهای درونی، شامل دوری از خدا، وابستگی به دنیا و تغییر هدف؛ آسیبهای بیرونی، شامل دوری از شایسته‌سالاری، حاکمیت روابط به جای ضوابط، بوروکراسی، نفوذ فرصت‌طلبان و سست‌عنصران، جدایی و برون‌رفت سرمایۀ اصلی، ضعف نظارت و ارزشیابی، سستی در کادرسازی، بی‌توجهی به جایگاه نمایندگی ولی فقیه، عدم مشارکت مردم، عدم هماهنگی در امور و اهداف، عدم پایبندی به قانون و قانون‌گریزی، عدم تدوین مبانی و شاخصهای فرهنگ جهادی و سانسور. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری:&lt;/span&gt;&lt;/strong&gt; یافته‌های پژوهش بیانگر این است که در تقسیم‌بندی منطقی می‌توان آسیبهای مدیریت جهادی را به دو دسته آسیبهای درونی و بیرونی تقسیم کرد. با توجه به ماهیت آفات درونی و بیرونی، آفات درونی نسبت به آفات بیرونی اهمیت بیشتری دارند؛ در میان ابعاد آفات بیرونی نیز بوروکراسی از بیشترین اهمیت برخوردار است. آسیبهای شناسایی شده در این مقالات در دو دسته آفات درونی و بیرونی، شامل 16 بُعد و 122 شاخص است.</abstract>
+									<keywords>
+									
+											<keyword>فرهنگ</keyword>
+											<keyword>فرهنگ جهادی</keyword>
+											<keyword>مدیریت جهادی</keyword>
+											<keyword>آسیب‌شناسی</keyword>
+											<keyword>فراترکیب</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>253</first_page>
+										<last_page>274</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_587_700232989700372bf51ad10c3b949e63.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مفهوم‌شناسی هسته‌های علمی و تبیین مختصات و ویژگی‌های آن در نظام آموزش عالی (دانشگاهی) از طریق کاربست مطالعۀ تطبیقی هسته‌های علمی منتخب جهان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>میثم</given_name>
+												<surname>لطیفی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>نصرت‌الله</given_name>
+												<surname>ضرغام</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>عبدالحسین‌زاده</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/strong&gt; هسته‌های علمی مفهوم جدیدی است که در حوزۀ آموزش عالی شکل گرفته است. فهم مختصات و ویژگی‌های هسته‌های علمی و کارکردهای آن، هدف اصلی پژوهش حاضر بود. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش:&lt;/span&gt;&lt;/strong&gt; این پژوهش در بستر رویکرد تطبیقی انجام شد. با انجام نمونه‌گیری هدفمند، 17 هستۀ علمی منتخب در جهان، شناسایی و با روش تحلیل محتوا، اطلاعات آنها تحلیل شد. برای اعتبارسنجی نتایج تحلیلی نیز از روش دلفی فازی استفاده شد. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها:&lt;/span&gt;&lt;/strong&gt; با تحلیل محتوای هسته‌های علمی منتخب و به منظور تبیین مختصات و کارکردهای هسته‌های علمی، نتایج در قالب هفت بُعد و 38 مؤلفه و شاخص طبقه‌بندی و اعتبار آنها با روش دلفی فازی تأیید شد. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری:&lt;/span&gt;&lt;/strong&gt; تشکیل هسته‌های علمی مختص دانشجویان دورۀ کارشناسی، یکی از اقدامات رایج و گسترده در نظام آموزش عالی است. تشکیل این هسته‌ها باعث می‌شود دانشجویان مستعد از لحاظ آموزشی، پژوهشی، اجتماعی و فرهنگی نسبت به سایر دانشجویان برتری خاص داشته باشند.
+&lt;strong&gt; &lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>هستۀ علمی</keyword>
+											<keyword>آموزش عالی</keyword>
+											<keyword>دانشگاه</keyword>
+											<keyword>مطالعۀ تطبیقی</keyword>
+											<keyword>تحلیل محتوا</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>275</first_page>
+										<last_page>292</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_588_76a510c9ce7e9ef50fe669b0b3ffbfdd.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی و تحلیل لبۀ تاریک رفتارهای سازمانی از دیدگاه امیرالمؤمنین(ع)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>ریحانه</given_name>
+												<surname>فروزنده جونقانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>عبدالله</given_name>
+												<surname>توکلی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; هدف محقق در این مقاله، بررسی مفهوم لبۀ تاریک رفتار سازمانی از نگاه اسلامی با مطالعۀ مدلها و الگوهای جهانی آن و تأکید بر نامه‌های امیرالمؤمنین علی(ع) بوده است. روش: تحلیل محتوای کیفی. بر اساس پژوهشهای انجام شده، رفتارهای انحرافی به دو دستۀ مثبت و منفی دسته‌بندی می‌شوند. پدیدۀ لبۀ تاریک رفتارسازمانی در دستۀ رفتارهای انحرافی منفی قرار دارد که به دلیل ایجاد هزینه‌های مالی و غیر مالی هنگفت سالیانه برای سازمانها، مورد توجه و بررسی قرار گرفته است. یافته‌ها: در متون دینی به ویژۀ متون اسلامی و نامه‌های نهج‌البلاغه که اغلب خطاب به فرماندهان و مدیران است، این رفتارها به طور مکرر توسط امیرالمؤمنین گوشزد شده است که در مطالعۀ انجام‌شده، 49 کد شناسایی و در دو سطح فردی و سازمانی طبقه‌بندی شد. نتیجه‌گیری: حضرت برای پیشگیری از این رفتارها، راهکارهایی همچون: شفافیت، عدالت سازمانی، عدم ایجاد اصطکاک اجتماعی، جلوگیری از رقابتهای ناسالم، شایسته‌سالاری و ایجاد فرهنگ سازمانی را بیان می‌کنند که برای این رهنمودها به مصداقهایی برگرفته از نامه‌های امیرالمؤمنین اشاره شده است.</abstract>
+									<keywords>
+									
+											<keyword>رفتار سازمانی</keyword>
+											<keyword>لبه‌های تاریک رفتار سازمانی</keyword>
+											<keyword>انحرافات فردی و سازمانی</keyword>
+											<keyword>نامه‌های نهج‌البلاغه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>293</first_page>
+										<last_page>310</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_589_ea16bf9c92a7d1db0031dd4079c52310.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تأثیر تقوای الهی بر عدالت سازمانی مدیران (مورد مطالعه: کارکنان دانشگاه محقق اردبیلی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>احمد</given_name>
+												<surname>شجاعی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ناصر</given_name>
+												<surname>رحمانی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>پریسا</given_name>
+												<surname>بقال اصغری</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; پژوهش حاضربه منظور بررسی تأثیر تقوای الهی بر عدالت سازمانی مدیران دانشگاه محقق اردبیلی انجام شد. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; در این پژوهش تعداد 104 نفر از کارکنان دانشگاه محقق اردبیلی، به روش نمونه‌گیری تصادفی ساده انتخاب شدند. برای سنجش عدالت سازمانی، از پرسشنامۀ استاندارد عدالت سازمانی(مورمن و نیهوف، 1993) و برای سنجش تقوا، از پرسشنامۀ محقق‌ساخته که روایی آن توسط اساتید و صاحب‌نظران تأیید و پایایی آن با استفاده از آلفای کرونباخ 78/0 تعیین شد، بهره گرفته شد. برای تجزیه و تحلیل داده‌ها از روشهای آماری، ضریب همبستگی و رگرسیون استفاده شد. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; بین تقوای مدیران با عدالت سازمانی همبستگی مثبت معنادار وجود دارد و فرضیۀ اصلی پذیرفته شد. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری:&lt;/span&gt;&lt;/em&gt; &lt;/strong&gt;تقوا با عدالت مراوده‌ای، بر خلاف عدالت توزیعی و رویّه‌ای، رابطۀ همبستگی مثبت و معنادار دارند و فرضیۀ آن نیز تأیید شد. با تحلیل نتایج مقاله می‌توان نتیجه گرفت که تقوای مدیران در دانشگاهها چنان‌که باید به تقویت و گسترش سازمانی کمک کند ، مورد توجه قرار نگرفته است.</abstract>
+									<keywords>
+									
+											<keyword>عدالت</keyword>
+											<keyword>رفتار مدیران</keyword>
+											<keyword>دانشگاه محقق اردبیلی</keyword>
+											<keyword>تقوای الهی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>311</first_page>
+										<last_page>326</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_590_024d4d5770c3cde2621650fcc94f0aaf.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مطالعۀ نقش هویت مذهبی در شکل‌گیری هویت ملی دانشجویان هوادار تیمهای ملی (مورد مطالعه: تیم ملی فوتبال و بسکتبال)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>بهنام</given_name>
+												<surname>نقی پور گیوی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ستاره</given_name>
+												<surname>اسکندری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>احسان</given_name>
+												<surname>محمدی ترکمانی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>عباس</given_name>
+												<surname>نظریان مادوانی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/strong&gt; هدف محققان از اجرای این پژوهش، بررسی نقش هویت مذهبی در شکل‌گیری هویت ملی دانشجویان هوادار تیمهای ملی فوتبال و بسکتبال بود. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش:&lt;/span&gt;&lt;/strong&gt; این پژوهش از نظر هدف، کاربردی و از نوع توصیفی پیمایشی است. جامعۀ آماری پژوهش، کلیۀ دانشجویان هوادار پسر دانشگاه تهران بودند که 597 نفر از آنان به طور در دسترس پرسشنامۀ تحقیق را تکمیل کردند. ابزار پژوهش، پرسشنامه‌های طراحی‌شدۀ هویت مذهبی و ملی بر اساس چارچوب بوگدانوو بود که روایی آن توسط 12 نفر از خبرگان تأیید و ضریب آلفای کرونباخ برای دو پرسشنامه، به ترتیب 93/0 و 91/0 محاسبه شد. داده‌ها با معادلات ساختاری در نرم‌افزار وارپ پی.ال.اس. نسخۀ پنج تحلیل و شاخصهای برازش مدل اندازه‌گیری تأیید شدند. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها:&lt;/span&gt;&lt;/strong&gt; هویت مذهبی بر هویت ملی دانشجویان شیعه و سنی، دارای اثر مثبت معنادار است. همچنین در حالت کلی هویت مذهبی بر هویت ملی دانشجویان اثر مثبت معنادار دارد. مقدار ضریب تعیین نشان داد هویت مذهبی تنها می‌تواند 8/27 درصد از واریانس هویت ملی را تبیین کند. &lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری:&lt;/span&gt;&lt;/strong&gt; با توجه ضعیف بودن هویت مذهبی در شکل‌گیری هویت ملی، محیط‌های ورزشی می‌توانند با کاهش محدودیتهای ساختاری، احساسات و تجارب مشترک را افزایش داده، منجر به تقویت هویت ملی شوند.</abstract>
+									<keywords>
+									
+											<keyword>هویت ملی</keyword>
+											<keyword>هویت مذهبی</keyword>
+											<keyword>دانشجویان ایرانی</keyword>
+											<keyword>تیمهای ملی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>327</first_page>
+										<last_page>340</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_591_402a70630debb3f06720808932a1e499.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>طراحی الگوی مفهومی اسلام برای عدالت در نظام جبران خدمات، مبتنی بر آموزه‌های نهج‌البلاغه</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد</given_name>
+												<surname>حکاک</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسن</given_name>
+												<surname>صالحی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>یونس</given_name>
+												<surname>فرقانی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; نیروی انسانی از مهم‌ترین ارکان سازمان در پیشبرد اهدافش است؛ لذا در ازای خدمتی که به سازمان ارائه می‌دهد، سازمان وظیفه دارد خدمت او را به نحوی شایسته جبران کند. هدف از نگارش پژوهش حاضر، استخراج الگوی عدالت در جبران خدمات در ادبیات مدیریت اسلامی بود. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; روش تحقیق، تحلیل مضمون بود. با کمک نرم‌افزار Maxqda، از بین 473 عبارت، 196 کد بدون تکرار انتخاب شد که منجر به تولید 17 مضمون پایه و در نهایت، در سه مضمون سازمان‌دهنده جمع‌بندی شد. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; با تأکید بر مفهوم فراگیر و گستردۀ جبران خدمات(اعم از مؤلفه‌های مادی و معنوی)، مؤلفه‌های جبران خدمت عادلانه از متن نامه‌ها و خطبه‌ها و حکمتهای نهج‌البلاغه استخراج شد و الگوی شبکۀ مفهومی آن شکل گرفت.  &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; نگاه امیرالمؤمنین(ع) در نهج‌البلاغه به جبران خدمت، در پرداخت خلاصه نمی‌شود. برای ایجاد نظام جبران خدمات عادلانه، باید همۀ ابعاد جبران خدمت اعم از رفتارها و تعاملات و همچنین رویّه‌های سازمانی نیز عادلانه باشند تا عدالت در جبران خدمت برای زیردستان به طور کامل محقق شود.</abstract>
+									<keywords>
+									
+											<keyword>جبران خدمت</keyword>
+											<keyword>عدالت</keyword>
+											<keyword>نهج‌البلاغه</keyword>
+											<keyword>تحلیل مضمون</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>341</first_page>
+										<last_page>358</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_592_01cd38f9d6d449ebe5f9d900f3e9c3e9.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مسجد و نماز جماعت، استعاره‌ای از سازمان از دیدگاه اسلام؛: تفسیرها و برداشتهای مدیریتی و سازمانی از مسجد و نماز جماعت در مورد دانشگاه اسلامی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>احمد</given_name>
+												<surname>عربشاهی کریزی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; هدف از انجام این مقاله، بررسی جوانب مختلف مسجد و نماز جماعت و استنباط برداشتهای مدیریتی و سازمانی در خصوص دانشگاه اسلامی بود. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; برای دستیابی به هدف، ابتدا سعی شد با رجوع به منابع مختلف اسلامی، با احکام و مسائل مربوط به مسجد و نماز جماعت آشنا شویم و سپس با دیدگاه جامع شکل‌گرفته، ابعاد دانشگاه اسلامی تبیین شود. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته‌ها:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; با توجه به تعالیم اسلامی و احکام مطرح شده راجع به مسجد، ابعاد و کارکردها و مدل مطلوب دانشگاه اسلامی بیان شد. ویژگی‌ها و ابعاد وجودی امام جماعت و معیارهای انتخاب امام جماعت، مبنای مناسبی برای تعیین ملاکهای انتخاب افراد در دانشگاه اسلامی است. ایجاد رضایت در نیروی انسانی در مسجد و دانشگاه اسلامی برای اثربخشی و دستیابی به اهداف ضروری به نظر می‌رسد. احکام مسجد و نماز جماعت می‌تواند در ادارۀ امور و چگونگی انجام فعالیتها و فرایندها دانشگاه اسلامی راهگشا باشد. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه‌گیری:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; تجزیه و تحلیل تطبیقی نماز جماعت، مسجد و دانشگاه اسلامی، ما را در شناخت ابعاد دانشگاه اسلامی و دستیابی به مدل مطلوب یاری می‌دهد. برداشتهای مدیریتی و سازمانی از احکام مسجد و نماز جماعت، اصول کاربردی دقیقی را به دست می‌دهد که می‌توانند روند توسعه و تعالی را در دانشگاه اسلامی تسهیل کنند و تسریع بخشند.</abstract>
+									<keywords>
+									
+											<keyword>مسجد</keyword>
+											<keyword>نماز جماعت</keyword>
+											<keyword>اسلام</keyword>
+											<keyword>دانشگاه اسلامی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>359</first_page>
+										<last_page>376</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_593_824da8df1a120db35b7f4c08c797d416.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناسایی مؤلفه های شناختی سرمایه اجتماعی از دیدگاه امام خمینی(ره)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>عباس</given_name>
+												<surname>زمانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>اکبر</given_name>
+												<surname>رستمی خوراسگانی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سید‌هاشم</given_name>
+												<surname>گلستانی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>آذر</given_name>
+												<surname>قلی زاده</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;هدف:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; پژوهش حاضر با هدف شناسایی مؤلفه های سرمایه اجتماعی در بعد شناختی(ذهنی) از دیدگاه حضرت امام خمینی(ره) در کتاب صحیفه نور انجام گرفت. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;روش:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; روش پژوهش کیفی، از نوع تحلیل محتوای استقرایی بود. بدین منظور از مجموع کتاب22 جلدی صحیفه امام خمینی(ره)، تعداد 15 جلد انتخاب و  با استفاده از فیش برداری به روش کتابخانه ای از طریق فرایندهای طبقه بندی نظام مند، کدبندی، و تم سازی مورد تحلیل قرار گرفت. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;یافته ها:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; نتایج نشان داد که &quot;خدا محوری&quot;، &quot;اسلام محوری&quot;، &quot;اعتماد&quot;، &quot;قانون گرایی&quot; و &quot;خدمت برای خدا و اعتقاد به نظارت الهی&quot;، مهمترین مؤلفه های بعد شناختی(ذهنی) سرمایه اجتماعی در بیانات امام خمینی(ره) بود که در این مقاله بدان پرداخته شده است. &lt;strong&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;نتیجه گیری:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; نتایج این پژوهش نشان داد که حضرت امام(ره) همواره مردم و مسؤولان را به خدمت به خلق و توجه به دستورات الهی و سیره پیامبر(ص) و ائمه(ع) سفارش و بر ضرورت افزایش اعتماد و انسجام در پرتو عمل به قوانین تأکید نموده بود.</abstract>
+									<keywords>
+									
+											<keyword>امام خمینی(ره)</keyword>
+											<keyword>سرمایه اجتماعی</keyword>
+											<keyword>اعتماد</keyword>
+											<keyword>انسجام اجتماعی</keyword>
+											<keyword>مشارکت اجتماعی</keyword>
+											<keyword>نهادهای اجتماعی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>377</first_page>
+										<last_page>392</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_594_33f538e6c59d693981f70aab2fc6a4a1.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>سخن فصل</title>
+									</titles>
+									<abstract></abstract>
+									<keywords>
+									
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>213</first_page>
+										<last_page>214</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_595_5a930b654492b40f7a8f5bc996012ba8.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>چکیده لاتین</title>
+									</titles>
+									<abstract></abstract>
+									<keywords>
+									
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>402</first_page>
+										<last_page>412</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_596_3c3d7c2e5c909bb768ff348885906951.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت در دانشگاه اسلامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2345-5713</issn>
+									<issn media_type="electronic">2345-5713</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>نمایه</title>
+									</titles>
+									<abstract></abstract>
+									<keywords>
+									
+											<keyword>نمایه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>395</first_page>
+										<last_page>401</last_page>
+									</pages>
+										<fullTextUrl>http://miu.nahad.ir/article_597_4817e200a051c0a2a49365f6054f51df.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

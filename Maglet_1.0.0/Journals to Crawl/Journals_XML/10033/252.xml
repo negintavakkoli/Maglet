@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-25T02:17:15Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22048">http://saffron.torbath.ac.ir/?_action=export&amp;rf=summon&amp;issue=5489</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-06-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>5</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی برخی دلایل کاهش عملکرد زعفران در طی 30 سال اخیر (مقاله مروری)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علیرضا</given_name>
+												<surname>کوچکی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علیرضا</given_name>
+												<surname>کرباسی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سید محمد</given_name>
+												<surname>سیدی</surname>
+											</person_name></contributors>
+									<abstract>زعفران (&lt;em&gt;Crocus sativus&lt;/em&gt; L.) گیاهی چند ساله است که اساساً در نواحی خشک و نیمه‌خشک کشور رویش دارد. علیرغم سازگاری زعفران به این نواحی، ارزیابی روند تغییرات سطح زیر کشت زعفران در طی 30 سال اخیر نشان می‌دهد که کشت این محصول افزایش قابل‌توجهی یافته است؛ به‌طوری که زعفران هم‌اکنون در 21 استان کشور در سطحی معادل 88 هزار هکتار کشت می­شود. با این وجود، در بین سال­های 1360 تا 1393 عملکرد زعفران به ازای هر واحد سطح زیر کشت کاهش محسوسی یافته است. به‌طوری که از 1/5 کیلوگرم در سال 1360 به 2/3 کیلوگرم در سال 1393 رسیده است. کاهش عملکرد زعفران از جنبه­های متفاوتی اتفاق افتاده و اساساً متأثر از عواملی مانند سوء مدیریت در بخش کشاورزی، اقتصادی، فرآوری پس از برداشت و نیز خشک‌سالی‌های اخیر بوده است. در صورت عدم توجه به عوامل ذکرشده، عملکرد زعفران در سال­های آینده نیز ممکن است بیش از پیش کاهش یابد. کاهش عملکرد زعفران در طی 30 سال اخیر، لزوم ارائه یک برنامه جامع از سوی نهادهای مرتبط با زعفران شامل دانشگاه­ها، مؤسسات تحقیقاتی و نیز سازمان تحقیقات، آموزش و ترویج کشاورزی را بیش از پیش مورد تأکید قرار می­دهد. همچنین جهت تدوین و توسعه این برنامه، اتخاذ سیاست­های دولت جهت برنامه­ریزی و تصویب بودجه موردنیاز ضروری به نظر می­رسد. در این مقاله مروری ابتدا سعی بر آن است تا مجموعه دلایل مرتبط با کاهش عملکرد زعفران مورد مطالعه قرار گیرد. ارائه راهکارهای لازم در ارتباط با این دلایل، هدف بعدی در مقاله می­باشد.</abstract>
+									<keywords>
+									
+											<keyword>تولید زعفران</keyword>
+											<keyword>خشک‌سالی</keyword>
+											<keyword>سطح کشت</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>06</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>107</first_page>
+										<last_page>122</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_38669_7b70ce78061b7e8bf61c83b97317d309.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-06-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>5</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر وزن بنه مادری و محلول‌پاشی برگی بر عملکرد گل و بنه دو توده زعفران (.<i>Crocus sativus</i> L) ایرانی و اسپانیایی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حسین</given_name>
+												<surname>صحابی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محسن</given_name>
+												<surname>جهان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علیرضا</given_name>
+												<surname>کوچکی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>مهدی</given_name>
+												<surname>نصیری محلاتی</surname>
+											</person_name></contributors>
+									<abstract>اندازه بنه مادری، مدیریت تغذیه­ای و نوع بنه از مهم‌ترین عوامل در تعیین عملکرد و کیفیت زعفران ((&lt;em&gt;Crocus sativus &lt;/em&gt;L. به شمار می­روند. به‌منظور بررسینقش وزن بنه مادری و محلول­پاشی برگی بر عملکرد گل و بنه دو توده زعفران ایرانی و اسپانیایی آزمایشی طی دو سال زراعی (94-1393، 93-1392) در مزرعه تحقیقاتی دانشکده کشاورزی دانشگاه فردوسی مشهد انجام شد. آزمایش به­صورت فاکتوریل و در قالب طرح بلوک­های کامل تصادفی با سه تکرار انجام گرفت. تیمارهای آزمایش شامل نوع بنه در دو سطح (ایرانی و اسپانیایی)، وزن بنه مادری در سه سطح (8 - 1، 15- 1/8 و 23- 1/15 گرم) و محلول­پاشی برگی در دو سطح (صفر و 7 درصد کود ­کامل شامل فسفیت پتاسیم و بیومین) بود. بر اساس نتایج آزمایش، با افزایش وزن بنه مادری، تعداد گل در هر مترمربع، وزن گل­تر و عملکرد کلاله خشک زعفران به‌طور معنی­داری افزایش یافت. علاوه بر این، استفاده از بنه مادری بزرگ‌تر به‌طور معنی­داری منجر به افزایش تعداد بنه دختری و عملکرد کل بنه­های دختری شد. اثر محلول­پاشی برگی نیز بر تعداد گل در واحد سطح و عملکرد کلاله خشک زعفران معنی­دار بود، ولی بر تعداد کل بنه دختری در واحد سطح تأثیر معنی­داری نداشت. اثر نوع بنه بر تعداد گل در واحد سطح، وزن­تر گل، وزن خشک (کلاله + خامه) و وزن خشک بنه معنی­دار بود؛ بنابراین، بیشترین تعداد گل (6/48 در مترمربع)، وزن­تر گل (3/24 گرم در مترمربع) و وزن خشک کلاله + خامه (25/0 گرم در مترمربع) مربوط به اندازه بنه مادری 1/15 تا 23 گرم و کمترین مقدار مربوط به اندازه بنه کمتر از 8 گرم بود. همچنین بیشترین تعداد گل (7/43 در متر­مربع)، وزن‌تر گل (8/21 گرم در متر مربع) و وزن خشک گل (23/0 گرم در مترمربع) طی دو سال آزمایش مربوط به بنه­های ایرانی بود&lt;strong&gt;.&lt;/strong&gt; بر اساس نتایج، استفاده از بنه­های مادری ایرانی با وزن مناسب جهت کاشت (بیش از 15 گرم) همراه با محلول­پاشی برگی می­تواند در افزایش عملکرد گل و بنه زعفران مفید باشد.</abstract>
+									<keywords>
+									
+											<keyword>بنه</keyword>
+											<keyword>تغذیه برگی</keyword>
+											<keyword>زعفران</keyword>
+											<keyword>کلاله</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>06</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>123</first_page>
+										<last_page>131</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_40888_5a15f7a8f0f9600ae318525adc866932.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-06-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>5</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی خصوصیات رشدی بنه‌های دختری زعفران تحت تأثیر نظام‌های کشاورزی رایج و ارگانیک</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمدعلی</given_name>
+												<surname>بهدانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>غلامرضا</given_name>
+												<surname>زمانی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حمید رضا</given_name>
+												<surname>فلاحی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمدحسن</given_name>
+												<surname>سیاری زهان</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>علیرضا</given_name>
+												<surname>صمدزاده</surname>
+											</person_name></contributors>
+									<abstract>در زراعت زعفران، تولید و استفاده از بنه­های مادریِ دارای وزن مناسب یکی از مهم­ترین عوامل تأثیرگذار بر میزان گلدهی گیاه می­باشد. در همین راستا این تحقیق با هدف بررسی تأثیر نظام­های مختلف کم­نهاده، متوسط نهاده و پرنهادة ارگانیک و رایج بر رشد بنه­های دختری زعفران در طی یک دورة رشد یک­سالة گیاه از مهرماه 1394 تا اردیبهشت ماه سال 1395 در قالب طرح بلوک­های کامل تصادفی با سه تکرار به اجرا درآمد. به منظور انطباق تیمارهای آزمایشی با قوانین کشاورزی ارگانیک، طول دورة گذاری معادل با 24 ماه قبل از کاشت در این پژوهش در نظر گرفته شد و در طی آن از مصرف نهاده­های ممنوعه پرهیز شد. بر اساس نتایج تجزیة واریانس اثر تیمارهای آزمایشی بر اکثر صفات مربوط به رشد بنه­های دختری معنی­دار بود. مقایسة میانگین تیمارها نشان داد که میزان تفاوت­ها در درون هر نظام کاشت بسیار ناچیز، ولی مقدار تفاوت بین دو نظام کاشت رایج و ارگانیک قابل توجه بود. وزن کل بنه­های موجود در هر کلون و تعداد جوانه­های گل­دهنده به ازای هر بنه در نظام­های کاشت ارگانیک به‌طور متوسط حدود 40 درصد بیشتر از نظام­های کاشت رایج بود. مقادیر متوسط وزن تک­بنه نیز برای سیستم­های ارگانیک و رایج به ترتیب 75/4 و  54/2 گرم تعیین شد. در نظام کاشت ارگانیک درصد بنه­های دختری با وزن کمتر از 5 گرم کمتر از نظام کاشت رایج بود (70 درصد در مقابل 84 درصد)، در حالی­که در نظام کاشت مذکور درصد بنه­های دختری دارای وزن 5 تا 10 گرم (5/14 در مقابل 13 درصد) و بیش از 10 گرم (16 در مقابل 3 درصد) بیشتر از سیستم کاشت رایج بود. متوسط تعداد جوانة گل دهنده در هر بنه همبستگی معنی­داری با وزن کل بنه­های موجود در هر کلون (&lt;sup&gt;**&lt;/sup&gt;58/0)، میانگین وزن تک بنه (&lt;sup&gt;**&lt;/sup&gt;64/0) و نیز تعداد بنه­های ریز (&lt;sup&gt;**&lt;/sup&gt;57/0-) و درشت (&lt;sup&gt;**&lt;/sup&gt;61/0) موجود در هر کلون نشان داد. بر اساس ضرایب همبستگی، میانگین وزن تک بنه نیز ارتباطی قوی با تعداد بنة موجود در هر کلون (&lt;sup&gt;**&lt;/sup&gt;55/0-)، وزن بنه­های موجود در هر کلون (&lt;sup&gt;**&lt;/sup&gt;73/0) و نیز تعداد بنه­های ریز (&lt;sup&gt;**&lt;/sup&gt;89/0-) و درشت (&lt;sup&gt;**&lt;/sup&gt;81/0) موجود در هر کلون داشت. در مجموع، استفاده از مدیریت ارگانیک در مقایسه با نظام زراعی رایج تأثیر مطلوبی بر بهبود صفات رشدی بنه­های دختری زعفران به خصوص میانگین وزن بنه و تعداد جوانه­های دارای پتانسیل گلدهی اعمال نمود.</abstract>
+									<keywords>
+									
+											<keyword>جوانة گل‌دهنده</keyword>
+											<keyword>کشاورزی رایج پرنهاده</keyword>
+											<keyword>گلدهی</keyword>
+											<keyword>نظام ارگانیک کم‌نهاده</keyword>
+											<keyword>وزن بنه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>06</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>133</first_page>
+										<last_page>147</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_40887_000177a5f02e84647a0a7eeda73f9dcd.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-06-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>5</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مدیریت آبیاری زعفران با استفاده از اعمال سیاست‌های قیمتی و مقداری آب (مطالعه موردی: حوضه آبریز نیشابور)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سمیه</given_name>
+												<surname>شیرزادی لسکوکلایه</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمود</given_name>
+												<surname>صبوحی صابونی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>احمد علی</given_name>
+												<surname>کیخا</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>کامران</given_name>
+												<surname>داوری</surname>
+											</person_name></contributors>
+									<abstract>کاهش منابع آبی، روند افزایشی وقوع خشکسالی­ها و صدمات سنگین آن به کشور، بیش از پیش استفاده کارآمد از این منبع را ضرورت می­بخشد. هدف این مطالعه، ارزیابی اثرات سیاست­های گوناگون کاهش میزان آب مصرفی و افزایش قیمت هر مترمکعب آب بر الگوی­کشت محصول زعفران می­باشد. داده­های مورد نیاز پژوهش با مصاحبه­ی حضوری در میان100 بهره‌بردار مناطق کشاورزی دشت رخ و نیشابور سال 1391 به‌دست آمد. انتخاب مزارع نمونه  با استفاده از نمونه­گیری تصادفی، انجام و مدل برای هر دو منطقه محاسبه شد. نتایج حاصل از الگوی برنامه­ریزی ریاضی مثبت نشان داد که با 20 درصد صرفه‌جویی در مصرف آب در دشت رخ و 30 درصد در دشت نیشابور می­توان الگوی کشتی مشابه با مقادیر داده­ی واقعی در سطح مزرعه برای محصول زعفران دست یافت. همچنین با کاهش مقدار آب، ارزش اقتصادی آب افزایش نشان داد. دو برابر نمودن قیمت هر متر مکعب آب مصرفی نیز در میزان مصرف آب و سطح زیر کشت محصول تأثیری نشان­­ نداد و تنها منجر به کاهش سود شد. لذا پیشنهاد می­گردد برای صرفه جویی منابع آبی، علاوه بر تشخیص زمان دقیق آبیاری و میزان مناسب آن برای محصول زعفران که می­تواند اثرات منفی آبیاری بیش از حد و بی­موقع را بر عملکرد این محصول کاهش دهد و در مدیریت بهینه آب مؤثر باشد، سیاست­های کاهش مقدار آب در دسترس نیز در برنامه­ریزی سیاست­گذاران قرار بگیرد.</abstract>
+									<keywords>
+									
+											<keyword>برنامه‌ریزی ریاضی مثبت</keyword>
+											<keyword>حوضه‌آبریز نیشابور</keyword>
+											<keyword>زعفران</keyword>
+											<keyword>مدیریت آبیاری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>06</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>149</first_page>
+										<last_page>160</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_11761_3720ca0b2a1fd598d67962d388c8b3af.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-06-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>5</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی امکان تولید زعفران (.<i>Crocus sativus</i> L) در سیستم کشت عمودی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>لورین</given_name>
+												<surname>علی احمد</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>سروش زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علی</given_name>
+												<surname>مختصی بیدگلی</surname>
+											</person_name></contributors>
+									<abstract>با وجود این­که زعفران یکی از گران­ترین گیاهان دارویی در جهان است، اما تاکنون در مورد تولید آن در کشت عمودی مطالعه­ای انجام نشده است. بنابراین رشد و تولید زعفران در دو سیستم کشت متفاوت (عمودی و افقی) در مزرعه تحقیقاتی دانشگاه تربیت مدرس در سال زراعی 1393-1392 مورد مقایسه قرار گرفت. بنه­های زعفران در سیستم کشت عمودی در کیسه­های پارچه­ای در یک مکعب که ابعاد هر وجه آن 5/1 در 5/1 متر بود کشت شدند. در کشت افقی در مزرعه بنه­ها در سه کرت که مساحت هر کرت 25/2 مترمربع بود کشت شدند. نتایج نشان داد که در سال اول رشد تعداد گل، وزن خشک گل و وزن خشک کلاله در واحد سطح در سیستم کشت عمودی به ترتیب 10 گل، 34/347 و 56 میلی­گرم در مترمربع بود که به­طور معنی­داری تقریباً سه برابر بیشتر از کشت افقی بود. در مقابل در سیستم کشت افقی تعداد و وزن خشک بنه­های دختری (به ترتیب 4/2 عدد و 36/0 گرم در بوته)، وزن خشک بنه­های مرکزی (88/0 گرم در بوته) و وزن خشک برگ و ریشه به‌طور معنی­داری بیشتر از کشت عمودی بود، ولی حداکثر طول برگ در کشت عمودی نسبت به کشت افقی بیشتر بود. لذا می‌توان نتیجه‌گیری کرد که از سیستم کشت عمودی برای افزایش محصول زعفران در سال اول استفاده کرد؛ اما باید در مورد بهبود وزن خشک بنه­های دختری جانبی و وزن خشک بنه­های مرکزی در این سیستم تحقیق بیشتر انجام داد.</abstract>
+									<keywords>
+									
+											<keyword>تعداد بنه‌های دختری جانبی</keyword>
+											<keyword>وزن خشک بنه‌های دختری جانبی</keyword>
+											<keyword>وزن خشک بنه‌های مرکزی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>06</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>161</first_page>
+										<last_page>173</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_45140_78fc9e45baf9fc54e100749dfd205894.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-06-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>5</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>رتبه‌بندی عوامل مؤثر بر بسته‌بندی زعفران از دید مصرف‌کنندگان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>آرش</given_name>
+												<surname>دوراندیش</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>امیر حسین</given_name>
+												<surname>توحیدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>پریسا</given_name>
+												<surname>علیزاده</surname>
+											</person_name></contributors>
+									<abstract>بسته­بندی به عنوان یک ابزار برای شناخت و تمایز محصول نقش بسیار مهمی در تصمیم خرید مصرف­کنندگان ایفا می­نماید و از آن می­توان برای ایجاد مزیت رقابتی استفاده نمود. زعفران یکی از محصولات مهم کشاورزی است که بسته­بندی مطابق با تقاضای مصرف­کنندگان موجب افزایش فروش و رضایت­مندی خریداران می­گردد. لذا هدف اصلی این مطالعه رتبه­بندی عوامل مؤثر بر بسته­بندی از دید مصرف­کنندگان زعفران در شهر مشهد می­باشد. اطلاعات این پژوهش، در قالب 99 پرسشنامه که در سال 1394 از سوی مصرف­کنندگان زعفران شهر مشهد پاسخ داده شده، جمع‌آوری شده است. برای رتبه­بندی عوامل مؤثر بر بسته­بندی این محصول، از روش تحلیل سلسله مراتبی استفاده شده است. نتایج مطالعه نشان داد که ارائه اطلاعات مربوط به مواد مغذی زعفران و درج استانداردهای داخلی و بین­المللی، بر ترجیحات مصرف­کنندگان بیشترین تأثیر را دارند. همچنین، نتایج رتبه­بندی گزینه­ها نیز نشان داد که راهبرد توجه به نام تجاری درج شده روی بسته­بندی از نظر مصرف­کنندگان دارای بیشترین اهمیت است. لذا، درج عناصر اطلاعاتی روی بسته­بندی می­تواند شیوه مناسبی برای تمایز نام تجاری و افزایش ارزش آن باشد. با توجه به نتایج مطالعه، به تولیدکنندگان و عرضه­کنندگان زعفران پیشنهاد می­گردد که در طراحی بسته­بندی به ویژگی­ها و عناصر اطلاعاتی بیشترین توجه را داشته باشند.</abstract>
+									<keywords>
+									
+											<keyword>استانداردهای داخلی و بین‌المللی</keyword>
+											<keyword>تحلیل سلسله مراتبی</keyword>
+											<keyword>ترجیحات</keyword>
+											<keyword>نام تجاری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>06</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>175</first_page>
+										<last_page>184</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_42371_7cc25faaeee3b47504c105aa66466b24.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-06-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>5</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مطالعه امکان تولید آفلاتوکسین B1 در زعفران و محصولات حاصل از آن</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>عباس</given_name>
+												<surname>محمدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سیمین</given_name>
+												<surname>نجار</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>فهیمه</given_name>
+												<surname>سنگی کاظم آباد</surname>
+											</person_name></contributors>
+									<abstract>زعفران از با ارزش‌ترین محصولات دارویی استان‌های خراسان­رضوی و جنوبی است که در تمام مراحل برداشت، انتقال و انبارداری ممکن است به گونه‌های مختلف قارچ &lt;em&gt;Aspergillus&lt;/em&gt; آلوده گردد. یکی از توکسین­های ناشی از این آلودگی، آفلاتوکسینB1 است. این پژوهش با هدف بررسی تولید این توکسین توسط قارچ &lt;em&gt;Aspergillus flavus&lt;/em&gt; در مراحل مختلف برداشت، انتقال و انبارداری زعفران صورت گرفت. بافت‌های خشک و مرطوب زعفران و بافت‌های برنج آغشته شده به عصاره زعفران، با &lt;em&gt;A. flavus&lt;/em&gt;تلقیح گردیده و تولید آفلاتوکسین در آن‌ها به روش کروماتوگرافی TLC بررسی گردید. قارچ آسپرژیلوس توانست در شرایط مختلف این پژوهش، تمام بافت‌های تلقیح شده را آلوده نماید. مقادیر مختلف آفلاتوکسینB1 در تیمارهای مختلف به‌ استثنای زعفران‌های نگه‌داری شده در شرایط خشک (شاهد)، تولید گردید. در بافت‌های برنج آغشته به عصاره زعفران نیز آفلاتوکسین  B1تولید گردید ولی میزان آن نسبت به تیمار برنج بدون زعفران، کمتر بود. بر اساس نتایج این پژوهش، بافت‌های زعفران به‌سرعت در شرایط گرم و مرطوب به گونه‌های مختلف آسپرژیلوس آلوده می‌گردند. زعفران خشک و مرطوب تلقیح شده با قارچ آسپرژیلوس، پس از مدتی حاوی مقدار زیادی آفلاتوکسین بود. میزان آفلاتوکسین تولیدی در بافت‌های زعفران، ارتباط مستقیم با رطوبت محیط و بافت داشت. با افزایش رطوبت، آلودگی بافت به قارچ بیشتر و تولید توکسین نیز افزایش یافت. آغشته کردن موادغذایی به زعفران هرچند میزان تولید آفلاتوکسین B1 را کاهش داد ولی تولید آن را متوقف نکرد. نتایج این پژوهش نشان داد که بسته‌بندی زعفران قبل از خشک شدن کامل بافت یا نگه‌داری آن‌ها در شرایط رطوبت بالا، خطر آلودگی به قارچ &lt;em&gt;A. flavus&lt;/em&gt; و تولید آفلاتوکسین در آن‌ها را افزایش می‌دهد.</abstract>
+									<keywords>
+									
+											<keyword>آلودگی</keyword>
+											<keyword>آسپرژیلوس</keyword>
+											<keyword>برنج</keyword>
+											<keyword>توکسین‌های قارچی</keyword>
+											<keyword>کروماتوگرافی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>06</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>185</first_page>
+										<last_page>194</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_42974_cbb176aaa59bf2e5ca3c332d96536842.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

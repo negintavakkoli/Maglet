@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-20T21:22:30Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22108">http://amf.ui.ac.ir/?_action=export&amp;rf=summon&amp;issue=4336</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>پاییز 1398</title>
+									</titles>
+									<abstract>پاییز 1398</abstract>
+									<keywords>
+									
+											<keyword>پاییز 1398</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page></first_page>
+										<last_page></last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_24130_786ef66ba433dcc1e51800237452529f.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ساختار پویای همبستگی؛ ریسک و بازده سهام</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مریم</given_name>
+												<surname>دولو</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مرضیه</given_name>
+												<surname>خسروی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;هدف: &lt;/strong&gt;پویایی کوواریانس بازده دارایی‌ها همواره یکی از حوزه‌های چالش‌برانگیز مالی بوده است. الگو‌های مالی رفتار کوواریانس را در طی زمان تحلیل می‌کنند؛ اما الگو‌های اقتصادسنجی تنها رفتار واریانس را در گذر زمان بررسی می‌کنند. نخستین الگویی که رفتار کوواریانس را در طی زمان تحلیل می‌کند، الگوی گارچ چندمتغیره است که به‌دلیل نیاز به تخمین پارامتر زیاد، بسیار از آن انتقاد شده است. هدف این پژوهش، بررسی تأثیر ساختار پویای همبستگی بازده سهام بر ریسک سیستماتیک، غیرسیستماتیک و بازده سهام است.
+&lt;strong&gt;روش: &lt;/strong&gt;به همین منظور نمونه‌ای متشکل از 148 شرکت‌ پذیرفته‌‎شده در بورس اورق بهادار تهران طی سال‌های 1393-1382 بررسی و برای آزمون روابط ذکرشده از الگوی گارچ استفاده شده است.
+&lt;strong&gt;نتایج: &lt;/strong&gt;براساس نتایج به‌دست‌آمده، سهامی که در گذشته با عوامل فراگیر بازار (مومنتوم، بازار، اندازه، ارزش) همبستگی بالایی دا‌شته است، ریسک سیستماتیک، غیرسیستماتیک و بازده پایین‌تری دارد. احتمال مشاهدۀ رابطۀ معنادار همبستگی و ریسک غیرسیستماتیک سهام با گردش پایین‌تر (شاخص شفافیت اطلاعاتی) دور از انتظار نیست؛ اما این ارتباط برای شرکت‌های کوچک‌تر تصور نمی‌شود.</abstract>
+									<keywords>
+									
+											<keyword>پویایی همبستگی</keyword>
+											<keyword>ریسک اوراق بهادار</keyword>
+											<keyword>ریسک همبستگی</keyword>
+											<keyword>عوامل فراگیر بازار</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>26</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23666_4da476ff48ffeccd5a21462a4c91b1ff.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر نگرش کوتاه‌مدت مدیران در چسبندگی هزینۀ شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>زهره</given_name>
+												<surname>حاجیها</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>کاوه</given_name>
+												<surname>قادری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>صلاح الدین</given_name>
+												<surname>قادری</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;هدف:&lt;/strong&gt; توضیح رفتار هزینه‌ها، اهمیت ویژه‌ای در مطالعات حسابداری و مالی دارد و مطالعات اخیر نشان داده است چسبندگی هزینه‌ها، بخشی جدانشدنی‌ از انگیزۀ مدیران را در کنترل و مدیریت هزینه‌ها شامل می‌شود. هدف از این پژوهش، بررسی ارتباط نگرش کوتاه‌مدت مدیریت و چسبندگی هزینه‌ها است.&lt;br /&gt; &lt;strong&gt;روش:&lt;/strong&gt;  برای اندازه‌گیری نگرش کوتاه‌مدت مدیریت، از سه معیار اقلام تعهدی اختیاری جاری و اقلام واقعی (با دستکاری فروش و کاهش مخارج اختیاری) و همچنین از سایر متغیرهای کنترلی مؤثر در چسبندگی هزینه همچون تعداد کارکنان، حجم دارایی، کاهش فروش متوالی، لگاریتم طبیعی به‌علاوۀ بازده سهام سالانۀ اولیه، جریان نقد آزاد و پرداخت‌های ثابت مدیران استفاده شده است. جامعۀ آماری پژوهش حاضر، 95 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران برای دورۀ زمانی 1384-1393 است.&lt;br /&gt; &lt;strong&gt;نتایج:&lt;/strong&gt; براساس نتایج پژوهش، رابطۀ مدیریت سود بر مبنای اقلام واقعی با کاهش مخارج اختیاری و چسبندگی هزینه‌ها پذیرفته می‌شود و گفتنی است نگرش کوتاه‌مدت مدیران، ارتباط منفی و معناداری با چسبندگی هزینه دارد.</abstract>
+									<keywords>
+									
+											<keyword>اقلام تعهدی اختیاری</keyword>
+											<keyword>چسبندگی هزینه</keyword>
+											<keyword>مدیریت سود</keyword>
+											<keyword>نگرش کوتاه‌مدت مدیریت</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>27</first_page>
+										<last_page>44</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_21185_cf3c63be546f8e29c43892d15c6cad79.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>توضیح بازده غیرعادی مرتبط با ریسک ورشکستگی با استفاده از الگوی دو بتا بر مبنای ریسک نرخ تنزیل و ریسک جریان نقدی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>داریوش</given_name>
+												<surname>فروغی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>هادی</given_name>
+												<surname>امیری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>ابراهیم</given_name>
+												<surname>صدرالدین</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;هدف&lt;/strong&gt;&lt;strong&gt;: &lt;/strong&gt;ناتوانی الگوی قیمت‌گذاری دارایی سرمایه‌ای در توضیح بازده غیرعادی مرتبط با ریسک ورشکستگی شرکت‌ها سبب شده است برخی از پژوهشگران بکوشند ریسک ورشکستگی را با استفاده از الگوی دو بتا توضیح دهند. الگوی دو بتا با استفاده از اخبار جریان نقدی و اخبار نرخ تنزیل، بتای بازار دارایی را به بتای جریان نقدی و بتای نرخ تنزیل تجزیه می‌کند. هدف این پژوهش، بررسی قابلیت الگوی دو بتا، در توضیح ریسک ورشکستگی شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران است.
+&lt;strong&gt;روش: &lt;/strong&gt;در این پژوهش، نمونه‌ای شامل 180 شرکت از میان شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران در سال‌های 1384 تا 1393 بررسی شد. برای رتبه‌بندی سهام شرکت‌ها به لحاظ ریسک ورشکستگی از الگوی اهلسون (1980) استفاده شده است.
+&lt;strong&gt;نتایج: &lt;/strong&gt;نتایج حاصل از الگوی دو بتا نشان می‌دهد متوسط صرف ریسک جریان نقدی برای شرکت‌های نمونه به‌طور معناداری، بزرگ‌تر از متوسط صرف ریسک نرخ تنزیل است. به‌علاوه، با افزایش ریسک ورشکستگی شرکت‌های نمونه، بتای نرخ تنزیل افزایش و بتای جریان نقدی کاهش می‌یابد؛ بنابراین با توجه به شواهد، توانایی الگوی دو بتا در توضیح ریسک ورشکستگی شرکت‌های بورس اوراق بهادار تهران تأیید می‌شود.</abstract>
+									<keywords>
+									
+											<keyword>الگوی احتمال ورشکستگی اهلسون</keyword>
+											<keyword>الگوی دو بتا</keyword>
+											<keyword>ریسک جریان نقدی</keyword>
+											<keyword>ریسک نرخ تنزیل</keyword>
+											<keyword>ورشکستگی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>45</first_page>
+										<last_page>58</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_22823_7371aa3c0f34b79de6d84d1da155daf3.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر ساز و کارهای حاکمیت شرکتی در به‌هنگام‌بودن اطلاعات سود</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مهدی</given_name>
+												<surname>علی نژاد ساروکلائی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>صفیه</given_name>
+												<surname>سالاری ساردویی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;هدف: &lt;/strong&gt;استفاده‌کنندگان صورت‌های مالی، سود را مبنایی برای اتخاذ تصمیم­های اقتصادی به کار می­برند که برای مفیدبودن در اخذ تصمیم‌های سرمایه­گذاران باید ویژگی­هایی ازجمله به‌هنگام‌بودن داشته باشد. ساز و کارهای حاکمیت شرکتی با افشای اطلاعات مالی شفاف، مشکلات نمایندگی را به حداقل می‌رساند. هدف این پژوهش، بررسی تأثیر ساز و کارهای حاکمیت شرکتی در به‌هنگام‌بودن اطلاعات سود در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهـران است.
+&lt;strong&gt;روش: &lt;/strong&gt;به‌هنگام‌بودن سود به‌عنوان یک ویژگی کیفی و نمادی از تغییر در ارزش بازار سهام و ساختار مالکیت (تمرکز مالکیت، مالکیت دولتی) و استقلال اعضای هیأت‌مدیره به‌عنوان ساز و کارهای حاکمیت شرکتی در نظر گرفته شده است. آزمون فرضیه‌های پژوهش با رویکرد تحلیل داده‌های تابلویی و به‌کارگیری نمونـه‌ای شامل 76 شـرکت پذیرفته‌شده در بورس اوراق بهادار تهـران بین سال‌های 1385 تا 1393 انجام شد.
+&lt;strong&gt;نتایج: &lt;/strong&gt;نتایج پژوهش نشان داد تمرکز مالکیت، تأثیر مثبت و معناداری در به‌هنگام‌بودن سود دارد؛ به عبارتی، هرچه تمرکز در مالکیت افزایش یابد، سود حسابداری شرکت­ها به‌هنگام‌تر است، همچنین مالکیت دولتی، اثر منفی و معناداری در به‌هنگام‌بودن سود دارد؛ ولی استقلال هیأت‌مدیره در به‌هنگام‌بودن سود، تأثیری ندارد.</abstract>
+									<keywords>
+									
+											<keyword>استقلال هیأت‌مدیره</keyword>
+											<keyword>به‌هنگام‌بودن سود</keyword>
+											<keyword>تمرکز مالکیت</keyword>
+											<keyword>حاکمیت شرکتی</keyword>
+											<keyword>مالکیت دولتی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>59</first_page>
+										<last_page>70</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_22619_245b71b5eb66a9f85ab510b037a37185.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی رابطۀ کارآیی سرمایه در گردش با انحراف از سطح بهینۀ ساختار سرمایه در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حسن</given_name>
+												<surname>زلقی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>روح اله</given_name>
+												<surname>آماره</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;اهداف:&lt;/strong&gt; واحدهای تجاری، راهکارهای جدیدی برای رشد و بهبود عملکرد مالی و کاهش ریسک در تأمین منابع مالی جستجو می‌کنند. با توجه به نقش کارآیی سرمایه در گردش در نحوۀ تأمین مالی شرکت‌ها، هدف، بررسی رابطۀ کارآیی سرمایه در گردش با انحراف از سطح بهینۀ ساختار سرمایه است. نوآوری این پژوهش استفاده از الگوی باتاچاریا برای اندازه‌‌گیری کارآیی سرمایه در گردش است.
+&lt;strong&gt;روش:&lt;/strong&gt; دورۀ مدنظر برای آزمون فرضیه‌ها، سال‌‌های 1385 تا 1396 بوده و از داده‌‌های 172 شرکت پذیرفته‌‌شده در بورس اوراق بهادار تهران استفاده شده است.
+&lt;strong&gt;نتایج:&lt;/strong&gt; نتایج حاصل از تخمین الگوی‌‌ پژوهش نشان می‌‌دهد با افزایش کارآیی سرمایه در گردش می‌توان میزان انحراف ساختار سرمایه از سطح بهینه را کاهش داد. افزون بر این، رابطۀ کارآیی سرمایه در گردش با انحراف از سطح بهینۀ ساختار سرمایه در شرکت‌های بیش‌اهرمی به‌‎صورت معناداری از شرکت‌های کم‌اهرمی، قوی‌تر است.</abstract>
+									<keywords>
+									
+											<keyword>کارآیی سرمایه در گردش</keyword>
+											<keyword>ساختار سرمایۀ بهینه</keyword>
+											<keyword>بیش‌اهرمی</keyword>
+											<keyword>کم‌اهرمی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>71</first_page>
+										<last_page>84</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23538_490c3da242fa619aca2306e20cb24be1.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کیفیت کارکنان شرکت و کیفیت سود پیش‌بینی‌‌شده به‌وسیلۀ مدیریت</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد حسن</given_name>
+												<surname>قلی زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>دکتر یاسر</given_name>
+												<surname>رضائی پیته‌نوئی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>غلامرضاپور</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;اهداف:&lt;/strong&gt; نتایج پژوهش‌های اخیر نشان می‌دهد کارکنان نقش مهمی در فعالیت‌های شرکت ایفا می‌کنند و پیش‌بینی می‌شود کارکنان با تحصیلات بالاتر، اطلاعات بهتری در اختیار مدیران شرکت قرار دهند و افزایش کیفیت اطلاعات مدیران سبب بهبود کیفیت سود پیش‌بینی‌شده به‌وسیلۀ آنها شود؛ ازاین‌رو، هدف پژوهش حاضر بررسی رابطۀ کیفیت کارکنان و کیفیت سود پیش‌بینی‌شده به‌وسیلۀ مدیریت در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران طی سال‌های 1392 تا 1396 است.
+&lt;strong&gt;روش&lt;/strong&gt;: برای سنجش کیفیت کارکنان، از سطح تحصیلات آنها و برای سنجش کیفیت سود پیش‌بینی‌شده به‌وسیلۀ مدیریت، از شاخص خطا و دقت پیش‌بینی سودِ مدیران استفاده شد. نمونۀ انتخاب‌شده از 84 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران تشکیل شده بود. فرضیه‌ها با بهره‌گیری از الگوی رگرسیون چندمتغیره مبتنی بر فن داده‌های تابلویی آزمون شدند.
+&lt;strong&gt;نتایج&lt;/strong&gt;: یافته‌ها نشان می‌دهد بین کیفیت کارکنان و خطای پیش‌بینی سود رابطۀ منفی معنادار و بین کیفیت کارکنان و دقت پیش‌بینی سود مدیران رابطۀ مثبت معنادار وجود دارد؛ یعنی کیفیت کارکنان شرکت، کیفیت پیش‌بینی سود ازطرف مدیریت را بهبود می‌بخشد.</abstract>
+									<keywords>
+									
+											<keyword>کیفیت کارکنان</keyword>
+											<keyword>سطح تحصیلات کارکنان</keyword>
+											<keyword>پیش‌بینی سود</keyword>
+											<keyword>دقت پیش‌بینی سود</keyword>
+											<keyword>خطای پیش‌بینی سود</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>85</first_page>
+										<last_page>98</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23680_974677757de31da633751c37c941b5ad.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تأثیر جریان نقد عملیاتی بر اقلام تعهدی غیرعادی شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران با تأکید بر نوع صنعت</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سجاد</given_name>
+												<surname>برندک</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>عسگر</given_name>
+												<surname>پاک مرام</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سعید</given_name>
+												<surname>علی پور</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;اهداف:&lt;/strong&gt; پیامدهای منفی اقلام تعهدی به جریان نقد عملیاتی بستگی دارد و هدف این پژوهش تعیین تأثیر جریان نقد عملیاتی بر اقلام تعهدی غیرعادی در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران با تأکید بر نوع صنعت است.
+&lt;strong&gt;روش:&lt;/strong&gt; برای محاسبۀ اقلام تعهدی غیرعادی از الگوی جونز تعدیل‌شده استفاده‌ شده است. فرضیه‌ها براساس داده‌های 118 شرکت بورس اوراق بهادار تهران طی دورۀ شش‌ساله (1390 تا 1395) با استفاده از الگوی رگرسیون چندمتغیره و داده‌های ترکیبی، آزمون و تجزیه ‌و تحلیل شد.
+&lt;strong&gt;نتایج:&lt;/strong&gt; یافته‌ها نشان می‌دهد بین جریان نقد عملیاتی و اقلام تعهدی غیرعادی رابطۀ معکوس معناداری وجود دارد. جریان نقد عملیاتی در صنایع خودرو و قطعات، صنعت دارویی و صنعت سیمان، آهک و گچ نیز رابطۀ معکوس و معناداری با اقلام تعهدی غیرعادی دارد و با کاهش جریان نقد عملیاتی، اقلام تعهدی غیرعادی افزایش می‌یابد. به‌طور کلی، پیامدهای منفی اقلام تعهدی به میزان جریان نقد عملیاتی بستگی دارد و شرکت‌های دارای جریان نقد عملیاتی منفی، ممکن است نتایج آزمون اقلام تعهدی غیرعادی را تحریف کنند.</abstract>
+									<keywords>
+									
+											<keyword>اقلام تعهدی غیرعادی</keyword>
+											<keyword>جریان نقد عملیاتی</keyword>
+											<keyword>نوع صنعت</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>99</first_page>
+										<last_page>12</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_24126_03f2dce0d2afe742cb73d593d34c6c39.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

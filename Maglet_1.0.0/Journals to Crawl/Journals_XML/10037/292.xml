@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1382</year>
+	<month>4</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2003</year>
+	<month>7</month>
+	<day>1</day>
+</pubdate>
+<volume>1</volume>
+<number>1</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>مدل سازی مسائل آب زیرزمینی با صفحه گسترده</title_fa>
+	<title>Solution of Groundwater Flow Problem Using Spreadsheet Modeling</title>
+	<subject_fa></subject_fa>
+	<subject></subject>
+	<content_type_fa></content_type_fa>
+	<content_type></content_type>
+	<abstract_fa>صفحه گسترده، ابزاری کاربردی برای حل مسائل جریان پایدار محبوس آب زیرزمینی است. روش کار بسیار ساده است، اما در عین حال بسیاری از شرایط جریان شامل نایکسانی، ناهمگنی، وجود منابع تخلیه و تغذیه و اشکال هندسی پیچیده را در بر می‌گیرد. به علاوه، چون معادلات صفحه گسترده به صورت دستی برنامه نویسی می‌شوند کاربر درک فیزیکی بسیار خوبی از مسأله خواهد داشت، معادلات حاکم برای شرایط جریان ناهمگن و نایکسان ایجاد می‌شوند. فرموله کردن ریاضی شرایط مرزی و در نظرگرفتن تخلیه وتغذیه در مدل‌سازی صفحه گسترده ارائه شده و حساسیت حل به انتخاب فواصل نقاط شبکه بندی شده و دقت جواب بررسی گردیده است. در پایان مزایا و محدودیتهای این روش در مقایسه با مدلهای عددی دیگر مقایسه گردیده است.</abstract_fa>
+	<abstract>(Paper pages 42-65 ) The spreadsheet modeling method is a practical tool for solution of the steady state, confined to the groundwater flow problems.The methodology is simple and includes many of the aspects of general flow condition such as anisotropy, heterogeneity, discharge, recharge, and irregular boundary shapes. The method incorporates numerical solution techniques for large matrices. In addition, since users program the equations in spreadsheet cells manually, the method provides good physical intuition for a groundwater flow problem. This may not always be the case when using commertial software programs. Especially it is a good teaching tool in the classroom for many students because they will understand the solution physically well. Governing equations could be developed for anisotropy and heterogeneous flow conditions. Mathematical treatment of boundary conditions is presented and the sink and sources incorporated into the domain of flow problem. The analysis shows that the solution is sensitive to the selection of the dimension of blocks or cells, node spacing and the number of iteration in spreadsheet program. Finally, advantages and limitations of solution methods are discussed in comparison with other numerical solution techniques. This method offers a number of advantages including, simplicity, accuracy and wide availability of spreadsheets such as Microsoft EXCEL. The method also has a number of limitations such as the necessity for hand programming in which viewed as shortcoming for accuracy and mistakes by handwriting and the speed of convergence of solution due to low order numerical techniques in the spreadsheet.</abstract>
+	<keyword_fa>آبهای زیرزمینی , نشت , هدایت هیدرولیکی , مدل سازی عددی , صفحه گسترده , </keyword_fa>
+	<keyword></keyword>
+	<start_page>42</start_page>
+	<end_page>65</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-3-29&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

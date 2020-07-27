@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-20T22:01:20Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22108">http://amf.ui.ac.ir/?_action=export&amp;rf=summon&amp;issue=3684</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-08-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مدیریت دارایی و تأمین مالی</title>
+									</titles>
+									<abstract></abstract>
+									<keywords>
+									
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>0</first_page>
+										<last_page></last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_19886_77b229cb83d8f24877d0ff484141ce7d.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-08-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>پیش‌بینی بازده آتی بازار سهام با استفاده از مدل‌های آریما، شبکه عصبی و نویززدایی موجک</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>میثم</given_name>
+												<surname>محمودی آذر</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رضا</given_name>
+												<surname>راعی</surname>
+											</person_name></contributors>
+									<abstract>موضوع شناخت و بررسی رفتار قیمت سهام، همواره یکی از موضوع‌های مهم و مورد توجه محافل علمی و سرمایه‌گذاری بوده است. اخیراً تعداد زیادی از پژوهشگران در پژوهش‌های خود بازار سهام را به عنوان یک سیستم پویای غیرخطی در نظر گرفته‌اند. در این پژوهش، تلاش شده است با استفاده از تبدیل موجک و شبکه عصبی مدلی ارایه شود که پیش بینی دقیق‌تر و با خطای کمتری از بازده شاخص بورس اوراق بهادار داشته باشد. در این مدل ترکیبی، از خاصیت هموارسازی تبدیل موجک برای کاهش سطح نویز داده‌ها استفاده و سپس به وسیله شبکه عصبی پیش‌بینی شده است. مقایسه خطای پیش بینی مدل‌های آریما، شبکه عصبی و شبکه عصبی موجکی نشان می‌دهد که کاهش نویز عملکرد پیش-بینی بازده شاخص را بهبود می‏بخشد. به بیان بهتر، مدل شبکه عصبی موجکی (نویززدایی سیگنال) عملکردی بهتر از مدل‌های آریما و شبکه عصبی دارد. همچنین، مدل‌های شبکه عصبی قدرت پیش‌بینی‏کنندگی بهتری را نسبت به مدل‌های آریما نشان می‌دهد. مقادیر مربوط به آزمون دایبولد – ماریانو نیز این نتایج را تایید می‏نماید.</abstract>
+									<keywords>
+									
+											<keyword>آریما</keyword>
+											<keyword>پیش بینی برون نمونه‌ای</keyword>
+											<keyword>شبکه عصبی</keyword>
+											<keyword>شبکه عصبی موجکی</keyword>
+											<keyword>نویززدایی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>16</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_19880_9c0c45ad6d0a19d209d5f8eb98d4cbfe.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-08-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی رابطه مدیریت سرمایه در گردش و هزینه‌های نمایندگی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>میثم</given_name>
+												<surname>علی محمدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مریم</given_name>
+												<surname>صابری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>نوروزی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمد رضا</given_name>
+												<surname>رستمی</surname>
+											</person_name></contributors>
+									<abstract>هدف این پژوهش، ارزیابی تأثیر مدیریت سرمایه درگردش برهزینه‌‌های نمایندگی شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران است. پرسش مطرح شده این است آیا متفاوت بودن ابزارهای مدیریت سرمایه در گردش شرکت‌ها بر میزان هزینه نمایندگی آنها تأثیر دارد؟ به عبارتی کدام‌ یک از ابزارهای مدیریت‌های سرمایه در گردش در کمتر شدن هزینه‌ای نمایندگی مؤثر است؟ در پژوهش حاضر هزینه نمایندگی تابعی از تعامل بین فرصت‌های رشد شرکت و جریان‌های نقدی آزاد تعریف شده است. بدین منظور اطلاعات 127 شرکت پذیرفته شده در بورس اوراق بهادار تهران، طی دوره زمانی 1392- 1387 به کار گرفته شده و فرضیه‌های پژوهش با استفاده از تحلیل رگرسیون چندگانه و آزمون همبستگی بررسی شده است. یافته‌های پژوهش نشان می‌دهد رابطه مثبت و معناداری بین متوسط دوره گردش موجودی کالا و هزینه نمایندگی وجود داشته، بین دوره وصول مطالبات و هزینه‌های نمایندگی رابطه معناداری به ‌لحاظ آماری وجود ندارد، همچنین بین دوره پرداخت بدهی‌ها و هزینه‌های نمایندگی رابطه معکوس و معناداری وجود دارد.</abstract>
+									<keywords>
+									
+											<keyword>هزینه نمایندگی</keyword>
+											<keyword>سرمایه در گردش</keyword>
+											<keyword>دوره وصول مطالبات</keyword>
+											<keyword>دوره پرداخت بدهی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>17</first_page>
+										<last_page>30</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_19884_e62691dca6177a9df6597bc16ae36288.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-08-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناسایی راهکارهای اسلامی جایگزین فروش استقراضی در بازار اوراق بهادار ایران و اولویت بندی آن ها با استفاده از روش TOPSIS</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمود</given_name>
+												<surname>خطیب</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>میثم</given_name>
+												<surname>احمدوند</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد جواد</given_name>
+												<surname>محقق نیا</surname>
+											</person_name></contributors>
+									<abstract>استفاده از راهکارهای معاملاتی از قبیل تأمین مالی خرید اعتباری و فروش استقراضی نقش انکارناپذیری در گسترش بازار سرمایه در کشورهای مختلف داشته‌اند. با این حال، بهره‌گیری از کارکردهای آن‌ها در بورس‌های اسلامی به‌دلیل ساختار قراردادهای مورد استفاده و دخیل بودن عوامل غیرشرعی با مشکلاتی همراه است. به همین دلیل پژوهشگران مالی در این کشورها تلاش کرده‌اند با کمک علمای اسلامی و به کارگیری راه‌کارهای معاملاتی اسلامی، از کارکردهای این ابزارها برای توسعه بازار سرمایه استفاده کنند. یکی از راهکارهای معاملاتی که کمک چشمگیری به افزایش نقدشوندگی بازار می‌کند، فروش استقراضی است. البته مغایرت این راهکار با برخی اصول اسلامی، پژوهشگران مالی اسلامی را بر آن داشته تا با استفاده از قراردادهای اسلامی، سازوکار شرعی مناسبی برای آن طراحی نمایند. در این مقاله، ابتدا فروش استقراضی و مزایا و آسیب‌های آن در بازار اوراق بهادار تبیین شده سپس، با استفاده از نظر خبرگان و روش TOPSIS و با توجه به معیارهای اتخاذ شده قانونی، مالی و فقهی، راهکارهای جایگزین فروش استقراضی بررسی و اولویت‌بندی گردیده و در نهایت مناسبترین روش برای پیاده‌سازی آن در بازار اوراق بهادار ایران معرفی می‌شود.</abstract>
+									<keywords>
+									
+											<keyword>بیع‌العربون</keyword>
+											<keyword>سلم</keyword>
+											<keyword>وعد</keyword>
+											<keyword>فروش استقراضی</keyword>
+											<keyword>روش TOPSIS</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>31</first_page>
+										<last_page>48</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_19881_ffa4a2ab2045805017e37d92f881330c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-08-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تحلیل دیدگاه سهامداران بزرگ به عمل واگذاری بلوکی سهام برای تأمین مالی بنگاه به روش مچینگ (مورد مطالعه: شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>راضیه</given_name>
+												<surname>صادق فلاح</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسین</given_name>
+												<surname>رضایی دولت ابادی</surname>
+											</person_name></contributors>
+									<abstract>هدف اصلی پژوهش حاضر، تحلیل دیدگاه سهامداران بزرگ به عمل واگذاری بلوکی سهام برای تأمین مالی بنگاه در بورس اوراق بهادار تهران است. برای این منظور، نمونه‌ای متشکل از 102 شرکت پذیرفته شده در بورس اوراق بهادار تهران طی سال‌های 1382 تا 1391 بررسی شده است. برای آزمون این دیدگاه از روش‌های همسان‌سازی بر اساس نمره گرایش (مچینگ) و رگرسیون لاجیت استفاده می‌گردد. نتایج به دست آمده ضمن تأیید دیدگاه مثبت و معنادار برخی از سهامداران بزرگ نسبت به واگذاری، بیانگر تأثیر منفی بزرگترین سهامدار، به دلیل محدودیت در فرصت‌های واگذاری، بر سیاست‌های بنگاه است. بنابراین، در صورت وجود فرصت‌های مناسب برای واگذاری، سهامداران از هر گونه ممانعت از این فعالیت، جلوگیری می‌نمایند.</abstract>
+									<keywords>
+									
+											<keyword>ساختار مالکیت</keyword>
+											<keyword>واگذاری</keyword>
+											<keyword>رگرسیون لاجیت</keyword>
+											<keyword>نمره گرایش</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>39</first_page>
+										<last_page>64</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_19885_5174430a694c1102545b61442673034e.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-08-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر تنوع‌سازی کسب و کار بر عملکرد و ارزش شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران به تفکیک درجه تمرکز صنعتی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سمانه</given_name>
+												<surname>شاهرضایی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حمزه</given_name>
+												<surname>دیدار</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>ایمانی برندق</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>حمزه</given_name>
+												<surname>دیدار</surname>
+											</person_name></contributors>
+									<abstract>درسال‌های اخیر، ارتباط بین عملکرد و تنوع شرکت موضوع مهم تجربی در مدیریت مالی شده است. استراتژی‌های تنوع در کسب و کار شرکت‌ها می‌توانند توازن رقابتی یک صنعت را تحت تأثیر قرار دهند. هدف این مقاله بررسی تأثیر تنوع‌سازی کسب‌وکار بر عملکرد و ارزش شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران است. برای دستیابی به این هدف از شاخص هرفیندال_هریشمن برای اندازه‌گیری تنوع‌سازی کسب‌وکار، برای ارزیابی عملکرد از شاخص کیوتوبین و برای ارزش شرکت از ارزش بازار هرسهم در پایان سال استفاده گردیده است. نمونه مورد بررسی شامل 125 شرکت در غالب 7 صنعت، در دوره زمانی 1381-1390 است. به منظور بررسی صحت فرضیه‌های پژوهش، از رگرسیون چندمتغیره مبتنی بر داده‌های تلفیقی به روش حداقل مربعات تعمیم یافته (EGLS) استفاده شده است. نتایج حاصل از آزمون فرضیه‌های پژوهش بیانگر این است که بین شاخص هرفیندال_هریشمن و عملکرد شرکت‌های مورد بررسی در صنایع رقابتی رابطه مستقیم و معنادار، در صنایع نیمه‌متمرکز رابطه معکوس و معنادار و در صنایع متمرکز رابطه معکوس و غیرمعناداری وجود دارد. و بین شاخص هرفیندال_هریشمن و ارزش شرکت‌های مورد بررسی در صنایع رقابتی، نیمه متمرکز و متمرکز رابطه معکوس و غیرمعناداری وجود دارد. در نتیجه می‌توان گفت که تنوع‌سازی کسب و کار، بر عملکرد شرکت‌های مورد پژوهش تأثیر مثبت و معنادار و بر ارزش شرکت‌های مورد پژوهش تأثیر منفی و غیرمعناداری داشته است.</abstract>
+									<keywords>
+									
+											<keyword>تنوع‌سازی کسب و کار</keyword>
+											<keyword>عملکرد</keyword>
+											<keyword>ارزش شرکت</keyword>
+											<keyword>شاخص هرفیندال_هریشمن</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>65</first_page>
+										<last_page>86</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_19882_a4d82102ff72bfbe5636a8d4b133e7e7.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-08-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تأثیر کیفیت افشا بر رابطه بین وجه نقد آزاد و ارزش شرکت</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>جواد</given_name>
+												<surname>مرادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>هاشم</given_name>
+												<surname>ولیپور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مهدی</given_name>
+												<surname>خادمی</surname>
+											</person_name></contributors>
+									<abstract>نگهداری وجوه نقد مازاد بر نیاز شرکت باعث سوء استفاده از وجوه و در نتیجه کاهش ارزش شرکت می‌شود. بدین منظور باید وجوه نقد را به اندازه مورد نیاز و در حد بهینه در شرکت نگهداری کرد و از طرفی برای جلوگیری از سوء استفاده باید نتایج حاصل از عملکرد مدیران شرکت افشا شود. مقاله حاضر تأثیر کیفیت افشا بر رابطه بین وجوه نقد آزاد و ارزش شرکت را با در نظر گرفتن فرصت رشد شرکت بررسی می‌کند. بدین منظور نمونه آماری شامل 70 شرکت پذیرفته شده در بورس اوراق بهادار تهران طی سال‌های 1383 تا 1391 بررسی شد. برای آزمون فرضیه‌ پژوهش مدل رگرسیون چند متغیره استفاده شد. یافته‌های پژوهش بیان می‌دارد زمانی که کیفیت افشای شرکت بالا باشد و شرکت فرصت رشد بالایی داشته باشد، جریان‌های نقد آزاد تأثیر مثبت و قوی‌تری بر ارزش شرکت دارند.</abstract>
+									<keywords>
+									
+											<keyword>افشا</keyword>
+											<keyword>وجه نقد آزاد</keyword>
+											<keyword>فرصت رشد</keyword>
+											<keyword>ارزش شرکت</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>87</first_page>
+										<last_page>98</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_19879_2206a928919e9e45a16696aee09a1972.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-08-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر اعتبار هیأت مدیره بر رابطه بین هزینه‌های نمایندگی و بازده غیرعادی انباشته در شرکت‌های بیش(کم) سرمایه گذار</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>شهین</given_name>
+												<surname>حیدرزاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>فرزین</given_name>
+												<surname>رضایی</surname>
+											</person_name></contributors>
+									<abstract>یکی از اصول مهم حاکمیت شرکتی، هیأت مدیره شرکت است که می‌تواند به گونه‌های مختلفی بر عملیات شرکت و نتایج آن، تأثیر بگذارد. یکی از مباحث موجود در زمینه موضوع هیأت مدیره، بر مسأله اعتبار هیأت مدیره تمرکز دارد. هدف از این پژوهش بررسی اثر اعتبار هیأت مدیره بر رابطه بین هزینه‌های نمایندگی و بازده غیرعادی انباشته در شرکت‌های بیش وکم سرمایه‌گذار است. در این پژوهش از اطلاعات جمع‌آوری شده 77 شرکت پذیرفته شده در بورس اوراق بهادار تهران طی سال‌های 1383 لغایت 1391 استفاده شده است. از نسبت مخارج سرمایه‌ای به عنوان شاخص اندازه گیری بیش (کم) سرمایه‌گذاری و از جریان نقدی آزاد و تعامل فرصت‌های رشد با جریان نقدی آزاد، به عنوان شاخص‌های هزینه نمایندگی استفاده شده است. روش این پژوهش، روش همبستگی و روش تحلیل، رگرسیون چند متغیره با الگوی داده‌های تلفیقی است. یافته‌های پژوهش نشان داد که هزینه‌های نمایندگی با بازده غیرعادی انباشته رابطه منفی و معنادار دارد و تأثیر اعتبار هیأت مدیره و عناصرآن (مدت تصدی هیأت مدیره، استقلال هیأت مدیره، عملکرد هیأت مدیره) بر این رابطه مثبت و معنادار است.</abstract>
+									<keywords>
+									
+											<keyword>اعتبار هیأت مدیره</keyword>
+											<keyword>بیش سرمایه‌گذاری</keyword>
+											<keyword>کم سرمایه‌گذاری</keyword>
+											<keyword>بازده غیرعادی انباشته</keyword>
+											<keyword>هزینه‌های نمایندگی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>08</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>99</first_page>
+										<last_page>122</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_19883_602870c26db6e4a7488144ae6af9e420.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

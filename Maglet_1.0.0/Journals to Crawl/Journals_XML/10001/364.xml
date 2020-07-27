@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>4</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2016</Year>
+					<Month>08</Month>
+					<Day>22</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Using Extreme Value Theory to Estimate Value at Risk (Case Study: Foreign Exchange rate)</ArticleTitle>
+<VernacularTitle>تخمین ارزش در معرض ریسک با استفاده از نظریه ارزش فرین(مطالعه‌ای در نرخ ارز)</VernacularTitle>
+			<FirstPage>77</FirstPage>
+			<LastPage>94</LastPage>
+			<ELocationID EIdType="pii">20641</ELocationID>
+			
+<ELocationID EIdType="doi">10.22108/amf.2016.20641</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>حجت اله</FirstName>
+					<LastName>صادقی</LastName>
+<Affiliation>دانشگاه یزد</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>سعیده</FirstName>
+					<LastName>بهبودی</LastName>
+<Affiliation>دانشگاه یزد</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>11</Month>
+					<Day>21</Day>
+				</PubDate>
+			</History>
+		<Abstract>This paper examines the extreme value theory as a useful measure for evaluation of extreme risk events (rare but high impact events). A common practice to calculate Value at Risk (VaR) is based on the assumption that changes in the value of the portfolio are normally distributed. However, assets returns usually come from fat-tailed distributions. Therefore, computing VaR under the assumption of conditional normality can be an important source of error. Extreme value theory does not follow from the central limit theorem in mathematics, and instead is focused on extreme data. Therefore, this study examines the extreme value theory is a powerful framework for studying tail distributions. USD return and volatility is considered as a case study in this article. The normality assumption was rejected by examining the distribution of logarithmic returns. The results suggest that the application of EVT make better fit than the other models that are based on the assumption of normality.</Abstract>
+			<OtherAbstract Language="FA"> این پژوهش، به معرفی نظریه ارزش فرین به‌عنوان سنجه‌ای مفید در اندازه‌گیری ریسک رویدادهای فرین (رویدادهای نادر، ولی با تأثیر بالا) می‌پردازد. رفتار مشترک در محاسبه ارزش در معرض ریسک برپایه این فرض است که تغییر در ارزش سبد سرمایه‌گذاری، توزیع نرمال دارد و مشروط بر اطلاعات گذشته است. با این حال، بازده دارایی‌ها به­طور معمول ازتوزیع‌هایی با دنباله‌های پرتراکم ناشی می‌شود. بنابراین، محاسبات ارزش در معرض ریسک تحت فرض نرمال بودن می‌تواند منبع اصلی اشتباه باشد. نظریه ارزش فرین از قضیه حد مرکزی در ریاضیات پیروی نمی‌کند و بر دنباله‌های توزیع به‌جای میانگین داده‌ها متمرکز است. ازاین‌رو در این مطالعه بیان می‌شود که نظریه ارزش فرین چارچوبی قوی برای مطالعه رفتار دنباله توزیع فراهم می‌نماید. نوسانات نرخ دلار آمریکا در سال 1390، به‌عنوان قلمرو موضوعی این پژوهش در نظر گرفته‌شده است. با بررسی توزیع بازده‌های لگاریتمی، فرض نرمال بودن این بازده‌ها رد شد و بدین جهت، نظریه ارزش فرین مبنای محاسباتی این پژوهشدر نظر گرفته شد. نتایج بیان می‌کند که به‌کارگیری رویکرد نظریه ارزش فرین در مدل‌سازی نوسانات دلار آمریکا، برازش بهتری نسبت به سایر مدل‌هایی دارد که فرض نرمال بودن را مبنای محاسباتی خود قرار می‌دهند.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">ارزش در معرض ریسک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نظریه ارزش فرین</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدیریت ریسک بازار</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">رویکرد حداکثر بلوک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">رویکرد فراتر از آستانه</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_20641_87a6c7ca59ff6d628ad74d31a3e52c7c.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

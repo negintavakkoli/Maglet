@@ -1,7 +1,7 @@
+import random
 import json
-pp = open('Journals_list.json', 'r')
 
-j = json.load(pp)
-print(type(j))
-for item in j:
-    print(item["owner"])
+with open("Journals_list_complete.json", "r") as n:
+    nn = json.load(n)
+random.shuffle(nn)
+print(nn[-5:])

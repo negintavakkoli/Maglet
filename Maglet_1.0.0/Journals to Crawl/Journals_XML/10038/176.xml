@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Effect of discontinuity surface roughness on the strength 
+of jointed rock samples</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Abolfazl</namePart>
+				<namePart type="given">Rezaeipoor</namePart>
+				<affiliation>  Rock Mechanics Division, Tarbiat Modares University, Tehran, Iran, h.nejati@modares.ac.ir</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Hamidreza</namePart>
+				<namePart type="given">Nejati</namePart>
+				<affiliation>   Rock Mechanics Division, Tarbiat Modares University, Tehran, Iran, h.nejati@modares.ac.ir</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Abdolhadi</namePart>
+				<namePart type="given">Ghazvinian</namePart>
+				<affiliation>Rock Mechanics Division, Tarbiat Modares University, Tehran, Iran, h.nejati@modares.ac.ir</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mir raoof</namePart>
+				<namePart type="given">Hadei</namePart>
+				<affiliation>Faculty of Engineering, Imam Khomeini International University, Qazvin, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>It is seldom possible that rock engineering structures found without joints, cracks, or discontinuities. Discontinuities are one of the most important phenomena that cause the mechanical anisotropy in rocks. This mechanical anisotropy would impose reduction of strength. Therefore the discontinuities and degree of their influence on the rocks must be studied carefully in order to define the behavior of rocks. The confining pressure, on the other hand, is an important parameter that controls the percentage effect of the rock discontinuities on the rock strength. The purpose of this study is evaluation of the effect of discontinuity surface roughness on strength of jointed rock samples at different confining pressures. For this purpose, an intensive laboratory investigation was undertaken to test jointed specimen at various discontinuity angles (β=0, 15, 30, 45, 60, 75 and 90 degrees) and confining pressures (0.5, 1.5, 2, 3.5 and 5 MPa). The rock discontinuities possess various roughness that were controlled by joint roughness coefficient (JRC=0, 7, 12 and 17). Fabricated artificial samples which included a rough discontinuity were prepared by Cement and Plaster of Paris. These specimens were used for simulation of mechanical anisotropy subjected to uniaxial and triaxial tests based on the ISRM suggested methods. The results of experimental tests indicated that, with an increase in discontinuity surface roughness and lateral pressure, the strength of the anisotropic samples increases. Also it is shown that the orientation of discontinuity influence on the strength of specimens and the maximum strength achieved at the specimen with β=25 to 50 degrees.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>1</start>
+					<end>14</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68370_20807fb62632efedadb7b3e4e001350b.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Estimation of brittleness index using point load test 
+(case study: Karaj tuff rock)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mahdi</namePart>
+				<namePart type="given">Hosseini</namePart>
+				<affiliation>Associate Prof., Department of Mining Engineering, Emam Khomeini International University,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mitra</namePart>
+				<namePart type="given">Hatami</namePart>
+				<affiliation>B.Sc. of Mining Engineering.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>  Brittleness is one of the most important inherent properties of rock which has a great effect on behavior of rock during various operations. For the time being, there is no standard method available for direct measurement of rock brittleness. So, different empirical relations and indirect methods have been provided by researchers to determine rock brittleness. Although the results are very different, but all of the methods suggest that rock brittleness is a function of strength (tensile strength and uniaxial compressive strength). This investigation has used initial data obtained from the tests on samples of Karaj Tuff rock and studied the relationship between point load index and concept of brittleness for this kind of rock. Most of the published literatures on the field of brittleness indicate that has been used three concepts to determine this index; including B1 (ratio of uniaxial compressive strength to tensile strength), B2 (ratio of the difference of uniaxial compressive strength and tensile strength to the sum of uniaxial compressive strength and tensile strength) and B3 (ratio of the multiplication of uniaxial compressive strength and tensile strength divided by two). The relationship between these three concepts and point load index is investigated for dry state using coefficient of determination analysis (R2). The results indicate that the highest value for coefficient of determination is achieved from Is(50)- B3; Also, Only a second order equation can reveal the relationship between the values of brittleness and point load index.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>15</start>
+					<end>26</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68371_1ae66d65c7fe225c41d26bf28c989ea3.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Discrete fracture network modeling for estimation of rock mass in-situ fragmentation in caving extraction methods</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Enayatollah</namePart>
+				<namePart type="given">Emami Meibodi</namePart>
+				<affiliation>. PhD Student of Mining Engineering, Shahrood University of Technology,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Seyed Mohammad Esmail</namePart>
+				<namePart type="given">Jalali</namePart>
+				<affiliation>Associate Prof., Department of Mining Engineering, Shahrood University of Technology</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Alireza</namePart>
+				<namePart type="given">Yarahmadi Bafghi</namePart>
+				<affiliation>Assistant Prof., Department of Mining Enginneering, Yazd University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>One of the most critical factors for estimation of cavability in prefeasibility stage in caving extraction methods is evaluation of In situ fragmentation. Poor estimation of this variable can lead to production and processing problems, or in the worst scenario, failure of the project. In recent years with help of new stochastic discontinuity geometrical modeling, joints those are the main factor for in situ fragmentation, modeled more in tune with reality. Often in nature, discontinuity persistence especially in joints is not infinite. This has a great impact on the cavability of ore bodies. In a new recent stochastic geometrical modeling that is named discrete fracture network (DFN), discontinuities modeled finite that is more in tune with reality. Mathematica Software is selected for writing 2dimensional discrete fracture network code (DFN2D), because of its good graphics and calculations abilities. This code (DFN2D) has good different abilities like producing of numerical and graphical outputs, making finite and infinite joints models, defining of complete blocks with computation of their areas from joints intersections, consideration of joints hierarchies, production of suitable outputs for numerical codes like UDEC &amp; PFC2D and statistics outputs of any model geometrical parameters. With processing of information from joint study in a copper mine and fitness of well probability density functions for any geometrical parameters of joint sets, 2D geometrical modeling with DFN2D was made. Statistics outputs from model and joint intensity and density had a good fitness with reality (input data). In situ fragmentation computed from area of complete blocks also rate of blocky area is defined.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>27</start>
+					<end>44</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68372_eee12a69e46a2ba4601093a288f05061.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>A study of environmental hazards of mehriz area's pollutants causing pollution in ground water resources of Yazd aquifer</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Hamid</namePart>
+				<namePart type="given">Mehrnahad</namePart>
+				<affiliation>Assistant prof. of Civil Engineering Department, Yazd University, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Hadi</namePart>
+				<namePart type="given">Pourdara</namePart>
+				<affiliation>Assistant prof. of Civil Engineering Department, Yazd University, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Pollutants that leak and spread in the ground causing harm. They move with the ground waters and can be seen in wells farther than the original location of pollution. If mineral or chemical materials or bacteria disturb the water quality in this research, environmental hazards of natural and industrial pollutants of Mehriz area are studied and the pollutions caused by them affecting the ground water resources of the Yazd-Ardakan plain which encompass 80% of Yazd water resources have been examined. In this research in order to choose wells for sampling, water well location maps, resulting from visiting and the location of pollutants were considered. In the studied area 10 wells were chosen for sampling and the sampling method used was casual sampling. According to the circumstances, characteristics of ground waters and level of solubility and the mobility of pollutants in ground waters were the chemical and biological parameters chosen for experiment and the prepared samples were tested with standard methods. According to the results from geological and geomorphological studies of the area and the effects of it on the ground water quality we cannot relate the high level of some parameters or fluctuations in the studied area to natural pollutions. The concentration maps prepared based on the experiment results of the water sample of the studied area show that the level of COD and nitrate increase in the direction which the ground water flow. Appearance of toxic and heavy metals of lead in some samples show that pollution has entered from an unnatural source. High amounts of chromium (Cr+6) in some samples is a result of industrial or agricultural waste entering the water resources. By using the results of this research ecological and biological problems of this exquisite area can be solved and decisions can be made regarding the establishment of clean industries which produce no pollution. In this way economic development and environmental issues are both considered important.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>45</start>
+					<end>57</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68373_2170c7671b786661386308f04fe2f76f.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Comparison of the interpolation methods for estimation and interpretion of the piezometric heads through embankment dams 
+(case study: Shahghasm dam)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Saeed</namePart>
+				<namePart type="given">Nouraei Nejad</namePart>
+				<affiliation>M.Sc Of Civil Engineering, snoraie@yahoo.com</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">mansoor</namePart>
+				<namePart type="given">Parvizi</namePart>
+				<affiliation>Assistant Prof.,  Department of Civil Engineering, Yasouj University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Ardeshir</namePart>
+				<namePart type="given">Shokrollahi</namePart>
+				<affiliation>. Professor, Department of Chemistry, Yasouj University.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Maryam</namePart>
+				<namePart type="given">Afrooz</namePart>
+				<affiliation>B.S Of Chemical Engineering.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Leakage of dams causes water losses and in some cases endangers the stability of the dam.  Controlling stability and safety of the dam is one of the most important challenges during construction and exploitations of civil projects. By obtained interpolation from piezometers, the water stability level of the dam can be achieved. After interpolations in Shahghasem dam by using surfer Software 9, the minimum curvature method having with lower values (RMSE = 5.26) and (MAE = 3.67) and (R2 = 0.77) is the best method for finding the height of water stability along Shahghasem dam. Polynomial regression and Kriging methods are the next priority. Consideration of iso-line map of the Kriging method showed a hole in dam foundation. The results of the minimum curvature method confirm the results of Kriging method and both results indicated a subsurface cavity too. Existence of this hidden cavity can be a danger for water loss and stability of dam.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>59</start>
+					<end>67</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68374_93caa29c952be50451c67be2ce66faea.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The assessment and analysis of the relationship between water pressure test and cement grout take at Seymareh dam grouting operation</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Hasan</namePart>
+				<namePart type="given">Bakhshandeh Amineh</namePart>
+				<affiliation>Associate Prof. Department of Mining Engineering, Kashan University,</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Majid</namePart>
+				<namePart type="given">Masoodi</namePart>
+				<affiliation>Ph.D. Studend of Mining EngineeringKashan University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>One of the properties that evaluate in geotechnical reviews at rock mass, is  the amount of permeability, that determine from water pressure test (WPT) and lugeon number. From the results of these test, use in determining of the amount of groutability in tunnel and dam site. Logical and practical relationship between amount of water penetration in Sections and cement grout take, leads to find  prediction model of  take amount in sections and so, necessity and the amount of grouting defined and will Cause to optimization of grouting operation in terms of technical and economic. In this study, using the Seymareh dam site data, relationship between lugeon number and grout take analysed. Then the effect of rock mass quality and depth of the grouting section to this relationship were studied. The results showed that in surface and much deep sections, penetration of water and grout, with correlation coefficients 0/86 and 0/82 have more relationship than central and deep sections, with coefficients 0/62 and 0/58. also in terms of quality of rock mass (according to RQD coefficient), in sections with very good and poor quality, these two parameters with correlation coefficients, respectively, 0/82 and 0/75, are closer together than good and medium sections with the coefficients 0/54 and 0/58. In central sections with state average quality, because of existence karst cavities and filling of joints and happening of hydraulic fracture, this correlation reduce.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>69</start>
+					<end>84</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68375_36d6c05334a5b852025909c9958a67a6.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Geotechnical investigation of 33 pole bridge structure in Isfahan using Ground- Penetrating Radar method</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Reza</namePart>
+				<namePart type="given">Ahmadi</namePart>
+				<affiliation>. دانشیار دانشکده مهندسی معدن، دانشگاه صنعتی اصفهان</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Nader</namePart>
+				<namePart type="given">Fathianpoor</namePart>
+				<affiliation>Associate Professor, Mining Engineering Department, Isfahan University of Technology</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>In present study, the Ground- Penetrating Radar (GPR) as a non-destructive method has been employed to investigate the foundation condition, type of materials and structural discontinuities of the well-known 33 pole bridge in Isfahan. To achieve this goal, the improved 2-D finite-difference algorithm is used to simulate the GPR responses of synthetic models resembling common geotechnical targets including layered earth (slab), horizontal cylinders and 2-D prisms. Through using a 500 MHz GPR system equipped with shielded antennas, 46 profiles comprising 36 transverse profiles in the east-west direction perpendicular to the main bridge axis, 7 longitudinal profiles in the north-south direction along the main bridge axis and 3 transverse profiles from the bases of the bridge were surveyed. Processing and interpretation of longitudinal and transverse radargrams revealed various in-homogeneities including reinforcing joists and rebars, blocks of stone and wooden timbers as well as ruptures and subsidences in several locations. Concrete slabs reinforced with joists and rebars, are mainly associated with recent repairs of the bridge while reinforced sections by stone blocks and wooden timbers are related to the ancient construction works which have suffered several fractures and subsidences.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>9</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>شماره 1 و 2</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>85</start>
+					<end>102</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_68376_c41ec7d07ae6b1f4d235224329498d85.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		</modsCollection>

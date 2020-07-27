@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1395</year>
+	<month>11</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2017</year>
+	<month>2</month>
+	<day>1</day>
+</pubdate>
+<volume>10</volume>
+<number>3</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>پهنه‌بندی خطر زمین‌لغزش در حوضۀ آبخیز طالقان با استفاده از روش سیستم‌های هوشمند  (روش شبکۀ عصبی مصنوعی مبتنی بر توابع پایه‌ای گوسی و شبکۀ عصبی پرسپترون)  </title_fa>
+	<title>Landslide Hazard Zonation in Taleghan watershed by using intelligent systems (Gaussian radial basis function and multilayer perceptron artificial neural networks)</title>
+	<subject_fa>ژئوتکنیک (مکانیک خاک و سنگ)</subject_fa>
+	<subject>Geotecnic</subject>
+	<content_type_fa>مقاله استخراج شده از پایان نامه</content_type_fa>
+	<content_type>Research Paper</content_type>
+	<abstract_fa>&lt;p dir=&quot;RTL&quot; style=&quot;margin-right: 1cm; text-align: justify; &quot;&gt;زمین&amp;shy;لغزش&amp;shy;ها هر سال خسارت&amp;shy;های مالی و جانی زیادی به&#8204;بار می&amp;shy;آورند. نقشه&amp;shy;های پهنه&#8204;بندی خطر زمین&amp;shy;لغزش می&amp;shy;توانند به کاهش این خسارت&amp;shy;ها کمک کنند. حوزۀ آبخیز طالقان از جمله&amp;shy; حوزه&amp;shy;های مستعد زمین&amp;shy;لغزش است که بررسی شده است. در این مقاله به پهنه&amp;shy;بندی خطر زمین&amp;shy;لغزش در این منطقه و در مقیاس 50000/1، و با در نظر داشتن لایه&amp;shy;های اطلاعاتی پراکندگی لغزش&amp;shy;ها، شیب، برای شیب، زمین&#8204;شناسی (لیتولوژی)، فاصله از گسل&amp;shy;ها، فاصله از آبراهه&amp;shy;ها، با روش شبکه&amp;shy;های عصبی مصنوعی مبتنی بر توابع پایه&amp;shy;ای گوسی (&lt;span dir=&quot;LTR&quot;&gt;RBF&lt;/span&gt;) و شبکه&#8204;های عصبی پرسپترون (&lt;span dir=&quot;LTR&quot;&gt;MLP&lt;/span&gt;) می&#8204;پردازیم. کلیات روش &lt;span dir=&quot;LTR&quot;&gt;RBF&lt;/span&gt; تا حدود زیادی مشابه شبکه&amp;shy;های عصبی پرسپترون (&lt;span dir=&quot;LTR&quot;&gt;MLP&lt;/span&gt;) است که تا کنون قابلیت آن مشخص شده&amp;shy; است و چندین تفاوت ساختاری در مؤلفه&amp;shy;ها بین این دوروش شبکۀ عصبی وجود دارد. از نتایج نهایی مشخص شد که نقشه&#8204;های حاصل از هر دو روش قابل قبول هستند و روش &lt;span dir=&quot;LTR&quot;&gt;MLP&lt;/span&gt; دقت بیش&#8204;تری نسبت به&#8204;روش &lt;span dir=&quot;LTR&quot;&gt;RBF&lt;/span&gt; دارد.&lt;/p&gt;
+</abstract_fa>
+	<abstract>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify; &quot;&gt;Landslides are natural hazards that make a lot of economical and life losses every year. Landslide hazard zonation maps can help to reduce these damages. Taleghan watershed is one the susceptible basin to landslide that has been studied. In this paper, landslide hazard zonation of the study area is performed at a scale of 1:50,000. To achieve this aim, layers information such as landslides distribution, slope, aspect, geology (lithology), distance from the faults and distance from rivers using artificial neural network-based Radial Basis Function (RBF) and perceptron neural network (MLP), has been studied. Principal of RBF method is similar to perceptron neural network (MLP), which its ability somewhat has been identified up to now and there are several structural differences between these two neural networks. The final results showed that the maps obtained from both methods are acceptable but the MLP method has a higher accuracy than the RBF method.&lt;/p&gt;
+</abstract>
+	<keyword_fa>پهنه‌بندی خطر زمین‌لغزش, طالقان, سیستم‌های هوشمند, شبکه‌های عصبی مصنوعی مبتنی بر توابع پایه‌ای گوسی, شبکه‌های عصبی مصنوعی پرسپترون, RBF, MLP</keyword_fa>
+	<keyword>Landslide hazard zonation, Taleghan, intelligent systems, artificial neural network, artificial neural networks, Perceptron, RBF, MLPLandslide hazard zonation, Taleghan, intelligent systems, artificial neural network, artificial neural networks, Perceptro</keyword>
+	<start_page>3601</start_page>
+	<end_page>3626</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-515-1&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>N</first_name>
+	<middle_name></middle_name>
+	<last_name>Salimi </last_name>
+	<suffix></suffix>
+	<first_name_fa>نرگس</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>سلیمی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>Narges.salimi69@gmail.com</email>
+	<code>10031947532846003549</code>
+	<orcid>10031947532846003549</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه خوارزمی، دانشکده علوم زمین،</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>M</first_name>
+	<middle_name></middle_name>
+	<last_name>FatemiAghda </last_name>
+	<suffix></suffix>
+	<first_name_fa>سید محمود</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>فاطمی عقدا</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email></email>
+	<code>10031947532846003550</code>
+	<orcid>10031947532846003550</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه خوارزمی، دانشکده علوم زمین،</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>M</first_name>
+	<middle_name></middle_name>
+	<last_name>Teshnehlab </last_name>
+	<suffix></suffix>
+	<first_name_fa>محمد</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>تشنه لب</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email></email>
+	<code>10031947532846003551</code>
+	<orcid>10031947532846003551</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی خواجه نصیرالدین طوسی، دانشکده مهندسی برق</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Y</first_name>
+	<middle_name></middle_name>
+	<last_name>Sharafi </last_name>
+	<suffix></suffix>
+	<first_name_fa>یوسف</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>شرفی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email></email>
+	<code>10031947532846003552</code>
+	<orcid>10031947532846003552</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه آزاد اسلامی تهران، واحد علوم وتحقیقات، گروه کامپیوتر</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

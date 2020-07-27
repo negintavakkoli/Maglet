@@ -1,0 +1,140 @@
+@article{ 
+author = {AmjadiSardehaei, Ehsan and TavakoliMehrjardi, Gholamhosei},  
+title = {Use of Artificial Neural Networks to Estimate Installation Damage of Nonwoven Geotextiles}, 
+abstract ={This paper presents a feed-forward back-propagation neural network model to predict the retained tensile strength and design chart to estimate the strength reduction factors of nonwoven geotextiles due to the installation process. A database of 34 full-scale field tests was utilized to train, validate and test the developed neural network and regression model. The results show that the predicted retained tensile strength using the trained neural network is in good agreement with the results of the test. The predictions obtained from the neural network are much better than the regression model as the maximum percentage of error for training data is less than 0.87% and 18.92%, for neural network and regression model, respectively. Based on the developed neural network, a design chart has been established. As a whole, installation damage reduction factors of the geotextile increases in the aftermath of the compaction process under lower as-received grab tensile strength, higher imposed stress over the geotextiles, larger particle size of the backfill, higher relative density of the backfill and weaker subgrades. &#160;},  
+Keywords = {Artificial neural networks (ANNs), Regression model, Nonwoven geotextiles, Retained tensile strength, strength reduction factor.},
+volume = {13},
+Number = {5}, 
+pages = {1-22}, 
+publisher = {Kharazmi University},
+title_fa = {استفاده از شبکه عصبی مصنوعی به‌منظور برآورد (تخمین) خرابی حین نصب ژئوتکستایل‌های بافته نشده  },
+abstract_fa ={این مقاله مدلی از شبکۀ عصبی پس انتشار را برای پیش&#8204;بینی (گویی) مقاومت کششی باقی&#8204;مانده و چارت طراحی به&#8204;منظور برآورد (تخمین) ضرایب کاهش مقاومت ژئوتکستایل&#8204;های بافته نشده که تحت فرآیند نصب قرار گرفته اند، ارائه می&#8204;کند. 34 داده از تست های برجای مقیاس کامل برای آموزش، صحت&#8204;سنجی و آزمایش شبکه عصبی ایجاد شده (توسعه یافته) و مدل رگرسیونی استفاده شده است. نتایج نشان می دهد که، پیش&#8204;بینی مقاومت کششی باقی&#8204;مانده با استفاده از شبکۀ عصبی آموزش داده شده، تطابق خوبی با نتایج آزمایشگاهی دارد. پیش&#8204;بینی های به&#8204;دست آمده از شبکۀ عصبی بسیار بهتر از مدل رگرسیونی هستند، به&#8204;طوری&#8204;که درصد خطای حداکثر داده های آموزش داده شده برای شبکه عصبی و مدل رگرسیونی به&#8204;ترتیب کم&#8204;تر از 87/0 درصد و 92/18 درصد است. بر اساس شبکۀ عصبی توسعه یافته، یک چارت طراحی ایجاد شده است. به&#8204;طور&#8204;کلی، ضرائب کاهش مقاومت ژئوتکستایل ها ناشی از خرابی نصب هنگامی که عملیات تراکم در شرایطی اعم از مقاومت کشش چنگکی نمونه پیش از نصب کم&#8204;تر، تنش اعمالی روی ژئوتکستایل بیش&#8204;تر، مصالح خاکریز با اندازۀ دانه بزرگ تر، تراکم نسبی مصالح خاکریز بیش&#8204;تر و بستر ضعیف تر انجام می&#8204;&#8204;شود، افزایش می یابد. &#160;},
+keywords_fa = { شبکۀ عصبی مصنوعی, مدل رگرسیونی, ژئوتکستایل های بافته نشده, مقاومت کششی باقی‌مانده, ضریب کاهش مقاومت},
+url = {http://jeg.khu.ac.ir/article-1-2655-en.html},  
+eprint = {http://jeg.khu.ac.ir/article-1-2655-en.pdf},  
+journal = {Journal of Engineering Geology},  
+issn = {2228-6837}, 
+eissn = {}, 
+year = {2020}  
+}
+
+@article{ 
+author = {Darvishpour, Alireza and Ghanbari, Ali and Hosseini, Seyyed Ali Asghar and Nekooei, Masou},  
+title = {An Analytical Ssolution for Estimating the Effect of Soil-Structure Interaction on 3D Vibration Natural Frequency of Reinforced Retaining Walls}, 
+abstract ={One of the effective parameters in the dynamic behavior of reinforced soil walls is the fundamental vibration frequency. In this paper, analytical expressions for the first three natural frequencies of a geosynthetic reinforced soil wall are obtained in the 3D domain, using plate vibration theory and the energy method. The interaction between reinforced soil and the wall is also considered by modeling the soil and the reinforcement as axial springs. The in-depth transverse vibration mode-shapes, which were impossible to analyze via 2D modeling, are also analyzed by employing plate vibration theory. Different behaviors of soil and reinforcements in tension and compression are also considered for the first time in a 3D analytical investigation to achieve a more realistic result. The effect of different parameters on the natural frequencies of geosynthetic reinforced soil walls are investigated, including the soil to reinforcement stiffness ratio, reinforcement to wall stiffness ratio, reinforcement length, backfill width and length to height ratio of the wall, using the proposed analytical expressions. Finally, the results obtained from the analytical expressions proposed are compared with results from the finite element software Abaqus and other researchers&#8217; results, showing that the proposed method has high accuracy. The proposed method will be a beginning of the 3D analytical modeling of reinforced soil walls. &#160;},  
+Keywords = {Analytical method, Reinforced Retaining Wall, Natural Frequency, Shape Mode, 3D Vibration.tion},
+volume = {13},
+Number = {5}, 
+pages = {23-58}, 
+publisher = {Kharazmi University},
+title_fa = {},
+abstract_fa ={یکی از پارامترهای تاثیرگزار بر رفتار دینامیکی دیوارهای خاک مسلح فرکانس اساسی سیستم است. در این مقاله با استفاده از تئوری صفحه&#8204;ها و مباحث انرژی، روابطی تحلیلی برای سه مود اول ارتعاش دیوارهای خاک مسلح ژئوسنتتیکی ارائه شده است. هم&#8204;چنین اندرکنش بین دیوار و خاک مسلح به&#8204;وسیله یک سری فنرهای محوری مدنظر قرار گرفته است. هم&#8204;چنین مودهای ارتعاش داخل صفحه که در مدل&#8204;سازی دوبعدی قابل بررسی نبود، در این مقاله به&#8204;وسیله تئوری صفحه&#8204;ها مدنظر قرار گرفته است. برای اولین بار در یک تحلیل سه&#8204;بعدی برای هرچه به واقعیت نزدیک&#8204;تر شدن مدل&#8204;سازی، رفتار متفاوت خاک و مسلح کننده&#8204;ها در فشار و کشش نیز مدنظر قرار گرفته است. تأثیر پارامترهای مختلفی از جمله نسبت سختی خاک به مسلح کننده&#8204;ها، نسبت سختی مسلح کننده به دیوار، طول مسلح کننده&#8204;ها، نسبت عرض و طول مسلح کننده به ارتفاع دیوار در روابط ارائه شده بررسی شده است. در نهایت نتایج به&#8204;دست آمده از روابط تحلیلی ارائه شده در این تحقیق با نتایج حاصل از مدل&#8204;سازی المان محدود به&#8204;وسیلۀ نرم&#8204;افزار آباکوس و هم&#8204;چنین نتایج دیگر محققان مقایسه شده است، که نشان از دقت زیاد روابط ارائه شده دارد. روش ارائه شده آغازی بر ارائه روابط تحلیلی سه بعدی برای دیوار های خاک مسلح است.},
+keywords_fa = {روش تحلیلی, دیوار حائل مسلح, فرکانس طبیعی, شکل مودی, ارتعاش سه بعدی},
+url = {http://jeg.khu.ac.ir/article-1-2570-en.html},  
+eprint = {http://jeg.khu.ac.ir/article-1-2570-en.doc},  
+journal = {Journal of Engineering Geology},  
+issn = {2228-6837}, 
+eissn = {}, 
+year = {2020}  
+}
+
+@article{ 
+author = {Firuzi, Mahnaz and Ghobadi, Mohammad Hossein and Noorzad, Ali and Dadashi3, Ehs},  
+title = {Analysis of a Large-Scale Landslide Using Shear Strength Reduction Factor Method, Case Study: Manjil Landslide}, 
+abstract ={Slope stability could be a major concern during the construction of infrastructures. This study is focused to analyze the slope stability of Manjil landslide that was located 41+400 to 42+200 km along Qazvin-Rasht freeway, Iran. The Manjil landslide, which had 168 m long and approximately 214 m wide, was occurred due to inappropriate cutting in June 2013 and led to destructive and closure of freeway. Slope stability analysis was carried out using a finite element shear strength reduction method (FE-SRM). The PHASE2D program was utilized in order to model the slope cutting and stability of landslide. Slope angle was flatted with 3H:2V geometry and stabilized with piling. The results indicated safety factors of 1.95 and 1.17 in the static and pseudo-static states, respectively, while the maximum bending moment with single pile (SP) in the pseudo-static state was 5.69 MN. Maximum bending moment of the pile around the slip surface was significantly large and more than the bending moment capacity of the pile. Due to the large bending moment on the pile, pile-to-pile cap connections (two pile group: 2PG) should be designed at the toe of the slope. The obtained results showed reduction of this parameter to 2.48 MN. Thus, it can be concluded that 2PG is a suitable stabilization method for the Manjil landslide.},  
+Keywords = {Manjil landslide, Finite element model, Shear strength reduction factor method, Pile-to-pile cap connections, Stability analysis.},
+volume = {13},
+Number = {5}, 
+pages = {59-92}, 
+publisher = {Kharazmi University},
+title_fa = {پایدارسازی زمین لغزش بزرگ منجیل براساس تحلیل عددی به‌روش فاکتور کاهش مقاومت برشی(FE-SRM)},
+abstract_fa ={پایدارسازی شیب موضوعی مهم در ساخت پروژه&#8204;های خطی است. در این پژوهش پایدارسازی زمین&#173;لغزش بزرگ منجیل که در حد فاصل کیلومتر 400+41 تا 200+42 آزادراه قزوین- رشت اتفاق افتاده است، تجزیه و تحلیل شده است &#160;و طرح پایدارسازی آن بررسی شده است. زمین&#173;لغزش مذکور تقریباً 168 متر طول، 214 متر عرض داشته و براثر ایجاد ترانشه نامناسب در سال 2013 رخ داد و منجر به بسته شدن مسیر آزادراه شد. تجزیۀ پایدارسازی براساس تحلیل عددی به&#8204;روش فاکتور کاهش مقاومت برشی (FE-SRR) انجام شده است. بدین&#8204;منظور از نرم&#8204;افزار PHASE2D استفاده شده است. در ابتدا دامنۀ با شیب 3H:2V سبک&#8204;سازی شد. نتایج مدل&#8204;سازی نشان می&#173;دهد که ضریب اطمینان در حالت استاتیکی و شبه استاتیکی به&#8204;ترتیب برابر 95/1 و 17/1 است. در حالی که حداکثر گشتاور خمشی با شمع تک پایه&#173;ایی در حالت شبه استاتیکی &#160;MN69/5 است. حداکثر گشتاور خمشی در سطح لغزشی بیش&#8204;تر از ظرفیت خمشی شمع است. بنابراین برای پایدارسازی زمین&#173;لغزش اجرای شمع دو پایه&#173;ای (2PG) در پاشنه لغزش پیشنهاد داده شد. نتایج تحلیل&#8204;ها نشان می&#173;دهد که با اجرای این طرح پارامتر مذکور تا MN48/2 کاهش پیدا می&#8204;کند. بنابراین می&#173;توان نتیجه گرفت که پایدارسازی به&#8204;وسیلۀ شمع دو پایه&#173;ایی برای زمین&#173;لغزش منجیل مناسب است.},
+keywords_fa = {زمین لغزش منجیل, روش فاکتور کاهش مقاومت برشی, شمع دو پایه ایی, تجزیۀ پایدارسازی},
+url = {http://jeg.khu.ac.ir/article-1-2745-en.html},  
+eprint = {http://jeg.khu.ac.ir/article-1-2745-en.docx},  
+journal = {Journal of Engineering Geology},  
+issn = {2228-6837}, 
+eissn = {}, 
+year = {2020}  
+}
+
+@article{ 
+author = {Jabari, Ahmad and Hosseini, Mehdi},  
+title = {The Effect of Heating-Cooling Process on Mode I Fracture Toughness of Rocks}, 
+abstract ={In cases such as explosion, fire, deep drilling and geothermal energy extraction, rocks are exposed to high temperatures influencing the rock toughness. Thus, the aim of this study is to investigate the effect of temperature on the fracture toughness of the rocks. In this study, the effect of temperature on the mode I fracture toughness is investigated. To this end, three-point bending tests were performed on semicircular specimens of four types of natural rocks including sandstone, limestone, tuff, andesite, and a series of concrete specimens to determine the fracture toughness. The specimens were first heated to 100, 200, 300, 500 and 700 &#176;C. After reaching the desired temperatures, the specimens were cooled. A series of tests was performed on the specimens at ambient temperature (25 &#176;C). The heating rate in the electric furnace was 15 &#176;C/min in accordance with the temperature rise in fires. Petrographic studies and X-ray diffraction analysis (XRD) were performed to identify the composition of the rocks. Furthermore, the effective porosity and the weight loss of heated specimens were determined to study the behavior of rocks. Comparison of the test results indicated the higher impact of temperature on the fracture toughness of fine-grained rocks. In addition, the fracture toughness decreased by increasing the effective porosity and decreasing the weight loss. According to the results, the mode I fracture toughness of sandstone, tuff, limestone, andesite and concrete specimens underwent a heating-cooling cycle up to 700 &#176;C respectively decreased 45, 17, 44 and 9.5 and 37 percent compared with that of unheated specimens. &#160;},  
+Keywords = {Fracture toughness, mode I, heating, three-point bending, heating-cooling cycle},
+volume = {13},
+Number = {5}, 
+pages = {93-120}, 
+publisher = {Kharazmi University},
+title_fa = {اثر فرآیند گرم شدن سرد شدن روی چقرمگی شکست مود I سنگ‌ها},
+abstract_fa ={در مواردی از قبیل انفجار، آتش&#173;سوزی و حفاری&#173;های عمیق، سنگ&#8204;ها تحت حرارت چشم&#8204;گیری قرار می&#173;گیرد. از این&#8204;رو اثر درجه حرارت بر چقرمگی شکست مود I که هدف این تحقیق است ضروری به&#8204;نظر می&#173;رسد. برای رسیدن به این هدف روی نمونه&#8204;های نیم&#8204;دایره&#173;ای چهار نوع سنگ طبیعی شامل ماسه&#173;سنگ، سنگ&#173;آهک، توف، آندزیت و یک سری&#160; نمونه&#173;های بتنی آزمایش خمش سه&#173;نقطه&#173;ای برای تعیین چقرمگی شکست مود I انجام شده است. آزمایش&#173;ها، روی نمونه&#173;هایی انجام شده است که ابتدا تا دمای 100، 200، 300، 500 و 700 درجۀ سانتی&#173;گراد گرم و بعد از رسیدن به دماهای مورد نظر سرد شده&#173;اند و یک سیکل گرم شدن و سرد شدن را تحمل کرده&#173;اند. البته یک سری آزمایش روی نمونه&#173;ها در دمای محیط(25 درجۀ سانتی&#173;گراد) نیز انجام شده است. سرعت افزایش دما برای نمونه&#173;ها در کوره الکتریکی، 15 درجۀ سانتی&#173;گراد بر دقیقه و متناسب با افزایش دما در فرآیند آتش&#173;سوزی در نظر گرفته شده است. برای شناخت ترکیب سنگ&#173;ها مطالعات سنگ&#173;شناسی و تحلیل پراش اشعه ایکس (XRD) انجام شه است. علاوه بر این، به&#173;منظور بررسی رفتار سنگ&#160; مقدار تخلخل مؤثر و کاهش وزن نمونه&#8204;های حرارت دیده نیز تعیین شده است. مقایسۀ نتایج آزمایش&#8204;ها نشان داد که اثر دما بر چقرمگی شکست سنگ&#8204;های ریزدانه بیش&#8204;تر است. علاوه بر این، چقرمگی شکست با افزایش تخلخل مؤثر و کاهش افت وزن کاهش می&#8204;یابد. نتایج آزمایشگاهی نشان می&#173;دهد که مقدار چقرمگی شکست مود I&#160; نمونه&#8204;های ماسه سنگ، توف، سنگ آهک، آندزیت و بتن که &#160;یک سیکل گرمایش (تا 700 درجه)- سرمایش &#160;را تحمل کرده&#8204;اند در مقایسه با نمونه&#8204;های حرارت ندیده به&#8204;ترتیب 45، 17، 44 و 5/9 و 37 درصد کاهش یافته است.&#160;},
+keywords_fa = {چقرمگی شکست, مود I, گرمایش, خمش سه‌نقطه ای, سیکل گرم شدن – سرد شدن},
+url = {http://jeg.khu.ac.ir/article-1-2824-en.html},  
+eprint = {http://jeg.khu.ac.ir/article-1-2824-en.pdf},  
+journal = {Journal of Engineering Geology},  
+issn = {2228-6837}, 
+eissn = {}, 
+year = {2020}  
+}
+
+@article{ 
+author = {Mokhtari, Maryam and Barkhordari, Kazem and AbbasiKarafshani, Saei},  
+title = {A Comparative Study of the Seismic Response of Soil-Nailed Walls under the Effect of Near-fault and Far-fault Ground Motions}, 
+abstract ={In recent years, with the growing use of the nailing method for stabilizing excavation walls, there has been a need for a comprehensive investigation of the behavior of this method. In the&#160; previous studies, the behavior of nailed walls has been investigated in static and dynamic states and under different conditions. However, due to the different feature of near-field ground motions, it is&#160; necessary to study the effect of these motions on the behavior of the nailed walls. Near-fault ground motion is significantly affected by the earthquake record direction and the rupture mechanism. So, in this study, to compare the effects of near-field and far-field ground motions, a two-dimensional (2D) soil- nailed wall was considered. PLAXIS 2D was used for the modeling of the soil-nailed wall system. An excavation with a dimension of 10 meters in height was taken into the account. In this study, 10 records (Five fault-normal near-field ground motion records and five far-field ground motion records), were recorded&#160; on the rock and&#160; applied to the model. These ground motion records were derived from the near-fault ground motion record set used by Baker. These records were scaled to the Peak Ground Acceleration (PGA) of 0.35g and then applied to the bottom of the finite element models. Mohr-Coulomb model was then used to describe the soil behavior, and Elasto-plastic model was employed for the nails. A damping ratio of 0.05 was considered at the fundamental periods of the soil layer. The results showed that the&#160; generated values of bending moment, shear force and axial force in nails under the effect of the near-fault ground motions were&#160; more than those in the far-ault ground motions. These values were&#160; almost equal to 23% for the maximum bending moment, 30% for the&#160; shear force,&#160; and 22% for the axial force. The created displacement under the effect of near-fault ground motions was&#160; more than that in the far-fault since a higher energy was&#160; applied to the model in the near-field ground motions during a short time (pulse-like ground motions). In contrast, in the far-fault ground motions, due to the more uniform distribution of energy during the record, such pulse-like displacements were not observed in the system response. Increasing in nail length and soil densification, decreases the displacement of the soil-nailed wall but does not change the general behavior of the soil under the effect of near-field ground motions. Based on the obtained results, for a constant PGA, there were&#160; positive correlations between the values of the&#160; maximum displacement on the top of the wall and&#160; the PGV values of near-fault ground motion records. However, the mentioned correlations were&#160; not observed in the case of far-fault ground motions.},  
+Keywords = {Soil-nailed walls, Near-fault Ground Motions, Finite element method, PLAXIS2D, Numerical modeling},
+volume = {13},
+Number = {5}, 
+pages = {121-146}, 
+publisher = {Kharazmi University},
+title_fa = {بررسی مقایسه ای پاسخ لرزه ای دیوار میخ کوبی شده تحت اثر زلزله های نزدیک و دور از گسل},
+abstract_fa ={در سال&#173;های اخیر با گسترش استفاده از روش میخ&#173;کوبی برای تثبیت دیوارۀ گودبرداری&#173;ها، نیاز به بررسی جامع رفتار این روش احساس می&#173;شود. در پژوهش&#8204;های پیشین، رفتار دیوار میخ&#173;کوبی&#173;شده در حالت&#173;های استاتیکی و دینامیکی تحت شرایط مختلف بررسی شده&#173;اند اما با توجه به ماهیت متفاوت زلزله&#173;های حوزۀ نزدیک گسل، بررسی اثر این حرکات روی رفتار دیوار میخ&#173;کوبی&#173;شده ضروری است. از این&#8204;رو در این پژوهش با در نظر گرفتن یک مدل دوبعدی گودبرداری، اثر زلزله&#173;های حوزه نزدیک و حوزه دور از گسل روی پاسخ مدل بررسی شده است. برای تشریح رفتار خاک از مدل موهر کولمب و برای میخ&#173;ها پارامترهای الاستیک و پلاستیک در نظر گرفته شده است. هم&#8204;چنین با توجه به قابلیت&#173;های نرم&#173;افزارPLAXIS 2D ، برای مدل&#173;سازی روند گودبرداری، از روش ساخت مرحله&#173;ای استفاده شده است. در این بررسی، 10 شتاب&#8204;نگاشت زلزله (5 شتاب&#8204;نگاشت زلزله حوزۀ نزدیک و 5 شتاب&#8204;نگاشت زلزله حوزۀ دور)، که روی سنگ سخت ثبت شده&#173;اند، به کف مدل اعمال شد. مقادیر لنگرخمشی، نیروی برشی و نیروی محوری ایجاد شده در میخ&#173;ها، در حالت زلزله حوزۀ نزدیک بزرگ&#8204;تر از مقادیر ایجاد شده تحت زلزله&#173;های حوزه دور هستند. این مقادیر تقریباً برای بیشینۀ لنگرخمشی برابر 23 درصد، نیروی برشی 30 درصد و نیروی محوری 22 درصد هستند. به&#8204;دلیل این که در زلزله&#173;های حوزۀ نزدیک انرژی بیش&#8204;تری در مدت زمان کم&#8204;تری به مدل اعمال می&#173;شود (به&#8204;دلیل وجود پالس) تغییرمکان ایجاد شده نیز بیش&#8204;تر است. افزایش طول میخ و سختی موجب کاهش تغییر مکان دیوار میخ کوبی شده تحت زلزله حوزۀ نزدیک می شود، مع&#8204;ذلک رفتار کلی خاک&#160; تحت این زلزله عوض نمی&#8204;شود. بر مبنای نتایج به&#8204;دست آمده در یک حداکثرشتاب ثابت رابطۀ مستقیمی بین حداکثر پیک سرعت و جابه&#8204;جایی بالای دیوار وجود دراد. لیکن رابطۀ ذکر شده در زلزله&#8204;های حوزۀ دور مشاهده نمی&#8204;شود.},
+keywords_fa = {دیوار میخ کوبی شده, زلزله حوزه نزدیک, روش اجزا محدود,2D PLAXIS, مدل سازی عددی},
+url = {http://jeg.khu.ac.ir/article-1-2791-en.html},  
+eprint = {http://jeg.khu.ac.ir/article-1-2791-en.pdf},  
+journal = {Journal of Engineering Geology},  
+issn = {2228-6837}, 
+eissn = {}, 
+year = {2020}  
+}
+
+@article{ 
+author = {Eliyas, Ehsan Taherabadi},  
+title = {Impact of Micropiles Installation on Liquefaction Potential of Saturated Silty Sand Using Numerical Method}, 
+abstract ={This paper investigates the effect of micropile installation into saturated sandy soil by means of finite element method. The obtained results from numerical modeling are compared with the received data from the site. The validation of software has been done by simulating standard penetration test. The effect of some changes in spacing (3m, 1.6m and 0.8m) and injection pressure (1cm, 2.5cm, 5cm and 10cm boundary displacement) micropiles on liquefaction behavior was discussed. The results show that numerical modeling presented a conservative conclusion about the potential of liquefaction. The modification of soil increased by increasing injection pressure of grout. Also, it was observed that the effect of micropile spacing has less impact than the injection pressures up to 1m free distance of micropiles. Then for closer micropiles, the effect of spacing and the effect of pressure became bold and intensive, respectively. Because of direct relationship between number of SPT and liquefaction potential, it would be necessary to simulate SPT and to validate with the real data, before and next of micropile installation. This approach can be a proper way of forecasting the efficiency degree of modification by micropiles and could save costs and time.},  
+Keywords = {Numerical simulation, micropile, saturated sand, liquefaction potential.l.},
+volume = {13},
+Number = {5}, 
+pages = {147-176}, 
+publisher = {Kharazmi University},
+title_fa = {اثر نصب میکروپایل بر پتانسیل روان‌گرایی ماسه سیلتی اشباع به‌کمک مدل‌سازی عددی   },
+abstract_fa ={این تحقیق به&#8204;بررسی اثر نصب میکروپایل بر خاک ماسه&#8204;ای اشباع، به&#8204;کمک روش المان محدود می&#8204;پردازد. نتایج به&#8204;دست آمده از مدل&#8204;سازی عددی با نتایج حاصل از ساختگاه مقایسه می&#8204;شود. عملکرد نرم&#8204;افزار با شبیه&#8204;سازی آزمایش نفوذ استاندارد صحت&#8204;سنجی شده است. اثر برخی تغییرات در فاصلۀ (3 متر، 6/1 متر و 8/0 متر) و تغییرمکان مرز مدل معادل فشار تزریق (1 سانتی&#8204;متر، 5/2 سانتی&#8204;متر، 5 سانتی&#8204;متر و 10 سانتی&#8204;متر) میکروپایل&#8204;ها بر پاسخ روان&#8204;گرایی خاک بحث شد. نتایج نشان می&#8204;دهد که مدل عددی در تخمین پتانسیل روان&#8204;گرایی محافظه&#8204;کار است. اصلاح خاک با افزایش فشار تزریق افزایش می&#8204;یابد. هم&#8204;چنین مشاهده شد اثر فاصلۀ میکروپایل&#8204;ها نسبت به اثر فشار تزریق (تا فاصلۀ آزاد 1 متری میکروپایل&#8204;ها) کم&#8204;تر است. پس برای فواصل نزدیک&#8204;تر اثر توأمان فاصله و فشار تزریق شدیدتر می&#8204;شود. به&#8204;علت رابطۀ مستقیم عدد نفوذ استاندارد (NSPT) و پتانسیل روان&#8204;گرایی، شبیه&#8204;سازی آزمایش نفوذ استاندارد و صحت&#8204;سنجی با داده&#8204;های ساختگاه، پیش و پس از نصب میکروپایل&#8204;ها ضروری به&#8204;نظر می&#8204;رسد. این روش می&#8204;تواند ترفند مناسبی برای پیش&#8204;بینی راندمان عملیات اصلاح خاک به&#8204;کمک میکروپایل&#8204;ها باشد و می&#8204;تواند در هزینۀ و زمان صرفه&#8204;جویی کند.&#160;},
+keywords_fa = {مدل‌سازی عددی, میکروپایل, ماسۀ اشباع, پتانسیل روان‌گرایی},
+url = {http://jeg.khu.ac.ir/article-1-2616-en.html},  
+eprint = {http://jeg.khu.ac.ir/article-1-2616-en.pdf},  
+journal = {Journal of Engineering Geology},  
+issn = {2228-6837}, 
+eissn = {}, 
+year = {2020}  
+}
+
+@article{ 
+author = {Yousefpour, Vahid and Hamidi, Amir and Ghanbari, Ali},  
+title = {Shear Strength-Dilation Characteristics of Silty and Clayey Sands}, 
+abstract ={Sandy soils usually contain different amounts of fines like silt and clay, causing some changes to their shear strength and dilation characteristics. Bolton [1] conducted&#160; some experiments on the different sands and suggested a relation between the parameters of the soil shear strength. In this paper, some experiments were performed on fine contained sand and the extended Bolton's relation was has been proposed. In this paper, shear strength and dilation behavior of a pure sand mixed with different amounts of silt or clay fines were studied using direct shear test device (100*100*30 mm), and a total of 96 tests were carried out. The samples were prepared separately using clay and silt contents of 0, 10, 20 and 30% in different relative densities of 70, 80, 90 and 100%. They were tested under three surcharge pressures of 90, 120 and 150 kPa, under particle crushing threshold. Variations in shear strength, maximum friction angle, critical state friction angle and cohesion, as well as dilation angle were investigated by increasing in the mentioned amounts. The results demonstrate that shear strength, dilation angle, maximum friction angle decreased by clay content increase, however, they increase with increase in silt content. In addition, a new form of the Bolton's relation for fine contained sandy soils was presented.},  
+Keywords = {Direct shear test, shear strength, dilation, clay content, silty sand.},
+volume = {13},
+Number = {5}, 
+pages = {177-205}, 
+publisher = {Kharazmi University},
+title_fa = {بررسی ویژگی‌های مقاومت برشی- اتساع خاک ماسه رس‌دار و سیلت‌دار},
+abstract_fa ={خاک&#173;های ماسه&#173;ای به&#8204;صورت تمیز و خالص نیست و اغلب مقادیر مختلفی ریزدانه از جمله سیلت و رس دارد، وجود مقادیر مختلفی از ریزدانه&#173;ها در خاک ماسه&#173;ای باعث ایجاد تغییراتی در پارامترهای مقاومتی و اتساع این نوع خاک&#173;ها می&#8204;شود. بولتون [1] آزمایش&#8204;های مختلفی را روی خاک ماسه&#173;ای انجام داد و بین پارامترهای مقاومتی خاک، ارتباطی ایجاد کرد. در این مقاله با استفاده از دستگاه برش مستقیم کوچک مقیاس، رفتار مقاومتی و اتساع خاک ماسه&#173;ای دارای رس و سیلت بررسی شده است و فرم جدیدی از رابطۀ بولتون ارائه شده است. در مجموع تعداد 96 تست برش مستقیم کوچک مقیاس (30&#215;100&#215;100) انجام شد. ماسه بابلسر، سیلت رودخانه کرج و هم&#8204;چنین رس کائولن در این پژوهش استفاده شد. نمونه&#173;ها به&#8204;صورت جداگانه با درصد رس و سیلت صفر، ۱۰، ۲۰ و ۳۰ درصد ساخته شده و در تراکم&#173;های ۷۰، ۸۰، ۹۰ و ۱۰۰ درصد کوبیده شدند و تحت ۳ سربار 90، 120 و 150 کیلوپاسکال آزمایش شدند. (خرد شدن ذرات اتفاق نمی&#8204;افتد). در این آزمایش&#8204;ها تغییرات مقاومت برشی، زاویۀ اصطکاک حداکثر، زاویۀ اصطکاک حجم ثابت، چسبندگی و هم&#8204;چنین تغییرات زاویۀ اتساع بر اثر افزایش درصد رس و سیلت در نمونه&#173;ها بررسی شد. هم&#8204;چنین تأثیر نوع ریزدانه سیلتی و رسی بر رفتار خاک ماسه&#173;ای نیز بررسی شد. نتایج نشان&#8204;دهندۀ کاهش مقاومت برشی، زاویۀ اتساع و زاویۀ اصطکاک حداکثر و هم&#8204;چنین افزایش چسبندگی نمونه&#173;ها بر اثر افزایش درصد رس و افزایش مقاومت برشی، زاویۀ اتساع و زاویۀ اصطکاک حداکثر بر اثر افزایش درصد سیلت در نمونه&#173;ها بودند.},
+keywords_fa = {برش مستقیم, مقاومت برشی, اتساع, ریزدانه رسی, ماسه سیلت‌دار},
+url = {http://jeg.khu.ac.ir/article-1-2865-en.html},  
+eprint = {http://jeg.khu.ac.ir/article-1-2865-en.pdf},  
+journal = {Journal of Engineering Geology},  
+issn = {2228-6837}, 
+eissn = {}, 
+year = {2020}  
+}
+

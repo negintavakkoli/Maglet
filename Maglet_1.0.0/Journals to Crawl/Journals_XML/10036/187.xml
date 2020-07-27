@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه شهید چمران اهواز</PublisherName>
+				<JournalTitle>زمین شناسی کاربردی پیشرفته</JournalTitle>
+				<Issn>2251-7057</Issn>
+				<Volume>9</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2019</Year>
+					<Month>09</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Modeling and predicting changes of TDS concentration in Varamin aquifer using GMS software</ArticleTitle>
+<VernacularTitle>مدلسازی و پیش نگری تغییرات غلظت TDS در آبخوان ورامین با استفاده از نرم افزار GMS</VernacularTitle>
+			<FirstPage>25</FirstPage>
+			<LastPage>37</LastPage>
+			<ELocationID EIdType="pii">14869</ELocationID>
+			
+<ELocationID EIdType="doi">10.22055/aag.2019.27539.1903</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>محمد</FirstName>
+					<LastName>نخعی</LastName>
+<Affiliation>گروه زمین شناسی کاربردی، دانشکده علوم زمین، دانشگاه خوارزمی، تهران، ایران.</Affiliation>
+<Identifier Source="ORCID">0000-0002-4823-5197</Identifier>
+
+</Author>
+<Author>
+					<FirstName>امین</FirstName>
+					<LastName>محبی تفرشی</LastName>
+<Affiliation>باشگاه پژوهشگران جوان و نخبگان، واحد علوم و تحقیقات، دانشگاه آزاد اسلامی، تهران، ایران</Affiliation>
+<Identifier Source="ORCID">0000-0002-4727-125X</Identifier>
+
+</Author>
+<Author>
+					<FirstName>غزاله</FirstName>
+					<LastName>محبی تفرشی</LastName>
+<Affiliation>باشگاه پژوهشگران جوان و نخبگان، واحد علوم و تحقیقات، دانشگاه آزاد اسلامی، تهران، ایران</Affiliation>
+<Identifier Source="ORCID">0000-0002-3562-488X</Identifier>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2018</Year>
+					<Month>11</Month>
+					<Day>06</Day>
+				</PubDate>
+			</History>
+		<Abstract>In this research, GMS 10.0.11 software was used to investigate the qualitative changes and modeling of variations in concentration and prediction of TDS in the Varamin aquifer. In this regard, after collecting geological, meteorological, hydrological and hydrogeological data, geophysical experiments and exploratory boreholes, rainfall statistics and groundwater levels in wells, a database in ArcGIS10.5 software was created and to build the conceptual model, transmitted this information into the GMS software environment. Then based on the conceptual model, the simulation, calibration and verification of groundwater level were done using the Modflow2000 code in GMS software. Calibration results indicate that the fitting is very suitable for observed and calculated head by the model at R2=0.99. After this stage, the solute transport model was developed to evaluate the changes in TDS concentration by the MT3DMS subsystem. The results of the study showed that if the condition of operation and the entry of sewage to the western and southwestern areas of the aquifer continue to be similar, at the end of the forecast period, then the concentration will even reach 7000 mg/l, and the inadequate condition in these waters areas will be used for drinking and farming purposes.</Abstract>
+			<OtherAbstract Language="FA">در این تحقیق جهت بررسی تغییرات کیفی و مدلسازی تغییرات غلظت و پیش بینی TDS در آبخوان ورامین، نرم افزار GMS 10.0.11 استفاده شد. در این راستا، پس از جمع آوری اطلاعات زمین شناسی، هواشناسی، هیدرولوژیکی و هیدروژئولوژیکی، آزمایشات ژئوفیزیکی و گمانه های اکتشافی، آمار بارندگی و تراز سطح آب زیرزمینی در چاه های بهره برداری یک پایگاه داده در نرم افزار ArcGIS10.5 تشکیل و با انتقال این اطلاعات به محیط نرم افزارGMS، مدل مفهومی ساخته شد. سپس براساس مدل مفهومی ایجاد شده، اقدام به شبیه سازی، واسنجی و صحت سنجی سطح آب زیرزمینی با استفاده از کد Modflow2000 در نرم افزار GMS گردید. نتایج واسنجی گویای انطباق بسیار مناسب داده های سطح آب مشاهده ای و محاسبه ای توسط مدل در حد۹۹/۰R2= می باشد. پس از این مرحله، مدل انتقال آبخوان به منظور بررسی تغییرات غلظت TDS توسط زیربرنامه MT3DMSتهیه گردید. نتایج مطالعه نشان داد که اگر وضعیت بهره برداری و همچنین ورود فاضلاب به مناطق غربی و جنوب غربی آبخوان به همین صورت ادامه داشته باشد در انتهای بازه پیش بینی، غلظت حتی به۷۰۰۰ میلی گرم در لیتر نیز خواهد رسید و وضعیت نامناسبی برای استفاده از آبهای این مناطق جهت مصارف شرب و کشاورزی بوجود خواهد آمد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">مدل انتقال</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدل جریان</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">GMS</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">MT3DMS</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">TDS</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://aag.scu.ac.ir/article_14869_fdedb1ddc083b4a9172bd822e5280bf9.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

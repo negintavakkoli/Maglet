@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه شهید چمران اهواز</PublisherName>
+				<JournalTitle>زمین شناسی کاربردی پیشرفته</JournalTitle>
+				<Issn>2251-7057</Issn>
+				<Volume>8</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2019</Year>
+					<Month>02</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Groundwater contamination modeling by municipal solid waste using MODPATH numerical code: Case Study in Lour Andimeshk Plain unconfined Aquifer, Khuzestan, Iran</ArticleTitle>
+<VernacularTitle>مدل سازی آلودگی آبهای زیرزمینی حاصل از شیرابه زباله های جامد شهری با استفاده از کد عددی MODPATH: مطالعه موردی در آبخوان آزاد دشت لور اندیمشک، خوزستان، ایران</VernacularTitle>
+			<FirstPage>73</FirstPage>
+			<LastPage>85</LastPage>
+			<ELocationID EIdType="pii">14234</ELocationID>
+			
+<ELocationID EIdType="doi">10.22055/aag.2019.24818.1826</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>منوچهر</FirstName>
+					<LastName>چیت سازان</LastName>
+<Affiliation>عضو هیئت تحریریه</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>آرش</FirstName>
+					<LastName>ندری</LastName>
+<Affiliation>هیئت علمی دانشگاه شهید چمران اهواز</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>یاسین</FirstName>
+					<LastName>میزبان</LastName>
+<Affiliation>دانش آموخته  کارشناسی ارشد هیدروژئولوژی دانشگاه شهید چمران اهواز</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2018</Year>
+					<Month>01</Month>
+					<Day>27</Day>
+				</PubDate>
+			</History>
+		<Abstract>Municipal Solid Waste (MSW) in most cities of Iran is dumped in open areas without proper lining. Dumping of solid waste at open areas leads to the formation of leachate during rains, which may seep and contaminate the groundwater.The proximity of landfill to the unconfined aquifer of Laur Andimeshk Plain and failure to comply with the required standards in choosing a dumping place, has raised concerns about leakage from the landfill to the aquifer. This study is aimed to estimate and predict of direction and velocity of groundwater contamination due to the Lor Andimeshk plain landfill through numerical and semi-analytical models by the MODFLOW and MODPATH numerical codes contained in the GMS software. To achieve this purpose: Firstly, groundwater flow model was built and calibrated by MODFLOW. Then, the MODPATH was used to trace contaminated particles by a forward method in steady state condition. The results showed that Andimeshk landfill has the potential of contaminating its adjacent exploitation wells in the current and future conditions. decreases pumping from exploitation wells in the aquifer, as a management scenario, somewhat Decreases of the risk of contamination of adjacent wells at landfills site .The results from Hydrochemical data have confirmed the results of particle tracking with the MODPATH model.</Abstract>
+			<OtherAbstract Language="FA">زباله های جامد شهری در اکثر شهرهای ایران در مناطق آزاد بدون پوشش مناسب رها می شوند. تجمع زباله های جامد در مناطق آزاد باعث ایجاد شورآبه در طول باران می شود که ممکن است به آب های زیرزمینی نفوذ و آن را آلوده کند. نزدیکی محل دفن زباله به آبخوان آزاد دشت لور اندیمشک و عدم رعایت استانداردهای لازم در انتخاب محل نگرانی های مربوط به نشت از محل دفن زباله به آبخوان را افزایش داده است. این مطالعه با هدف تخمین و پیش بینی سرنوشت آلودگی رخ داده در سایت زباله های جامد شهری اندیمشک ، با استفاده از کد های عددی MODFLOW و MODPATH موجود در نرم افزار GMS انجام شده است. نتایج بدست آمده نشان داد که زباله‌دانی اندیمشک پتانسیل آلودگی چاه‌های بهره‌برداری مجاورش را در شرایط فعلی و آتی دارد. کاهش پمپاژ از چاه‌ های بهره‌برداری موجود در آبخوان ، به عنوان یک سناریوی مدیریتی تا حدودی خطر آلودگی چاه های مجاور به محل دفن زباله را کاهش می‌دهد. نتایج حاصله از داده‌های هیدروشیمی دقت نتایج ردیابی ذرات با مدلMODPATH را تایید کرده‌است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">مدل‌سازی آلودگی آبهای ‌زیرزمینی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدیریت منابع آب‌زیرزمینی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">GMS</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">MODFLOW</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">MODPATH</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://aag.scu.ac.ir/article_14234_b0e04178192e644a1cae1ec9931ae295.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

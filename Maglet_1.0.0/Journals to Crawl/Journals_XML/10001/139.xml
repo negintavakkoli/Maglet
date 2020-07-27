@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-20T22:02:52Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22108">http://amf.ui.ac.ir/?_action=export&amp;rf=summon&amp;issue=4172</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>سال ششم، شماره سوم، شماره پیاپی 22، پاییز 1397</title>
+									</titles>
+									<abstract>&lt;strong&gt;پاییز 1397&lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>پاییز 1397</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page></first_page>
+										<last_page></last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23327_6497cc53c29bfadfd62cbfbf45c85c64.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تفاوت وجه تضمین موقعیت‌های تعهدی خرید و فروش قراردادهای آتی با استفاده از سنجه‌های منسجم ریسک</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی</given_name>
+												<surname>ثقفی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>میر فیض</given_name>
+												<surname>فلاح شمس</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علیرضا</given_name>
+												<surname>ناصرپور</surname>
+											</person_name></contributors>
+									<abstract>در این پژوهش با استفاده از داده‌های قیمت نقدی سکه طلا، در بازه زمانی سال 1387 تا 1394 پس از تخمین مقدار وجه تضمین با استفاده از سنجه‌‌های ریسک مبتنی بر صدک و با تأکید بر سنجه‌های منسجم ریسک به‌ویژه ریزش مدّنظر و سنجۀ ریسک طیفی نمایی و توانی مبتنی بر الگو‌های گارچ، گارچ نمایی و گارچ GJR، با آزمون‌های کوپیک و پوشش شرطی کریستوفرسن و توابع زیان دوم لوپز، بلانکو- ایهل، میانگین قدر مطلق خطاها (MAE) و مجذور میانگین مربعات انحراف‌ها (RMSE) به پس‌آزمایی و رتبه‌بندی الگو‌ها اقدام شده است. درادامه، با استفاده از این الگو‌ها، وجه تضمین موقعیت‌های خرید و فروش در قراردادهای آتی با یکدیگر مقایسه شد. نتایج نشان می‌دهد الگوی گارچ‌GJR  عملکرد بهتری نسبت به سایر الگو‌ها داشته است که واکنش ‌نامتقارن نوسان‌های قیمت سکۀ طلا را نسبت به شوک‌های منفی و مثبت نشان می‌دهد. همچنین مقادیر تخمین‌زده‌شده برای وجه تضمین موقعیت‌های فروش با استفاده از تمامی سنجه‌ها و به‌صورت معنی‌داری بزرگ‌تر از وجه تضمین موقعیت‌های خرید است که این امر، نشان‌دهندۀ واکنش نا متقارن نوسان‌های قیمت به شوک‌های منفی و مثبت است.</abstract>
+									<keywords>
+									
+											<keyword>پس‌آزمایی بلانکو- ایهل</keyword>
+											<keyword>ریزش مدّنظر</keyword>
+											<keyword>سنجۀ ریسک طیفی نمایی</keyword>
+											<keyword>گارچ نمایی</keyword>
+											<keyword>وجه تضمین</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>14</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_21384_19efa2942e3ddf05d1bdeae135af488c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی عملکرد شرکت‌های فرابورس ایران با استفاده از معیار تسلط تصادفی و بهینه‌سازی آن با الگوی ترکیبی PSO و ANN</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سجاد</given_name>
+												<surname>جمشیدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>غلامرضا</given_name>
+												<surname>زمانیان</surname>
+											</person_name></contributors>
+									<abstract>هدف پژوهش حاضر، ارزیابی عملکرد شرکت‌های فرابورس ایران با استفاده از معیار تسلط تصادفی و بهینه‌سازی آنها با استفاده از الگوی هیبریدی شبکۀ عصبی مصنوعی و بهینه‌سازی تجمیع ذرات است. برای رسیدن به این هدف، از بازده هفتگی و روزانۀ 36 شرکت از ابتدای فروردین تا پایان اسفند 1393 استفاده شده است که کاربرد همزمان معیار تسلط تصادفی به‌دلیل جهت‌گیری‌های ناپارامتریک و کارآیی اثبات‌شدۀ الگوی هیبریدی موردنظر، جذابیت خاصی دارد. نتایج پژوهش نشان می‌دهد تسلط مرتبه‌های اول، دوم و سوم میان شرکت‌های بررسی‌شده وجود دارد که بین سبد‌های تشکیل‌یافته از سهام شرکت‌های رتبه‌بندی‌شده براساس تسلط تصادفی، با قید محدودیت حداقل دو و حداکثر ده سهم برای سبد، درنهایت سبد 8 سهمی با ترکیب تابع فعال‌سازی TPT، سبد بهینه انتخاب شد که در مقایسه با شاخص بازار فرابورس ایران طی دورۀ بررسی‌شده، عملکردی به مراتب بهتر از خود نشان داده است.</abstract>
+									<keywords>
+									
+											<keyword>ارزیابی عملکرد</keyword>
+											<keyword>فرابورس</keyword>
+											<keyword>تسلط تصادفی</keyword>
+											<keyword>شبکۀ عصبی مصنوعی</keyword>
+											<keyword>بهینه‌سازی تجمیع ذرات</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>15</first_page>
+										<last_page>36</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_22816_b2072f68c1649e5ebbc63585bd816af1.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>رفتار بازگشت‌پذیری بتا براساس سطوح مختلف ریسک سبد سهام در بورس اوراق بهادار تهران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>غلامرضا</given_name>
+												<surname>منصورفر</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهدی</given_name>
+												<surname>حیدری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محسن</given_name>
+												<surname>فرهادی</surname>
+											</person_name></contributors>
+									<abstract>در این مقاله با استفاده از الگوی چهارعاملی فاما و فرنچ و عامل مومنتوم معرفی‌شدۀ کارهارت، رفتار بازگشت‌پذیری بتا براساس درجات مختلف ریسک سبد سهام در بورس اوراق بهادار تهران بررسی شده است. این نوع رفتار موجب بی‌ثباتی عامل بتا در بازار می‌شود؛ همچنین سبب می‌شود الگوهای قیمت‌گذاری، کارآیی لازم را برای ارزیابی عملکرد نداشته باشد. با استفاده از اطلاعات مربوط به شرکت‌های فعال در بورس اوراق بهادار تهران و تشکیل 25 سبد با معیارهای مختلف در بازه زمانی 1384 تا 1393 و نیز متغیرهای بتای متحرک و ریسک نوسانات ویژه، بازگشت‌پذیری بتا در بورس و فرابورس تهران سنجیده و رفتار آن تحلیل شده است. برای آزمون پرسش‌ها از الگوی رگرسیون خطی چندمتغیره استفاده شده است؛ روش آماری به‌کاررفته نیز داده‌های مقطعی است. نتایج پژوهش نشان می‌دهد بازگشت بتا در بورس اوراق بهادار تهران برای سبد‌های پرریسک بازار رخ داده است و با حذف سبدهای پرریسک از بازار، رفتار برگشت‌پذیری بتا کنترل‌ می‌شود.</abstract>
+									<keywords>
+									
+											<keyword>بازگشت بتا</keyword>
+											<keyword>الگوی کارهارت</keyword>
+											<keyword>بتای متحرک</keyword>
+											<keyword>ریسک نوسانات ویژه</keyword>
+											<keyword>نسبت B/M</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>37</first_page>
+										<last_page>50</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23034_4396d84b16a1db3ae664708a7dfed885.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی رابطۀ همزمانی قیمت سهام و توزیع بازده</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید رضا</given_name>
+												<surname>میرعسکری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>غلامرضا</given_name>
+												<surname>محفوظی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>متین</given_name>
+												<surname>شعبانی نژاد ماسوله</surname>
+											</person_name></contributors>
+									<abstract>هدف این پژوهش، بررسی رابطۀ همزمانی قیمت سهام با دنبالۀ توزیع بازده سهام است؛ از این‌رو، نمونۀ آماری پژوهش شامل 118 شرکت در 5 سال از ابتدای  1389 تا انتهای 1393 از بین شرکت­های پذیرفته­شده در بورس اوراق بهادار تهران انتخاب شده ­است. از رگرسیون چندگانه مبتنی بر داده­های تابلویی استفاده شده ­است. نتایج پژوهش نشان می­دهد همزمانی قیمت سهام زیاد، احتمال تولید دنبالۀ مثبت را نسبت به شرکت­های با همزمانی کم دارد. به علاوه بین همزمانی قیمت سهام و چولگی، رابطۀ مثبتی وجود دارد؛ درنتیجه، به نظر می­رسد سرمایه­گذاران در شرکت­های با همزمانی قیمت سهام زیاد نسبت به شرکت­های با همزمانی قیمت کم، کمتر به اخبار منفی واکنش شدید نشان می­دهند. همزمانی زیاد سهام نشان می‌دهد اطلاعات بازار منعکس‌شده بر بازده سهام، بیشتر است و ریسکی که سرمایه­گذاران متحمل می­شوند، ریسک سیستماتیک است؛ بنابراین به سرمایه­گذاران در بورس اوراق­ بهادار توصیه می­شود در شرکت­هایی سرمایه­گذاری کنند که همزمانی قیمت سهام بیشتر و شفافیت اطلاعاتی بیشتری دارند.</abstract>
+									<keywords>
+									
+											<keyword>تمرکز مالکیت</keyword>
+											<keyword>چولگی</keyword>
+											<keyword>دنبالۀ توزیع بازده سهام</keyword>
+											<keyword>نسبت پرداخت سود هر سهم</keyword>
+											<keyword>همزمانی قیمت سهام</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>51</first_page>
+										<last_page>66</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_21258_62de6c00da96e17c63549230ff9e7be6.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>آزمون فشار به‌عنوان ابزار کلیدی مدیریت ریسک دارایی‌‌های مالی با تأکید بر نظریۀ ارزش فرین و توابع کاپیولا</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علیرضا</given_name>
+												<surname>سارنج</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مرضیه</given_name>
+												<surname>نوراحمدی</surname>
+											</person_name></contributors>
+									<abstract>آزمون فشار فن شبیه‌‌سازی برای ارزیابی واکنش‌‌های سبد به موقعیت‌‌های بحرانی گوناگون است. در این مقاله، با مرور روش‌‌های مختلف آزمون‌‌های فشار، اثرات سناریوهای مختلف فشار روی سبد سهامی متشکل از سه شاخص قیمت شیمیایی، دارویی و فلزات اساسی در بورس اوراق بهادار تهران ارزیابی شده است. همچنین دنباله‌‌های فرین همۀ عوامل ریسک در سبد با استفاده از نظریۀ ارزش فرین شناسایی شده است و ساختارهای وابستگی پویا و غیرخطی بین آنها با استفاده از توابع کاپیولا الگو‌‌سازی شده است. در این پژوهش سه آزمون فشار شامل سناریوهای فشار تاریخی، هیبریدی و فرضی برای شبیه‌‌سازی روند شکل‌‌گیری مشترک عوامل ریسک در طی زمان به کار گرفته‌ شده است. نتایج پژوهش نشان می‌‌دهد سناریوهای هیبریدی و فرضی نسبت به آزمون فشار کاملاً تاریخی ترجیح دارد؛ زیرا سناریو‌‌های منعطف‌‌تری از تکرار صرف رخدادهای گذشته ایجاد می‌‌کند. به سناریوهای فرضی بیش از سناریوهای دیگر توجه شده است؛ زیرا امکان ایجاد موقعیت‌‌های فشار را با نگاه رو به آینده برای مدیر ریسک فراهم می‌کند.</abstract>
+									<keywords>
+									
+											<keyword>آزمون فشار</keyword>
+											<keyword>ارزش در معرض ریسک</keyword>
+											<keyword>ریزش موردانتظار</keyword>
+											<keyword>نظریۀ ارزش فرین</keyword>
+											<keyword>کاپیولا</keyword>
+											<keyword>توزیع تجربی هموارشدۀ کرنل</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>67</first_page>
+										<last_page>86</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23037_433920eae88dcd476877ae2ec425fb8b.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر سررسید بدهی در خطر سقوط قیمت سهام با تأکید بر عدم تقارن اطلاعاتی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>وحید</given_name>
+												<surname>تقی زاده خانقاه</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>قدرت اله</given_name>
+												<surname>طالب نیا</surname>
+											</person_name></contributors>
+									<abstract>بدهی‌های کوتاه‌مدت، ساز و کاری است که مدیران را در معرض نظارت‌های مکرر قرار می‌دهد و موجب کاهش اختیارات مدیریت می‌شود؛ بنابراین کیفیت افشای اطلاعات را بهبود می‌بخشد. از آنجا که وام‌دهندگان حساسیت بیشتری به کاهش قیمت سهام شرکت به نسبت افزایش آن دارند، انگیزه‌های زیادی برای نظارت بر وام‌گیرندگان و جمع‌آوری اطلاعات دربارۀ وضعیت مالی آنها خواهند داشت. پژوهش حاضر با مطالعۀ جنبه‎ای از پیامدهای سررسید بدهی، تأثیر سررسید بدهی را در خطر سقوط قیمت سهام در شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران بررسی می‌کند. در این راستا، تعداد 120 شرکت برای دورۀ زمانی 1388-1393 بررسی شد. برای آزمون فرضیه‌های پژوهش از داده‌های تابلویی با نرم‌افزار آماری Eviews استفاده شده است. شواهد نشان داد شرکت‌هایی که بدهی‌های کوتاه‌مدت زیادی دارند، خطر سقوط سهام کمی خواهند داشت. این شواهد با این ادعا سازگار است که بدهی‌های کوتاه‌مدت، نقش نظارتی مؤثری در مدیریت دارد و ذخیرۀ اخبار بد توسط مدیران را محدود می‌کند. نتایج نشان داد تأثیر منفی بدهی‌های کوتاه‌مدت در خطر سقوط قیمت سهام برای شرکت‌های با عدم تقارن اطلاعاتی زیاد، بیشتر است. به‌طور کلی، یافته‌ها نشان داد بدهی‌های کوتاه‌مدت نه‌تنها از منافع سهامداران محافظت می‌کند، ارزش سهامداران را نیز حفظ می‌کند.</abstract>
+									<keywords>
+									
+											<keyword>ذخیرۀ اخبار بد</keyword>
+											<keyword>سررسید بدهی</keyword>
+											<keyword>سقوط قیمت سهام</keyword>
+											<keyword>عدم تقارن اطلاعاتی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>87</first_page>
+										<last_page>104</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_21211_cf0dbfff84cfa6197ec33b59b62b9543.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تحلیل مقایسه‌ای دربارۀ عملکرد مدل سه‌عاملی و پنج‌عاملی فاما و فرنچ در تخمین بازده موردانتظار</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حسین</given_name>
+												<surname>رضایی دولت آبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ناهید</given_name>
+												<surname>یوسفان</surname>
+											</person_name></contributors>
+									<abstract>پیش‌بینی صحیح بازده سهام، عامل کلیدی در تصمیم‌گیری‌های سرمایه‌گذاری است. هدف پژوهش حاضر، آزمون نظریۀ پنج‌عاملی فاما و فرنچ و مقایسۀ عملکرد الگوی سه‌عاملی و پنج‌عاملی در برآورد بازده موردانتظار است. این پژوهش از نوع توصیفی - همبستگی است و فرضیۀ آن براساس اطلاعات سال‌های 1393-1388 برای 40 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران آزمون شده است. فرضیۀ پژوهش، با درنظرگرفتن همزمانی روابط، در دو مرحلۀ آزمون سری زمانی آلفا برای سنجش عرض از مبدأ با آمارۀ GRS و آزمون مقطعی فاما - مک‌بث در قیمت‌گذاری ضرایب بررسی شده است. نتایج به‌دست‌‎آمده نشان می‌دهد الگوی پنج‌عاملی فاما و فرنچ، با متغیر‌های توضیحی اندازه، ارزش، سودآوری و سرمایه‌گذاری، مازاد بازده سهام را با قدرت بیشتری نسبت به الگوی سه‌عاملی فاما و فرنچ توضیح می‌دهد. براساس نتایج در الگوی سه‌عاملی، تنها عامل ارزش معنادار است؛ در حالی که الگوی پنج‌عاملی دو عامل ارزش و سرمایه‌گذاری را قیمت‌گذاری می‌کند.</abstract>
+									<keywords>
+									
+											<keyword>الگوی قیمت‌گذاری پنج‌‌عاملی فاما و فرنچ</keyword>
+											<keyword>آزمون الگوی قیمت‌گذاری دارایی سرمایه‌ای</keyword>
+											<keyword>الگوی سرمایه‌گذاری</keyword>
+											<keyword>سودآوری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>105</first_page>
+										<last_page>116</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_21419_7ba8b99aec7a1b93ef42d11e157d4a36.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کیفیت حسابرسی و محدودیت در تأمین مالی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>غلامحسین</given_name>
+												<surname>مهدوی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>نجمه</given_name>
+												<surname>رستگاری</surname>
+											</person_name></contributors>
+									<abstract>هدف این پژوهش، بررسی رابطۀ کیفیت حسابرسی و محدودیت در تأمین مالی شرکت‌های پذیرفته‌شده در بورس اوراق بهادار تهران است. محدودیت در تأمین مالی با استفاده از شاخص بومی‌شده را تهرانی و حصارزاده (1388) محاسبه کردند. برای اندازه‌گیری کیفیت حسابرسی از سه معیار اندازۀ مؤسسۀ حسابرسی، تداوم انتخاب حسابرس و تخصص حسابرس در صنعت استفاده شده است. برای آزمون فرضیه‌های پژوهش، تعداد 100 شرکت پذیرفته‌شده در بورس اوراق بهادار تهران در بازه زمانی 1393- 1385 به‌عنوان نمونه انتخاب شد. فرضیه‌های پژوهش با استفاده از الگوی رگرسیون لجستیک چندمتغیره آزمون شده است. تجزیه و تحلیل داده‌ها با استفاده از نرم‌افزار Eviews نسخۀ 7 انجام شد. نتایج آزمون فرضیه‌ها نشان داد اندازۀ مؤسسۀ حسابرسی و تداوم انتخاب حسابرس، رابطۀ مستقیم و معناداری با محدودیت در تأمین مالی دارد؛ ولی رابطۀ تخصص حسابرس در صنعت با محدودیت در تأمین مالی، معکوس و معنادار است. به‌طور کلی، نتایج پژوهش نشان داد کیفیت حسابرسی در محدودیت در تأمین مالی اثرگذار است. این پژوهش با بررسی رابطۀ کیفیت حسابرسی و محدودیت در تأمین مالی به مبانی نظری پژوهش می‌افزاید.</abstract>
+									<keywords>
+									
+											<keyword>اندازۀ مؤسسۀ حسابرسی</keyword>
+											<keyword>تخصص حسابرس در صنعت</keyword>
+											<keyword>تداوم انتخاب حسابرس</keyword>
+											<keyword>کیفیت حسابرسی</keyword>
+											<keyword>محدودیت در تأمین مالی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>117</first_page>
+										<last_page>132</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23279_9e25f604d561520fce432c708f099181.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی اثر حاکمیت شرکتی و کیفیت حسابرسی بر تأمین مالی ازطریق وام بانکی در شرکت‌های خصوصی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>زهرا</given_name>
+												<surname>زمانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>زهرا</given_name>
+												<surname>سهرابی</surname>
+											</person_name></contributors>
+									<abstract>پژوهش حاضر تأثیر حاکمیت شرکتی و کیفیت حسابرسی را بر تأمین مالی ازطریق وام بانکی در شرکت‌های فعال در حوزۀ صنعت، معدن، بازرگانی و حمل‌ونقل بررسی می‌کند. برای تأمین منابع مالی راه‌های زیادی وجود دارد. این کار در ایران بیشتر با دریافت اعتبار از بانک‌ها صورت می‌گیرد؛ با وجود این، سهم بانک‌ها و سایر مؤسسه‌های مالی در حاکمیت شرکتی شرکت‌ها بسیار پایین است. بانک‌ها و سایر مؤسسه‌های مالی به کیفیت گزارشگری مالی و شیوه‌های کنترلی اعمال‌شده درون شرکت توجه می‌کنند؛ ازاین‌رو ممکن است رابطۀ مستقیم بین تأمین مالی ازطریق وام بانکی و حاکمیت شرکتی و کیفیت حسابرسی شرکت‌ها وجود داشته باشد. جامعۀ آماری این پژوهش شامل نمونه‌ای از 15 شرکت فعال در حوزۀ صنعت، معدن، بازرگانی و حمل‌ونقل برای دورۀ 11‌ساله از سال 1383 تا 1393 به‎‌صورت تابلویی است. برای آزمون فرضیه‌ها از الگوی رگرسیونی چندمتغیره استفاده شده است. نتایج نشان می‌دهد وجود حاکمیت شرکتی، تأثیر مثبت و معناداری بر تأمین مالی ازطریق وام بانکی دارد؛ در حالی ‌که کیفیت حسابرسی این تأثیر را ندارد.</abstract>
+									<keywords>
+									
+											<keyword>حاکمیت شرکتی</keyword>
+											<keyword>کیفیت حسابرسی</keyword>
+											<keyword>تأمین مالی</keyword>
+											<keyword>تعداد اعضای هیئت‌مدیره</keyword>
+											<keyword>بازده دارایی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>133</first_page>
+										<last_page>146</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23283_d8605cdd63c0a0d6b4088b2c05b72f3f.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-23</datestamp>
+						<setSpec>10.22108</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت دارایی و تأمین مالی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2383-1170</issn>
+									<issn media_type="electronic">2383-1170</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی حافظۀ بلندمدت در نوسانات پویا: رابطۀ بین بازده سهام و نرخ ارز</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>داریوش</given_name>
+												<surname>دموری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>نگار</given_name>
+												<surname>میرزاد</surname>
+											</person_name></contributors>
+									<abstract>نرخ ارز و سیستم مناسب ارزی از محورهای اصلی سیاست‌‌های اقتصادی محسوب می‌‌شود. نوسانات نرخ ارز از عمده‌‌ترین مسائل بخش بازرگانی خارجی هر کشور است. با توجه به اینکه بازده سهام پذیرفته‌شده در بورس اوراق بهادار از عوامل مختلف به‌‎ویژه متغیرهای کلان اقتصادی تأثیر می‌گیرد، در این مطالعه حافظۀ بلندمدت در سری بازده‌‌، در بازه زمانی اول فروردین 1390 تا پایان اسفند 1394 و رابطۀ بین نوسانات نرخ ارز ریال/دلار و بازده سهام در بازه زمانی1390 و 1391 با استفاده از الگو‌‌های تک‌متغیره و چندمتغیرۀ گارچ بررسی می‌‌شود. براساس نتایج به‌دست‌آمده همۀ سری‌‌های بازده، نشان‌دهندۀ وجود حافظۀ بلندمدت است. همچنین برمبنای مقایسۀ الگو‌‌های استفاده‌شده در این پژوهش، الگوی (student-GARCH (1,1 بهترین برآورد را برای شاخص کل در بازه زمانی 1394-1390 نسبت به الگو‌های دیگر نشان می‌دهد. با بررسی نوسان نرخ ارز ریال/دلار در بازه زمانی سال 91 و 90، الگوی student-GARCH (1,1) منجر به برآورد بهتری می‌شود. همچنین در بررسی رابطۀ بین نرخ ارز و بازده سهام ارتباطی دیده نمی‌شود.</abstract>
+									<keywords>
+									
+											<keyword>بازده سهام</keyword>
+											<keyword>حافظۀ بلندمدت</keyword>
+											<keyword>نرخ ارز</keyword>
+											<keyword>گارچ</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>147</first_page>
+										<last_page>164</last_page>
+									</pages>
+										<fullTextUrl>http://amf.ui.ac.ir/article_23303_39bb02e3e1f46d8fa7afc4e464e59a6f.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

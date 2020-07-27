@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+		<JOURNAL>
+<YEAR>1397</YEAR>
+<VOL>8</VOL>
+<NO>3</NO>
+<MOSALSAL>3</MOSALSAL>
+<PAGE_NO>109</PAGE_NO>
+<ARTICLES>
+
+
+				<ARTICLE>
+				<TitleF>برآورد مقیاس ML برای بزرگای زمین‌لرزه‌ها در ایران</TitleF>
+				<TitleE>Estimation of ML scale for earthquakes in Iran</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>برآورد یک بزرگای محلی برای برآورد درستتر بزرگای زمینلرزههای محلی در هر گستره لازم است. برای این هدف از 1409 بیشینه دامنه مصنوعی خوانده شده وود- اندرسون از 229 زمینلرزه با 22 ایستگاه لرزهنگاری در ایران در عرض جغرافیایی بین 24 تا 42 درجه شمالی و طول جغرافیایی بین 43 تا 65 درجه شرقی استفاده شد. بزرگای آنها 5/3 تا 4/5 در مقیاس محلی، گاف آزیموتی آنها کمتر از 180 درجه و ﺑﺎ RMS در تمام ایستگاهها کمتر از 5/0 ثانیه بودند. این پژوهش با استفاده از دادههای لرزهای دریافتی سالهای 2004 تا 2016 میباشند. یک رابطه پارامتریک که در آن پخش هندسی، میرایی(کاهیدگی) غیرالاستیک و تصحیح ایستگاهی در نظر گرفته شدند، رابطه کاهیدگی تجربی را برای بزرگای محلی در ایران بهصورت زیر برآورد نمود:  این رابطه کاهیدگی بیشتری از دامنه موج را برای فواصل بیش 150 کیلومتر نسبت به رابطه هاتون و بور (1987) پیشنهاد میکند. مقادیر تصحیحات ایستگاهی بین 198/0 – و 44/0 واحد بزرگا میباشد. از این پژوهش میتوان نتیجه گرفت که، کاهیدگی دامنه موج با افزایش فاصله بهصورت 1/r1.0928 بوده و تاثیر ساختار زمینشناسی گستره ایران برروی تخمین بزرگا در بازه وسیعی از بزرگا (نزدیک به 0.7) میباشد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>1-Introduction For the first time in the modern history of seismology, Richter, (1935) invented a local magnitude scale (ML) for earthquakes for region of California. This scale is appropriate for estimation of magnitude of a wide range of earthquakes. Few investigations were performed about ML scale for earthquakes in Iran in different areas and using different databases. Shoja-Taheri, et al. (2007), Askari et al. (2009) and Nemati et al. (2014) are the examples from ML estimation in Iran. Shoja-Taheri, et al. (2007) used the strong motion data of NE Iran, Askari et al. (2009) used amplitude of short period seismograms in north of Iran and Nemati et al. (2014) used amplitude of waveforms of a local network data in eastern Alborz to calculate a local scale for magnitude of earthquakes in Iran.   2-Methodology ML of the earthquakes is calculated using averaging between the maximum amplitude of shear waves in the horizontal components of the waveforms of the earthquakes. Equation of ML is a logarithmic and parametric relationship. ML equation parameters should be determined for each seismic area. Estimation of a local magnitude scale is necessary for precisely estimation of magnitude of earthquakes in every seismic area. For calculation of ML for the earthquake of a specific area, it is better that the parameters should be estimated using the earthquake data of the same region. In this research the ML equation is determined for entire Iran using Iranian earthquakes, for the first time. Some researchers divide Iran into distinct seismotectonic regions, in which they calculate ML for each area, separately. In this paper ML is calibrated for entire Iran, because ray path of an earthquake in a specific region may cross the neighboring provinces. The chosen earthquakes for ML determination should be the most precisely located earthquakes, because the epicentral distance is so important in the processing. For this purpose, 1409 synthetic Wood-Anderson amplitude of 229 earthquakes occurred in 24 – 42 °N and 43 – 65 °E with magnitude of 3.5 - 5.4, azimuthal gap less than 180°and RMS less than 0.5 were used. These earthquakes were recorded by seismological network of International Institute of Earthquake Engineering and Seismology of Iran between 2004 and 2016. The processing was done using Matlab software and arranging a big matrix composed of the epicentral distances, amplitudes and their functions. The amplitudes have been read using Seisan software on the horizontal components by automatic picking. In this stage, the amplitudes (velocity) are changed to the Wood-Anderson torsion seismograph scale (displacement). After reading, huge number of numbers (amplitudes, distances, earthquake coordinates,…) form the mentioned matrix equation.   3-Results and discussion After the processing and inverting thematrix equation, using a parametric equation, in which geometrical spreading and inelastic attenuation were supposed, the attenuation equation for local magnitude in Iran were estimated:   Inelastic attenuation is related to microscopic incompletions in mineralogical structure of the minerals, existence of water or the other fluids in porosities of the rocks, discontinuities in earthcrust, friction and transforming the wave momentum energy into temperature in wave path. In this relation, 100 km for epicentral distance of the earthquakes and the constant number (3.0) for magnitude of earthquakes were put, because of Richter primary conditions for calibration of the ML equation in 1935. The station corrections (Sj) were obtained for all of the stations representing overestimation and underestimation of ML for correction the output magnitudes. The abovementioned numbers were put, because it is supposed that an earthquake with the magnitude of 3.0 produces 1 mm amplitude in a seismograph, which is installed in a distance of 100 km. This equation suggests more attenuation for wave amplitude for distances more than 150 km in comparison to the previously estimation of Hutton and Boore, (1987) equation.   4-Conclusion 1)      It could be concluded from this paper that wave amplitude attenuation decreases with distance in order of 1/r1.0928 and geological site effects in Iran on magnitude estimation is in a broad range of 0.7. 2)      One of the preferences of this work (determination of ML for the entire Iran) in comparison to the other works (determination of ML for the seismotectonic provinces of Iran, individually) is that the ray path of a regional earthquake always cut more than two seismotectonic provinces. 3)      This relation is useful for the governmental institutions in Iran that calculates the ML, like International Institute of Earthquake Engineering and Seismology of Iran. 4)      Obtained station corrections were estimated between -0.198-0.44 magnitude unit.   References Askari.R., Ghods.A.R., Sobuti.F., 2009, Calibration of an ML Scale in the Alborz Region, Northern Iran, Bull. Seismol. Soc. Am., Vol: 99, p: 268-27. Hutton. L.K., Boore.D.M., 1987, The ML scale in southern California, Bull. Seismol. Soc. Am., Vol: 77, p: 2074-2094. Nemati, M., Ghods, A. and Ghasemi, M.R., 2014. A ML scale for the events in eastern-central Alborz. Quaterly Journal of Geoseinces, Geological Survey of Iran, 95, 115-122, (in Persian). Richter.C.F., 1935. An instrumental earthquake magnitude scale. Bull. Seismol. Soc. Am., Vol: 25, p: 1-32. Shoja-Taheri.J., Naserieh.S., Ghofrani.H., 2007, ML and MW Scales in the Iranian Plateau Based on the Strong-Motion Records, Bull. Seismol. Soc. Am., Vol: 97, p: 661-669.    </CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>1</FPAGE>
+						<TPAGE>9</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>زهرا</Name>
+						<MidName></MidName>		
+						<Family>جامی زاده</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی کارشناسی ارشد،بخش فیزیک دانشکده فیزیک دانشگاه شهید باهنر کرمان،کرمان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی کارشناسی ارشد،بخش فیزیک دانشکده فیزیک</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>z_jamizadeh@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مجید</Name>
+						<MidName></MidName>		
+						<Family>نعمتی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>دانشیار بخش زمین‌شناسی دانشکده علوم و معاون مرکز پژوهشی زلزله دانشگاه شهید باهنر کرمان</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار بخش زمین‌شناسی دانشکده علوم و معاون</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>nematimajid_1974@uk.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سید جلیل الدین</Name>
+						<MidName></MidName>		
+						<Family>فاطمی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>استاد دانشکده فیزیک دانشکده فیزیک و مرکز پژوهشی زلزله دانشگاه شهید باهنر کرمان،کرمان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استاد دانشکده فیزیک دانشکده فیزیک و مرکز</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>fatemij@uk.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>بزرگای محلی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>موج</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>پخش هندسی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ایران</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>زمینلرزه و دامنه</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>آقانباتی. ع.، 1383، زمین‌شناسی ایران. چاپ سازمان زمین‌شناسی کشور.##سعیدیان. م.، 1394. برآورد مقیاس ML برای بزرگای زمین‌لرزه‌های محلی در شرق ایران، پایان نامه کارشناسی ارشد، دانشگاه آزاد اسلامی واحد کرمان.##شهبازی. س.، ثبوتی، ف.، قدس، ع. 1389. محاسبه مقیاس بزرگای محلی زمین‌لرزه برای آذربایجان شرقی، چهاردهمین کنفرانس ژئوفیزیک ایران، موسسه ژئوفیزیک دانشگاه تهران.##لی. ت.، والاس. ت.س.، 1387، لرزه‌شناسی مدرن جهانی، ترجمه حیدریان شهری م ر. مشهد: انتشارات دانشگاه فردوسی مشهد.##نعمتی. م.، قدس. ع.، قاسمی. م. ،1394، مقیاس ML برای بزرگای زمین‌لرزه‌های محلی در البرز میانی-خاوری، فصل‌نامه علوم زمین، بهار 1394، شماره 95:ص 115-122.##نعمتی. م.، 1397، مبانی لرزه‌زمین‌ساخت با نگاهی ویژه به لرزه‌زمین‌ساخت ایران‌زمین، انتشارات دانشگاه شهیدباهنر کرمان، زیر چاپ.##Alsaker. A , Kvamme, L.B., Hansen, R.A., Dahle, A., Bungum, H., 1991, The ML scale in Norway. Bull. Seism. Soc. Am., Vol: 81, p: 379-389.##Askari. R., Ghods. A.R., Sobuti. F., 2009, Calibration of an ML Scale in the Alborz Region, Northern Iran, Bull. Seismol. Soc. Am., Vol: 99, p: 268–27.##Bakun, W.H., Joyner W.B., 1984, The ML scale in central California, Bull. Seismol. Soc. Am., Vol: 74, p: 1827–1843.##Berberian. M., 1976, &quot;Contribution to the seismotectonics of Iran (part 2)&quot;. [J], Rep. Geol. Surv. Iran, No: 39, 516 p.##Baumbach, M., Bindi, D. Grosser, H. Milkereit, C. Parolai, S. Wang, R. Karakisa, S. Zünbül., S. Zschau, J., 2003, Calibration of an ML Scale in Northwestern Turkey from 1999 Izmit Aftershocks, Bull. Seismol. Soc. Am., Vol: 93, p: 2289–2295.##González, M., Vidal., A. Mungía, L., 2006, An ML Scale for the La Paz–Los CabosRegion, Baja California Sur, México, Bull. Seismol. Soc. Am., Vol: 96, p: 1296-1304.##Havskov. J., Ottemöller. L., 2005, SEISAN: the earthquake analysis software, version 8.1.##Hutton. L.K., Boore. D.M., 1987, The ML scale in southern California, Bull. Seismol. Soc. Am., Vol: 77, p: 2074–2094.##Rezapour. M. and Rezaei. R., 2011, Empirical Distance Attenuation and the Local Magnitude Scale for Northwest Iran, Bull. Seismol. Soc. Am., Vol: 101, p:3020–3031.##Richter, C.F., 1935. An instrumental earthquake magnitude scale. Bull. Seismol. Soc. Am., 25, 1-32.##Shoja-Taheri. J., Naserieh. S. Ghofrani. H., 2007, ML and MW Scales in the Iranian Plateau Based on the Strong-Motion Records, Bull. Seismol. Soc. Am., Vol: 97, p: 661-669.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تاثیر سطح جدایش بالایی در تغییر هندسه ساختاری تاقدیس عمقی و سطحی سرگلان، لرستان، باختر ایران</TitleF>
+				<TitleE>The effect of upper detachment level on structural geometry of the deep and surface Sargelan Anticline, Lurestan, West Zagros</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>تاقدیس سرگلان با پتانسیل هیدروکربنی در جنوب‌باختر پهنه لرستان و باختر کمربند چین‌خورده-رانده زاگرس واقع شده است. در این مطالعه جهت تحلیل هندسی تاقدیس سرگلان از تفسیر نیمرخ‌های لرزه نگاری دوبعدی و ترسیم چهار نیمرخ ساختاری عمود بر محور تاقدیس استفاده شده است. تفسیر نیمرخ‌های ساختاری نشان دو سطح جدایش بالایی (سازند امیران) و میانی (سازند گرو) است. سطوح جدایشی و راندگی‌ها تاثیر زیادی بر هندسه و کینماتیک ساختارها داشته است، به طوریکه راندگی یال جنوب‌باختری تاقدیس شکل گرفته و شروع به پلکانی شدن می‌کند. جابجایی این راندگی، تاقدیس را به سمت بالا حمل می‌کند، پس تاقدیس سرگلان از نوع چین‌های جدایشی انتقالی است. ضخامت زیاد سطح جدایش بالایی باعث تشکیل چین‌خوردگی ناهماهنگ گردیده به طوریکه تاقدیس عمقی سرگلان نسبت به تاقدیس سطحی بیشتر از حدود 10 کیلومتر و در زیر ناودیس سطحی به سمت شمال‌باختر ادامه پیدا کرده است. اندازه‌گیری پارامترهای هندسی نشان می‌دهد که تاقدیس سرگلان یک چین نامتقارن، استوانه‌ای است و از نظر نسبت ابعادی پهناور و از نظر کندی چین نیمه‌گرد شده است. تفسیر نیمرخ‌های لرزه نگاری نشان می‌دهد که یک تاقدیس عمقی به موازات تاقدیس سرگلان در زیر سطح جدایش بالایی تشکیل شده و در این مطالعه به عنوان تاقدیس سرگلان جنوبی معرفی می‌گردد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>1-Introduction The Zagros fold and thrust belt with NW–SE trend is located in the Alpine–Himalayan orogeny, resulting from the Late Cretaceous to Cenozoic convergence between the Arabian and Eurasian plates (Berberian and King, 1981; Alavi, 1994). The northeastern boundary of this belt is the structural style, and sedimentary history divides the Main Zagros Reverse Fault into several structural zones. The Zagros fold and thrust belt can also be divided, along strike from east to west, into the Fars, Izeh, Dezful embayment and Lurestan zone. The Lurestan zone has a long history of hydrocarbon exploration, and production, and only a few wells have been successful. Seismic and well data in the area indicate that folding style has the primary role in the exploration and production of the hydrocarbon. Also, in this belt, thrust faults and detachment horizons have the main character in geometry and kinematics of the folded structures. The Sargelan anticline is one of the main folded structures in the Lurestan zone. So, in this research, deformational pattern and structural geometry of the Sargelan anticline have been studied using the interpretation of five 2D seismic profiles, drawing of structural cross-sections, drilling well data in the adjacent anticline and detailed analysis.   2-Methodology The Zagros fold and thrust belt with NW–SE trend is located in the Alpine–Himalayan orogeny, resulting from the Late Cretaceous to Cenozoic convergence between the Arabian and Eurasian plates (Berberian and King, 1981; Alavi, 1994). The northeastern boundary of this belt is the anticlines in the Lurestan zone host the hydrocarbon reserves in the west of Iran, hence are well-acknowledged regarding the style of folding and their response to appropriate detachment levels. This research indicates the results of a detailed study of the Sargelan anticline, based on field surveys, seismic profiles interpretation, well data, and drawing four structural cross-sections. We will successively focus on the upper (Amiran Formation) and middle (Garu Formation) detachment levels and deep-rooted thrust faults, causing the disharmonic folding beneath and above the upper detachment level restoration of each structural cross-section. At last, restoration of each structural cross-section obtained by a shortening percentage.   3-Results and discussion Recent studies indicate that mechanical stratigraphy has the main role in folding style in the Lurestan zone (Casciello et al., 2009; Farzipur-Saein et al., 2009). In the study area, full upper detachment level causes a reduction in wavelength of overlying anticlines and formation of disharmonic folding. So, in this research four structural cross-sections (from SE to NW: AA´, BB´, CC´, DD´) across the Sargelan anticline has been drawn transecting the anticline from the NE to SW to illustrate the vertical variations in folding style. Interpretation of seismic profile indicates that along the AA´ section deep thrust fault has not formed in the southwest limb. Also, regarding the geometrical parameters and the drawing the folding stereograph, the axial trend of the Sargelan anticline is 115/0, and its axial plane is 030/86 degrees. The BB´ structural cross-section indicates that in the southern part of the deep Sargelan anticline, another anticline is formed, which is introduced as the South Sargelan anticline.  Along the South Sargelan anticline, a deep thrust fault rooted within the Garu Formation (middle detachment level) and cuts up-sections of the southern limb and flattens in the Amiran Formation (upper detachment level). In addition to the deep thrust fault, a low angle shallow thrust rooted within the upper detachment level (Amiran Formation) caused displacements and deformations in the post-Amiran formations. Along the CC´ cross-section, disharmonic folding caused the formation of the deep-seated Sargelan anticline beneath the surface syncline. The structure suggests that the deep-seated Sargelan anticline is formed along the s cross-section and continues to the north. The DD´ structural cross-section drew along the Sargelan, South Sargelan, Darreh-Baneh, and Chahar-Qaleh anticlines. Along with this structural cross-section, the Sargelan and South Sargelan anticlines have formed between the upper and middle detachment levels. Therefore, the study of these four structural cross-sections indicates that the deep-seated Sargelan anticline continues more than about 10 km just beneath the surface syncline. The reason for the formation of disharmonic folding is the high thickness of the upper detachment level (Amiran Formation) in the study area.    4- Conclusions The interpretation of structural profiles indicates two upper (Amiran Formation) and middle (Garu Formation) detachment level. Detachment levels and thrust faults have a significant influence on the geometry and kinematics of the structures, as the southwest limb thrust has formed and begin to ramp. Displacement of this thrust transported the anticline upward, and so the Sargelan anticline is a transported detachment folding. The high thickness of the upper detachment level cased formation of disharmonic folding that the deep Sargelan anticline continues to the northwest more than about 10 km and beneath the surface syncline. Measurement of the geometrical parameters indicates that the Sargelan anticline is an asymmetric, cylindrical fold, and concerning the aspect ratio and bluntness is fold-wide and semi-circle respectively. Interpretation of seismic profiles indicates that a deeper anticline is formed parallel to the Sargelan anticline, under the upper detachment level and it is introduced as the South Sargelan anticline in this study.   References Alavi, M., 1994. Tectonics of the Zagros orogenic belt of Iran: new data and interpretations. Tectonophysics 229, 211–238. Berberian, M., King, G.C.P., 1981. Towards a paleogeography and tectonic evolution of Iran. Canadian Journal of Earth Sciences 18, 210–265. Casciello, E., Verges, J., Saura, E., Casini, G., Fernandez, N., Blanc, E., Homke, S., Hunt, D.W., 2009. Fold patterns and multilayer rheology of the Lurestan Province, Zagros simply folded Belt (Iran). Journal of Geological Society 166, 947–959. Farzipour-Saein, A., Yassaghi, A., Sherkati, S., Koyi, H., 2009. Basin evolution of the Lurestan region in the Zagros fold-and-thrust belt, Iran. Journal of Petroleum Geology 32, 5–19.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>10</FPAGE>
+						<TPAGE>19</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>رضا</Name>
+						<MidName></MidName>		
+						<Family>علی پور</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه زمین شناسی دانشگاه بوعلی سینا همدان</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه زمین شناسی دانشگاه بوعلی سینا</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>rezaalipoor116@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>نسیم</Name>
+						<MidName></MidName>		
+						<Family>رحمانیان کوشککی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی دانشگاه بوعلی سینا، همدان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی دانشگاه بوعلی سینا، همدان،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>nasim_rahmanian@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>عارف</Name>
+						<MidName></MidName>		
+						<Family>شمس زاده</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی دانشگاه شیراز، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی دانشگاه شیراز، ایران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>arefshams70@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>تاقدیس</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سرگلان</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>جدایش</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>لرستان</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>زاگرس</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>آقانباتی. ع؛ 1385، زمین شناسی ایران، سازمان زمین شناسی کشور، 586 صفحه.##شمس­زاده. ع، علوی. آ، ولی­نژاد. م، توکلی­یرکی. م؛ 1395، سبک چین­خوردگی و پیچیدگی­های ساختاری در زیرپهنه لرستان مرکزی (مطالعه­ی موردی یکی از میادین نفتی ناحیه)، ماهنامه علمی-ترویجی اکتشاف و تولید نفت و گاز، شماره 144، صفحه 53-48.##Agard, P. J., Omrani, L., Jolivet, H., White church, B., Vrielynck, W., Spakman, P., Monie, B., Meyer, Wortel, R., 2011, Zagros orogeny: A subduction-dominated process, Geol. Mag, Vol: 148, p: 692–725.##Alavi, M., 1994, Tectonics of the Zagros orogenic belt of Iran: new data and interpretations, Tectono physics, Vol: 229, p: 211–238.##Alavi, M., 2004, Regional stratigraphy of the Zagros fold–thrust belt of Iran and its pro foreland evolution, American Journal of Science, Vol: 304, p: 1–20.##Alavi, M., 2007, Structures of the Zagros fold and thrust belt in Iran. Am. J. Sci, Vol: 307, p: 1064–1095.##Allen, M., Jackson, J., Walker, R., 2004, Late Cenozoic reorganization of the Arabia-Eurasia collision and the comparison of short-term and long-term deformation rates, Tectonics, 23, TC2008, doi: 2010.1029/2003TC001530.##Berberian, M., 1995, Master &quot;blind&quot; thrust faults hidden under the Zagros folds: active basement tectonics and surface morphotectonics: Tectonophysics, Vol: 241, p: 193-224.##Berberian, M., King, G.C.P., 1981, Towards a paleogeography and tectonic evolution of Iran. Canadian Journal of Earth Sciences, Vol: 18, p: 210–265.##Blanc, E.J.P., Allen, M.B., Inger, S., Hassani, H. 2003, Structural styles in the Zagros Simple Folded Zone, Iran. Journal of the Geological Society, London, Vol: 160, p: 401–412.##Bordenave, M. L., Hegre, J. A., 2005, The influence of tectonics on the entrapment of oil in the Dezful Embayment, Zagros Fold belt, Iran: Journal of Petroleum Geology, Vol: 28, p: 339-368.##Bulnes, M., Poblet, J., 1999. Estimating the detachment depth in cross sections involving detachment folds. Geology, Vol: 136, p: 395-412.##Carruba, S., Perotti, C.R., Buonaguro, R., Calabro, R., Carpi, R. Naini, M., 2006. Structural pattern of the Zagros foldand- thrust belt in the Dezful Embayment (SW Iran): Styles of continental contraction: Geological Society of America Special Paper, Vol: 414, p: 11–32.##Casciello, E., Vergés, J., Saura, E., Casini, G., Fernández, N., Blanc, E., Homke, S., Hunt, D.W., 2009, Fold patterns and multilayer rheology of the Lurestan Province, Zagros simply folded Belt (Iran). J. Geolog. Soc. 166, 947e959.##Colman-Sadd, S.P., 1978, Fold development in Zagros simply folded belt, Southwest Iran. American Association of Petroleum Geologist Bulletin, Vol:62, No: 6b, p: 984-1003.##Dahlstrom, C. D., 1970, Structural geology in the eastern margin of the Canadian Rocky Mountains. Bulletin of Canadian Petroleum Geology, Vol:18, No: 3, p: 332-406.##Dahlstrom, C.D.A., 1990,Geometric constraints derived from the law of conservation of volume and applied to evolutionary models for detachment folding. AAPG, Bulletin, Vol: 74, No: 3, p: 336-344.##Desitter, L.U., 1956, Structural geology. McGraw-Hill. London.##Falcon, N. L., 1961, Major earth-flexuring in the Zagros Mountains of south-west Iran. Quarterly Journal of the Geological Society, Vol: 117, No: 1-4, p: 367-376.##Falcon, N.L., 1974, Southern Iran: Zagros Mountains. In: Spencer, A.M. (ed.) Mesozoic–Cenozoic Orogenic Belts. Data for Orogenic Studies. Geological Society, London, Special Publications, Vol: 4, p: 199–211.##Golonka, J., 2004, Plate tectonic evolution of the southern margin of Eurasia in the Mesozoic and Cenozoic. Tectonophysics, Vol: 381, p: 235-273.##Hessami, K., Koyi, H. A., Talbot, C. J., Tabasi, H., Shabanian, E., 2001, Progressive unconformities within an evolving foreland fold-and-thrust belt, Zagros Mountains: Geological Society, London, Vol: 158, p: 969-981.##Homke, S., Vergés, J., Garcés, M., Emami, H., Karpuz, R., 2004, Magnetostratigraphy of Miocene–Pliocene Zagros foreland deposits in the front of the Push-e Kush Arc (Lurestan Province, Iran): Earth and Planetary Science Letters, Vol: 225, p: 397– 410.##Homke, S., Vergés, J., Serra-Kiel, J., Bernaola, G., Sharp, I., Garcés, M., Goodarzi, M. H., 2009, Late Cretaceous–Paleocene formation of the proto–Zagros foreland basin, Lurestan Province, SW Iran. Geological Society of America Bulletin, Vol: 121, No: 7-8, p: 963-978.##James, G. A., Wynd, J. G., 1965, Stratigraphic Nomenclature of Iranian Oil Consortium Agreement Area: Bulletin of the American Association of Petroleum Geologists, Vol: 49, p: 2182-2245.##Jamison, W.R., 1987, Geometric analysis of fold development in over thrust terranes. Journal of Structural Geology, Vol: 9, p: 207-219.##Koop, W. J., Stoneley, R., 1982, Subsidence history of the Middle East Zagros basin, Permian to Recent, in P. E. Kent, M. P. Bott, D. P. McKenzie, and C. A. William, eds., Philosophical Transactions of Royal Society London, Part A, Vol: 305, p: 149-168.##Macleod, J. H., 1970, Kabir Kuh geological map, 1:100 000. National Iranian Oil Company, Tehran.##McClay, K., 2011, Introduction to thrust fault-related folding, in K. McClay, J. Shaw, and J. Suppe, eds., Thrust fault-related folding: AAPG Memoir Vol: 94, p: 1 – 19.##McQuillan, H., 1991, The role of basement tectonics in the control of sedimentary facies, structural patterns and salt plug emplacements in the Zagros fold belt of Southwest Iran: Journal of Southeast Asian Earth Sciences, Vol: 5, p: 453-463.##Motiei, H., 1994, Stratigraphy of Zagros Geological Survey of Iran, 536 p.##Mouthereau, F., 2011, Timing of uplift in the Zagros belt/Iranian plateau and accommodation of late Cenozoic Arabia-Eurasia convergence, Geol. Mag, Vol: 148, p: 726–738.##Mouthereau, F., Lacombe, O., Vergés, J., 2012, Building the Zagros collisional orogeny: Timing, strain distribution and the dynamics of Arabia/Eurasia convergence, Tectonophysics, Vol: 532, p: 27–60.##O’Brien, C. A.E., 1957, Salt diapirism in south Persia. Geol. Mijnbouw., Vol: 19, p: 357–376.##O’Brien, C.A.E., 1950, Tectonic problems of the oil belt of southwest Iran. In: 18th International Geological Congress, Proceedings, Great Britain.##Poblet J.A., McClay, K.R., 1996, Geometry and kinematics of single layer detachment folds, AAPG Bulletin, p: 1085-1109.##Poblet, J., McClay, K., Storti, F., Muñoz, J. A., 1997, Geometries of syntectonic sediments associated with single-layer detachment folds. Journal of Structural Geology, Vol: 19, No: 3-4, p: 369-381.##Rowan, M., 1997, Three-dimensional geometry and evolution of a segmented detachment fold, Mississippi Fan fold belt, Gulf of Mexico: Journal of Structural Geology, Special Issue on Fault-Related Folding, Vol: 19, p: 463-480.##Sepehr, M. Cosgrove, J.W., 2005, Role of the Kazerun Fault Zone in the formation and deformation of the Zagros Fold–Thrust Belt, Iran. Tectonics, 24, TC5005, doi: 5010.1029/2004TC001725.##Sepehr, M., Cosgrove, J.W., Moieni, M., 2006, The impact of cover rock rheology on the style of folding in the Zagros fold-thrust belt. Tectonophysics, Vol: 427, p: 265–281.##Setudehnia, A., 1978, The Mesozoic sequence in southwest Iran and adjacent area. Journal of Petroleum Geology, Vol: 1, p: 3–42.##Sherkati, S., Letouzey, J., Frizon de Lamotte, D., 2006, Central Zagros fold-thrust belt (Iran): new insights from seismic data, field observation, and sandbox modeling. Tectonics 25, TC4007.##Sherkati, S., Molinaro, M., Frizon de Lamotte, D., Letouzey, J., 2005, Detachment folding in the Central and Eastern Zagros fold-belt (Iran): salt mobility, multiple detachments and late basement control: Journal of Structural Geology, Vol: 27, p: 1680-1696.##Soleimany, B., Sabat, F., 2010, Style and age of deformation in the NW Persian Gulf, Pet. Geosci, Vol: 16, p: 31–39.##Stöcklin, J., 1968, Salt Deposits of the Middle East: Geological Society of America Special Paper, Vol: 88, p: 158-181.##Suppe, J., Med wedeff, D. A., 1990, Geometry and kinematics of fault-propagation folding. Eclogae Geologicae Helvetiae, Vol: 83, No: 3, p: 409-454.##Szabo, F., Kheradpir, A., 1978, Permian and triassic stratigraphy, Zagros basin, south‐west Iran. Journal of Petroleum Geology, Vol: 1, No: 2, p: 57-82.##Takin, M., Akbari, Y., Macleod, J. H., 1970, Pul-e-Dukhtar geological map 1:100 000. National Iranian Oil Company, Tehran.##Vergés, J., Goodarzi, M.G.H., Emami, H., Karpuz, R., Efstathiou, J., Gillespie, P., 2011, Multiple Detachment Folding in Pusht-e Kuh Arc, Zagros: role of Mechanical Stratigraphy. AAPG Mem. 94, 69e94 (Chapter 4).##Vernant, P., et al. 2004, Contemporary crustal deformation and plate kinematics in Middle East constrained by GPS measurements in Iran and northern Iran, Geophys. J. Int., Vol: 157, p: 381–398.##Vita-Finzi, C., 2001, Neotectonics at the Arabian plate margins. Journal of Structural Geology, Vol: 23, No: 2, p: 521-530.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی اثر مقیاس در برآورد مقدار نشت آب از مخزن و تکیه‌گاه سد بهشت‌آباد</TitleF>
+				<TitleE>Investigation of scale effect in the amount of water leakage from dam reservoir and abutments (case study: Beheshtabad Dam)</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>ساخت سدها بر روی سازندهای کربناته کارستی عمدتاً با مشکل نشت از تکیه‌گاه و مخزن مواجه است. احداث سد بر روی این سازندها باعث نشت از مخزن سد به سمت پایین دست می‌گردد. سد بهشت‌آباد در حال حاظر در مرحله مطالعات قرار دارد و جناح راست مخزن این سد به‌طور مستقیم با سازند دلومیتی-آهکی جهرم در تماس می‌باشد. با توجه به ناهمگنی کارست مقدار هدایت‌ هیدرولیکی با مقیاس رابطه مستقیم دارد به همین دلیل برای تعیین میزان نشت از مخزن سد روش‌های مختلفی با مقیاسهای متفاوت برای تعیین میزان هدایت هیدرولیکی این سازند استفاده گردید که شامل آزمایش‌های لوژن، اسلاگ، دارسی، منحنی فرود و استفاده از دبی چشمه و سطح آب گمانه مجاور می‌باشد. بر اساس روش‌های مختلف طیفی از مقادیر هدایت ‌هیدرولیکی معادل توده بین 6-10×1/2 متر بر ثانیه در مقیاس کوچک (Sub-local scale) تا 4-10×6/1 متر بر ثانیه در مقیاس ناحیه‌ای (Regional scale) با اختلاف 75 برابر بدست آمده است. با توجه به نتایج مطالعات توصیه می‌گردد از روشهای مقیاس ناحیه‌ای برای بررسی نشت این سد بهره گرفته شود که با در نظر گرفتن سطح مقطع تماس آهک با مخزن در حالت بدون ایجاد پرده تزریق، مقدار نشت حدود 4/5 تا 1/7 متر مکعب بر ثانیه پیش‌بینی می‌شود.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>1- Introduction For a dam project in the karstic areas, the most important parameter is the hydraulic conductivity values which are necessary for determining the amounts of leakage from its reservoir and abutments However, secondary porosity and flow networks can cause heterogeneity and anisotropy in karst fields, leading to changes in hydraulic conductivity values and then significant differences in leak calculation values due to scale changes. Limestone formation in a regional scale is generally heterogeneous, and the heterogeneity of hydraulic conductivity (Karami 2002) usually specify the value of heterogeneity in karstic aquifers Kiraly (1975) investigated karstic aquifers and fractures in the Jura Mountains in Switzerland. He reported that the sub-local scale to the well-scale and the great permeabilities on the regional scale are related to karstic conduits and increase hydraulic conductivity. Rovey and Cherkauer (1995) measured the hydraulic conductivities of five hydrostratigraphic carbonate units at different scales and reported that the values of hydraulic conductivities show direct proportionality with the measurement scales. Sauter (2005) studied the various methods, sub-local to regional scales, for determining the permeability in a karstic environment.  He mentioned that the various hydraulic conductivities in different scales could be due to the spatial organization and the degree of networking of the drainage system (Sauter 2005). Other hydrological and geological studies have investigated the relationship between scale with values of hydraulic conductivities in fractured rocks (Illman 2007) and sedimentary formations (Chapuis 2010, Galvão et al. 2016). The main objective of this study is an investigation of the scale effect on the amount of water leakage from the reservoir and the dam abutments in the karstic area. We selected the Beheshtabad for the case study of this issue. 2- Methodology Beheshtabad dam is double-arch dam with a height of 180 meters and the reservoir volume of 1050Í106 m3. The dam is situated on the Beheshtabad River with an approximately 33 m3/s flowrate. The right side of the reservoir is in contact with karstic limestone-dolomite of the Sangvil anticline named Jahrom- Asmari Formation with a thickness of about 700 meters. Determining the amount of leakage from the reservoir requires an accurate estimation of the hydraulic conductivity according to the contact scale with the karstic aquifer. The values of hydraulic conductivities have been measured in Jahrom-Asmari Formation of the right-side reservoir using various methods in three scales, sub-local, local and regional scales. We used the Slug and lugeon tests in sub-local scales and conducted simultaneous measurements of spring discharge and boreholes water levels such as pumping wells in the local scale. Also, hydraulic conductivity in the regional scale determined by Recession curve and Darcy method. Finally, the amount of leakage was calculated in different scales and compared based on the hydraulic conductivity values of different scales. 3- Findings The hydraulic conductivity has been calculated on a different scale with a related test for limestone aquifer on the reservoir’s right-side. The values of hydraulic conductivities are not the same in different methods, and it is in the range of 2.1×10-6 to 1.6×10-4 m/s (Table 1). The lowest hydraulic conductivity belongs to a slug test conducted on a sub-local scale, and the highest hydraulic conductivity is for recession curve and Darcy method in regional scale. Also, the spring discharge method and the water levels of boreholes as a pumping well in the local scale estimates the values of hydraulic conductivities. The calculated hydraulic conductivities on the regional scale are about 70 times higher than those for the sub-local scale, which is related to the effect of scale in the karstic environments. According to the results, experiments with a radius of greater than 500 meters will determine the equivalent volume of hydraulic conductivity to the karstic mass region. Table 1. Calculated hydraulic conductivity value using different methods      Methods   KMIN (m/s)   KMAX (m/s)   KRE (m/s)     PACKER TEST   1.00E-05   1.00E-07   3.20E-06     SLUG TEST   1.10E-06   3.30E-06   2.10E-06     DARCY   1.00E-04   1.30E-04   1.20E-04     RORABAUGH   1.41E-04   3.60E-04   1.60E-04     MILANOVIC   4.10E-05   2.00E-04   8.00E-05        Seep 2D software determined the leakage value for the northern limb to the downstream and southern limb. The amount of leakage varies due to changes in values of hydraulic conductivities. The amount of leakage calculated based on the average reservoir cross-section with a limestone aquifer at sub-local, local and regional scales are 0.3, 3.9, and 5.4 to 8.1 m3/s, respectively.  Such differences in the estimation of leakage are related to the scale effects on the heterogeneity of karstic areas. Hydrogeological studies indicate that the Beheshtabad reservoir is contacted regionally with the right-side limestone aquifer; therefore, the leakage amount should be modeled based on the regional hydraulic conductivity. According to the regional scale, hydraulic conductivity varies between 1.1×10-4 to 1.6×10-4 m/s. Therefore, the leakage amount from the dam reservoir will be between 6.3 m3/s and 8.1 m3/s (Fig. 1).                             Fig 1. Leakage amount based on regional scale hydraulic conductivity 4-Conclusion For determining the amount of dam reservoir leakage in the karstic areas, the most critical parameter is the value of hydraulic conductivity that changes with the measuring scale. When reservoir and abutment of the dam contacted with karst, some methods for determining the regional hydraulic conductivity such as dye tracing, the Darcy method, and the recession curve method are more accurate to estimate the leakage amount. If the reservoir contact is local, the pumping test is more accurate for determining the leakage value. Also, in the sub-local contact scale, lugeon, injection, and slug experiments are more accurate methods in terms of determining leakage amount. In karstic formations, the scale effect is one of the most important factors for reservoir considering in the stage of site selection of the dam. Therefore, the choice of the dam axis can be carried out in places where the reservoir and abutments of the dam are not in contact with the karst network as far as possible.   References Chapuis, R.P., 2010. Permeability scale effect in sandy aquifers: A few case studies. Proceedings of the18th International Conference on Soil Mechanics and Geotechnical Engineering, Paris Galvão, P., Halihan, T., Hirata, R., 2016. The karst permeability scale effect of Sete Lagoas, MG, Brazil. Journal of Hydrology 532, 149-162 Illman, W.A., 2006. Strong field evidence of directional permeability scale effect in fractured rock. Journal of Hydrology 319 (1-4), 227-236 Karami, G.H., 2002. Assessment of heterogeneity and flow systems in karstic aquifers using pumping test data. Ph.D. thesis, University of Newcastle Kiraly, L., 1975. Rapport surl’etat actuel des connaissances dans le domaine des caracteres physiques des roches karstiques. In Hydrogeology of Karstic Terrains (eds Burger A and Dubertret L). International Union of Geological Sciences, Series B, 3:53–67 Rovey, C.W., Cherkauer, D.S., 1995. Szxcale dependency of hydraulic conductivity measurements. Groundwater, 33(5), 769-780 Sauter, M., 2005. Scale effects of hydraulic conductivity in karst and fractured aquifers. Geophysical Research Abstracts, Accepted 28 April 2005, https://www.cosis.net/abstracts/EGU05/07748/EGU05-J-07748.pdf</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>20</FPAGE>
+						<TPAGE>28</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>حسین</Name>
+						<MidName></MidName>		
+						<Family>عابدیان</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه شاهرود</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه شاهرود</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>hoseinkhf@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>غلامحسین</Name>
+						<MidName></MidName>		
+						<Family>کرمی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>عضو هیئت علمی</Organization>
+						</Organizations>
+						<Universities>
+							<University>عضو هیئت علمی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>karami2523@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>حاجی</Name>
+						<MidName></MidName>		
+						<Family>کریمی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>عضو هیات علمی دانشکده کشاورزی، دانشگاه ایلام</Organization>
+						</Organizations>
+						<Universities>
+							<University>عضو هیات علمی دانشکده کشاورزی، دانشگاه ایلام</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>haji.karimi@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کارست</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>اثر مقیاس</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نشت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سد</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>هدایت هیدرولیکی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>شرکت مهندسین مشاور زایندآب، 1385، گزارش زمین شناسی محدوده مخزن و ساختگاه سد بهشت آباد##شرکت مهندسین مشاور زایندآب، 1386، گزارش ژئوتکنیک محدوده مخزن و ساختگاه سد بهشت آباد##Bouwer. H., Rice. R.C., 1976. A slug test method for determining hydraulic conductivity of unconfined aquifers with completely or partially penetrating wells, Water Resources Research, vol. 12, no. 3, pp. 423-428##Brown. D., 1998, An investigation into the controls on groundwater flow at increasing scales in the carboniferous limestone of Middlebarrow Quarry, S. Cumbria, U.K. PhD. Univ. of  Lancaster, Lancaster##Castany. G., 1984, Hydrogeological features of carbonate rocks. In: LaMoreaux PE, Wilson BM, Memon BA (eds) Guide to the hydrology of carbonate rocks. IHP studies and reports in hydrology, vol 41. UNESCO, Paris, pp 47- 67##Chapuis. R.P., 2013, Permeability scale effect in sandy aquifers: a few case studies. In: Proceedings of the 18th International Conference on Soil Mechanics and Geotechnical Engineering, Paris, pp. 507–510.##Clauser. C., 1992, Permeability of crystalline rocks. EOS, Trans. Am. Geophys. Union 73 (21), 233–238.##Dillon. P., Pavelic. P., Wright. M., Peter. P., Nefiodovas. A., 2001, Small-scale heterogeneity and anisotropy of a confined carbonate aquifer from triaxial tests on core samples. S. a. wohnlich, editor, New Approaches Characterising Groundwater Flow, Swets and Zeitlinger Lisse, 815-819##Galvão. P., Halihan. T., Hirata. R., 2015, The karst permeability scale effect of Sete Lagoas, MG, Brazil. Journal of Hydrology, http://dx.doi.org/10.1016/j.jhydrol.2015.11.026##Halihan. T., Sharp. Jr., J.M., Mace. R.E., 2000, Flow in the San Antonio segment of the Edwards Aquifer: matrix, fractures, or conduits? In: Wicks, C.M., Sasowsky, I.D. (Eds.), Groundwater Flow and Contaminant Transport in Carbonate Aquifers. Balkema, Rotterdam, The Netherlands, pp. 129–146.##Illman. W.A., 2007, Strong field evidence of directional permeability scale effect in fractured rock. J. Hydrol. 319 (1–4), 227–236.##Karami. G. H., 2002, Assessment of heterogeneity and flow systems in karstic aquifers using pumping test data, Ph.D. thesis Univ. of Newcastle, Newcastle upon Tyne.##Király. L., 1975, Rapport sur l&#039;état actuel des connais­sances dans le domaine des caracteres physique des roches karstique. - In: Burger, A. &amp; L. Duber­tret (eds.) Hydrogeology of karstic terrains. Inter­national Union of Geological Sciences, B, 3, pp. 53–67, Paris##Kurikami. H., Takeuchi. R., Yabuuchi. S., 2008, Scale effect and heterogeneity of hydraulic conductivity of sedimentary rocks at Horonobe URL site. Phys. Chem. Earth, Parts A/B/C 33 (Suppl. 1), S37–S44.##Landon. M.K., Rus. D.L., Harvey. F.E., 2001, Comparison of instream methods for measuring hydraulic conductivity in sandy streambeds. Groundwater 39 (6), 870–885.##Mace. R.E., Hovorka. S.D., 2000, Estimating porosity and permeability in a karstic aquifer using core plugs, well tests, and outcrop measurements, in Sasowsky, I.D., and Wicks, C.M., Groundwater flow and contaminant transport in carbonate aquifers: Brookfield, Vt., A.A. Balkema, p. 93–111##Maréchal. J.C., Dewandel. B., Subrahmanyam. K., 2004, Use of hydraulic tests at different scales to characterize fracture network properties in the weathered fractured layer of a hard rock aquifer. Water Resour. Res. 40, W11508. http://dx. doi.org/10.1029/2004WR003137.##Milanovic. P. T., 1981, Karst hydrogeology.  Littleton, CO: Water Resources Publications, 434 p.##Pearson. R., Money. M. S., 1977, Improvements in the lugeon or packer permeability test. Q. Jl Engng Geol. Vol. 10 pp. 221-239##Raeisi. E., 2008, Groundwater storage calculation in karst aquifers with alluvium or no-flow boundaries: Journal of Cave and Karst Studies, Vol. 63, pp. 62–70##Rorabough. M. I., 1964, Estimating changes in bank storage as groundwater contribution streamflow. Int. Ass. Sci. Hydrogeology, Pub. 63, 432-441##Rovey ӀӀ. C.W., Cherkauer. D.S., 1995, scale depen­dency of hydraulic conductivity measurements. - Ground Water, 33, 5, 769–780. doi: 10.1111/j.1745-6584.1995.tb00023.x##Sauter. M., 1991, Assessment of hydraulic conductivity in a karst aquifer at local and regional scale.- In: Quin­lan, J. (ed.) Proceedings of the 3rd conference on hy­drogeology, ecology, monitoring, and management of ground water in karst terranes, 4th–6th December 1991, Nashville, Tennessee. National Ground Water Association, 39–56, Dublin, Ohio.##Sauter. M., 2005, Scale effects of hydraulic conductivity in karst and fractured aquifers. - Geophysical Re­search Abstracts, 7, 7748.##Stocklin. J., 1968, Structural history and tectonics map of Iran: a review. Am Assoc Petrol Geol Bull 52(7):1229–1258##Whitakera. F.F., Smart. P.L., 2001, Characterising scale-dependence of hydraulic conductivity in carbonates: evidence from the Bahamas. Journal of Geochemical Exploration, pp. 133–137##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>متاسوماتیسم و تشکیل کرندوم در میگماتیت های منطقه بروجرد، زون سنندج – سیرجان، ایران</TitleF>
+				<TitleE>Metasomatism and corundum formation in migmatites of Broujerd area, Sanandaj-Sirjan Zone, Iran</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>منطقه بروجرد در زون سنندج – سیرجان، متشکل از سنگ های دگرگونی ناحیه ای است که توسط توده های نفوذی ژوراسیک میانی تحت تاثیر قرار گرفته و دگرگونی مجاورتی در آنها ایجاد شده است. میگماتیت ها بالاترین درجه دگرگونی در هاله مجاورتی هستند. در ناحیه آب بخشان، سنگ های کرندوم دار بصورت بخش های کوچکی در داخل آلبتیتیت ها یا همبری آلبیتیت – میگماتیت دیده می شوند. سنگ های کرندوم دار شامل کرندوم، کردیریت، کلریت، آلبیت، ایلمنیت، روتیل، میکای سفید و آپاتیت هستند. بر اساس محاسبات پزودوسکشن برای سنگ کل، دما و فشار تشکیل این سنگ ها 605 درجه سانتیگراد در 3/3 کیلوبار برآورد شده است. روابط صحرایی بین سنگ های متاسوماتیک (آلبیتیت ها) و سنگ های کرندوم دار، نشان می دهد که متاسوماتیسم در طی تشکیل کرندوم موثر بوده است. در طی متاسوماتیسم Na و تشکیل آلبیتیت، سیالات غنی از Mg-Al تشکیل شده و منجر به متاسوماتیسم Mg و تشکیل کرندوم در میگماتیت ها یا آلبیتیت ها شده اند.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>1-Introduction Corundum (Al2O3) is one of the rare metamorphic minerals that its formation requires particular chemical condition (low SiO2 and high Al2O3) in combination with high temperature (Simonet et al., 2008). Therefore, one of the most critical cases in the study of corundum-bearing rocks is the accurate determination of protolith and metamorphic conditions (Yakymchuk and Szilas, 2018). In the Broujerd area, Berthier et al. (1974) reported the corundum in migmatites for the first time. Despite the many studies in metamorphic rocks, these corundum-bearing rocks never reported in later works, until (Ghaffari, 2010) and then  (Papi, 2015) again reported corundum-bearing rocks in the area and both concluded that they are a kind of migmatites, evidence of granulite facies metamorphism. Neither Berthier et al. (1974) nor Gaffari (2010) and Papi (2015) reported albitite rocks that are in direct relations with corundum-bearing rocks. Also differences between whole rock composition in migmatites and corundum-bearing rocks and its possible role in corundum formation, never discussed. 2-Materials and Methods  Different samples collected for petrographic studies and finally, five samples had chosen for whole rock analysis (Table 1). Bulk rock compositions of selected samples were determined using an X-ray fluorescence spectrometer at the Zarazma Co., Tehran, Iran. Chemical compositions of minerals were obtained using a JEOL W-EPMA JXA8900-R electron microprobe in the Institute of Earth Sciences, Academia Sinica, Taiwan, at an acceleration voltage of 15 kV, a current of 15 nA, and a beam size of 2 nm. (Droop, 1987). The method used for Recalculation of Fe as Fe3+ and Fe2+. All mineral abbreviations are from (Whitney and Evans, 2010). 3-General geology and field relations Borujerd area located in Sanandaj-Sirjan Zone in the western part of Iran. Intrusive rocks, as main granitoids and rare norite, gabbro, and pegmatites, with NW – SE trend, injected along dominant schistosity in metapelites (Berthier et al., 1974), during middle Jurassic (175-170Ma; (Ahmadi-Khalaji et al., 2007; Mahmoudi et al., 2011). Contact metamorphism developed during magmatism, especially in the northern part of Broujerd batholith. Highest metamorphic grade restricted either to the northern part of granitoids or as large enclaves. Migmatites in Ab-Bakhshan area, show one of the most significant outcrops and located between granitoids and hornfelses. Based on Fig. 1, albitites dikes injected in migmatites. In general, towards albitites, migmatites first start to metasomatized and formed metasomatized-migmatites, then corundum-bearing rocks will appear either in contact or inside albitites. Migmatites are metatexite with the low-melt portion, generally with patchy structure. In petrographic studies, they include relatively uniform mineralogy: quartz, plagioclase and potassium feldspar are main minerals in the leucosomes with granoblastic texture, while biotite, cordierite, andalusite, sillimanites, spinel, and Fe-Ti oxides, are major minerals in mesosome, generally with lepidoblastic or grno-lepidoblastic texture. Their chemical composition (Table 1) with high Al2O3 and SiO2, and low alkali and calcium show that they have the pelitic origin. Metasomatized migmatites in the field are the same as migmatites, but under the microscope, andalusite and sillimanites start to replace by sericites, and biotites with chlorite. Near the corundum-bearing rocks (based on Figure 1) all andalusite and sillimanites completely replaced by sericites, all biotites with chlorites and also, feldspars altered. Comparing to migmatites, they have higher SiO2 and less Al2O3 (Table 1). Corundum-bearing rocks have different mineralogy. They mainly composed of corundum, chlorite, white mica (tin muscovites) and feldspar (albite), with rare rutile, ilmenite, and apatite. Albitites are mainly composed of albite (more than 80%) and quartz, sericites, potassium feldspars as minor minerals. Their chemical composition is entirely different from migmatites, with a low concentration of SiO2 and higher Al2O3 and MgO (Table 1). Albitites are deformed and make dikes and small patches in migmatites. They mainly composed of albite with rare muscovite, quartz, and k-feldspar. Their chemical composition is following high–Na plagioclases (Table 1.                           Figure 1. Schematic illustration of field relations between migmatites, corundum-bearing rocks and albitites (without scale)     Table 1. Major elements analysis of selected samples, based on Figure 1      Sample   BM-96.5   BM-96.8   BM-96.9   BM-96.102   BM-96.7     SiO2   63.85   71.08   43.25   43.73   61.45     Al2O3   17.35   14.65   28.38   26.55   19.54     TiO2   0.82   0.73   0.69   0.48   0.67     Fe2O3   7.49   3.6   4.57   6.94   2.02     MgO   2.2   1.95   8.7   8.68   2.75     MnO   0.16   0.05   0.05   0.07         CaO   0.64   0.8   0.54   0.92   0.51     K2O   3.35   2.39   5.48   2.79   0.32     Na2O   1.53   1.74   1.82   3.59   10.09     P2O5   0.22   0.1   0.06   0.09   0.16     LOI   2.31   2.91   6.46   6.09   2.48        4-Mineral chemistry Selected mineral analysis from corundum-bearing rocks is represented in Table 2. Corundum crystals in a mica matrix, have a relatively pure chemical composition (Table 2) and their aluminum content is above 1.99 a.p.f.u, only iron is a unique element that it reaches up to 0.006 a.p.f.u. Chlorite is one of the most abundant minerals in corundum-bearing rocks, which forms a large part of the rock&#039;s matrix. Chlorites usually contain rutile and or ilmenite inclusions. Chlorite are Mg-rich (Mg/Mg+Fe from 0.75 to 0.76; Table 2). In white micas, iron and magnesium are low and close to a pure muscovite composition. Feldspars are sodic in chemical composition, in which the XAb is 0.99 (Table 2). In other words, feldspars are pure albite. Cordierite is a rare mineral between feldspars and chlorites, and due to petrographic similarities, it is difficult to detect under the microscope. They are Mg-rich (Mg/(Mg+Fe)=0.81; Table 2). Rutile as inclusions in chlorite are relatively pure, and their iron and manganese are deficient (Table 2). Ilmenite is also found in some parts in the chlorite or the rock matrix, and its chemical composition is close to the ideal ilmenite, with little impurities (Table 2).   Table 2. Chemical analysis of minerals in corundum-bearing rocks of Broujerd area. Only selected analyzes are provided                                                                                Mineral   Chl   Chl       Ms   Ms       Crn   Crn       Crd   Crd       Fsp   Fsp       Rt   Ilm     Point   1   2       1   2       1   2       1   2       1   2                 SiO2   27.31   27.29       47.70   45.98       0.02   0.01       48.21   48.18       68.67   68.03       0.42   0.00     TiO2   0.05   0.06       0.09   0.00       0.01   0.05       0.00   0.00       0.00   0.00       98.78   53.97     Al2O3   21.50   22.51       34.86   37.72       99.82   99.71       33.04   33.12       19.42   19.41       0.25   0.00     Cr2O3   0.04   0.15       0.00   0.00       0.06   0.00       0.00   0.00       0.00   0.00       0.00   0.00     Fe2O3   0.06   0.00       0.00   0.00       0.00   0.00       1.21   1.23       0.00   0.00       0.00   0.00     FeO   13.34   14.08       0.65   0.33       0.16   0.20       4.35   4.44       0.00   0.00       0.17   43.67     MnO   0.08   0.06       0.00   0.00       0.01   0.00       0.65   0.61       0.00   0.00       0.00   1.85     MgO   24.14   23.36       1.22   0.39       0.00   0.00       10.36   10.45       0.00   0.00       0.18   0.10     CaO   0.00   0.01       0.00   0.60       0.00   0.00       0.00   0.00       0.15   0.09       0.05   0.00     Na2O   0.04   0.00       0.61   1.04       0.00   0.00       0.00   0.00       11.23   11.58       0.00   0.00     K2O   0.00   0.00       9.76   9.22       0.00   0.00       0.00   0.00       0.05   0.04       0.00   0.00     Totals   86.56   87.52       94.89   95.28       100.08   99.97       97.82   98.03       99.52   99.15       99.85   99.59     Oxygens   14.00   14.00       11.00   11.00       3.00   3.00       18.00   18.00       8.00   8.00       2.00   3.00     Si   2.73   2.70       3.15   3.03       0.00   0.00       4.94   4.92       3.01   2.99       0.00   0.00     Ti   0.00   0.00       0.00   0.00       0.00   0.00       0.00   0.00       0.00   0.00       0.99   1.02     Al   2.53   2.63       2.72   2.93       2.00   2.00       3.99   3.99       1.00   1.01       0.00   0.00     Cr   0.00   0.01       0.00   0.00       0.00   0.00       0.00   0.00       0.00   0.00       0.00   0.00     Fe3   0.01   0.00       0.00   0.00       0.00   0.00       0.09   0.10       0.00   0.00       0.00   0.00     Fe2   1.12   1.17       0.04   0.02       0.00   0.00       0.37   0.38       0.00   0.00       0.00   0.92     Mn   0.01   0.01       0.00   0.00       0.00   0.00       0.06   0.05       0.00   0.00       0.00   0.04     Mg   3.60   3.45       0.12   0.04       0.00   0.00       1.58   1.59       0.00   0.00       0.00   0.00     Ca   0.00   0.00       0.00   0.04       0.00   0.00       0.00   0.00       0.01   0.00       0.00   0.00     Na   0.01   0.00       0.08   0.13       0.00   0.00       0.00   0.00       0.95   0.99       0.00   0.00     K   0.00   0.00       0.82   0.78       0.00   0.00       0.00   0.00       0.00   0.00       0.00   0.00     Sum   10.00   9.97       6.93   6.96       2.00   2.00       11.02   11.03       4.97   4.99       1.00   1.98     XMg   0.76   0.75                               0.79   0.79                             Mg/(Mg+Fe)   0.76   0.75                               0.81   0.81                             Or                                                   0.31   0.20                 Ab                                                   98.96   99.40                 An                                                   0.73   0.40                    5- Phase equilibria in the corundum-bearing rocks  Phase equilibria for corundum-bearing rocks were modeled in the system Na2O-K2O- CaO-FeO-MgO-Al2O3-SiO2-H2O- TiO2 (Ti-NCKFMASH) using the THERIAK-DOMINO software v.03.01.12 (Capitani and Petrakakis, 2010) with the internally consistent thermodynamic dataset of (Holland and Powell, 1998). The activity models of (Baldwin et al., 2015) are used for feldspar, those of (White et al., 2002) for corundum, and (Coggon and Holland, 2002) for micas.  The water content is taken from the &#039;loss of ignition&#039; (LOI) during XRF analyses, following (Sarkar and Schenk, 2014), although the effects of variation in the amount of water calculated. The fluid phase is assumed to be pure H2O. The final calculated pseudo section is represented in Figure 2.                                         Figure 2. Calculated pseudosection for corundum-bearing rocks in Broujerd area (Sampled BM-96.102 in Table 1 and Fig. 1). Gray region is following the mineralogy of corundum-bearing rocks. Dashed red and green lines represent equal values of Mg/Mg+Fe for chlorite and cordierite, respectively and their intersection show 605 °C - 3.3 kb as T and P, based on the mineral analysis in Table 2   6- Conclusion In the Ab-Bakhshan area, corundum-bearing rocks appeared as small patches, located in albitites or albitite-migmatite contact. Based on calculated pseudosection for migmatites, their composition is not suitable for corundum formation, even in high T. Using whole rock composition of corundum-bearing rocks, T and P estimated as 605 ℃ in 3.3 Kbar. Field relation between metasomatic rocks (albitites) and corundum-bearing rocks show that metasomatism was effective during corundum formation. The albitites occur most commonly in conjunction with other types of metasomatic rocks including scapolitised metagabbros and Mg-Al-rich lithologies such as orthoamphibole-cordierite schists (Engvik et al., 2014; Engvik et al., 2018). During Na metasomatism and albitite formation, Mg-Al rich fluids generated and cause chemical changes in migmatites, lead to appropriate whole rock composition for corundum formation. Na metasomatism could generate Mg-Al rich rocks, as corundum-bearing rocks of Broujerd area. So Mg-metasomatism and corundum formation either in migmatites or albitites, are consequences of Na-metasomatism in the area or are not evidence of very high T metamorphism.   References Ahmadi-Khalaji, A., Esmaeily, D., Valizadeh, M., Rahimpour-Bonab, H., 2007. Petrology and geochemistry of the granitoid complex of Boroujerd, Sanandaj-Sirjan Zone, Western Iran. Journal of Asian Earth Sciences 29(5-6), 859-877. Baldwin, J.A., Powell, R., White, R.W., Štípská, P., 2015. Using calculated chemical potential relationships to account for replacement of kyanite by symplectite in high pressure granulites. Journal of Metamorphic Geology 33(3), 311-330. Berthier, F., Billiaul, H.P., Halbroronn, B., Marizot, P., 1974. Etude Stratigraphique, petrologique et structural de La region de Khorramabad (Zagros, Iran). These De 3e cycle, Grenoble. Capitani, C.d., Petrakakis, K., 2010. The computation of equilibrium assemblage diagrams with Theriak/Domino software. American Mineralogist 95(7), 1006-1016. Coggon, R., Holland, T., 2002. Mixing properties of phengitic micas and revised garnet‐phengite thermobarometers. Journal of Metamorphic Geology 20(7), 683-696. Droop, G.T.R., 1987. A General Equation for Estimating Fe3+ Concentrations in Ferromagnesian Silicates and Oxides from Microprobe Analyses, Using Stoichiometric Criteria 51, 431-435. Engvik, A.K., Taubald, H., Solli, A., Grenne, T., 2018. Dynamic Metasomatism: Stable Isotopes, Fluid Evolution, and Deformation of Albitite and Scapolite Metagabbro (Bamble Lithotectonic Domain, South Norway). Geofluids 1, 1- 22. Engvik, A.K., Ihlen, P.M., Austrheim, H., 2014. Characterisation of Na-metasomatism in the Sveconorwegian Bamble Sector of South Norway. Geoscience Frontiers 5(5), 659-672. Ghaffari, M., 2010. Petrology of metamorphic rocks in the southeast of Boroujerd. MSc thesis, Geological Survey of Iran, Tehran, Iran (in Persian). Holland, T., Powell, R., 1998. An internally consistent thermodynamic data set for phases of petrological interest. Journal of metamorphic Geology 16(3), 309-343. Mahmoudi, S., Corfu, F., Masoudi, F., Mehrabi, B., Mohajjel, M., 2011. U–Pb dating and emplacement history of granitoid plutons in the northern Sanandaj–Sirjan Zone, Iran. Journal of Asian Earth Sciences 41(3), 238-249. Papi, N., 2015. Petrogenesis of granulite facies rocks in the contact aureole of boroujerd complex. M.Sc Thesis, Kharazmi University (In persian). Sarkar, T., Schenk, V., 2014. Two-stage granulite formation in a Proterozoic magmatic arc (Ongole domain of the Eastern Ghats Belt, India): Part 1. Petrology and pressure–temperature evolution. Precambrian Research 255, 485-509. Simonet, C., Fritsch, E., Lasnier, B., 2008. A classification of gem corundum deposits aimed towards gem exploration. Ore Geology Reviews 34(1), 127-133. White, R.W., Powell, R., Clarke, G.L., 2002. The interpretation of reaction textures in Fe-rich metapelitic granulites of the Musgrave Block, central Australia: constraints from mineral equilibria calculations in the system K2O–FeO–MgO–Al2O3–SiO2–H2O–TiO2–Fe2O3. Journal of Metamorphic Geology, 20(1), 41-55. Whitney, D.L., Evans, B.W., 2010. Abbreviations for names of rock-forming minerals. American mineralogist 95(1), 185. Yakymchuk, C., Szilas, K., 2018. Corundum formation by metasomatic reactions in Archean metapelite, SW Greenland: Exploration vectors for ruby deposits within high-grade greenstone belts. Geoscience Frontiers 9(3), 727-749.    </CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>29</FPAGE>
+						<TPAGE>42</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>علی اکبر</Name>
+						<MidName></MidName>		
+						<Family>بهاری فر</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>عضو هیئت علمی - دانشگاه پیام نور</Organization>
+						</Organizations>
+						<Universities>
+							<University>عضو هیئت علمی - دانشگاه پیام نور</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>baharifar@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سمیه</Name>
+						<MidName></MidName>		
+						<Family>ماله میر چگینی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه ژئوشیمی، دانشکده علوم زمین، دانشگاه خوارزمی</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه ژئوشیمی، دانشکده علوم زمین، دانشگاه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>s.malehmir.chegini@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>شهریار</Name>
+						<MidName></MidName>		
+						<Family>محمودی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه خوارزمی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه خوارزمی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>shahryar.mahmoudi@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>میگماتیت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>کرندوم</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>متاسوماتیسم</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>آلبیتیت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بروجرد</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>احمدی خلجی. ا.، 1385، پترولوژی توده گرانیتوئیدی منطقه بروجرد. رساله دکترا، دانشکده علوم، دانشگاه تهران.##احمدی خلجی. 1.، طهماسبی. ز.، کشتگر. ش.، 1387، نگرشی نو بر سنگ های دگرگونی منطقه بروجرد، فصلنامه زمین شناسی کاربردی، شماره 2، ص 71-81.##پاپی. ن.، 1394، پتروژنز سنگ های رخساره گرانولیت در هاله مجاورتی کمپلکس بروجرد. پایان نامه کارشناسی ارشد، دانشگده علوم زمین، دانشگاه خوارزمی.##حیدریان منش. ع.، طهماسبی.ز.، احمدی خلجی.ا.، 1395 ، شیمی کانی و دما فشارسنجی سنگهای میگماتیتی منطقه بروجرد) شمال پهنه سنندج سیرجان (، مجله پترولوژی اصفهان، شماره 25 ، ص 117-138.##زارع شولی. م.، طهماسبی. ز.، احمدی خلجی. ا.، ساکی. ع.، 1396، کاربرد زمین شیمیایی عناصر نادر خاکی  REE  جهت مقایسة منشاء میگماتیتها، لوکوسومها و گرانیتهای منطقه بروجرد: دیدگاه اکتشافی. مجله زمین شناسی کاربردی پیشرفته، شماره 26، ص 66-75.##غفاری. م.، 1389، پترولوژی سنگ های دگرگونی جنوب شرقی بروجرد. پایان نامه کارشناسی ارشد، پژوهشکده علوم زمین، سازمان زمین شناسی و اکتشافات معدنی کشور.##Baldwin. J.A., Powell. R., White. R.W., Štípská. P., 2015. Using calculated chemical potential relationships to account for replacement of kyanite by symplectite in high pressure granulites, Journal of Metamorphic Geology, No: 33, p: 311-330.##Berthier. F., Billiaul. H.P., Halbroronn. B., Marizot. P., 1974. Etude Stratigraphique, petrologique et structural de La region de Khorramabad (Zagros, Iran). These De 3e cycle, Grenoble, France.##Bottrill. R.S., 1998. A corundum-quartz assemblage in altered volcanic rocks, Bond Range, Tasmania. Mineralogical Magazine, No: 62, p: 325-332.##Bucher. K., de Capitani. C., Grapes. R., 2005. The development of a margarite–corundum Blackwall by metasomatic alteration of a slice of mica schist in ultramafic rock, Kvesjöen, Norwegian Caledonides, The Canadian Mineralogist, No:43, p: 129-156.##Butler. B.C.M., 1967. Chemical Study of Minerals from the Moine Schists of the Ardnamurchan Area, Argyllshire, Scotland. Journal of Petrology, No: 8, p: 233-267.##Capitani. C.d., Petrakakis. K., 2010. The computation of equilibrium assemblage diagrams with Theriak/Domino software. American Mineralogist, No: 95, p: 1006-1016.##Chowdhury. C., Talukdar. M., Sengupta. P., Sanyal. S., Mukhopadhyay. D., 2013. Controls of P-T path and element mobility on the formation of corundum pseudomorphs in Paleoproterozoic high-pressure anorthosite from Sittampundi, Tamil Nadu, India. American Mineralogist, No: 98, p: 1725-1737.##Demény. A., Sharp. Z.D., Pfeifer. H. R., 1997. Mg-metasomatism and formation conditions of Mg-chlorite-muscovite-quartzphyllites (leucophyllites) of the Eastern Alps (W. Hungary) and their relations to Alpine whiteschists. Contributions to Mineralogy and Petrology, No: 128, p: 247-260.##Dufour. M.S., Kol’tsov. A.B., Zolotarev. A.A., Kuznetsov. A.B., 2007. Corundum-bearing metasomatic rocks in the Central Pamirs. Petrology, No: 15, p: 151-167.##Engvik. A.K., Ihlen. P.M., Austrheim. H., 2014. Characterisation of Na-metasomatism in the Sveconorwegian Bamble Sector of South Norway. Geoscience Frontiers, No: 5, p: 659-672.##Engvik. A.K., Taubald. H., Solli A., Grenne. T., Håkon. Austrheim H., 2018. Dynamic Metasomatism: Stable Isotopes, Fluid Evolution, and Deformation of Albitite and Scapolite Metagabbro (Bamble Lithotectonic Domain, South Norway). Geofluids, No: 22, p: 1-22.##Fadda. S., Fiori. M., Matzuzzi. C., 2014. Genetic aspects of talc-chlorite formation in central Sardinia, Italy: Metamorphism, hydrothermalism and mg-metasomatism: The case of SA matta and SU venosu mines, 14th International Multidisciplinary Scientific Geo Conference SGEM, No: 1, p: 101-112.##Franz. L., Romer. R.L., de Capitani. C., 2013. Protoliths and phase petrology of whiteschists. Contributions to Mineralogy and Petrology, No: 166, p: 255-274.##Hey. M.H., 1954. A new review of the chlorites. Mineralogical Magazine, No: 30, p: 277-292.##Holland. T., Powell. R., 1998. An internally consistent thermodynamic data set for phases of petrological interest. Journal of metamorphic Geology, No: 16, p: 309-343.##Rubenach. M.J., Lewthwaite. K.A., 2002. Metasomatic albitites and related biotite-rich schists from a low-pressure polymetamorphic terrane, Snake Creek Anticline, Mount Isa Inlier, north-eastern Australia: microstructures and P–T–d paths. Journal of Metamorphic Geology, No: 20, p: 191-202.##Engvik. A.K., Håkon. A., 2010. Formation of sapphirine and corundum in scapolitised and Mg-metasomatised gabbro. Terra Nova, No: 22, p: 166-171.##Masoudi. F., 1997. Contact metamorphism and pegmatites development in the region SW of Arak, Iran. Unpublished Ph.D. Thesis, University of Leeds, UK, 321p.##Palke. A.C., Renfro. N.D., Berg. R.B., 2017. Melt inclusions in alluvial sapphires from Montana, USA: Formation of sapphires as a restitic component of lower crustal melting? Lithos, No: 278-281, p 43-53.##Coggon. R., Holland. T.J. B., 2002. Mixing properties of phengitic micas and revised garnet-phengite thermobarometers. Journal of Metamorphic Geology, No: 20, p: 683-696.##Raimbault. L., Bilal. E., 1993. Trace-element contents of helvite-group minerals from metasomatic albitites and hydrothermal veins at Sucuri, Brazil and Dajishan, China. The Canadian Mineralogist, No: 31, p: 119-126.##Riesco. M., Stüwe. K., Reche. J., 2005. Formation of corundum in metapelites around ultramafic bodies. An example from the Saualpe region, Eastern Alps. Mineralogy and Petrology, No: 83, p: 1-25.##Sarkar. T., Schenk. V., 2014. Two-stage granulite formation in a Proterozoic magmatic arc (Ongole domain of the Eastern Ghats Belt, India): Part 1. Petrology and pressure–temperature evolution. Precambrian Research, No: 255, p: 485-509.##Selman. A.M., Moazzen. M., 2012. Origin and Metamorphism of Corundum‐Rich Metabauxites at Mt. Ismail in the Southern Menderes Massif, SW Turkey. Resource Geology, No: 62, p: 243-262.##Simonet. C., Fritsch. E., Lasnier. B., 2008. A classification of gem corundum deposits aimed towards gem exploration. Ore Geology Reviews, No: 34, p: 127-133.##Stocklin. J., 1968. Structural history and tectonics of Iran: a review. AAPG Bulletin, No: 52, p: 1229-1258.##Droop. T.R.G., 1987. A General Equation for Estimating Fe3+ Concentrations in Ferromagnesian Silicates and Oxides from Microprobe Analyses, Using Stoichiometric Criteria, Mineralogical Magazine, No: 51, p: 431-435.##White. R.W., Powell. R., Clarke. G.L., 2002. The interpretation of reaction textures in Fe-rich metapelitic granulites of the Musgrave Block, central Australia: constraints from mineral equilibria calculations in the system K2O–FeO–MgO–Al2O3–SiO2–H2O–TiO2–Fe2O3. Journal of Metamorphic Geology, No: 20, p: 41-55.##Whitney D.L., Evans B.W., 2010. Abbreviations for names of rock-forming minerals. American mineralogist, No: 95, p: 185.##Yakymchuk. C., Szilas. K., 2018. Corundum formation by metasomatic reactions in Archean metapelite, SW Greenland: Exploration vectors for ruby deposits within high-grade greenstone belts. Geoscience Frontiers, No: 9, p: 727-749.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>کاربرد رده بندی توده سنگ جهت تخمین تزریق پذیری (مطالعات موردی)</TitleF>
+				<TitleE>Application of rock mass classification in estimating of groutability(case studies)</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>با استفاده از طبقه بندی توده سنگ به روش شاخص مقاومت زمین شناسی می توان اقدام به ارزیابی نفوذپذیری و تزریق پذیری توده های سنگی نمود. در این مقاله با انجام طبقه بندی شاخص مقاومت زمین‌شناسی میزان محدوده نفوذپذیری توده‌های سنگی براساس لوژان بر روی چارت طبقه بندی زون بندی شده است. در این چارت میزان GSI بیش از 55 محدوده لوژان 1-3 یا نفوذناپذیر ، میزان GSI بین 45 تا 55 محدوده لوژان 3 تا 10 یا نفوذپذیری کم ، میزان GSI بین 35 تا 45 محدوده لوژان 10 تا 30 یا نفوذپذیری متوسط و میزان GSI کمتر از 35 محدوده لوژان 30 تا 100 یا نفوذپذیری زیاد را نشان می‌دهند. پس از انجام این زون بندی در چارت طبقه‌بندی شاخص مقاومت زمین‌شناسی اقدام به تخمین تزریق پذیری و بهسازی توده های سنگی گردیده است. زون اول ناحیه بدون توان تزریق‌پذیری (None groutable) می‌باشد. زون دوم ناحیه با تزریق‌پذیری محدود که به صورت محلی (Local) می-باشد. زون سوم ناحیه با تزریق پذیری متوسط (Medium groutable) می‌باشد. زون چهارم ناحیه با تزریق پذیری بالا (High groutable) می‌باشد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>  1- Introduction One of the conventional field methods for determine permeability of rock masses is lugeon test. The absorption is specific with division water permeability test (lugeon) on the number of joints. The Secondary Permeability Index (SPI) relative to the specific joint that included the degree of joints, consistency joints, and void filling. The secondary permeability index obtained based on dams foundation classification for improvement dams foundation and rock masses classification. The secondary permeability index relative to rock mass permeability. The lugeon test is a way for determination secondary permeability index in dams foundation. The geological strength index that the results of this test were used for evaluation groutability of rock masses. In the classification of rock masses, geological strength index is better than other classification of rock masses because geological strength index noticed the roughness of surface joint in rock masses and structure rock masses with interlocking components. The roughness has a direct relation with hydrology parameters in rock masses — the geological strength index preference for groutability. The geological strength index is not noticing to the in situ stress and underground water — the estimation efficiency joints by log excavation and outcrops. The surface condition rating concluded: roughness, weathering and filling. This parameters collection thogether and determination of SCR. The structure rating determination by rock quality designation  (RQD( equations (3,4). The geological strength index classification of rock masses can be used for evaluation the permeability and groutability. The groutability determination by absorption specific.  This estimation is easy, rapid and without additional cost to the project and provide an estimation will be important role in allocation cost exploration, project management and programming.   2- Methodology  In this paper, permeability and groutability are evaluated by Lugeon and geological strength index in several dams. In this regard the groutability estimations are more or less in this relation, it is possible to zone the GSI chart based on lugeon number. In this research used of 200 lugeon test and geological strength index classifications. Their projects selected for estimation. These projects include Karun 2 dam, Jamishan reservoir dam, and Veniar reservoir dam. The 120 data used for the main chart and 80 data for validation. The structure rating (SR), surface condition rating (SCR), and lugeon determination in geological strength index chart. The permeability zones determined and the groutability zones evaluated. The zonation in the chart has a suitable correlation.    3-Findings In the chart of Figure 1, for GSI more than 55, the Lugeon between 1 to 3 or impermeable, the range of GSI between 45 to 55 equal to Lugeon 3 to 10 or low permeability, the range of GSI between 35 to 45 equal to Lugeon10 to 30 or medium permeability. Also, GSI less than 35 is Lugeon between 30 to100 or high permeability. The three boundary zone determination on geological strength index. The boundary one zone is SR=30 or Blocky/Disturbed/Seamy to Blocky middle boundary in the vertical axis, and horizontal axis included total SCR. The two-zone is disintegrated to middle very blocky in the vertical axis, and horizontal axis included total SCR. The three-zone is boundary Laminated/Sheared to middle boundary Blocky/Disturbed/Seamy in the vertical axis and boundary Good to Very poor in the horizontal axis.    After the zoning in geological strength index chart, groutability and ground treatment of rock masses estimated. The first zone is without groutability (None groutable), the second zone has the local groutability (Local groutable, the third zone has the medium groutability (Medium groutable) and the fourth zone has the high groutability (High groutable). This chart application in sedimentary and igneous rocks. This rocks include: limestone, sandstone, gabbro and diabase. This chart not application for fragmentation and impermeability rocks. For example shale and schist. The boundary of zonation has some vacillation it can improve in research future.     Figure 1. Zonation in chart of geological strength index with groutability and ground improvement   4-Conclusion In this chart, for GSI more than 55, the Lugeon between 1 to 3 or impermeable, the range of GSI between 45 to 55 equal to Lugeon 3 to 10 or low permeability, the range of GSI between 35 to 45 equal to Lugeon10 to 30 or medium permeability. Also GSI less than 35 is Lugeon between 30 to100 or high permeability. Based on the zonation in the chart, four zones namely none groutable, locally groutability, medium groutable and high groutable were identified. The zonation in chart also have a suitable correlation. This estimation is easy, rapid and without additional cost to the project and provide an estimation that will decrease exploration cost, project management and programming. In this paper, permeability and groutability are evaluated by Lugeon and geological strength index for sealing and consolidation rock masses. The recommended that examination accomplished in zonation of geological strength index and groutability for more exactly boundary zonation.   References Azimian, A., Ajalloeian, R., 2015. Permeability and groutability appraisal of the Nargesi dam site in Iran based on the secondary permeability index, joint hydraulic aperture and Lugeon tests. Bulletin of Engineering Geology and the Environment 74, 845-859. Barton,  N., 2008. Workshop Rock Engineering for Drill and Blast and TBM Tunneling and Important Aspects of Rock Mass Behavior, Iran. Cai., M., Kaiser, Uno, H., Tasaka, Y., Minami, M., 2004. Estimation of Rock Mass Deformation  Modulus and Strenght of Jointed Hard Rock Masses Using the GSI System. International Journal of Rock Mechanics and Mining Sciences 41, p: 319. Ewert, F. K., 1985. Rock Grouting with Emphesises on Dam Sites, Springer-Verlag, Berlin, Heidelberg. Ewert, F. K., 2005. Hydrofracturing of Latent discontinuties in rock and implication for successful and economical execution of grouting, Dam Engineering 16, 5-56. Foyo, A.M.A., Sanchez, C., Tomillo., 2005. A proposal for Secondary Permeability Index obtained from water pressure test in dam foundations. Engineering Geology 77, 69-82. Houlsby, A.C., 1990. Construction and Design of Cement Grouting, John willy &amp; Sons, p: 422. Kayabasi, A., Akgun, A., Gokceoglu, C., Hoek, E., Martinos, P., Martinos, V., 2005. Characterization and engineering properties of tectonically undisturbed but lithologically varied sedimentary rock masses under publication. International Journal of Rock Mechanics and Minings Sciences 42, 277-285. Rostami Baran, H. R., Lashkaripour, Gh., Ghafoori, M., 2014. A Proposal for Geological Groutability Index (GGI) of Cement Grouting in Rock Foundations. Indian Journal of Science and Technology 7, 95-103. Sonmez, H., Ulusay, R., 2002. A discussion  on  the Hoek-Brown  failure  criterion  and suggested  modifications  to  the  criterion  verified  by  slope  stability  case  studies. Yerbilimleri 26, 77- 99. Uromeihy, A., Farrokhi, R., 2011. Evaluating groutability at the Kamal-Saleh Dam based on Lugeon tests. Bulletin of Engineering Geology and the Environment 71, 50-63. Zeidabadi Nezhad, H., Ajalloeian, R., Azimian, A., 2012. Evaluation of Geological and Engineering Geological Properties of Cheshmeh-Asheq Dam Site, EJGE 17, 2633-2644.        </CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>43</FPAGE>
+						<TPAGE>50</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سید سجاد</Name>
+						<MidName></MidName>		
+						<Family>کراری</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>فارغ التحصیل</Organization>
+						</Organizations>
+						<Universities>
+							<University>فارغ التحصیل</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>sajjadkarrari@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>رسول</Name>
+						<MidName></MidName>		
+						<Family>اجل لوئیان</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی دانشگاه اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی دانشگاه اصفهان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>rasajl@sci.ui.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>طبقه توده سنگی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شاخص مقاومت زمین شناسی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نفوذپذیری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تزریق پذیری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>زون بندی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>اجل لوئیان. ر.، محمدی. د .،1382، رده بندی توده سنگ روشی کاربردی در مهندسی عمران، انتشارات فن آوران، ص 347.##اجل لوئیان. ر.، کراری. س.س.، 1394، راهکار اجرایی تزریق در سد با استفاده از لوژان و شاخص نفوذپذیری ثانویه، مجله زمین شناسی کاربردی پیشرفته، شماره 21، ص 1-9.##حبیبی. و.، 1390، بررسی خصوصیات زمین شناسی مهندسی ساختگاه سد جامیشان با توجه به نتایج عملیات مهندسی تزریق، پایان نامه کارشناسی ارشد دانشگاه اصفهان.##حیدری. ف.، 1379، بررسی مسائل زمین شناسی مهندسی و ژئوتکنیکی محل سد کارون 2 محور A-3 ، پایان نامه کارشناسی ارشد دانشگاه اصفهان.##طاهری. د.، 1381، بررسی ویژگی های زمین شناسی مهندسی ساختگاه سد بختیاری و ارزیابی تزریق پذیری پی سنگ و تکیه گاه های آن به منظور طراحی پرده آب بند، پایان نامه کارشناسی ارشد دانشگاه تربیت مدرس.##مقلب، ع.، 1388، بررسی خصوصیات زمین شناسی مهندسی ساختگاه سد ونیار با توجه به نتایج عملیات مهندسی تزریق، پایان نامه کارشناسی ارشد دانشگاه اصفهان.##Azimian. A., Ajalloeian R., 2015, Permeability and groutability appraisal of the Nargesi dam site in Iran based on the secondary permeability index, joint hydraulic aperture and Lugeon tests, Bulletin of  Engineering Geology and the Environment, Vol: 74, No: 3, p:845-859.##Barton. N., 2008, Workshop Rock Engineering for Drill and Blast and TBM Tunneling and Important Aspects of Rock Mass Behavior, Iran.##Cai. M., Kaiser. Uno. H., Tasaka. Y., Minami. M., 2004, Estimation of Rock Mass Deformation Modulus and Strenght of Jointed Hard Rock Masses Using the GSI System, Int. J. Rock Mech. And Min. Sci, Vol: 41, p:319.##Ewert. F. K., 1985, Rock Grouting with Emphesises on Dam Sites, Springer-Verlag, Berlin, Heidelberg.##Ewert. F. K., 2005, Hydrofracturing of Latent discontinuties in rock and implication for successful and economical execution of grouting, Dam Engineering, Vol: 16, No: 1, p:5-56.##Foyo. A. M. A., Sanchez. C., Tomillo., 2005, A proposal for Secondary Permeability Index obtained from water pressure test in dam foundations, Engineering Geology, Vol: 77, p:69-82.##Hoek. E., Brown, E. T., 1997, Practical estimates or rock mass strength. Int J Rock Mech Min Sci, 34(8), p: 65-86.##Hoek. E., Kaiser. P. K., Bawden. WF., 1994, Support of under-ground excavations in hard rock, Rotterdam, Balkema, p:215.##Houlsby. A. C., 1990, Construction and Design of Cement Grouting, John willy &amp; Sons, p:422.##Kayabasi. A., Akgun. A., Gokceoglu. C., Hoek. E., Martinos. P., Martinos. V., 2005, Characterisation and engineering properties of tectonically undisturbed but lithologically varied sedimentary rock masses under publication, Int J Rock Mech Min Sci, Vol: 42, p:277-285.##Palmstrom. A., 2009, Combining the RMR, Q, and RMI classification systems, Rock Mass, Oslo Norway, p:25.##Rostami Barani. H. R., Lashkaripour. Gh., Ghafoori. M., 2014. A Proposal for Geological Groutability Index (GGI) of Cement Grouting in Rock Foundations, Indian Journal of Science and Technology, vol: 7, No: 2,  p:95-103.##Sonmez. H., Ulusay. R.,  2002, A discussion  on  the Hoek-Brown  failure  criterion  andsuggested modifications  to  the  criterion  verified  by  slope  stability  case  studies, Yerbilimleri,Vol:  26, p: 77- 99.##Uromeihy. A., Farrokhi. R., 2011, Evaluating groutability at the Kamal-Saleh Dam based on Lugeon tests, Bulletin of Engineering Geology and the Environment, Vol: 71, No: 2, p:50-63.##Zeidabadi Nezhad. H., Ajalloeian. R., Azimian. A., 2012, Evaluation of Geological and Engineering Geological Properties of Cheshmeh-Asheq Dam Site, EJGE, Vol: 17, p:2633-2644.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>زمین‌شناسی، کانی‌سازی و زمین‌شیمی در رخداد آهن پده بید، جنوب غرب بردسکن، استان خراسان جنوبی</TitleF>
+				<TitleE>Geology, mineralization and geochemistry of Pade-Bid iron occurance, SW Bardaskan, South Khorasan province</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>ررخداد آهن پده‌بید در شمال شرق زون کاشمر- کرمان، یکی از مهمترین زون‌های متالوژنی آهن ایران، واقع شده است. واحدهای سنگی منطقه عمدتاً شامل تناوبی از سنگ‌های کربناته دگرگون شده، اسلیت و فیلیت است که توده‌های دیوریتی و گابرویی در آنها نفوذ نموده‌اند. براساس کنترل ساختاری زون کانی‌سازی، تشکیل جانشینی متاسوماتیزم با مشخصه کانی‌های آبدار حرارت پایین و همراهی مگنتیت و پیریت با کلریت، اپیدوت، کلسیت و کوارتز، کانه‌زایی آهن منطقه از نوع اسکارن حرارت پایین است. شیمی کانی مگنتیت و مقادیر Ti، Ca، V، Al، Mn، Ni و Cr نیز مشابه ذخایر اسکارن است. الگوی عناصر نادر خاکی، ناهنجاری مثبت Eu و Ce و ناهنجاری منفی Gd، Yb و Sm را نشان می‌دهد. شواهد صحرایی نشان می‌دهد که توده نفوذی جوانتر دیگری در عمق منشاء کانی‌سازی آهن منطقه است. براساس تحلیل مولفه‌های محاسبه شده برپایه REE، محلول کانه‌دار عمدتاً منشاء ماگمایی داشته، از طریق گسل به بالا راه پیدا کرده و در اثر واکنش با سنگ‌های کربناتی منجر به تشکیل کانسنگ شده است. ناحیه شمال شرق زون کاشمر- کرمان پتانسیل بالایی برای اکتشاف ذخایر آهن اسکارن دارد و می‌بایست مورد توجه بیشتری قرار گیرد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Pade-Bid iron occurance is located at northeast of Kashmar-Kerman zone, which is one of the most important iron metallogenic zone in Iran. Lithology of the area includes alternation of metamorphosed carbonate rocks, slate and phyllite, which are intruded by dioritic and gabbroic intrusions. Based on structural controls of orebody, metasomatic replacement and formation of low temperature H2O-beraring minerals and occurrence of magnetite and pyrite associated with chlorite, epidote, calcite and quartz, the iron mineralization is low temperature skarn-type. Magnetite chemistry and Ti, Ca, V, Al, Mn, Ni, and Cr contents are similar to those of skarn deposit. REE patern indicate positive Eu and Ce and negative Gd, Yb and Sm anomalis. The source of Fe mineralization is probably a younger intrusive body at depth due to field observations. Based on principal analysis on REE, the source of ore fluid is mostly magmatic water, which was ascended within fault zone and reacted with carbonate units to form the orebody. The northeastern part of Kashmar-Kerman zone has a great potential for Fe skarn-type deposits, which should be given more attention.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>51</FPAGE>
+						<TPAGE>62</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>آزاده</Name>
+						<MidName></MidName>		
+						<Family>ملکزاده شفارودی</Family>
+						<NameE>Azadeh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Malekzadeh Shafaroudi</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی و گروه پژوهشی اکتشاف ذخایر معدنی شرق ایران، دانشکده علوم، دانشگاه فردوسی مشهد، مشهد، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی و گروه پژوهشی اکتشاف ذخایر</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>shafaroudi@um.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محمد حسن</Name>
+						<MidName></MidName>		
+						<Family>کریم پور</Family>
+						<NameE>Mohammad Hassan</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Karimpour</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی و گروه پژوهشی اکتشاف ذخایر معدنی شرق ایران، دانشکده علوم، دانشگاه فردوسی مشهد، مشهد، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی و گروه پژوهشی اکتشاف ذخایر</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>karimpur@um.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سعید</Name>
+						<MidName></MidName>		
+						<Family>شعبانی</Family>
+						<NameE>Saeed</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Shaabani</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین‌شناسی، دانشکده علوم، دانشگاه فردوسی مشهد، مشهد، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین‌شناسی، دانشکده علوم، دانشگاه فردوسی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>saeed_geo31@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>کانی‌سازی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شیمی مگنتیت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>اسکارن حرارت پایین</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>پده‌بید</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>زون تکتونیکی کاشمر- کرمان</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>ایمان­پور. ب.، کریم­پور. م.ح.، ملکزاده شفارودی. الف.، 1395، بررسی کانه­زایی و ژئوشیمی کانسار آهن ده­زمان، (جنوب غرب بردسکن) و مقایسه آن با کانسارهای آهن نواری، مجله بلورشناسی و کانی شناسی ایران، شماره 4 (24)، ص 625-638.##براتی. م.، قلی­پور. م.، 1392، کانی­شناسی، ژئوشیمی و خاستگاه کانسار آهن ظفرآباد کردستان با استفاده از داده­های عناصر جزیی و نادر خاکی کانی مگنتیت، مجله زمین­شناسی اقتصادی، شماره 2 (5)، ص 235-254.##حاجی میرزاجان. ح.، ملکزاده شفارودی. الف.، همام. س.م، حیدریان شهری. م.ر؛  1396 الف، تعیین مدل کانه­زایی مگنتیت- اسپکیولاریت در کانسار آهن ده­زمان، استان خراسان رضوی: کانی­شناسی، ساخت و بافت و آلتراسیون، مجله بلورشناسی و کانی شناسی ایران، شماره 3 (25)، ص 543-556.##حاجی میرزاجان. ح.، ملکزاده شفارودی. الف.، همام. س.م.، حیدریان شهری. م.ر، 1396، تلفیق داده­های زمین­شناسی، کانی­سازی، ژئوشیمی و مغناطیس­سنجی در کانسار آهن آپاتیت­دار ده­زمان، استان خراسان رضوی، مجله زمین­شناسی اقتصادی، شماره 2 (9)، ص 335-356.##حاجی میرزاجان. ح.، ملکزاده شفارودی. الف.، همام. س.م.، حیدریان شهری. م.ر، 1397، ژئوشیمی و خاستگاه کانسنگ مگنتیت- اسپکیولاریت آپاتیت­دار کانسار آهن ده­زمان، شمال شرقی زون تکتونیکی کاشمر- کرمان، مجله زمین­شناسی کاربردی پیشرفته، درحال چاپ.##سهندی. م.، قاسمی. م.ر.، اختیارآبادی. ی.، 1389، نقشه 1:100000 قاسم آباد، سازمان زمین‌شناسی و اکتشافات معدنی کشور.##شعبانی. س.، کریم­پور. م.ح.، ملکزاده شفارودی. الف.، 1395، مطالعات کانی­شناختی و ژئوشیمیایی در کانسار آهن دلکن، استان­خراسان­رضوی، هشتمین همایش انجمن زمین­شناسی اقتصادی ایران، دانشگاه زنجان.##ملکزاده شفارودی. الف.، کریم­پور. م.ح.، 1394، کانی‌سازی و مطالعات سیالات درگیر کانسار اکسید آهن- آپاتیت خانلق، شمال شرقی ایران، مجله زمین­شناسی کاربردی پیشرفته، شماره 5 (17)، ص 59-71.##نارویی. ح.، ملکزاده شفارودی. الف.، کریم­پور. م.ح.، 1396، کانی­شناسی و زمین­شیمی کانسنگ اسکارن آهن و توده­ نفوذی سینودیوریتی میزبان در منطقه اکتشافی زبرکوه (جنوب باخاری بردسکن، استان خراسان جنوبی)، مجله پترولوژی، شماره 31 (8)، ص 89-110.##نوزعیم. ر.، محجل. م.، یساقی. ع.، نصرآبادی. م.،  1393، تحلیل ساختاری و تعیین شرایط دگرشکلی پهنه برشی کوه سرهنگی در گرانیت ده زمان، شمال باختری بلوک لوت، مجله بلورشناسی و کانی­شناسی ایران، شماره1 (22)، ص  15-26.##نوزعیم. ر.، نصرآبادی. م.، محجل. م.، یساقی. ع.، 1394، کانی­شناسی، پتروژنز و تفسیر جایگاه تکتونیکی گرانیت­های منطقه کوه­سرهنگی (شمال غرب بلوک لوت)، مجله پترولوژی، شماره21 (6)، ص  177-197.##Acosta-Gongora. P., Gleeson. S.A., Samson. I.M., Ootes. L., Corriveau. L., 2014, Trace Element Geochemistry of Magnetite and Its Relationship to Cu-Bi-Co-Au-Ag-U-W Mineralization in the Great Bear Magmatic Zone, NWT, Canada, Economic Geology, Vol. 109, p. 1901-1928.##Barret. T.J., Fralick. P.W., Jarvis I., 1988, Rare earth element geochemistry of some Archean iron formations North of Lake Superior, Ontario, Canadian Journal of Earth Science, Vol. 25. p. 570-592.##Berzina. A., 2012, Platinum-group element geochemistry of magnetite from porphyry-Cu-Mo deposits and their host rocks (Siberia, Russia), Acta Geologica Sinica (English Edition), Vol. 86, No. 1, p. 106-117.##Boynton. W.V., 1985, Cosmochemistry of the rare earth elements, Meteorite studies, In: Henderson. P., (eds.) Rare Earth Element Geochemistry, (Developments in Geochemistry 2), Elsevier, Amesterdam, p. 115-1522.##Bonyadi. Z., Davidson. G.J., Mehrabi. B., Meffre. S., Ghazban. F., 2011, Significance of apatite REE depletion and monazite inclusions in the brecciated Se–Chahun iron oxide–apatite deposit, Bafq district, Iran: Insights from paragenesis and geochemistry, Chemical Geology, Vol. 281, p. 253-269.##Carew. M.J., Mark. G., Oliver. N.H.S., Pearson. N., 2006, Trace element geochemistry of magnetite and pyrite in Fe oxide (+/–Cu–Au) mineralized systems: Insights into the geochemistry of ore-forming fluid, Geochimica et Cosmochimica Acta, Vol. 70, No. 18, p. A83-A83.##Chen. W.T., Zhou. M.F., Li. X., Gao. J.F., Hou. K., 2015, In-situ LA-ICP-MS trace elemental analyses of magnetite: Cu-(Au, Fe) deposits in the Khetri copper belt in Rajasthan Province, NW India, Ore Geology Reviews, Vol. 65, p. 929-939.##Daliran. F., 1990, The magnetite-apatite deposit of Mishdovan, East Central Iran, An alkali rhyolite hosted, ‘Kiruna type’ occurrence in the Infracambrian Bafg Metallotectonic (Mineralogic, Petro-graphic and geochemical study of the ores and the host rocks), Unpublished Ph.D. thesis, University of Karlsruhe, Karlsruhe, Germany, 248 pp.##Dare. S.A., Barnes. S.J., Beaudoin. G., Méric. J., Boutroy. E., Potvin–Doucet. C., 2014, Trace elements in magnetite as petrogenetic indicators, Mineral. Deposita, Vol. 49, p. 785-796.##David. A.F., Alan. P.M., Mark. A.E., Martin. B., Richard. H.G.J., Charles. M.O., 2004, Calcite twin morphology: a low-temperature deformation geothermometer, Journal of Structural Geology, Vol. 26, p. 1521-1529.##Deer. W.A., Howie. R.A., Zussman. J., 1992, An introduction to the rock-forming minerals (2nd ed). New York: Longman, Harlow, Wiley, 696 p.##De Sitter. J., Govaert. A., De Grave. E., Chamaere. D., Robrecht. G., 1977, Mossbauer study of Ca2+-containing magnetites, Physicochemical Status Solidification, Vol. 43(a), p. 619-624.##Dupuis. C., Beaudoin. G., 2011, Discriminate diagrams for iron oxide trace element fingerprinting of mineral deposit types, Mineralium Deposita, Vol. 46, No. 3, p. 1-17.##Foster. H., Jafarzadeh. A., 1994, The Bafq mining district in Central Iran- a highly mineralized Infracambrian volcanic field, Economic Geology, Vol. 89, No. 8, p. 1697-1721.##Frietsch. R., Perdahl. J.A., 1995, Rare earth elements in apatite and magnetite in Kiruna-type iron ores and some other iron ore types, Ore Geology Reviews, Vol. 9, p. 489-510.##Fryer. B.J., 1977, Rare earth evidence in ironformations for changing Precambrian oxidation states, Geochemica et Cosmochimica Acta, Vol. 41, p. 361-367.##Gosselin. P., Beaudoin. G., Jébrak. M., 2006, Application of the Geochemical Signature of Iron Oxides to Mineral Exploration, GAC–MAC Annual Meeting Prog.##Groshong. R.H.Jr., Pfiffner. O.A., Pringle. L.R., 1984, Strain partitioning in the Helvetic thrust belt of eastern Switzerland from the leading edge to the internal zone, Journal of Structural Geology, Vol. 6, p. 5-18.##Groshong. R.H.Jr., 1988, Low-temperature deformation mechanisms and their interpretation, Bulletin of the Geological Society of America, Vol. 100, p. 1329-1376.##Jami. M., Dunlop. A.C., Cohen. D.R., 2007, Fluid inclusion and stabele isotope study of the Esfordi apatite-magnetite deposite, Central Iran, Economic Geology, Vol. 102, No. 6, p. 1111-1128.##Kato. Y., 1999, Rare Earth Elements as an Indicator to Origins of skarn deposits: Examples of the kamioka Zn-Pb and Yoshiwara-Sannotake Cu(-Fe) deposits in Japan, Resource Geology, Vol. 49 , p.183-198.##Makvandi. Sh., Ghasemzadeh-Barvarz. M., Beaudoin. G., Grunsky. E.C., McClenaghan. M.B., Duchesne. C., Boutroy. E., 2016, Partial least squares-discriminant analysis of trace element compositions of magnetite from various VMS deposit subtypes: Application to mineral exploration, Ore Geology Reviews, Vol. 78, p. 388-408.##Mokhtari. M.A.A., Hosseinzadeh. G., Emami. M.H., 2013, Genesis of iron-apatite ores in Posht-e-Badam Block (Central Iran) using REE geochemistry, Journal of Earth System Science, Vol. 122, No. 3, p. 795-807.##Mollo. S., Putirka. K., Iezzi. G., Scarlato. P., 2013, The control of cooling rate on titanomagnetite composition: implications for a geospeedometry model applicable to alkaline rocks from Mt. Etna volcano, Contribiution to Mineralogy and Petrology, Vol. 165, p. 457-475.##Moore. F., Modabberi. S., 2003, Origin of choghart iron oxide deposit, Bafq mining district, central Iran: new isotopic and geochemical evidence, Journal of Sciences, Islamic Republic of Iran, Vol. 14, No. 3, p. 259-269.##Nadoll. P., Mauk. J.L., Hayes. T.S., Koenig. A.E., Box. S.E., 2012, Geochemistry of magnetite from hydrothermal ore deposits and host rocks of the Mesoproterozoic Belt Supergroup, United States, Economic Geology, Vol. 107, p. 1275-1292.##Nadoll. P., Angerer. T., Mauk. J.L., French. D., Walshe. J., 2014, The chemistry of hydrothermal magnetite: a review, Ore Geology Reviews, Vol. 16, p. 1-32.##Niiranen. T., Manttari. I., Poutiainen. M., Oliver. N., Miller. J.A., 2005, Genesis of Palaeoproterozoic iron skarns in the Misi region, northen Finland, Mineralium Deposita, Vol. 40, p. 192-217.##Nozaem. R., Mohajjel. M., Rossetti. F., Della Seta. M., Vignaroli. G., Yassaghi. A., Salvini. S., Eliassi. M., 2013, Post-Neogene right-lateral strike–slip tectonics at the north-western edge of the Lut Block (Kuh-e-Sarhangi Fault), Central Iran, Tectonophysics, Vol. 589, p. 220-233.##Nyström. J.O., Henriquez. F., 1994, Magmatic features of iron ores of the Kiruna type in Chile and Sweden: ore textures and magnetite geochemistry, Economic Geology, Vol. 89, p. 820-839.##Oksuz. N., Koc. S., 2009, Examination of Sarikaya (Yozgat-Turkey) iron mineralization with rare earth element (REE) method, Journal of Rare Earths, Vol. 28, p. 143-156.##Ramezani. J., Tucker. R.D., 2003, The Saghand region, central Iran: U–Pb geochronology, petrogenesis and implications for Gondwana tectonics, American Journal of Sciences, Vol. 303, p. 622-665.##Rossetti. F., Nozaem. R., Lucci. F., Vignaroli. G., Gerdes. A., Nasrabadi. M., Theye. T., 2014, Tectonic setting and geochronology of the Cadomian (Ediacaran-Cambrian) magmatism in Central Iran, Kuh-e-Sarhangi region (NW Lut Block), Journal of Asian Earth Sciences, Vol. 102, p. 24-44.##Rowe. K.J., Rutter. E.H., 1990, Paleostress estimation using calcite twinning: experimental calibration and application to nature, Journal of Structural Geology, Vol. 12, p. 1-17.##Rusk. B.G., Oliver. N.H.S., Zhang. D., Brown. A., Lilly. R., Jungmann. D., 2009, Compositions of magnetite and sulfides from barren and mineralized IOCG deposits in the eastern succession of the Mt Isa Inlier, Townsville: Australia Society for Geology Applied to Mineral Deposits, 10th Bi-ennial SGA Meeting, p. 656-658.##Singoyi. B., Danyushevsky. L., Davidson. G., Large. R., Zaw. K., 2006, Determination of trace elements inmagnetites from hydrothermal deposits using the LA–ICP-MS technique. SEG Keystone Conference, Denver, USA CD-ROM.##Tallarico. F.H.B., Figueiredo. B.R., Groves. D.I., Kositcin. N., McNaughton. N.H., Fletcher. IR., Rego. J.L., 2005, Geology and SHRIMP U-Pb geochronology of the Igarape Bahia deposit, Carajas copper-gold belt, Brazil: An Archean (2.57 Ga) example of iron-oxide Cu-Au-(U-REE) mineralization, Economic Geology, Vol. 100, p. 7-28.##Torab. F.M., Lehmann. B., 2007, Magnetite-apatite deposits of the Bafq district, Central Iran: apatite geochemistry and monazite geochronology, Mineralogical Magazine, Vol. 71, No. 3, p. 347-363.##Weber. J.C, Ferrill. D.A., Roden-Tice. Mk., 2001, Calcite and quartz microstructural geothermometry of low-grade metasedimentary rocks, Northen Range, Trinidad, Journal of Structural Geology, Vol.  23, p. 93-112.##Whitney. D.L., Evans. B.W., 2010, Abbreviations for names of rock-forming minerals, American Mineralogist, Vol. 95, p. 185-187.##Xiaowen. H., Liang. Q., Yumiao. M., 2014, Trace element geochemistry of magnetite from the Fe(-Cu) deposits in the Hami region, eastern Tianshan orogenic belt, NW China, Acta Geologica Sinica (English Edition), Vol. 88, No. 1, p. 176-195.##Zarei. A.,Malekzadeh Shafaroudi. A., Karimpour. M.H., 2015, Geochemistry and genesis of iron-apatite ore in Khanlogh deposit, Eastern Cenozoic Quchan-Sabzevar magmatic arc, NE Iran, Acta Geologica Sinica (English Edition), Vol. 88, No. 4, p. 1195-1213.##Zhang. D., Rusk. B., Oliver. N., Dai. T., 2011, Trace element geochemistry of magnetite from the Ernest Henry IOCG deposit, Australia, 11th biennial meeting SGA 2011-Let s talk ore deposits, Antofagasta, Chile.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>جداسازی آنومالی‌های ژئوشیمیایی سرب و روی با استفاده از روش‌های آمار کلاسیک، مولتی‌فرکتال عیار-تعداد، عیار-مساحت و شاخص سینگولاریتی در ورقه 1:100000 اراک</TitleF>
+				<TitleE>Discrimination of Pb and Zn geochemical anomalies using classical, multifractal (C-N) and (C-A) and singularity index statistical methods in Arak 1:100000 sheet</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>ورقه زمین شناسی 1:100000 اراک در بخش شمالی کمربند فلززایی سرب و روی ملایر-الیگودرز-اصفهان واقع شده است. داده های زمین شیمی 898 نمونه از رسوبات آبراهه ای منطقه مورد نظر که توسط روش ICP-MS تهیه شده اند مورد تحت تجزیه و تحلیل قرار گرفت. ابتدا از طریق روش آمار کلاسیک و MAD با محاسبه پارامترهای آماری به جداسازی جوامع زمین شیمیایی پرداخته شد. پس از آن با استفاده از روشهای فرکتالی عیار-تعداد و عیار-مساحت و همچنین با استفاده از روش سینگولاریتی آنومالیهای زمین شیمیایی دو عنصر سرب و روی در منطقه مورد مطالعه تفکیک شدند. روش فرکتال عیار-مساحت نشان داد که مقدار کمینه و بیشنیه عیار برای عنصر سرب به ترتیب 64/15 ppm و 100 ppm و برای عنصر روی 63/09 ppm و 251 ppm میباشد. بطور کلی نتایج این روشها نشان داد که عیار عنصر سرب در جنوب غرب و عیار عنصر روی در شمال شرق و جنوب محدوده افزایش پیدا میکند و در ان مناطق احتمال وجود مناطق امیدبخش کانساری بسیار بالا است و از طرفی نیز بیانگر این مسأله بود که آنومالی بدست آمده برای فلزات سرب و روی انطباق خوبی با واحدهای آهکی منطقه مورد مطالعه نشان میدهند.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>  1-Introduction Separation of geochemical anomalies from background has always been a significant concern of exploration geochemistry. The search for methods that can make this analysis quantitative and objective aims not only at the reduction of subjectiveness but also at providing an automatic routine in exploration, assisting the interpretation and production of geochemical maps (Nazarpour et al., 2016). Arak 1:100000 geological sheet is located in the north of Malayer-Aligoudarz-Efsahan Pb-Zn metalogenic belt, so this sheet has been studied. In this study, we compared the methods of classical statistics (Mean+2SDEV), exploratory data analysis (MAD), concentration-number (C-N) and concentration-area (C-A) fractal models. Also, singularity index models were used to separate the Pb and Zn anomalies in Arak 1:100000 geochemical sheet. The results of mentioned methods, showed that the singularity index method has a higher accuracy. Also, indicates the higher concentration of Zn in area of study. 2-Methodology 2-1 Classical statistics Various statistical methods have been used to process geochemical data in order to determine threshold values. Statistical quantities, such as the mean, standard deviation (SDEV) and percentiles, have been used to define threshold for separating anomalies form background. For example, geochemical anomalies have been defined as values higher than a threshold defined as the 75th or 85th percentile, and Mean+SDEV or Mean+2SDEV (Nazarpour et al., 2015).   2-2 EDA (Exploratory Data Analysis) In exploratory data analysis (here after named EDA) of geochemical exploration data, the median+2MAD value was initially used to identify extreme values and act as threshold for further inspection of large data sets (Carranza, 2009). The EDA was first established by Tukey (1977), was developed further by, and then was used by many researchers in modeling of geochemical anomalies (Carranza, 2009). The MAD is the median of absolute deviations of individual dataset values (Xi) from the median of all dataset values (Tukey, 1976): (1) MAD = median 14 [â”‚Xi-median Xiâ”‚]&quot;&gt; 2-3 Multifractal Fractal and multifractal models have also been applied to separate anomalies from background values. These methods are gradually being adopted as an effective and efficient means to analyze spatial structures in metallic geochemical systems (Afzal et al., 2017). The concentration-number (C-N), concentration-area (C-A) multi-fractal methods has been used for delineation and description of relations among mineralogical, geochemical and geological features based on surface and subsurface data (Nazarpour et al., 2015). Fractal/multi-fractal models consist of the frequency distribution and the spatial self-similar or self-affine characteristics of geochemical variables and have been demonstrated to be useful tools for decomposing geological complexes and mixed geochemical populations and to recognize weak geochemical anomalies hidden within strong geochemical background (Cheng et al., 1994). 2-4 Singularity index The singularity technique is another vital progress for fractal/multifractal modeling of geochemical data (Zuo et al., 2012). It is defined as the characterization of the anomalous behaviors of singular physical processes that often result in anomalous amounts of energy release or material accumulation within a narrow spatial–temporal interval. The singularity can be estimated from observed element concentration within small neighborhoods based on the following equation (Cheng, 2007): (2) 14X=cÂ·Îµa-E&quot;&gt;   The singularity index is a powerful tool to identify weak anomalies, but it is influenced by the selection of the window size. When applying this method, one should use different window sizes to process the geochemical data and find an appropriate window size which can highlight the interesting results (Zuo et al., 2012).   3- Results and discussion Threshold values obtained using mentioned methods were used to map the spatial distribution of element concentrations. These interpolated maps were produced by means of inverse distance weighted (IDW) method (Nazarpour et al., 2016). In classical statistics and MAD methods, anomalies are usually detected, regardless of the location of each instance, and only by formulating relationships (Hashemi marand et al., 2018). In these methods, it is possible that some of the proposed ranges are false anomalies (Tukey, 1977). The geochemical anomalies of the Pb and Zn elements were separated using fractal methods of concentration-number (C-N), concentration-area (C-A), and according to the fitting line of each element on the logarithmic graphs. The singularity index estimated through a small window mainly reflects the fluctuation of the element concentration (Afzal et al., 2017). The singularity index estimated through a large window mainly reflects regional changes but it does not focus on the local weak anomalies (Zuo et al., 2012). There is probably a significant effect of the contact between exposed bedrock and covered areas, or there could be other deterministic trends as well, which should be studied further (Cheng, 2007). The results of the named methods are shown in Fig. 1. 4-Conclusions Singularity index analysis, indicated that the hidden anomalies are better coincidence with indices and mineral deposit occurrence in the study area. In general, the comparison between these methods indicate that the concentration of Pb and Zn increased toward the and southwest and south-northeast parts, respectively. In these regions there is high potential for the occurrence of promising mining areas. Moreover, the obtained Pb and Zn anomalies have a reasonable correlation with the exposure of limestone in the study area, which is a suitable host rock for the formation of MVT type Pb and Zn deposits.             a               b             c               d             e         Figure 1. Maps of spatial distributions of Pb, Zn elements. a) Classic statistics, b) MAD, c) Multifractal (C-N), d) Multifractal (C-A), e) Singularity index References Afzal, P., Ahmadi, K., Rahbar, K., 2017. Application of fractal-wavelet analysis for separation of geochemical anomalies. Journal of African Earth Sciences 128, 27-36. Carranza, E.J.M., 2009. Controls on mineral deposit occurrence inferred from analysis of their spatial pattern and spatial association with geological features. Ore Geology Reviews 35(3-4), 383–400. Cheng, Q., 2007. Mapping singularities with stream sediment geochemical data for prediction of undiscovered mineral deposits in Gejiu, Yunnan Province, China. Ore Geology Reviews 32, 314- 324. Cheng, Q., Agterberg, F.P., Ballantyne, S.B., 1994. The separation of geochemical anomalies from background by fractal methods. Journal of Geochemical Exploration 51(2), 109-130. Hashemi marand ,G., Jafari, M., Afzal, P., Khakzad, A., 2018. Determination of relationship between silver and lead mineralization based on fractal modeling in Mehdiabad Zn-Pb-Ag deposit, Central Iran. Journal of Earth Sciences 27, 111-118.‎ Nazarpour, A., Paydar, G.R., Carranza, E.J.M., 2016. Stepwise regression for recognition of geochemical anomalies: Case study in Takab area, NW Iran. Journal of Geochemical Exploration 168, 150-162. Nazarpour, A., Sadeghi, B., Sadeghi, M., 2015. Application of fractal models to characterization and evaluation of vertical distribution of geochemical data in Zarshuran gold deposit, NW Iran. Journal of Geochemical Exploration 148, 60-70. Tukey, J.W., 1977. Box-and-whisker plots. Exploratory data analysis 39-43. Zuo, R., Carranza, E.J.M., Cheng, Q., 2012. Fractal/multifractal modelling of geochemical data 122, 1–3.  </CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>63</FPAGE>
+						<TPAGE>74</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>علی</Name>
+						<MidName></MidName>		
+						<Family>کنعانیان</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی، دانشکده علوم، دانشگاه تهران، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی، دانشکده علوم، دانشگاه تهران،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>kananian@ut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محمد امین</Name>
+						<MidName></MidName>		
+						<Family>جعفری</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی، دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی، دانشگاه تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>shadi582@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>احد</Name>
+						<MidName></MidName>		
+						<Family>نظرپور</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه آزاد اسلامی اهواز- گروه زمین شناسی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه آزاد اسلامی اهواز- گروه زمین شناسی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>ahad.nazarpour@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>فرکتال</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>آنومالی زمین‌شیمیایی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شاخص سینگولاریتی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سرب و روی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>اراک</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>آقانباتی، ع.، 1383، کتاب زمین­شناسی ایران، سازمان زمین­شناسی ایران، ص 709.##مجتهدزاده، س ح.، بمانی، ملک زاده.، 1396، تجزیه و تحلیل داده‎­های ژئوشیمی اکتشافی در محدوده معدن سرب و روی ایرانکوه اصفهان با استفاده از روش‎­های تحلیل اکتشافی داده‎­ها (EDA) و هندسه فرکتال، روش های تحلیلی و عددی در مهندسی معدن، شماره 7(13)، ص 71-90.‎##مغفوری، س.، حسین زاده، رجبی.، ع، عظیم زاده.، ا م.، 1396، کانسار دره زنجیر؛ نمونه ای از کانسارهای روی-سرب با میزبان کربناته (MVT) در توالی رسوبی کرتاسه پیشین، حوضه جنوب یزد. فصلنامه علمی-پژوهشی علوم زمین، شماره 26(103)، ص 13-28.‎##شهریاری، ا.،1377، مطالعه زمین شناسی، ژئوشیمی، آنالیز رخساره ای و ژنز کانسار سرب و روی ویشان-تکیه، پایان نامه کارشناسی ارشد، دانشگاه تربیت مدرس، ص 236.##نبوی، م.، 1355، مقدمه­ای بر زمین­شناسی ایران، سازمان زمین­شناسی ایران، 171 ص.##Afzal,P., Ahmadi. K., Rahbar. K., 2017, Application of fractal-wavelet analysis for separation of geochemical anomalies. Journal of African Earth Sciences, Vol: 128, p: 27-36.##Agard,P., Omrani. J., Jolivet. L., Whitechurch. H., Vrielynck. B., Spakman. Wortel. R., 2011, Zagros orogeny: a subduction-dominated process. Geological Magazine, Vol: 148(5-6), p: 692-725.##Agterberg,F. P., Bonham-Carter, G. F., Wright, D. F.1990, Statistical pattern integration for mineral exploration. In Computer applications in resource estimation, p: 1-21.##Agterberg,F. P., Cheng. Q., Brown.A., Good. D., 1996, Multifractal modeling of fractures in the Lac du Bonnet batholith, Manitoba. Computers &amp; Geosciences, Vol: 22(5), p: 497-507.##Agterberg,F.P., 2012, Multifractals and geostatistics. Journal of Geochemical Exploration Vol: 122, p:113–123.##Alavi,M., 1994, Tectonics of the Zagros orogenic belt of Iran: new data and interpretations. Tectonophysics, Vol: 229(3-4), p: 211-238.##Asadi,H. H., Kianpouryan, S., Lu. Y. J. McCuaig. T. C., 2014, Exploratory data analysis and C–A fractal model applied in mapping multi-element soil anomalies for drilling: A case study from the Sari Gunay epithermal gold deposit, NW Iran. Journal of Geochemical Exploration, Vol: 145, p: 233-241.##Cheng.Q., Agterberg. F. P., Ballantyne. S. B., 1994, The separation of geochemical anomalies from background by fractal methods. Journal of Geochemical Exploration, Vol: 51(2), p: 109-130.##Cheng,Q., Agterberg, F. P., 1996, Multifractal modeling and spatial statistics. Mathematical Geology, Vol: 28(1), p: 1-16.##Cheng,Q., Ping. Q., Kenny. F., 1997, Statistical and fractal analysis of surface stream patterns in the Oak Ridges Moraine, Ontario, Canada. In Proceedings of the International Association of Mathematical Geology Meeting, Barcelona, Vol: 1, p: 280-286.##Cheng,Q., 2007, Mapping singularities with stream sediment geochemical data for prediction of undiscovered mineral deposits in Gejiu, Yunnan Province, China, Ore Geology Reviews, No: 32, 314 –p: 324.##Deng,J., Wang. Q., Yang. L., Wang. Y., Gong. Q., Liu. H., 2010, Delineation and explanation of geochemical anomalies using fractal models in the Heqing area, Yunnan Province, China. Journal of Geochemical Exploration, Vol: 105(3), p: 95-105.##Delavar,S. T., Afzal. P., Borg. G., Rasa. I., Lotfi. M., Omran. N. R,. 2012, Delineation of mineralization zones using concentration–volume fractal method in Pb–Zn carbonate hosted deposits. Journal of Geochemical Exploration, Vol: 118, p: 98-110.##Ehya,F., Lotfi. M., Rasa. I., 2010, Emarat carbonate-hosted Zn–Pb deposit, Markazi Province, Iran: A geological, mineralogical and isotopic (S, Pb) study. Journal of Asian Earth Sciences, Vol: 37(2), p: 186-194.##Ghorbani,M. 2013. The Position of Iranian Mining Industry in the World. In The Economic Geology of Iran, p: 297-332. Springer, Dordrecht.##Hao,L., Zhao. X., Zhao. Y., Lu. J., Sun. L., 2014, Determination of the geochemical background and anomalies in areas with variable lithologies. Journal of Geochemical Exploration, Vol: 139, p: 177-182.##Hashemi marand,G., Jafari. M., Afzal. P., Khakzad. A., 2018, Determination of relationship between silver and lead mineralization based on fractal modeling in Mehdiabad Zn-Pb-Ag deposit, Central Iran. Journal of Earth Sciences, Vol: 27, p: 111-118.‎##Karimzadeh,A., 1992, Considering type, geochemistry-mineralogy relations and probable genesis of Emarat Zn and Pb mine (Arak), MSc dissertation, Tarbiat Moallem University.##Khani,S., Khakzad. A., Safari. M., Solgi. A., 2016, Petrography and Mineralography of Emarat Lead and Zinc Deposit (South Arak). Open Journal of Geology, Vol: 6(06), p: 387.##Lima,A., 2018, Evaluation of geochemical background at regional and local scales by fractal filtering technique: case studies in selected Italian areas. In Environmental Geochemistry (Second Edition), p: 115-132.##Luo,D., Zeng, G., 2018. Application and effects of singularity analysis in evaluating the denudation degree of Carlin-type gold deposits in southwest Guizhou, China. Ore Geology Reviews, Vol: 96, p: 164-180.##Mahdavi.,G., Khakzad, A., Lotfi, M. 2016, Conditions of Ore-Mineralization and Geochemical Correlation of Rare-Elements at the Robat Pb-Zn Deposit, West of Khomein, Central Iran. Open Journal of Geology, 6(09), 1118.##Mandelbrot,B. B., 1983, The fractal geometry of nature, Vol: 173. New York: WH freeman.##Mehrnia,S. R., 2017, Aplication of Fractal Technique for Analysis of Geophysical-Geochemical Databases in Tekieh Pb-Zn Ore Deposit (SE of Arak). Journal of Economic Geology, Vol: 8(2), p: 325-342.##Mirnejad,H., Simonetti. A., Molasalehi. F., 2011, Pb isotopic compositions of some Zn–Pb deposits and occurrences from Urumieh–Dokhtar and Sanandaj–Sirjan zones in Iran. Ore Geology Reviews, Vol: 39(4), p: 181-187.##Nazarpour,A., Sadeghi. B., Sadeghi. M., 2015, Application of fractal models to characterization and evaluation of vertical distribution of geochemical data in Zarshuran gold deposit, NW Iran. Journal of Geochemical Exploration, Vol: 148, p: 60-70.##Nazarpour,A., Paydar. G. R., Carranza. E. J. M., 2016, Stepwise regression for recognition of geochemical anomalies: Case study in Takab area, NW Iran. Journal of Geochemical Exploration, Vol: 168, p: 150-162.##Rad,M., Y., Haghshenas. S. S., Haghshenas. S. S., 2014, Mechanostratigraphy of cretaceous rocks by fuzzy logic in East Arak, Iran. In The 4th International Workshop on Computer Science and Engineering-Summer, WCSE.##Rajabi,A., Rastad. E., Canet. C., 2012, Metallogeny of Cretaceous carbonate-hosted Zn–Pb deposits of Iran: geotectonic setting and data integration for future mineral exploration. International Geology Review, Vol: 54(14), P: 1649-1672.##Rajabi,A., Rastad, E., Canet, C., 2013, Metallogeny of Permian–Triassic carbonate-hosted Zn–Pb and F deposits of Iran: a review for future mineral exploration, Australian Journal of Earth Sciences, Vol: 60(2), P: 197–216.##Reimann,C., de Caritat, P., 2017, Establishing geochemical background variation and threshold values for 59 elements in Australian surface soil. Science of The Total Environment, Vol: 578, P: 633-648.##Shokouh saljoughi,B., A. Hezarkhani, and E. Farahbakhsh., 2018, A comparative study of fractal models and U-statistic method to identify geochemical anomalies; case study of Avanj porphyry system, Central Iran. Journal of Mining and Environment, Vol: 9, P: 209-227.##Tukey,J. W., 1977, Box-and-whisker plots. Exploratory data analysis, P: 39-43.##Wang,H., Zu R., 2015, A comparative study of trend surface analysis and spectrum–area multifractal model to identify geochemical anomalies. Journal of Geochemical Exploration, Vol: 155, P: 84-90.##Zhao,X., Hao, L., Lu, J., Zhao, Y., Ma, C., Wei, Q., 2018. Origin of skewed frequency distribution of regional geochemical data from stream sediments and a data processing method. Journal of Geochemical Exploration, Vol: 194, P: 1-8.##Zuo,R., Carranza. E.J.M., Cheng, Q., 2012. Fractal/multifractal modelling of geochemical data, Vol: 122, P: 1–3.##Zuo,R., Wang. J., 2016, Fractal/multifractal modeling of geochemical data: A review. Journal of Geochemical Exploration, Vol: 164, P: 33-41.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>پهنه بندی گستره ایران بر اساس تغییرات نسبت ضرایب لرزه خیری a/b</TitleF>
+				<TitleE>Zoning of Iran region based on changes in seismicity coefficient ratio (a/b)</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>ضرایب لرزه خیزیb, a در رابطه گوتنبرگ- ریشتر از مهمترین پارامتر ها در مطالعه الگوی لرزه خیزی یک منطقه می باشد. تهیه نقشه پهنه بندی ضرایب لرزه خیزی b-Value و a- Value و همچنین نسبت آن ها a/b- Value برای گستره ایران هدف اصلی در این پژوهش است.  ابتدا یک کاتالوگ از زمین لرزه های رخ داده از سال های 1900 تا 2007 در گستره ایران تهیه شده است، سپس کل ایران به پهنه هایی بسیار کوچک تقسیم شده و ضرایب لرزه خیزی b, a برای هر سلول از این شبکه به طور جداگانه محاسبه شده است. بر اساس مقدار عددی محاسبه شده برای هر سلول در گستره ایران نقشه های پهنه بندی a - Value ، b - Value و a /b-Value تهیه شده است. تغییرات در مقدار ضرایب لرزه خیزی بیانگر شرایط متفاوت تکتونیکی در منطقه است. در مقایسه و بررسی نقشه ها با یکدیگر نقشه پهنه بندی a /b-Value اطلاعات جامع تری را در مورد وضعیت لرزه خیزی و تکتونیکی منطقه نشان میدهد. بر این اساس پهنه ایران به سه منطقه کلی تقسیم می شود؛ مناطق با پتانسیل لرزه ای پایین ، مناطق با پتانسیل لرزه ای متوسط ، و مناطق با پتانسیل لرزه ای بالا.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>  1- Introduction The geological, structural, and seismic characteristics are not the same in various regions in Iran. The difference in the magnitude and frequency of seismic events in this area indicates such variations. Different researchers have provided various studies and maps of the geologic, tectonic, and seismotectonic situation in this area over the past years (Stocklin, 1968; Berberian, 1981; Alavi, 1991; Alavi Naini,1972; Nowroozi, 1976; Berberian,1976; Nogol Sadat, 1993; Mirzaei et al., 1998; Tavakoli et al., 1999; Zare and Memarian, 2000; Ansari et al., 2009). The similarity of such maps indicates the close correlation of the geologic, tectonic, seismotectonic situation in this area. Among the seismic parameters, the seismicity coefficients such as a and b in the Gutenberg-Richter (1954) equation are the most important parameters in determining the seismic pattern as well as tectonic and geologic characteristics of different regions. Determining these coefficients is necessary in the studies on the risk analysis and earthquake hazard zoning, and the value of these coefficients are assumed to be constant in the seismotectonic states. Therefore, providing a zoning map based on these coefficients will play an important role in better identification of the seismic characteristics of the region and applied studies. Providing a zoning map of the seismic coefficients of b-Value and a-Value and the ratio a/b- Value for Iran region is the main objective of this research. In order to calculate these coefficients and provide zoning maps, initially a complete catalogue of earthquakes occurred from 1900 to 2007 in Iran region has been prepared. Then, the entire Iran region is divided into very small and regular zones, and the seismicity coefficients (b, a) from the Gutenberg-Richter (1954) equation are calculated individually from this network for each cell. Based on the numerical value calculated for each cell in the range of Iran, the zoning maps of a-Value, b-Value and a/b-Value have been provided. The changes in the value of seismic coefficients indicate different tectonic situations in the region. According to the b-Value and a-Value zoning maps, the regions with various seismicity coefficients values can be separated. In the study and comparison of the maps, the zoning map a/b-Value shows more comprehensive information on the seismicity and tectonic situations of the region. As a matter of fact, using this map, the effect of coefficients such as a, b can be seen together in a map. Accordingly, Iran zone is divided into three general regions; low seismic potential, moderate seismic potential, and high seismic potential regions.   2-Methodology The first step in examining the seismicity of any region is collecting earthquakes that have previously occurred in that region. In this study, valid domestic and foreign sources were used for preparing the earthquake catalog. Before processing the seismic data, it is essential to refine the data of dependent events in order to obtain a poisson distribution of the data. In the present study, the window elimination method which is a standard method based on logarithmic time drawing of aftershocks based on the magnitude of earthquakes (Gardner and Knopoff, 1974). Finally, a catalog with 8090 earthquakes recorded from 1900 to 2007 (107 years) was prepared, serving as the basis and preliminary data of this study.  Zoning of Iran based on seismic coefficients a-value, b-value, and a/b-value is the main objective of this study. These coefficients were prepared for the entire zone of the country, and then regions with equal values were zoned together. Thus, to perform numerical calculations and determine seismic coefficients, the entire zone of the country and adjacent regions were divided into 2°*2° cells with 1.5° overlapping. This overlapping among cells plays a vital role in the continuity of data. A total of 1354 cell were resulted, for each the a- and b-values were calculated and attributed to the central point of that cell. In fact, across the entire zone of Iran, there are 1354 points with 0.5° distance from one another, and each point has its specific a- and b-value. Due to the large number of earthquakes (8090 records) and the large volume of computations (1354 cell keys), a computer program was written using Visual Basic using which: 1) The recorded seismic data were read; 2) the data belonging to each cell were separated; 3) seismicity computations were performed for that cell, and 4) results were saved in a separate file. Therefore, for all the 1354 cells specified across Iran and for the data constrained in each cell, the Gutenberg-Richter line was drawn and a- and b-values were computed for them. Finally, after entering the preliminary data (seismic coefficients) in Arc GIS, zoning maps were prepared using the inverse distance weighting (IDW) method which is a common and frequently used method.   3-Result and discussion Based on zoning maps, the a- and b-values of regions with different seismic activities and seismic coefficients were separated. In each map, nine zones with varying seismic coefficients are evident (Fig.1). In the zoning map of a-values, the largest numerical value of the frequency of earthquakes belongs to the Zagros region, East Alborz and Kopet Dag, and parts of Western and Northwestern regions, with the numerical value of 5.6 to 8.1. The b-value zoning map also showed the largest numerical value for the Zagros structural trend, East Alborz and Kopet Dag, and Western and Northwestern regions with the numerical value of 0.49 to 1.7.  These high-coefficient regions surround regions including parts of the Central and Eastern Iran with low seismic coefficients. The increase and decrease in b-value of various regions of Iran indicate the different tectonic conditions and behaviors of this zone (Scholz, 1968; Mori and Abercombie, 1997; Manakou and Tsapanos, 2000).   Figure 1. Right, the a-value zoning map across Iran; Left, the b-value zoning map across Iran     Figure 2. The a/b-value zoning map across Iran Next, a zoning map of the a/b ratio was also prepared (Fig.2). According to Bayrak et al. (2002), this map demonstrates the seismic condition and regions with seismic potential better than a and b maps. Based on this map, the Iran zone includes regions with high (6.4 to 7.4), moderate (5.9 to 6.3), and low (0.0 to 5.8) seismic activity. The high density of colors (high numerical value of a/b) in Zagros, Strait of Hormuz, some Eastern parts, Kopet Dag, Eastern and Western Alborz, and Azarbaijan indicate connected seismic belts of tectonically active regions surrounding regions with a low numerical value of a/b (low-density colors) or those with a low seismic potential (Fig. 2).   4-Conclusion Based on zoning maps of a-value, b-value, and a/b value prepared for Iran, regions with varying seismic coefficients can easily be distinguished from one another. These seismic zones can be compared with sedimentary-structural zones of Iran separated based on geological characteristics. This can also indicate the close relationship between seismic and tectonic features in Iran. Accordingly, Iran zone is divided into three general regions; low seismic potential, moderate seismic potential, and high seismic potential regions. The areas having high seismic potential have surrounded low seismic areas; of course, in form of a large belt of high seismic areas such as: 1-trend northwest to southeast of Zagros, 2- northern Strait of Hormoz with a northern southern trend corresponding to the Nayband-Sistan faults belt, 3- northeastern part of the Makran coast, 4- widespread sections of Azerbaijan, 5- Western Alborz, 6-Eastern Alborz, 7 Kopet Dagh, and 8-parts of the east of the country in the upper part of the Lut Desert (Khorasan).   Reference Alavi Naini, M., 1972. Etude geologique delaergiondedjam. Geological Survey of Iran, Report No. 23, 1–45 (in French). Alavi, M., 1991. Sedimentary and structural characteristics of the Paleo-Tethys remnants in northeastern Iran. Geological Society of America Bulletin, 103(8), 983-992. Ansari, A., Noorzad, A., Zafarani, H., 2009. Clustering analysis of the seismic catalog of Iran. Computers &amp; Geosciences, 35(3), 475-486. Bayrak, Y., Yılmaztürk, A., Öztürk, S., 2002. Lateral variations of the modal (a/b) values for the different regions of the world. Journal of Geodynamics, 34(5), 653-666. Berberian, M., 1976. Seismotectonic map of Iran (1:2 500 000). Geological Survey of Iran, Report No. 39. Berberian, M., 1981. Active faulting and tectonics of Iran: Zagros-Hindu Kush-Himalaya Geodynamic Evolution 3, 33-69. Gardner, J.K., Knopoff, L., 1974. Is the sequence of earthquakes in Southern California, with aftershocks removed, Poissonian?. Bulletin of the Seismological Society of America 64(5), 1363-1367. Gutenberg, B., Richter, C.F., 1954. Seismicity of the earth and associated phenimena. Princeton University Press, Princeton, New Jersey, U.S.A. Manakou, M.V., Tsapanos, T.M.,2000. Seismicity and seismic hazard parameters evaluation in the island of Crete and the surrounding area inferred from mixed data files. Tectonophys, 321(1), 157-178. Mirzaei, N., Mengtan, G., Yuntai, C., 1998. Seismic source regionalization for seismic zoning of Iran: major seismotectonic provinces. Journal of earthquake prediction research 7, 465-495. Mori, J., Abercrombie, R.E., 1997. Depth dependence of earthquake frequency‐magnitude distributions in California: Implications for rupture initiation. Journal of Geophysical Research: Solid Earth, 102 (B7), 15081-15090. Nogol Sadat, M.A.A., 1993. Seismotectonic map of Iran (scale1:1000000). Geological Survey of Iran. Nowroozi, A., 1976. Seismotectonic Provinces of Iran. Bulletin of the seismological society of America 66, 1249-1276. Scholz, C.H., 1968. The frequency-magnitude relation of microfracturing in rock and its relation to earthquakes: Bulletin of the seismological society of America, 58(1), 399-415. Stocklin, J., 1968. Structural history and tectonics of Iran: a review. AAPG Bulletin, 52(7), 1229-1258. Tavakoli, B., Ghafory-Ashtiany, M., 1999. Seismic hazard assessment of Iran. Annals of Geophysics, 42 (6), 1013–1021. Zare, M., Memarian, H., 2000. Simulation of earthquakes intensity in Iran. Research Report of Iranian Red Crescent, Tehran, Iran, 150 pp. (in Persian).  </CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>75</FPAGE>
+						<TPAGE>83</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>علی</Name>
+						<MidName></MidName>		
+						<Family>بیت اللهی</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>استاد یار، مرکز تحقیقات راه مسکن وشهرسازی ، تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استاد یار، مرکز تحقیقات راه مسکن وشهرسازی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>ali.beitollahi@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>غزاله</Name>
+						<MidName></MidName>		
+						<Family>رزاقیان</Family>
+						<NameE>-</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>-</FamilyE>
+						<Organizations>
+							<Organization>استاد یار، گروه زمین شناسی، واحد دماوند، دانشگاه آزاد اسلامی، دماوند، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استاد یار، گروه زمین شناسی، واحد دماوند،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>gh_razaghian@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>ایران</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تکتونیک</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نقشه ها</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>پهنه بندی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ضرایب لرزه خیزی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>آقانباتی، ع.،  1383، زمین شناسی ایران: انتشارات سازمان زمین شناسی و اکتشافات معدنی کشور، تهران، 606 ص.##افتخار نژاد، ج.، 1359،پهنه ساختاری ایران در ارتباط با حوضه های رسوبی: انجمن نفت ایران، شماره 82، صفحه 19-28.##نبوی، م. ح.، 1355، دیباچه ای بر زمین شناسی ایران: سازمان زمین شناسی کشور، گزارش شماره 38، صفحه 110.##نیری، ع.  و همکاران، 1375، استان های لرزه زمین ساخت ایران زمین: کمیته ملی سدهای بزرگ ایران، (IRCOLD)،نشریه 12.##Ahmadi,G., Mostaghel,N. and Nowroozi,A.A.,1989, Earthquake Risk analysis of Iran-V: probabilistic seismic risk for various peak  ground accelerations: Iranian Journal of Science and Technology,13:115-156.##AlaviNainiM.,1972, Etudegeologiquedelaergiondedjam: Geological Survey of Iran Reports23, pp.1–45 (in French).## Alavi, M., 1991,Sedimentary and structural characteristics of the Paleo-Tethys remnants in northeastern Iran: Geological Society of America Bulletin, 103(8), pp.983-992##Allen, C.R., St. Amand, P., Richter, C.F. and Nordquist, J., 1965, Relationship between seismicity and geologic structure in the southern California region: Bulletin of the Seismological Society of America, 55(4), pp.753-797.##Ansari, A., Noorzad, A. and Zafarani, H., 2009, Clustering analysis of the seismic catalog of Iran: Computers &amp; Geosciences, 35(3), pp.475-486.##Ambraseys, N. N. and Melville, C. P., 1982, A history of persian earthquakes: Cambridge university press.##Barton, D.J., Foulger, G.R., Henderson, J.R. and Julian, B.R., 1999, Frequency–magnitude statistics and spatial correlation dimensions of earthquakes at Long Valley caldera, California: Geophysical Journal International, 138(2), pp.563-570.##Bayrak, Y., Yılmaztürk, A. and Öztürk, S., 2002, Lateral variations of the modal (a/b) values for the different regions of the world: Journal of Geodynamics, 34(5), pp.653-666.##Berberian, M., 1981, Active faulting and tectonics of Iran: Zagros-Hindu Kush-Himalaya Geodynamic Evolution, 3, pp.33-69.##Berberian, M., 1976a, Contribution to Seismotectonics of Iran (part II): Geological Survey of Iran Report No. 39, 518 pp.##Berberian, M., 1976b, Seismotectonic map of Iran (1:2 500 000): Geological Survey of Iran Report No. 39.##Berberian, M., 1995, Master “blind” thrust faults hidden under the Zagros folds: active basement tectonics and surface morphotectonics: Tectonophysics, 241(3-4), pp.193-224.##Bhattacharya, P.M., Majumdar, R.K. and Kayal, J.R., 2002, Fractal dimension and b-value mapping in northeast India: Current Science, pp.1486-1491.##Boccaletti, M., Dainelli, P., 1982, Il sistema regmatico neogenicoquaternario nell’area mediterranea: esempio di deformazione plastico-rigida post-collisionale: Mem. Soc. Geol. Ital. 24, 465– 482.##Bonini, M., Corti, G., Sokoutis, D., Vannucci, G., Gasperini, P. and Cloetingh, S., 2003, Insights from scaled analogue modelling into the seismotectonics of the Iranian region: Tectonophysics, 376(3-4), pp.137-149.##Cao, A. and Gao, S.S., 2002, Temporal variation of seismic b‐values beneath northeastern Japan island arc: Geophysical research letters, 29(9), pp.48-1.##DeMets, C., Gordon, R.G., Argus, D.F. and Stein, S., 1990, Current plate motions: Geophysical journal international, 101(2), pp.425-478.##Gardner, J.K. and Knopoff, L., 1974, Is the sequence of earthquakes in Southern California, with aftershocks removed, Poissonian?: Bulletin of the Seismological Society of America, 64(5), pp.1363-1367.##Gutenberg, B. and Richter, C.F., 1954, Seismicity of the earth and Associated Phenimena: Princeton Univ. Press. Princeton, New Jersey, U.S.A.##Hatzidimitriou, P.M., Papadimitriou, E.E., Mountrakis, D.M. and Papazachos, B.C., 1985, The seismic parameter b of the frequency-magnitude relation and its association with the geological zones in the area of Greece: Tectonophysics, 120(1-2), pp.141-151.##Hashemi, N., 2009, An assessment of the Spatial Variation of the Seismic b_value across Iran: Scientific Quarterly Journal, Geoscience, Vol.18,No 72, Summer 2009.##Jackson, M.P.A. ed., 1990, Salt diapirs of the Great Kavir, central Iran (Vol. 177): Geological Society of America.##Jackson, J., Haines, J. and Holt, W., 1995, The accommodation of Arabia‐Eurasia plate convergence in Iran: Journal of Geophysical Research: Solid Earth, 100(B8), pp.15205-15219.##Jackson, J. and McKenzie, D., 1984, Active tectonics of the Alpine—Himalayan Belt between western Turkey and Pakistan: Geophysical Journal International, 77(1), pp.185-264.##Jackson, J. and McKenzie, D., 1988, The relationship between plate motions and seismic moment tensors, and the rates of active deformation in the Mediterranean and Middle East: Geophysical Journal International, 93(1), pp.45-73.##Jackson, J.A., 2002, Strength of the continental lithosphere: time to abandon the jelly sandwich?: GSA today, 12, pp.4-10.##Jestin, F., Huchon, P. and Gaulier, J.M., 1994, The Somalia plate and the East African Rift System: present-day kinematics: Geophysical Journal International, 116(3), pp.637-654.##Kalyoncuoglu, U.Y., 2007, Evaluation of seismicity and seismic hazard parameters in Turkey and surrounding area using a new approach to the Gutenberg–Richter relation: Journal of Seismology, 11(2), pp.131-148.##Khan, P.K., 2005, Mapping of b-value beneath the Shillong Plateau: Gondwana Research, 8(2), pp.271-276.##Manakou, MV, Tsapanos, TM,2000, Seismicity and seismic hazard parameters evaluation in the island of Crete and the surrounding area inferred from mixed data files: TECTONOPHYS, 321(1), 2000, pp. 157-178.##Mandal, P. and Rastogi, B.K., 2005, Self-organized fractal seismicity and b value of aftershocks of the 2001 Bhuj earthquake in Kutch (India): pure and applied geophysics, 162(1), pp.53-72.##McKenzie, D., 1972, Active tectonics of the Mediterranean region: Geophysical Journal of the Royal Astronomical Society, 30(2), pp.109-185.##Mirzaei, N., Mengtan, G. and Yuntai, C., 1998, Seismic source regionalization for seismic zoning of Iran: major seismotectonic provinces: Journal of earthquake prediction research, 7, pp.465-495.##Mogi, K., 1962, Magnitude-frequency relation for elastic shocks accompanying fractures of various materials and some related problems in earthquakes: Bull. Earthq. Res. Inst., 40, pp.831-853.##Mori, J. and Abercrombie, R.E., 1997, Depth dependence of earthquake frequency‐magnitude distributions in California: Implications for rupture initiation: Journal of Geophysical Research: Solid Earth, 102(B7), pp.15081-15090.##NogolSadat,M.A.A.,1993, SeismotectonicmapofIran(scale1:1000000): Geological Survey of Iran.##Nowroozi, A., 1976, Seismotectonic Provinces of Iran: Bull. Seism. Soc. Am.66, pp1249-1276.##Nowroozi, A.A. and Ahmadi, G., 1986, Analysis of earthquake risk in Iran based on seismotectonic provinces: Tectonophysics, 122(1-2), pp.89-114.##Priestley, K., Baker, C. and Jackson, J., 1994, Implications of earthquake focal mechanism data for the active tectonics of the South Caspian Basin and surrounding regions: Geophysical Journal International,  118(1), pp.111-141.##Scholz, C.H., 1968, The frequency-magnitude relation of microfracturing in rock and its relation to earthquakes: Bulletin of the seismological society of America, 58(1), pp.399-415.##Stocklin, J., 1968, Structural history and tectonics of Iran: a review. AAPG Bulletin, 52(7), pp.1229-1258.##Tavakoli, B. and Ghafory-Ashtiany, M., 1999, Seismic hazard assessment of Iran: Annals of Geophysics, 42(6), 1013–1021.##Tchalenko, J.S. and Braud, J., 1974, Seismicity and structure of the Zagros (Iran): The Main Recent Fault between 33 and 35 N. Phil. Trans. R. Soc. Lond. A, 277(1262), pp.1-25.##Zamani, A. and Asadi,A.,1995, Distribution of a and b values and quantitative seismicity of Iran: Proceeding of the Second International Conference on Seismology and Earthquake Engineering, Tehran,Iran,187-196.##Zamani, A.,Nedaei,M.,Boostani,R.,2009, Tectonic zoning of Iran based on self- organizing map: J. Appl. Sci. 9, 4099 –4114.##Zare, M. and Memarian, H., 2000, Simulation of earthquakes intensity in Iran: Research Report of Iranian Red Crescent, Tehran, Iran, 150 pp. (in Persian).##Wang, J.H., 1988, b values of shallow earthquakes in Taiwan: Bulletin of the Seismological Society of America, 78(3), pp.1243-1254.##Wiemer, S. and Wyss, M., 1997, Mapping the frequency‐magnitude distribution in asperities: An improved technique to calculate recurrence times? : Journal of Geophysical Research: Solid Earth, 102(B7), pp.15115-15128.##Wiemer, S. and Wyss, M., 2002, Mapping spatial variability of the frequency-magnitude distribution of earthquakes: In Advances in geophysics (Vol. 45, pp. 259-V). Elsevier.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE></ARTICLES>
+</JOURNAL>
+
+				</XML>
+				

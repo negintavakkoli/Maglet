@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1398</year>
+	<month>2</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2019</year>
+	<month>5</month>
+	<day>1</day>
+</pubdate>
+<volume>12</volume>
+<number>5</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>en</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>پیش‌بینی نشست زمین در تونل‌سازی مکانیزه با استفاده از مدل شبکه عصبی مصنوعی-الگوریتم بهینه‌سازی مبتنی بر جغرافیای زیستی و انفیس مبتنی بر روش‌های خوشه‌بندی</title_fa>
+	<title>Forecasting Surface Settlement Caused by Shield Tunneling Using ANN-BBO Model and ANFIS Based on Clustering Methods</title>
+	<subject_fa>ژئوتکنیک (مکانیک خاک و سنگ)</subject_fa>
+	<subject>Geotecnic</subject>
+	<content_type_fa>مقاله مستقل</content_type_fa>
+	<content_type>Original Manuscript</content_type>
+	<abstract_fa>&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt;بیشینۀ&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt;نشست سطح زمین یکی از پارامترهای مهم در عملیات حفاری مکانیزه از نوع متعادل&#8204;کنندۀ فشار زمین &lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;LTR&quot;&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt;(EPB)&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt; است که قبل از حفاری باید تعیین شود. زمانی&#8204;که مدل&#8204;سازی بسیار پیچیده&#8204; می&#8204;شود، روش&#8204;های هوش مصنوعی به&#8204;عنوان یک راه&#8204;حل استفاده می&#8204;شوند. این روش&#8204;ها در ابتدا با استفاده از داده&#8204;های واقعی آموزش می&#8204;بینند و سپس به پردازش اطلاعات ناشناخته می&#8204;پردازند. در این پژوهش برای پیش&amp;shy;بینی نشست زمین در تونل&#8204;سازی مکانیزه از نوع &lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;LTR&quot;&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt;EPB&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt; از روش&#8204;های هوش مصنوعی سیستم استنتاج تطبیقی عصبی- فازی (انفیس) و ترکیب شبکۀ عصبی مصنوعی با الگوریتم بهینه&amp;shy;سازی مبتنی بر جغرافیای زیستی استفاده شده است. در این پژوهش دو مدل انفیس شامل انفیس- خوشه&#8204;بندی کاهشی و انفیس-&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;LTR&quot;&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt;&lt;a href=&quot;http://www.civilica.com/Paper-PNUNCIT01-PNUNCIT01_107.html&quot; title=&quot;بهبود الگوریتم خوشه بندی C‌-means فازی به کمک بهینه سازی گروه ذرات دو مرحله ای&quot;&gt;&lt;span dir=&quot;RTL&quot; style=&quot;text-decoration:none;text-underline:none;&quot;&gt;&lt;span style=&quot;color:windowtext;&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;خوشه&#8204;بندی &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-decoration:none;text-underline:none;&quot;&gt;&lt;span style=&quot;color:windowtext;&quot;&gt;C-means&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;RTL&quot; style=&quot;text-decoration:none;text-underline:none;&quot;&gt;&lt;span style=&quot;color:windowtext;&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt; فازی&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt; استفاده شده است. برای اثبات توانایی روش&#8204;های مذکور از داده&#8204;های پروژه مترو بانکوک، تایلند استفاده شده است. در این مدل&#8204;ها پارامترهای عمق، فاصله تا سینه کار، سطح آب زیرزمینی، متوسط فشار پشت کاتر، متوسط نرخ نفوذ، زاویه&#8204;ای که درزه&#8204;ها با سینه کار می&#8204;سازند، فشار تزریق و درصد پرشدگی تزریق به&#8204;عنوان ورودی و بیشینۀ نشست سطح زمین به&#8204;عنوان خروجی درنظر گرفته شده است. برای بررسی عملکرد مدل&#8204;ها از&amp;nbsp; دو شاخص آماری ضریب تعیین&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;LTR&quot;&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt; (R&lt;sup&gt;2&lt;/sup&gt;) &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt;&amp;nbsp;و میانگین مربعات خطا استفاده شده است که نهایتاً انفیس- خوشه&#8204;بندی کاهشی بهترین عملکرد را در بین سایر مدل&#8204;ها داشته است.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;
+&amp;nbsp;</abstract_fa>
+	<abstract>&lt;p&gt;Maximum surface settlement (MSS) is an important parameter for the design and operation of earth pressure balance (EPB) shields that should determine before operate tunneling. Artificial intelligence (AI) methods are accepted as a technology that offers an alternative way to tackle highly complex problems that can&amp;rsquo;t be modeled in mathematics. They can learn from examples and they are able to handle incomplete data and noisy. The adaptive network&amp;ndash;based fuzzy inference system (ANFIS) and hybrid artificial neural network (ANN) with biogeography-based optimization algorithm (ANN-BBO) are kinds of AI systems that were used in this study to build a prediction model for the MSS caused by EPB shield tunneling. Two ANFIS models were implemented, ANFIS-subtractive clustering method (ANFIS-SCM) and ANFIS-fuzzy c&amp;ndash;means clustering method (ANFIS-FCM). The estimation abilities offered using three models were presented by using field data of achieved from Bangkok Subway Project in Thailand. In these models, depth, distance from shaft, ground water level from tunnel invert, average face pressure, average penetrate rate, pitching angle, tail void grouting pressure and percent tail void grout filling were utilized as the input parameters, while the MSS was the output parameter. To compare the performance of models for MSS prediction, the coefficient of correlation (R&lt;sup&gt;2&lt;/sup&gt;) and mean square error (MSE) of the models were calculated, indicating the good performance of the ANFIS-SCM model.&lt;/p&gt;
+</abstract>
+	<keyword_fa>بیشینۀ نشست سطح زمین, تونل سازی مکانیزه از نوع EPB, سیستم استنتاج تطبیقی عصبی-فازی, شبکه عصبی مصنوعی</keyword_fa>
+	<keyword>Maximum surface settlement, EPB shield, Shield tunneling, Adaptive network–based fuzzy inference system, Artificial neural network, Biogeography-based optimization algorithm.</keyword>
+	<start_page>55</start_page>
+	<end_page>84</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-807-1&amp;slc_lang=en&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>Hadi</first_name>
+	<middle_name></middle_name>
+	<last_name>Fattahi</last_name>
+	<suffix></suffix>
+	<first_name_fa>هادی</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>فتاحی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>h.fattahi@arakut.ac.ir</email>
+	<code>10031947532846003268</code>
+	<orcid>10031947532846003268</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation>Department of Mining Engineering, Arak University of Technology, Arak, Iran</affiliation>
+	<affiliation_fa>دانشگاه صنعتی اراک، استادیار دانشکده مهندسی معدن</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Zohreh</first_name>
+	<middle_name></middle_name>
+	<last_name>Bayatzadehfard</last_name>
+	<suffix></suffix>
+	<first_name_fa>زهره</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>بیات زاده فرد</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>Iron.azar@gmail.com</email>
+	<code>10031947532846003269</code>
+	<orcid>10031947532846003269</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation>Department of Mining Engineering, Arak University of Technology, Arak, Iran</affiliation>
+	<affiliation_fa>دانشگاه صنعتی اراک، استادیار دانشکده مهندسی معدن</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

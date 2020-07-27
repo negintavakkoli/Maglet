@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>Faculty of Management, University of Tehran</PublisherName>
+				<JournalTitle>Journal of Information Technology Management</JournalTitle>
+				<Issn>2008-5893</Issn>
+				<Volume>9</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>03</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>An Intelligent System for Fraud Detection in Coin Futures Market’s Transactions of Iran Mercantile Exchange Based on Bayesian Network</ArticleTitle>
+<VernacularTitle>طراحی نوعی سیستم هوشمند برای کشف تقلب حاصل از حرکت القایی در معاملات بازار قراردادهای آتی سکۀ بورس کالای ایران مبتنی بر شبکۀ بیزی</VernacularTitle>
+			<FirstPage>1</FirstPage>
+			<LastPage>20</LastPage>
+			<ELocationID EIdType="pii">60680</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/jitm.2017.60680</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Amir-Reza</FirstName>
+					<LastName>Abtahi</LastName>
+<Affiliation>Assistant Prof., Dep. of IT., Faculty of Management, Kharazmi University, Tehran, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Fatemeh</FirstName>
+					<LastName>Elahi</LastName>
+<Affiliation>MSc. Student in Decision Sciences and Knowledge Engineering, Faculty of Management Kharazmi University, Tehran, Iran</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Reza</FirstName>
+					<LastName>Yousefi-Zenouz</LastName>
+<Affiliation>Assistant Prof., Dep. of IT., Faculty of Management, Kharazmi University, Tehran, Iran</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>06</Month>
+					<Day>15</Day>
+				</PubDate>
+			</History>
+		<Abstract>In order to gain more illicit profit, some traders in the stock market try to make a targeted impact on prices by placing fake orders and false advertising. Due to the high customer population, it is not possible to discover these frauds using traditional methods. The present study seeks to provide a system for preventing the frauds in future market-trading coins based on Bayesian classifier model for Iran Mercantile Exchange. The proposed model has polynomial time complexity and high accuracy because of considering important dependencies among different features of data. The primary labeling of data has been done by Kmeans clustering. The test of model shows 94.55 percent similarity between model&#039;s output and labeled data. Using this system can helps to identify the fraudulent from non-fraudulent traders.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Bayesian network</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Fraud detection</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Futures Contract</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Induction behavior</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Mercantile exchange</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://jitm.ut.ac.ir/article_60680_26aa06de30a6257fb58215616a88d6ba.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

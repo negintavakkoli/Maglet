@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-24T07:28:24Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://www.nowavari.ir/?_action=export&amp;rf=summon&amp;issue=5214</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-11-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>5</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>پیشران های کسب و ایجاد قابلیت های فناورانه ساخت محصولات و سامانه های پیچیده در بنگاه های متاخر: مطالعه موردی شرکت توربوکمپرسور نفت (OTC)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مصطفی</given_name>
+												<surname>صفدری رنجبر</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسین</given_name>
+												<surname>رحمان سرشت</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>منوچهر</given_name>
+												<surname>منطقی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>سید سروش</given_name>
+												<surname>قاضی نوری</surname>
+											</person_name></contributors>
+									<abstract>اقتصادهای نوظهور و کشورهای در حال توسعه، طی دهه‌های اخیر تلاش‌های زیادی در زمینۀ همپایی فناورانه، به‌ منظور دستیابی به دانش و قابلیت‌های مورد نیاز برای ساخت و توسعۀ محصولات و سامانه‌های پیچیده به نمایش گذاشته‌اند. طی سال‌های گذشته در ایران، برای دستیابی به دانش، مهارت‌ها و فناوری‌های ساخت توربین‌های گازی تلاش ‌های زیادی صورت گرفته و نتایج مطلوب و قابل ملاحظه‌‌ای نیز به‌ دست آمده است. این مقاله با استفاده از رویکرد کیفی و راهبرد پژوهشی مطالعۀ موردی، به مطالعۀ تجربۀ شرکت توربوکمپرسور نفت (OTC) در دستیابی به دانش و قابلیت‌های فناورانه و مدیریتی ساخت توربین‌های گازی صنعتی در قالب طرح توربین گازی IGT25 ‌می‌‌پردازد و پیشران‌ها و عوامل مؤثر بر این تجربۀ    موفقیت‌ آمیز را شناسایی می‌کند. یافته‌های این پژوهش نشان می‌دهد که سیاست‌ها، حمایت‌ها و اقدامات دولت، شبکه ‌سازی، تعامل و همکاری بین کنش‌گران و ذی نفعان اصلی، روش‌های کسب قابلیت‌های فناورانه، وجود بازار و تقاضای داخلی چشم‌گیر قابلیت‌های سازمانی و مدیریتی‌، بافتار و عوامل محیطی نقش کلیدی در همپایی شرکت توربوکمپرسور نفت و دستیابی این شرکت به دانش و فناوری‌‌های ساخت توربین‌های گازی ایفا می‌کنند.</abstract>
+									<keywords>
+									
+											<keyword>قابلیت‌های فناورانه</keyword>
+											<keyword>محصولات و سامانه‌های پیچیده</keyword>
+											<keyword>بنگاه‌های متاخر</keyword>
+											<keyword>شرکت توربوکمپرسور نفت</keyword>
+											<keyword>پیشران‌ها</keyword>
+											<keyword>توربین گازی IGT25</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>11</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>26</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_44426_30699f14be0c58a40456ac7ee8f824a5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-11-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>5</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناسایی و ساختاربندی مسائل و گزینه‌های سیاستی توسعه حوزه دانشی سیاست‌گذاری و مدیریت فناوری در ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سیدمحمدحسین</given_name>
+												<surname>شجاعی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سید رضا</given_name>
+												<surname>سلامی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سید حبیب‌اله</given_name>
+												<surname>طباطباییان</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>جهانیار</given_name>
+												<surname>بامداد صوفی</surname>
+											</person_name></contributors>
+									<abstract>رشد حوزه دانشی سیاست‌گذاری و مدیریت فناوری در کشور در بیش از یک دهه، با مسائل و چالش‌هایی همراه بوده است. وجود شواهدی از ناهمگنی و پراکندگی درون و میان برخی مؤلفه‌های این حوزه دانشی و نبود چشم‌انداز و مسیری مشخص برای توسعه آن، از مهم‌ترین این چالش‌ها هستند. این مطالعه با اتخاذ رویکرد تحلیل مشارکتی تفسیری سیاست به‌ دنبال شناسایی و ساختاربندی مسائل و گزینه‌های سیاستی توسعه حوزه دانشی سیاست‌گذاری و مدیریت فناوری در ایران از دیدگاه ذی‌نفعان و اعضای اجتماع این حوزه دانشی از طریق تحلیل محتوا و نگاشت مباحثات آنان است. این مطالعه مجموعه‌ای از سناریوهای سیاستی (شامل مسائل و گزینه‌ها) را پیش روی سیاست‌گذاران و اعضای اجتماع این حوزه دانشی قرار می‌دهد. نتایج پژوهش، نشان‌دهنده 34 نقطة محوری و 22 موضوع سیاستی در این مباحثات است. بیشترین موضوعات سیاستی در حوزه‌هایی دیده می‌شود که هم جنبه‌ آموزشی و هم جنبه‌ پژوهشی دارند. در حدود نیمی از موضوعات، تعارض میان رویکردهای مختلف بالاست. کمتر از 30 درصد موضوعات مربوط به مسائل ساختاری و برهم‌زننده‌ قواعد فعلی بازی است که تصمیم‌گیری در مورد آن‌ها باید با اجماع کنشگران و تأمین امکانات لازم صورت گیرد. ایجاد تغییر در حدود 70 درصد این موضوعات نیز دارای اثرات زنجیره‌ای است که تغییر در آن‌ها می‌تواند سایر موضوعات سیاستی را تحت تاثیر قرار دهد.</abstract>
+									<keywords>
+									
+											<keyword>حوزة دانشی سیاست‌گذاری و مدیریت فناوری</keyword>
+											<keyword>سیاست‌های توسعه حوزه دانشی</keyword>
+											<keyword>تحلیل مشارکتی سیاست</keyword>
+											<keyword>ساختاربندی مساله</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>11</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>27</first_page>
+										<last_page>58</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_42923_cb3ccaef0f3be84395fabd7260bc37a1.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-11-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>5</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تحلیل تاثیر توانمندی های نوآوری فناورانه بر تجاری سازی فناوری و عملکرد شرکت های دانش بنیان استان اصفهان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مریم</given_name>
+												<surname>پاک نیت</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رضا</given_name>
+												<surname>انصاری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>آرش</given_name>
+												<surname>شاهین</surname>
+											</person_name></contributors>
+									<abstract>ه‍دف از‌ ای‍ن‌ پ‍ژوه‍ش، ب‍ررس‍ی‌ تأثیر توانمندی‌ های نوآوری فناورانه ب‍ر تجاری‌ سازی فناوری و ع‍م‍ل‍ک‍رد ش‍رک‍ت ‌ه‍ای‌ دان‍ش‌ ب‍ن‍ی‍ان‌ و در م‍رح‍ل‍ۀ‌ ب‍ع‍د، ب‍ررس‍ی‌ تأثیر ع‍ام‍ل‌ ت‍ق‍وی‍ت‌ ک‍ن‍ن‍ده‌ و ت‍ع‍دی‍ل‌گ‍ر ن‍اپ‍ای‍داری‌ ه‍ای‌ م‍ح‍ی‍طی‌ است. ج‍ام‍ع‍ۀ‌ آم‍اری‌ ای‍ن‌ پ‍ژوه‍ش شامل 88 نفر از مدیران ش‍رک‍ت‌های دان‍ش‌‌ب‍ن‍ی‍ان‌ م‍س‍ت‍ق‍ر در ش‍ه‍رک‌ ع‍ل‍م‍ی‌ و ت‍ح‍ق‍ی‍ق‍ات‍ی‌ اص‍ف‍ه‍ان‌ می‌ باشد. داده‌ه‍ای‌ ای‍ن‌ پژوهش، ب‍ه ‌وس‍ی‍ل‍ۀ‌ پ‍رس‍ش‍ن‍ام‍ه‌‌ ج‍م‍ع‌‌آوری‌ ش‍ده‌‌اند. ن‍ت‍ای‍ج‌ ای‍ن‌ پ‍ژوه‍ش‌ ت‍وص‍ی‍ف‍ی‌-ه‍م‍ب‍س‍ت‍گ‍ی‌ و ک‍مّ‍ی است ک‍ه‌ ب‍ه ‌‌ص‍ورت‌ م‍دل‌‌س‍ازی‌ م‍ع‍ادلات‌‌س‍ازی‌ و ب‍ه‌ روش‌ ح‍داق‍ل‌ م‍رب‍ع‍ات‌ ج‍زئ‍ی‌ (ب‍ه ‌وس‍ی‍ل‍ۀ‌ ن‍رم ‌‌اف‍زار smart PLS  و SPSS ) اس‍ت‍خ‍راج‌ ش‍ده‌ اس‍ت. یافته ‌ها‌ ن‍ش‍ان‌ م‍ی ‌د‌‌هن‍د ک‍ه‌ تأثیر پنج توانمندی یادگیری، تحقیق و توسعه، برنامه ریزی راهبردی، سازمانی و تولید  ب‍ر تجاری‌ سازی در ای‍ن‌ ش‍رک‍ت ‌ه‍ا ق‍اب‍ل‌ ت‍أی‍ی‍د اس‍ت‌، در ح‍ال‍ی‌که ای‍ن‌ ش‍رای‍ط ب‍رای‌ توانمندی بازاریابی و تخصیص منابع وج‍ود ن‍دارد. ه‍م‍چ‍ن‍ی‍ن‌ ن‍ت‍ای‍ج‌ ب‍ر تأثیر م‍ث‍ب‍ت‌ و ق‍اب‍ل‌ م‍لاح‍ظۀ‌ تجاری ‌سازی فناوری ب‍ر عملکرد شرکت اش‍اره‌ دارد. از میان عوامل تأثیرگذار ناپایداری‌ های محیطی، تأثیر‌ دو متغیر ت‍ع‍دی‍ل‌گ‍ری‌ ن‍اپ‍ای‍داری‌ بازار در م‍س‍ی‍ر ب‍ی‍ن‌ تجاری‌ سازی فناوری و ع‍م‍ل‍ک‍رد شرکت ت‍أی‍ی‍د ن‍م‍ی ‌ش‍وند، اما تأثیر تعدیل‌گری ناپایداری فناوری مورد پذیرش است.</abstract>
+									<keywords>
+									
+											<keyword>توانمندی نوآوری فناورانه</keyword>
+											<keyword>تجاری سازی فناوری</keyword>
+											<keyword>ع‍م‍ل‍ک‍رد شرکت</keyword>
+											<keyword>شرکت های دانش بنیان</keyword>
+											<keyword>ن‍اپ‍ای‍داری‌ ه‍ای‌ م‍ح‍ی‍طی‌</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>11</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>59</first_page>
+										<last_page>84</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_44425_13bf0777621df267e1c11f341ec0f17a.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-11-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>5</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>توسعه صنایع با فناوری سطح بالای ایران، تأمین مالی (سرمایه‎گذاری) و عوامل نهادی غیررسمی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علیرضا</given_name>
+												<surname>حسن زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حمیدرضا</given_name>
+												<surname>اسماعیلی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سید سپهر</given_name>
+												<surname>قاضی نوری</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>علی اصغر</given_name>
+												<surname>انواری رستمی</surname>
+											</person_name></contributors>
+									<abstract>در سال‌های اخیر شرکت‌های با فناوری سطح بالا و محصولاتشان، نقش‌های بیشتر و مهمتری در توسعه اقتصاد کشورهای مختلف داشته‌اند و به همین دلیل صنایع با فناوری سطح بالا از جایگاه ویژه‎ای برخوردار شده است. تحقیـق حاضـر در چارچوب نهادگرایی، به بررسی تاثیر عوامل و مولفه‎های نهادهای غیر رسمی ‎(فرهنگ) سرمایه‎گذاری بر توان تامین مالی این صنایع و افزایش سرمایه‎گذاری (از عوامل اصلی) در روند توسعه صنایع با فناوری سطح بالای کشور و ارتقاء تولید ناخالص داخلی کشور پرداخته است.&lt;br /&gt; برای استخراج و سنجش عوامل نهادی موثر بر تصمیمات سرمایه‎گذاری در صنایع با فناوری سطح بالا با بهره‎گیری از روش ترکیبی پس از مطالعه ادبیات و اسناد و انجام مصاحبه با خبرگان مقوله‎بندی عوامل 22گانه فرهنگی در سه مقوله ارزش‌ها و نگرش‎ها، فضا و امکانات، و رفتارها از طریق ابزار پرسشنامه انجام شد. مدل معادلات ساختاری یا تحلیل چند متغیری با متغیرهای مکنون برای آزمون فرضیه ‏های تحقیق استفاده شد. این تحلیل‌ها با استفاده از نرم افزار PLS انجام شد. مشخص شد رابطه بین تامین مالی یا سرمایه‎گذاری در این صنایع و مقوله‌های سه‎گانه فرهنگی، و همچنین رابطه بین گویه‎ها و مقوله‌های سه‎گانه موثر بر سرمایه‎گذاری معنی‎دار است. در نتیجه بدون توجه و سیاست‎گذاری برای رفع (یا تقویت) عوامل نهادی شناسایی شده 22گانه برای تأمین مالی توسعه صنایع مذکور، منابع سرمایه‎ای کارآمد تامین نخواهد شد.</abstract>
+									<keywords>
+									
+											<keyword>توسعه تامین مالی و سرمایه‎گذاری</keyword>
+											<keyword>صنایع با فناوری سطح بالا</keyword>
+											<keyword>نهاد غیررسمی</keyword>
+											<keyword>فرهنگ سرمایه‎گذاری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>11</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>85</first_page>
+										<last_page>116</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_44466_09641ed576cb283f64f46acf4e15563d.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-11-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>5</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>انتخاب سبد حوزه های کسب و کاری برای یک صندوق سرمایه گذاری خطرپذیر ایرانی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمدرضا</given_name>
+												<surname>کریمی صدر</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>بنیادی نائینی</surname>
+											</person_name></contributors>
+									<abstract>انتخاب سبد حوزه‌ های کسب ‌و کاری‌ برای صندوق‌های سرمایه‌ گذاری خطرپذیر بسیار ضروری است، زیرا این مجموعه ‌ها برای وصول به موفقیت، باید در حوزه ‌های کسب ‌و کاری شرکت‌ های تحت پوشش خود، خبره بوده و شبکۀ گسترده‌ای از سرمایه‌ گذاران، مشاوران، مربیان و کانال‌ های فروش در اختیار داشته باشند. یک نهاد سرمایه ‌گذاری خطرپذیر نمی ‌تواند این قابلیت را در تمامی حوزه ‌ها کسب کند، از این‌ رو باید تعدادی از این قابلیت ‌ها را انتخاب و تنها بر آنها تمرکز نماید. انتخاب حوزه ‌های هدف برای این مجموعه‌ ها بر مبنای دو مؤلفۀ جذابیت و توانمندی خواهد بود. مؤلفۀ توانمندی برای هر صندوق منحصر به ‌فرد و جذابیت برای مجموعه ‌هایی که مانند صندوق‌ های فعال در یک کشور در یک محیط کسب‌ و کاری واقع شده ‌اند، یکسان خواهد بود.&lt;br /&gt; در پژوهش حاضر، حوزه‌ های هدف یک صندوق سرمایه‌ گذاری خطرپذیر داخلی، با استفاده از مدلی مبتنی بر جذابیت حوزۀ کسب ‌و کاری و توانمندی صندوق مورد مطالعه رتبه ‌بندی و سهم هر یک از سرمایۀ کل مشخص شد. با توجه به تأثیرگذاری عوامل مختلف در تعیین اولویت حوزه‌ ها و وابستگی این عوامل به یکدیگر، از تکنیک تصمیم ‌گیری چندمعیارۀ Dematel-ANP استفاده شد. هم‌‌چنین اطلاعات ورودی این روش از طریق پیمایش میدانی و مصاحبه با خبرگان سرمایه‌ گذاری خطرپذیر و هر کدام از حوزه‌ های کسب ‌و کار جمع‌ آوری گردید. در این راستا، چهار پرسش‌نامه  شامل مقایسه‌ های زوجی و نمره‌ گذاری با استفاده از طیف لیکرت طراحی شدند. در نهایت با تشکیل سوپرماتریس تصمیم‌ گیری و تجزیه و تحلیل اطلاعات، بنا بر درخواست صندوق مورد مطالعه مبنی بر انتخاب تنها چهار حوزۀ کشاورزی، بازاریابی، آموزش و سرگرمی، هر یک از این حوزه ‌ها با سهم از سرمایۀ 25 درصد به‌عنوان حوزه‌ های هدف تعیین شدند. گردشگری، عمران، فناوری اطلاعات و بسته‌ بندی نیز به‌عنوان حوزه‌ های قابل جایگزین به صندوق مورد مطالعه پیشنهاد شدند.</abstract>
+									<keywords>
+									
+											<keyword>صندوق سرمایه گذاری خطرپذیر</keyword>
+											<keyword>تکنیک Dematel-ANP</keyword>
+											<keyword>معیارهای جذابیت</keyword>
+											<keyword>معیارهای توانمندی</keyword>
+											<keyword>انتخاب سبد حوزه های کسب و کار</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>11</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>117</first_page>
+										<last_page>142</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_44423_6e25eff5ab36295766fa12c4f4168b88.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-11-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>5</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ایجاد مقیاس ارزیابی گرایش کارآفرینانه در پژوهشگاه‌های دولتی صنعت انرژی ایران و بررسی تأثیر آن بر عملکرد با رویکرد اقتضایی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی</given_name>
+												<surname>خان آقا</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>مبینی دهکردی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمدرضا</given_name>
+												<surname>زالی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>سیدرضا</given_name>
+												<surname>حجازی</surname>
+											</person_name></contributors>
+									<abstract>این پژوهش با برقراری پیوند میان دو شاخه از کارآفرینی دانش‌بنیان (کارآفرینی شرکتی و کارآفرینی دانشگاهی)، از سازۀ گرایش کارآفرینانه متعلق به ادبیات کارآفرینی شرکتی، برای شناسایی وضعیت راهبردی مساعد کارآفرینی و آثار آن در پژوهشگاه‌های دولتی صنعت انرژی ایران بهره می‌گیرد. با توجه به وابستگی ابعاد تشکیل‌دهندۀ گرایش کارآفرینانه به زمینۀ سازمانی، با استفاده از روش تحقیق آمیخته ترتیبی اکتشافی، ابتدا مقیاس جدیدی برای سنجش گرایش کارآفرینانه در زمینۀ سازمانی جدید ایجاد شده و سپس تأثیر آن بر عملکرد مالی 15 پژوهشکده وابسته به این پژوهشگاه‌ها با رویکردی اقتضایی (تحت تأثیر عوامل محیطی و عوامل درون سازمانی) مورد بررسی قرار گرفته است. نتایج نشان می‌دهند که گرایش کارآفرینانه پژوهشکده‌ها با عملکرد مالی آنها رابطۀ مثبت و قابل توجهی دارد که توسط عوامل محیطی تعدیل می‌شود، بطوری‌که بیشترین تأثیر گرایش کارآفرینانه بر عملکرد مالی در شرایط نامساعد محیطی بروز می‌کند. این پژوهش ضمن توسعۀ کاربرد سازۀ شناخته ‌شدۀ گرایش کارآفرینانه به یک حوزۀ سازمانی جدید، اشاره‌ های سیاستی قابل توجهی برای تقویت گرایش پژوهشگاه‌های دولتی به مشارکت در کارآفرینی دانشگاهی و دانش‌بنیان در بر دارد.</abstract>
+									<keywords>
+									
+											<keyword>کارآفرینی دانش‌بنیان</keyword>
+											<keyword>کارآفرینی دانشگاهی</keyword>
+											<keyword>گرایش کارآفرینانه</keyword>
+											<keyword>زمینۀ سازمانی</keyword>
+											<keyword>پژوهشگاه‌های دولتی</keyword>
+											<keyword>ایجاد مقیاس</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>11</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>143</first_page>
+										<last_page>168</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_44424_76031910719a27f8b760a0fd9b5f0504.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

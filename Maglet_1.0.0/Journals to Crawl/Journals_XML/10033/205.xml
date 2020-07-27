@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-25T02:12:06Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22048">http://saffron.torbath.ac.ir/?_action=export&amp;rf=summon&amp;issue=1304</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-10-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر مصرف برخی کودهای شیمیایی و بیولوژیک بر خصوصیات کمی وکیفی زعفران زراعی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>زهرا</given_name>
+												<surname>حیدری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسین</given_name>
+												<surname>بشارتی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سعیده</given_name>
+												<surname>ملکی فراهانی</surname>
+											</person_name></contributors>
+									<abstract>این مطالعه باهدف بررسی خصوصیات کیفی و کمی زعفران (.&lt;em&gt;Crocus sativus&lt;/em&gt; L) تحت تأثیر مصرف کود شیمیایی نیتروژن و نیز تلقیح با باکتری‌های محرک رشد به‌صورت فاکتوریل در قالب طرح پایه بلوک‌های کامل تصادفی با سه تکرار در سال زراعی 92-1391 در مزرعه تحقیقاتی زعفران دانشگاه شاهد انجام شد. فاکتورهای مورد بررسی شامل کود شیمیایی نیتروژن در سه سطح صفر، 25 و 50 کیلوگرم در هکتار و دو سطح کاربرد و عدم کاربرد کود زیستی شامل سودوموناس‌پوتیدا و باسیلوس‌لنتوس بودند. صفات مورد بررسی شامل وزن اندام هوایی، وزن تازه گل، تعداد گل در واحد سطح و وزن‌تر و خشک کلاله، میزان پروتئین، فسفر، آهن و روی‌،سطح و محتوی کلروفیل برگ، سافرانال، پیکروکروسین و کروسین کلاله بودند. نتایج نشان داد که تلفیق 50 کیلوگرم کود شیمیایی نیتروژن به‌همراه کود زیستی باعث افزایش حدود 217 درصدی عملکرد خشک کلاله نسبت به شاهد شد. با مصرف 25 کیلوگرم کود شیمیایی نیتروژن سافرانال و کروسین کلاله به‌ترتیب 13/5 و 9/10 درصد کاهش یافت. کاربرد تلفیقی 25 کیلوگرم کود شیمیایی نیتروژن و کود زیستی بر مقدار پیکروکروسین به میزان 90/11 درصد نسبت به تیمار شاهد افزود. مصرف همزمان 50 کیلوگرم کود شیمیایی نیتروژن و کود زیستی کارآمدترین تیمار در افزایش عملکرد کلاله و خصوصیات کیفی برگ زعفران بود. در این تیمار میزان فسفر، روی و مس برگ زعفران به ترتیب 05/83، 36/69 و 6/86 درصد نسبت به تیمار شاهد افزایش یافت. به‌طورکلی تلقیح بنه‌های زعفران با باکتری‌های سودوموناس و باسیلوس با اثر بر جذب عناصر غذایی باعث بهبود اکثر صفات کمی و کیفی زعفران شد.</abstract>
+									<keywords>
+									
+											<keyword>باکتری‌های محرک رشد</keyword>
+											<keyword>تلقیح</keyword>
+											<keyword>سافرانال</keyword>
+											<keyword>کود تلفیقی</keyword>
+											<keyword>کروسین</keyword>
+											<keyword>کلاله</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>10</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>177</first_page>
+										<last_page>189</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_7808_b8b3ca14b6f81d149d252eed8f885058.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-10-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>واکنش زعفران به مقادیر دو نوع کود پتاسیم</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حمیدرضا</given_name>
+												<surname>ذبیحی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسن</given_name>
+												<surname>فیضی</surname>
+											</person_name></contributors>
+									<abstract>به‌منظور بررسی عکس‌العمل زعفران به مقدار و زمان مصرف دو نوع کود پتاسه، آزمایشی به‌صورت فاکتوریل در قالب طرح بلوک‌های کامل تصادفی با سه فاکتور اجرا گردید. فاکتور اول، مقدار پتاسیم (صفر، 75/20، 5/41، 25/65، 83 و 75/103 کیلوگرم پتاسیم خالص در هکتار)، فاکتور دوم زمان مصرف (مصرف سالیانه کود و مصرف تجمعی کل کود موردنیاز چهار ساله در سال اول) در کرت‌های مصرف تجمعی بود. تمامی کود موردنیاز در طی چهار سال در همان سال اول به خاک اضافه گردید که بر این اساس این کرت‌ها به ترتیب مقادیر0، 83، 166، 249، 332 و 415 کیلوگرم پتاسیم خالص در هکتار دریافت داشتند. فاکتور سوم، نوع کود در دو سطح (سولفات پتاسیم (SOP) و کلرور پتاسیم (MOP)) بود. این آزمایش در سه تکرار و به‌مدت 4 سال در ایستگاه تحقیقات کشاورزی زعفران گناباد انجام گرفت. از آنجایی‌که گل‌دهی زعفران در سال اول کشت مربوط به اثر تیمارهای کودی نبود. مورد آنالیز آماری قرار نگرفت و نتایج مربوط به گل‌دهی سه سال بعد مورد تجزیه‌وتحلیل آماری قرار گرفت. نتایج نشان داد که اثر خالص مقدار پتاسیم بر عملکردکلاله خشک زعفران در سطح 5 درصد معنی‌دار بود و بیشترین کلاله خشک از تیمار مصرف 75/25 کیلوگرم پتاسیم خالص در هکتار به دست آمد. اثر خالص زمان مصرف کود پتاسیم بر عملکرد کلاله خشک زعفران معنی‌دار بود؛ به‌طوری‌که عملکرد کلاله خشک زعفران در تیمار مصرف هر ساله پتاسیم نسبت به تیمار مصرف تجمعی پتاسیم کل دوره، در سال اول افزایش معنی‌داری در سطح 5 درصد نشان داد. اثر خالص منبع کود پتاسیم بر عملکرد کلاله خشک زعفران نیز در سطح 5 درصد معنی‌دار بود؛ به طوری‌که مصرف پتاسیم به شکل سولفات پتاسیم باعث افزایش معنی‌دار عملکرد کلاله خشک نسبت به تیمار استفاده از کلرید پتاسیم شد.</abstract>
+									<keywords>
+									
+											<keyword>تغذیه</keyword>
+											<keyword>کلاله خشک</keyword>
+											<keyword>سولفات پتاسیم</keyword>
+											<keyword>عملکرد</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>10</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>191</first_page>
+										<last_page>198</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_7809_fefd190cd80cf181e444cd4514d44ed6.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-10-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>دسته‌بندی و پیش‌بینی کلاله سه‌شاخه و چند‌‌شاخه زعفران با استفاده از ابزار‌های آماری یادگیری ماشینی بدون‌نظارت</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>امیرحسین</given_name>
+												<surname>بیکی</surname>
+											</person_name></contributors>
+									<abstract>زعفران یک گیاه تریپلوئید و عقیم است که در همه کشورها به‌عنوان یک ادویه و گیاه دارویی مورد استفاده قرار می‌گیرد. کلاله مهم‌ترین قسمت گیاه زعفران می‌باشد. تاکنون هیچ روش مطمئن مولکولی برای شناسایی و پیش‌بینی گونه‌های دارای کلاله سه و چند‌شاخه ارائه نشده است. در‌ این بررسی بر ‌اساس نشانگر‌های مولکولی چندشکلی توالی مربوط تکثیر یافته و با استفاده از الگوریتم‌های بیوانفورماتیکی مختلف،روش‌های جدیدی برای پیش‌بینی کلاله زعفران ارائه شده است. پنج آلل M131400، M151200، M151100، M10850 و G6500 به‌عنوان مهم‌ترین دسته‌بندی کننده با دقت پیش‌بینی بالا بر اساس مدل‌های Attribute Weighting انتخاب شدند که دارای پتانسیل بالایی برای ‌خوشه‌بندی و تشخیص کلاله سه‌شاخه ازچند‌‌شاخه هستند. دسته‌بندی بدون یادگیری بر اساس الگوریتم‌های K-Means و K-Medoids قادر به ‌خوشه‌بندی صحیح کلاله زعفران هستند. نتایج نشان می‌دهد که برای اولین بار، روش‌های داده‌کاوی می‌توانند شیوه‌ای بسیار مؤثر، با دقت و صحت بالای 90 درصد برای تمایز ژنتیکی کلاله سه‌شاخه از چند‌‌شاخه مورد استفاده قرار گیرد. این روش‌ها می‌توانند در مکان‌یابی ژنی و انتخاب به کمک بیومارکرها مورد استفاده قرار گیرند.</abstract>
+									<keywords>
+									
+											<keyword>چندشکلی توالی مربوط تکثیر یافته</keyword>
+											<keyword>مارکر مولکولی</keyword>
+											<keyword>یاد‌گیری ماشینی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>10</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>199</first_page>
+										<last_page>204</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_7810_8cb71eb9ca748c896b01f346c8dab531.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-10-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناسایی برخی از قارچ های عامل پوسیدگی بنه زعفران و کنترل آن‌ها</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>آیت اله</given_name>
+												<surname>سعیدی زاده</surname>
+											</person_name></contributors>
+									<abstract>جهت شناسایی عوامل قارچی پوسیدگی بنه زعفران و کنترل آن‌ها، از مزارع و محل‌های نگهداری بنه، واقع در بشرویه از توابع استان خراسان جنوبی، نمونه‌برداری صورت گرفت. پس از کشت بافت‌های آلوده، گونه‌های قارچی&lt;em&gt;Penicillium digitatum&lt;/em&gt;، &lt;em&gt;Aspergillus niger&lt;/em&gt;و &lt;em&gt;Rhizopus stolonifer&lt;/em&gt;جداسازی و شناسایی گردید. جهت کنترل این بیمارگرها از چهار غلظت از سوسپانسیون باکتری &lt;em&gt;Pseudomonas fluorescens &lt;/em&gt;CHAO، قارچ &lt;em&gt;Trichoderma harzianum &lt;/em&gt;Bi و قارچ‌کش‌های اکسی‌کلرورمس و بنومیل در چهار تکرار استفاده شد. بر اساس میزان قطر پرگنه رشد یافته از بیمارگر و مقایسه با شاهد، میزان اثر کنترلی عوامل کنترل زیستی و ترکیبات شیمیایی اندازه‌گیری شد. نتایج به‌دست‌‌آمده نشان داد که بیشترین میزان کنترل در مورد قارچ همستیز، مربوط به غلظت‌های&lt;sup&gt;7 &lt;/sup&gt;10×1 و &lt;sup&gt;8&lt;/sup&gt; 10×1 و در مورد باکتری همستیز به ترتیب مربوط به غلظت‌های &lt;sup&gt;9&lt;/sup&gt; 10×1 و 10&lt;sup&gt;10&lt;/sup&gt;×1 بوده است. در مورد ترکیبات شیمیایی به‌کار رفته بیشترین میزان اثر کنترلی در مورد بنومیل و اکسی‌کلرورمس به‌ترتیب در غلظت‌های&lt;sup&gt;3-&lt;/sup&gt;10×3 و &lt;sup&gt;3-&lt;/sup&gt;10×4 به‌دست آمد. در مقایسه کلی تیمارها، قارچ &lt;em&gt;T. &lt;/em&gt;&lt;em&gt;harzianum&lt;/em&gt; بیشترین اثر را در کاهش رشد پرگنه قارچ‌های بیمارگر داشت.</abstract>
+									<keywords>
+									
+											<keyword>کنترل زیستی</keyword>
+											<keyword>قارچ‌های همستیز</keyword>
+											<keyword>زعفران</keyword>
+											<keyword>خراسان جنوبی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>10</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>205</first_page>
+										<last_page>213</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_7864_31ad2bdfd65c0548a790220f988aa1bf.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-10-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>آزمون پیوستگی و فرضیه بازار مرکزی محصول زعفران در استان‌های خراسان رضوی، شمالی و جنوبی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علیرضا</given_name>
+												<surname>کرباسی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>هاشم</given_name>
+												<surname>محمودی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>بهزاد</given_name>
+												<surname>فکاری سردهایی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمد مهدی</given_name>
+												<surname>فارسی علی آبادی</surname>
+											</person_name></contributors>
+									<abstract>زعفران یکی از مهم‌ترین محصولات تولیدی کشاورزی کشور می‌باشد و استان‌های خراسان رضوی، جنوبی و شمالی از عمده‌ترین استان‌های تولیدکننده زعفران می‌باشند.‌ هدف از مطالعه حاضر سنجش فرضیه بازار مرکزی محصول زعفران در استان‌های خراسان شمالی، رضوی و جنوبی با استفاده از داده‌های ماهانه طی سال‌های 1385 تا 1390 می‌باشد. بدین منظور از فن آزمون هم‌جمعی برای سری‌های قیمت با استفاده از رهیافت یوهانسون بهره گرفته‌شده است. نتایج نشان‌داد که استان خراسان جنوبی نقش رهبری قیمت را در بین استان‌های مذکور بر عهده دارد. این در حالی است که از بین سه استان مربوطه، استان‌های خراسان رضوی و جنوبی تشکیل یک بازار واحد را می‌دهند که شرط LOP برای آن‌ها صادق می‌باشد. استان خراسان شمالی نیز بازاری است که در بلندمدت تحت تأثیر تغییرات قیمت دو استان خراسان رضوی و جنوبی قرار نمی‌گیرد و به‌صورت یک بازار مجزا رفتار می‌کند. لذا اتخاذ یک سیاست در بازار زعفران در هر یک از این سه استان‌، بازار این محصول در دو استان دیگر را تحت‌الشعاع قرار می‌دهد.</abstract>
+									<keywords>
+									
+											<keyword>بازار مرکزی</keyword>
+											<keyword>پیوستگی بازار</keyword>
+											<keyword>محصول زعفران</keyword>
+											<keyword>هم جمعی برداری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>10</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>215</first_page>
+										<last_page>223</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_7865_a83cf80c95eb026e323400281383fb26.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-10-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر مکمل‌دهی زعفران بر شاخص‌های استقامت قلبی-تنفسی دختران سالم غیرفعال</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>عباس</given_name>
+												<surname>معمار باشی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ویدا</given_name>
+												<surname>حکیمی</surname>
+											</person_name></contributors>
+									<abstract>هدف از پژوهش حاضر بررسی اثر مکمل زعفران بر فاکتورهای استقامت قلبی-تنفسی در زنان سالم غیرفعال بود. پس از تکمیل پرسش‌نامه تندرستی و فعالیت بدنی و اجرای تست یک مایل دویدن، از میان افراد واجد شرایط 14 نفر از دانشجویان دختر غیرفعال دانشگاه محقق (با میانگین سنی 38/1± 7/20 سال و شاخص توده بدنی 8/1±1/21) انتخاب شدند و 3 مرحله آزمون بروس را بر روی دستگاه نوارگردان متصل به دستگاه تجزیه‌وتحلیل گازهای تنفسی به فاصله یک هفته از یک‌دیگر اجرا کردند. در این تحقیق آزمودنی‌ها در مرحله اول یک هفته پس از مصرف دارونما و در مرحله دوم یک هفته پس از مصرف روزانه، 300 میلی‌گرم کلاله گل زعفران تست را اجرا نموده و متغیرهای مورد نظر اندازه‌گیری شد. برای تجزیه‌وتحلیل داده‌ها از آزمون تحلیل کوواریانس و تصحیح بونفرونی استفاده شد. نتایج نشان داد که مصرف 300 میلی‌گرم زعفران به‌مدت یک هفته باعث افزایش معنی‌داری دراکسیژن مصرفی (VO&lt;sub&gt;2&lt;/sub&gt;)، حداکثر اکسیژن مصرفی (VO&lt;sub&gt;2max&lt;/sub&gt;) و زمان واماندگی و کاهش معنی‌دار در فشارخون و ضربان قلب در حالت استراحت شد و همچنین در گروه تجربی افزایش معنی‌دار در اکسیداسیون چربی و کاهش معنی‌دار در مصرف کربوهیدرات طی اجرای تست بروس مشاهده شد (05/0 p&lt;). در نتیجه، مصرف زعفران اثر ارگوژنیکی بر عملکرد قلبی-تنفسی دانشجویان دختر غیرفعال دارد.</abstract>
+									<keywords>
+									
+											<keyword>حداکثر اکسیژن مصرفی</keyword>
+											<keyword>مکمل‌دهی زعفران</keyword>
+											<keyword>عملکرد ورزشی</keyword>
+											<keyword>گازومتری</keyword>
+											<keyword>فشارخون</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>10</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>225</first_page>
+										<last_page>230</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_7866_0aa2e75baee5e2987600eadadef2cddb.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-10-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>2</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی فعالیت آنتی اکسیدانی عصاره های آبی و الکلی (متانول، اتانول) گلبرگ زعفران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>زهرا</given_name>
+												<surname>افرازه</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مرضیه</given_name>
+												<surname>بلندی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مهدی</given_name>
+												<surname>خورشیدی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>عبدالرضا</given_name>
+												<surname>محمدی نافچی</surname>
+											</person_name></contributors>
+									<abstract>گیاهان دارویی یکی از منابع مهم آنتی‌اکسیدان‌هامی‌باشند، آنتی‌اکسیدان‌های طبیعی باعث افزایش قدرت آنتی‌اکسیدان‌های پلاسما و کاهش ابتلا به بعضی بیماری‌ها مانند سرطان، بیماری‌های قلبی و سکته مغزی می‌شوند. با توجه به سمی بودن و اثرات سوءتغذیه‌ای آنتی‌اکسیدان‌های سنتزی موجود در مواد غذایی، نیاز به آنتی‌اکسیدان‌های طبیعی از گیاهان با سمیت کمتر و اثربخشی بیشتر یک ضرورت جدی است. گلبرگ زعفران یک منبع گیاهی غنی از مواد پلی فنولی است که تاکنون موردتوجه قرار نگرفته است. لذا این پژوهش به‌منظور بررسی خواص آنتی‌اکسیدانی و ترکیبات فنولیک گلبرگ زعفران انجام شد. در این پژوهش ابتدا عصاره گلبرگ زعفران با حلال‌های الکلی اتانول و متانول 30، 70 و 90 درصد و آب به‌طور جداگانه استخراج شد. سپس میزان ترکیبات فنولی به روش فولین سیوکالتیو و فعالیت آنتی‌اکسیدانی آن به روش احیای رادیکال آزاد DPPH ارزیابی شد. نتایج نشان داد که نوع و میزان حلال بر میزان ترکیبات فنولی و آنتی‌اکسیدانی اثر دارد و ارتباط معنی‌داری بین میزان ترکیبات فنولی و خاصیت بازدارندگی مشاهده شد. همچنین با افزایش غلظت، خاصیت آنتی‌اکسیدانی و ترکیبات فنولی عصاره افزایش می‌یابد. در پایان عصاره اتانولی به‌عنوان بهترین حلال برای بیشترین استخراج ترکیبات فنولی و آنتی‌اکسیدانی مشخص شد.</abstract>
+									<keywords>
+									
+											<keyword>ترکیبات فنولی</keyword>
+											<keyword>DPPH</keyword>
+											<keyword>فولین سیوکالتیو</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>10</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>231</first_page>
+										<last_page>236</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_7867_78e4c5b48ab7e7d20d55b051b3e3374e.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

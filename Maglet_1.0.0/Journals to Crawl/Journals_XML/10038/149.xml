@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Estimation of Specific Drilling in Small Tunnel by Using SVM</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Aref</namePart>
+				<namePart type="given">Alipour</namePart>
+				<affiliation>Mining Engineering
+Urmia University of Technology</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mojtaba</namePart>
+				<namePart type="given">Mokhtarian-Asl</namePart>
+				<affiliation>Faculty of Mining and Metallurgical Engineering, Urmia University of Technology, Urmia, P.O. Box 57166-17165, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mostafa</namePart>
+				<namePart type="given">Asadizadeh</namePart>
+				<affiliation>Hamedan university of Technology</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2020</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Drilling and Blasting method is the controlled use of explosives to break rocks for excavation. It is practiced most often in mining and civil engineering. Basically short tunnels are usually constructed by drilling and blasting method. The value of specific drilling in tunnel blasting processes considerably affects the efficiency of the blasting. Specific drilling affects costs of drilling and blasting, specific charge, fragmentation size, muck pile shape, over break profile shape. In this paper, we present an application of Support Vector Machine (SVM) to the calculation of the specific drilling for small size tunnel blasting. Certain small size tunnel blast tests in four case studies have been used to present the SVM-based model. Among available existing parameters in the literature, some of the most influencing parameters are selected. These models are based on seismic wave velocity (P-wave), Rock Quality Designation (RQD), coupling ratio of explosive charge, maximum depth of blast hole and tunnel area. Evaluation of the numerical measures of the goodness of the statistical fit clearly indicated that corresponding SVM model is more acceptable than multiple linear regression model for estimating specific drilling.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>13</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2020</text>
+				<extent unit="pages">
+					<start>1</start>
+					<end>13</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_101382_e8ccbed07ac80208d4d8cdf2ce5bc440.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Evaluation of the effect of shape and loading position on the stability of geotextile-reinforced slope using centrifuge modeling</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Behzad</namePart>
+				<namePart type="given">Moeen</namePart>
+				<affiliation>Civil Engineering Department, University of Qom, Qom, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Ali M.</namePart>
+				<namePart type="given">Rajabi</namePart>
+				<affiliation>Engineering Geology, university of Tehran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mahdi</namePart>
+				<namePart type="given">Khodaparast</namePart>
+				<affiliation>Civil Engineering Department, University of Qom, Qom, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2020</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Geosynthetic reinforced soil is recognized as one of the fastest and most economical ways to slopes and retaining walls. In this research, using centrifugal modeling, the behavior of soil walls reinforced with relatively high height and slope geotextiles (1H : 5V) under the influence of surcharge was evaluated. For this purpose, 3 models of reinforced soil slope with a height of 35 cm with a scale of 1:30 and an unreinforced soil slope were made and loaded on the centrifuge during acceleration of 30 g. The results showed that the bearing capacity of the foundations on the reinforced soil slope was directly related to the shape of the foundations and for the same widths as the square shape changed to the strip type (increasing the length of the foundations) from the final load will be reduced. Through the investigation of soil reinforcing elements at different depths in terms of failure and elongation, it was revealed that regarding the elongation and failure of geotextiles and the depth of failure for footings with equal widths the maximum value is associated with strip footing and the minimum value is associated with square footing.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>13</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2020</text>
+				<extent unit="pages">
+					<start>15</start>
+					<end>28</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_101383_659ac54cc5c3d15159ab88310392ff13.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The evaluation of reaction potential of different aggregates based on petrographic studies and comparison with chemical tests.</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Pezhman</namePart>
+				<namePart type="given">Kazemi</namePart>
+				<affiliation>Tarbiat Modares University, Department of engineering geology</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">mohammadreza</namePart>
+				<namePart type="given">nikudel</namePart>
+				<affiliation>Tarbiat Modares University of Tehran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mashaelah</namePart>
+				<namePart type="given">khamechian</namePart>
+				<affiliation>tarbiat modares university</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Simon</namePart>
+				<namePart type="given">Martin Clark</namePart>
+				<affiliation>Macquarie University of Sydney, Earth and science Faculty</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Shima</namePart>
+				<namePart type="given">Taheri</namePart>
+				<affiliation>Macquarie University of Sydney</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">paritosh</namePart>
+				<namePart type="given">giri</namePart>
+				<affiliation>Macquarie university, australia</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2020</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Abstract: The durability of concrete is affected by various factors including its ingredients, workmanship, environment, working life, and so on. The alkali reaction within the concrete can shorten its lifespan due to the expansive pressure build up and cracking caused by the deleterious action of alkali reaction by-products. The alkali reaction is a gradual reaction that can happen between the alkaline pore solution of the concrete and various types of aggregates. Understanding the behavior of the aggregate, as the main reactive component, is thus essential in understanding of the reaction mechanism, reducing the alkali reaction potential or even preventing it. Not all aggregates are susceptible to alkali reaction. Therefore, detecting susceptible aggregates and selecting the ones with low levels of reactive materials, can eventually help to minimize and mitigate alkali reaction problems. The aim of this research was to assess the susceptibility of four commonly used aggregates in constructing projects: Granite, Rhyodacite, Limestone and Dolomite. The study was performed under accelerated conditions in accordance with the ASTM test method C1260 and ambient condition (room temperature).specimens were analyzed using Scanning Electron Microscopy (SEM),X-ray Diffraction (XRD) and Light Microscopy. Limestone and Rhyodacite aggregates, were found to be susceptible to expansion reaction.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>13</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2020</text>
+				<extent unit="pages">
+					<start>29</start>
+					<end>45</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_102491_2f33c7b13217d2402a58b4f39b779155.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The Assessment of Crushed Sand Effects on the Properties of Self-Compacting Concrete</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Hamidreza</namePart>
+				<namePart type="given">Amini</namePart>
+				<affiliation>Civil-Structural Engineering, University of Zanjan, Zanjan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Behzad</namePart>
+				<namePart type="given">Saeedi Razavi</namePart>
+				<affiliation>Construction &amp; Mining Faculty, Standard Research Institute, Iranian National Standard Organization (INSO)-Karaj- Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Jamal</namePart>
+				<namePart type="given">Ahmadi</namePart>
+				<affiliation>Assistant perofessor, University of Zanjan, Zanjan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mahdi</namePart>
+				<namePart type="given">Babaei</namePart>
+				<affiliation>Assistant perofessor, University of Zanjan, Zanjan, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2020</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The crushed shape of aggregates, regarding its effect on the yield stress, plastic viscosity and the friction between concrete components play an important role in the performance of ordinary and also self-compacting concrete. In this research, the effect of standard crushed sand on the properties of SCC concrete has been studied. To do so, different mixture designs were tested to achieve a suitable mixture design that meets the minimum rheology and resistance requirements of self-consolidating concrete and as a result, five mixture designs with replacing different values of standard crushed sand with natural sand have been fabricated. Rheology Tests (slump flow, V-funnel, J-ring and L-box), Mechanical Resistance Tests (Compressive, tensile and flexural strength) and Durability Tests (capillary water absorption and freeze–thaw cycling resistance) tests have been assessed. It has been observed that by replacing a proportion of natural standard sand with crushed standard sand, filling ability and possibility of self-consolidating concrete have improved. Regarding the obtained results, the mechanical properties of SCC concrete in the specimens with crushed standard sand increased. Also, capillary water absorption has improved in these specimens which shows durability increase in specimens with crushed standard sand.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>13</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2020</text>
+				<extent unit="pages">
+					<start>103</start>
+					<end>118</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_102492_7262089c8904c85b41ab2e5b0c28c4c8.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Stabilization of a deep excavation using demolition and construction waste materials</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Zahra</namePart>
+				<namePart type="given">Sabzi</namePart>
+				<affiliation>Department of Civil Engineering, Karaj Branch, Islamic Azad University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Akbar</namePart>
+				<namePart type="given">Cheshomi</namePart>
+				<affiliation>University of Tehran College of Science: Tehran, Tehran, IR</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Seyed Ramezan</namePart>
+				<namePart type="given">Ramezannejad</namePart>
+				<affiliation>Engineer</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2020</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The increasing amount of demolition and construction waste (D&amp;CW) materials has created many problems in large cities. Recycling waste materials helps to protect the environment. D&amp;CW can be used in many projects, especially in road construction, retaining walls, landscaping and pavements. In this research, a project in which, D&amp;CW used as fill materials to stabilize a deep excavation is investigated. The project site is located at the southwest of Tehran and the west of the Kan River. Site soil is basically composed of the C alluvium of Tehran. Strength parameters of soil were determined using recursive stability analysis. By performing an experimental embankment of D&amp;CW (500 m length, 8 m width and 0.5 m height) and compacting it, in-situ density, plate load and dynamic probing tests were implemented and parameters of D&amp;CW were obtained. Then stability analysis of excavation was performed under different conditions using Geo-Slope and the results showed that the D&amp;CW embankment is capable to provide factor of safety. Finally, in order to control the quality of execution, according to the field observations, the guidelines were suggested to use D&amp;CW. The results of this study show that D&amp;CW can be significantly usable in engineering applications.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>13</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2020</text>
+				<extent unit="pages">
+					<start>47</start>
+					<end>59</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_103454_542e39d12bdf512c836338ce3b389a02.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Failure Modes Analysis of Sandstones (Case Study: Markazi Province Sandstones)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">mehran</namePart>
+				<namePart type="given">nouri</namePart>
+				<affiliation>Geology department, Bu-Ali Sina university, Hamedan-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Gholamreza</namePart>
+				<namePart type="given">Khanlari</namePart>
+				<affiliation>Geology department, Bu-Ali Sina university, Hamedan-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Vahab</namePart>
+				<namePart type="given">Sarfarazi</namePart>
+				<affiliation>mining engineering department, hamedan university of technology</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Behrooz</namePart>
+				<namePart type="given">Rafiei</namePart>
+				<affiliation>Geology department, Bu-Ali Sina university, Hamedan-Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2020</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>The aim of this study is analyzing the failure modes of sandstones related to Markazi Province using compressive strength changes. For this purpose, the fracture modes of five different types of sandstones with different compressive strength values have been studied experimentally and numerically. Also, The effect of failure modes on uniaxial compressive strength was quantified. block samples were collected from different sandstone formations located in northern part of Markazi province. These sandstones were divided into five types based on the textural and mineralogical characteristics. These samples were subjected to uniaxial compressive strength testing. Examination of the fracture modes showed that simple shear mode occurred at low values of strength and it changes to multiple extension mode with increasing the compressive strength. The dominant failure mode for types 1, 2 and 4 is simple shear and for types 3 and 5 is multiple extension. Investigation of failure modes in different strength ranges showed that the dominant failure modes up to 140 and over 140 MPa are simple shear and multiple extension, respectively. Therefore, strength of 140 MPa was considered as the transisson point. Also, in this study, the failure modes of the experimental samples were numerically simulated using PFC2D software. The results of numerical modeling showed a good agreement with the experimental results.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>13</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2020</text>
+				<extent unit="pages">
+					<start>61</start>
+					<end>86</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_103455_8dd29d52753887b154c8fa06511e8c0f.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Evaluating the variations of shear wave velocity and dry density of schist rock under the weathering effect</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Seyed Zanyar</namePart>
+				<namePart type="given">Seyed Mousavi</namePart>
+				<affiliation>Department of Mining Engineering, Shahid Bahonar University of Kerman, Kerman, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Hossein</namePart>
+				<namePart type="given">Tavakoli</namePart>
+				<affiliation>Department of Mining Engineering, Shahid Bahonar University of Kerman, Kerman, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Parviz</namePart>
+				<namePart type="given">Moarefvand</namePart>
+				<affiliation>Department of Mining and Metallurgical Engineering, Amirkabir University of Technology, Tehran, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mohammad</namePart>
+				<namePart type="given">Rezaei</namePart>
+				<affiliation>Asistant Professor, Department of mining engineering, Faculty of engineering, University of Kurdistan, Sanandaj, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2020</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Freezing-melting cycles are a serious natural weathering for rock engineering projects and constructed structures on the rocks in mountainous regions. So evaluation of the rock geo mechanical parameters reduction due to freezing-thawing cycles is very crucial in these areas. In this study, shear wave velocity and dry density of intact and weathered schist samples (under freezing-thawing cycles of 7, 15, 25, 40 and 75) of the Angouran mine wall were measured. For each weathering cycle, 5 samples have been tested and calculations were made based on their average values. Results showed that by increasing the number of weathering cycles, the shear wave velocity and dry density values of samples are exponentially decreased while the initial cycles of freezing-thawing have the less effect on rock properties. By analyzing the obtained results, an experimental equation was extracted and proposed to calculate shear wave velocity and dry density in schist against the different cycles of freezing-thawing. Also, the texture of samples in intact status and after 75 cycles of freezing-thawing was studied by an electronic microscope. The results of microscopic study indicate that the texture of intact samples is denser than those of the weathered status. Also, after applying 75 cycles of freezing-thawing, the spacing between discontinuities has been increased and new cracks created in the samples body.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Scientific Quarterly Journal of Iranian Association of Engineering Geology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Iranian Association of Engineering Geology</publisher>
+			</originInfo>
+			<identifier type="issn">2228-5245</identifier>
+			<part>
+				<detail type="volume">
+					<number>13</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2020</text>
+				<extent unit="pages">
+					<start>87</start>
+					<end>102</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://www.jiraeg.ir/article_103550_1f009c445126dea7e627b5bd4271fe6a.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		</modsCollection>

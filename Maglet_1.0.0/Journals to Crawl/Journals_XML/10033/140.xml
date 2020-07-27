@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-25T02:08:38Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22048">http://saffron.torbath.ac.ir/?_action=export&amp;rf=summon&amp;issue=4598</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-11-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تاثیر سطوح مختلف کمپوست زباله شهری و وزن بنه مادری بر عملکرد و خصوصیات رشدی زعفران (.<i>Crocus sativus</i> L)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>زهره</given_name>
+												<surname>قلی زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد حسین</given_name>
+												<surname>امینی فرد</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد حسن</given_name>
+												<surname>سیاری زهان</surname>
+											</person_name></contributors>
+									<abstract>مدیریت تغذیه و اندازه بنه مادری، از مهم‌ترین عوامل مؤثر بر رشد و عملکرد زعفران به شمار می‌روند. به منظور بررسی اثر کمپوست زباله شهری و وزن‌ بنه مادری بر شاخص‌های عملکرد گل و ویژگی‌های رشدی بنه زعفران، آزمایشی در مزرعه تحقیقاتی دانشگاه بیرجند، در سال زراعی 94-1393 اجرا شد. آزمایش به صورت فاکتوریل در قالب طرح بلوک‌های کامل تصادفی با 4 سطح کمپوست زباله شهری (0، 5، 10 و 20 تن در هکتار) و 3 سطح وزن بنه مادری (شامل گروه‌های وزنی 4-1/0، 8-1/4 و 12-1/8 گرم) و در 3 تکرار اجرا گردید. صفاتی نظیر تعداد و عملکرد گل تر، طول و وزن کلاله، وزن بنه، تعداد بنه دختری و تعداد جوانه در بنه مورد ارزیابی قرار گرفتند. نتایج نشان داد که کمپوست زباله شهری بر وزن بنه همراه با فلس، تعداد بنه دختری و عملکرد گل تر و کلاله تأثیر معنی‌داری داشت، بطوریکه بالاترین وزن بنه همراه بافلس و تعداد بنه دختری (به ترتیب، 33/21 گرم در بنه و 11/2 عدد) از تیمار 10 تن در هکتار و پایین‌ترین آنها (47/16 گرم در بنه و 66/1 عدد) در شاهد به دست آمد. وزن بنه‌های مادری نیز، عملکرد گل وکلاله، وزن بنه و قطر بنه دختری را تحت تأثیر معنی دار خود قرار داد، بطوریکه بالاترین وزن تازه و خشک کلاله (به ترتیب، 31/0 و 11/0 گرم در متر مربع) از بنه‌های 12-1/8 گرم و کمترین آن‌ها (06/0 و 03/0 گرم در متر مربع) از بنه‌های 4-1/0 گرم بدست آمد. همچنین، اثر بر‌همکنش وزن بنه و کمپوست زباله شهری بر عملکرد گل و کلاله زعفران معنی‌دار گردید، بطوریکه بیش‌ترین عملکرد گل و کلاله تر (به ترتیب 36/9 و 41/0 گرم در متر مربع) از تیمار 10 تن در هکتار کمپوست و بنه‌های 12-1/8 گرم بدست آمد. بر اساس نتایج این تحقیق، استفاده از کمپوست زباله شهری (10 تن در هکتار) و بنه‌های مادری درشت (12-1/8 گرم) به عنوان مؤثرترین تیمارها در این آزمایش، می‏توانند نقش مؤثری در افزایش رشد بنه و عملکرد گل زعفران داشته باشند.</abstract>
+									<keywords>
+									
+											<keyword>بنه دختری</keyword>
+											<keyword>تغذیه</keyword>
+											<keyword>کلاله تر</keyword>
+											<keyword>کود آلی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>11</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>169</first_page>
+										<last_page>184</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_38665_cfb2fdacde98c712330903736b3fb9d7.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-11-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مطالعه تنوع ژنتیکی و برخی از صفات زراعی و کیفی در زعفران (.<i>Crocus sativus</i> L)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مهدی</given_name>
+												<surname>بیات</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رضا</given_name>
+												<surname>امیرنیا</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مهدی</given_name>
+												<surname>تاجبخش</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>بهاتین</given_name>
+												<surname>تانیولاچ</surname>
+											</person_name></contributors>
+									<abstract>به‌منظور مطالعه تنوع ژنتیکی و زراعی زعفران، شش اکوتیپ از نقاط مختلف استان خراسان (مشهد، تربت‌جام، گناباد، تربت‌حیدریه، قاین و بیرجند) جمع‌آوری و در طی دو سال زراعی 93-1391 در مزرعه تحقیقاتی دانشکده کشاورزی دانشگاه ارومیه مورد ارزیابی قرار گرفتند. نتایج مزرعه‌ای نشان داد که اختلاف معنی‌داری بین اکوتیپ‌ها از لحاظ اکثر صفات زراعی و کیفی مورد مطالعه وجود دارد. به‌طوری‌که تجزیه خوشه‏ای، اکوتیپ‏های تربت‌حیدریه، مشهد و تربت‌جام را در یک خوشه‏ و اکوتیپ‏های بیرجند، قاین و گناباد را در خوشه‏ دیگر گروه‌بندی نمود. همچنین نتایج حاصل از مقایسه میانگین نشان داد که اکوتیپ‏های تربت‌حیدریه و مشهد به ترتیب به‏‌عنوان بهترین‏ اکوتیپ‏های زعفران در ارومیه شناخته شدند. از طرفی نتایج ژنتیکی نشان داد که از بین 30 جفت آغازگر SSR مورد استفاده، 22 جفت آغازگر (73%)، در مجموع 44 آلل چندشکلی را شناسایی نمودند (میانگین 2 عدد). میانگین شاخص شانون (I)، تنوع ژنتیکی (h) و محتوی اطلاعات چندشکلی (PIC) به ترتیب 688/0، 424/0 و 402/0 تخمین زده شد که این نتایج از وجود تنوع ژنتیکی در بین اکوتیپ‌های زعفران خبر می‌دهد و این تنوع توسط تجزیه‌های دیگری از جمله تجزیه واریانس مولکولی مورد تأیید قرار گرفت. از طرفی نتایج حاصل از تجزیه خوشه‏ای داروین، هر کدام از اکوتیپ‏های بیرجند، مشهد و گناباد را در یک خوشه‏ و سه اکوتیپ تربت‌حیدریه، قاین و تربت‌جام را به‌دلیل شباهت بالا همگی را در یک خوشه‏ قرار داد و این گروه‌بندی توسط تجزیه به مؤلفه‏های اصلی مورد تأیید قرار گرفت. قابل ذکر است شباهت ژنتیکی بالایی بین اکوتیپ‏های زعفران (90-65 درصد) تخمین زده شد. در مجموع نتایج حاصل از این تحقیق ضمن بیان این موضوع که نشانگرهای ریزماهواره ابزار مفیدی برای ارزیابی تنوع ژنتیکی و گروه‏بندی اکوتیپ‌های زعفران هستند. این موضوع را نیز تأیید نمود که زعفران گیاهی منومورف نبوده و می‌توان تنوع مفیدی را جهت استفاده در برنامه‌های اصلاحی شناسایی کرد.</abstract>
+									<keywords>
+									
+											<keyword>پارامترهای ژنتیکی</keyword>
+											<keyword>خوشه‏بندی</keyword>
+											<keyword>شباهت ژنتیکی</keyword>
+											<keyword>نشانگرهای ریزماهواره (SSR)</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>11</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>185</first_page>
+										<last_page>200</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_13910_2498987f3e7c5221e1c61b04f3eb9976.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-11-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>اثر مقدار زئولیت و مدیریت آبیاری بر برخی خصوصیات بنه زعفران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>عباس</given_name>
+												<surname>خاشعی سیوکی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محسن</given_name>
+												<surname>احمدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سیدرضا</given_name>
+												<surname>هاشمی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>امین</given_name>
+												<surname>چالاک</surname>
+											</person_name></contributors>
+									<abstract>زعفران (&lt;em&gt;Crocus sativus&lt;/em&gt; L.) گیاهی نیمه گرمسیری و گران‌بها است که توسط بنه تکثیر می‌شود. با توجه به اهمیت وزن بنه در عملکرد زعفران، بررسی اثر عوامل مختلف ازجمله تنش آبی بربنه اهمیت می‌یابد. بدین منظور تحقیقی به‌صورت فاکتوریل و در قالب طرح کاملاً تصادفی طی سال‌های‌ 1394-1392 در مزرعه تحقیقاتی دانشکده کشاورزی دانشگاه بیرجند انجام شد. تیمار زئولیت در چهار سطح (Z0: صفر، Z1: 5/0، Z2: 1 و Z3: 2 درصد وزنی) و تیمار آبیاری در سه سطح (I1: آبیاری سنتی، I2: آبیاری با تخلیه 70 درصد رطوبتی و I3: آبیاری کامل) در سه تکرار در نظر گرفته‌شدند. نتایج نشان‌داد که سطح مصرف زئولیت اثر معنی‌داری بر متوسط وزن بنه، تعداد بنه با وزن کمتر از 2 گرم، تعداد بنه با وزن بین 6 تا 8 گرم و تعداد بنه خواهری داشت (P≤0.01). مدیریت آبیاری نیز اثر معنی‌داری بر متوسط وزن بنه (P≤0.01)، تعداد بنه با وزن بین 6 تا 8 گرم و تعداد بنه خواهری داشت (P≤0.05). وزن بنه در تیمارهای بدون کاربرد زئولیت (Z0I1، Z0I2 و Z0I3) نسبت به Z3I3 کاهش معنی‌داری داشتند (P≤0.05). همچنین تیمارهای Z3I3، Z3I2 و Z1I3 بیشترین و تیمارهای Z0I1 و Z0I2 کمترین تعداد بنه‌های خواهری را داشتند. با در نظر گرفتن کاهش مصرف زئولیت و آب آبیاری، تیمار Z2I1 را می‌توان به‌عنوان مناسب‌ترین تیمار پیشنهاد کرد به‌طوری‌که وزن بنه را نسبت به تیمارهای Z0I1، Z0I2 و Z0I3 به ترتیب 64/26، 88/23 و 81/17 درصد افزایش داد.</abstract>
+									<keywords>
+									
+											<keyword>برنامه‌ریزی آبیاری</keyword>
+											<keyword>تنش آبی</keyword>
+											<keyword>وزن بنه و تغذیه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>11</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>201</first_page>
+										<last_page>213</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_38673_a37897fbf7e8747eef588b4e062a61e4.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-11-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مقایسه ترکیبات موثره و میزان فعالیت آنتی اکسیدانی زعفران تولید شده در شهرستان‌های کاشمر و مرند</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>معصومه</given_name>
+												<surname>وکیلی قرطاول</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سعیده</given_name>
+												<surname>علیزاده سالطه</surname>
+											</person_name></contributors>
+									<abstract>زعفران (&lt;em&gt;Crocus sativus&lt;/em&gt; L.) محصولی ارزشمند و نیمه مقاوم به خشکی است که می‌تواند در شرایط بسیار متفاوت آب و هوایی مورد کشت و کار قرار گیرد. مهم‌ترین ترکیب‌هاى شیمیایى زعفران ‌را کروسین و مشتق‌هاى کروستین تشکیل می‌دهند. زعفران موارد استفاده مختلفی دارد، از جمله در صنایع غذایی به عنوان عامل عطر و طعم و همچنین در صنایع دارویی به عنوان  ضد اسپاسم، ضد نفخ،‌ آرامبخش، ضد افسردگی و بیماریهای قلبی. در این پژوهش، نمونه‌های زعفران از شهرستان مرند با ارتفاع 1360 متر و کاشمر با ارتفاع 1000 متر از سطح دریا جمع‌آوری شدند و در شرایط مناسب و یکسان خشک گردیدند. همچنین نمونه تجاری از شرکت معروف بسته‌بندی زعفران در بازار نیز تهیه گردید. میزان ترکیبات مؤثره نمونه‌های زعفران شامل؛ کروسین، پیکروکروسین و سافرانال مورد ارزیابی قرار گرفت. بر اساس نتایج به دست آمده، در نمونه‌های جمع‌آوری شده از مرند، بیشترین میزان ترکیبات کروسین و پیکروکروسین مشاهده گردید (میزان جذب به ترتیب 306 و 118). همچنین  فعالیت آنتی‌اکسیدانی نمونه‌های زعفران نیز  به روش احیای رادیکال آزاد DPPH اندازه‌گیری شد. نتایج به‌دست آمده نشان داد که زعفران اکوتیپ مرند میزان ترکیبات مؤثره و فعالیت آنتی‌اکسیدانی بیشتری نسبت به اکوتیپ کاشمر دارد. بطور کلی با توجه به خشکی روزافزون و مسئله کم آبی در منطقه آذربایجان و کیفیت بالای زعفران برداشت شده از زعفران‌زارهای شهرستان مرند، زعفران می‌تواند به عنوان محصولی جهت کشت و کار وسیع در این منطقه قابل توصیه باشد.</abstract>
+									<keywords>
+									
+											<keyword>کروسین</keyword>
+											<keyword>پیکروکروسین</keyword>
+											<keyword>سافرانال</keyword>
+											<keyword>خاصیت آنتی اکسیدانی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>11</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>215</first_page>
+										<last_page>224</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_38671_e90ced9117669bc8e683fa2f4c6eae55.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-11-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>استخراج وتعیین کروسین در نمونه های زعفران بااستفاده ازمیکرواستخراج مایع-مایع پخشی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سمیه</given_name>
+												<surname>حیدری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مریم</given_name>
+												<surname>خلیلی</surname>
+											</person_name></contributors>
+									<abstract>اصلی‌ترین عامل ایجاد قدرت رنگی در زعفران ترکیبی به نام کروسین به فرمول شیمیایی C&lt;sub&gt;44&lt;/sub&gt;H&lt;sub&gt;64&lt;/sub&gt;O&lt;sub&gt;24&lt;/sub&gt; است. کروسین یکی از چند کاروتنویید محدود موجود در طبیعت است که به‌آسانی در آب حل می‌شود. این حلالیت یکی از دلایل کاربرد وسیع آن به‌عنوان رنگ دهنده در مواد غذایی و دارویی نسبت به سایر کاروتنوییدها می‌باشد. قدرت رنگی زعفران یکی از پارامترهای عمده تعیین کننده کیفیت زعفران می‌باشد که با اندازه‌گیری میزان کروسین موجود در آن مورد ارزیابی قرار می‌گیرد. روش میکرو استخراج مورد استفاده در این تحقیق از جدیدترین و ساده‌ترین روش‌های میکرو استخراج است که می‌تواند با موفقیت برای پیش تغلیظ و جداسازی کروسین در نمونه زعفران بکار رود. سرعت، ارزانی و آنالیز آسان در طیف سنجی UV-Vis مورد استفاده در اندازه‌گیری کروسین نسبت به سایر روش‌های اندازه‌گیری، از مزایای این روش است. بررسی‌ها نشان‌داد که نوع و حجم حلال پخشی و حلال استخراج در بازده استخراج تأثیر بسزایی دارد. در این پژوهش از استون به عنوان حلال پخشی و دی‌کلرو‌متان به عنوان حلال استخراج استفاده شد. تحت شرایط بهینه، منحنی کالیبراسیون در دامنه 00001/0-15/0 میکروگرم بر میلی‌لیتر خطی بوده و حد تشخیص روش 000008/0 میکروگرم بر میلی‌لیتر است. روش پیشنهادی تحت شرایط بهینه برای اندازه‌گیری کروسین نمونه‌های زعفران مناطق مختلف مورد استفاده قرار گرفته است و درصد بازیابی بسیار خوبی با خطای کم محاسبه شده است.</abstract>
+									<keywords>
+									
+											<keyword>پیش تغلیظ</keyword>
+											<keyword>میکرواستخراج</keyword>
+											<keyword>اسپکتروفتومتری</keyword>
+											<keyword>کروسین</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>11</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>225</first_page>
+										<last_page>237</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_38674_1e4017a2dad54cc3d0c0534032f79742.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-11-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مقایسه ی کاربردی لاجیت، پروبیت و توبیت در بررسی عوامل موثر بر پذیرش بیمه زعفران مطالعه موردی:شهرستان قاین</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید حسین</given_name>
+												<surname>محمدزاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علیرضا</given_name>
+												<surname>کرباسی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مریم</given_name>
+												<surname>کاشفی</surname>
+											</person_name></contributors>
+									<abstract>بیمه محصولات کشاورزی را می‌توان یکی از اهرم‌های توسعه کشاورزی دانست؛ زیرا با استفاده از آن هم می‌توان امنیت بیشتری برای تولیدکنندگان محصولات کشاورزی فراهم ساخت و هم شرایط مطلوبتری برای جلب و جذب سرمایه‌های خصوصی در بخش کشاورزی فراهم آورد. در این مطالعه تلاش شده است تا با استفاده اطلاعات حاصل از 118 کشاورز زعفران کار شهرستان قاین در سال 1392 و بهره‎گیری از سه الگوی لاجیت، پروبیت و دومرحله‌ای هکمن توبیت عوامل تأثیرگذار بر پذیرش بیمه زعفران مورد بررسی قرار گیرد. نتایج نشان داد که از بین الگوهای برآوردی، روش دو مرحله‌ای هکمن به دلیل اینکه می‌تواند میان عوامل مؤثر بر پذیرش بیمه و نیز عوامل مؤثر بر سطح بیمه‌گذاری تمایز قائل شود، از قوت بیشتری برخودار است. نتایج به دست آمده از متغیرهای الگو با هر سه مدل برآوردی نشان می‌دهد که متغیرهای تحصیلات کشاورز، درآمد سالیانه، استفاده از تسهیلات بانکی، سطح زیرکشت، استفاده از خدمات آموزشی مروجان، شاخص دانش بیمه‌ای و شاخص دانش فنی زراعی دارای تأثیر مثبت بر پذیرش و بیمه‌گذاری زعفران دارد و تنها متغیر سن دارای تأثیر منفی براقدام به بیمه‌گذاری و میزان بیمه‌گذاری زعفران دارد. با توجه به نتایج استفاده از دوره‎های آموزشی در خصوص مزایای بیمه محصول در مناطق روستایی و نیز افزایش سطح آگاهی کشاورز از انواع خدمات‎دهی صندوق‎های بیمه، زمان بیمه نمودن و میزان حق بیمه، توجه بیشتر مسئولان صندوق بیمه کشاورزی به سطوح درآمدی مختلف و تدوین راهکارهایی جهت گسترش استفاده از تسهیلات بانکی برای کشاورزان به عنوان پیشنهاد مطرح می‌گردد.</abstract>
+									<keywords>
+									
+											<keyword>بیمه</keyword>
+											<keyword>زعفران</keyword>
+											<keyword>شهرستان قاین</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>11</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>239</first_page>
+										<last_page>254</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_38872_f9aa9aaa242488e8fb20f2525cd1eb29.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

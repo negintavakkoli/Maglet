@@ -1,0 +1,1867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JAAG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Shahid Chamran University of Ahvaz</journal-id>
+			    	<journal-title-group>
+				      <journal-title>زمین شناسی کاربردی پیشرفته</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2251-7057</issn>
+			      <publisher>
+			        <publisher-name>Shahid Chamran University of Ahvaz</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">13</article-id>
+			      <article-id pub-id-type="doi">10.22055/aag.2017.12630</article-id>		
+			      <ext-link xlink:href="http://aag.scu.ac.ir/article_12630_24d4ee05387d4fdd7213b6ba44767d71.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>زمین شناسی مهندسی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>راهکار اجرایی تزریق در سد با استفاده از لوژان و شاخص نفوذپذیری ثانویه.</article-title>
+			        <subtitle>راهکار اجرایی تزریق در سد با استفاده از لوژان و شاخص نفوذپذیری ثانویه.</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>کراری</surname>
+			            <given-names>سید سجاد</given-names>
+			          </name>
+					  <aff>کارشناسی ارشد زمین شناسی مهندسی دانشکده علوم زمین دانشگاه اصفهان</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>اجل لوئیان</surname>
+			            <given-names>رسول</given-names>
+			          </name>
+					  <aff>عضو هیئت علمی گروه زمین شناسی دانشگاه اصفهان</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2016</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>3</issue>
+			      <fpage>1</fpage>
+			      <lpage>9</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>19</day>
+			          <month>06</month>
+			          <year>2014</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>28</day>
+			          <month>09</month>
+			          <year>2015</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2016, Shahid Chamran University of Ahvaz. </copyright-statement>	
+			        <copyright-year>2016</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://aag.scu.ac.ir/article_12630.html">http://aag.scu.ac.ir/article_12630.html</self-uri> 		
+			      <abstract>
+			        <p>تزریق در توده‌های سنگی جهت کاهش نفوذپذیری و تحکیم ساختگاه سد از امور مهم در صنعت سدسازی می‌باشد. جهت انجام عملیات تزریق به برنامه‌ای جامع و مبتنی بر مشخصات زمین شناسی مهندسی توده سنگ مورد نیاز است که در این راستا برنامه‌ای براساس اطلاعات موجود در مورد طراحی تزریق ارائه می‌گردد. برنامه ارائه شده به صورت فلوچارت برای وضعیت‌های مختلف ساختگاه طراحی شده است. در این فلوچارت‌ها پس از تعیین وضعیت تزریق‌پذیری توده‌های سنگی، راهکار بهسازی آن‌ها به طور کلی ارائه شده است. نهایتا پارامترهای اساسی تزریق هم چون غلظت دوغاب تزریق (طرح اختلاط)، روش محاسبه حجم و فشار ماکزیمم تزریق با استفاده از نتایج لوژان، SPI و RQD پیشنهاد گردیده است. در خصوص برنامه ریزی عملیات تزریق دیدگاه نسبتا معقولی در زمینه حجم تزریق، فشار تزریق و راهکاری در رابطه با غلظت ماده تزریقی ارائه می دهد.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>تزریق</kwd>
+						<kwd>لوژان</kwd>
+						<kwd>شاخص نفوذپذیری ثانویه</kwd>
+						<kwd>حجم دوغاب</kwd>
+						<kwd>فشار تزریق</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>اجل لوئیان.ر.، پسندی.م.، فروغی.ر.ا.، 1392، تخمین خورند سیمان پرده آب بند با استفاده از شبکه عصبی مصنوعی، مجله زمین شناسی کاربردی پیشرفته، شماره 7، ص 32-43.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>طاهری.د.،1381، بررسی ویژگی­های زمین شناسی مهندسی ساختگاه سد بختیاری و ارزیابی تزریق­پذیری پی سنگ و تکیه گاه­های آن به منظور طراحی پرده آب بند، پایان نامه کارشناسی ارشد دانشگاه تربیت مدرس، ص1-184.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>فهیمی­فر.ا.، 1384، اصول طراحی پی در سدسازی، انتشارات دانشگاه صنعتی امیر کبیر،ص 1-467.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>قبادی.م.ح.، حیدری.م.، رفیعی.ب.، موسوی.س.، آریافر.ن.، 1392، مطالعه خصوصیات ژئوتکنیکی ماسه سنگ های سازند آغاجاری در شرق و جنوب شرق اهواز، مجله زمین شناسی کاربردی پیشرفته، شماره 8، ص 21-33.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>Barton.N., 2001, An improved model for hydromechanical coupling during shearing of rock joints, International  Journal of  Rock Mechanics &amp; Mining Sciences, Vol:38, No:3, p:317-329.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Barton.N., 2007, Rock quality, Seismic velocity, Attenution and anisotropy, Talor &amp; Francis, p:1-729.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Chan man.Piu., 2005, Analysis and modeling of grouting and its application in civil engineering, Bachelor of Engineering, p:28-30.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Dalmalm.T., 2004, Choice of grouting method for jointed hard rock based on sealing time predictions, Division of Soil and Rock Mechanics, p:82-87.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Ewert.F.K., 1985, Rock grouting with emphesises on dam sites, Springer Verlag, Berlin- New York-Tokyo, p:1-428.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Ewert.F.K., 1997, Permeability, Groutability and grouting of  rocks related to dam site, Part:1, Dam Engineering, Vol:8 ,No:1 ,p:31-77.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Ewert.F.K., 2005, Hydrofracturing of  latent discontinuties in rock and implication for successful and economical execution of grouting, Dam Engineering, Wilmington Publishing Ltd, Vol:16,  No:1, p:5-56.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>Foyo.A.C., Sanchez.M.A., Tomillo.C., 2004 , A Proposal for a Secondary Permeability Index obtained  from water pressure tests in dam foundations, Engineering Geology, Vol: 77, p:69-82.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Houlsby.A.C., 1990, Construction and design of cement grouting, New York, John Willy &amp; Sons, p:1- 442.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Houlsby.A.C., 1999, www.Mining life. com/Miner/Rock mech/Grouting/Rock grout.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Kutzner.C., 1996, Grouting of rock and soil, A. Balkema, Rotterdom, Book Field, p: 1-271.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Kutzner.C., 1985, Consideration on rock permeability and grouting criteria, Fifteenth International</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Congress on large Dams, International Commission on large Dams, Paris, Vol: 3, p:315-328 and Vol:5, p:415-417.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Lombardi.G., 1985, The role of cohesion in cement grouting of rock,15th, ICOLD, Lausanne, Vol: 3,p:235-262.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Lombardi.G., 1999, Grouting of rock with cement mixes, ICOLD-SYMPOSIUM, Dam Foundations  Problems and Solutions, Antalya Turkey, p:1-18.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Palmstrom.A., 2005, Measurements of and relations between block size and rock quality designation (RQD), Tunneling and Underground Space Technology, Vol: 20, p:362-377.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Weaver.K.D., 1993, Selection of grout mixes grouting in rock:Grouting in rock and concrete,</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JAAG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Shahid Chamran University of Ahvaz</journal-id>
+			    	<journal-title-group>
+				      <journal-title>زمین شناسی کاربردی پیشرفته</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2251-7057</issn>
+			      <publisher>
+			        <publisher-name>Shahid Chamran University of Ahvaz</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">13</article-id>
+			      <article-id pub-id-type="doi">10.22055/aag.2017.12631</article-id>		
+			      <ext-link xlink:href="http://aag.scu.ac.ir/article_12631_a10e87ecb66e8c444a6ca68017fadf46.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>زمین شناسی مهندسی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>تخمین مدول الاستیسیته سنگ بکر با استفاده از شبکه عصبی مصنوعی و رگرسیون غیر خطی</article-title>
+			        <subtitle>تخمین مدول الاستیسیته سنگ بکر با استفاده از شبکه عصبی مصنوعی و رگرسیون غیر خطی</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1">
+			          <name>
+			            <surname>اسماعیلی</surname>
+			            <given-names>معصومه</given-names>
+			          </name>
+					  <aff>دانشگاه اصفهان- گروه عمران</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2" corresp="yes">
+			          <name>
+			            <surname>پسندی</surname>
+			            <given-names>مهرداد</given-names>
+			          </name>
+					  <aff>استادیار هیدروژئولوژی گروه زمین شناسی دانشگاه اصفهان</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>هاشمی اصفهانیان</surname>
+			            <given-names>محمود</given-names>
+			          </name>
+					  <aff>دانشگاه اصفهان- گروه عمران</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2016</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>3</issue>
+			      <fpage>10</fpage>
+			      <lpage>28</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>09</day>
+			          <month>09</month>
+			          <year>2014</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>26</day>
+			          <month>10</month>
+			          <year>2015</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2016, Shahid Chamran University of Ahvaz. </copyright-statement>	
+			        <copyright-year>2016</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://aag.scu.ac.ir/article_12631.html">http://aag.scu.ac.ir/article_12631.html</self-uri> 		
+			      <abstract>
+			        <p>مدول الاستیسیته سنگ بکر یکی از ملزومات اساسی بسیاری از مطالعات ژئومکانیکی و به ویژه پروژه های حفاری سنگ می باشد. برای تعیین مستقیم مدول الاستیسیته نمونه مغزه‌های باکیفیت بالا و هندسه مناسب مورد نیاز بوده و تهیه نمونه‌های مناسب از سنگ‌های شکسته و هوازده برای این منظور به آسانی امکان­پذیر نیست. بنابراین مدل‌های پیش­بینی مدول الاستیسیته براساس خصوصیات شاخص سنگ بکر ارائه گردیده­اند. در این مطالعه با استفاده از شبکه عصبی چند لایه پرسپترون با الگوریتم پس انتشار و داده‌های حاصل از آزمایشات سنگ، مطلوبترین تخمین از مدول الاستیسیته برآورد گردیده و با نتایج حاصل از روش رگرسیون غیر خطی مقایسه شده است. بدین منظور، تعداد 121 داده حاصل از آزمایشات سنگ سه پروژه بهشت آباد، رودبار لرستان و سبزکوه استفاده گردیده است. پارامترهای متعددی از جمله تخلخل، مقاومت فشاری تک محوره، سرعت موج فشاری، مقاومت کششی و چگالی در تخمین پارامتر مدول الاستیسیته مورد استفاده قرار گرفته­اند. در بهینه­یابی اجزای شبکه عصبی، مدل شبکه عصبی با دو لایه و چهار نورون در لایه مخفی، یک نورون در لایه خروجی و یک سری داده در لایه ورودی و تابع عملکرد tansig به عنوان ساختار بهینه شبکه عصبی برآورد شده است. نتایج حاصل از روش­های تخمین مورد استفاده توسط معیارهای ضریب تعیین و جذر مجموع مربعات خطا مورد مقایسه واقع شده­اند. این مقایسه نشانگر عملکرد مطلوب­تر شبکه عصبی نسبت به رگرسیون غیر خطی می­باشد. مقاومت فشاری تک محوری، سرعت موج فشاری و مقاومت کششی غیر­مستقیم به ترتیب مهم­ترین پارامترهای تاثیرگذار بر عملکرد مدل شبکه عصبی می­باشند.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>مدول الاستیسیته</kwd>
+						<kwd>سنگ بکر</kwd>
+						<kwd>شبکه عصبی مصنوعی</kwd>
+						<kwd>رگرسیون غیر خطی</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>شرکت مهاب قدس، 1383، گزارش مطالعات مرحله دوم طرح سد انحرافی و سیستم انتقال آب سبزکوه.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>شرکت توسعه منابع آب و نیروی ایران، 1385، گزارش آزمایش های آزمایشگاهی مکانیک سنگ طرح سد و نیروگاه رودبار لرستان، مطالعات مرحله دوم، وزارت نیرو.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>شرکت آب منطقه­ای اصفهان، 1383، گزارشات مطالعات پروژه بهشت آباد، شرکت مدیریت منابع آب ایران، وزارت نیرو.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>پسندی.م.، اجل لوییان.ر.، فروغی ابری.ر.، 1392، تخمین خورند سیمان پرده آب­بند با استفاده از شبکه­ی عصبی مصنوعی، زمین شناسی کاربردی پیشرفته، شماره 7، ص 32-43.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>ذلولی.ا.، خامه­چیان.م.، نیکودل.م.ر.، 1393، ارزیابی تغییرات مقاومت فشاری تک محوری نمونه­هایی از تراورتن­ها در مقابل تبلور نمک با استفاده از مدل تابع زوال، زمین شناسی کاربردی پیشرفته، شماره 12، ص 14-24.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>سازمان زمین شناسی و اکتشافات معدنی کشور، 1387، نقشه پراکندگی سنگ­های کربناته، مقیاس 1:5000000</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Anagnos, J.N., Kennedy.T.W., 1972, Practical method of conducting the indirect tensile test, Center for Highway Research University of Texas at Austin.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Basheer.I.A., Hajmeer.M., 2000, Artificial neural networks: fundamentals, computing, design, and application, Journal of microbiological methods, Vol:43, No:1, p: 3-31.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Braspenning.P.J., Thuijsman.F., Weijters.A.J.M.M., 1995, Artificial neural networks: an introduction to ANN theory and practice, Lecture Notes in Computer Science, Springer.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Broch.E., Franklin.J., 1972, The point-load strength test, International Journal of Rock Mechanics and Mining Sciences and Geomechanics Abstracts, Vol:9, No:6, p: 669-676.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Chatterjee.S., Hadi.A.S., 2013, Regression analysis by example, John Wiley and Sons, New Jersey.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>Christaras.B., Auger.F., Mosse.E., 1994, Determination of the moduli of elasticity of rocks. Comparison of the ultrasonic velocity and mechanical resonance frequency methods with direct static methods, Materials and Structures, Vol:27, No:4, p: 222-228.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Das.S.K., Basudhar.P.K., 2008, Prediction of residual friction angle of clays using artificial neural network, Engineering Geology, Vol:100, No:3, p: 142-145.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Deere.D.U., Miller.R.P., 1966, Engineering Classification and Index Properties of Intact Rock. Technical Report No. AFWL-TR-65-116, Air Force Weapons Laboratory, Kirkland Air Force Base, New Mexico.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Dehghan.S., Sattari.G.H., Chehreh Chelgani.S., Aliabadi.M.A., 2010, Prediction of uniaxial compressive strength and modulus of elasticity for Travertine samples using regression and artificial neural networks, Mining Science and Technology (China), Vol:20, No:1, p: 41-46.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Demuth.H., Beale.M., 1993, Neural network toolbox for use with MATLAB.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Diamantis.K., Gartzos.E., Migiros.G., 2009, Study on uniaxial compressive strength, point load strength index, dynamic and physical properties of serpentinites from Central Greece: test results and empirical relations, Engineering Geology, Vol:108, No:3-4, p: 199-207.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Fahlman.S.E., 1988, An empirical study of learning speed in back-propagation networks, Carnegie Mellon Report, No CMU-Cs, pp. 88–162.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Fu.L.M., 1994, Neural networks in computer intelligence, McGraw-Hill, New York.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Galushkin.A.I., 2007, Neuralnetworks theory, Springer, New York.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Goodman.R.E., 1980, Introduction to rock mechanics, John Wiley and Sons, New York.</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Haghnejad.A., Ahangari.K., Noorzad.A., Minaeian.B., 2013, Prediction relations between physical and mechanical properties of rocks-A case study: Asmari Formation in Iran, International Journal of Geosciences Research (IJGR), Vol:1, No:1, p: 1-8.</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Hamid.R., Yusuf.K., Rashid.A.K.A., 2010, Optimization of Feed-Forward Neural Networks Configuration used for Bridge Condition Rating Approximation. Latest Trends on Engineering Mechanics, Structures, EMESEG'10 Proceedings of the 3rd WSEAS international conference on Engineering mechanics, structures, engineering geology, p: 408-412.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Hecht-Nielsen.R., 1987, Kolmogorov’s mapping neural network existence theorem, Proceedings of the international conference on Neural Networks, IEEE Press, New York, Vol:3, No:3, p: 11-14.</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>Heidari.M., Khanlari.G.R., Momeni.A.A., 2010, Prediction of elastic modulus of intact rocks using artificial neural networks and non-linear regression methods, Australian Journal of Basic and Applied Sciences, Vol:4, No:12, p: 5869-5879.</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Hertz.J., Krogh.A., Palmer.R.G., 1991, Introduction to the Theory of Neural Computation, Addison-Wesley Publishing Co., Redwood City, CA.</element-citation>
+		</ref>
+		<ref id="R27">
+			<label>27</label>
+			<element-citation>Hoek.E., Diederich.M.S., 2006, Empirical estimation of rock mass modulus, International Journal of Rock Mechanics and Mining Sciences, Vol:43, No:2, p: 203-215.</element-citation>
+		</ref>
+		<ref id="R28">
+			<label>28</label>
+			<element-citation>Hubick.K.T., 1992, Artificial neural networks in Australia. Department of. Industry, Technology and Commerce, Commonwealth of Australia, Canberra.</element-citation>
+		</ref>
+		<ref id="R29">
+			<label>29</label>
+			<element-citation>Hush, D., 1989, Classification with neural networks: a performance analysis, IEEE International Conference on Systems Engineering, p: 277-280.</element-citation>
+		</ref>
+		<ref id="R30">
+			<label>30</label>
+			<element-citation>Jensen.L.R.D., Friis.H., Fundal.E., Møller.P., Jespersen.M., 2010, Analysis of limestone micromechanical properties by optical microscopy, Engineering Geology, Vol:110, No:3-4, p: 43-50.</element-citation>
+		</ref>
+		<ref id="R31">
+			<label>31</label>
+			<element-citation>Kaastra.I., Boyd.M., 1996, Designing a neural network for forecasting financial and economic time series, Neurocomputing, Vol:10, No:3, p: 215-236.</element-citation>
+		</ref>
+		<ref id="R32">
+			<label>32</label>
+			<element-citation>Kanellopoulos.I., Wilkinson.G.G., 1997, Strategies and best practice for neural network image classification, International Journal of Remote Sensing, Vol:18, No:4, p: 711-725.</element-citation>
+		</ref>
+		<ref id="R33">
+			<label>33</label>
+			<element-citation>Khandelwal.M., Singh.T.N., 2009, Correlating static properties of coal measures rocks with P-wave velocity, International Journal of Coal Geology, Vol:79, No:1-2, p:55-60.</element-citation>
+		</ref>
+		<ref id="R34">
+			<label>34</label>
+			<element-citation>Kuhn.H., 2000, Uniaxial Compression Testing, Materials Park, OH: ASM International, p: 143-151.</element-citation>
+		</ref>
+		<ref id="R35">
+			<label>35</label>
+			<element-citation>Lashkaripour.G.R., Nakhaei.M., 2001, A statistical investigation on mudrocks characteristics. In: Proceedings of the ISRM regional symposium of rock mechanics. Espoo, Finland, p: 131–136</element-citation>
+		</ref>
+		<ref id="R36">
+			<label>36</label>
+			<element-citation>Looney.C.G., 1996, Advances in feedforward neural networks: demystifying knowledge acquiring black boxes, Knowledge and Data Engineering, IEEE Transactions on, Vol:8, No:2, p: 211-226.</element-citation>
+		</ref>
+		<ref id="R37">
+			<label>37</label>
+			<element-citation>Negnevitsky.M., 2005, Artificial Intelligence: A Guide to Intelligent Systems. Addison Wesley, Harlow, England, 2nd edition.</element-citation>
+		</ref>
+		<ref id="R38">
+			<label>38</label>
+			<element-citation>Ocak.I., 2008, Estimating the modulus of elasticity of the rock material from compressive strength and unit weight, Journal- South African Institute of Mining and Metallurgy, Vol:108, No:10, p: 621–626.</element-citation>
+		</ref>
+		<ref id="R39">
+			<label>39</label>
+			<element-citation>Ocak.I., 2009, Empirical estimation of intact rock elastic modulus. In: The 21st international mining congress of Turkey. Antalya, Turkey, p: 165–172.</element-citation>
+		</ref>
+		<ref id="R40">
+			<label>40</label>
+			<element-citation>Ocak.I., Evren Seker.S., 2012, Estimation of Elastic Modulus of Intact Rocks by Artificial Neural Network, Rock Mechanics and Rock Engineering, Vol:45, No:6, p: 1047-1054</element-citation>
+		</ref>
+		<ref id="R41">
+			<label>41</label>
+			<element-citation>Okay Aksoy.C., Genis.M., Uyar Aldas.G., Ozacar.V., Ozer.S.C., Yilmaz.O., 2012, A comparative study of the determination of rock mass deformation modulus by using different empirical approaches, Engineering Geology, Vol:131-132, p: 19-28.</element-citation>
+		</ref>
+		<ref id="R42">
+			<label>42</label>
+			<element-citation>Palchik.V., 1999, Influence of porosity and elastic modulus on uniaxial compressive strength in soft brittle porous sandstones, Rock Mechanics and Rock Engineering, Vol:32, No:4, p: 303-309.</element-citation>
+		</ref>
+		<ref id="R43">
+			<label>43</label>
+			<element-citation>Palmstrom.A., Singh.R., 2001, The deformation modulus of rock masses-comparisons between in situ tests and indirect estimates, Tunnelling and Underground Space Technology, Vol:16, No:2, p: 115-131.</element-citation>
+		</ref>
+		<ref id="R44">
+			<label>44</label>
+			<element-citation>Paola.J.D., 1994, Neural network classification of multispectral imagery, The University of Arizona, USA.</element-citation>
+		</ref>
+		<ref id="R45">
+			<label>45</label>
+			<element-citation>Ripley.B.D., 1993, Statistical aspects of neural networks. In Barndorff-Nielsen.O.E., Jensen.J.L.,Kendall.W.S. (eds) Networks and Chaos–Statistical and Probabilistic Aspects. Chapman and Hall, London, p:. 40–123</element-citation>
+		</ref>
+		<ref id="R46">
+			<label>46</label>
+			<element-citation>Rohde.J., Feng.H., 1990, Analysis of the variability of unconfined compression tests of rock, Rock Mechanics and Rock Engineering, Vol:23, No:3, p: 231-236.</element-citation>
+		</ref>
+		<ref id="R47">
+			<label>47</label>
+			<element-citation>Sachpazis.C.I., 1990,Correlating Schmidt hardness with compressive strength and Young’s modulus of carbonate rocks, Bulletin of the International Association of Engineering Geology, Vol:42, No:1, p: 75-83.</element-citation>
+		</ref>
+		<ref id="R48">
+			<label>48</label>
+			<element-citation>Shen.J., Karakus.M., Xu.C., 2012, A comparative study for empirical equations in estimating deformation modulus of rock masses, Tunnelling and Underground Space Technology, Vol:32, p: 245-250.</element-citation>
+		</ref>
+		<ref id="R49">
+			<label>49</label>
+			<element-citation>Sonmez.H., Gokceoglu.C., Nefeslioglu.H.A., Kayabasi.A., 2006, Estimation of rock modulus: For intact rocks with an artificial neural network and for rock masses with a new empirical equation, International Journal of Rock Mechanics and Mining Sciences, Vol:43, No:2, p: 224–235.</element-citation>
+		</ref>
+		<ref id="R50">
+			<label>50</label>
+			<element-citation>Tiryaki.B., 2008, Predicting intact rock strength for mechanical excavation using multivariate statistics, artificial neural networks, and regression trees, Engineering Geology, Vol:99, No:1, p: 51-60.</element-citation>
+		</ref>
+		<ref id="R51">
+			<label>51</label>
+			<element-citation>Tucker.M.E., 2009, Sedimentary petrology: an introduction to the origin of sedimentary rocks: John Wiley and Sons.</element-citation>
+		</ref>
+		<ref id="R52">
+			<label>52</label>
+			<element-citation>Tuğrul.A., Zarif.I.H., 1999, Correlation of mineralogical and textural characteristics with engineering properties o selected granitic rock from Turkey, Engineering Geology, Vol:51, No:4, p: 303-317.</element-citation>
+		</ref>
+		<ref id="R53">
+			<label>53</label>
+			<element-citation>Wang.C., 1994, A theory of generalization in learning machines with neural application, Doctoral Dissertation, The University of Pennsylvania, USA.</element-citation>
+		</ref>
+		<ref id="R54">
+			<label>54</label>
+			<element-citation>Wythoff.B.J., 1993, Backpropagation neural networks: a tutorial, Chemometrics and Inteligent Laboratory Systems, Vol:18, No:2, p: 115-155.</element-citation>
+		</ref>
+		<ref id="R55">
+			<label>55</label>
+			<element-citation>Xie.T., Yu.H., Wilamowski.B., 2011, Comparison between Traditional Neural Networks and Radial Basis Function Networks, IEEE International Symposum on Industerial Electronics, p: 1194-1199.</element-citation>
+		</ref>
+		<ref id="R56">
+			<label>56</label>
+			<element-citation>Yagiz, S., 2009, Predicting uniaxial compressive strength, modulus of elasticity and index properties of rocks using the Schmidt hammer, Bulletin of Engineering Geology and the Environment, Vol:68, No:1, p: 55-63.</element-citation>
+		</ref>
+		<ref id="R57">
+			<label>57</label>
+			<element-citation>Zhang.L., Einstein.H.H., 2004, Using RQD to estimate the deformation modulus of rock masses, International Journal of Rock Mechanics and Mining Sciences, Vol:41, No:2, p: 337-341.</element-citation>
+		</ref>
+		<ref id="R58">
+			<label>58</label>
+			<element-citation>Zhang.L., 2005, Engineering properties of rocks, In: Elseviergeoengineering book series, Vol:4, Elsevier, Berlin, p: 180.</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JAAG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Shahid Chamran University of Ahvaz</journal-id>
+			    	<journal-title-group>
+				      <journal-title>زمین شناسی کاربردی پیشرفته</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2251-7057</issn>
+			      <publisher>
+			        <publisher-name>Shahid Chamran University of Ahvaz</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">13</article-id>
+			      <article-id pub-id-type="doi">10.22055/aag.2016.12632</article-id>		
+			      <ext-link xlink:href="http://aag.scu.ac.ir/article_12632_a8b197f8f5e8393a834ccd2be551210a.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>زمین شناسی اقتصادی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>زمین‌دماسنجی زیرکنیم در رگه‌های کوارتز روتیل‌دار، کمپلکس آتشفشانی-رسوبی سوریان</article-title>
+			        <subtitle>زمین‌دماسنجی زیرکنیم در رگه‌های کوارتز روتیل‌دار، کمپلکس آتشفشانی-رسوبی سوریان</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>اسدی</surname>
+			            <given-names>سینا</given-names>
+			          </name>
+					  <aff>عضو هیئت علمی دانشگاه شیراز بخش علوم زمین</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>شریف پور</surname>
+			            <given-names>شهلا</given-names>
+			          </name>
+					  <aff>دانشجوی کارشناسی ارشد ژئوشیمی، دانشگاه شیراز</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>محمودی</surname>
+			            <given-names>احسان</given-names>
+			          </name>
+					  <aff>دانشجوی دکترای زمین‌شناسی اقتصادی، دانشگاه شیراز</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2016</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>3</issue>
+			      <fpage>29</fpage>
+			      <lpage>34</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>10</day>
+			          <month>12</month>
+			          <year>2015</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>07</day>
+			          <month>03</month>
+			          <year>2016</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2016, Shahid Chamran University of Ahvaz. </copyright-statement>	
+			        <copyright-year>2016</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://aag.scu.ac.ir/article_12632.html">http://aag.scu.ac.ir/article_12632.html</self-uri> 		
+			      <abstract>
+			        <p>عناصر شیمیایی حساس به دما (مانند عناصر با قدرت میدان بالا؛ ‏HFSEs‏) مبنایی ارزشمند برای محاسبه دما ‏در سامانه­های زمین‌شناختی خاص هستند. آزمایش­ها نشان می‌دهد، دمای دگرگونی همبستگی معناداری با غلظت ‏عنصر زیرکنیم (‏Zr‏) در کانی روتیل دارد. این پژوهشبا روش تجزیه ریزکاوند الکترونی (EPMA)، به بررسی زمین­ دماسنجی کانی روتیل در رگه­های کوارتز مناطق مزایجان و دیده­بانکی طی فرآیند دگرگونی (در حدود 187 میلیون سال پیش) در ‏کمپلکس آتشفشانی-رسوبی سوریان می­پردازد. زمین‌دماسنجی Zr در روتیل با سه رابطه متفاوت محاسبه ‏گردید.محاسبات نشان می­دهد که بیشینه دمای دگرگونی در کمپلکس سوریان با احتساب فشار ۵/۹ کیلو بار، در بازه دمایی ۶۴۰ تا ۶۹۰ درجه ‏سانتی‌گراد رُخ داده است. این گستره دمایی مطابق با رویداد دگرگونی پیشرونده، طی فاز کوهزایی سیمرین اولیه بوده و ‏با بیشینه دگرگونی (رخساره آمفیبولیت) در حاشیه جنوبی کمربند دگرگونی سنندج-سیرجان ارتباط دارد. نتایج نشان ‏می­دهد که شیب دمایی به تدریج از جنوب ­شرق (مزایجان) به شمال­ غرب (دیده­بانکی) در کمپلکس سوریان کاهش می‏یابد.‏
+‏</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>روتیل</kwd>
+						<kwd>زیرکنیم</kwd>
+						<kwd>زمین‌دماسنجی</kwd>
+						<kwd>کمپلکس آتشفشانی-رسوبی سوریان</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>سامانی، ب.، فقیه، ع.، چرچی، ع.، 1391، بررسی الگوی دگرشکلی با استفاده از تحلیل استرین نهایی و عدد تاوایی جنبش­شناختی در پهنه دگرشکل­شده چشمه­سفید، کمربند دگرگونی سنندج-سیرجان،‎ ‎مجله زمین­شناسی کاربردی پیشرفته، شماره5، ص 20-‏‏26. ‏</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>مُر، ف.، اسدی، س.، فتاحی، ن.، 1390، زمین­شیمی و زمین­دماسنجی کانسار مس جیان (بوانات)، زون سنندج- سیرجان، شمال شرق استان ‏فارس،‎ ‎مجله زمین شناسی کاربردی پیشرفته، شماره1، ص 80-‏‏92. ‏</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>Asadi, S., Moore. F., Fattahi, N., 2013, Fluid inclusion and stable isotope constraints on the ‎genesis of the Jian Cu deposit, Sanandaj-Sirjan metamorphic zone, Iran: Geofluids, v. 13, ‎p. 66 – 81.‎</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>Baldwin, J.A., Brown, M., 2008, Age and duration of ultrahigh-temperature metamorphism in ‎the Anapolis–Itaucu Complex, Southern Brasilia Belt, central Brazil —constraints from ‎U–Pb geochronology, mineral rare earth element chemistry and trace-element ‎thermometry: Journal of Metamorphic Geology, v. 26, p. 213–233.‎</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>Bromiley, G.D., Hilairet, N., McCammon, C., 2004, Solubility of hydrogen and ferric iron in ‎rutile and TiO2 (II): implications for phase assemblages during ultrahigh pressure ‎metamorphism and for the stability of silica polymorphs in the lower mantle: ‎Geophysical Research Letters v. 31, p. 10–46. ‎</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Chen, Z.Y., Li, Q.L., 2008, Zr-in-rutile thermometry in eclogite at Jinheqiao in the Dabie ‎orogen and its geochemical implications. Chinese: Science Bulletin, v. 53, p. 768–776.‎</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>El Goresy, A., 1971, Meteoritic rutile: a niobium bearing mineral: Earth and Planetary Science ‎Letters, v. 11, p. 359–361.‎</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>El Goresy, A., Chen, M., Gillet, P., Dubrovinsky, L., Graup, G., 2001, An natural ‎shockinduced dense polymorph of rutile with PbO2 structure in the suevite from the Ries ‎Crater in Germany: Earth and Planetary Science Letters, v. 192, p. 485–495.‎</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Fazlnia, A. N., Schenk, V., Van der Straaten, F., Mirmohammadi, M. S., 2009, Petrology, ‎geochemistry and geochronology of trondhjemites from the Qori Complex, Neyriz, Iran: ‎Lithos, v. 112, p. 413-433.‎</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Fazlnia, A., Moradian, A., Rezaei, K., Moazzen, M., and Alipour, S., 2007, Synchronous ‎Activity of Anorthositic and S-type Granitic Magmas in Chah-Dozdan Batholith, Neyriz, ‎Iran: Evidence of Zircon SHRIMP and Monazite CHIME Dating: Journal of Sciences, ‎Islamic Republic of Iran, v. 18, p. 221-237.‎</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Foley, S.F., Barth, M.G., Jenner, G.A., 2000, Rutile/melt partition coefficients for trace ‎elements and an assessment of the influence of rutile on the trace element characteristics ‎of subduction zone magmas: Geochimica et Cosmochimica Acta, v. 64‎‏,‏‎ p. 933–938‎</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>Harley, S.L., 2008, Refining the P–T records of UHT crustal metamorphism: Journal of ‎Metamorphic Geology, v. 26, p. 125–154.‎</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Luvizotto, G.L., Zack, T., Triebold, S., von Eynatten, H., 2009, Rutile occurrence and trace ‎element behavior in medium-grade metasedimentary rocks: example from the Erzgebirge, ‎Germany: Mineralogy and Petrology, v. 97, p. 233–249.‎</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Meinhold, G., 2010, Rutile and its applications in earth sciences: Earth-Science Reviews, v. ‎‎102, p. 1–28‎</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Miller, C., Zanetti, A., Thöni, M., Konzett, J., 2007, Eclogitisation of gabbroic rocks: ‎redistribution of trace elements and Zr in rutile thermometry in an Eo–Alpine subduction ‎zone (Eastern Alps):  Chemical Geology, v. 239, p. 96–123.‎</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Mousivand, F., Rastad, E., Hoshino, K., Watanabe, M., 2007, The Bavanat Cu-Zn-Ag ‎orebody: First recognition of a Besshi-type VMS deposit in Iran: Neues Jahrbuch für ‎Mineralogie- Abhandlungen, v. 183, p. 297–315.‎</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Mousivand, F., Rastad, E., Meffre, S., Jan, P., Solomon. M., Zaw, Kh, 2010, U-Pb ‎geochronology and Pb isotope characteristics of the Chahgaz volcanogenic massive ‎sulphide deposit, southern Iran.  International: Geology Review, v. 1, p. 1-24.‎</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Rudnick, R.L., Barth, M., Horn, I., McDonough, W.F., 2000, Rutile-bearing refractory ‎eclogites: missing link between continents and depleted mantle: Science, v. 287, p. 278–‎‎281.‎</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Shannon, R.D., 1976, Revised effective ionic radii and systematic studies of interatomic ‎distances in halides and chalcogenides: Acta Crystallographica, v. A32, p. 751–767.‎</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Sheikholeslami, M.R., Pique, A., Mobayen, P., Sabzehei, M., Bellon, H., Emami, M. H., 2008, ‎Tectono metamorphic evolution of the Neyriz metamorphic complex, Quri-Kor-e-Sefid ‎area, Sanandaj-Sirjan Zone, SW Iran: Journal of Asian Earth Sciences, v. 31, p. 504–521. ‎</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Tomkins, H.S., Powell, R., Ellis, D.J., 2007, the pressure dependence of the zirconium-in rutile ‎thermometer: Journal of Metamorphic Geology, v. 25, p. 703–713.‎</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Triebold, S., von Eynatten, H., Luvizotto, G.L., Zack, T., 2007, Deducing source rock ‎lithology from detrital rutile geochemistry: an example from the Erzgebirge, Germany: ‎Chemical Geology, v. 244, p. 421–436.‎</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Villaseca, C., Orejana, D., Paterson, B.A., 2007, Zr–LREE rich minerals in residual ‎peraluminous granulites, another factor in the origin of low Zr–LREE granitic melts: ‎Lithos, v. 96, p. 375–386.‎</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Watson, E.B., Wark, D.A., Thomas, J.B., 2006, Crystallization thermometers for zircon and ‎rutile: Contributions to Mineralogy and Petrology, v. 151, p. 413–433.‎</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>Zack, T., Kronz, A., Foley, S.F., Rivers, T., 2002, Trace element abundances in rutiles from ‎eclogites and associated garnet mica schists: Chemical Geology, v. 184, p. 97–122.‎</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Zack, T., Luvizotto, G.L., 2006. Application of rutile thermometry to eclogites: Mineralogy ‎and Petrology, v. 88, p. 69–85.‎</element-citation>
+		</ref>
+		<ref id="R27">
+			<label>27</label>
+			<element-citation>Zack, T., Moraes, R., Kronz, A., 2004. Temperature dependence of Zr in rutile: empirical ‎calibration of a rutile thermometer: Contributions to Mineralogy and Petrology, v. 148, p. ‎‎471–488.‎</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JAAG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Shahid Chamran University of Ahvaz</journal-id>
+			    	<journal-title-group>
+				      <journal-title>زمین شناسی کاربردی پیشرفته</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2251-7057</issn>
+			      <publisher>
+			        <publisher-name>Shahid Chamran University of Ahvaz</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">13</article-id>
+			      <article-id pub-id-type="doi">10.22055/aag.2016.12633</article-id>		
+			      <ext-link xlink:href="http://aag.scu.ac.ir/article_12633_12d97662ea1f1c3ed1c39df3ba85a410.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>زمین شناسی نفت</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>کاربرد انعکاس گراپتولیت و کیتینوزوا در تعیین پختگی سازند های پالئوزوئیک زیرین ناحیه بندرعباس</article-title>
+			        <subtitle>کاربرد انعکاس گراپتولیت و کیتینوزوا در تعیین پختگی سازند های پالئوزوئیک زیرین ناحیه بندرعباس</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>میرشاهانی</surname>
+			            <given-names>مریم</given-names>
+			          </name>
+					  <aff>پژوهشگاه صنعت نفت، پردیس بالادستی، پژوهشکده علوم زمین، گروه پژوهش زمین‌شیمی</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>خواجه زاده</surname>
+			            <given-names>احمد</given-names>
+			          </name>
+					  <aff>پژوهشگاه صنعت نفت، پردیس بالادستی، پژوهشکده علوم زمین، گروه پژوهش زمین‌شیمی</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>خانی</surname>
+			            <given-names>بهزاد</given-names>
+			          </name>
+					  <aff>پژوهشگاه صنعت نفت، پردیس بالادستی، پژوهشکده علوم زمین، گروه پژوهش زمین‌شیمی</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2016</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>3</issue>
+			      <fpage>35</fpage>
+			      <lpage>45</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>30</day>
+			          <month>01</month>
+			          <year>2016</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>18</day>
+			          <month>04</month>
+			          <year>2016</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2016, Shahid Chamran University of Ahvaz. </copyright-statement>	
+			        <copyright-year>2016</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://aag.scu.ac.ir/article_12633.html">http://aag.scu.ac.ir/article_12633.html</self-uri> 		
+			      <abstract>
+			        <p>    تعیین بلوغ حرارتی سنگ­های منشا از اساسی­ترین بخش­های ارزیابی سیستم­های هیدروکربنی می­باشد. به دلیل فقدان ویترینیت،  انعکاس قطعات جانوری معتبرترین روش ارزیابی بلوغ لایه­های پالئوزوئیک زیرین می­باشد. سازند­های سیاهو و سرچاهان با خصوصیات زمین­شیمیایی مناسب می­توانند به عنوان سنگ منشا احتمالی در ناحیه خلیج فارس محسوب شوند. در این مطالعه جهت تعیین پختگی مواد آلی، از انعکاس قطعات جانوری استفاده گردید که سازند سیاهو در برش فراقون با Ro%  بالاتر از 2/1 در گاززایی و سازند سرچاهان در برش­های فراقون و کهگم با Ro% برابر 1 تا 2/1 در اواخر نفت زایی و ابتدای گاززایی قرار می­گیرند. همچنین مقایسه انعکاس گراپتولیت با انعکاس کیتینوزوا نشان دهنده مطابق بودن میزان انعکاس در این دو گروه قطعات جانوری می­باشند. میزان میانگین ضریب همبستگی برابر با 945/0 نشان دهنده روند یکسان تغییرات بلوغ در قطعات گراپتولیتی و کیتینوزواها است. همچنین انطباق انعکاس قطعات شبه ویترینیتی  با گراپتولیت­ها حاکی از منشا یکسان آن­ها می­باشد.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>پالئوزوئیک زیرین</kwd>
+						<kwd>انعکاس قطعات جانوری</kwd>
+						<kwd>سیاهو</kwd>
+						<kwd>سرچاهان</kwd>
+						<kwd>انطباق انعکاس</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>علیزاده. ب.، جنت مکان. ن.، قلاوند. ه.، غبیشاوی. ع.، 1392، زمین­شیمی و چینه نگاری سکانسی سازند پابده در میدان نفتی منصوری، جنوب غرب ایران. مجله زمین شناسی کاربردی پیشرفته, شماره 5، ص 27-40.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>دبستانی. ن.، حسن نژاد. ن.، معماریانی. م.، مصدق. ح.، 1394، مقایسه داده‌های زمین­شیمیائی آلی سازند مبارک (البرز شرقی) در برش‌های تویه رودبار، لب نسار و میغان. مجله زمین شناسی کاربردی پیشرفته, شماره 17, ص 37-47.‎</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>فخاری، م.، شهریاری، س.، 1374، نقشه زمین شناسی 250000/1 بندرعباس، سازمان زمین شناسی</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>Alpern. B., 1980, Petrographie du Kerogene. In: Kerogene, Insoluble Organic Matter from Sedimentary Rocks. B. Durand (Ed.). Technip Editions, Paris, France, p: 339-384.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>Bertrand. R., 1990, Correlations among the reflectances of vitrinite, Chitinozoans, graptolites and Scolecodonts. Organic Geochemistry, Vol: 15, No: 6, p: 565-574.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Bertrand. R., and Heroux. Y., 1987, Chitinozoan, graptolite, and scolecodont reflectance as an alternative to vitrinite and pyrobitumen reflectance in Ordovician and Silurian strata, Anticosti Island, Quebec, Canada. American Association of Petroleum Geology Bulletin, Vol: 71, No: 8, p: 951-957.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Brooks. J., Fleet. A.J., 1986, Marine petroleum source rocks, Geological Society Special Publication, Blackwell, Oxford, 444 p.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Cole. G.A., 1994, Graptolite-chitinozoan reflectance and its relationship to other geochemical maturity indicators in the Silurian Qusaiba Shale, Saudi Arabia. Energy &amp; fuels, Vol: 8 No: 6, p: 1443-1459.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Epstein. A.G., Epstein, J.B., Harris. L.D., 1977, Conodont color alteration; an index to organic metamorphism. United State Government Survey Print Offset, No: 995, p:1-27</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Goodarzi, F., Norford, B.S., 1985, Graptolites as indicators of the temperature histories of rocks. Journal of the Geological Society, Vol: 142, No: 6, p: 1089-1099.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Goodarzi. F., 1985, Reflected light microscopy of Chitinozoan fragments. Marine and petroleum geology, Vol: 2 No: 1, p: 72-78.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>Goodarzi. F., Fowler. M.G., Bustin. M., McKirdy, D.M., 1992, Thermal maturity of Early Paleozoic sediments as determined by the optical properties of marine-derived organic matter—A Review. In: Early Organic Evolution Springer Berlin Heidelberg, p: 279-295.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Goodarzi. F., Gentzis. T., Harrison. C., Thorsteinsson. R., 1992, the significance of graptolite reflectance in regional thermal maturity studies, Queen Elizabeth Islands, Arctic Canada. Organic geochemistry, Vol: 18, No: 3, p: 347-357.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Goodarzi. F., Norford, B.S., 1989, Variation of graptolite reflectance with depth of burial. International journal of coal geology, Vol: 11 No: 2, p: 127-141.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Grahn, Y., Nolvak, J., 2007, Ordovician Chitinozoa and biostratigraphy from Skåne and Bornholm, southernmost Scandinavia–an overview and update. Bulletin of Geosciences, Vol: 82 No: 1, p: 11-26.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Gutjahr, C.C.M., 1966, Carbonization measurements of pollen-grains and spores and their application. Leidse Geologische Mededelingen, Vol: 38, No: 1, p: 1-29.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Hallam, A., 1981. Facies interpretation and the stratigraphic record, Freeman, Oxford, 367 p.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Houseknecht, D.W., Hathon, L.A. McGilvery, T.A., 1992, Thermal maturity of Paleozoic strata in the Arkoma Basin. Source Rocks in the Southern Midcontinent, Oklahoma Geological Survey, Circular, 93, p: 122-132.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Huc, A.-Y., 1995, Paleogeography, Paleoclimate, and Source Rocks. American Association of Petroleum Geologists, Series no: 40, pp: 347</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Jarvie. D.M., 2012. Shale resource systems for oil and gas: Part 2, Shale-oil resource systems, p: 89-119</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Legall. F.D., Barnes. C.R. Macqueen. R.W., 1981, Thermal maturation, burial history and hotspot development, Paleozoic strata of southern Ontario-Quebec, from Conodont and Acritarch colour alteration studies. Bulletin of Canadian Petroleum Geology, Vol: 29 No: 4, p: 492-539.</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Littke. R., 2006, Deposition, diagenesis and weathering of organic matter-rich sediments, Lecture Notes in Earth Sciences, Vol: 47. Springer-Verlag, Berlin</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Luning. S., Loydell. D.K., Sutcliffe. O., Salem. A.A., Zanella. E., Craig. J. Harper. D.A.T., 2000, Silurian--Lower Devonian Black Shales in Morocco: Which are the Organically Richest Horizons, Journal of Petroleum Geology, Vol: 23, No: 3, p: 293-311.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Malinconico. M.A.L., 1992, Graptolite reflectance in the prehnite-pumpellyite zone of Northern Maine, USA. Organic geochemistry, Vol: 18 No: 3, p: 263-271.</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>Malinconico. M.A.L., 1993, Reflectance cross-plot analysis of graptolites from the anchi-metamorphic region of northern Maine, USA. Organic geochemistry, Vol: 20 No: 2, p: 197-207.</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Murchison. D.G., Cook. A.C., Raymond. A.C., Durand. B., McKenzie. D.P. Sellwood. B., 1985, Optical Properties of Organic Matter in Relation to Thermal Gradients and Structural Deformation, Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences, p:157-186.</element-citation>
+		</ref>
+		<ref id="R27">
+			<label>27</label>
+			<element-citation>Petersen, H.I., Schovsbo, N.H., Nielsen. A.T., 2013, Reflectance measurements of zooclasts and solid bitumen in Lower Paleozoic shales, southern Scandinavia: correlation to vitrinite reflectance. International Journal of Coal Geology, No: 114, p:1-18.</element-citation>
+		</ref>
+		<ref id="R28">
+			<label>28</label>
+			<element-citation>Pool. W., Geluk. M., Abels. J., Tiley. G., Idiz. E., Leenaarts. E., 2012, Assessment of an unusual European shale gas play: the Cambro-Ordovician alum shale, southern Sweden. In SPE/EAGE European Unconventional Resources Conference &amp; Exhibition-From Potential to Production.</element-citation>
+		</ref>
+		<ref id="R29">
+			<label>29</label>
+			<element-citation>Rantitsch. G., 1995, Coalification and graphitization of graptolites in the anchizone and lower epizone. International journal of coal geology, Vol: 27 No: 1, p: 1-22.</element-citation>
+		</ref>
+		<ref id="R30">
+			<label>30</label>
+			<element-citation>Staplin. F. L., 1982, Introduction to How to assess maturation and paleotemperatures. In: How to Assess Maturation and Paleotemperatures Sot. Econ. Paleo. And Miner, Short course 7, p: l-6.</element-citation>
+		</ref>
+		<ref id="R31">
+			<label>31</label>
+			<element-citation>Suárez-Ruiz. I., Flores. D., Mendonça Filho. J.G., Hackley. P.C., 2012, Review and update of the applications of organic petrology: Part 1, geological applications. International Journal of Coal Geology, No: 99, p:54-112.</element-citation>
+		</ref>
+		<ref id="R32">
+			<label>32</label>
+			<element-citation>Suchý. V., Sýkorová. I., Stejskal. M., Šafanda. J., Machovič. V., Novotná. M., 2002, Dispersed organic matter from Silurian shales of the Barrandian Basin, Czech Republic: optical properties, chemical composition and thermal maturity. International journal of coal geology, Vol: 53 No: 1, p: 1-25.</element-citation>
+		</ref>
+		<ref id="R33">
+			<label>33</label>
+			<element-citation>Taylor. G.H., Teichmuller. M., Davis.  A., Diessel. C.F.K., Littke. R. Robert. P., 1998, Organic petrology: A new handbook incorporating some revised parts of Stach's Textbook of Coal Petrology: Berlin. Germany, Gebruder Borntraeger.</element-citation>
+		</ref>
+		<ref id="R34">
+			<label>34</label>
+			<element-citation>Varol. Ö.N., Demirel. I.H., Rickards. R.B.,Günay. Y., 2006, Source rock characteristics and biostratigraphy of the Lower Silurian (Telychian) organic-rich shales at Akyaka, central Taurus region, Turkey. Marine and petroleum geology, Vol: 23, No: 9, p: 901-911.</element-citation>
+		</ref>
+		<ref id="R35">
+			<label>35</label>
+			<element-citation>Wang. H.D., Philp. R.P., 1997, Geochemical study of potential source rocks and crude oils in the Anadarko Basin, Oklahoma. American Association of Petroleum Geology Bulletin, Vol: 81 No: 2, p: 249-275</element-citation>
+		</ref>
+		<ref id="R36">
+			<label>36</label>
+			<element-citation>Wignall. P.B., 1994, Black shales, Vol: 30, p: 144. Oxford: Clarendon Press.</element-citation>
+		</ref>
+		<ref id="R37">
+			<label>37</label>
+			<element-citation>Xiao. X.M., Wilkins, R.W.T., Dehan, L., Zufa, L. and Jiamu, F., 2000. Investigation of thermal maturity of lower Palaeozoic hydrocarbon source rocks by means of vitrinite-like maceral reflectance—a Tarim Basin case study. Organic Geochemistry, Vol: 31, No: 10, p: 1041-1052.</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JAAG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Shahid Chamran University of Ahvaz</journal-id>
+			    	<journal-title-group>
+				      <journal-title>زمین شناسی کاربردی پیشرفته</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2251-7057</issn>
+			      <publisher>
+			        <publisher-name>Shahid Chamran University of Ahvaz</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">13</article-id>
+			      <article-id pub-id-type="doi">10.22055/aag.2017.12634</article-id>		
+			      <ext-link xlink:href="http://aag.scu.ac.ir/article_12634_a07dbff99c6619dd08acd434542d0f88.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>آب شناسی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>آلودگی منابع آب زیرزمینی در محدوده زمینهای کشاورزی دشت مجن، استان سمنان</article-title>
+			        <subtitle>آلودگی منابع آب زیرزمینی در محدوده زمینهای کشاورزی دشت مجن، استان سمنان</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1">
+			          <name>
+			            <surname>کرمی</surname>
+			            <given-names>غلامحسین</given-names>
+			          </name>
+					  <aff>عضو هیات علمی دانشگاه صنعتی شاهرود</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2" corresp="yes">
+			          <name>
+			            <surname>جعفری</surname>
+			            <given-names>هادی</given-names>
+			          </name>
+					  <aff>عضو هیأت علمی دانشگاه صنعتی شاهرود</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>قناعتیان</surname>
+			            <given-names>حامد</given-names>
+			          </name>
+					  <aff>دانش آموخته کارشناسی ارشد دانشگاه صنعتی شاهرود</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2016</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>3</issue>
+			      <fpage>46</fpage>
+			      <lpage>55</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>29</day>
+			          <month>01</month>
+			          <year>2016</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>23</day>
+			          <month>04</month>
+			          <year>2016</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2016, Shahid Chamran University of Ahvaz. </copyright-statement>	
+			        <copyright-year>2016</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://aag.scu.ac.ir/article_12634.html">http://aag.scu.ac.ir/article_12634.html</self-uri> 		
+			      <abstract>
+			        <p>زمین­های کشاورزی مهمترین منبع آلودگی غیر نقطه­ای آب زیرزمینی می­باشند. در این تحقیق به منظور بررسی اثر کشاورزی بر کیفیت آبخوان مجن در استان سمنان، از 17 حلقه چاه نمونه برداری شده است. رابطه هدایت الکتریکی، pH، نیترات و فسفات با عمق چاه­ها به وضوح تفاوت خصوصیات کیفی آبخوان در بخش­های فوقانی و زیرین را نشان می­دهد. رابطه مستقیم هدایت الکتریکی با نیترات و فسفات در چاه­های کم­عمق نشان دهنده تاثیر آب برگشتی کشاورزی در بخش فوقانی آبخوان بوده، در حالیکه در چاه­های عمیق­تر رابطه معناداری بین آنها وجود ندارد. نتایج این تحقیق نشان­دهنده افزایش غلظت نیترات و فسفات در بخش فوقانی آبخوان در مقایسه با بخش زیرین آن بوده که ضمن تایید منشاء سطحی این آلاینده­ها، بیانگر تاثیر فعالیت­های کشاورزی در آلودگی آبخوان مجن می­باشد. بر اساس نتایج کاربردی تحقیق، مدیریت فعالیت­های کشاورزی در این دشت در راستای جلوگیری از آلودگی آبخوان و حفاظت از منابع ارزشمند آب زیرزمینی ضروری می باشد.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>کشاورزی</kwd>
+						<kwd>نیترات</kwd>
+						<kwd>فسفات</kwd>
+						<kwd>آبخوان مجن</kwd>
+						<kwd>سمنان</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>رستمی زرین­آبادی. ا.، فرقانی تهرانی. گ.، کرمی. غ.، 1393، ارزیابی خصوصیات هیدروژئوشیمیایی آب‌های زیرزمینی دشت رومشگان، لرستان، ایران، مجله زمین‌شناسی کاربردی پیشرفته، دوره 4، شماره 13، ص 33-41.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>روحی. ح.، کلانتری. ن.، محمدی بهزاد. ح.، دانشیان. ح.، 1392، بررسی عوامل مؤثر بر خصوصیات شیمیایی آب زیرزمینی (مطالعه موردی دشت الباجی)، مجله زمین‌شناسی کاربردی پیشرفته، دوره 3، شماره 9، ص 1-9.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>قناعتیان. ح.، 1391، ارزیابی کیفی آبخوان مجن با تکیه‌بر آلودگی‌های ناشی از کشاورزی، پایان نامه کارشناسی ارشد، دانشگاه صنعتی شاهرود، دانشکده علوم زمین.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>لاله زاری. ر.، طباطبایی. س.ح.، یارعلی. ن.، 1388، بررسی تغییرات ماهانه نیترات در آب زیرزمینی دشت شهرکرد و پهنه‌بندی با استفاده از سیستم اطلاعات جغرافیایی، مجله پژوهش آب ایران، سال سوم، شماره 4، ص. 9-17.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>نظامی. م.ط.، قدرتی. ع.، وفایی. غ.، ۱۳۹۰، تاثیر یون نیترات استفاده شده تحت تاثیر کود های کشاورزی در آلودگی آب‌های زیرزمینی در منطقه شهریار، همایش ملی دستاوردهای نوین در زراعت، شهر قدس، دانشگاه آزاد اسلامی واحد شهر قدس.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Bohlke. J.K., 2002, Groundwater recharge and agricultural contamination. Hydrogeology Journal, vol. 10, pp. 153-179.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Chae. G.T., Kim. K., Yun. S.T., Kim. K.H., Kim. S.O., Choi. B.Y., ... and Rhee. C.W., 2004, Hydrogeochemistry of alluvial groundwaters in an agricultural area: an implication for groundwater contamination susceptibility. Chemosphere, vol. 55(3), pp. 369-378.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Jafari. H., Raeisi. E., Zare. M., Kamgar Haghighi. A.A., 2010, Time Series Analysis of Irrigation Return Flow in a Semi-arid Agricultural Region, Iran. Archives of Agronomy and Soil Science. Vol. 58(6), pp. 673-689.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Jafari. H., Raeisi. E., Hoehn. E., Zare. M., 2012, Hydrochemical Characteristcs of Irrigation Return Flow in Semi-arid Regions of Iran. Hydrological Sciences Journal. Vol. 57(1), pp. 173-185.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Jalali. M., 2011, Nitrate pollution of groundwater in Toyserkan, western Iran. Journal of Environ Earth Science, vol. 62, pp. 907-913.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Jalali. M., 2009, Geochemistry characterization of groundwater in an agricultural area of Razan, Hamadan, Iran. Environ Geology, vol. 56, pp. 1479-1488.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>Oren. O., Yechieli. Y., Böhlke. J.K., Dody. A., 2004, Contamination of groundwater under cultivated fields in an arid environment, central Arava Valley, Israel. Journal of Hydrology, vol. 290, pp. 312-328.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Sun. B., Zhang. L., Yang.  L., Zhang. F., Norse. D., Zhu. Z., 2012, Agricultural non – point source pollution in China: Causes and Mitigation Measures, AMBIO, Vol. 41, pp. 370 – 379.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Todd. D.K., Mays. L.W., 2005, Groundwater Hydrology, 3rd edn. John Wiley and Sons, Inc. USA.</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JAAG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Shahid Chamran University of Ahvaz</journal-id>
+			    	<journal-title-group>
+				      <journal-title>زمین شناسی کاربردی پیشرفته</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2251-7057</issn>
+			      <publisher>
+			        <publisher-name>Shahid Chamran University of Ahvaz</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">13</article-id>
+			      <article-id pub-id-type="doi">10.22055/aag.2016.12635</article-id>		
+			      <ext-link xlink:href="http://aag.scu.ac.ir/article_12635_a3e2c5a36e9e2bfa9bc0a7b25435d9c3.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>زمین شناسی ساختمانی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>دگرشکلی جوان ستبرپوسته و نازک پوسته زاگرس شرقی (کمان فارس)</article-title>
+			        <subtitle>دگرشکلی جوان ستبرپوسته و نازک پوسته زاگرس شرقی (کمان فارس)</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>عطاپورفرد</surname>
+			            <given-names>سید عباس</given-names>
+			          </name>
+					  <aff>دانشجوی دکتری تکتونیک دانشگاه تربیت مدرس</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>یساقی</surname>
+			            <given-names>علی</given-names>
+			          </name>
+					  <aff>دانشیار گروه تکتونیک دانشگاه تربیت مدرس</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>رضائیان</surname>
+			            <given-names>مهناز</given-names>
+			          </name>
+					  <aff>استادیار دانشکده علوم زمین دانشگاه تحصیلات تکمیلی زنجان</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c4">
+			          <name>
+			            <surname>Zattin</surname>
+			            <given-names>Massimiliano</given-names>
+			          </name>
+					  <aff>دانشیار دانشکده علوم زمین دانشگاه پادوا در ایتالیا</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2016</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>3</issue>
+			      <fpage>56</fpage>
+			      <lpage>73</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>28</day>
+			          <month>01</month>
+			          <year>2016</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>23</day>
+			          <month>04</month>
+			          <year>2016</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2016, Shahid Chamran University of Ahvaz. </copyright-statement>	
+			        <copyright-year>2016</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://aag.scu.ac.ir/article_12635.html">http://aag.scu.ac.ir/article_12635.html</self-uri> 		
+			      <abstract>
+			        <p>وجود چین­های مرتبط با گسل­های پی­سنگی در مرز زیر زون­های ساختاری زاگرس شرقی شرایط مناسبی را برای بررسی تقدم و تاخر دگرشکلی ستبر و نازک پوسته فراهم آورده­است. پارامترهای هندسی چین (نسبت ظاهری، نمایه تقارن، تغییرات ضخامت پهلو‌های پیشانی چین­های مرتبط با گسلش)، تغییر ضخامت و رخساره سازندهای گروه فارس، هندسه و ویژگی­های جنبشی گسل­ها و مطالعات زمان دما سنجی با روش­های  رد شکافت هسته­ای آپاتیت – هلیم و زیرکن هلیم نشان می­دهند که درگیر شدن کامل ورقه­های ایران و عربی قبل از5/16 میلیون سال پیش آغاز شده و در اثر آن گسل­های نرمال پی‌سنگی کنترل کننده ته­نشست در حوضه رسوبی زاگرس، بصورت معکوس فعال گردیده­اند. در نزدیکی مرز زاگرس و مکران و مرز فارس ساحلی و داخلی؛ در اثر این دگرشکلی، چین­های تک شیب با مکانیسم برش مثلثی (trishear model) بوجود آمده­است. دگرشکلی نازک پوسته کمان فارس در ائوسن­-  میوسن میانی آغاز شده­است. در ادامه جبهه دگرشکلی به سمت جنوب غرب حرکت نموده و در 7 میلیون سال پیش به  مرز فارس ساحلی و داخلی رسیده­است.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>دگرشکلی ستبر پوسته</kwd>
+						<kwd>دگرشکلی نازک پوسته</kwd>
+						<kwd>زاگرس شرقی</kwd>
+						<kwd>رد شکافت هسته‌ای آپاتیت – زیرکن - هلیم</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>حسن شاهی، ح.ر، 1382،زمی‍ن‌ ش‍ن‍اسی‌ و م‍حی‍ط رس‍وببی‌ س‍ازن‍د رازک‌ در اطراف‌ شی‍راز، پایان نامه کارشناسی ارشد، دانشگاه آزاد اسلامی تهران شمال، 152ص.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>ظفرزاده.ن، موسوی حرمی.س.ر، جهانی.د، غفرانی.ا، ۱۳۹۰، بررسی رخساره­ها و محیط رسوبی بخش گوری از سازند میشان، سی امین گردهمایی علوم زمین، تهران، سازمان زمین شناسی و اکتشافات معدنی کشور</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>هلاکویی. ز.، صیرفیان.ع، وزیری مقدم .ح، 1389، زیست چینه نگاری و سکانس های رسوبی سازند گچساران (بخش های چمپه و مول) در جنوب شرق فیروزآباد، فارس، پژوهش­های دانش زمین، دوره 1، شماره 4، ص50-33</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>لاسمی.ی.، لاری.ر، 1385، محیط رسوبی و چینه نگاری سکانسی سازند میشان (نهشته­های حوشه­ی رسوبی جوی کمربند چین­خورده) در منطقه باختر فارس و خاور بوشهر، فصلنامه علوم زمین سال 16، شماره 61- صفحه 68-77</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>نجفی.م.، یساقی. ع.، ورجس.ج، بحرودی. ع، شرکتی. ش، 1392، تحلیل ساختاری سه بعدی از تاقدیس سفیدزاخور در پهنه فارس، به منظور تعیین هندسه افق مخزن گازی پرموتریاس، مجله زمین شناسی کاربردی پیشرفته، شماره 10- صفحه10-18</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>Agard, P., Omrani, J., Jolives, L., Whitechurch, H., Vrielynck, B., Spakman, W,. Monie, P., Meyer, B., Wortel, R., 2011. Onset of subduction as the cause of rapid Pliocene –Quaternary subsidence in the SouthCaspianBasin. Geology, 148 (5–6), 692–725.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>Ahmadhadi.F., Lacombe.O., Daniel.J.M., 2007, Early reactivation of basement faults in Central Zagros (SW Iran): evidence from pre-folding fracture populations in Asmari Formation and lower Tertiary paleogeography. In: Thrust Belts and Foreland Basins. Springer, pp 205-228</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>Alavi, M., 1994. Tectonics of the Zagros orogenic belt of Iran: new data and interpretations. Tectonophysics,vol. 229, p. 211-238.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>Alavi, M., 2007. Structures of the Zagros fold-thrust belt in Iran. American Journal of Science 307, pp1064–1095, doi: 10.2475/09.2007.02.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Authemayou.C., D.Chardon, O.Bellier, Z. Malekzadeh, E.Shabanian, Abbassi.M.R., 2006, Late Cenozoic partition-ing of oblique plate convergence in the Zagros fold‐and‐thrust belt (Iran), Tectonics, vol: 25, TC3002, doi:10.1029/2005TC001860</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Bahroudi.A., H.A.Koyi, 2003, Effect of spatial distribution of Hormuz salt on deformation style in the Zagros fold and thrust belt: An analogue modeling approach, J. Geol. Soc., N0: 160, P:1 – 15.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>Berberian.F., King.G.C.P., 1981. Towards a paleogeography and tectonic evolution of Iran. Canadian Journal of Earth Science No:5, P:101–117.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Berberian.M., 1995, Master blind thrust faults hidden under the Zagros folds : active basement tectonics and surface morphotectonic, Tectonophysics, No:241, p:193-224.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Blanc.E.J.-P., Allen.M.B.,Inger.S., Hassani.H., 2003, Structural styles in the Zagros Simple Folded Zone, Iran, Journal of geological society, No:160, 401-412.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Burberry.C., Cosgrove.J.W., Guo Liu.J., 2010, A study of fold characteristics and deformation style using the evolution of the land surface: Zagros Simply Folded Belt Iran, Earth and Atmospheric Sciences, paper 295.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Cosgrove.J.W., Ameen.M.S., 2000, A comparison of the geometry, spatial organisation and fracture patterns associated with forced folds and buckle folds. In: Cosgrove, J.W. and Ameen, M.S. (eds) Forced Folds and Fractures, Geological Society, London, Special Publications, No:169,p: 7–21.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Carminati.E., Aldega.L., Bigi. S., Minelli. G., Shaban.A, 2016, the role of pre-collisional extensional faulting, salt tectonics and multi-stage thrusting in the sarvestan transfer zone (Fars, Iran), Tectonophysics, Accepted Manuscript.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Davis.D.M., Engelder.T, 1985, The role of salt in fold-and-thrust belts,Tectonophysics, No:119, P:67–88.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Donelick.R.A.,O’Sullivan.P.B., Ketcham. R.A., 2005, Apatite Fission-Track Analysis, in Reiners, P.W., Ehlers, T.A. (Eds.). Low Temperature Thermochronology: Techniques, Interpretations, and Applications. Rev. Min. Geochem. No:58, P:49-94.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Dunkl.I., 2002, TRACKKEY: a Windows program for calculation and graphical presentation of fission track data. Comput. Geosc. No: 28/2, P:3—12.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>-Fakhari.M.D., Gary.J.A., Horton.B.K., Hassanzadeh.J., Amini.A., 2008. Revised age of proximal deposits in the Zagros foreland basin and implications for Cenozoic evolution of the High Zagros. Tectonophysics, No: 451,P:170-185</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Farley.K.A., 2002, (U-Th)/He dating: techniques, calibrations, and applications. In Noble Gases in Geochemistry and Cosmochemistry. Rev. Min. Geochem. No:47,P: 819–44.</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Gavillot.Y. G., Axen.G. J., Stockli.D. F., Horton.B. K., Fakhari, M.,2010, Timing of thrust activity in the High Zagros fold-thrust belt, Iran, from (UTh)/ He  thermochronometry. Tectonics, No:29, TC4025, doi: 10.1029/2009TC002484</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Galbraith.R.F.,Laslett.G.M, 1993, Statistical models for mixed fission track ages. Nucl. Tracks. No: 5, P:3–14.</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>Gautheron.C., Espurt.N., Barbarand.J., Roddaz.M., Baby.P., Brusset.S., Douville. E., 2013, Direct dating of thick- and thin-skin thrusts in the Peruvian Subandean zone through apatite (U-Th)/He and fission track thermochronometry:Basin Research,vol:25, No:4, p:419–435.</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Hardy.S., Finch.E., 2006, Mechanical stratigraphy and the transition from trishear to kink-band fault-propagation fold forms above blind basement thrust faults: A discrete-element study, Marine and Petroleum Geology, No:24, P:75 -90.</element-citation>
+		</ref>
+		<ref id="R27">
+			<label>27</label>
+			<element-citation>Hessami, KH, Koyi.H.A., Talbot.C.J., Tabasi.H., Shabanian.E, 2001, Progressive unconformities within an evolving foreland fold-thrust belt, Zagros Mountains, Journal of the Geological Society, Vol: 158, No:6, p: 969-981.</element-citation>
+		</ref>
+		<ref id="R28">
+			<label>28</label>
+			<element-citation>Homke.S., 2007, Timing Of Shortening And Uplift Of The Pusht-e-Kuh Arc In The Zagros Fold-and-Thrust Belt (IRAN), A Combined Magnetostratigraphy And Apatite Thermochronology Analysis, [PhD. Thesis]: Universitat of  Barcelona, 195p.</element-citation>
+		</ref>
+		<ref id="R29">
+			<label>29</label>
+			<element-citation>Hourigan.J.K., Reiners.P.W., Brandon. M.T., 2005, U-Th zonation-dependent alpha-ejection in (U-Th)/He chronometry. Geoch. Cosm. Acta, No:69, P:3349–3365.</element-citation>
+		</ref>
+		<ref id="R30">
+			<label>30</label>
+			<element-citation>Jamison.W.R., 1987, Geometric analysis of fold development in overthrust terranes, J. Struct. Geol., No:9: P:207-219.</element-citation>
+		</ref>
+		<ref id="R31">
+			<label>31</label>
+			<element-citation>Johnson.K.M., Johnson.A.M., 2002. Mechanical models of trishear-like folds. Journal of Structural Geology, No:24, P:277–287.</element-citation>
+		</ref>
+		<ref id="R32">
+			<label>32</label>
+			<element-citation>Khadivi.S., Moutherau.F., Barbarand.J., Addate, Lacombe.T., 2011, Constraints on palaeodrainage evolution induced by uplift and exhumation on the southern flank of the Zagros–Iranian Plateau, ournal of the Geological Society, London, Vol:XX, P:1  –15.</element-citation>
+		</ref>
+		<ref id="R33">
+			<label>33</label>
+			<element-citation>Ketcham.R.A, Donelick.R.A, Carlson. W.D.,1999, Variability of apatite fission-track annealing kinetics: III, Extrapolation to geological time scales, Am Mineral, No:84: P:1235-1255</element-citation>
+		</ref>
+		<ref id="R34">
+			<label>34</label>
+			<element-citation>Lacombe.O., Bellahsen.N., Mouthereau.F, 2011, Fracture patterns in the Zagros Simply Folded Belt (Fars, Iran): constraints on early collisional tectonic history and role of basement faults, Geological Magazine, No:148, P:940-963.</element-citation>
+		</ref>
+		<ref id="R35">
+			<label>35</label>
+			<element-citation>Lacombe.O., Moutherau.F., 2002, Basement-involved shortening and deep detachment tectonics in forelands of orogens: insights from recent collision belts (Taiwan, western Alps, Pyrenees), Tectonics,Vol:21, No:4, P:12-1–12-22.</element-citation>
+		</ref>
+		<ref id="R36">
+			<label>36</label>
+			<element-citation> Mazzoli. S., Corrado.S., Donatis. M. De., Scrocca.D., Butler.R.W.H., Bucci.D.Di, Naso.G., Nicolai.C., Zucconi, V., 2000, Time and space variability of ‘‘thin skinned’’ and ‘‘thick skinned’’ thrust tectonics in the Apennines (Italy), Rend, Accad. Naz. Lincei, Vol:11, No: 1, p: 5–39.</element-citation>
+		</ref>
+		<ref id="R37">
+			<label>37</label>
+			<element-citation>McQuarrie.N., Stock.J.M., Verdel.C., Wernicke.B.P. , 2003, Cenozoic evolution of Neotethys and implications for the causes of plate motions, Geophysical Research Letters, No: 30, P:1-6.</element-citation>
+		</ref>
+		<ref id="R38">
+			<label>38</label>
+			<element-citation>Molinaro.M., Leturmy.P., Guezou.J. C., Frizon de Lamotte.D., Eshraghi.S.A., 2005, The structure and kinematics of the south-eastern Zagros fold thrust belt; Iran: from thin-skinned to thick-skinned tectonics,Tectonics, p:ains, J. Geol, vol:24,. Soc., No;158, P: 969 – 981.</element-citation>
+		</ref>
+		<ref id="R39">
+			<label>39</label>
+			<element-citation>Mouthereau.F., Tensi. J., Bellahsen.N., Lacombe.O., Deboisgrollier.T., Kargar.S., 2007, Tertiary sequence of deformation in a thin-skinned/thick-skinned collision belt: the Zagros Folded Belt (Fars, Iran),Tectonics, J. Struct, Geol, Vol:26., No:28, p:419-466.</element-citation>
+		</ref>
+		<ref id="R40">
+			<label>40</label>
+			<element-citation>Nahle.N., 2007, Cycles of Global Climate Change. Biology Cabinet Journal Online. Article, No: 295.</element-citation>
+		</ref>
+		<ref id="R41">
+			<label>41</label>
+			<element-citation>-Okay.A.I., Zattin.M., Cavazza.W., 2010, Apatite fission-track data for the Miocene Arabai-Eurasia collision.,Geology, vol: 38, p:35-38.</element-citation>
+		</ref>
+		<ref id="R42">
+			<label>42</label>
+			<element-citation>Reiners.P.W., Brandon.M.T., 2006, Using Thermochronology to Understand Orogenic Erosion, Annu. Rev. Earth</element-citation>
+		</ref>
+		<ref id="R43">
+			<label>43</label>
+			<element-citation>Sattarzadeh.Y., Cosgrove.J.W., Vita-Finzi, C., 2000. The interplay of faulting and folding during the evolution of the Zagros. Geological Society, London, Special Publications, No: 169, P:187–196.</element-citation>
+		</ref>
+		<ref id="R44">
+			<label>44</label>
+			<element-citation>Sherkati.S., Molinaro.M., Frizon de amotte.D., Letouzey.J., 2005, Detachment folding in the central and eastern Zagros fold-belt (Iran), Jour. Struct, Geol., No: 27, P:1680 – 1696.</element-citation>
+		</ref>
+		<ref id="R45">
+			<label>45</label>
+			<element-citation>Talebian.M., Jackson.J., 2002, A reappraisal of earthquake focal mechanisms and active shortening in the Zagros mountains of Iran, Geophys. J. Int, No:156, P:506–526.</element-citation>
+		</ref>
+		<ref id="R46">
+			<label>46</label>
+			<element-citation>Tavakoli Sherazi.S., 2012. The Geology of the High Zagros (Iran) Tectonic and Thermal Evolution during the Paleozoic, [PhD. Thesis]: University of Cergy-Pontoise, 234p.</element-citation>
+		</ref>
+		<ref id="R47">
+			<label>47</label>
+			<element-citation>Wolf.R.A., Farley.K.A., Kass.D.M., 1998, Modeling of the temperature sensitivity of the apatite (U-Th)/ He thermochronometer, Chem, Geol, No:148, P: 105–114.</element-citation>
+		</ref>
+		<ref id="R48">
+			<label>48</label>
+			<element-citation>Wrobel Daveau.J.C., 2011, From the Rifting to the Current Collision, Vertical Movements and Propagation of the Deformation in the Zagros Belt, Iran, Unpublished PhD thesis.</element-citation>
+		</ref>
+		<ref id="R49">
+			<label>49</label>
+			<element-citation>Yassaghi.A., 2006, Integration of Land sat imagery interpretation and geomagnetic dada on verification of deep-seated transverse fault lineament in SE Zagros, Iran, International Journal of Remote Sensing, No:27, P:4529-4544.</element-citation>
+		</ref>
+		<ref id="R50">
+			<label>50</label>
+			<element-citation>Ziegler.M.A, 2001, Late Permian to Holocene Paleofacies Evolution of the Arabian Plate and its Hydrocarbon Occurrences. GeoArabia, Vol:6, No:3, P:445-504.</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JAAG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Shahid Chamran University of Ahvaz</journal-id>
+			    	<journal-title-group>
+				      <journal-title>زمین شناسی کاربردی پیشرفته</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2251-7057</issn>
+			      <publisher>
+			        <publisher-name>Shahid Chamran University of Ahvaz</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">13</article-id>
+			      <article-id pub-id-type="doi">10.22055/aag.2017.11096.1125</article-id>		
+			      <ext-link xlink:href="http://aag.scu.ac.ir/article_12645_cf2ed8951ac459f352a881515b2d6ab9.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>آب شناسی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>بررسی منشاء شوری آب رودخانه زهره در پایین دست سد چم‌شیر و قابلیت آن برای مصارف کشاورزی</article-title>
+			        <subtitle>بررسی منشاء شوری آب رودخانه زهره در پایین دست سد چم‌شیر و قابلیت آن برای مصارف کشاورزی</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>محمدی بهزاد</surname>
+			            <given-names>حمید رضا</given-names>
+			          </name>
+					  <aff>دانشگاه شهید چمران اهواز</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>کلانتری</surname>
+			            <given-names>نصراله</given-names>
+			          </name>
+					  <aff>استاد دانشگاه شهید چمران اهواز</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c3">
+			          <name>
+			            <surname>بیگلری</surname>
+			            <given-names>بابک</given-names>
+			          </name>
+					  <aff>سرپرست واحد آب زیرزمینی شرکت مهندسی مشاور بهکار آب اهواز</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c4">
+			          <name>
+			            <surname>ترابی کاوه</surname>
+			            <given-names>مهدی</given-names>
+			          </name>
+					  <aff>دانشگاه بوعلی سینا همدان</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2016</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>3</issue>
+			      <fpage>74</fpage>
+			      <lpage>83</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>02</day>
+			          <month>03</month>
+			          <year>2014</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>27</day>
+			          <month>04</month>
+			          <year>2016</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2016, Shahid Chamran University of Ahvaz. </copyright-statement>	
+			        <copyright-year>2016</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://aag.scu.ac.ir/article_12645.html">http://aag.scu.ac.ir/article_12645.html</self-uri> 		
+			      <abstract>
+			        <p>محدوده مورد مطالعه، بخشی از مخزن سد چم­شیر و قسمت­های پایین دست آن در حوضه آبریز رودخانه زهره می­باشد که در20 کیلومتری جنوب­شرقی شهر گچساران (جنوب­ غرب ایران) واقع گردیده است. به منظور تأمین آب اراضی کشاورزی پایین دست سد، کیفیت آب رودخانه زهره با تشکیل 8 ایستگاه نمونه‌برداری طی دو دوره زمانی قبل و بعد از بارندگی در محدوده مورد مطالعه مورد ارزیابی قرار گرفت. بررسی­های اولیه نشان داد که دو زون آلوده کننده جزئی و اصلی در موقعیت ایستگاه­های نمونه­برداری R4 و R5 وجود دارد که به ترتیب با تغییرات ناگهانی یون­های کلسیم- سولفات و سدیم- کلر همراه می‌باشند. بر اساس نتایج به دست آمده، موقعیت­ زون­های آلودگی یاد شده با موقعیت گسل­های اصلی منطقه انطباق دارد و این گسل­ها با انتقال آب­های شور سولفاته و کلروره از بخش­های مختلف در زیرزمین و اضافه نمودن آنها به سطح اساس رودخانه، نقش مهمی را در آلودگی­های بوجود آمده ایفا می­کنند. شدت آلودگی­ها به اندازه­ای است که استفاده از آب رودخانه را برای مصارف کشاورزی با مشکل مواجه ساخته است. </p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>رودخانه زهره</kwd>
+						<kwd>سد چم‌شیر</kwd>
+						<kwd>زون‌های آلودگی</kwd>
+						<kwd>گسل‌های اصلی</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>بوسلیک، ز.، 1390، بررسی منشأ و خصوصیات چشمه­های گوگردی دالکی شهرستان دشتستان، استان بوشهر. پایان­نامه کارشناسی ارشد، دانشکده علوم زمین، دانشگاه شهید چمران، اهواز.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>ترابی­کاوه، م.، 1389، مطالعه انحلال­پذیری سنگ­های تبخیری سازند گچساران در محل سد چم­شیر. پایان‌نامه کارشناسی ارشد، دانشکده علوم پایه، دانشگاه بوعلی­سینا، همدان.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>روحی، ح.، کلانتری، ن.، محمدی­بهزاد، ح.ر.، و دانشیان، ح.، 1392، بررسی عوامل مؤثر بر خصوصیات شیمیایی آب­زیرزمینی (مطالعه موردی دشت الباجی)، فصلنامه زمین‌شناسی کاربردی پیشرفته، 9-1: (9)‌.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>شرکت مادر تخصصی آزمایشگاه فنی و مکانیک خاک یاسوج، 1387، گزارش مطالعات و تحقیقات مکانیک خاک و ژئوتکنیک سد و نیروگاه چم­شیر گچساران. مهندسین مشاور مهاب قدس، تهران.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>کردوانی، پ.، 1371، منابع و مسائل آب در ایران، جلد دوم، آب­های شور، مسائل و راه­های استفاده از آنها. نشر قومس، تهران.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>کلانتری، ن.، و علیجانی، ف.، 1387، بررسی کیفیت منابع آب­زیرزمینی دشت عباس استان خوزستان. مجله علوم دانشگاه شهید چمران اهواز، 99-84: (2) 19.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>کلانتری، ن.، محمدی­بهزاد، ح.ر.، چرچی، ع. و کشاورزی، م.ر.، 1390، هیدروگراف چشمه های کارستی به عنوان ساده­ترین ابزار برای تعیین خصوصیات هیدروژئولوژیکی آبخوان­های کارستی، مطالعه موردی چشمه بی­بی­تلخون، شمال شرقی استان خوزستان، فصلنامه زمین شناسی کاربردی پیشرفته، 100-90: (2).</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>محمدی بهزاد، ح.ر.، رحمانی، غ.ر.، کلانتری، ن.، چیت­سازان، م. و روحی، ح.، 1389، بررسی فرآیندهای اثر گذار بر کیفیت آب­زیرزمینی دشت گتوند عقیلی. نخستین کنفرانس ملی پژوهش‌های کاربردی منابع آب ایران، کرمانشاه.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>مطیعی، ه.، 1374، زمین­شناسی نفت زاگرس 1و 2. انتشارات سازمان زمین­شناسی کشور، 1009 صفحه.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>Chiesi, M., Waele, J.D. and Forti, P., 2010, Origin and evolution of a salty gypsum/anhydrite karst spring: the case of Poiano (Northern Apennines, Italy). Hydrogeology Journal, doi:10.1007/s1004001005762.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>Cloutier, V., 2004, Origin and geochemical evolution of grondwater in Paleozoic Basses –Laurentides sedimentary rock aquifer system St. Lawrence Lowlands, Quebec, Canada. PhD Thesis, INRS –Eau, Terre &amp; Environment, Quebec, Canada (in French and English).</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>De-Montety, V., Radakovitch, O., Vallet-Coulomb, C., Blavoux, B., Hermitte, D. and Valles, V., 2008, Origin of groundwater salinity and hydrogeochemical processes in a confined coastal aquifer. Applied Geochemistry, 23:2337-2349.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Djabri, L., Rouabhia, A., Hani, A., Lamouroux, C.H. and Pulido-Bosch, A., 2008, Origin of water salinity in a lake and coastal aquifer system. Environmental Geology, 54:565-573.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Glynn, P.D. and Plummer, L.N., 2005, Geochemistry and the understanding of groundwater system. Hydrogeoly Journal, 13:263-287.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Güler, C. and Thyne, G.D., 2004, Hydrologic and geologic factors controlling surface and groundwater chemistry in Indian Wells-Owens Valley area, southeastern California, USA. Journal of Hydrology, 285:177-198.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation>Hofmann, H. and Cartwright, I., 2013, Using hydrogeochemistry to understand inter-aquifer mixing in the on-shore part of the Gippsland Basin, southeast Australia. Applied Geochemistry, 33:84-103.</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Hounslow, A.W., 1995, Water quality data: analysis and interpretation. CRC, Boca Raton, FL, USA. 75 pp.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Howard, F., Ken, W. and Mullings, E., 1996, Hydrochemical analysis of groundwater flow and saline intrusion in the Clarendon basin, Jamaica. Groundwater, 34(6):801-810.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Khodapanah, L., Sulaiman, W.N.A. and Khodapanah, N., 2009, Groundwater Quality Assessment for Different Purposes in Eshtehard District, Tehran, Iran. European Journal of Scientific Research: 36(4):543-553.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Lugli, S., 2009, The geological history of the Triassic gypsum in the Secchia Valley. Memorie dell'Istituto Italiano di Speleologia, 22, Istituto Italiano di Speleologia, Bologna.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Marie, A. and Vengosh, A., 2001, Sources of salinity in groundwater from Jericho area, Jordan Vally. Groundwater, 39(2):240-248.</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Obiefuna., G.I. and Orazulike., D.M., 2011, The hydrochemical characteristics and evolution groundwater in Semiarid Yola area. Research Journal of Environmental and Earth Sciences, 3(4):400-416.</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Pecka, A.J. and Hatton, T., 2003, Salinity and the discharge of salts from catchments in Australia. Journal of Hydrology, 272:191-202.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Richter, B.C. and Kreitler, C.W., 1986, Geochemistry of salt water beneath the Rolling Plains, North-Central Texas. Groundwater, 24:735-742.</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>Setudehnia, A., 1972, Stratigraphic Lexicon of Iran. Union International des Sciences Geologiques, 315 p.</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Srinivasamoorthy, K., Gopinath, M., Chidambaram, S., Vasanthavigar, M., Sarmad, V.S., 2014, Hydrochemical characterization and quality appraisal of groundwater from Pungar sub basin, Tamilnadu, India. Journal of King Saud University-Science, 26 (1):37–52.</element-citation>
+		</ref>
+		<ref id="R27">
+			<label>27</label>
+			<element-citation>Vengosh, A. and Rosenthal, E., 1994, Saline groundwater in Israel: it’s bearing on the water crisis in the country. Journal of Hydrology, 155:103-124.</element-citation>
+		</ref>
+		<ref id="R28">
+			<label>28</label>
+			<element-citation>Xie, X., Fan, Z., Liu, X. and Lu, Y., 2006, Geochemistry of formation water and its implication on over pressured fluid flow in the Dongying Depression of the Bohaiwan Basin. China J. Geochem Explor., 89:432–435.</element-citation>
+		</ref>
+		<ref id="R29">
+			<label>29</label>
+			<element-citation>Yong-Hong, S., Qi, F., Gao-Fang, Z., Jian-Hua, S. and Yan-Wu, Z., 2007, Identification and evolution of groundwater chemistry in the Ejin sub-basin of the Hiehe River. Soil Science Society of China, 17(3):331-342</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>
+<article article-type="مقاله پژوهشی" dtd-version="3.0" xml:lang="en">
+			  <front>
+			    <journal-meta>
+			      <journal-id journal-id-type="pmc">JAAG</journal-id>
+			      <journal-id journal-id-type="publisher-id">Shahid Chamran University of Ahvaz</journal-id>
+			    	<journal-title-group>
+				      <journal-title>زمین شناسی کاربردی پیشرفته</journal-title>
+			    	</journal-title-group>
+			      <issn pub-type="ppub">2251-7057</issn>
+			      <publisher>
+			        <publisher-name>Shahid Chamran University of Ahvaz</publisher-name>
+			      </publisher>
+			    </journal-meta>
+			    <article-meta>
+ 			      <article-id pub-id-type="publisher-id">13</article-id>
+			      <article-id pub-id-type="doi">10.22055/aag.2016.12636</article-id>		
+			      <ext-link xlink:href="http://aag.scu.ac.ir/article_12636_7435b76fef3e4dd06ec14ddd41db5cdd.pdf"/>		
+			      <article-categories>
+			        <subj-group subj-group-type="heading">
+					          		<subject>زمین شناسی اقتصادی</subject>
+			        	</subj-group>
+			      </article-categories>
+			      <title-group>
+			        <article-title>پردازش داده‌های ماهواره‌ای به منظور شناسایی ذخایر بنتونیت نوع سدیک و کلسیک در شرق ایران</article-title>
+			        <subtitle>پردازش داده‌های ماهواره‌ای به منظور شناسایی ذخایر بنتونیت نوع سدیک و کلسیک در شرق ایران</subtitle>
+			      </title-group>
+			      
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c1" corresp="yes">
+			          <name>
+			            <surname>کریم پور</surname>
+			            <given-names>محمد حسن</given-names>
+			          </name>
+					  <aff>گروه پژوهشی اکتشاف ذخایر معدنی شرق ایران، دانشگاه فردوسی مشهد</aff>
+			        </contrib>
+			       </contrib-group>
+			       <contrib-group>
+			       <contrib contrib-type="author" id="c2">
+			          <name>
+			            <surname>ملکزاده شفارودی</surname>
+			            <given-names>آزاده</given-names>
+			          </name>
+					  <aff>گروه پژوهشی اکتشاف ذخایر معدنی شرق ایران، دانشگاه فردوسی مشهد</aff>
+			        </contrib>
+			       </contrib-group>
+			      <pub-date pub-type="ppub">
+			        <day>22</day>
+			        <month>09</month>
+			        <year>2016</year>
+			      </pub-date>
+			      <volume>6</volume>
+			      <issue>3</issue>
+			      <fpage>84</fpage>
+			      <lpage>96</lpage>
+			      <history>
+			        <date date-type="received">
+			          <day>19</day>
+			          <month>10</month>
+			          <year>2015</year>
+			        </date>
+			        <date date-type="accepted">
+			          <day>18</day>
+			          <month>01</month>
+			          <year>2016</year>
+			        </date>
+			      </history>
+			      <permissions>
+			      	<copyright-statement>Copyright &#x000a9; 2016, Shahid Chamran University of Ahvaz. </copyright-statement>	
+			        <copyright-year>2016</copyright-year>
+			      </permissions>
+			       <self-uri xlink:href="http://aag.scu.ac.ir/article_12636.html">http://aag.scu.ac.ir/article_12636.html</self-uri> 		
+			      <abstract>
+			        <p>مجموعه فعالیتهای آتشفشانی ترشیاری شرق ایران میزبان ذخایر متعدد بنتونیت است. کاربردهای صنعتی مختلف بنتونیت به مقدار CaO و Na2O مونت‌موریونیت تشکیل دهنده آن بستگی دارد. در این پژوهش از پردازش تصاویر آستر به روش نقشه برداری زاویه طیفی (SAM) برای تشخیص بنتونیت سدیک از کلسیک در مناطق شناخته شده استفاده شد. معادن بنتونیت ده محمد، چاه کم و چاه کشمیر در استان خراسان جنوبی از نوع غنی از سدیم و بنتونیت خوشاب در استان خراسان رضوی از نوع غنی از کلسیم هستند. پردازش تصویر ماهواره نشان داد که طیف-های مونت‌موریونیت (5) و (8) موجود در کتابخانه طیفی سازمان زمین‌شناسی امریکا (USGS) در نرم افزار ENVI به ترتیب برای تشخیص بنتونیت نوع سدیک و نوع کلسیک مفید است. لذا با استفاده از آن می‌توان بنتونیت سدیک و کلسیک را در بخشهای مختلف شرق ایران شناسایی نمود و اقدامات اکتشافی تفصیلی زمینی را برای آنها برنامه ریزی کرد.</p>
+			      </abstract>
+					<kwd-group kwd-group-type="author">
+						<kwd>آستر</kwd>
+						<kwd>نقشه‌برداری زاویه طیفی</kwd>
+						<kwd>بنتونیت نوع سدیک</kwd>
+						<kwd>بنتونیت نوع کلسیک</kwd>
+						<kwd>شرق ایران</kwd>
+					</kwd-group>
+			    </article-meta>
+			  </front>
+<back>
+	<ref-list>
+		<ref id="R1">
+			<label>1</label>
+			<element-citation>حجازی. م.، قربانی. م.، 1373، زمین­شناسی ایران (کانسارهای بنتونیت و زئولیت)، سازمان زمین­شناسی و اکتشافات معدنی کشور، 108 صفحه.</element-citation>
+		</ref>
+		<ref id="R2">
+			<label>2</label>
+			<element-citation>روشن روان. ج.، 1385، نقشه زمین­شناسی 1:100000 موسویه، سازمان زمین­شناسی و اکتشافات معدنی کشور.</element-citation>
+		</ref>
+		<ref id="R3">
+			<label>3</label>
+			<element-citation>سازمان صنعت، معدن و تجارت استان خراسان رضوی، 1381، آمار معادن استان خراسان.</element-citation>
+		</ref>
+		<ref id="R4">
+			<label>4</label>
+			<element-citation>طاهری. ج.، شمعانیان. ق.، 1380، نقشه زمین­شناسی 1:100000 کاشمر، سازمان زمین­شناسی و اکتشافات معدنی کشور.</element-citation>
+		</ref>
+		<ref id="R5">
+			<label>5</label>
+			<element-citation>کریمی باوندی. ع.، حاجی حسینی. الف.، 1381، نقشه زمین­شناسی 1:100000 طبس، سازمان زمین­شناسی و اکتشافات معدنی کشور.</element-citation>
+		</ref>
+		<ref id="R6">
+			<label>6</label>
+			<element-citation>کریم­پور. م.ح.، 1378، کانی­شناسی  72 نمونه بنتونیت از معادن ده محمد، شیرگشت، چاه کم (1) و چاه کم(2)،  گزارش طرح تحقیقاتی و مطالعاتی اداره کل معادن و فلزات استان خراسان، 102 صفحه.</element-citation>
+		</ref>
+		<ref id="R7">
+			<label>7</label>
+			<element-citation>کریم­پور. م.ح.، 1381، کانی‌ها و سنگ‌های صنعتی، انتشارات دانشگاه فردوسی مشهد، 396 صفحه.</element-citation>
+		</ref>
+		<ref id="R8">
+			<label>8</label>
+			<element-citation>کریم­پور. م.ح.، راشد. ع.الف.، ارتضا. ح.، 1382، ترکیب شیمیایی، کانی­شناسی و کاربرد بنتونیت­های ده محمد، چاه کم-1، چاه کم-2 و شیرگشت (خراسان و یزد)، مجله بلورشناسی و کانی­شناسی ایران، شماره 1 (11)، ص 15-27.</element-citation>
+		</ref>
+		<ref id="R9">
+			<label>9</label>
+			<element-citation>کریم­پور. م.ح.، ملکزاده شفارودی. الف.، فارمر. ل.، استرن. چ.، 1391، پتروژنز گرانیتوئیدها، سن سنجی زیرکن به روشU-Pb ، ژئوشیمی ایزوتوپ­های  Sr- Nd و رخداد مهم کانی­سازی ترشیاری در بلوک لوت، شرق ایران، مجله زمین­شناسی اقتصادی، شماره 1 (4)، ص 1-27.</element-citation>
+		</ref>
+		<ref id="R10">
+			<label>10</label>
+			<element-citation>نجفیان. ط.، فتحیان پور. ن.، رنجبر. ح.ا.، بخش­پور. ر.، 1391، شناسایی پدیده­های طیفی ناشناخته از داده­های تلفیقی تصاویر ماهواره­ای ALI+ASTER و ابرطیفی Hyperion برمبنای روش ضریب همبستگی: مطالعه موردی محدوده معدنی مس سرچشمه، مجله زمین­شناسی کاربردی پیشرفته، شماره 5، ص 59-68.</element-citation>
+		</ref>
+		<ref id="R11">
+			<label>11</label>
+			<element-citation>نخعی. م.، 1381، ژئوشیمی و کانی­شناسی بنتونیت­های خراسان و مطالعه مصرف آنها در صنعت ریخته گری (در مناطق فردوس، بیرجند، قائنات و طبس)، پایان نامه کارشناسی ارشد زمین­شناسی اقتصادی دانشگاه فردوسی مشهد، 145 صفحه.</element-citation>
+		</ref>
+		<ref id="R12">
+			<label>12</label>
+			<element-citation>نماینده. ع.ر.، مدبری. س.، رنجبران. م.، 1391، بررسی کانی­شناسی و زمین­شیمی معدن بنتونیت چاه گلستان سرایان، خراسان جنوبی، مجله زمین­شناسی کاربردی پیشرفته، شماره 5، ص 69-79.</element-citation>
+		</ref>
+		<ref id="R13">
+			<label>13</label>
+			<element-citation>Abdi. M., Karimpour. M.H., 2013, Application of Spectral Angle Mapper classification to discriminate hydrothermal alteration in SW Birjand, Iran, using ASTER image processing, Acta Geologica Sinica, Vol. 86, No. 5, p. 1289-1296.</element-citation>
+		</ref>
+		<ref id="R14">
+			<label>14</label>
+			<element-citation>Abichou. T., Benson. C., Edile. t., 2000, Foundry green sands as hydraulic barriers, Journal of Geotechnical and Geoenvironmental Engineering, Vol. 126, p. 1174-1183.</element-citation>
+		</ref>
+		<ref id="R15">
+			<label>15</label>
+			<element-citation>Brown. et al., 2013, World Mineral Production 2007-11, British Geological Survey, Nottingham, England.</element-citation>
+		</ref>
+		<ref id="R16">
+			<label>16</label>
+			<element-citation> http://www.bgs.ac.uk/mineralsuk/statistics/worldArchive.html</element-citation>
+		</ref>
+		<ref id="R17">
+			<label>17</label>
+			<element-citation>Clark. R.N., Swayze. G.A., Gallagher. A., King. T.V.V., Calvin. W.N., 1993, The U.S. Geological Survey, Digital Spectral Library, Version 1:0.2 to 3 μm, United States Geological Survey, Open File Report 93-592. 1326 pp.</element-citation>
+		</ref>
+		<ref id="R18">
+			<label>18</label>
+			<element-citation>Fujisada. H., Iwasaki. A., Hara. S., 2001, ASTER stereo system performance. Proceedings of SPIE, the International Society for Optical Engineering, 4540, Toulouse, p. 39-49.</element-citation>
+		</ref>
+		<ref id="R19">
+			<label>19</label>
+			<element-citation>Gupta. R.P., 1991, Remote sensing geology, Springer- Verlag, Heidelberg.</element-citation>
+		</ref>
+		<ref id="R20">
+			<label>20</label>
+			<element-citation>Guyonnet. D., Gaucher. E., Gaboriau. H., Pons. C., Clinard. C., Norotte. V., Didier. G., 2005, Geosynthetic Clay Liner Interaction with Leachate, Correlation between Permeability, Microstructure, and Surface Chemistry, Journal of Geotechnical and Geoenvironmental Engineering, Vol. 131, No. 6, p. 740-751.</element-citation>
+		</ref>
+		<ref id="R21">
+			<label>21</label>
+			<element-citation>Karnland. O., Olsson. S. Nilsson. U., 2006, Mineralogy and sealing properties of various bentonites and smectite-rich clay materials, SKB Technical Report TR-06-30, Stockholm, Sweden.</element-citation>
+		</ref>
+		<ref id="R22">
+			<label>22</label>
+			<element-citation>Komadel. J., Buidak. J., Madejova. V., Elsass. F., 1996, Effects of non-swelling layers on the dissolution of reduced-charged montmrillonite in hydrochloric acid, Clay Minerals, Vol. 31, p. 333-345.</element-citation>
+		</ref>
+		<ref id="R23">
+			<label>23</label>
+			<element-citation>Kruse. F.A., Lefkoff. A.B., Boardman. J.B., Heidebreicht. H.K.B., Shapiro. A.T., Barloon. P.J., Goetz. A.F.H., 1993, The Spectral Image Processing System (SIPS)-interactive visualization and analysis of imaging spectrometer data, Remote Sensing of Environment, Vol. 44, p. 145-163.</element-citation>
+		</ref>
+		<ref id="R24">
+			<label>24</label>
+			<element-citation>Malekzadeh Shafaroudi. A., Karimpour. M.H., 2013, Hydrothermal alteration mapping in northern Khur, Iran, using ASTER image processing: a new insight to the type of copper mineralization in the area, Acta Geologica Sinica, Vol. 87, No. 3, p. 830–842.</element-citation>
+		</ref>
+		<ref id="R25">
+			<label>25</label>
+			<element-citation>Murry. M., Haydn. H., 2000, Tradition and new applications for kaolin, smectite, and palygorskite, Applied Clay Science, Vol. 17, p. 207-221.</element-citation>
+		</ref>
+		<ref id="R26">
+			<label>26</label>
+			<element-citation>Noble. A.D., Ruaysoongnern. S., Penning de Vries. F.W.T., Hartmann. C., Webb. M.J., 2004, Enhancing the agronomic productivity of degraded soils in North-east Thailand through clay-based interventions. In Seng. V., Craswell. E., Fukai. S., Fischer. K., eds., Water and Agriculture, Proceedings No. 116, ACIAR, Canberra, pp. 147–160.</element-citation>
+		</ref>
+		<ref id="R27">
+			<label>27</label>
+			<element-citation>Noble. A.D., Gillman. G.P., Nath. S., Srivastava. R.J., 2001, Changes in the surface charge characteristics of degraded soils in the wet tropics through the addition of beneficiated bentonite, Australian Journal of Soil Research. Vol. 39, No. 5, p. 991-998.</element-citation>
+		</ref>
+		<ref id="R28">
+			<label>28</label>
+			<element-citation>Ninomiya. Y., 2004, Lithologic mapping with multispectral ASTER TIR and SWIR data, Proceedings of SPIE, the International Society for Optical Engineering, 5234, p. 180-190.</element-citation>
+		</ref>
+		<ref id="R29">
+			<label>29</label>
+			<element-citation>Pusch. R., Madsen. F., 1995, Aspects on the illitization of the kinnekulle bentonite, Clay and  Clay Minerals, Vol. 43, p. 261-270.</element-citation>
+		</ref>
+		<ref id="R30">
+			<label>30</label>
+			<element-citation>Rhodes. C.N., Brown. D.R., 1993, Surface properties and porosities of silica and acid-treated montmorillonite catalyst support: influence on activities of supported ZnCl2 catalysts, Journal of Chemical Society, Faraday Transaction, Vol. 89, p. 1387-1391.</element-citation>
+		</ref>
+		<ref id="R31">
+			<label>31</label>
+			<element-citation>Rowan. L.C., Mars. J.C., Simpson. C.J., 2005, Lithologic mapping of the Mordor, NT, Australia ultramafic complex by using the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER), Remote Sensing of Environment, Vol. 99, p. 105-126.</element-citation>
+		</ref>
+		<ref id="R32">
+			<label>32</label>
+			<element-citation>Rowan. L.C., Schmidt. R.G., Mars. J.C., 2006, Distribution of hydrothermally altered rocks in the Reko Diq, Pakistan mineralized area based on spectral analysis of ASTER data, Remote Sensing of Environment, Vol. 104, p. 74-87.</element-citation>
+		</ref>
+		<ref id="R33">
+			<label>33</label>
+			<element-citation>Ruttner. A., Nabavi. M.H., Hajian. J., Alavi Naini. M., 1994, Eshghabad Geological Quadrangle Map 1:100000, No. 7458, Geological Survey of Iran, Tehran.</element-citation>
+		</ref>
+		<ref id="R34">
+			<label>34</label>
+			<element-citation>Sabins. F.F., 1999, Remote sensing for mineral exploration, Ore Geology Reviews, Vol. 14, p. 157-183.</element-citation>
+		</ref>
+		<ref id="R35">
+			<label>35</label>
+			<element-citation>Suzuki. S., Noble. A., Ruaysoongnern. S., Chinabut. N., 2007, Improvement in Water-Holding Capacity and Structural Stability of a Sandy Soil in Northeast Thailand, Arid Land Research and Management, Vol. 21, p. 37-50.</element-citation>
+		</ref>
+		<ref id="R36">
+			<label>36</label>
+			<element-citation>Takagi. T., Koh. S.M., Song. M.S., Itoh. M., Mog. K., 2005, Geology and properties of the Kawasaki and Dobuyama bentonite deposits of Zao region in northeastern Japan, Clay Minerals, Vol. 40, p. 333-350.</element-citation>
+		</ref>
+		<ref id="R37">
+			<label>37</label>
+			<element-citation>Tommaso. I.D., Rubinstein. N., 2007, Hydrothermal alteration mapping using ASTER data in the Infiernillo porphyry deposit, Argentina, Ore Geology Reviews, Vol. 32, p.  275- 290.</element-citation>
+		</ref>
+	</ref-list>
+		</back>
+</article>

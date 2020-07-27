@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه شهید چمران اهواز</PublisherName>
+				<JournalTitle>زمین شناسی کاربردی پیشرفته</JournalTitle>
+				<Issn>2251-7057</Issn>
+				<Volume>9</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2019</Year>
+					<Month>09</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Estimation of SPT Results Using Probabilistic Method and Artificial Neural Network in clay layers (Case study: Tabriz Clayey layers)</ArticleTitle>
+<VernacularTitle>تخمین نتایج آزمایشSPT بااستفاده از روشهای احتمالاتی و شبکه عصبی در لایه های رسی( مطالعه موردی: لایه های رسی تبریز)</VernacularTitle>
+			<FirstPage>62</FirstPage>
+			<LastPage>74</LastPage>
+			<ELocationID EIdType="pii">14872</ELocationID>
+			
+<ELocationID EIdType="doi">10.22055/aag.2019.26391.1871</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>علیرضا</FirstName>
+					<LastName>علیزاده مجدی</LastName>
+<Affiliation>گروه مهندسی عمران، واحد تبریز، دانشگاه آزاد اسلامی، تبریز، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>روزبه</FirstName>
+					<LastName>دبیری</LastName>
+<Affiliation>گروه مهندسی عمران، واحد تبریز، دانشگاه آزاد اسلامی، تبریز، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2018</Year>
+					<Month>06</Month>
+					<Day>29</Day>
+				</PubDate>
+			</History>
+		<Abstract>In this study, the estimation of the results of the standard penetration test with probabilistic methods and artificial neural network using the physical and plasticity properties of clay layers with case study of clayey soils of Tabriz city have been performed. In this research, two machine boreholes were drilled at depths of up to 8 meters and standard penetration tests and other tests were carried out to determine all of the plasticity and physical properties on the prepared specimens.&lt;br /&gt; By using the results of experiments as well as available data, a database of 112 series of clay layer properties were prepared. The probabilistic ranges for each of the research variables including activity, moisture content, consistency index, passage percentage sieve 200 and plasticity index were proposed for estimating the corrected standard penetration by using the three sigma probabilistic analyses. The best correlation with the standard penetration based on the consistency index with the correlation slope is 1.015. Also, the artificial neural networks were studied in different states and with the different number of hidden neurons with all physical and plasticity properties including 11 input variables. The best results of the artificial neural network related to the hidden double layer with 10 and 5 hidden neurons that the determination coefficient and the root mean square error were equal to 0.805 and 0.063 at the test stage, respectively. The results of the neural network method have been statistically compared and more appropriate than the probabilistic method.</Abstract>
+			<OtherAbstract Language="FA">در این مطالعه تخمین نتایج آزمایش نفوذ استاندارد به روشهای احتمالاتی و نیز شبکه عصبی مصنوعی با استفاده از خصوصیات خمیری و فیزیکی لایه های رسی و با مطالعه موردی خاکهای رسی شهر تبریز انجام شده است. در این تحقیق دو گمانه ماشینی تحقیقاتی به عمق تا 8 متری حفاری شده و آزمون های آزمایشگاهی و صحرایی نفوذ استاندارد بر روی نمونه های تهیه شده انجام گرفت. با استفاده از نتایج آزمایشات و داده‌های موجود، بانک اطلاعاتی مشتمل بر 112 سری از خصوصیات لایه های رسی تهیه گردید. به کمک روش تحلیل احتمالاتی سه سیگما محدوده های احتمالاتی برای هرکدام از متغیرهای تحقیق شامل فعالیت، درصد رطوبت، شاخص استحکام، درصد عبوری الک 200 و دامنه خمیری به منظور تخمین نفوذ استاندارد تصحیح شده پیشنهاد گردید. بهترین رابطه مربوط به نفوذ استاندارد براساس شاخص استحکام با شیب همبستگی 015/1می باشد. همچنین مناسب ترین نتیجه شبکه عصبی مصنوعی مربوط به دولایه پنهان با تعداد 10و 5 نرون مخفی به ترتیب با ضریب تبیین و خطای ریشه میانگین مربعات برابر 805/0 و063/0 در مرحله تست ارزیابی گردید. نتایج روش شبکه عصبی نسبت به روش احتمالاتی به صورت آماری مقایسه گردیده و مناسبتر بوده است.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">نفوذ استاندارد</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">لایه های رسی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تبریز</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">روش سه سیگما</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبکه عصبی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://aag.scu.ac.ir/article_14872_3f169dd399b4471ac2b3d333fd1460a8.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

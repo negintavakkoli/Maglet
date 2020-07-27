@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-26T06:23:16Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22055">http://aag.scu.ac.ir/?_action=export&amp;rf=summon&amp;issue=1990</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-05-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1399</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی شکل‌های مختلف گوگرد در خاک اطراف پالایشگاه گاز و ارتباط آن با سایر ویژگی‌های خاک، مثالی از شمال شرق ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مریم</given_name>
+												<surname>تاج بخشیان</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد حسین</given_name>
+												<surname>محمودی قرائی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>اسداله</given_name>
+												<surname>محبوبی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>سید رضا</given_name>
+												<surname>موسوی حرمی</surname>
+											</person_name></contributors>
+									<abstract>برای بررسی کیفیت خاک در منطقه پالایشگاه گاز شهید هاشمینژاد از نظر سطح آلودگی به گوگرد تولیدی در این واحد صنعتی، 22 نمونه خاک از مناطق مجاور پالایشگاه و داخل آن برداشت شد. مقدار سولفات خاک در سه شکل قابل‌حل در آب، جذب شده و متصل به کربنات‌ها بهترتیب توسط آب دیونیزه، محلول M 032/0 NaH2PO4 و M 1 HCl استخراج شد. غلظت سولفات مجموع به روش هضم کامل خاک توسط مخلوطی از HF، HCl و HNO3 تعیین شد. مقدار ماده آلی و غلظت آنیون‌های کربنات و بیکربنات موجود در نمونه‌های خاک به روش تیتر کردن تعیین شد. در تمام نمونه‌های خاک برداشت شده، به ترتیب سولفات آلی، متصل به کربنات‌ها، قابل‌حل در آب و در نهایت جذب شده بیشترین غلظت را داشتند، که درمورد نمونه‌های خاک داخل پالایشگاه نه تنها این امر مشخص بود، بلکه از نظر تمامی این اشکال سولفات، غلظت بیشتری را نسبت به سایر نمونه‌ها نیز نشان دادند. شکل سولفات قابل‌حل در آب رابطه معکوسی با pH خاک داشت که نشان داد وجود سولفات توانسته تا حدودی موجب اکسیداسیون گوگرد و ترکیبات آن و غلبه محیط اسیدی در خاک شود.</abstract>
+									<keywords>
+									
+											<keyword>پالایشگاه گاز شهید هاشمی نژاد</keyword>
+											<keyword>هضم کامل</keyword>
+											<keyword>ماده آلی</keyword>
+											<keyword>سولفات جذب شده</keyword>
+											<keyword>ژیپس و انیدریت</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>05</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>14</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15068_060baab5dbbdd384072002e7dae0e4d8.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-05-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1399</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی تأثیر چرخه‌های انجماد-ذوب بر روی سرعت امواج فشاری و چگالی سنگ شیست (مطالعه موردی: معدن انگوران)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید زانیار</given_name>
+												<surname>سید موسوی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسین</given_name>
+												<surname>توکلی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>پرویز</given_name>
+												<surname>معارف وند</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمد</given_name>
+												<surname>رضائی</surname>
+											</person_name></contributors>
+									<abstract>در این تحقیق تأثیر چرخه‌های مختلف انجماد-ذوب بر سرعت امواج فشاری و چگالی سنگ شیست بررسی شده است. بدین منظور، ابتدا 13 عدد گمانه در معدن انگوران حفاری و تعداد 25 نمونه استوانه‌ای آماده سازی گردید. سپس، نمونه‌ها در آزمایشگاه با استفاده از فرآیند انجماد-ذوب هوازده و پارامترهای سرعت امواج فشاری و چگالی خشک نمونه‌ها در چرخه‌های 0، 7، 15، 40 و 75 اندازه‌گیری گردید. تحلیل نتایج نشان‌دهنده کاهش نمایی سرعت امواج فشاری (50% کاهش) و چگالی خشک (20% کاهش) به‌ازای افزایش تعداد چرخه‌های انجماد-ذوب می‌باشد. همچنین، سرعت امواج فشاری با افزایش چگالی خشک به‌صورت نمایی افزایش می‌یابد. با برازش نتایج حاصله، دو رابطه تجربی مجزا جهت محاسبه سرعت موج فشاری و چگالی خشک در سنگ شیست به‌ازای چرخه‌های مختلف انجماد-ذوب و یک رابطه هم بین سرعت موج فشاری و چگالی خشک ارائه شده است. بعلاوه، بافت نمونه‌ها هم در حالت بکر و هم پس از اعمال 75 چرخه انجماد-ذوب به‌وسیله میکروسکوپ الکترونیکی مورد مطالعه قرار گرفته است. نتایج حاصله نشان دهنده متراکم بودن بافت نمونه‌ها قبل از هوازدگی و افزایش فاصله بین ناپیوستگی‌ها بعد از هوازدگی می باشد. در نهایت، نتایج اعتبارسنجی نشان داد که همخوانی خوبی بین خروجی حاصل از تحقیق حاضر و مطالعات قبلی وجود دارد.</abstract>
+									<keywords>
+									
+											<keyword>معدن انگوران</keyword>
+											<keyword>شیست</keyword>
+											<keyword>چرخه انجماد-ذوب</keyword>
+											<keyword>سرعت موج فشاری</keyword>
+											<keyword>چگالی خشک</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>05</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>15</first_page>
+										<last_page>30</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15069_427033883fcca86242ee72cf2aecc17c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-05-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1399</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی تناسب کاربری زمین در جایگاه دفن پسماند شهر زنجان با بهره‌گیری از دادهای هیدروژئولوژیکی و پیمایش‌های ژئوالکتریکی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مسعود</given_name>
+												<surname>ساعت ساز</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محبوبه</given_name>
+												<surname>سبزی اتیوند</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>عبدالرضا</given_name>
+												<surname>قدس</surname>
+											</person_name></contributors>
+									<abstract>در این پژوهش، مطالعات هواشناسی، زمین‌شناسی، آب‌شناسی و ژئوفیزیکی برای ارزیابی زیست‌محیطی جایگاه دفن پسماند واقع در 13 کیلومتری جنوب‌باختر زنجان انجام پذیرفته ‌است. رسیدن به هدف، دربرگیرنده توسعه یک مدل در سامانه اطلاعات جغرافیایی، بررسی‌های مقاومت‌سنجی ژئوالکتریک و اندازه‌گیری نرخ نفوذ با بهره‌گیری نفوذسنج حلقه مضاعف در جایگاه دفن پسماند است. ارزیابی آسیب‌پذیری آبخوان نسبت به آلودگی نشان داد که جایگاه در گستره میانه آسیب‌پذیری جای دارد. آزمون‌های نفوذ‌پذیری حلقه‌ مضاعف تاکید می‌نمایند که جایگاه دفن یک جایگاه قابل‌قبول است که به‌نسبت، نرخ کم نفوذپدیری را نشان می‌دهد . در این پژوهش، با بهره‌گیری از 10 سونداژ الکتریکی قائم با آرایه شلومبرژه نشان داده شد که اندازه مقاومت‌الکتریکی نهشته‌ها در جایگاه از 20 تا 35 اهم‌متر برای انباشت پسماندهای تازه یا مرطوب و از 120 تا200 اهم‌متر برای انباشت‌های خشک و قدیمی نوسان دارد. زیانه آلودگی شیرابه پهنایی کم-وبیش برابر یک کیلومتر داشته و تا عمقی در حدود 55 متری گسترش یافته است. شکل زبانه نشان می‌دهد که مهاجرت شیرابه سمت‌ شمال‌شرق است. با نگرش به عمق سطح ایستابی برآوردشده در بیش‌از 86 متری و سرعت نفوذ محاسبه‌شده برابر 95/1 میلی‌متر در ساعت، چنین می‌توان نتیجه‌گیری کرد که حداقل تا سال 1404 زبانه آلودگی به سطح آب‌زیرزمینی نخواهد رسید.</abstract>
+									<keywords>
+									
+											<keyword>آبخوان</keyword>
+											<keyword>آزمون نفوذپذیری حلقه مضاعف</keyword>
+											<keyword>پیمایش های ژئوفیزیکی</keyword>
+											<keyword>آسیب پذیری آب زیرزمینی</keyword>
+											<keyword>جایگاه دفن پسماند</keyword>
+											<keyword>زنجان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>05</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>31</first_page>
+										<last_page>46</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15075_17292665c706e1a9b959a3c8bcb44a78.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-05-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1399</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی پدیده گرمایش جهانی در استان خوزستان طی دوره 2016-1988 با استفاده از آزمونهای ناپارامتریک</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>کورش</given_name>
+												<surname>بهادری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>زهرابیگم</given_name>
+												<surname>حجازی زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>سلیقه</surname>
+											</person_name></contributors>
+									<abstract>افزایش غلظت میزان گازهای گلخانه­ای منجر به تشدید پدیده­ای بنام گرمایش جهانی گردیده است، پدیده­ای که باعث شده تا میانگین دمای سالانه سطح کره زمین طی قرن گذشته 0.74 درجه سانتی­گراد افزایش یابد. گرمایش جهانی پدیده­ای است که اثرات ناخوشایند فراوانی بر زندگی انسان‌ها و جانوران می‌گذارد. رخداد و شدت یافتن پدیده­هایی نظیر خشکسالی­، کاهش بارندگی­، افزایش رخداد روزهای گرد وخاک و سیلاب­ نیز ناشی از پدیده تغییر اقلیم و نهایتاً گرمایش جهانی در دنیا بوده است.&lt;br /&gt; در این تحقیق جهت بررسی پدیده گرمایش جهانی در استان خوزستان با استفاده از روش‌های معمول سری‌های زمانی (میانگین‌های متحرک، معادله خط روند-ضریب خط روند) و آزمون ناپارامتریک من کندال، تغییرات درجه حرارت میانگین سالانه هوا طی دوره 2016-1988 در 8 ایستگاه سینوپتیک هواشناسی (آبادان- اهواز- امیدیه- بستان- دزفول رامهرمز- ماهشهر- مسجد سلیمان) مورد بررسی قرار گرفته است. نتایج حاصله حاکی از افزایش قابل ملاحظه دمای میانگین هوا در تمام ایستگاه­های استان بوده، به­نحوی که ایستگاه­های منتخب طی دوره مطالعاتی (به جزایستگاه مسجدسلیمان روند افزایشی در سطح 5 درصد) روند افزایشی معنی­­داری در سطح 1 درصد نشان می­دهند. همچنین ایستگاه­های بستان و رامهرمز به ترتیب با 0.107 و 0.097 درجه سانتیگراد در هر سال، بیشترین ضریب افزایش درجه حرارت سالانه را دارا بوده­اند.</abstract>
+									<keywords>
+									
+											<keyword>گرمایش جهانی</keyword>
+											<keyword>سری‌های زمانی</keyword>
+											<keyword>میانگین متحرک</keyword>
+											<keyword>معادله خط روند</keyword>
+											<keyword>ناپارامتریک</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>05</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>47</first_page>
+										<last_page>59</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15487_5210e25e486b81434ba8c411b9eaf97e.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-05-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1399</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>زمین‌شناسی و زمین‌شیمی کانه زایی مس، در اندیس‌های ده ‌معدن و دره‌یاس، استان چهارمحال و بختیاری، در اندیس‌های ده ‌معدن و دره‌یاس، استان چهارمحال و بختیاری</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علیرضا</given_name>
+												<surname>زراسوندی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>هوشنگ</given_name>
+												<surname>پورکاسب</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>عبدخلیل</given_name>
+												<surname>فاطمی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>زهرا</given_name>
+												<surname>فریدونی</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>محمود</given_name>
+												<surname>قاسمی</surname>
+											</person_name></contributors>
+									<abstract>منطقه مشایخ در استان چهارمحال و بختیاری و از لحاظ ساختاری، در کمربند زاگرس مرتفع واقع شده است. این منطقه از دو کانسار ده‌معدن و دره‌یاس با فاصله‌ی حدوداً 2 کیلومتری، تشکیل شده است. حداکثر کانه‌زایی در ارتباط با واحدهای کربناته‌ی حاوی مواد آلی در کانسار ده‌معدن می‌باشد. حضور گنبد نمکی دو‌آب و گسل‌معکوس آب‌ونک در اطراف منطقه‌ی مورد‌مطالعه باعث تغییر در میزان شوری، Eh، Ph و تحرک سیال کانه‌دار شده است. نتایج زمین‌شیمی، بیانگر وجود ناهنجاری منفی Eu و Ce، غنی‌شدگی عناصر نادر‌خاکی سنگین (HREE‌) نسبت به عناصر نادر‌خاکی سبک (LREE‌) برای کانسار ده‌معدن می‌باشد که بسیار مشابه با کانسارهای مس‌رسوبی کمربند مس آفریقای مرکزی است. کانسار دره‌یاس هم، ناهنجاری منفی Ceو تهی‌شدگی HREE نسبت به LREE را نشان می‌دهد. به طور کلی، نتایج بیانگر این است که سیالی شور با شرایط اکسیدان، فلزات را از واحدهای قدیمی‌تر شسته و به حوضه‌ی رسوبی وارد کرده است. سپس، در اثر برخورد سیالات کانه‌دار با یک واحد کربناته‌ی حاوی مواد آلی، مواد‌معدنی در یک شرایط احیایی ته‌نشین شده اند. در نهایت، ماده معدنی، تحت تاثیر فرآیندهای برون‌زاد و هوازدگی قرار گرفته است.</abstract>
+									<keywords>
+									
+											<keyword>مس رسوبی</keyword>
+											<keyword>ده‌معدن</keyword>
+											<keyword>دره‌یاس</keyword>
+											<keyword>منطقه مشایخ</keyword>
+											<keyword>چهارمحال و بختیاری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>05</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>60</first_page>
+										<last_page>77</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15335_0a945e50801855aa496da34f97506027.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-05-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1399</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مطالعه عوامل مؤثر در تشکیل فرو چاله‌ها در جنوب شهر پل دختر، جنوب غرب ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد حسین</given_name>
+												<surname>قبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>عبدالرضا</given_name>
+												<surname>نوریزدان</surname>
+											</person_name></contributors>
+									<abstract>فرو چاله‌ها در دشت‌های پوشیده از رسوبات کواترنر با سنگ‌بستر انحلال‌پذیر، فراوانی بیش‌تری دارند. بیش‌تر دشت‌ها در منطقه زاگرس چین‌خورده در ایران کارستی هستند. این پژوهش در گستره‌ای به مساحت 155 کیلومترمربع باهدف ارزیابی عوامل مؤثر در فرو چاله زایی در محل قدیمی دریاچه‌های جایدر گوری بلمک در جنوب شهر پل‌دختر، جنوب غرب ایران انجام‌شده است. این دریاچه‌ها در اثر وقوع بهمن سنگی سیمره در جنوب غرب ایران تشکیل‌شده بودند. در این منطقه رسوبات دریاچه‌ای ناشی از ایجاد سدهای زمین‌لغزشی گسترش دارند. بر اساس نتایج حاصل از انجام مطالعات ژئوفیزیکی در منطقه به روش‌های GPR با آنتن 10 مگاهرتز و توموگرافی مقاومت ویژه الکتریکی (ERT)، ضخامت رسوبات دریاچه‌ای قدیمی جایدر در محل دشت جایدر به‌طور متوسط 70 متر و در محل دریاچه قدیمی گوری بلمک کمتر از 10 مترمی باشد. سنگ‌بستر رسوبات هر دو دریاچه سازند تبخیری گچساران است. سازند مذکور ازنظر سنی به سنوزوئیک تعلق دارد. مقاومت فشاری تک‌محوری و کششی بخش ژیپس سنگ بستر به ترتیب 39/16 و 5/1 مگا پاسکال است. حداقل 4 دسته درزه در توده سنگ‌بستر گسترش دارد. منشأ مواد پرکننده درزه‌ها، ناشی از فرسایش واحدهای مارنی سازند گچساران و رسوبات دریاچه‌ای می‌باشند. ..</abstract>
+									<keywords>
+									
+											<keyword>فروچاله</keyword>
+											<keyword>سازند گچساران</keyword>
+											<keyword>انحلال‌پذیری ژیپس</keyword>
+											<keyword>واگرایی مواد پرکننده درزه‌ها</keyword>
+											<keyword>بهمن سنگی سیمره</keyword>
+											<keyword>پل‌دختر</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>05</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>78</first_page>
+										<last_page>95</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15072_bba0a26a5f0966543c72edbaa7d414ab.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-05-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1399</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تخمین پارامترهای مخزنی با استفاده از داده های چاه پیمایی و بهره گیری از ترکیب شبکه عصبی مصنوعی و الگوریتم بهینه سازی ازدحام ذرات</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>ایمان</given_name>
+												<surname>زحمت کش</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ابوذر</given_name>
+												<surname>محسنی پور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>امین</given_name>
+												<surname>امرائی</surname>
+											</person_name></contributors>
+									<abstract>پارامترهای ژئومکانیکی و پتروفیزیکی مخزن همانند سرعت موج برشی، تخلخل و تراوایی از جمله پارامترهای مهمی هستند که در شبیه‌سازی مخازن هیدروکربوری و استراتژی‌های اکتشافی نقش موثری ایفا می کنند. اخیراً روش‌های هوش مصنوعی به‌منظور پیش‌بینی این پارامترها با استفاده از داده‌های چاه پیمایی به‌کاربرده شده‌اند. بااین‌حال پیش‌بینی ویژگی‌های مخازن ناهمگن همواره با دشوارهای بسیاری همراه است و به‌سختی پاسخ مناسبی به‌دست‌آمده است. در این مطالعه تلاش شده است تا پارامترهای مخزنی سرعت موج برشی، تخلخل و تراوایی با استفاده از روش نوین ترکیب شبکه عصبی مصنوعی و الگوریتم بهینه سازی ازدحام ذرات (PSO-ANN)، در مخزن هتروژن آسماری میدان منصوری تخمین زده شود. سپس عملکرد این مدل ترکیبی با روش های کلاسیک و مرسوم شبکه عصبی مصنوعی (ANN) و سیستم تطبیقی استنتاج نروفازی (ANFIS) و همچنین روش ترکیب شبکه عصبی مصنوعی و الگوریتم ژنتیک (GA-ANN) مورد مقایسه قرار گرفته است. نتایج نشان دهنده عملکرد بسیار مناسب روش ترکیبی شبکه عصبی مصنوعی و الگوریتم بهینه سازی ازدحام ذرات در تخمین پارامترهای مخزنی است. بنابراین می توان از مدل ترکیبی شبکه عصبی مصنوعی و الگوریتم بهینه سازی ازدحام ذرات به عنوان یک روش قدرتمند در تخمین سایر پارامترهای مخزنی به خصوص در مواقعی که دقت بالای پیش بینی لازم باشد استفاده نمود.</abstract>
+									<keywords>
+									
+											<keyword>الگوریتم ازدحام ذرات</keyword>
+											<keyword>مدل الگوریتم ازدحام ذرات-شبکه عصبی (PSO-ANN)</keyword>
+											<keyword>پارامترهای مخزنی</keyword>
+											<keyword>تراوایی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>05</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>96</first_page>
+										<last_page>109</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15338_bf8b9a8dffddefe9fa82eeb3cc4d1ed7.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-05-21</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1399</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>1</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>آشکارسازی سدهای باطله معدنی با استفاده از تصاویر چندطیفی سنجنده استر، مطالعه موردی: معدن سرب-روی انگوران، جنوب غرب زنجان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>نازی</given_name>
+												<surname>مظهری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مرجان</given_name>
+												<surname>کریمی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>پروین</given_name>
+												<surname>بیات</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمدصالح</given_name>
+												<surname>برومند</surname>
+											</person_name></contributors>
+									<abstract>یکی ازاهداف سنجش از دور زمین شناختی، تلاش برای بهبود روش های نقشه برداری انواع سنگ ها و کانی هاست. شناسایی آلودگی‌های زیست محیطی ایجاد شده در اثر فعالیت‌های نامحدود معدنی با استفاده از این داده‌ها از لحاظ اقتصادی و زمانی مقرون به-صرفه بوده ‌است. بارزسازی هر چه سریعتر این آلودگی‌ها در زمینه حل مشکلات زیست محیطی گام مهمی برداشته خواهد شد. بدون شک استفاده از این فناوری در مطالعات اکتشافی ، منابع طبیعی و زیست محیطی نه تنها سرعت انجام مطالعات را بیشتر می‌کند، بلکه از نظر دقت، هزینه و نیروی انسانی نیز بسیار با صرفه‌تر است. هدف از این تحقیق، بارزسازی باطله‌های معدنی سرب-روی انگوران با استفاده از داده‌های استر می‌باشد. بررسی رفتار سنگ‌ها و کانی‌های و استفاده از روش‌های ترکیب رنگی کاذب (R:1,G:6,B:3)، تحلیل مولفه‌های اصلی و نسبت‌گیری باندی به صورت ترکیب رنگی کاذب (R3/2,G5/3,B8/4) موجب نقشه برداری باطله‌های معدن گردید. استفاده از سه PC اول و بررسی مقدار ویژه بردار نشان می‌دهد که مولفه‌های پنجم و نهم با مقادیر ویژه بردار 72/0 و 65/0 دلالت بر رفتار طیفی کانی‌های کربناته و رسی در باندهای 8 و 6 دارد. اعتبارسنجی پردازش‌های انجام شده در نهایت از طریق طیف‌های کتابخانه‌ای، طیف‌های بازنویسی شده و طیف تصویر صورت گرفت.</abstract>
+									<keywords>
+									
+											<keyword>معدن سرب-روی انگوران</keyword>
+											<keyword>سنجنده استر</keyword>
+											<keyword>ترکیب رنگی کاذب</keyword>
+											<keyword>تحلیل مؤلفه اصلی</keyword>
+											<keyword>نسبت‌گیری باندی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>05</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>110</first_page>
+										<last_page>120</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_15070_6887b3cc25925d54f7e6d16f224b3820.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

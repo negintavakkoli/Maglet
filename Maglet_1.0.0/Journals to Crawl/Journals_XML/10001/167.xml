@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>2016</title>
+			</titleInfo>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract></abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start></start>
+					<end></end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_22029_595c192aa78d91a091dd6638a54c1eee.pdf</identifier>
+			<identifier type="doi"></identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Artificial Neural Networks versus OLS Regression Models Using Principal Components Analysis in Forecasting Unexpected Returns</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Reza</namePart>
+				<namePart type="given">Raei</namePart>
+				<affiliation>University of Tehran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mahdi</namePart>
+				<namePart type="given">Bostanara</namePart>
+				<affiliation>University of Tehran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Financial statements are the main source of information for stock market participants and financial ratios are the primary tool for their analysis. The main goal pursued by this research includes two major questions; First, whether it is possible to gain “unexpected returns” (in excess of expected return, determined by the Capital Asset Pricing Model) using seven financial parameters, for publicly traded companies in Tehran Stock Exchange. Second, as suggested by the research hypothesis, are artificial neural networks superior to ordinary least square regression in forecasting such returns? Based on research findings, artificial neural networks can outperform ordinary least squares models even when the regression model prediction capacity is enhanced by using principal components analysis, in terms of one-step-ahead forecasting of unexpected returns.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>1</start>
+					<end>18</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_20629_84afce1f5f7e727b02e340b2d1641d6e.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2016.20629</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Market Reaction to Tangible and Intangible Information in Tehran Stock Exchange</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mohammad Esmaeel</namePart>
+				<namePart type="given">Fadaei Nejad</namePart>
+				<affiliation>Shahid Beheshti University</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">mojtaba</namePart>
+				<namePart type="given">kamelniya</namePart>
+				<affiliation>Shahid Beheshti Universit</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>There are two interpretations concerning the book to market ratio (B/M) effect. Financial economists believe that risk premium corresponding to high B/M stocks is due to high risk of these companies which are originated from previous weak performance. On the other hand, behaviorists believe “overreaction” as the main source of this phenomena. We investigate these two interpretations more deeply in this paper. We decompose past return into two components of tangible and intangible return and investigate the effect of each component on the future returns using panel regressions technique. Intangible return is the part of return which is not related to financial performance of the firm. Tangible return is the part of return which is caused by disclosure of accounting-based information. Our findings show there is no relation between future return and past financial performance of the firm, while there is a significant negative relation between future return and past intangible return. Therefore it seems that the main cause of the B/M effect is investors’ overreaction to intangible return.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>19</start>
+					<end>36</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_20630_0995de71a98fc6a8f8c4a427ad454be0.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2016.20630</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Investigating the Relationship between Dividend, Investment Opportunities and External Financing During Companiesâ Life Cycle</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">MOHAMMAD HOSSEIN</namePart>
+				<namePart type="given">SETAYESH</namePart>
+				<affiliation>university of shiraz</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">samaneh</namePart>
+				<namePart type="given">Ghoohestani</namePart>
+				<affiliation>university of shiraz</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>In this paper, we have investigated the relationship between dividend policy, investment opportunities and external financing, taking into account the company&#039;s life cycle. We collect the required data for the sample of 105 companies in Tehran Stock Exchange, over a ten-year period from 1382 to 1391. To test the hypotheses, multiple regression model has been used. We used the Anthony and Ramesh‘s model (1992) for a breakdown of the corporate life cycle stages. The results from this study indicate that there is a significant relationship between dividend policy and investment opportunities in the growth stage, while there is no significant relationship between dividend policy and investment opportunities in the mature stage. In addition, there is no significant relationship between dividend policy and external financing in the growth stage, while there is a significant relationship between these variables in the mature stage.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>37</start>
+					<end>50</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_20631_d8b43026743ba5fd4d102ea86c10d0d7.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2016.20631</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Credit Ranking of Firms Using Option Pricing Adjusted with Duration</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">abbas</namePart>
+				<namePart type="given">aminpour joubeni</namePart>
+				<affiliation>amirkabir university of technology</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">naser</namePart>
+				<namePart type="given">shams gharneh</namePart>
+				<affiliation>amirkabir university of technology</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">akbar</namePart>
+				<namePart type="given">esfahani pour</namePart>
+				<affiliation>amirkabir university of technology</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Investors use credit ranking to help them to price the risks associated with fixed income securities. In literature, many studies have used option pricing for assessing and analyzing the credit risk, and they have ranked firms according to the assets volatility, distance to default and probability of default. In this paper, in addition to estimating assets volatility without solving BSM’s simultaneous equations, we use adjusted-time to maturity of debts or duration of debts. Our sample includes 5670 firms from US market during 2001 to 2013. After ranking firms and plotting ROC curves of our approach, BSM approach and BhSh approach, we conclude that our new approach has a relative high accuracy. Furthermore, this research provides a risk-based framework to analyze the effects of option variables and other market variables.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>51</start>
+					<end>68</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_20632_b1869464e25eec5200989932bbb95341.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2016.20632</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The Impact of Corporate Governance System on the Unit Index of Working Capital Management Efficiency for the Companies Listed in Tehran Stock Exchange</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">mohsen</namePart>
+				<namePart type="given">dastgir</namePart>
+				<affiliation>azad university</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">mozhgan</namePart>
+				<namePart type="given">jalali jalal abadi</namePart>
+				<affiliation>azad university of najafabad</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">ahmad</namePart>
+				<namePart type="given">googerdchian</namePart>
+				<affiliation>university of isfahan</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>This study investigates the effect of corporate governance mechanisms on working capital management efficiency. In this research, the variables of corporate governance mechanism consist of the percentage of institutional shareholders, CEO duality, board size, board independence and audit quality. The proxy variable for working capital management efficiency is the &quot;working capital management efficiency index&quot;. In this respect, the data of 136 companies listed in Tehran Stock Exchange during 1386 to 1390 were studied. Multiple-regression models using pooling data are used to test the hypotheses. Findings indicate that institutional shareholders and CEO duality have positive effects on the efficiency of working capital management, but the board size, board independence and audit quality appear to have no significant effect on the efficiency of working capital management.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>69</start>
+					<end>86</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_20633_477d2df37ac3cd72f053755f626c4d65.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2016.20633</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Investigating the Factors Influencing on the Stock Market Risk with the Emphasis on Financial Globalization in Dynamic Behavior of Stock Market</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Seyed kamal</namePart>
+				<namePart type="given">Sadeghi</namePart>
+				<affiliation>دانشگاه تبریز</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">fatemeh</namePart>
+				<namePart type="given">bagherzadeh azar</namePart>
+				<affiliation>university of tabriz</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">soha</namePart>
+				<namePart type="given">moosavi</namePart>
+				<affiliation>university of tabriz</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2016</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>This paper examines equity market risk measured by beta-volatility of stock returns over 2002-2011 for Middle Eastern oil producing countries namely Iran, Bahrain, Qatar, Kuwait, Oman, Saudi Arabia and UAE. First, the paper examines whether the dynamic behavior of stock market returns has changed during the last decade. Using a Dynamic Conditional Correlation model we find that the stock market returns of the sampled countries are not definitely correlated in the short-term. So, international investors may get the short-term diversification benefits by diversifying their portfolios among the Middle Eastern equity markets. Second, in our dynamic panel data framework, after controlling for size and turnover, our results provide evidence in favor of the view that the broadening of the investor base by increasing degree of financial globalization doesn&#039;t reduce the total volatility of stock returns. Our results are important for Middle Eastern oil producing countries policy makers, portfolio managers, as well as academics.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Asset Management and Financing</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University of Isfahan</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1170</identifier>
+			<part>
+				<detail type="volume">
+					<number>4</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>1</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2016</text>
+				<extent unit="pages">
+					<start>87</start>
+					<end>100</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://amf.ui.ac.ir/article_20634_3b8454dc1cfaa0799a768fcc52fc5591.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22108/amf.2016.20634</identifier>
+			</mods>
+		</modsCollection>

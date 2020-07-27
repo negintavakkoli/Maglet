@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<modsCollection
+		    xmlns:xlink="http://www.w3.org/1999/xlink"
+		    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		    xmlns="http://www.loc.gov/mods/v3"
+		    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+		<mods version="3.5">
+		    <titleInfo>
+				<title>The effects of mother corm size and type of fertilizer on nitrogen use efficiency in saffron</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Alireza</namePart>
+				<namePart type="given">Koocheki</namePart>
+				<affiliation>Professor, Faculty of Agriculture, Ferdowsi University of Mashhad</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Mehdi</namePart>
+				<namePart type="given">Jamshid Eyni</namePart>
+				<affiliation>M.Sc. Graduated in Agronomy, Faculty of Agriculture, Ferdowsi University of Mashhad</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Seyyed Mohammad</namePart>
+				<namePart type="given">Seyyedi</namePart>
+				<affiliation>PhD. Student of Crop Ecology, Faculty of Agriculture, Ferdowsi University of Mashhad</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2015</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Mother corm size and nutrient management are the most important factors in relation to nitrogen uptake of saffron (Crocus sativus L.). In order to investigate the effects of mother corms size and type of fertilizer on uptake and use efficiency of nitrogen in Saffron, a field experiment was conducted as factorial layout based on a randomized complete block design with three replications at Faculty of Agriculture, Ferdowsi University of Mashhad, Iran, during the years 2013 and 2014. The mother corm size (4 g and lower (small), 4.1–8 g (medium), 8.1-12 g (relatively large) and over 12 g (large)) and fertilizer sources (cow manure 25 t ha-1, chemical fertilizer (N+P) and control) were the first and second experimental factors, respectively. In both years, the larger mother corms (8.1-12 g and more) significantly resulted in greater nitrogen content (g m-2) of replacement corms and whole plant of saffron. In addition, uptake and use efficiency of nitrogen were significantly increased with increasing mother corms size. In the first and the second years, nitrogen use efficiency in manure treatment was significantly higher than that of chemical fertilizer (by 21 and 61%, respectively).</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Saffron agronomy and technology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University Of Torbat Heydarieh</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1529</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2015</text>
+				<extent unit="pages">
+					<start>243</start>
+					<end>254</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://saffron.torbath.ac.ir/article_8618_8990259609f10821f04a772f443b74ab.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22048/jsat.2015.8618</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Effect of Summer Irrigation and Conservation Tillage on Flower Yield and Qualitative Characteristics of Saffron (Crocus sativus L.)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Hassan</namePart>
+				<namePart type="given">Feizi</namePart>
+				<affiliation>Assistant Professor of Agriculture Faculty and Saffron Institute, University of Torbat-e-Heydarieh.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Abdollah</namePart>
+				<namePart type="given">Mollafilabi</namePart>
+				<affiliation>Research institute of Food Science and Technology, Mashhad, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Hossein</namePart>
+				<namePart type="given">Sahabi</namePart>
+				<affiliation>Faculty of Agriculture, University of Torbat-e-Heydarieh.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Ahmad</namePart>
+				<namePart type="given">Ahmadian</namePart>
+				<affiliation>Saffron Institute, University of Torbat-e-Heydarieh, Iran</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2015</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>In order to investigate the effects of summer irrigation and conservation tillage on flower characteristics and corms behavior of Saffron (Crocus sativus L.), a field experiment was conducted during 2009- 2010, at Faculty of Agriculture, University of Torbat-e-Heydarieh, Iran. A factorial trial based on complete randomized block design with four replications was used. The experimental treatments were all combination of summer irrigations (July, August, July + August and no irrigation) and conservation tillage (application and non- application). Based on analysis of variance, in the first and second years, summer irrigation had significant effects on number and flower yield of saffron. In the first year, the highest number of flower, flower and stigma yield of saffron significantly observed by irrigation on July + August (25 flowers per m2, 12.1 and 0.16 g.m-2, respectively,). In the second year, irrigation in August had highest significant effects on mentioned characteristics of saffron (127.4 flowers per m2, 61.4 and 0.87 g.m-2, respectively). In the first year, flower and stigma yields of saffron significantly increased by conservation tillage (by 11.3 and 11.7%), as compared to control (no conservation tillage). In addition, summer irrigation and conservation tillage significantly increased picrocrocin content.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Saffron agronomy and technology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University Of Torbat Heydarieh</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1529</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2015</text>
+				<extent unit="pages">
+					<start>255</start>
+					<end>263</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://saffron.torbath.ac.ir/article_8619_f4cff4bd2e5b09c13199c04789ed3ca0.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22048/jsat.2015.8619</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Effects of planting date and corm size on flower yield and physiological traits of saffron (Crocus sativus L.) under Varamin plain climatic conditions</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Fatemeh</namePart>
+				<namePart type="given">Ghobadi</namePart>
+				<affiliation>Student in Agronomy, College of Abouraihan, University of Tehran, Pakdasht, Tehran, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Moahammad</namePart>
+				<namePart type="given">Ghorbani Javid</namePart>
+				<affiliation>Assistant Professor, Department of Agronomy and Plant Breeding Sciences, College of Abouraihan, University of Tehran, Pakdasht, Tehran, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Ali</namePart>
+				<namePart type="given">Sorooshzadeh</namePart>
+				<affiliation>Associate Professor, Department of Agronomy, Faculty of Agriculture, Tarbiat Modares University, Tehran, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2015</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>In order to evaluate the effect of different planting dates and the corm size on yield and some physiological characteristics of saffron, an experiment was conducted as factorial in a randomized complete block design with three replications at the Research Farm of College of Abouraihan, University of Tehran, is located in Varamin dry plain during growing season 2013-2014. Four planting dates, 10 June, 7 and 27 September and 12 October and two corm sizes 5-9 g and 10-14 g were considered as treatments. Evaluated physiological traits include such as proline and protein content in leaves and yield traits, include number of flowers and dry weight of stigma were measured and were examined in a square meter and starting date of flowering were recorded. The results of this research showed that cultivation of large saffron corms (10-14 g) on planting date of 10 June, had Maximum yield, by production 62.7 number of flower and 0.299 gram dry weight of stigma in a square meter. Leaf proline concentration of small saffron corms (5-9 g) on planting date of 12 October and leaf protein concentration of small saffron corms (5-9 g) on planting date of 10 June, were higher than the other planting dates. Increasing proline concentration increased plant resistance under drought and cold in corms planting on 12 October, particularly small corms. In general, these results indicate that flower yield in first year is more influenced by corm size and planting of large corms (10-14 g) on 10 June will have a suitable production.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Saffron agronomy and technology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University Of Torbat Heydarieh</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1529</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2015</text>
+				<extent unit="pages">
+					<start>265</start>
+					<end>276</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://saffron.torbath.ac.ir/article_8620_128762a7701822d3392fb975ccf91dcd.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22048/jsat.2015.8620</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Analysis of Effects and Factors Influencing on Increasing the Cropping Pattern of Saffron in the City of Nishapur; Case study: Ishaq Abad district</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Majid</namePart>
+				<namePart type="given">Hamzei</namePart>
+				<affiliation>Student of PhD Geography and Rural Planning, Ferdowsi University of Mashhad.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Khadijah</namePart>
+				<namePart type="given">Bouzarjmehry</namePart>
+				<affiliation>Associate Professor, Department of Geography University of Mashhad.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2015</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Selected appropriate cropping patterns, especially high-value crops such as saffron, shows that the pattern of cultivation of these crops can facilitate the achievement of the objectives of rural development programs. In recent years, saffron cultivation considerably has been increased in parts of the city of Nishapur like Isaac Abad district which altered the pattern of crop cultivation from onion to saffron cultivation. The purpose of this study was to identify factors that influence the development pattern of saffron, and the economic and social consequences of the mentioned districts. This study was conducted based on library information and field collected data. A random sampling method was used. The sample size was calculated using Cochran equation, the number of calculated samples were 220 Isaac Abad district saffron grower. Data was analyzed by Pierson Correlation methods. The results showed that geographical factor and attractions in the consumer market were the most important factors in the spread pattern of saffron cultivation in the region. In order to maintain the local potential is also planning to expand the crop pattern deserves more attention to geographical factors.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Saffron agronomy and technology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University Of Torbat Heydarieh</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1529</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2015</text>
+				<extent unit="pages">
+					<start>277</start>
+					<end>288</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://saffron.torbath.ac.ir/article_8621_5e60d9017e776b4cf4d506d939a9323c.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22048/jsat.2015.8621</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Effect of corm planting density, organic and chemical fertilizers on formation and phosphorus uptake of saffron (Crocus sativus L.) replacement corms during phonological stages</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Hassan</namePart>
+				<namePart type="given">Feizi</namePart>
+				<affiliation>Assistant Professor of Agriculture Faculty and Saffron Institute, University of Torbat-e-Heydarieh.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Seyyed Mohammad</namePart>
+				<namePart type="given">Seyyedi</namePart>
+				<affiliation>M.Sc. of Agronomy, Faculty of Agriculture, Ferdowsi University of Mashhad.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Hossein</namePart>
+				<namePart type="given">Sahabi</namePart>
+				<affiliation>Faculty of Agriculture, University of Torbat-e-Heydarieh.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2015</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>Saffron (Crocus sativus L.) propagates by replacement corms producing from the mother corm after flowering during each season. In order to investigate the effect of corm planting density, organic and chemical fertilizers on formation and phosphorus uptake of saffron replacement corms during phonological stages, a field experiment was conducted as factorial layout based on randomized complete block design with three replications, at Faculty of Agriculture, Ferdowsi University of Mashhad, Iran, during 2013 and 2014 growing seasons. The experimental treatments were all combination of different levels of planting density (25, 50, 75 and 100 corms per m2) and fertilizer sources (manure 25 t. ha-1, chemical fertilizer (N 150 kg ha-1 + P 75 kg ha-1) and control). Due to different sampling dates of replacement corms during phonological stages (21 November, 21 December, 20 January, 20 April and 21 May, respectively), the experimental data were analyzed as factorial - split in time based on a randomized complete block design. Based on results, the highest number of replacement corms lower than 4 g (5.8 corms per plant) were observed in fifth sampling stage and then decreased. In all levels of planting density (25 to 100 corms per m2), the effects of manure on increasing the number, weight and phosphorus content of replacement corms in range of 4.1 to 8 and 8.1 to 12 g per plant were significantly higher than chemical fertilizer. In fifth sampling stage, by applying the manure, the weight and phosphorus content of replacement corms in range of 8.1 to 12 g per plant were significantly increased (approximately twice), as compared to chemical fertilizer. It seems the decrease in saffron yield as result to decreasing the corm planting density can be slightly offset by increasing the percentage of larger corms formation per plant.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Saffron agronomy and technology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University Of Torbat Heydarieh</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1529</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2015</text>
+				<extent unit="pages">
+					<start>289</start>
+					<end>301</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://saffron.torbath.ac.ir/article_8622_deb2fe8ff9fae185201318d6279da5e6.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22048/jsat.2015.8622</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Effect of Stevia (Stevia rebaudiana) as a Substitute for Sugar on Physicochemical, Rheological and Sensory Properties of Dietary Saffron Syrup</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Neda</namePart>
+				<namePart type="given">Hashemi</namePart>
+				<affiliation>Graduate student of Department of Food Science and Technology, Sabzevar Branch, Islamic Azad University, Sabzevar, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Hadiseh</namePart>
+				<namePart type="given">Rabiee</namePart>
+				<affiliation>Graduate student of Department of Food Science and Technology, Sabzevar Branch, Islamic Azad University, Sabzevar, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Hamid</namePart>
+				<namePart type="given">Tavakolipour</namePart>
+				<affiliation>Assistant professor of Department of Food Science and Technology, Sabzevar Branch, Islamic Azad University, Sabzevar, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Samane</namePart>
+				<namePart type="given">Gazerani</namePart>
+				<affiliation>Graduate student of Department of Food Science and Technology, Sabzevar Branch, Islamic Azad University, Sabzevar, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2015</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>In recent years production and usage of functional food and drinks is one of the public and scientist’s interest. Since carbohydrates have been recognizedas the major calorie source in many food baskets, most attention has been focused on substitution of sucrose with non-caloric sweeteners. Although both natural and synthetic sweeteners have been used in the formulation of food stuffs, deep concern is raised regarding safety aspects of synthetic ones. Stevia is a natural suitable sweetener that is currently being used as a substitute for sugar in many dietary and functional foods and drinks. In the present study the effect of using stevia sugar as a replacement for sucrose in the preparation of saffron beverages was investigated. Accordingly, saffron syrup was prepared with 5 treatments in which100%, 75%, 50%, 25% and 0% of stevia sugar replaced sucrose. Then, the physicochemical, rheological and sensory properties of saffron functional syrup were investigated. The results indicated that by increasing stevia brix level, density and viscosity increased but the syrups’ pH decreases. The best treatment was the sample containing 25% steviaand 75% sucrose that compared to other samples regarding sensory characteristics had a higher acceptance by consumer and regarding physicochemical and rheological characteristics more similar to the control sample.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Saffron agronomy and technology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University Of Torbat Heydarieh</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1529</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2015</text>
+				<extent unit="pages">
+					<start>303</start>
+					<end>310</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://saffron.torbath.ac.ir/article_8623_41a93712afc4a94f19dc08a158d530f4.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22048/jsat.2015.8623</identifier>
+			</mods>
+		<mods version="3.5">
+		    <titleInfo>
+				<title>Evaluation of the effects of soil texture on yield and growth of saffron (Crocus sativus L.)</title>
+			</titleInfo>
+				<name type="personal">
+				<namePart type="family">Mahsa</namePart>
+				<namePart type="given">Aghhavani Shajari</namePart>
+				<affiliation>Ph.D. student of Agroecology, Faculty of Agriculture, Ferdowsi University of Mashhad, Iran.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Parviz</namePart>
+				<namePart type="given">Rezvani Moghaddam</namePart>
+				<affiliation>Professor of Agronomy, Faculty of Agriculture, Ferdowsi University of Mashhad.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Alireza</namePart>
+				<namePart type="given">Koocheki</namePart>
+				<affiliation>Professor of Agronomy, Faculty of Agriculture, Ferdowsi University of Mashhad.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Hamid-Reza</namePart>
+				<namePart type="given">Fallahi</namePart>
+				<affiliation>Saffron Research Group, College of Agriculture, University of Birjand.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+				<name type="personal">
+				<namePart type="family">Reza</namePart>
+				<namePart type="given">Taherpour Kalantari</namePart>
+				<affiliation>Ms.C. of Agronomy, Sarayan Faculty of Agriculture, University of Birjand.</affiliation>
+				<role>
+				<roleTerm type="text" authority="marcrelator">author</roleTerm>
+				</role>
+			</name>
+			<typeOfResource>text</typeOfResource>
+			<genre>article</genre>
+			<originInfo>
+				<dateIssued keyDate="yes" encoding="w3cdtf">2015</dateIssued>
+			</originInfo>
+			<language>
+				<languageTerm type="code" authority="iso639-2b">per</languageTerm>
+			</language>
+			<abstract>This experiment was conducted to study the effect of soil texture on flower and corm yield of saffron. This experiment was carried out based on Randomized Complete Block Design with four treatments and four replications in box at Faculty of Agriculture, Ferdowsi University of Mashhad, Iran, in 2011. Treatments included of: 1- 100% field soil + cow manure, 2- 70% field soil + 30% sand, 3- 70% field soil + 30% sand + cow manure and 4- 70% sand + 30% field soil + cow manure. Results showed that the effect of soil texture was significant on all flower and corm properties. The highest flower and stigma fresh weight per box (1.59 and 0.10 g, respectively) and petal dry weight (0.12 g) were observed in 70% sand + 30% field soil + cow manure. The highest corm number in 2-3 cm diameter per box was obtained in 70% field soil + 30% sand + cow manure (3.75 numbers). Treatment of 70% sand + 30% field soil + cow manure produced the highest corm number in 3-6 g (1.75 numbers) and 6-9 g (1.25 numbers) per box, but the lowest values of most studied indices were obtained in 100% field soil + cow manure. Generally, our results indicated that light soil texture has more advantages than heavy soil texture in saffron cultivation. Therefore, soil modification through lighter soil application can improve saffron flower and corm yield.</abstract>
+			<relatedItem type="host">
+			<titleInfo>
+				<title>Saffron agronomy and technology</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>University Of Torbat Heydarieh</publisher>
+			</originInfo>
+			<identifier type="issn">2383-1529</identifier>
+			<part>
+				<detail type="volume">
+					<number>2</number>
+					<caption>v.</caption>
+				</detail>
+				<detail type="issue">
+				<number>4</number>
+				<caption>no.</caption>
+				</detail>
+				<text type="year">2015</text>
+				<extent unit="pages">
+					<start>311</start>
+					<end>322</end>
+				</extent>
+			</part>
+			</relatedItem>
+			<identifier type="uri">http://saffron.torbath.ac.ir/article_8624_2fc63fcee237900ba3eb3655d7b55b99.pdf</identifier>
+			<identifier type="doi">dx.doi.org/10.22048/jsat.2015.8624</identifier>
+			</mods>
+		</modsCollection>

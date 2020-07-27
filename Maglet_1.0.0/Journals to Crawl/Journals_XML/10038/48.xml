@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-26T23:07:49Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://www.jiraeg.ir/?_action=export&amp;rf=summon&amp;issue=9640</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>شماره 1 و 2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مدلسازی رشد درزه در شیب سنگ های درزه دار (مطالعه موردی: دیواره بلوک تکتونیکی2-4 معدن چغارت)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>زهرا</given_name>
+												<surname>پیرنیا</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رقیه</given_name>
+												<surname>عزیزی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علیرضا</given_name>
+												<surname>یار احمدی بافقی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمد</given_name>
+												<surname>فاتحی مرجی</surname>
+											</person_name></contributors>
+									<abstract>سنگ‌ها در طبیعت دارای دسته درزه‌های‌ ناممتد هستند و در تحلیل پایداری سنگ­ها عموما درزه‌ها بصورت ممتد بررسی میگردند در حالیکه نوک درزه‌ها‌ی ناممتد محل تمرکز تنش می­باشد و این تمرکز تنش در اندازه و جهت رشد درزه­های موجود در سنگ و پایداری سازه‌های ایجاد شده در آن مثل شیب‌های سنگی موثراست. مکانیک شکست سنگ علمی است که امکان رشد ترک و تعیین جهت انتشار آن را مطالعه می‌کند. توسعه این علم امکان استفاده از مدل‌های درزه‌ای واقعی ناممتد در تحلیل پایداری شیب­های سنگی و کنترل رفتار مکانیکی ناپیوستگی­ها بخصوص پیرامون نوک ترک را فراهم می کند. با ایجاد شیب­های سنگی و تغییر ماتریس تنش منطقه‌ای، در نوک درزه‌ها تمرکز تنش بوجود می‌آید. درصورت غلبه این تنش بر پارامترهای مقاومتی درزه رشد می­کند و با انتشار درزه‌ها بلوک‌های سنگی تشکیل می‌گردند. این مطالعه برآنست با استفاده از اصول مکانیک شکست، رشد و توسعه درزه­ها­ی ناممتد و تصادفی در شیب سنگ‌های درزه‌دار را مدل‌سازی نماید. روش عددی قابل قبول مدل‌سازی مکانیسم شکست درزه‌ها، روش المان مرزی با عنوان روش ناپیوستگی جابجایی (DDM) انتخاب گردید.بعنوان مطالعه موردی مدل هندسی3 بعدی ناپیوستگی‌های دیواره بلوک تکتونیکی 2-4 معدن چغارت بروش دیسک‌های تصادفی توسط برنامه 3DGM یاراحمدی ـ گودرزی در محیط نرم‌افزاری متمتیکا ساخته و مقطع 2 بعدی مورد نظر تهیه‌گردید.با اعمال شرایط مرزی، تنش‌های برجا، ماتریس سختی، مقدار و جهت انتشار درزهها محاسبه گردید. پارامترهای مکانیکی توده مورد مطالعه بر اساس ویژگی‌های ژئومکانیکی گزارش شده در تحلیل‌های پایداری شیب این دیواره استفاده شد. مش‌بندی ناپیوستگی‌ها با ابعاد 3 متر و گام انتشار 2/0 طول درزه در نظر گرفته شد و مدل برای 4 مرحله رشد ترک اجرا گردید. مدل هندسی بوجود آمده شامل درزه های اولیه و رشد یافته قابل استفاده در نرم افزارهایی است که مدل‌های هندسی ناپیوستگی‌ها در آنها پایه اصلی تحلیل بوده ولی قابلیت انتشار ترک را ندارند. پس کد تهیه شده به عنوان مکمل روش‌های تحلیلی مثل گروه­های کلیدی و عددی مثل روش های المان مجزا (نرم افزار UDEC) در تحلیل توده‌سنگ‌های درزه‌دار ناممتد قابل استفاده می باشد.</abstract>
+									<keywords>
+									
+											<keyword>شیب سنگی</keyword>
+											<keyword>روش ناپیوستگی جابجایی</keyword>
+											<keyword>انتشار درزه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>13</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_75543_59b53d180a136ba29f8fc1404ffd37a8.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>شماره 1 و 2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناسایی و اولویت‌بندی گزینه های احداث سد زیرزمینی در دشت سیلابی قره‌بوته زنجان با استفاده از روش فرآیند تحلیل سلسله مراتبی(AHP)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد</given_name>
+												<surname>بخشایش</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهدی</given_name>
+												<surname>نوربخش</surname>
+											</person_name></contributors>
+									<abstract>هدف اصلی این مقاله، شناسایی گزینه های مناسب برای احداث سد زیرزمینی در محدوده دشت سیلابی قره­بوته واقع در جنوب­غربی استان زنجان است. سطح آبهای­زیرزمینی این منطقه در سالهای اخیر کاهش یافته­است. احداث سدزیرزمینی، می­تواند تا حدودی به رفع کمبود آب در این منطقه کمک نماید. محدوده مورد مطالعه، از نظر پتانسیل احداث سد زیرزمینی مورد مطالعه قرارگرفته و13 محل برای احداث سازه شناسایی شده­است. در این تحقیق، ابتدا مهمترین عوامل تاثیرگذار در احداث سد زیرزمینی، شناسایی شده­است. این عوامل شامل واحدهای زمین شناسی، گسل، آبراهه، کیفیت آب، عمق سنگ ­بستر و حجم مخزن هستند که با استفاده از روش تحلیل سلسله مراتبی، مقایسه زوجی بین آنها صورت­گرفته و بر اساس ارجحیت هریک از این عوامل به دیگری، ضریب آنها محاسبه شده­است. در این روش با استفاده از تعیین معیار و زیر معیار عوامل موثر در انتخاب ساختگاه، میزان اهمیت آنها در انتخاب محل توسط یک سیستم مقایسه و رتبه­بندی زوجی صورت می­گیرد. به منظور مقایسه نتایج روش تحلیل سلسله مراتبی، از روش وزن­دهی نیز برای اولویت­بندی گزینه­ها استفاده شده­است. در روش وزن دهی، با در نظر گرفتن میزان اهمیت هریک از عوامل شناسایی شده، عددی به عنوان وزن (Weight) آن عامل در نظر گرفته می­شود. برای زیر عاملها نیز، متناسب با درجه اهمیت عددی به عنوان نرخ (Rate) مشخص می­شود. نتیجه مقایسه، بیانگر انطباق مناسب اولویت­بندی­ گزینه­ها با دوروش متفاوت است. با اینحال، به نظر می­رسد که روش AHP به­دلیل مقایسه زوجی عوامل، از دقت بیشتری نسبت به روش وزن­دهی برخوردار است.</abstract>
+									<keywords>
+									
+											<keyword>سد زیرزمینی</keyword>
+											<keyword>تحلیل سلسله مراتبی</keyword>
+											<keyword>روش وزن‌دهی</keyword>
+											<keyword>استان زنجان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>15</first_page>
+										<last_page>30</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_75544_9bea4dad735787752f4fe75b0096a48c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>شماره 1 و 2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تولید سبکدانه از شیل و مقایسه مشخصات آن با سبکدانه‌های تولیدی در ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمدکاظم</given_name>
+												<surname>امیری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمدرضا</given_name>
+												<surname>نیکودل</surname>
+											</person_name></contributors>
+									<abstract>از سبکدانه­ها به منظور کاهش وزن، عایق­کاری حرارتی و صوتی، ساخت فرآورده­های سبک مانند انواع بتن­های ­سبک، ملاتها و اندودها، فرآورده­های قیری و خاک کشاورزی استفاده می‌شود. با توجه به فروان بودن سازندهای شیلی در زونهای مختلف ساختاری ایران و از طرف دیگر ارزشمند بودن منابع خاک رس مورد نیاز برای تولید سبکدانه‌ها از لحاظ زیست محیطی و کشاورزی، شیل‌ها جایگزین مناسبی برای تولید این مصالح­اند. در این مقاله آنالیزهای شیمیایی بر روی شیل‌ها  و مارن­های استان فارس انجام گرفت، سپس با توجه به مطالعات صورت گرفته شیل‌های آرژیلیتی بکت و نورآباد برای حرارت­دهی و تولید سبکدانه‌ها مناسب تشخیص داده شد. سپس برخی خصوصات، فیزیکی، شیمیایی و مکانیکی نمونه­های حرارت داده شده و ویژگی­های اولیه سبکدانه­های تولیدی مورد بررسی قرار گرفت و با سبکدانه­های تولیدی حال حاضر در ایران مقایسه شد. نتایج نشان داد که سبکدانه­های شیل منبسط­شده تولیدی وزن مخصوص کمتر، درصد جذب آب، ارزش فشاری و ضربه­ای بیشتری از لیکا و لیاپور دارند و از لحاظ دانه­بندی و pH  هر سه سبکدانه در یک محدوده قرار دارند. با توجه به نتایج بدست آمده، شیل منبسط­شده تولید شده سبکتر از نمونه­های تولیدی در ایران است اما مقاومت کمتری از آنها دارد و می­توان از آن به عنوان پرکننده، ساخت عایق­های حرارتی و ساختن بتن برای دیوارهای جداکننده و غیرباربر استفاده کرد.</abstract>
+									<keywords>
+									
+											<keyword>شیل منبسط شده</keyword>
+											<keyword>تئوری ریلی</keyword>
+											<keyword>حرارت‌دهی</keyword>
+											<keyword>لیکا</keyword>
+											<keyword>لیاپور</keyword>
+											<keyword>خواص فیزیکی و مکانیکی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>31</first_page>
+										<last_page>4</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_75545_3a7bcb26f46d4084bd23cc940dd2127b.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>شماره 1 و 2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی کارایی روش عدد پتروگرافی در تعیین کیفیت برخی از مصالح سنگی کشور جهت استفاده در سازه های حفاظت دریایی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مجتبی</given_name>
+												<surname>کمانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رسول</given_name>
+												<surname>اجل لوئیان</surname>
+											</person_name></contributors>
+									<abstract>آیین­نامه­های مختلفی برای ارزیابی منابع سنگی به ویژه سنگ­های آهکی جهت استفاده در سازه­های آبی ارائه شده است. اگرچه تفاوت­هایی بین این آیین­نامه­ها وجود دارد ولی برای ارزیابی مصالح سنگی طبق این آیین­نامه­ها، آزمایشات متعددی مورد نیاز است که اغلب وقت­گیر، هزینه­بر و بعضاً به لحاظ اجرایی مشکل خواهد بود. روش عدد پتروگرافی، یکی از روش­های سریع، آسان و کم هزینه در این زمینه است که پیشنهاداتی برای بیان کیفیت مصالح سنگ آهکی دارد. در روش عدد پتروگرافی درصد مولفه­های پتروگرافی سنگ شامل نوع آلوکم، تخلخل، سیمان و ماتریس، کانی­های کربناته و غیرکربناته بدست آمده و با روش جمع عددی تبدیل به یک عدد به نام عدد پتروگرافی می­شود. در این مقاله به بررسی این روش پرداخته شده است. بدین منظور تعداد 33 نمونه از سنگ­آهک مورد استفاده در سازه­های حفاظت دریایی در سواحل جنوب و سدهای داخل کشور جمع­آوری شده است. آزمایشات وزن واحد حجم، درصد جذب آب، ارزش ضربه­ای، شاخص بار نقطه­ای، مقاومت تراکمی تک محوره، سلامت سنگ در سولفات، شاخص دوام و سایش لس­آنجلس برروی نمونه­ها انجام گرفته است. همچنین به منظور تعیین عدد پتروگرافی، از همان نمونه­ها مقاطع نازک میکروسکوپی تهیه و عدد پتروگرافی برای آنها محاسبه شده است. سپس به بررسی همبستگی و سطح معناداری بین عدد پتروگرافی با نتایج آزمایشات پرداخته شده است. همچنین نتایج طبقه­بندی حاصل از آیین­نامه­های مختلف با طبقه­بندی حاصل از عدد پتروگرافی سنجیده شده است. به طور کلی، نتایج حاکی از وجود ارتباط مناسب بین عدد پتروگرافی با نتایج آزمایشات و آیین­نامه­ها دارد. ضریب همبستگی (R) بین عدد پتروگرافی با سایر نتایج آزمایشات به جزء سلامت سنگ در سولفات و مقاومت تراکمی تک محوره، بزرگتر از 79/0 است. همچنین رابطه­ی بین عدد پتروگرافی با مجموع امتیازات معیار وزارت راه ضریب همبستگی برابر 86/0= R&lt;sup&gt;2&lt;/sup&gt;نشان می دهد.</abstract>
+									<keywords>
+									
+											<keyword>روش عدد پتروگرافی</keyword>
+											<keyword>کیفیت مصالح آهک</keyword>
+											<keyword>سازه‌های حفاظت دریایی</keyword>
+											<keyword>معیارهای انتخاب مصالح سنگی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>45</first_page>
+										<last_page>59</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_75546_573d92c2264fe5142f7de70189ed754d.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>شماره 1 و 2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مدل‌سازی گسیختگی واژگونی بلوکی-خمشی پیشرونده با استفاده از روش عددی المان مجزا (مطالعه موردی: منطقه ویژه پارس جنوبی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد</given_name>
+												<surname>آذرافزا</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>اکبر</given_name>
+												<surname>قاضی فرد</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>ابراهیم</given_name>
+												<surname>اصغری کلجاهی</surname>
+											</person_name></contributors>
+									<abstract>واژگونی بلوکی-خمشی به دلیل درگیر کردن مکانیسم­های گسیختگی چندگانه (لغزش-دوران- خمش و برش) در بلوک­های سنگی همواره تنها به صورت رویکردهای کینماتیک تحلیل شده و مکانیسم ناپایدارساز آن کمتر مورد توجه قرار گرفته است. در این مقاله سعی گردیده تا با بکارگیری روش المان مجزا (DEM) توسط نرم­افزار UDEC، مکانیسم گسیختگی واژگونی بلوکی-خمشی که به عنوان پیچیده­ترین نوع ناپایداری در دامنه­های سنگی درزه­دار مطرح است، ارزیابی شود. بدین منظور دامنه سنگی درزه­دار واقع در بزرگراه اصلی جاده عسلویه-کنگان (منطقه ویژه پارس جنوبی) که به لحاظ مواصلاتی در منطقه دارای اهمیت بالایی می­باشد، به عنوان مطالعه موردی انتخاب گردیده است. این دامنه از آهک­های مارنی درزه­دار سازند آغاجاری تشکیل شده که عامل اصلی ناپایداری و لغزش در این بزرگراه محسوب می­شود. بر پایه نتایج حاصل از مدل­سازی، رویکرد عددی بکارگرفته شده، به صورت موفقیت­آمیزی سناریو لغزش پیش­رونده در دامنه را شبیه­سازی نموده و سطح لغزش نهایی بحرانی برای گسیختگی دامنه تحت مکانیسم واژگونی بلوکی-خمشی برآورد گردیده است. همچنین مکانیسم­های گسیختگی چندگانه نیز بصورت شهودی کاملاً شناسایی گردیده است. باتوجه به شبیه­سازی­های انجام گرفته، گسترش سطح گسیختگی به هر دو حالت بین بلوکی و درون بلوکی مشاهده می­گردد که از ویژگی­های مهم واژگونی بلوکی-خمشی است. رخداد دوران در زمان گسیختگی برای ستون­های شکسته شده نیز مشاهده می­گردد.&lt;br /&gt; &lt;em&gt;&lt;span style=&quot;font-size: 12.0pt; line-height: 150%; font-family: &#039;B Lotus&#039;;&quot; lang=&quot;FA&quot;&gt;واژگونی بلوکی-خمشی، روش المان مجزا (&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;mso-bidi-font-family: &#039;B Lotus&#039;;&quot; dir=&quot;LTR&quot;&gt;DEM&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-size: 12.0pt; line-height: 150%; font-family: &#039;B Lotus&#039;;&quot; lang=&quot;FA&quot;&gt;)، شبیه&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-size: 12.0pt; line-height: 150%; mso-bidi-font-family: &#039;Times New Roman&#039;;&quot; lang=&quot;FA&quot;&gt;­&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-size: 12.0pt; line-height: 150%; font-family: &#039;B Lotus&#039;;&quot; lang=&quot;FA&quot;&gt;سازی کامپیوتری، تحلیل پایداری، عسلویه.&lt;/span&gt;&lt;/em&gt;&lt;br /&gt;  </abstract>
+									<keywords>
+									
+											<keyword>واژگونی بلوکی-خمشی</keyword>
+											<keyword>روش المان مجزا (DEM)</keyword>
+											<keyword>شبیه‌سازی کامپیوتری</keyword>
+											<keyword>تحلیل پایداری</keyword>
+											<keyword>عسلویه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>61</first_page>
+										<last_page>73</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_75547_fe9da9ea34223020632d033d13f4b1a4.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>شماره 1 و 2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تاثیر جهت‌داری تنش‌های محصورکننده بر نفوذ دیسک TBM با استفاده از PFC2D</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>وهاب</given_name>
+												<surname>‌سرفرازی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رحمان</given_name>
+												<surname>شیرکوند</surname>
+											</person_name></contributors>
+									<abstract>در این تحقیق با استفاده از نرم‌افزار PFC2D تاثیر جهت‌داری تنش‌های محصورکننده بر مکانیزم خردشدگی سنگ بررسی شده است. به این منظور 5 زاویه‌داری برای تنش‌های محصورکننده وارد بر سنگ با مقاومت کششی 1/2 مگاپاسکال انتخاب شده است. مدل‌های عددی با جهت‌داری‌های 0، 30، 45، 60 و 90 درجه به ترتیب تحت تنش محصورکننده 5، 10 و 15 درصد تنش شروع ترک قرار گرفتند. دیسک‌های انتخاب شده جهت حفاری سنگ U شکل و فاصله‌داری بین آنها ثابت1a بودند.(&lt;strong&gt;&lt;em&gt;a&lt;/em&gt;&lt;/strong&gt; عرض تیغه می باشد). در نهایت از  نتایج گرفته شده می‌توان دریافت که بهینه‌ترین جهت‌داری تنش‌های محصورکننده در فاصله‌داری ثابت &lt;strong&gt;&lt;em&gt;a&lt;/em&gt;&lt;/strong&gt;1، و در جهت صفر درجه می‌باشد که باعث خردایش بهتر و ایجاد تراشه در سنگ در فضای بین دیسک‌های برنده می‌شود.</abstract>
+									<keywords>
+									
+											<keyword>نرم‌افزار PFC2D</keyword>
+											<keyword>جهت‌داری</keyword>
+											<keyword>مقاومت کششی</keyword>
+											<keyword>تنش‌های محصورکننده</keyword>
+											<keyword>فاصله‌داری دیسک</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>75</first_page>
+										<last_page>84</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_75683_804d651c1e4fc19280afc5a0a9c7acf8.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>شماره 1 و 2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی عوامل موثر در بهبود ویژگی‌های فیزیکی سنگ‌مصنوعی و مقایسه ویژگی های مهندسی سنگ‌مصنوعی ساخته شده با دو نمونه سنگ طبیعی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>طیبه</given_name>
+												<surname>میرجلیلی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ماشااله</given_name>
+												<surname>خامه چیان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمدرضا</given_name>
+												<surname>نیکودل</surname>
+											</person_name></contributors>
+									<abstract>در تولید سنگ مصنوعی از پودرسنگ و سنگ­دانه و مقدار کمی سیمان یا رزین و دیگر مواد شیمیایی استفاده می شود. در این تحقیق سنگ­دانه­های کربناته (در اندازه075/0 تا 19میلی­متر)، پودرسنگ و سیمان سفیددر مرحله اول مخلوط و مرطوب شده، در مرحله بعد برای شکل­گیری نمونه در قالب مکعبی، تحت سه فرآیند فیزیکی ویبره، خلاء و فشار، متراکم شده­اند. هدف این تحقیق  بررسی تاثیر فشار و خلاء در بهبود ویژگی­های فیزیکی و همچنین مقایسه ویژگی­های مهندسی سنگ­مصنوعی ساخته شده با دو نمونه سنگ طبیعی شامل سنگ­چینی (سنگ اولیه در تولیدسنگ­دانه) و تراورتن (سنگ متخلخل و سبک ساختمانی) می­باشد، نتایج نشان داد سنگ­مصنوعی ساخته شده از نظر توصیف ویژگی های مهندسی مشابه کیفیت سنگ تراورتن می­باشند بنابراین با توجه به ویژگی­های مهندسی در محدوده قابل قبول، می توان از مخلوط سنگ­دانه– سیمان برای تولید سنگ­های مصنوعی قالب­ریزی شده با ویژگی­های مکانیکی قابل قبول استفاده کرد.</abstract>
+									<keywords>
+									
+											<keyword>سنگ‌مصنوعی</keyword>
+											<keyword>فشار</keyword>
+											<keyword>خلاء</keyword>
+											<keyword>سنگ‌دانه‌</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>85</first_page>
+										<last_page>96</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_75684_2e4d06ea93782c56c80d642623c41969.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-09-21</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>10</volume>
+									</journal_volume>
+									<issue>شماره 1 و 2</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تحلیل پایداری و طراحی سیستم نگهدارنده تونل آب بر سد معشوره</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>بهزاد</given_name>
+												<surname>سبزواری ده کبود</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>امین</given_name>
+												<surname>فلاح</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد رضا</given_name>
+												<surname>مشرفی فر</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>عنایت الله</given_name>
+												<surname>امامی</surname>
+											</person_name></contributors>
+									<abstract>تونل آب­بر سد معشوره با هدف تامین آب مورد نیاز برای نیروگاه برق آبی سد مذکور احداث شده است. تاقدیس منگنی کوه و خرم آباد از  اصلی­ترین ساختارهای تشکیل دهنده  مسیر تونل هستند. در این مقاله با استفاده از سه روش تجربی، تحلیلی و عددی سیستم نگهداری پیشنهادی ارائه شده است. در روش تجربی از دو روش RMR و Q استفاده شده است. با استفاده از نرم افزار RocSupport شرایط پایداری تونل به روش تحلیلی انجام شد. در تحلیل به روش عددی از نرم افزار phase&lt;sup&gt;2&lt;/sup&gt; که بر پایه اجزای محدود است استفادهشده است. نتایج تحلیل عددی نشان می دهد که جابجای های کل، افقی و عمودی بدون نصب سیستم نگهداری به ترتیب 4/11، 3/6 و 4/11 سانتیمتر است که با نصب سیستم نگهداری میزان جابجای کل، افقی و عمودی به ترتیب 7/4، 8/2 و 7/4 سانتیمتر کاهش پیدا کرده است. ضریب اطمینان بعد از نصب سیستم نگهداری به 21/2 می رسد که پایداری تونل را نشان می دهد. نتایج حاصل از سه روش تجربی، تحلیلی و عددی سیستم نگهدارنده مشابه را ارائه می دهند.</abstract>
+									<keywords>
+									
+											<keyword>تحلیل پایداری</keyword>
+											<keyword>طراحی سیستم نگهداری</keyword>
+											<keyword>روش عددی</keyword>
+											<keyword>روش تحلیلی</keyword>
+											<keyword>روش تجربی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>09</month>
+										<day>21</day>
+									</publication_date>
+									<pages>
+										<first_page>97</first_page>
+										<last_page>111</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_75685_856b21c9f998bf73ca4f6b3d0d36e7ae.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

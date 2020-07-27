@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-26T07:12:14Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22055">http://aag.scu.ac.ir/?_action=export&amp;rf=summon&amp;issue=1910</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-10-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>برآورد مقیاس ML برای بزرگای زمین‌لرزه‌ها در ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>زهرا</given_name>
+												<surname>جامی زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مجید</given_name>
+												<surname>نعمتی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سید جلیل الدین</given_name>
+												<surname>فاطمی</surname>
+											</person_name></contributors>
+									<abstract>برآورد یک بزرگای محلی برای برآورد درستتر بزرگای زمینلرزههای محلی در هر گستره لازم است. برای این هدف از 1409 بیشینه دامنه مصنوعی خوانده شده وود- اندرسون از 229 زمینلرزه با 22 ایستگاه لرزهنگاری در ایران در عرض جغرافیایی بین 24 تا 42 درجه شمالی و طول جغرافیایی بین 43 تا 65 درجه شرقی استفاده شد. بزرگای آنها 5/3 تا 4/5 در مقیاس محلی، گاف آزیموتی آنها کمتر از 180 درجه و ﺑﺎ RMS در تمام ایستگاهها کمتر از 5/0 ثانیه بودند. این پژوهش با استفاده از دادههای لرزهای دریافتی سالهای 2004 تا 2016 میباشند. یک رابطه پارامتریک که در آن پخش هندسی، میرایی(کاهیدگی) غیرالاستیک و تصحیح ایستگاهی در نظر گرفته شدند، رابطه کاهیدگی تجربی را برای بزرگای محلی در ایران بهصورت زیر برآورد نمود:&lt;br /&gt; &lt;br /&gt; این رابطه کاهیدگی بیشتری از دامنه موج را برای فواصل بیش 150 کیلومتر نسبت به رابطه هاتون و بور (1987) پیشنهاد میکند. مقادیر تصحیحات ایستگاهی بین 198/0 – و 44/0 واحد بزرگا میباشد. از این پژوهش میتوان نتیجه گرفت که، کاهیدگی دامنه موج با افزایش فاصله بهصورت 1/r1.0928 بوده و تاثیر ساختار زمینشناسی گستره ایران برروی تخمین بزرگا در بازه وسیعی از بزرگا (نزدیک به 0.7) میباشد.</abstract>
+									<keywords>
+									
+											<keyword>بزرگای محلی</keyword>
+											<keyword>موج</keyword>
+											<keyword>پخش هندسی</keyword>
+											<keyword>ایران</keyword>
+											<keyword>زمینلرزه و دامنه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>10</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>9</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14767_92dcbf6f3a414a2ddbfbc2e47abbc14d.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-10-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تاثیر سطح جدایش بالایی در تغییر هندسه ساختاری تاقدیس عمقی و سطحی سرگلان، لرستان، باختر ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>رضا</given_name>
+												<surname>علی پور</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>نسیم</given_name>
+												<surname>رحمانیان کوشککی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>عارف</given_name>
+												<surname>شمس زاده</surname>
+											</person_name></contributors>
+									<abstract>تاقدیس سرگلان با پتانسیل هیدروکربنی در جنوب‌باختر پهنه لرستان و باختر کمربند چین‌خورده-رانده زاگرس واقع شده است. در این مطالعه جهت تحلیل هندسی تاقدیس سرگلان از تفسیر نیمرخ‌های لرزه نگاری دوبعدی و ترسیم چهار نیمرخ ساختاری عمود بر محور تاقدیس استفاده شده است. تفسیر نیمرخ‌های ساختاری نشان دو سطح جدایش بالایی (سازند امیران) و میانی (سازند گرو) است. سطوح جدایشی و راندگی‌ها تاثیر زیادی بر هندسه و کینماتیک ساختارها داشته است، به طوریکه راندگی یال جنوب‌باختری تاقدیس شکل گرفته و شروع به پلکانی شدن می‌کند. جابجایی این راندگی، تاقدیس را به سمت بالا حمل می‌کند، پس تاقدیس سرگلان از نوع چین‌های جدایشی انتقالی است. ضخامت زیاد سطح جدایش بالایی باعث تشکیل چین‌خوردگی ناهماهنگ گردیده به طوریکه تاقدیس عمقی سرگلان نسبت به تاقدیس سطحی بیشتر از حدود 10 کیلومتر و در زیر ناودیس سطحی به سمت شمال‌باختر ادامه پیدا کرده است. اندازه‌گیری پارامترهای هندسی نشان می‌دهد که تاقدیس سرگلان یک چین نامتقارن، استوانه‌ای است و از نظر نسبت ابعادی پهناور و از نظر کندی چین نیمه‌گرد شده است. تفسیر نیمرخ‌های لرزه نگاری نشان می‌دهد که یک تاقدیس عمقی به موازات تاقدیس سرگلان در زیر سطح جدایش بالایی تشکیل شده و در این مطالعه به عنوان تاقدیس سرگلان جنوبی معرفی می‌گردد.</abstract>
+									<keywords>
+									
+											<keyword>تاقدیس</keyword>
+											<keyword>سرگلان</keyword>
+											<keyword>جدایش</keyword>
+											<keyword>لرستان</keyword>
+											<keyword>زاگرس</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>10</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>10</first_page>
+										<last_page>19</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14781_d297adfc5b55f2f0321d5ae78e934a51.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-10-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی اثر مقیاس در برآورد مقدار نشت آب از مخزن و تکیه‌گاه سد بهشت‌آباد</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حسین</given_name>
+												<surname>عابدیان</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>غلامحسین</given_name>
+												<surname>کرمی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حاجی</given_name>
+												<surname>کریمی</surname>
+											</person_name></contributors>
+									<abstract>ساخت سدها بر روی سازندهای کربناته کارستی عمدتاً با مشکل نشت از تکیه‌گاه و مخزن مواجه است. احداث سد بر روی این سازندها باعث نشت از مخزن سد به سمت پایین دست می‌گردد. سد بهشت‌آباد در حال حاظر در مرحله مطالعات قرار دارد و جناح راست مخزن این سد به‌طور مستقیم با سازند دلومیتی-آهکی جهرم در تماس می‌باشد. با توجه به ناهمگنی کارست مقدار هدایت‌ هیدرولیکی با مقیاس رابطه مستقیم دارد به همین دلیل برای تعیین میزان نشت از مخزن سد روش‌های مختلفی با مقیاسهای متفاوت برای تعیین میزان هدایت هیدرولیکی این سازند استفاده گردید که شامل آزمایش‌های لوژن، اسلاگ، دارسی، منحنی فرود و استفاده از دبی چشمه و سطح آب گمانه مجاور می‌باشد. بر اساس روش‌های مختلف طیفی از مقادیر هدایت ‌هیدرولیکی معادل توده بین 6-10×1/2 متر بر ثانیه در مقیاس کوچک (Sub-local scale) تا 4-10×6/1 متر بر ثانیه در مقیاس ناحیه‌ای (Regional scale) با اختلاف 75 برابر بدست آمده است. با توجه به نتایج مطالعات توصیه می‌گردد از روشهای مقیاس ناحیه‌ای برای بررسی نشت این سد بهره گرفته شود که با در نظر گرفتن سطح مقطع تماس آهک با مخزن در حالت بدون ایجاد پرده تزریق، مقدار نشت حدود 4/5 تا 1/7 متر مکعب بر ثانیه پیش‌بینی می‌شود.</abstract>
+									<keywords>
+									
+											<keyword>کارست</keyword>
+											<keyword>اثر مقیاس</keyword>
+											<keyword>نشت</keyword>
+											<keyword>سد</keyword>
+											<keyword>هدایت هیدرولیکی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>10</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>20</first_page>
+										<last_page>28</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14782_91d5009e54e251ae406e0dc29d1582e9.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-10-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>متاسوماتیسم و تشکیل کرندوم در میگماتیت های منطقه بروجرد، زون سنندج – سیرجان، ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی اکبر</given_name>
+												<surname>بهاری فر</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سمیه</given_name>
+												<surname>ماله میر چگینی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>شهریار</given_name>
+												<surname>محمودی</surname>
+											</person_name></contributors>
+									<abstract>منطقه بروجرد در زون سنندج – سیرجان، متشکل از سنگ های دگرگونی ناحیه ای است که توسط توده های نفوذی ژوراسیک میانی تحت تاثیر قرار گرفته و دگرگونی مجاورتی در آنها ایجاد شده است. میگماتیت ها بالاترین درجه دگرگونی در هاله مجاورتی هستند. در ناحیه آب بخشان، سنگ های کرندوم دار بصورت بخش های کوچکی در داخل آلبتیتیت ها یا همبری آلبیتیت – میگماتیت دیده می شوند. سنگ های کرندوم دار شامل کرندوم، کردیریت، کلریت، آلبیت، ایلمنیت، روتیل، میکای سفید و آپاتیت هستند. بر اساس محاسبات پزودوسکشن برای سنگ کل، دما و فشار تشکیل این سنگ ها 605 درجه سانتیگراد در 3/3 کیلوبار برآورد شده است. روابط صحرایی بین سنگ های متاسوماتیک (آلبیتیت ها) و سنگ های کرندوم دار، نشان می دهد که متاسوماتیسم در طی تشکیل کرندوم موثر بوده است. در طی متاسوماتیسم Na و تشکیل آلبیتیت، سیالات غنی از Mg-Al تشکیل شده و منجر به متاسوماتیسم Mg و تشکیل کرندوم در میگماتیت ها یا آلبیتیت ها شده اند.</abstract>
+									<keywords>
+									
+											<keyword>میگماتیت</keyword>
+											<keyword>کرندوم</keyword>
+											<keyword>متاسوماتیسم</keyword>
+											<keyword>آلبیتیت</keyword>
+											<keyword>بروجرد</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>10</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>29</first_page>
+										<last_page>42</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14783_c916667dbd4ce54e9867610b3a997bc5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-10-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کاربرد رده بندی توده سنگ جهت تخمین تزریق پذیری (مطالعات موردی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید سجاد</given_name>
+												<surname>کراری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رسول</given_name>
+												<surname>اجل لوئیان</surname>
+											</person_name></contributors>
+									<abstract>با استفاده از طبقه بندی توده سنگ به روش شاخص مقاومت زمین شناسی می توان اقدام به ارزیابی نفوذپذیری و تزریق پذیری توده های سنگی نمود. در این مقاله با انجام طبقه بندی شاخص مقاومت زمین‌شناسی میزان محدوده نفوذپذیری توده‌های سنگی براساس لوژان بر روی چارت طبقه بندی زون بندی شده است. در این چارت میزان GSI بیش از 55 محدوده لوژان 1-3 یا نفوذناپذیر ، میزان GSI بین 45 تا 55 محدوده لوژان 3 تا 10 یا نفوذپذیری کم ، میزان GSI بین 35 تا 45 محدوده لوژان 10 تا 30 یا نفوذپذیری متوسط و میزان GSI کمتر از 35 محدوده لوژان 30 تا 100 یا نفوذپذیری زیاد را نشان می‌دهند. پس از انجام این زون بندی در چارت طبقه‌بندی شاخص مقاومت زمین‌شناسی اقدام به تخمین تزریق پذیری و بهسازی توده های سنگی گردیده است. زون اول ناحیه بدون توان تزریق‌پذیری (None groutable) می‌باشد. زون دوم ناحیه با تزریق‌پذیری محدود که به صورت محلی (Local) می-باشد. زون سوم ناحیه با تزریق پذیری متوسط (Medium groutable) می‌باشد. زون چهارم ناحیه با تزریق پذیری بالا (High groutable) می‌باشد.</abstract>
+									<keywords>
+									
+											<keyword>طبقه توده سنگی</keyword>
+											<keyword>شاخص مقاومت زمین شناسی</keyword>
+											<keyword>نفوذپذیری</keyword>
+											<keyword>تزریق پذیری</keyword>
+											<keyword>زون بندی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>10</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>43</first_page>
+										<last_page>50</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14784_1ea57a666ae8091e637e2b16fa217219.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-10-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>زمین‌شناسی، کانی‌سازی و زمین‌شیمی در رخداد آهن پده بید، جنوب غرب بردسکن، استان خراسان جنوبی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>آزاده</given_name>
+												<surname>ملکزاده شفارودی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد حسن</given_name>
+												<surname>کریم پور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>سعید</given_name>
+												<surname>شعبانی</surname>
+											</person_name></contributors>
+									<abstract>ررخداد آهن پده‌بید در شمال شرق زون کاشمر- کرمان، یکی از مهمترین زون‌های متالوژنی آهن ایران، واقع شده است. واحدهای سنگی منطقه عمدتاً شامل تناوبی از سنگ‌های کربناته دگرگون شده، اسلیت و فیلیت است که توده‌های دیوریتی و گابرویی در آنها نفوذ نموده‌اند. براساس کنترل ساختاری زون کانی‌سازی، تشکیل جانشینی متاسوماتیزم با مشخصه کانی‌های آبدار حرارت پایین و همراهی مگنتیت و پیریت با کلریت، اپیدوت، کلسیت و کوارتز، کانه‌زایی آهن منطقه از نوع اسکارن حرارت پایین است. شیمی کانی مگنتیت و مقادیر Ti، Ca، V، Al، Mn، Ni و Cr نیز مشابه ذخایر اسکارن است. الگوی عناصر نادر خاکی، ناهنجاری مثبت Eu و Ce و ناهنجاری منفی Gd، Yb و Sm را نشان می‌دهد. شواهد صحرایی نشان می‌دهد که توده نفوذی جوانتر دیگری در عمق منشاء کانی‌سازی آهن منطقه است. براساس تحلیل مولفه‌های محاسبه شده برپایه REE، محلول کانه‌دار عمدتاً منشاء ماگمایی داشته، از طریق گسل به بالا راه پیدا کرده و در اثر واکنش با سنگ‌های کربناتی منجر به تشکیل کانسنگ شده است. ناحیه شمال شرق زون کاشمر- کرمان پتانسیل بالایی برای اکتشاف ذخایر آهن اسکارن دارد و می‌بایست مورد توجه بیشتری قرار گیرد.</abstract>
+									<keywords>
+									
+											<keyword>کانی‌سازی</keyword>
+											<keyword>شیمی مگنتیت</keyword>
+											<keyword>اسکارن حرارت پایین</keyword>
+											<keyword>پده‌بید</keyword>
+											<keyword>زون تکتونیکی کاشمر- کرمان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>10</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>51</first_page>
+										<last_page>62</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14785_2a0ddacf544586bf7661a1c838cae144.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-10-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>جداسازی آنومالی‌های ژئوشیمیایی سرب و روی با استفاده از روش‌های آمار کلاسیک، مولتی‌فرکتال عیار-تعداد، عیار-مساحت و شاخص سینگولاریتی در ورقه 1:100000 اراک</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی</given_name>
+												<surname>کنعانیان</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد امین</given_name>
+												<surname>جعفری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>احد</given_name>
+												<surname>نظرپور</surname>
+											</person_name></contributors>
+									<abstract>ورقه زمین شناسی 1:100000 اراک در بخش شمالی کمربند فلززایی سرب و روی ملایر-الیگودرز-اصفهان واقع شده است. داده های زمین شیمی 898 نمونه از رسوبات آبراهه ای منطقه مورد نظر که توسط روش ICP-MS تهیه شده اند مورد تحت تجزیه و تحلیل قرار گرفت. ابتدا از طریق روش آمار کلاسیک و MAD با محاسبه پارامترهای آماری به جداسازی جوامع زمین شیمیایی پرداخته شد. پس از آن با استفاده از روشهای فرکتالی عیار-تعداد و عیار-مساحت و همچنین با استفاده از روش سینگولاریتی آنومالیهای زمین شیمیایی دو عنصر سرب و روی در منطقه مورد مطالعه تفکیک شدند. روش فرکتال عیار-مساحت نشان داد که مقدار کمینه و بیشنیه عیار برای عنصر سرب به ترتیب 64/15 ppm و 100 ppm و برای عنصر روی 63/09 ppm و 251 ppm میباشد. بطور کلی نتایج این روشها نشان داد که عیار عنصر سرب در جنوب غرب و عیار عنصر روی در شمال شرق و جنوب محدوده افزایش پیدا میکند و در ان مناطق احتمال وجود مناطق امیدبخش کانساری بسیار بالا است و از طرفی نیز بیانگر این مسأله بود که آنومالی بدست آمده برای فلزات سرب و روی انطباق خوبی با واحدهای آهکی منطقه مورد مطالعه نشان میدهند.</abstract>
+									<keywords>
+									
+											<keyword>فرکتال</keyword>
+											<keyword>آنومالی زمین‌شیمیایی</keyword>
+											<keyword>شاخص سینگولاریتی</keyword>
+											<keyword>سرب و روی</keyword>
+											<keyword>اراک</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>10</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>63</first_page>
+										<last_page>74</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14786_2e4b8c7edb972e523a03caa0ef1ce5ce.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-10-23</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>8</volume>
+									</journal_volume>
+									<issue>3</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>پهنه بندی گستره ایران بر اساس تغییرات نسبت ضرایب لرزه خیری a/b</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی</given_name>
+												<surname>بیت اللهی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>غزاله</given_name>
+												<surname>رزاقیان</surname>
+											</person_name></contributors>
+									<abstract>ضرایب لرزه خیزیb, a در رابطه گوتنبرگ- ریشتر از مهمترین پارامتر ها در مطالعه الگوی لرزه خیزی یک منطقه می باشد. تهیه نقشه پهنه بندی ضرایب لرزه خیزی b-Value و a- Value و همچنین نسبت آن ها a/b- Value برای گستره ایران هدف اصلی در این پژوهش است. &lt;br /&gt; ابتدا یک کاتالوگ از زمین لرزه های رخ داده از سال های 1900 تا 2007 در گستره ایران تهیه شده است، سپس کل ایران به پهنه هایی بسیار کوچک تقسیم شده و ضرایب لرزه خیزی b, a برای هر سلول از این شبکه به طور جداگانه محاسبه شده است. بر اساس مقدار عددی محاسبه شده برای هر سلول در گستره ایران نقشه های پهنه بندی a - Value ، b - Value و a /b-Value تهیه شده است. تغییرات در مقدار ضرایب لرزه خیزی بیانگر شرایط متفاوت تکتونیکی در منطقه است. در مقایسه و بررسی نقشه ها با یکدیگر نقشه پهنه بندی a /b-Value اطلاعات جامع تری را در مورد وضعیت لرزه خیزی و تکتونیکی منطقه نشان میدهد. بر این اساس پهنه ایران به سه منطقه کلی تقسیم می شود؛ مناطق با پتانسیل لرزه ای پایین ، مناطق با پتانسیل لرزه ای متوسط ، و مناطق با پتانسیل لرزه ای بالا.</abstract>
+									<keywords>
+									
+											<keyword>ایران</keyword>
+											<keyword>تکتونیک</keyword>
+											<keyword>نقشه ها</keyword>
+											<keyword>پهنه بندی</keyword>
+											<keyword>ضرایب لرزه خیزی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>10</month>
+										<day>23</day>
+									</publication_date>
+									<pages>
+										<first_page>75</first_page>
+										<last_page>83</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_14787_e2087fec673bb65df7b4d25f172ffcaa.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

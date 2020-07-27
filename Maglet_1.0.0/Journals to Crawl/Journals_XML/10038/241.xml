@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>انجمن زمین شناسی مهندسی ایران</PublisherName>
+				<JournalTitle>نشریه انجمن زمین شناسی مهندسی ایران</JournalTitle>
+				<Issn>2228-5245</Issn>
+				<Volume>11</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2018</Year>
+					<Month>05</Month>
+					<Day>22</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Identification of the geometrical parameters of cylindrical targets hidden ‎in GPR images using particle swarm optimization (PSO) algorithm</ArticleTitle>
+<VernacularTitle>تعیین پارامتر‌های هندسی اهداف استوانه ای پنهان در تصاویر ‏GPR‏ با استفاده از الگوریتم ‏بهینه سازی تجمع ذرات ‏‎(PSO)‎</VernacularTitle>
+			<FirstPage>81</FirstPage>
+			<LastPage>94</LastPage>
+			<ELocationID EIdType="pii">81242</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>رضا</FirstName>
+					<LastName>احمدی</LastName>
+<Affiliation>عضو هیئت علمی گروه مهندسی معدن دانشگاه صنعتی اراک</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>سجاد</FirstName>
+					<LastName>نان بده</LastName>
+<Affiliation>دانشجوی دکترای مهندسی معدن دانشگاه صنعتی سهند تبریز</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2018</Year>
+					<Month>11</Month>
+					<Day>03</Day>
+				</PubDate>
+			</History>
+		<Abstract>The geophysical ground-penetrating radar (GPR) method is able to detect and identify shallow buried targets ‎especially cylindrical type without any destruction of the medium. GPR method is based on sending the ‎electromagnetic waves generally in the range of 1 MHz up to 1 GHz frequency into the earth and receiving ‎reflected off various buried targets. In present research, this method has been used to identify geometrical ‎parameters of buried cylindrical targets containing burial depth and radius. This task was done through the ‎mathematical relationships between geometrical parameters of cylindrical targets with their GPR hyperbolic ‎response using the particle swarm optimization algorithm (PSO). To achieve this goal first, forward modeling of ‎GPR data by 2-D finite-difference time-domain (FDTD) method using GPRMAX was performed for several ‎synthetic models corresponding to common targets in geotechnical applications and subsurface cylindrical ‎installations. Also in the research, several field surveys were carried out over the well-known buried cylindrical ‎targets in Isfahan University of Technology campus, moreover their GPR response was investigated after ‎employing different processing sequences. In order to extract the geometrical parameters of the buried cylindrical ‎targets in synthetic models and real surveys, the PSO algorithm was used in MATLAB environment. The algorithm ‎performance for 7 produced synthetic models, including cylindrical targets made by different materials, radii and ‎burial depth, as well as the real radargrams of GPR profiles in Isfahan University of Technology campus was ‎verified leading to favorite and reasonable results for the synthetic models and real radargrams, respectively.‎</Abstract>
+			<OtherAbstract Language="FA">روش ژئوفیزیکی رادار نفوذی به زمین ‏‎(GPR)‎‏ با ارسال امواج الکترومغناطیسی در محدوده فرکانسی یک مگاهرتز تا بیش از یک ‏گیگاهرتز به درون زمین و دریافت امواج بازتابی اهداف مدفون، قادر‎ ‎به‎ ‎آشکارسازی‎ ‎و‎ ‎شناسایی‎ ‎اهداف به ویژه استوانه‌های مدفون‎ ‎در ‏اعماق‎ ‎کم، بدون ایجاد شکستگی و تخریب در محیط‎ ‎می‌باشد‎.‎‏ در پژوهش حاضر از این روش برای شناسایی پارامترهای هندسی عمق ‏دفن و شعاع اهداف استوانه‌ای مدفون، از طریق روابط ریاضی موجود بین این پارامترها و پارامترهای هذلولی پاسخ ‏GPR، به کمک ‏الگوریتم بهینه‌سازی تجمع ذرات (‏PSO‏) استفاده شده است. برای این منظور ابتدا مدلسازی پیشرو داده‌های ‏GPR‏ با استفاده از روش ‏تفاضل محدود‎ ‎دوبعدی حوزه‎ ‎زمان (‏FDTD‏) به کمک نرم‌افزار ‏GPRMAX‏ برای تعداد زیادی از مدل‌های مصنوعی متناظر با اهداف ‏متداول در کاربردهای ژئوتکنیکی و شناسایی ساختارها و تاسیسات زیرسطحی استوانه‌ای انجام شد. در این پژوهش همچنین برداشت-‏های میدانی متعددی در محوطه دانشگاه صنعتی اصفهان بر روی اهداف استوانه‎‌‎ای شکل مدفون از پیش شناخته شده، انجام شد و پاسخ ‏GPR‏ آن‎‌‎ها بعد از اعمال توالی‎‌‎های پردازشی مختلف، مورد بررسی قرار گرفت. به‌منظور استخراج پارامترهای هندسی اهداف استوانه‌ای ‏مدفون در مدل‌های مصنوعی و برداشت‌های واقعی، از الگوریتم ‏PSO‏ در محیط نرم‌افزار ‏MATLAB‏ استفاده شد. عملکرد الگوریتم برای ‏تعداد 7 مدل مصنوعی تولید شده شامل اهداف استوانه‌ای با جنس‌ها، شعاع‌ها و عمق دفن‌های مختلف و نیز نگاشت‌های راداری واقعی ‏GPR‏ پروفیل‌های برداشت شده در محوطه دانشگاه صنعتی اصفهان، مورد آزمایش و ارزیابی قرار گرفت که برای مدل‌های مصنوعی ‏نتایج مطلوب و در مورد تصاویر واقعی، نتایج قابل قبولی حاصل نمود.‏</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">رادار نفوذی به زمین (‏GPR‏)</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدل‌سازی پیشرو</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">هذلولی پاسخ</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">استخراج پارامترهای هندسی اهداف استوانه‌ای</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">الگوریتم بهینه‌سازی ‏انبوه ذرات (‏PSO‏)‏</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://www.jiraeg.ir/article_81242_bc0297f95aa0cefd21dfe92440da8173.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

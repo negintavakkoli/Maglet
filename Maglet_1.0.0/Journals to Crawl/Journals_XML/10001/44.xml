@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+		<JOURNAL>
+<YEAR>1393</YEAR>
+<VOL>2</VOL>
+<NO>2</NO>
+<MOSALSAL>2</MOSALSAL>
+<PAGE_NO>0</PAGE_NO>
+<ARTICLES>
+
+
+				<ARTICLE>
+				<TitleF>مدیریت دارایی و تأمین مالی</TitleF>
+				<TitleE>Asset Management &amp; Financing</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT></CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>-</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>0</FPAGE>
+						<TPAGE>0</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS></AUTHORS>
+				<KEYWORDS></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF></REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>پیش‌بینی بازده آتی بازار سهام با استفاده از مدل‌های آریما، شبکه عصبی و نویززدایی موجک</TitleF>
+				<TitleE>Prediction of Stock Market Returns with out of Sample Data: Evaluating out of Sample Methods (Regression Method and Wavelet Neural Network)</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>موضوع شناخت و بررسی رفتار قیمت سهام، همواره یکی از موضوع‌های مهم و مورد توجه محافل علمی و سرمایه‌گذاری بوده است. اخیراً تعداد زیادی از پژوهشگران در پژوهش‌های خود بازار سهام را به عنوان یک سیستم پویای غیرخطی در نظر گرفته‌اند. در این پژوهش، تلاش شده است با استفاده از تبدیل موجک و شبکه عصبی مدلی ارایه شود که پیش بینی دقیق‌تر و با خطای کمتری از بازده شاخص بورس اوراق بهادار داشته باشد. در این مدل ترکیبی، از خاصیت هموارسازی تبدیل موجک برای کاهش سطح نویز داده‌ها استفاده و سپس به وسیله شبکه عصبی پیش‌بینی شده است. مقایسه خطای پیش بینی مدل‌های آریما، شبکه عصبی و شبکه عصبی موجکی نشان می‌دهد که کاهش نویز عملکرد پیش-بینی بازده شاخص را بهبود می‏بخشد. به بیان بهتر، مدل شبکه عصبی موجکی (نویززدایی سیگنال) عملکردی بهتر از مدل‌های آریما و شبکه عصبی دارد. همچنین، مدل‌های شبکه عصبی قدرت پیش‌بینی‏کنندگی بهتری را نسبت به مدل‌های آریما نشان می‌دهد. مقادیر مربوط به آزمون دایبولد – ماریانو نیز این نتایج را تایید می‏نماید.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Understanding stock price behavior and price forecasting are one of the most challenging issues that speculators, traders and brokers are faced with. Since stock market was established in the nineteenth century, many researchers have focused on investigating the stock price forecasting model. At the outset some of the models such as Autoregressive, ARMA, ARIMA, ARCH and GARCH were widely applied. Although some of these models were better than others in performance, but none of them had satisfactory result. Recently a number of researchers have been considering the stock market as a dynamic nonlinear system. On the other hand, artificial intelligence techniques including neural networks, genetic algorithms and fuzzy logic have produced successful results in solving complex problems. In this study we tried to use wavelet transform and neural network to present a model that more accurately predict the return on stock market index. In this hybrid model, the smoothing property of wavelet transform is used to reduce the noise level of data then a neural network model is used for forecasting. Comparison of forecast error in ARIMA models, neural network and wavelet neural network indicates that noise reduction improves forecasting of the index returns.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>1</FPAGE>
+						<TPAGE>16</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>میثم</Name>
+						<MidName></MidName>		
+						<Family>محمودی آذر</Family>
+						<NameE>Meysam</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mahmoudiazar</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mahmoudiazar@ut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>رضا</Name>
+						<MidName></MidName>		
+						<Family>راعی</Family>
+						<NameE>Reza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Raei</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>raei@ut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>آریما</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>پیش بینی برون نمونه‌ای</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شبکه عصبی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شبکه عصبی موجکی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نویززدایی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>منابع##[1]     بهرادمهر، نفیسه. (1388). «پیش بینی قیمت نفت خام با استفاده ‌از هموارسازی موجک و شبکة عصبی مصنوعی»، فصلنامة مطالعات اقتصاد انرژی، ش 18، پاییز 1388.##[2]     مجیری، محمدحسن. (1386). ارزیابی درجه‌اعتبار پیش بینی بازده سهام شرکت‌های پذیرفتهشده در بورس با استفاده‌از روش داده کاوی طی سال‌های 1384-1380 (درون نمونه‌ای - برون نمونه‌ای)، پایان‌نامه کارشناسی ارشد.##[3]     سینایی، حسنعلی؛ مرتضوی، سعیدا... و تیموری اصل، یاسر. (١٣٨٤). «پیش بینی شاخص بورس اوراق بهادار تهران با استفاده ‌از شبکه‌های عصبی مصنوعی»، مجله بررسی‌های حسابداری و حسابرسی، سال دوازدهم، ش ٤١، پاییز، صص5 -٨٣.##[4]     عباسی‌نژاد، حسین و محمدی، احمد. (1386). «پیش بینی نرخ ارز با استفاده ‌از شبکه‌های عصبی و تبدیل موجک»، نامه مفید، ش 60، تیر 1386.##[5]     مساعدی، ابوالفضل. (2010). «پیش‌بینی بارش‌های ماهانه با استفاده ‌از تئوری موجک و سری‌های زمانی»، اولین همایش ملی توسعه منابع آب، اهواز.##[6]   Renaud, L. S. O., Murtagh, F. (2002). Wavelet-Based Fore Casting of Short and Long Memory Time Series. Cahiers du Department d&#039;Econometrie, 4.##[7]   Chui, C., Wavelets, K., (1987). A Mathematical Tool for Signal Analysis. Society for Industrial Mathematics.##[8]   Bradley, A. P., (2003). Shift-Invariance in the Discrete Wavelet Transform. Proceedings of the Seventh International Conference on Digital Image Computing: Techniques and Applications, 1, pp.29-38,.##[9]   Tan, C., (2009). Financial Time Series Forecasting Using Improved Wavelet Neural Network. Master&#039;s Thesis, 31,##[10]            Hajto, P., (2002). A Neural Economic Time Series Prediction with the Use of a Wavelet Analysis. Institute of Computer Science, Jagiellonian University, Schedae informaticae, vol. 11.##[11]            Yousefi, S., Weinreich, I., Reinarz, D., (2005). Wavelet-Based Prediction of Oil Prices. Chaos, Solitons and Fractals 25, pp. 265–275.##[12]            Wai Cheong, C., (2004). Clustering and Predicting Stock Prices Using Advanced Wavelet Methods and Neural Networks – a study on KLSE, Malaysian University of Science and Technology, Master&#039;s Thesis, July.##[13]            Hsieh, T., Hsiao, H., and Yeh, W. (2011). Forecasting Stock Markets Using Wavelet Transforms and Recurrent Neural Networks: An integrated System Based on Artificial Bee Colony Algorithm. In Proceedings of Appl. Soft Comput., pp. 2510-2525.##[14]            Zhao, Y., Zhang, Y., Qi, C. (2008). Prediction Model of Stock Market Returns Based on Wavelet Neural Network. Pacific-Asia Workshop on Computational Intelligence and Industrial Application, IEEE. Volume 1, Pages, pp.31-36. 15- EViews 7 User&#039;s Guide II.##[15]            Pesquef, J.C., Krim, H. and Carfantan, H. (1994). Time-Invariant Orthonormal Wavelet Representations. IEEE Trans on Signal Processing. Vo1.44. No.8.##[16]            Gupta, S., Wang, L.P. (2013). Neural Networks and Wavelet De-Noising for Stock Trading and Prediction. Time Series Analysis, Modeling and Applications. Volume 47, pp 229-247.##[17]            Mallat, S.g. A. (1989). Theory for Multiresolution Signal Decomposition: The Wavelet Representation. IEEE transactions on pattern analysis and machine intelligence. Volume 11, no 7, July.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی رابطه مدیریت سرمایه در گردش و هزینه‌های نمایندگی</TitleF>
+				<TitleE>Investigate the Relationship between Working Capital Management and Agency Costs</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف این پژوهش، ارزیابی تأثیر مدیریت سرمایه درگردش برهزینه‌‌های نمایندگی شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران است. پرسش مطرح شده این است آیا متفاوت بودن ابزارهای مدیریت سرمایه در گردش شرکت‌ها بر میزان هزینه نمایندگی آنها تأثیر دارد؟ به عبارتی کدام‌ یک از ابزارهای مدیریت‌های سرمایه در گردش در کمتر شدن هزینه‌ای نمایندگی مؤثر است؟ در پژوهش حاضر هزینه نمایندگی تابعی از تعامل بین فرصت‌های رشد شرکت و جریان‌های نقدی آزاد تعریف شده است. بدین منظور اطلاعات 127 شرکت پذیرفته شده در بورس اوراق بهادار تهران، طی دوره زمانی 1392- 1387 به کار گرفته شده و فرضیه‌های پژوهش با استفاده از تحلیل رگرسیون چندگانه و آزمون همبستگی بررسی شده است. یافته‌های پژوهش نشان می‌دهد رابطه مثبت و معناداری بین متوسط دوره گردش موجودی کالا و هزینه نمایندگی وجود داشته، بین دوره وصول مطالبات و هزینه‌های نمایندگی رابطه معناداری به ‌لحاظ آماری وجود ندارد، همچنین بین دوره پرداخت بدهی‌ها و هزینه‌های نمایندگی رابطه معکوس و معناداری وجود دارد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>The purpose of this study was to assess the impact of working capital management on the agency costs of listed companies in Tehran Stock Exchange. The question is: Do different types of working capital management company representing the amount of money they have in Impact What are the Types of Working Capital Management at less cost effective representation? Agency costs may adversely affect the company&#039;s value. In the present investigation agency costs as a function of the interaction between the company&#039;s growth opportunities and free cash flow definition and the index of Tobin Q as a measure has been used to measure growth opportunities.For this purpose, the data of 127 firms listed in Tehran Stock Exchange during the period 1391-1386 has been adopted. Research hypotheses using multiple regression analysis and correlation has been studied. Our findings suggest that the costs of debt collection agency, there is no statistically significant relationship between the payment of debts and expenses represent a significant direct relationship is established</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>17</FPAGE>
+						<TPAGE>30</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>میثم</Name>
+						<MidName></MidName>		
+						<Family>علی محمدی</Family>
+						<NameE>meysam</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>ali mohamadi</FamilyE>
+						<Organizations>
+							<Organization>کارگزاری بهمن</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارگزاری بهمن</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>meysam.finance@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مریم</Name>
+						<MidName></MidName>		
+						<Family>صابری</Family>
+						<NameE>maryam</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>sabery</FamilyE>
+						<Organizations>
+							<Organization>اداره مالیات</Organization>
+						</Organizations>
+						<Universities>
+							<University>اداره مالیات</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>accsaberi@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محمد</Name>
+						<MidName></MidName>		
+						<Family>نوروزی</Family>
+						<NameE>mohammad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>norozi</FamilyE>
+						<Organizations>
+							<Organization>کارگزاری بهمن</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارگزاری بهمن</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>m.norozi5272@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محمد رضا</Name>
+						<MidName></MidName>		
+						<Family>رستمی</Family>
+						<NameE>mohammad reza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>rostamy</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه الزهرا</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه الزهرا</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>m.rostami@alzahra.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>هزینه نمایندگی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سرمایه در گردش</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>دوره وصول مطالبات</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>دوره پرداخت بدهی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>منابع##[1]     ایزدی نیا، ناصر و تاکی عبدلله. (1389). بررسی تأثیر مدیریت سرمایه در گردش بر قابلیت سوددهی شرکت‌های پذیرفته شده در بورس. فصلنامه علمی و پژوهشی حسابداری مالی. 2(5). 139-120##[2]     بهارمقدم، مهدیپ، زینب یزدیپ، سمیه یزدی. (1391). بررسی اثرات مدیریت سرمایه در گردش بر سودآوری شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران. فصلنامه علمی پژوهشی حسابداری مدیریت. 4 (10)110-95.##[3]     رضایی نواب و منصور گرکز. (1392). اثر تغییر سرمایه در گردش بر فرصت‌های سرمایه گذاری. فصلنامه مدیریت دارایی و تأمین مالی. 1(3). 118-99.##[4]     رهنمای رودپشتی، فاطمه، و علی کیائی. (1387). &quot;بررسی و تبیین مدیریت سرمایه در گردش در شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران&quot;، مجله دانش و پژوهش حسابداری، شماره 13.##[5]     فتحی، سعید. (1388)، بررسی ارتباط بین مدیریت سرمایه در گردش و عملکرد بنگاه‌های اقتصادی، بررسی‌های بازرگانی، شماره 36،مرداد و شهریور 88. 116- 104##[6]     نوروش، ایرج. غلامرضا کرمی. (1388)، &quot;بررسی رابطه ساز و کارهای نظام راهبری شرکت و هزینه‌های نمایندگی شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران&quot;، نشریه تحقیقات حسابداری، دانشگاه تهران.##[7]     وکیلی فرد، حمید، یعقوب نژاد، آرش. (1389). ارتباط بین مدیریت سرمایه در گردش و سود آوری شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران. مجله سبد سرمایه گذاری مدیریت مالی و مهندسی، 2(5). 140-125##[8]   Appuhami, B.A Ranjith. (2008). The Impact of Firms’ Capital Expenditure on Working Capital Management: an Empirical Study across Industries in Thailand, International Management Review, Vol. 4 No. 1 pp8-21.##[9]   Abdul ‌Rahman&amp; ‌ Mohamed ‌Nasr.‌ (2007). ‌Working‌capital Management and Profitability,International Review of Business Research Papers##[10]            Abuzayed, Bana, (2014), “Working Capital Management and Firms’ Performance in Emerging Markets: the Case of Jordan” The current issue and full text archive of this journal is available at.##[11]            Anand, M. &amp; A., Gupta,”Working Capital Performance of Corporate India”, Working Paper, SSRN Electronic Library.##[12]            Baltagi, B. H. (2005), &quot;Econometric Analysis Of Panel Data&quot;, John Wiley and Sons Inc, 3rd Edition, New York USA.##[13]            Brealey, R. &amp; Myers, S. (2003), Principle of Corporate Finance, Seventh Edition, New York: McGraw-Hill, p. 851.##[14]            Chiou JR and L Cheng (2006). The Determinants of Working Capital Management. Journal of American Academy of Business, 10 (1): 149-155.##[15]            Deloof. M. (2005),”Dose Working Capital Management Affect Profitability of Belgian Firms?”, Journal of Business, Finance and Accounting, 30, 576-587.##[16]            Ding.S, Guariglia.A, and Knight.J (2011), “Investment and Financing Constraints in China: Does Working Capital Management Make a Difference?”, Electronic copy available at: http://ssrn.com##[17]            Fazzari, S. and B. Petersen (2010), “Working Capital and Fixed Investment: New Evidence on Financing Constraints.” The RAND Journal of Economics, 24, 328-42.##[18]            Fazzari. S. M. and B. Petersen, (2002), ”Working Capital and Fixed Inventory: New Evidence on Financing Constraints”, Rand Journal of Economics, 24, 328-342.##[19]            Garcia-Teruel, P. J., P. Martinez-Solano, J. P. Sanchez-Ballesta, (2008), “Accruals Quality and Corporate Cash Holdings”, Journal of Accounting and Finance, Vol 49, pp.95–115.##[20]            Jani E., Hoesli M., Bender A., w.d., (2004), “Corporate Cash Holdings and Agency Conflicts”, available at www.ssrn.com, id=563863##[21]            Jensen M.C., (1998), Self-Interest, Altruism, “Incentives of Agency Theory. Foundation of Organizational Strategy”, Harvard University Press.##[22]  Jensen M., C., and W.H. Meckling, )1976(, “Theory of the Firm: Managerial Behavior, Agency Cost, and Ownership Structure”, Journal of Financial Economics, 3:305-360.##[23]  Kieschnick, R; Laplante, M; Moussavi, R. (2006). Corporate Working Capital.##[24]            NAZIR, M.S.; AFZA, T., (2008).On the factor determining working capital requirements.##[25]            Nobanee. H, &amp; AlHajjar. M, (2010), “Working Capital Management, Operating Cash Flow and Corporate Performance. Department of Banking and Finance”, The Hashemite University, P.O. Box 150459, Zarqa, 13133.##[26]            Ogundipe, S.E.; Idowu, A. and Ogundipe, L. O. (2012). “Working Capital Management, Firm’s Performance and Market Valuation in Nigeria”. International Journal of Social and Human Sciences. Vol. 6, pp: 143-147.##[27]            OlayinkaOlufisayoAkinlo (2012): “Determinants of Working Capital Requirements in Selected Quoted Companies in Nigeria”, Journal of African Business. vol(1),pp 40-50.##[28]            Palombini, Nathalie Vicente Nakamura, &amp; Nakamura, Wilson Toshiro. (2012). Key Factors in Working Capital Management in the Brazilian Market. Revista de Administração de Empresas, 52(1), 55-69.##[29]            Raheman and Nasr, (2007),”Working Capital Management and Profitability-Case Of Pakistan Firms” International Review of Business Research Papers, Vol.3, Pp.279 – 300.##[30]            Sathyamoorthi, C.R. &amp; Wally-Dima, L.B. (2008).‟ Working Capital Management: the Case of Listed Retail Domestic Companies in Botswana”. The IcfaianJournal of Management Research, 7 (5), pp 7-24.##[31]       Solano M., &amp; J, G Teruel, (2006), “Effects of Working Capital Management on SME Profitability”, Working Paper, SSRN Electronic Library.##[32]       Taleb, G.A., Zoued, A.N. &amp; Shubiri, F.N. (2010). The Determinants of Effective Working Capital Management Policy: A Case Study on Jordan”. Interdisciplinary Journal of Contemporary Research inBusiness, 2(4), pp248-264.##[33]       Wilson Toshiro Nakamura and Nathalie Viicente Nakamura (2010). The Determinant Factors of Working Capital Management in the Brazilian Market. Working paper.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>شناسایی راهکارهای اسلامی جایگزین فروش استقراضی در بازار اوراق بهادار ایران و اولویت بندی آن ها با استفاده از روش TOPSIS</TitleF>
+				<TitleE>Identifying Islamic Alternatives to Short Selling in Iranâs Stock Market and Prioritizing Them Using TOPSIS</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>استفاده از راهکارهای معاملاتی از قبیل تأمین مالی خرید اعتباری و فروش استقراضی نقش انکارناپذیری در گسترش بازار سرمایه در کشورهای مختلف داشته‌اند. با این حال، بهره‌گیری از کارکردهای آن‌ها در بورس‌های اسلامی به‌دلیل ساختار قراردادهای مورد استفاده و دخیل بودن عوامل غیرشرعی با مشکلاتی همراه است. به همین دلیل پژوهشگران مالی در این کشورها تلاش کرده‌اند با کمک علمای اسلامی و به کارگیری راه‌کارهای معاملاتی اسلامی، از کارکردهای این ابزارها برای توسعه بازار سرمایه استفاده کنند. یکی از راهکارهای معاملاتی که کمک چشمگیری به افزایش نقدشوندگی بازار می‌کند، فروش استقراضی است. البته مغایرت این راهکار با برخی اصول اسلامی، پژوهشگران مالی اسلامی را بر آن داشته تا با استفاده از قراردادهای اسلامی، سازوکار شرعی مناسبی برای آن طراحی نمایند. در این مقاله، ابتدا فروش استقراضی و مزایا و آسیب‌های آن در بازار اوراق بهادار تبیین شده سپس، با استفاده از نظر خبرگان و روش TOPSIS و با توجه به معیارهای اتخاذ شده قانونی، مالی و فقهی، راهکارهای جایگزین فروش استقراضی بررسی و اولویت‌بندی گردیده و در نهایت مناسبترین روش برای پیاده‌سازی آن در بازار اوراق بهادار ایران معرفی می‌شود.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Trading strategies such as short sale and margin trading have an important and undeniable role in the development of capital markets in different countries. However, due to the structure of these contracts and existence of non-religious factors, using these trading strategies in Islamic stock markets has some difficulties. For this reason, financial researchers in these countries, along with Islamic scholars and by implementation of juridical trading strategies, have tried to benefit from aforementioned instruments for the development of capital markets. One of trading strategies that significantly contributes to market liquidity growth is short sale. However, contradiction of using this trading strategy with some principles of Islam has caused the Islamic finance scholars to design a suitable legal mechanism using Islamic contracts. In this paper, we first explain short selling and its benefits and damages. Then, using expertsâ opinions and TOPSIS method as well as regarding to legal, financial and juridical criteria adopted, we evaluate and prioritize Islamic alternatives to short selling and finally, we introduce the most proper approach for implementing it in Iranâs stock market.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>31</FPAGE>
+						<TPAGE>48</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محمود</Name>
+						<MidName></MidName>		
+						<Family>خطیب</Family>
+						<NameE>Mahmud</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Khatib</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه علامه طباطبایی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه علامه طباطبایی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>میثم</Name>
+						<MidName></MidName>		
+						<Family>احمدوند</Family>
+						<NameE>Maysam</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Ahmadvand</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه علامه طباطبایی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه علامه طباطبایی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>maysam.21989@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محمد جواد</Name>
+						<MidName></MidName>		
+						<Family>محقق نیا</Family>
+						<NameE>Mohammad Javad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mohaghegh Nia</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه علامه طباطبایی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه علامه طباطبایی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mgmohagh@ahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>بیع‌العربون</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سلم</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>وعد</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>فروش استقراضی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>روش TOPSIS</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>منابع##[1]     آذر، عادل و منصور مؤمنی. (1387). آمار و کاربرد آن در مدیریت (تحلیل آماری)، تهران: سمت.##[2]     اصغرپور، محمدجواد. (1377). تصمیم‌گیری‌های چندمعیاره، تهران: انتشارات دانشگاه تهران.##[3]     طالبی، محمد و حامد سلطانی نژاد. (1386). بررسی تطبیقی فروش استقراضی سهام با عقدهای اسلامی، فصلنامهعلمیپژوهشیاقتصاداسلامی، سال هفتم، شماره 27.##[4]  -. (2007),&quot;An Overview of Short Stock Selling&quot;, AIMA Canada Strategy Paper Series, No 5.##[5]  Asyraf W. D. &amp; Abdelazeem A., (2008) &quot;Fiqh Issues in Short Selling as Implemented in the Islamic Capital Market in Malaysia&quot;, Islamic Economics, Vol.21, No.2, pp:63-78.##[6]  Bris A., (2003).&quot;Short Sales and Markets around the World&quot;, Yale school of management pub.##[7]   Bris, A., William G., and N. Zhu, (2007), &quot;Efficiency and the Bear: Short Sales and Markets around the World&quot;, Journal of Finance, Volume 62, Number 3, pp. 1029-1079 (51).##[8]   Endo, T. and Rhee, S.G. (2006), &quot;Margin Purchases and Short Sales in Emerging Markets: Their Rationales and Design Variables&quot;, World Bank Financial Sector Paper Series.##[9]  Fabozzi, F., &amp; Cliff, A., (2004) &quot;Short Selling: Strategies, Risks, and Rewards&quot;, Published by John Wiley &amp; Sons., Islamic Finance Journal, Autumn (2005).##[10]            Kathryn F.S., (1997), &quot;The Art of Short Selling&quot;, John Wiley Press.##[11]            Lilico A., (2009). &quot;The Role and Regulation of Short Selling&quot;, Staff Working Paper.&quot;Islamic Alternatives to Short Selling&quot;, Malaysian ICM, Vol 4, No 1.##[12]            - Maulana taqi usmani, &quot;Salam and Istisna&quot;, an online publication by accountancy.com.pk.##[13]            Murabahah (2013). (Operational Requirements), Bank Negara Malaysia, Concept Paper, 25 April (2013).##[14]             - (2008) &quot;The Arboon Sale, &quot; Shariah capital inc.##[15]            - (1997), &quot;The Salam Sale Contract the Publications Series of Tadamon Islamic Bank.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تحلیل دیدگاه سهامداران بزرگ به عمل واگذاری بلوکی سهام برای تأمین مالی بنگاه به روش مچینگ (مورد مطالعه: شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران)</TitleF>
+				<TitleE>Analysis of big Shareholdersâ Perspective on Block Divestiture of Shares in Business Financing Through Matching Method (Tehran Stock Exchange as A Case Study)</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف اصلی پژوهش حاضر، تحلیل دیدگاه سهامداران بزرگ به عمل واگذاری بلوکی سهام برای تأمین مالی بنگاه در بورس اوراق بهادار تهران است. برای این منظور، نمونه‌ای متشکل از 102 شرکت پذیرفته شده در بورس اوراق بهادار تهران طی سال‌های 1382 تا 1391 بررسی شده است. برای آزمون این دیدگاه از روش‌های همسان‌سازی بر اساس نمره گرایش (مچینگ) و رگرسیون لاجیت استفاده می‌گردد. نتایج به دست آمده ضمن تأیید دیدگاه مثبت و معنادار برخی از سهامداران بزرگ نسبت به واگذاری، بیانگر تأثیر منفی بزرگترین سهامدار، به دلیل محدودیت در فرصت‌های واگذاری، بر سیاست‌های بنگاه است. بنابراین، در صورت وجود فرصت‌های مناسب برای واگذاری، سهامداران از هر گونه ممانعت از این فعالیت، جلوگیری می‌نمایند.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>The purpose of this study is to investigate the big shareholdersâ perspective on block divestiture of shares in business financing through propensity score matching method in Tehran stock exchange. The statistical population of this study includes all of listed companies in Tehran stock exchange. 102 companies were examined from 2003 to 2012 and their data was collected through website of Tehran stock exchange and software of Novin Rahavard. In order to test the hypotheses, Logistic regression and matching based on the attitude score methods were used. The results of this study revealed that attitudes of big shareholders toward divestiture influence business policies negatively. As a result, shareholders seek to eliminate obstacles of appropriate divestiture opportunities.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>39</FPAGE>
+						<TPAGE>64</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>راضیه</Name>
+						<MidName></MidName>		
+						<Family>صادق فلاح</Family>
+						<NameE>razieh</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>sadeghfalah</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه اصفهان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>rraazziieehh@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>حسین</Name>
+						<MidName></MidName>		
+						<Family>رضایی دولت ابادی</Family>
+						<NameE>hoseyn</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Rezaie Dolatabadi</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه اصفهان</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>ho.rezaie@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>ساختار مالکیت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>واگذاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>رگرسیون لاجیت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نمره گرایش</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>منابع##[1]     احمدیان، وحید و آقایی، محمدعلی. (1392). بررسی تأثیر نوع بزرگترین سهامدار بر سیاست‌های تقسیم سود شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، فصلنامه علمی-پژوهشی مدیریت دارایی و تأمین مالی، سال 1، شماره 3، صص 49-66.##[2]     اولادحسین، زهرا. (1389). تأثیر ترکیب هیات مدیره و سایر عوامل منتخب بر خط مشی تقسیم سود شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، پایان نامه کارشناسی ارشد رشته حسابداری، دانشگاه اصفهان.##[3]     جانانی، لیلا؛ مرادیان، سیامک؛ احمدیه، حمید؛ محمد، کاظم؛ گلستان، بنفشه و فروزانفر، محمدحسین. (1389). مقایسه نتایج دو روش جراحی ویترکتومی اولیه با و بدون باند دورتادوری در جداشدگی شبکیه بعد از عمل آب مروارید با استفاده از تحلیل آماری نمره گرایش، مجله چشم پزشکی بینا، دوره16، شماره2، صص 100-107.##[4]     خدادادی، ولی؛ رشیدی باغی، محسن؛ قربانی، رامین و کاویانی، مریم. (1392). تأثیر ساختار مالکیتی بر ارتباط بین جریان­های نقد آزاد و استفاده بهینه از دارایی­ها، فصلنامه علمی-پژوهشی مدیریت دارایی و تأمین مالی، سال1، شماره1، صص 93-108.##[5]     روان­مهر، نگار. (1390). تأثیر حاکمیت شرکتی، ساختار مالکیت و موجودی نقد بر ارزش شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، پایان نامه کارشناسی ارشد مدیریت مالی، دانشگاه اصفهان.##[6]     گجرانی، دامودار. (1385). مبانی اقتصاد سنجی، ترجمه حمید ابریشمی، جلد اول، تهران: دانشگاه تهران.##[7]     مشایخ، شهناز و ماه آور پور، راضیه. (1387). بررسی اثرات تمرکز مالکیت بر عملکرد شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، مطالعات تجربی حسابداری مالی، شماره 23،صص 107-122.##[8]   Cooney, M. R., Finn, F., &amp; Karl, A. (2004). Australian Divestiture Activity: An Examination of Gains to Sell-Off Announcements. Australian Journal of Management, 29(1), pp. 135-151.##[9]   F.Christensen, P. (1998). Performance and Divestment of State-Owned Enterprises in Ghana. Public Administration and Development ,18,pp.281-293.##[10]            Hanson, R. C., &amp; Song, M. H. (1997). Managerial Ownership, Board Structure, and the Division of Gains in Divestitures. Financial Management Association&#039;s annual meeting , pp. 1-23.##[11]            Hearth, D., &amp; Zaima, J. K. (1984). Voluntary Corporate Divestitures and Value. Financial Management, 13(1),pp.10-16.##[12]            Hillier, D., McColgan, P., &amp; Werema, S. (2009). Asset Sales and Firm Strategy: an Analysis of Divestitures by UK Companies. The European Journal of Finance, 15(1), 71-87.##[13]            Lim, M., How, J., &amp; Verhoeven, P. (2014). Corporate Ownership, Corporate Governance Reform and Timeliness of Earnings: Malaysian evidence. Journal of Contemporary Accounting &amp; Economics, 10(1), pp.32-45.##[14]            Pindado,J., &amp; Torre ,C (2008). Financial Decisions as Determinants of Ownership Structureevidence From Spanish Family Controlled Firms. Managerial Finance, 34(12), pp.868-885.##[15]            Rahman, N., Nguyen, P &amp; Zhao.R (2013). Ownership Structure and Divestiture Decisions Evidence from Australian Firm. International Review of Financial Analysis, 34, pp. 181- 970.##[16]            Singh, M., Mathur, I., &amp; Gleason, K. C. (2000). Wealth Effects for Acquirers and Divestors Related to Foreign Divested Assets. International Review of Financial Analysis, 9(1), 5-20.##[17]            Shi, L., Owen, S., &amp; Yawson, A. (2010). Divestitures, Wealth Effects and Corporate Governance. Accounting &amp; Finance, 50(2), pp.389-415.##[18]            Thompson, S., Haynes, M &amp; Wright, M. (2000). The Determinants of Corporate Divestment in the UK. International Journal of Industrial Organization, 18, pp. 1201–1222.##[19]            Thompson, S., Haynes, M &amp; Wright, M. (2002). The Determinants of Corporate Divestment: Evidence from a Panel of UK Firms. Journal of Economic Behavior &amp; Organization, 52, pp. 147–166.##[20]            Thompson, S., Haynes, M &amp; Wright, M. (2003). THE Impact of Divestment on firm Performance: Empirical Evidence from a Panel of UK Companies. The Journal of Industrial Economics , l (2) ,pp. 173-196.##[21]            Ullrich, S., Wirtz, B. W., &amp; Defren, T., (2012). Divestment-Management: Success Factors in the Negotiation Process of a Sell-off. Long Range Planning, 45(4), pp.258-276.##[22]            Zeckhauser, R.J., &amp; Pound, J. (1990). Are Large Shareholders Effective Monitors? An Investigation of Share Ownership and Corporate Performance.The National Bureau of Economic Research, pp. 149-180.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تأثیر تنوع‌سازی کسب و کار بر عملکرد و ارزش شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران به تفکیک درجه تمرکز صنعتی</TitleF>
+				<TitleE>Business diversification effects on performance and value of listed companies in Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>درسال‌های اخیر، ارتباط بین عملکرد و تنوع شرکت موضوع مهم تجربی در مدیریت مالی شده است. استراتژی‌های تنوع در کسب و کار شرکت‌ها می‌توانند توازن رقابتی یک صنعت را تحت تأثیر قرار دهند. هدف این مقاله بررسی تأثیر تنوع‌سازی کسب‌وکار بر عملکرد و ارزش شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران است. برای دستیابی به این هدف از شاخص هرفیندال_هریشمن برای اندازه‌گیری تنوع‌سازی کسب‌وکار، برای ارزیابی عملکرد از شاخص کیوتوبین و برای ارزش شرکت از ارزش بازار هرسهم در پایان سال استفاده گردیده است. نمونه مورد بررسی شامل 125 شرکت در غالب 7 صنعت، در دوره زمانی 1381-1390 است. به منظور بررسی صحت فرضیه‌های پژوهش، از رگرسیون چندمتغیره مبتنی بر داده‌های تلفیقی به روش حداقل مربعات تعمیم یافته (EGLS) استفاده شده است. نتایج حاصل از آزمون فرضیه‌های پژوهش بیانگر این است که بین شاخص هرفیندال_هریشمن و عملکرد شرکت‌های مورد بررسی در صنایع رقابتی رابطه مستقیم و معنادار، در صنایع نیمه‌متمرکز رابطه معکوس و معنادار و در صنایع متمرکز رابطه معکوس و غیرمعناداری وجود دارد. و بین شاخص هرفیندال_هریشمن و ارزش شرکت‌های مورد بررسی در صنایع رقابتی، نیمه متمرکز و متمرکز رابطه معکوس و غیرمعناداری وجود دارد. در نتیجه می‌توان گفت که تنوع‌سازی کسب و کار، بر عملکرد شرکت‌های مورد پژوهش تأثیر مثبت و معنادار و بر ارزش شرکت‌های مورد پژوهش تأثیر منفی و غیرمعناداری داشته است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>In recent years, the relationship between performance and firm diversification become as an important empirical matter. The diversity strategies in companyâs business are able to affect the competitive balance of an industry. The aim of this study, investigate the effect of business diversification on performance and value of accepted firms in Tehranâs Stock Exchange. To achieve this goal, the Herfindahl-Hryshmn index and TobinQ index were used to assess the business diversification and the companyâs value from the market value in each year, respectively. This sample includes 125 accepted firms in Tehranâs stock exchange within 7 industries, in the periods of 1381-1390. In order to verify the hypothesis, a multiple regression based on panel data by Estimated Generalized Least Square (EGLS) was used. The results from the study hypothesis indicate that there is significant and direst relationship between Herfindahl _ Hryshmn index and the performance of studied firms in comparative industries, in semi concentrated industries, there is a negative relationship between Herfindahl _ Hryshmn index and the performance of studied firms, but not significant. Also there is a negative relationship between Herfindahl _ Hryshmn index and the value of studied firms in competitive, concentrated and semi-concentrated industries, but are not significant. In conclusion we can say that the business diversification have an significant and positive effect of performance and have non-significant and negative effects on value of studied firms.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>65</FPAGE>
+						<TPAGE>86</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سمانه</Name>
+						<MidName></MidName>		
+						<Family>شاهرضایی</Family>
+						<NameE>Samane</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>shahrezaei</FamilyE>
+						<Organizations>
+							<Organization></Organization>
+						</Organizations>
+						<Universities>
+							<University></University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>حمزه</Name>
+						<MidName></MidName>		
+						<Family>دیدار</Family>
+						<NameE>hamze</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>didar</FamilyE>
+						<Organizations>
+							<Organization></Organization>
+						</Organizations>
+						<Universities>
+							<University></University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>h.didar@urmia.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محمد</Name>
+						<MidName></MidName>		
+						<Family>ایمانی برندق</Family>
+						<NameE>MOHAMMAD</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>IMANI BARANDAGH</FamilyE>
+						<Organizations>
+							<Organization></Organization>
+						</Organizations>
+						<Universities>
+							<University></University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>حمزه</Name>
+						<MidName></MidName>		
+						<Family>دیدار</Family>
+						<NameE>hamze</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>didar</FamilyE>
+						<Organizations>
+							<Organization></Organization>
+						</Organizations>
+						<Universities>
+							<University></University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>h_didar@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>تنوع‌سازی کسب و کار</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>عملکرد</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ارزش شرکت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شاخص هرفیندال_هریشمن</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>منابع##[1]     برزنده، محمد. (1376). &quot;اثر متغیرهای کلان اقتصادی بر شاخص قیمت سهام&quot;. پایان نامه کارشناسی ارشد رشته اقتصاد دانشگاه علامه طباطبایی.##[2]     تهرانی، رضا؛ بابایی زکیلی، محمدعلی؛ کریمی، کیانا. (1386)، &quot;تأثیر استراتژی تنوع بر عملکرد مالی شرکت­های تولیدی عضو بورس اوراق بهادار تهران&quot;. تحقیقات مالی: بهار و تابستان 1387، صص 40-21.##[3]     جوادی، علیرضا. (1386). &quot;بررسی رابطه بین هموارسازی سود و ارزش شرکت&quot;. پایان‌نامه کارشناسی ارشد دانشگاه مازندران.##[4]     حساس یگانه، یحیی؛ مرادی، محمد؛ اسکندر، هدی: 1387، &quot;بررسی رابطه بین سرمایه­گذاران نهادی و ارزش شرکت&quot;. بررسی­های حسابداری و حسابرسی: شماره 52، صص 122-107.##[5]     معمارنژاد، عباس؛ حسینی، سید شمس­الدین؛ خطابی، ساناز .( 1390). &quot;ارزیابی ساختار و عملکرد بازار خودروی سواری در ایران&quot;. فصلنامه مدلسازی اقتصادی: سال سوم، زمستان 1390، صص 120-103.##[6]     نمازی، محمد؛ زارع حسین­آبادی، علی، غفاری، محمد. (1391). &quot;بررسی ارتباط بین تغییرات در موجودی کالا، سودآوری و ارزش شرکت­های پذیرفته شده در بورس اوراق بهادار تهران&quot;. مجله پژوهش­های حسابداری مالی: سال چهارم، شماره2، تابستان 91.##[7]     یاوری، کاظم؛ اشرف­زاده، حمیدرضا؛ احمدزاده، خالد. (1388). &quot;متنوع سازی صادرات و بهره‌وری در صنایع کشور&quot;. فصلنامه پژوهش­های اقتصادی: پاییز 1389، صص 73-53.##[8]   Anil, I. Yigit, I. (2011). The Relation Between Diversification Strategy and Organiziational Performance: A Research on Componies Registered to The Istanbul Stoch Exchange Market. Procedia Social and Behavioral Scienes 24 (2011). 1494-1509.##[9]   Berger, A. Hasan, I. Zhou, M. (2010). The Effects of Focus Versus Diversification on Bank Performance: Evidence Chinese Banks. Journal of Banking &amp; Finance 34 (2010). 1417-1435.##[10]        Change, SH. Wang, CH. (2007). The Effect Product Diversification Strategies on the Relationship Between International Diversification and Firm Performance. Journal of World Business 42(2007). 61-79.##[11]        Chen, S. Ho, K. (2000). Corporate Diversification, Ownership Structure, and Firm Value the Singapore Evidence. International Review of Financial Analysis 9(2000). 315-326.##[12]        Fauvari, Larry. Houston, Joel. Naranjo, Andy(2004). Cross- Contry Evidence on the Value of Corporate Industrial and International Diversification (2004). Journal of Corporate Finance. 729-752.##[13]        Fukui, Y. Ushijima, T. (2007). Corporate Diversification, Performance, and Restructuring in the Largest Japonese Manfactorers. J.Japonese Int. Economies 21 (2007). 303-323.##[14]        Huszar, Z. Peek, J. (2009). The Role of Financial Synergies in Corporate Diversification.##[15]        Lamont, Awen.A. Polk, Chiristopher (2002). Dose Diversification Destroy Vlu? Evidens from the Industry Shocks. Journal of Financial Economics. 51-77.##[16]        Lin, j. Barry. Pantzalis, Chiristos. Pork, Jung Chul. (2007). Corporate Use of Deriveatives and Excess Value of Diversification. Journal of Banking &amp; Finance.889-913.##[17]        Kang, K. Lee, S. Yang, H. (2011). The Effects of Product Diversification on Firm Performance and Complemenarities between Products. International Journal of Hospitality Managemebt 30(2011). 409-421.##[18]        Lee, B. Leonli, M. (2012). Diversification and Risk-Adjusted Performance: Aquantile Regression Approach. Journal of Banking &amp; Finance 36(2012). 2113-2157.##[19]        Lugman, Y. Abimbola, W. Keith, S. (2013). Impact of Business Diversification on South Africa Contraction Companies Corporate Performance. Journal of Financial Management of Peroperty and Construction. Vol 18 Iss: PP 110-127##[20]        Qian, G. (1999). Multinationality, Product Diversification, and Profitability of Emerging US-Small and Medium Size-Enterprises. Journal of Business Verturing 17(2002). 611-633.##[21]        Santos, B Marselo. Errunza, R Vihang. Miller Darius P (2008). Dose Corporate International Destroy Value? Journal of Banking &amp; Finance (2008). 2716-2724.##[22]        Tastan Boz, I. Yigit, I. Anil, I. (2013), The Relationship between Diversification Strategy and Organizational Performance: A Research intented for Comparing Belgium and Turkey. Vol 99. PP 997-1006.##[23]        Wade, M. Gravill, J. (2003). Diversification and Performance of Japanese It Subsidiares: A Resource- Baseed view. Information &amp; Management, March2003. 305-316.##[24]        Singh, M. Davidson, W. Suchar, J. (2007). Corporate Diversification Strategices and Capital Structure. The Quarterly of Economics and Finance 43(2007). 147-16##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی تأثیر کیفیت افشا بر رابطه بین وجه نقد آزاد و ارزش شرکت</TitleF>
+				<TitleE>Investigation of the Impact of Disclosure Quality on the Relationship between free Cash Flow and Firm Value</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>نگهداری وجوه نقد مازاد بر نیاز شرکت باعث سوء استفاده از وجوه و در نتیجه کاهش ارزش شرکت می‌شود. بدین منظور باید وجوه نقد را به اندازه مورد نیاز و در حد بهینه در شرکت نگهداری کرد و از طرفی برای جلوگیری از سوء استفاده باید نتایج حاصل از عملکرد مدیران شرکت افشا شود. مقاله حاضر تأثیر کیفیت افشا بر رابطه بین وجوه نقد آزاد و ارزش شرکت را با در نظر گرفتن فرصت رشد شرکت بررسی می‌کند. بدین منظور نمونه آماری شامل 70 شرکت پذیرفته شده در بورس اوراق بهادار تهران طی سال‌های 1383 تا 1391 بررسی شد. برای آزمون فرضیه‌ پژوهش مدل رگرسیون چند متغیره استفاده شد. یافته‌های پژوهش بیان می‌دارد زمانی که کیفیت افشای شرکت بالا باشد و شرکت فرصت رشد بالایی داشته باشد، جریان‌های نقد آزاد تأثیر مثبت و قوی‌تری بر ارزش شرکت دارند.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Holding cash surplus to requirements of a firm, will lead to misuse of the funds. Therefore the amount of cash holding in the firm must be optimized at the level itâs needed in the firm. Also result of managersâ performance must be disclosed in order to prevent misuse. This paper examines the impact of disclosure quality on the relationship between free cash flow and firm value. For this purpose, a sample of 70 firms listed in Tehran Stock Exchange during the years 1383 to 1389 were studied. The multivariate regression model was used to test the research hypotheses. The findings suggest that when the disclosure quality is high in a firm, and it has high growth opportunities, free cash flows have a strong and positive effect on the firm value.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>87</FPAGE>
+						<TPAGE>98</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>جواد</Name>
+						<MidName></MidName>		
+						<Family>مرادی</Family>
+						<NameE>Javad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Moradi</FamilyE>
+						<Organizations>
+							<Organization></Organization>
+						</Organizations>
+						<Universities>
+							<University></University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>jmoradi2005@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>هاشم</Name>
+						<MidName></MidName>		
+						<Family>ولیپور</Family>
+						<NameE>Hashem</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>valipour</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه فیروزآباد</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه فیروزآباد</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>h.valipour@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مهدی</Name>
+						<MidName></MidName>		
+						<Family>خادمی</Family>
+						<NameE>Mehdi</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Khademi</FamilyE>
+						<Organizations>
+							<Organization></Organization>
+						</Organizations>
+						<Universities>
+							<University></University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email></Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>افشا</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>وجه نقد آزاد</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>فرصت رشد</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ارزش شرکت</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>منابع##[1]     ایزدی‌نیا، ناصر؛ رساییان، امیر. (1389). ابزارهای نظارتی راهبری شرکتی، سطح نگهداشت وجه نقد و عملکرد شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، فصلنامه پژوهش­ها و سیاست‌های اقتصادی، شماره55، صص 154- 141.##[2]     تقوی، مهدی؛ جبارزاده کنگرلویی، سعید و خدایاریگانه، سعید. (1389). تبیین رابطه هزینه­های نمایندگی و ارزش شرکت با مدیریت سود در شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، مجله مهندسی مالی و مدیریت پورتفوی، شماره 3، ص113.##[3]     جلالی، فاطمه. (1387). حاکمیت شرکتی در حرفه حسابرسی، ماهنامه حسابدار، شماره 196، صص10-3.##[4]     سینایی، حسنعلی؛ سلگی، محمد و محمدی، کامران. (1390). تأثیر فرصت‌های رشد بر رابطه بین ساختار سرمایه، سود تقسیمی و ساختار مالکیت با ارزش شرکت، مجله پژوهش­های حسابداری مالی، شماره 10، صص 102-87.##[5]     قربانی، سعید و عدیلی، مجتبی. (1391). نگهداشت وجه نقد، ارزش شرکت و عدم تقارن اطلاعاتی، مجله دانش حسابداری، شماره 8، صص149-131.##[6]     نمازی، محمد. (1384). بررسی کاربردهای تئوری نمایندگی در حسابداری مدیریت، مجله علوم انسانی و اجتماعی دانشگاه شیراز، دوره 22، شماره2، صص 164-147.##[7]     نوروش، ایرج؛ کرمی، غلامرضا و وافی­ثانی، جلال. (1388). بررسی رابطه سازوکارهای نظام راهبردی شرکت و هزینه­های نمایندگی شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، فصلنامه تحقیقات حسابداری و حسابرسی، شماره1، صص 27-4.##[8]   Gursoy, G., and Aydogan, K., (2002), Equity Ownership Structure, Risk Taking, and Performance, Emerging Markets Finance &amp; Trade. Vol 38. Pp6-25.##[9]   Huang, P., and Zhang. Y., (2012), Does Enhanced Diclosure Really Reduce Agency Costs? Evidence From Diversion of Corporation Resources, Journal of the Accounting Review 87(1): pp 199-229.##[10]            Hyung, Joo., and Ha., (2011), Agency Costs of Free Cash and Conditional Conservatism.Oklahoma State University.##[11]            Lopez, I., and Vecente, C., (2010), Do Leverage, Dividend Payout, and Ownership Concentration Influence Firms Value Creation?, Emerging Markets Finance &amp; Trade, Vol 46, PP 80-94.##[12]            Martinz-Sola, C., Garcia-Truel., P.J. and Martinz-Solano, P. (2008), Corporate Cash holding and Firm Value, Journal of Financial Economics, Vol 48.##[13]            Pinkowits, L., Stuls, R., and Williamson, R., (2006), Does the Contribution of Corporate Cash Holding and Dividends to Firm Value Depend on Governance? A Cross-Country Analysis, Journal of Finance 61(6): pp 2725-2752.##[14]            Popova, T., Georgkopoulos, G., Sotiropoulos, I., and asilriou.,V. (2013), Mandatory Disclosure and its Impact on the Company, International Business Research, 6(5): pp 1-16.##[15]            Titman, S., K. C. J. Wie, and F. Xie. (2004), Capital Investments and Stock Returns, Journal of Financial and quantitative Analysis, 39(4): pp 677-700.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تأثیر اعتبار هیأت مدیره بر رابطه بین هزینه‌های نمایندگی و بازده غیرعادی انباشته در شرکت‌های بیش(کم) سرمایه گذار</TitleF>
+				<TitleE>The Effect of CEO Reputation on Relationship between Agency Costs and Cumulative Abnormal Returns in Firms over (under)Investment</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>یکی از اصول مهم حاکمیت شرکتی، هیأت مدیره شرکت است که می‌تواند به گونه‌های مختلفی بر عملیات شرکت و نتایج آن، تأثیر بگذارد. یکی از مباحث موجود در زمینه موضوع هیأت مدیره، بر مسأله اعتبار هیأت مدیره تمرکز دارد. هدف از این پژوهش بررسی اثر اعتبار هیأت مدیره بر رابطه بین هزینه‌های نمایندگی و بازده غیرعادی انباشته در شرکت‌های بیش وکم سرمایه‌گذار است. در این پژوهش از اطلاعات جمع‌آوری شده 77 شرکت پذیرفته شده در بورس اوراق بهادار تهران طی سال‌های 1383 لغایت 1391 استفاده شده است. از نسبت مخارج سرمایه‌ای به عنوان شاخص اندازه گیری بیش (کم) سرمایه‌گذاری و از جریان نقدی آزاد و تعامل فرصت‌های رشد با جریان نقدی آزاد، به عنوان شاخص‌های هزینه نمایندگی استفاده شده است. روش این پژوهش، روش همبستگی و روش تحلیل، رگرسیون چند متغیره با الگوی داده‌های تلفیقی است. یافته‌های پژوهش نشان داد که هزینه‌های نمایندگی با بازده غیرعادی انباشته رابطه منفی و معنادار دارد و تأثیر اعتبار هیأت مدیره و عناصرآن (مدت تصدی هیأت مدیره، استقلال هیأت مدیره، عملکرد هیأت مدیره) بر این رابطه مثبت و معنادار است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>One of the most important principles of corporate governance, the CEO of the Company on the Company&#039;s operations and results could be the different ways it affects. One of the current discussions on the theme of the CEO, focused on the issue of the CEO reputation.The goal of this research is evaluating the effect of CEO reputation on relationship between agency costs and cumulative abnormal returns in firms over(under)investment. In this research, information was collected from company listed in TSE during 1383 -1391. capital investment ratio as the indicator of measuring over(under)investment, free cash flow and interaction between growth opportunities and free cash flow as the indicators of agency costs. research method was descriptive correlation and for hypothesis test of method pooled Least Squares . the research finding show the negative and significant relationship between agency costs and cumulative abnormal returns and effect CEO reputation and factors(CEO Tenure, CEO outsider,CEO perform) on the relationship are positive and significant.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>99</FPAGE>
+						<TPAGE>122</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>شهین</Name>
+						<MidName></MidName>		
+						<Family>حیدرزاده</Family>
+						<NameE>shahin</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>heidarzadeh</FamilyE>
+						<Organizations>
+							<Organization></Organization>
+						</Organizations>
+						<Universities>
+							<University></University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>heidarzadeh.sh@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>فرزین</Name>
+						<MidName></MidName>		
+						<Family>رضایی</Family>
+						<NameE>Farzin</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Rezaei</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه آزاد اسلامی قزوین-باراجین</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه آزاد اسلامی قزوین-باراجین</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>farzin.rezaei@qiau.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>اعتبار هیأت مدیره</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بیش سرمایه‌گذاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>کم سرمایه‌گذاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بازده غیرعادی انباشته</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>هزینه‌های نمایندگی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>منابع##[1]  برادران حسن زاده، رسول؛ بادآور نهندی، یونس و نگهبان، لیلا. (1393). تأثیر محدودیت‌های مالی و هزینه‌های نمایندگی بر کارایی سرمایه‌گذاری. مجله پژوهش‌های حسابداری مالی، سال ششم، شماره اول، شماره پیاپی (19)، صص. 89-106.##[2]  تهرانی، رضا و حصارزاده، رضا. (1388). تأثیر جریان‌های نقد آزاد و محدودیت‌های تأمین مالی بر بیش سرمایه‌گذاری و کم سرمایه‌گذاری. پژوهش‌ها حسابداری، ش3، ص. 50-67.##[3]  تهرانی، رضا و نوربخش، عسکر. (1385). مدیریت سرمایه‌گذاری. تهران: انتشارات نشر دانش.##[4]  ثقفی، علی و صفرزاده، محمدحسین. (1390). کیفیت سود و ویزگی‌های هیأت مدیره: تحلیل تجربی. دانش حسابرسی، سال یازدهم، شماره 44، صص. 73-94.##[5]  ثقفی، علی و معتمدی فاضل، مجید. (1390). رابطه میان کیفیت حسابرسی و کارایی سرمایه‌گذاری در شرکت‌های با امکانات سرمایه‌گذاری بالا. مجله پژوهش‌های حسابداری مالی، سال سوم، شماره چهارم، شماره پیاپی (10)، صص. 1-14.##[6]  جانقلی، مهدی. (1393). رابطه مدت تصدی هیأت مدیره با ریسک اطلاعات، هزینه نمایندگی و ارزش بازار سهام شرکت‌ها. پایان نامه کارشناسی ارشد حسابداری به راهنمایی دکتر فرزین رضایی. دانشگاه آزاد اسلامی واحد قزوین.##[7]  دستگیر، محسن و یوسفی گورتی، وجیهه. (1393). بررسی ارتباط بین سود یا زیان شناسایی نشده ناشی از تورم، جریان‌های نقد آتی و بازده غیرعادی شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران. فصلنامه علمی-پژوهشی مدیریت دارایی و تأمین مالی، سال دوم، شماره چهارم، شماره پیاپی (4)، صص. 75-98.##[8]  رضایی، فرزین و مهدوی دوست، محبوبه. (1391). تأثیر شاخصه‌های راهبری شرکتی و ساختار مالکیت بر هزینه‌های نمایندگی. پژوهش‌ها حسابداری و حسابرسی، ش14.##[9]  سید نزاد فهیم، سید رضا و آقایی، محمد علی. (). نقش استقراض در سودآوری شرکت‌ها، انجمن‌های سرمایه، فارکس.##[10]            عظیمی، حسین. (1375). نقش سیستم‌های حسابداری در توسعه اقتصاد ملی. ماهنامه حسابدار، ش 10، ص3-10.##[11]        مدرس، احمد و رضا، حصارزاده. (1387). کیفیت گزارشگری مالی وکارایی سرمایه‌گذاری. فصلنامه بورس اوراق بهادار، 1 (2): 85-116.##[12]            مدرس، احمد؛ حسینی، مجتبی و رئیسی، زهره. (1389). بررسی اثر سهامداران نهادی به عنوان یکی از معیارهای حاکمیت شرکتی بر بازده سهامداران شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران. پژوهشنامه اقتصادی، صص. 223-250.##[13]          Abdul Rahman, R., Wan, M., and Zaki Nik, S. (2011). A Panel Data Analysis on The Effects of Independent Directors Characteristics, Ethnicity and The Level Of Risks on Discretionary Accruals in Malaysian Manufacturing Companies. AFAANZ Conference.##[14]          Bhagat, S, and Bernard B. (2000). Board Independence and Long-Term Firm Performance, Working Paper, University of Colorado.##[15]          Biddle, G. C., Hilary, G. and Verdi, R. S. (2009). How Does Financial Reporting Quality Improve Investment Efficiency? Journal ofAccounting and Economics, 48: 112-131.##[16]          Chen, Chiung-Jung and Joseph Yu, Ch. (2012). Managerial Ownership, Diversification, and Firm Performance: Evidence from an Emerging Market. International Business Review, 21: 518-534.##[17]          ElMir, a. &amp; Seboui, s. (2008), Corporate Governance and the Relationship between EVA and Created Shareholder Value, Corporate governance, 8: 46-58##[18]          Fama, E. F. and Jensen, M. C. (1983). Separation of Ownership and Control. Journal of Law and Economics, 16: 301-325.##[19]          Garcia-Ramos, R., and Garcia-Olalla, M. (2011). Board Characteristics and Firm Performance in Public Founder and Non-founder-led Family Businesses. Journal of Family Business Strategy, pp. 220-231.##[20]          Hermalin, B. E. and Weisbach, M. S. (1991). The Effects of Board Composition and Direct Incentives on Firm Performance. Financial Management. Financial Management Association, 20: 101–112.##[21]          Higgins. H. N. &amp; J. Beckman (2006). Abnormal Returns of Japanese Acquisition Bidders-Impact of Pro-M&amp;A Legislation in the 1990s, Pacific-Basin Finance Journal, Vol. 14, PP.250–268.##[22]          Hubbard .r. (1998). Capital–Market Imperfection and Investment. Journal of Economic Literature-36,193-225.##[23]          Jensen, M., (1986). Agency Costs of Free Cash Flow, Corporate Finance, and Takeovers. American Economic Review 76, 323-329.##[24]          Milbourn, T.T., (2003). CEO Reputation and Stock-Based Compensation. J. Financ. Econ. 68, 233–262.##[25]          Morgado, M. J, Pindado. (2000). The Underinvestment and Overinvestment Hypotheses: An analysis using panel data. Instituto Politecnico de Coimbra (Portugal). http://www.ssrn.com.##[26]          Muth, M. M., and Donaldson, L. (1998). Steward Theory and Board Structure: A contingency approach. Corporate Governance, 6: 5-28.##[27]          Opler,t. ,&amp; Titman,S., (1993). The Determinants of Leveraged Buyout Activity: Free Cash Flow vs Financial Distress Costs, Journal Of Finance, 48:1985-1999.##[28]          Richardson S., (2006). Over Investment of Free Cash Flow.##[29]          Schmid, M. M., Oesch, D., and Ammann, M. (2011). Corporate Governance and Firm Value: International Evidence. Journal of Empirical Finance 18, pp.36-55.##[30]          Verdi, R. (2006). Financial Reporting Quality and Investment Efficiency. Unpublished PhD Dissertation, Faculties of the University of Pennsylvania in Partial Fulfillment, OR Working paper, Available at SSRN:http://www.ssrn.com.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE></ARTICLES>
+</JOURNAL>
+
+				</XML>
+				

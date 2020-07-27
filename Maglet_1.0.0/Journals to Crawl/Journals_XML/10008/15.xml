@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشکده مدیریت دانشگاه تهران</PublisherName>
+				<JournalTitle>مدیریت صنعتی</JournalTitle>
+				<Issn>2008-5885</Issn>
+				<Volume>6</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2014</Year>
+					<Month>06</Month>
+					<Day>22</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Non-Dominated Sorting Genetic Algorithm to inegrated model for R&amp;D members selection</ArticleTitle>
+<VernacularTitle>ارائۀ یک الگوریتم ژنتیک با مرتب‎سازی نامغلوب ـ نسخۀ 2 (NSGA-II) برای مدل یکپارچۀ انتخاب اعضای تیم‎های تحقیق و توسعه</VernacularTitle>
+			<FirstPage>385</FirstPage>
+			<LastPage>410</LastPage>
+			<ELocationID EIdType="pii">51848</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/imj.2014.51848</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>غلامحسین</FirstName>
+					<LastName>نیکوکار</LastName>
+<Affiliation>دانشیار مدیریت سیستم، دانشگاه جامع امام حسین (ع)، تهران، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>یاسر</FirstName>
+					<LastName>علی دادی تلخستانی</LastName>
+<Affiliation>دانشجوی دکتری مدیریت منابع انسانی، دانشگاه آزاد اسلامی واحد قزوین، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محمد</FirstName>
+					<LastName>مهدوی مزده</LastName>
+<Affiliation>استادیار دانشکدۀ مهندسی صنایع، دانشگاه علم و صنعت ایران، تهران، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>سید جلال</FirstName>
+					<LastName>موسوی</LastName>
+<Affiliation>دانشجوی دکتری مهندسی صنایع، گرایش سیستم و بهره‎وری، دانشگاه علم و صنعت ایران، تهران، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2013</Year>
+					<Month>05</Month>
+					<Day>09</Day>
+				</PubDate>
+			</History>
+		<Abstract>An alternative for decreasing risk for knowledge workers is effective &amp; optimized work break.Major performance criteria in R&amp;D based organization is successful projects. Selection of opproporiate members can be a most effect on the projects achievement. But as the selection of R&amp;D special members lead to decrease of risk, repeatative participation of this people in the same project lead to knowledge concentration and achieve organization with serios risks. Therefore attendance to knowledge and quality project angles is important to selection of R&amp;D teams members. In this study, we developed a model based on Non-Dominated Sorting Genetic Algorithm.</Abstract>
+			<OtherAbstract Language="FA">معیار عملکرد اصلی در سازمان‎های مبتنی بر تحقیق و توسعه، عموماً آمار پروژه ­های موفق است. انتخاب مناسب اعضا می‎تواند در موفقیت پروژه‎ها سهم بسزایی داشته باشد، اما همان‎طور که انتخاب افرادی خاص کاهش‎دهندۀ ریسک پروژه می‎شود، حضور مکرر این افراد در پروژه‎های مشابه، سبب تمرکز دانش‎شده و سازمان را با خطری جدی روبه‎رو می‎کند. بنابراین انتخاب اعضای تیم‎های تحقیق و توسعه به نحوی که زوایای کیفی پروژه و دانش سازمان، هر دو کانون توجه قرار گیرند، حائز اهمیت است. در حالت کلی این نوع مسائل جزء مسائل پیچیدۀ حوزۀ تحقیق ­در عملیات به­شمار می­رود. چون معمولاً در واقعیت تعداد ترکیبات ممکن بسیار زیاد است، روش­های بهینه ­سازی مبتنی بر شمارش یک‎به‎یک، از حل جامع این‎گونه مسائل عاجزند. به­ همین ­دلیل از الگوریتم­ های فراابتکاری، مثل الگوریتم ژنتیک، شبیه‎سازی تبرید، شبکه­ های عصبی و... برای حل استفاده می­شود. در پژوهش پیش رو، مدلی بر این اساس معرفی‎شده و یک الگوریتم ژنتیک با مرتب‎سازی نامغلوب ـ نسخۀ 2 برای حل آن توسعه داده می‎شود.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">الگوریتم ژنتیک با مرتب‎سازی نامغلوب ـ نسخۀ 2 (NSGA-II)</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">انتخاب اعضا</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">گروه تحقیق و توسعه (R&amp;D)</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدیریت دانش</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تصمیم‎گیری چندهدفه</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://imj.ut.ac.ir/article_51848_0072adf14022b7b40235c8a863ed9bf0.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

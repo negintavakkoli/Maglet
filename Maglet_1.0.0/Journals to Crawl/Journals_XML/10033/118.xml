@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-25T02:07:19Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22048">http://saffron.torbath.ac.ir/?_action=export&amp;rf=summon&amp;issue=4519</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-11-01</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>SUPPLEMENT</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Saffron Agronomy and Technology-Book of Abstracts: 2013-2016</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>پرویز</given_name>
+												<surname>رضوانی مقدم</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علیرضا</given_name>
+												<surname>کرباسی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>معین</given_name>
+												<surname>توسن</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>فائزه</given_name>
+												<surname>قراری</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>حسن</given_name>
+												<surname>فیضی</surname>
+											</person_name><person_name contributor_role="author" sequence="6">
+												<given_name>تکتم</given_name>
+												<surname>محتشمی</surname>
+											</person_name></contributors>
+									<abstract></abstract>
+									<keywords>
+									
+											<keyword>Abstracts</keyword>
+											<keyword>Book</keyword>
+											<keyword>Saffron</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>11</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>78</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_39250_f2c5c707f539e2951e5aa4f001d6ad70.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

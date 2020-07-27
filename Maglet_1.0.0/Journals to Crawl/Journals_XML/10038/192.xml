@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-27T00:20:48Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://www.jiraeg.ir/?_action=export&amp;rf=summon&amp;issue=8941</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-02-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مدل آب زمین‌شناسی - مهندسی ناحیه فرونشست زمین در جنوب باختری تهران (دشت تهران - شهریار)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مسعود</given_name>
+												<surname>محمودپور</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ماشااله</given_name>
+												<surname>خامه چیان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمدرضا</given_name>
+												<surname>نیکودل</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمدرضا</given_name>
+												<surname>قاسمی</surname>
+											</person_name></contributors>
+									<abstract>فرونشست زمین یکی از مهم‌ترین مخاطرات زمین‌شناسی است که ارتباطی تنگاتنگ با توسعه نواحی شهری دارد. برداشت شدید آب زیرزمینی که در اثر توسعه اقتصادی و رشد جمعیت ایجاد می‌شود به عنوان دلیل اصلی فرونشست زمین در بیشتر شهر‌های توسعه یافته بر روی آبخوان‌ها شناخته شده است، به ویژه در مناطقی از نواحی شهری که دارای جمعیت متراکم‌تر و توسعه اقتصادی بیشتر می‌باشند. اولین گام در مطالعات پایه‌ای این پدیده، تهیه مدل آب زمین‌شناسی- مهندسی است. این مدل در ضمن نمایش واحدهای آب زمین‌شناسی و مرزهای آن‌ها بیان کننده ویژگی‌های مکانیکی و فیزیکی آن‌ها نیز می‌باشد. برای تفکیک و انطباق لایه‌های خاک از لاگ‌های زمین‌شناسی و ویژگی‌های ژئوتکنیکی آن‌ها (حدود آتربرگ، رده‌بندی Unified و سرعت موج برشی) استفاده شده است. ثابت‌های الاستیک لایه‌های خاک (مدول برشی، مدول یانگ، مدول حجمی و نسبت پواسون) بر پایه دانسیته خاک برآورد شده و روابط تجربی متداول بدست آمده‌اند. سپس لایه‌های با ویژگی‌های مشابه در یک واحد آب زمین‌شناسی- مهندسی تعریف شده‌اند. بر پایه این مدل، سامانه آبخوان دشت جنوب باختری تهران چند لایه‌ای می‌باشد که دارای سه واحد آبخوان و سه واحد رسی با نفوذپذیری کم است. این پژوهش نشان می‌دهد که ناهمگنی لایه‌های خاک از یک ناحیه به ناحیه دیگر (در محدوده دشت تهران-شهریار، از شهریار تا اسلامشهر) تغییر می‌یابد.</abstract>
+									<keywords>
+									
+											<keyword>مدل آب زمین‌شناسی- مهندسی</keyword>
+											<keyword>فرونشست زمین</keyword>
+											<keyword>آبخوان چند لایه‌ای</keyword>
+											<keyword>دشت تهران- شهریار</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>02</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>17</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_69574_16db59acfe2b36569f0e2428d438a483.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-02-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>پهنه‌بندی استعداد زمین‌لغزش با استفاده از روش منطق‌فازی (مطالعه موردی: بخشی از حوزه‌آبخیز نکارود)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>فاطمه</given_name>
+												<surname>بلالی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>قربان</given_name>
+												<surname>وهابزاده</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حمیدرضا</given_name>
+												<surname>پورقاسمی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>میلاد</given_name>
+												<surname>فروزانفر</surname>
+											</person_name></contributors>
+									<abstract>هدف از این پژوهش، ارزیابی استعداد زمین­لغزش در بخش مرکزی حوزه­آبخیز نکارود واقع در استان مازندران با استفاده از روش منطق ­فازی می­باشد. به این منظور، ابتدا نقاط لغزشی با استفاده از عکس­های هوایی و بازدیدهای میدانی مشخص و در پی آن نقشه پراکنش زمین­لغزش­ها تهیه گردید. سپس هر یک از عامل­های مؤثر بر وقوع زمین­لغزش از قبیل (درجه­شیب، جهت شیب، شکل­شیب، ارتفاع از سطح دریا، سنگ­شناسی، کاربری اراضی، فاصله از گسل، فاصله از جاده و فاصله از شبکه آبراهه) به عنوان یک لایه اطلاعاتی در محیط GIS رقومی و به منظور انجام تحلیل­های مبتنی بر تئوری مجموعه­های فازی، استفاده گردید. تحلیل­های فازی با استفاده از نرم‌افزار Matlab 7.1، پس از تعیین توابع­عضویت برای هر یک از عامل­های تأثیرگذار در وقوع زمین­لغزش، صورت پذیرفت و سپس خروجی این نرم­افزار که درجه حساسیت محاسبه شده برای هر پیکسل در نقشه محدوده مورد مطالعه می­باشد، به محیط Arc Map منتقل و نقشه پهنه­بندی استعداد زمین­لغزش با استفاده از تابع عضویت ­مثلثی تهیه گردید. نتایج ارزیابی نشان داد که نقشه استعداد زمین­لغزش تهیه شده با استفاده از تابع عضویت ­مثلثی، با شاخص­جمع کیفی(4148/0) دارای دقت و صحت بالایی در منطقه مورد ­مطالعه می­باشد.</abstract>
+									<keywords>
+									
+											<keyword>زمین‌لغزش</keyword>
+											<keyword>منطق‌ فازی</keyword>
+											<keyword>تابع ‌عضویت ‌مثلثی</keyword>
+											<keyword>حوزه ‌آبخیز نکارود</keyword>
+											<keyword>GIS</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>02</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>19</first_page>
+										<last_page>30</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_69575_6b5e63df074ef5a0c33f33792743c1fd.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-02-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارائه مدل‌هایی برای تخمین شاخص قابلیت فشردگی(Cc) در خاک‌های ریزدانه</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمدکاظم</given_name>
+												<surname>امیری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>غلامرضا</given_name>
+												<surname>لشکری پور</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>غفوری</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>ناصر</given_name>
+												<surname>حافظی مقدس</surname>
+											</person_name></contributors>
+									<abstract>قابلیت فشردگی&lt;em&gt;(&lt;/em&gt;&lt;em&gt;Compressibility&lt;/em&gt;&lt;em&gt;)&lt;/em&gt; توده خاک یکی از مهمترین پارامترهای خاک می­باشد که برای طراحی­های ژئوتکنیک ضروری است. با توجه به اینکه تعیین شاخص قابلیت فشردگی از آزمایش تحکیم نسبتاً وقت­گیر است محاسبه این شاخص از فرمول­های تجربی بر اساس خصوصیات خاک می­تواند مفید باشد. در طی دهه­های اخیر، چندین رابطه تجربی برای تخمین قابلیت فشردگی با استفاده از پارامترهایی مانند درصد رطوبت طبیعی، حد روانی، شاخص خمیری، وزن مخصوص و دیگر پارامترهای خاک ارائه شده است. در این تحقیق ابتدا بر اساس داده‌های 115 مورد مطالعه از 8 سایت در نقاط مختلف کشور به کمک رگرسیون ساده و چند متغیره روابط تجربی برای ارتباط بین شاخص قابلیت فشردگی و دیگر پارامترهای خاک مانند حد روانی، حد خمیری، شاخص خمیری، نسبت پوکی در حد روانی و نسبت پوکی در حد خمیری پیشنهاد شد. سپس به عنوان روش جایگزین یک مدل شبکه عصبی مصنوعی برای تخمین شاخص قابلیت فشردگیارائه گردید. شاخص قابلیت فشردگی به عنوان تابعی از 5 پارامتر شامل شاخص خمیری، درصد ذرات ریزدانه، نسبت پوکی در حد روانی، نسبت پوکی در حد خمیری و وزن مخصوص مدل شد. در نهایت مدل‌های ارائه شده با هم مقایسه گردید. نتایج نشان داد که مدل شبکه عصبی از عملکرد بهتری نسبت به روابط تجربی دیگر برای پیش­بینی شاخص قابلیت فشردگی خاک‌های ریزدانه برخودار می­باشد.</abstract>
+									<keywords>
+									
+											<keyword>خاک‌های ریزدانه</keyword>
+											<keyword>شاخص قابلیت فشردگی</keyword>
+											<keyword>خصوصیات شاخص خاک</keyword>
+											<keyword>رگرسیون ساده و چند متغیره</keyword>
+											<keyword>شبکه عصبی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>02</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>31</first_page>
+										<last_page>43</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_69576_a8f942d9792285bf3f4c880dd3c99f08.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-02-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی تأثیر شکل و یکنواختی ذرات خاک‌های دانه‌ای بر درصد تخلخل</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>قاسم</given_name>
+												<surname>شه&shy; پری&shy; فر</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رسول</given_name>
+												<surname>اجل لوئیان</surname>
+											</person_name></contributors>
+									<abstract>یکی از اهداف مهم در ساخت جاده­ها و بدنه سدهای خاکی، متراکم ساختن هرچه بیشتر خاک می‌باشد. افزایش تراکم همراه با کاهش پوکی باعث بهبود خصوصیات مهندسی مصالح خاکی نظیر مقاومت و نفوذپذیری می­شود. نسبت پوکی حداقل خاک علاوه بر انرژی تراکم، به خصوصیات مهندسی خاک نیز وابسته می­باشد. از جمله عوامل تأثیرگذار بر خصوصیات خاک‌های دانه‌ای می‌توان به شکل ذرات و ضریب یکنواختی اشاره کرد. از آنجایی که روابط تجربی در مهندسی ژئوتکنیک از اهمیت ویژه­ای برخوردار هستند، بدین لحاظ در تحقیق حاضر سعی بر آن است که رابطه­ی تجربی بین پوکی و پارامترهای مزبور بدست آورده شود. اگرچه مطالعاتی در این زمینه صورت گرفته است ولیکن نتایج آن مطالعات جامع نبوده و از دقت بالایی برخوردار نیستند. در تحقیق حاضر با استفاده از نتایج آزمایشگاهی روابطی جامع و دقیق جهت برآورد پوکی حداقل خاک‌های دانه‌ای نسبتاً یکنواخت ارائه شده است. در این مطالعه چهل و دو نمونه خاک با شکل و ضریب یکنواختی متفاوت تهیه شدند، سپس با استفاده از وسایل اندازه‌گیری دقیق و نمودارهای مقایسه‌ای ضریب گردشدگی و کرویت هر کدام اندازه‌گیری شد و در نهایت با استفاده از 70 درصد از داده­های حاصل آمده، رابطه‌ای برای محاسبه پوکی حداقل بر اساس درجه گرد شدگی، کرویت و ضریب یکنواختی ارائه گردیده است. اعتبارسنجی روابط بدست­آمده نیز با استفاده از مابقی داده‌ها صورت گرفت. نتایج حاصله روندی منطقی و قابل قبول داشت.</abstract>
+									<keywords>
+									
+											<keyword>شکل ذرات خاک</keyword>
+											<keyword>کرویت</keyword>
+											<keyword>گردشدگی</keyword>
+											<keyword>پوکی</keyword>
+											<keyword>ضریب یکنواختی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>02</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>45</first_page>
+										<last_page>55</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_69586_0d7e9dada3272b5206a13b1b82299685.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-02-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی آزمایشگاهی اثر شرایط تنش‌های اعمال‌شده بر روی نحوه شکست دیواره چاه‌های نفت</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سونیا</given_name>
+												<surname>آقایی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهدی</given_name>
+												<surname>حسینی</surname>
+											</person_name></contributors>
+									<abstract>حفر چاه در صنایع مختلف مانند نفت، گاز و معدن همواره با مشکل ناپایداری مواجه بوده و نیاز به‌ صرف هزینه­های زیاد دارد. با کنترل تغییر شکل و شکست در دیواره­ی چاه می­توان به حداقل ممکن ناپایداری رسید. در این مقاله، برای بررسی تغییرشکل و نحوه­ی شکست در دیواره­ی چاه­های نفت، مطالعات آزمایشگاهی به وسیله سلول هوک اصلاح ­شده بر روی نمونه­های استوانه­ای توخالی جدار ضخیم ماسه­سنگ، مارن و آهک­رسی انجام شده است. شرایط تنش اعمال ­شده از مهمترین عوامل در تغییر شکل و نحوه­ی شکست در دیواره چاه است. بنابراین شرایط تنش در دو حالت: در حالت اول تنش محوری ثابت و تنش جانبی متغیر و در حالت دوم تنش جانبی ثابت و تنش محوری متغیر، اعمال شد. نتایج آزمایش­­های انجام شده نشان داد که نحوه­ی شکست و تغییر شکل به شدت وابسته به‌ اندازه و جهت تنش­های اعمال­ شده در دیواره­ی چاه است. نحوه­ی شکست برای نمونه­های ماسه­سنگ و آهک­رسی در دیواره چاه طی شرایط تنش محوری ثابت و تنش جانبی متغیر به­صورت پوسته‌پوسته شدن به سمت داخل گمانه است. در حالت تنش جانبی ثابت و تنش محوری متغیر، نحوه­ی شکست در نمونه­های آهک­رسی و مارن با توزیع تصادفی در سه نقطه از روی دیواره­ی چاه که با یکدیگر زاویه 120 درجه می‌سازند، اتفاق می­افتد.</abstract>
+									<keywords>
+									
+											<keyword>ناپایداری چاه</keyword>
+											<keyword>سلول هوک</keyword>
+											<keyword>تغییرشکل</keyword>
+											<keyword>نحوه‌ شکست</keyword>
+											<keyword>شرایط تنش و نمونه‌های استوانه‌ای توخالی جدار ضخیم</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>02</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>75</first_page>
+										<last_page>69</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_69587_b8e01d5a581cb8d532e4030a49797874.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-02-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی اثر افزودنی‌های‌ پلیمر مایع وینیل استات و کربنات کلسیم میکرونیزه برمدول الاستیسیته خاک ماسه ‌لای‌دار</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی محمد</given_name>
+												<surname>رجبی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی‌رضا</given_name>
+												<surname>حسینی</surname>
+											</person_name></contributors>
+									<abstract>تثبیت و بهسازی خاک یکی از شاخه‌های علم ژئوتکنیک است که با استفاده از آن ویژگی‌های مهندسی و ژئومکانیکی‌ خاک‌های ضعیف (از جمله مقاومت، شکل‌پذیری و ظرفیت‌باربری) را بهبود می‌دهند. در این تحقیق از پودرمیکرونیزه کربنات‌ کلسیم و پلیمر مایع‌ وینیل‌استات به‌عنوان دو ماده افزودنی جهت تثبیت خاک‌ ماسه‌لای‌دار و بررسی تاثیر آن بر مدول‌ الاستیسیته ‌خاک استفاده‌ شده ‌است. به این منظور پس از انجام آزمایش‌های شاخص خاک، پودر میکرونیزه ‌کربنات‌کلسیم و پلی‌وینیل‌استات با درصدهای مختلف 1، 2، 3 و 4 به خاک افزوده ‌شده و طی زمان‌های عمل‌آوری متفاوت آنی، 1، 7، 14 و 28روزه آزمایش ‌مقاومت ‌تراکم‌ تک‌محوری روی نمونه‌های تثبیت‌ شده انجام‌ و مدول الاستیسیته خاک در شرایط مختلف آزمایش، تعیین شده است. همچنین به‌منظور بررسی چگونگی تغییر خصوصیات ساختاری هریک از نمونه‌ها، تصویربرداری SEM روی 3 نمونه از خاک قبل و بعد از اختلاط انجام ‌شده‌ است. طبق نتایج آزمایش‌های انجام شده، به‌طورکلی افزایش مقدار افزودنی تا درصدی معین در یک زمان عمل‌آوری ثابت، باعث افزایش مقدار مدول ‌الاستیسیته‌ شده ‌است. همچنین با افزایش زمان عمل‌آوری در یک درصد ثابت افزودنی، مدول ‌الاستیسیته به‌ مقدار قابل ‌توجهی افزایش می‌یابد. نتایج نشان ‌می‌دهد تاثیر پلی‌‌وینیل‌‌استات بر افزایش مقدار مدول ‌الاستیسیته روی خاک ماسه ‌لای‌دار نسبت به پودر میکرونیزه کربنات‌ کلسیم بیشتر است.</abstract>
+									<keywords>
+									
+											<keyword>پودرمیکرونیزه کربنات کلسیم</keyword>
+											<keyword>پلی وینیل استات</keyword>
+											<keyword>مدول الاستیسته</keyword>
+											<keyword>ماسه‌ لای‌دار</keyword>
+											<keyword>تثبیت خاک</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>02</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>71</first_page>
+										<last_page>83</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_69588_c35214e5f72a818da33fe4cc1da314d8.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-02-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مطالعه تاثیرآلودگی نفت گاز بر رفتار برشی خاک‌های درشت‌دانه</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی محمد</given_name>
+												<surname>رجبی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهدی</given_name>
+												<surname>خداپرست</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مسعود</given_name>
+												<surname>شکری</surname>
+											</person_name></contributors>
+									<abstract>امروزه تغییر ویژگی­های ژئوتکنیکی خاک در نتیجه آلودگی بوسیله مواد نفتی به عنوان یکی از چالش­های مهندسین ژئوتکنیک مورد توجه قرار گرفته است. در این مطالعه در نظر است با انجام یک سری آزمایش برش مستقیم بزرگ مقیاس روی خاک­های درشت دانه شنی آلوده به نفت گاز، تاثیر این آلودگی بر پارامترهای مقاومت برشی و رفتار برشی آنها مورد بررسی قرار گیرد. بر این اساس آزمایش­های برش مستقیم بزرگ مقیاس (30×30 سانتیمتر) در شن خوب دانه‌بندی شده رس­دار در درصد آلودگی‌های 0، 3، 6، 9 و 12 در دو سطح تنش قائم مختلف (معرف اعماق کم و زیاد) و در دو حالت تراکمی متفاوت انجام گرفته است.&lt;br /&gt; نتایج نشان می­دهد در خاک با تراکم کمتر (وزن واحد حجم 17 کیلونیوتن بر متر مکعب)، با افزایش آلودگی زاویه اصطکاک داخلی ابتدا کاهش و سپس در حد معینی ثابت می­ماند. در حالی که در خاک با تراکم بیشتر (وزن واحد حجم 19 کیلونیوتن بر متر مکعب) با افزایش آلودگی، مقدار زاویه اصطکاک داخلی ابتدا ثابت و سپس به مقدار معینی کاهش و نهایتا ثابت می­ماند. همچنین افزایش آلودگی بیش از 9% تاثیری در مقدار زاویه اصطکاک داخلی خاک ندارد. از نقطه نظر چسبندگی خاک نیز در هر دو حالت تراکمی، با افزایش آلودگی (تا 9%) تا حد معینی افزایش می­یابد و بعد از آن ثابت می­ماند. همچنین علی رغم تغییر مقدار زاویه اتساع با درصد آلودگی، در هر دو حالت تراکمی و در سطوح تنش مختلف، رفتار کلی انقباضی یا انبساطی خاک ثابت می­ماند.</abstract>
+									<keywords>
+									
+											<keyword>نفت گاز</keyword>
+											<keyword>خاک شنی</keyword>
+											<keyword>چسبندگی</keyword>
+											<keyword>زاویه اصطکاک داخلی</keyword>
+											<keyword>زاویه اتساع</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>02</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>85</first_page>
+										<last_page>96</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_69589_041dbca0b00238783619cb85e82044ed.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-02-19</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1395</year>
+									</publication_date>
+									<journal_volume>
+										<volume>9</volume>
+									</journal_volume>
+									<issue>شماره 3 و 4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تصحیح روش پردازش تصویر برای تعیین توزیع اندازه خردشدگی حاصل از انفجار در معدن چغارت</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حسن</given_name>
+												<surname>بخشنده امنیه</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>میثم</given_name>
+												<surname>حکیمیان بیدگلی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حمیدرضا</given_name>
+												<surname>مالکی‌نژاد</surname>
+											</person_name></contributors>
+									<abstract>بررسی و پیش­بینی خردایش سنگ توسط عملیات حفاری، از اساسی‌ترین و حساس‌ترین پارامترهای مؤثر بر اقتصاد معدن به ‌شمار می‌رود. معدن چغارت یکی از بزرگ‌ترین معادن سنگ آهن ایران بوده که سالیانه حدود هشت میلیون تن سنگ آهن از آن استخراج می‌شود. در این معدن عملیات­های معدنکاری شامل حفاری، انفجار، بارگیری، باربری و فرآوری به‌ صورت روزانه صورت می‌گیرد. بررسی توزیع دانه­بندی ناشی از عملیات انفجار و در نتیجه، میزان تولید ماشین‌آلات، می‌تواند منجر به ‌کاهش هزینه‌های معدنکاری شود.  روش­های مختلفی برای تعیین میزان خردشدگی ناشی از انفجار وجود داشته و در حال حاضر استفاده از سیستم‌های پردازش تصویر روشی مناسب و مؤثر در ارزیابی خردشدگی محسوب می‌گردد. در این تحقیق نتایج تجزیه­ی سرندی سه الگوی انفجاری معدن چغارت با منحنی خردشدگی به دست آمده توسط روش پردازش تصویر مقایسه شده و سپس این روش برای پیش بینی دقیق­تر در معدن توسط ضرایب  تصحیح می­گردد. مقادیر ضرایب تصحیح به ترتیب برابر 81108/0 و 82087/0 می­باشد.</abstract>
+									<keywords>
+									
+											<keyword>انفجار</keyword>
+											<keyword>خردشدگی</keyword>
+											<keyword>تجزیه‌ی سرندی</keyword>
+											<keyword>پردازش تصویر</keyword>
+											<keyword>ضرایب تصحیح</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>02</month>
+										<day>19</day>
+									</publication_date>
+									<pages>
+										<first_page>97</first_page>
+										<last_page>103</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_69590_24f6b339f9dd49e38d25d8644be467a5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-26T05:33:25Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22055">http://aag.scu.ac.ir/?_action=export&amp;rf=summon&amp;issue=1257</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی کیفیت آب حوضه آبریز سد شهریار جهت مصارف خانگی و آبیاری با استفاده از شاخص‌های شیمیایی و نقشه برداری GIS در ناحیه میانه، جنوب شرقی استان آذربایجان‌شرقی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حسین</given_name>
+												<surname>حسینخانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مرتضی</given_name>
+												<surname>نجیب</surname>
+											</person_name></contributors>
+									<abstract>      در این پژوهش، تعداد 13 نمونه از آب رودخانه‌های موجود در حوضه آبریز سد شهریار میانه جهت ارزیابی قابلیت آن برای هداف شرب و آبیاری مورد بررسی قرار گرفت. برای این منظور، برای اولین بار جهت تعیین توزیع مکانی پارامترهای کیفی آب و شناسایی مکانهای با بهترین کیفیت برای شرب و استفاده کشاورزی در ناحیه مطالعاتی، بر اساس: (1) تجزیه و تحلیل یکپارچه از پارامترهای فیزیکوشیمیایی، (2) استفاده از سیستم اطلاعات جغرافیایی و (3) محاسبه شاخص کیفیت آب اقدام شده است. نتایج فیزیکوشیمیایی با مقادیر استانداردهای توصیه شده توسط سازمان بهداشت جهانی (WHO)، موسسات استاندارد ایران (ISI)، ترکیه (TSE) و هند (ISI) به منظور بررسی کیفیت فعلی آب منطقه برای شرب و بهداشت عمومی مقایسه شدند. سپس با استفاده از روش‌های منحنی ترازGIS، نقشه‌های توزیع مکانی کیفیت آب برای اهداف شرب و آبیاری به‌ترتیب مطابق نظر شولر و ویلکاکس ایجاد شده است. جهت بدست آوردن پراکندگی مکانی پارامترهای کیفی آب، تکنیک درونیابی وزن‌دهی فاصله معکوس (IDW)، مورد استفاده قرار گرفت. تجزیه و تحلیل مکانی الگوهای کیفیت آب منطقه مورد مطالعه نشان می‌دهد که آب قسمت جنوبی ناحیه مطالعاتی به‌دلیل عبور از سازندهای تبخیری، جهت استفاده‌های گوناگون( شرب، صنعت و آبیاری) دارای محدویت زیاد است. اما بخش‌های مرکزی و بخصوص ناحیه شمالی حاوی آب با کیفیت قابل قبول و مناسب می‌باشند که می‌تواند با اندک رسیدگی مورد استفاده قرار گیرد. &lt;br /&gt; </abstract>
+									<keywords>
+									
+											<keyword>GIS</keyword>
+											<keyword>آنالیز مکانی</keyword>
+											<keyword>شاخص کیفیت آب</keyword>
+											<keyword>حوضه آبریز سد شهریار</keyword>
+											<keyword>میانه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>12</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_11091_dc135264ebb30e7df69543e8ae43385e.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی پتانسیل آب زیرزمینی آهک امام حسن با استفاده از توموگرافی ژئوالکتریک و آنالیز حساسیت قاطع ژئوالکتریک (مطالعه موردی: آهک امام حسن، چوار- ایلام)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مهدی</given_name>
+												<surname>تاج آبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حمیدرضا</given_name>
+												<surname>ناصری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>فرشاد</given_name>
+												<surname>علیجانی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>روح اله</given_name>
+												<surname>آدینه وند</surname>
+											</person_name></contributors>
+									<abstract>در این پژوهش با استفاده از توموگرافی مقاومت ویژه پتانسیل آب زیرزمینی آهک­ امام حسن در منطقه چوار استان ایلام مورد بررسی قرار گرفته است. به این منظور پنج نیمرخ ژئوالکتریک با طول 500 متر و فاصله الکترودی 20 متر با استفاده از آرایش دوقطبی‌- دوقطبی متوالی برداشت شد. پس از ارزیابی صحت داده­های ژئوالکتریک با استفاده از مقاطع حساسیت بلوک­های مدل و تهیه مدل­های هموار نیمرخ­ها، شبه مقاطع مقاومت ویژه به پیروی از تکنیک بهینه­سازی غیرخطی و وارونسازی به روش حداقل مربعات ترسیم شد. در نهایت با استفاده از شبه مقاطع مقاومت ویژه، مقاطع زمین‌شناسی آنها ترسیم شد. بررسی این مقاطع نشان می‌دهد که به دلیل انحلال‌پذیری و ستبرای کم، متراکم و فاقد شکستگی بودن آهک‌های گورپی، قابلیت ذخیره آب زیرزمینی پایین می‌باشد. در مقابل تفسیر نیمرخ شاهد در نزدیکی سازند ایلام، احتمال وجود پتانسیل‌های مناسب آب زیرزمینی در این منطقه را پیشنهاد می‌کند. &lt;br /&gt; </abstract>
+									<keywords>
+									
+											<keyword>آهک امام حسن</keyword>
+											<keyword>توموگرافی مقاومت ویژه</keyword>
+											<keyword>آرایشدوقطبی- دوقطبی</keyword>
+											<keyword>آنالیز حساسیت ومدل وارون</keyword>
+											<keyword>منطقه چوار</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>13</first_page>
+										<last_page>21</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_11092_d2011f8cf468b7aeb2680f91940d12a3.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی روش‌های برآورد جریان پایه در چشمه‌های کارستی، مطالعه‌ی موردی چشمه‌های پیرغار و دیمه</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سپیده</given_name>
+												<surname>مالی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ضرغام</given_name>
+												<surname>محمدی</surname>
+											</person_name></contributors>
+									<abstract>بررسی هیدروگراف جریان چشمه از کاربردی‌ترین موضوعات در هیدروژئولوژی است و پژوهش در مورد آن، می تواند کاربردهای مفیدی در تعیین رفتار دینامیکی آب زیرزمینی و پشتوانه ای علمی در اتخاذ راه‌کارهای مناسب در مدیریت کمی و کیفی آب آبخوان‌ها و حوضه‌‌های آبگیر داشته باشد. در این پژوهش علاوه بر روشهای مرسوم، جدایش جریان پایه چشمه‌های کارستی دیمه و پیرغار واقع در استان چهارمحال و بختیاری به روش‌های فیلتر دیجیتال بازگشتی با استفاده از نرم افزارHydroOffice 2010  انجام گرفته است. تغییرات دبی جریان پایه که بر اساس شیمی‌نگار چشمه برآورد شده است، به عنوان معیار ارزیابی و مبنای مقایسه جهت انتخاب مناسب‌ترین روش فیلتر دیجیتال بازگشتی در محاسبه‌ی جریان پایه (BFI) در نظر گرفته شده است. در هر دو چشمه، روش‌ Eckhardt Filter با مقایسه‌ی عددی و معیارهای آماری مناسب ترین روش تفکیک جریان در بین روش‌های دیجیتال الگوریتم عددی می‌باشد. با استفاده از روش مذکور، میانگین شاخص جریان پایه در چشمه‌های دیمه و پیرغار به ترتیب 9/0 و 61/0 محاسبه شده است. با بررسی تغییرات زمانی بارش، دبی و غلظت یون کلسیم در چشمه‌ی دیمه و پیرغار، اثر تدریجی آب نفوذی حاصل از بارش، به ترتیب در طول 12 و 5 ماه ظاهر می شود و درصد مشارکت آب جدید در دبی کل چشمه ها، در طول مدت مطالعه به ترتیب حدود % 12 و % 33 است. با توجه به پایین‌تر بودن شاخص جریان پایه‌ و درصد بیشتر مشارکت آب جدید در چشمه‌ی پیرغار نسبت به چشمه‌ی دیمه، می‌‌توان گفت احتمالا سیستم آبخوان چشمه ی پیرغار نسبت به دیمه دارای سهم جریان مجرایی بیشتری بوده و از درجه‌ی کارستی شدن بیشتری برخوردار است. &lt;br /&gt; </abstract>
+									<keywords>
+									
+											<keyword>چشمه کارستی</keyword>
+											<keyword>جریان پایه</keyword>
+											<keyword>تفکیک هیدروگراف</keyword>
+											<keyword>روش‌ دیجیتال الگوریتم عددی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>22</first_page>
+										<last_page>37</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_11095_77e1d79c8a7da9b5f0743020d2ac5128.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مدلسازی آلودگی هوا با استفاده از تصاویر سنجنده مودیس: مطالعه موردی توده های گرد و غبار استان خوزستان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>کاظم</given_name>
+												<surname>رنگزن</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علیرضا</given_name>
+												<surname>زراسوندی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علی</given_name>
+												<surname>عبدالخانی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>برات</given_name>
+												<surname>مجردی</surname>
+											</person_name></contributors>
+									<abstract>با افزایش وقوع طوفانهای گردوغبار در چند سال اخیر در جنوب غرب ایران و بویژه در استان خوزستان و به تبع آن کاهش کیفیت هوا در این مناطق، مطالعه این پدیده از اهمیت بالایی برخوردار است. بدین منظور و با جمع آوری داده­هایAOD سنجنده مودیس و PM&lt;sub&gt;10&lt;/sub&gt; پنج ایستگاه اداره کل حفاظت محیط زیست استان خوزستان در 4 ماه اول سال 1388 رابطه همبستگی بینAOD و میانگین روزانه و ساعتی  PM&lt;sub&gt;10&lt;/sub&gt;مطالعه گردید. نتایج نشان داد که تغییرات زمانیAOD با تغییرات PM&lt;sub&gt;10&lt;/sub&gt;رابطه مستقیم دارد. اما میانگین ساعتی نسبت به میانگین روزانه همبستگی مثبت بالاتری نشان می دهد. بعد از تصحیح AOD نسبت به رطوبت نسبی معلوم شد که در این منطقه و با استفاده از داده های مودیس با قدرت تفکیک 10 کیلومتر در 4 ماه اول سال رطوبت عامل مهم تاثیرگذار بر این رابطه نیست. بطور کلی در این تحقیق مشخص شد کهAOD سنجنده مودیس می تواند ابزار مناسبی جهت پهنه بندی PM&lt;sub&gt;10&lt;/sub&gt;&lt;sub&gt;  &lt;/sub&gt;توده های گردوغبار جنوب غرب ایران در مقیاس ناحیه ای باشد. &lt;br /&gt; </abstract>
+									<keywords>
+									
+											<keyword>مودیس</keyword>
+											<keyword>PM10</keyword>
+											<keyword>گردوغبار</keyword>
+											<keyword>کیفیت هوا</keyword>
+											<keyword>همبستگی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>38</first_page>
+										<last_page>45</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_11094_70107924bc0d1b6595d3282cc0fc8385.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>رخساره ها، دیاژنز و کیفیت مخزنی سازند سروک در میدان نفتی کوپال، در جنوب غرب ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مجتبی</given_name>
+												<surname>ذاکری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سید رضا</given_name>
+												<surname>موسوی حرمی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمد</given_name>
+												<surname>خانه باد</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>اسد اله</given_name>
+												<surname>محبوبی</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>امیر</given_name>
+												<surname>صابری</surname>
+											</person_name></contributors>
+									<abstract>چکیده &lt;br /&gt;      مطالعه سازند سروک در میدان نفتی کوپال منجر به شناسایی 8 رخساره رسوبی شده که در محیط­های لاگونی، سدی و دریای باز در یک رمپ کربناته با شیب ملایم نهشته شده­­ است. کیفیت مخزنی سازند سروک ارتباط نزدیکی با فرآیندهای دیاژنزی دارد. فشردگی، سیمانی شدن، انحلال، شکستگی و دولومیتی شدن مهمترین فرآیندهای دیاژنزی کنترل‌کننده خواص مخزنی هستند. دو عامل نخست باعث کاهش کیفیت مخزنی و سه عامل بعدی افزایش‌دهنده آن بوده است. اغلب رخساره­های دانه­پشتیبان به دلیل تاثیر سیمانی شدن و فشردگی از تخلخل و تراوایی پایینی برخوردارند. رخساره‌های گل­پشتیبان بخش لاگون به دلیل تاثیر انحلال و شکستگی در آنها، دارای کیفیت مخزنی بهتری هستند. بررسی عملکرد فرآیندهای دیاژنزی بر روی سنگ­های مخزنی می­تواند کمک شایانی به تفکیک زون­های دارای کیفیت مخزنی از زون­های فاقد کیفیت مخزنی در سازند سروک میدان کوپال نماید. این امر منجر به بهره­برداری هر چه بهتر از سازند سروک در میدان کوپال می­شود. &lt;br /&gt; </abstract>
+									<keywords>
+									
+											<keyword>رخساره</keyword>
+											<keyword>دیاژنز</keyword>
+											<keyword>کیفیت مخزنی</keyword>
+											<keyword>سروک</keyword>
+											<keyword>کوپال</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>46</first_page>
+										<last_page>59</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_11099_a2e67d392f664bd45457a157e7cc6d43.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کاربرد روش های عددی در شناسایی چشمه های لرزه ای: مطالعه موردی استان سیستان و بلوچستان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید سعیدالرضا</given_name>
+												<surname>اسلامی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رضا</given_name>
+												<surname>درخشانی</surname>
+											</person_name></contributors>
+									<abstract>      شناسایی چشمه های لرزه ای به عنوان بخش اساسی مطالعات مربوط به تحلیل خطر لرزه ای می بایست حتی الامکان واقعی و دقیق انجام گیرد. در این تحقیق تلاش شده است بر اساس روش های عددی، رهیافتی جدید جهت شناسایی چشمه های لرزه ای پهنه ای معرفی شود به این ترتیب که ابتدا منطقه مورد مطالعه به بخشهای کوچکتر با ابعاد یکسان تقسیم می گردد و آنگاه متغیرهای معرف خطر زمینلرزه برای هر بخش بروش عددی جمع آوری می شود. سپس با اعمال تکنیکهای عددی، رده بندی بخشها بر اساس خطر زمینلرزه صورت می پذیرد چنانکه می توان به هر بخش مقداری عددی معرف خطر زمینلرزه بنام ضریب خطر لرزه ای نسبت  داد. در مرحله نهایی می توان با انجام دو نوع تفسیر از نتایج حاصله، چشمه های لرزه ای پهنه ای را در منطقه مورد مطالعه معرفی نمود. بدیهی است بدلیل استفاده از تکنیکهای عددی در رهیافت پیشنهادی، نتایج حاصله از دقت و واقعیت گرایی بالایی برخوردار بوده و لذا از جهت کاربرد در تحلیل خطرپذیری زمینلرزه حائز اهمیت می باشند. &lt;br /&gt; </abstract>
+									<keywords>
+									
+											<keyword>زمینلرزه</keyword>
+											<keyword>خطرپذیری</keyword>
+											<keyword>چشمه لرزه ای</keyword>
+											<keyword>روش عددی</keyword>
+											<keyword>مخاطرات طبیعی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>60</first_page>
+										<last_page>64</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_11097_0ae461349ee785643bed5b9b7b3ea4fd.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2014-12-22</datestamp>
+						<setSpec>10.22055</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>زمین شناسی کاربردی پیشرفته</full_title>
+									<abbrev_title>JAAG</abbrev_title>
+									<issn media_type="print">2251-7057</issn>
+									<issn media_type="electronic">2251-7057</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی کانی سازی طلا در سامانه رگه‌ای دره زار در منطقه پاریز (استان کرمان) باتاکید بر مطالعات میانبارهای سیال و ایزوتوپ‌های گوگرد</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>فاطمه</given_name>
+												<surname>لطیفی ساعی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حسن</given_name>
+												<surname>میر نژاد</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مسعود</given_name>
+												<surname>علیپور اصل</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>شجاع الدین</given_name>
+												<surname>نیرومند</surname>
+											</person_name></contributors>
+									<abstract>      سامانه رگه‌ای طلای دره‌زار در منطقه پاریز واقع در شمال خاوری سیرجان (استان کرمان) و بر روی کمربند ماگمایی ارومیه - دختر واقع شده است. قدیمی‌ترین سنگ‌های منطقه را واحدهای آتشفشانی – رسوبی تشکیل داده که میزبانی کانی‌سازی طلا هستند. مطالعات صحرایی و ژئوشیمیایی نشان می‌دهند که این کانه‌زائی با دگرسانی رسی همراه بوده و عمدتا به رگه‌های کوارتزی محدود می‌شود. مطالعه میانبارهای سیال بر روی کوارتز‌های کانه‌زایی شده شوری 2 تا 16 درصد و دمای همگن شدگی С˚170تا С˚ 257 را نشان می­دهند که به اختلاط آب‌های ماگمایی و جوی به عنوان حجم اصلی سیال‌های کانه ساز اشاره دارد. با توجه به مقادیر &lt;sup&gt;34&lt;/sup&gt;Sδ کانی‌های پیریت و کالکوپیریت در رگه‌های طلادار (1/2– تا 5/8–‰) منشاء گوگرد و احتمالا طلا، سری‌های آتشفشانی-رسوبی موجود در منطقه در نظر گرفته می‌شود. شواهد ارائه شده در این تحقیق به تشابه نزدیکی بین کانی‌سازی طلای پاریز با کانسارهای اپی‌ترمال با درجه سولفیداسیون پائین دلالت می‌کند. &lt;br /&gt; </abstract>
+									<keywords>
+									
+											<keyword>میانبار سیال</keyword>
+											<keyword>ایزوتوپ گوگرد</keyword>
+											<keyword>اپی ترمال</keyword>
+											<keyword>دره زار</keyword>
+											<keyword>پاریز</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2014</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>65</first_page>
+										<last_page>75</last_page>
+									</pages>
+										<fullTextUrl>http://aag.scu.ac.ir/article_11098_ca4dfd565622119117cd4bd52fa639c5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

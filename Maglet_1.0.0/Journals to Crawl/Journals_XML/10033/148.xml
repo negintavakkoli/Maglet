@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-25T02:09:39Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22048">http://saffron.torbath.ac.ir/?_action=export&amp;rf=summon&amp;issue=13490</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی اثر پلاسمای سرد بر ویژگی های میکروبی و شیمیایی زعفران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مریم</given_name>
+												<surname>اکبریان</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>فخری</given_name>
+												<surname>شهیدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمدجواد</given_name>
+												<surname>وریدی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>آرش</given_name>
+												<surname>کوچکی</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>سحر</given_name>
+												<surname>روشنک</surname>
+											</person_name></contributors>
+									<abstract>زعفران گران­ترین محصول کشاورزی جهان می­باشد و ایران بزرگترین تولیدکننده زعفران در جهان است، آلوده­شدن زعفران در مراحل مختلف فرایند تولید، علاوه بر کاهش کیفیت منجر به کاهش اعتبار در بازار جهانی و صادرات می­شود. لذا انتخاب یک روش مناسب جهت غیرفعال­سازی فلور میکروبی زعفران ضرورت دارد. در بین روش­های مختلفی که برای غیرفعال کردن میکروب­ها استفاده می­شوند، پلاسمای سرد به علت وجود مزایای بالقوه بی­شمار از قبیل طبیعت غیرسمی، هزینه­های عملیاتی پایین، کاهش قابل توجه مصرف آب طی فرایند­های ضد عفونی، و امکان کاربرد آن برای محصولات غذایی متنوع، توجه زیادی را به خود جلب کرده است. پلاسما حالتی از گاز یونیزه شده شامل یون­ها، الکترون، اشعه ماورابنفش و گونه­های واکنش مانند رادیکال­ها، اتم­ها و مولکول­های بر انگیخته است که قادر به غیرفعال­سازی میکروارگانیسم­ها می­باشد. در این پژوهش پلاسمای سرد با استفاده از دو نوع گاز شامل نیتروژن و هوا تولید و اثر تابش پلاسما در مدت زمان های صفر، 3، 6، 9 و 12 دقیقه بر ویژگی­های شیمیایی و میکروبی (باکتری &lt;em&gt;اشرشیاکلی، انتروکوکوس فکالیس&lt;/em&gt;، کپک و مخمر) زعفران بررسی گردید. نتایج حاصل از این پژوهش نشان داد اثر میکروب کشی پلاسمای نیتروژن نسبت به پلاسما هوا کمتر بوده و با افزایش زمان تابش پلاسما میزان غیرفعال سازی میکروارگانیسم­ها افزایش یافت. حداکثر کاهش بار میکروبی در زمان 12 دقیقه در ولتاژ 18 کیلوولت مشاهده شد و جمعیت باکتری &lt;em&gt;اشرشیاکلی&lt;/em&gt;، &lt;em&gt;انتروکوکوس فکالیس&lt;/em&gt;، کپک و مخمر به ترتیب به میزان 2/69، 2/48، 1/95 سیکل لگاریتمی کاهش یافت. نتایج همچنین نشان داد که افزایش زمان تابش پلاسما، میزان کروسین، پیکروکروسین و سافرانال را به طور معنی­دار (0/50˂p)  کاهش داد. میزان کاهش کروسین، سافرانال و پیکروکروسین در زمان 12 دقیقه به ترتیب 6/01، 4/04، 5/44 درصد بود.</abstract>
+									<keywords>
+									
+											<keyword>آلودگی میکروبی زعفران</keyword>
+											<keyword>پلاسمای سرد</keyword>
+											<keyword>پیکروکروسین</keyword>
+											<keyword>سافرانال</keyword>
+											<keyword>کروسین</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>425</first_page>
+										<last_page>439</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_88179_8cda095f7ec5cfe9d36bf0dd0ccad13b.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر سطوح مختلف کود محرک زیستی نوافل و وزن بنه مادری بر رشد رویشی، گلدهی و محتوای کلروفیل زعفران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سکینه</given_name>
+												<surname>خندان ده ارباب</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد حسین</given_name>
+												<surname>امینی فرد</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حمید رضا</given_name>
+												<surname>فلاحی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>حامد</given_name>
+												<surname>کاوه</surname>
+											</person_name></contributors>
+									<abstract>به­منظور بررسی اثر وزن بنه مادری و مصرف کود محرک زیستی نوافل بر رشد برگ­ها، محتوای کلروفیل و عملکرد گل و کلاله زعفران (&lt;em&gt;Crocus sativus&lt;/em&gt; L&lt;em&gt;.&lt;/em&gt;)&lt;em&gt;،&lt;/em&gt; آزمایشی به صورت فاکتوریل در قالب طرح آماری بلوک­های کامل تصادفی با سه تکرار در سال زراعی 1396- 1395 در مزرعه تحقیقاتی دانشکده کشاورزی دانشگاه بیرجند انجام شد. عوامل آزمایشی شامل کود زیستی نوافل (به­صورت مایع با نام تجاری Novafol و حاوی 28 درصد اسید آمینه، با مقادیر صفر، 2 و 4 لیتر در هکتار به­صورت غوطه­وری بنه و مصرف در آب آبیاری) و وزن بنه مادری (4-1/0، 8-1/4 و12-1/8 گرم به­ترتیب به­عنوان بنه­های ریز، متوسط و درشت) بودند. مصرف کود زیستی نوافل بر صفات تعداد گل، عملکرد گل، عملکرد­ کلاله و محتوای کلروفیل a تأثیر معنی­داری داشت. بیشترین تعداد گل (5/16 عدد در متر­مربع)، عملکرد گل­تر (63/5 گرم در متر­مربع)، عملکرد کلاله خشک (108 میلی­گرم در متر­مربع) و غلظت کلروفیل a (09/1 میلی­گرم در گرم وزن­تر برگ) از تیمار کاربرد 4 لیتر در هکتار و کمترین مقادیر مربوط به صفات تعداد گل (22/14 در متر­مربع)، عملکرد گل (55/4 گرم در متر­مربع)، عملکرد کلاله خشک (85 میلی­گرم در متر­مربع) و کلروفیل a (97/0 میلی­گرم در گرم وزن تر) در شاهد (عدم مصرف کود زیستی نوافل) به دست آمد، اما از حیث صفات مذکور تفاوت آماری معنی­­­­­­داری بین سطوح 2 و 4 لیتر در هکتار کود زیستی نوافل یافت نشد. وزن بنه­های مادری نیز تمامی صفات مورد مطالعه را بطور معنی­داری تحت تأثیر قرار داد. بیشترین مقدار طول کلاله (1/25 میلی­متر)، عملکرد گل (4/10 گرم در مترمربع)، طول برگ (42/31) و متوسط وزن تر و خشک برگ (به ترتیب 29/0 و 083/0 گرم در بوته) از بنه­های درشت (12-1/8 گرم) و کمترین مقدار آن­ها از بنه­های ریز (کمتر از 4 گرم) به­دست آمد. برهم­کنش وزن بنه مادری و مصرف کود محرک زیستی نوافل نیز بر محتوای کلروفیل b و کلروفیل کل و نیز تعداد برگ در بوته معنی­دار شد. بیشترین غلظت کلروفیل b و کلروفیل کل (به ترتیب 77/1 و 95/2 میلی­گرم در گرم وزن تر برگ) و تعداد برگ (58/7 عدد در بوته) از تیمار مصرف 4 لیتر در هکتار کود محرک زیستی نوافل  و بنه­های درشت بدست آمد. در مجموع، استفاده از کود محرک زیستی نوافل به میزان 4 لیتر در هکتار رشد رویشی و زایشی گیاه را بهبود بخشید. کاشت بنه­های مادری درشت نیز نقش مؤثری در افزایش رشد و عملکرد زعفران داشت.</abstract>
+									<keywords>
+									
+											<keyword>اسیدآمینه</keyword>
+											<keyword>رنگدانه های فتوسنتزی</keyword>
+											<keyword>عملکرد گل</keyword>
+											<keyword>کلاله</keyword>
+											<keyword>مدیریت تغذیه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>441</first_page>
+										<last_page>455</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_87457_2b49e01d3fb2926a2ca38d8c73e77e1f.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>برنامه پیشنهادی برای استاندارد سازی تولید بنه‌های زعفران: موانع و ارائه راهکارها</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید محمد</given_name>
+												<surname>سیدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>پرویز</given_name>
+												<surname>رضوانی مقدم</surname>
+											</person_name></contributors>
+									<abstract>زعفران (&lt;em&gt;Crocus sativus&lt;/em&gt; L.) گیاهی ژئوفیت-تریپلوئید بوده و بر پایه رشد بنه‌ها یا اندام‌های زیرزمینی خود، تکثیر می‌یابد. با وجود اهمیت اندازه و کیفیت بنه‌های مادری در تولید زعفران، تاکنون برنامه‌ای جامع پیرامون استانداردسازی بنه‌های آن تدوین نشده است. در این ارتباط، عدم وجود مزارع استاندارد جهت تولید بنه‌های با کیفیت، نبود معیار مشخصی جهت درجه‌بندی بنه‌ها بر اساس اندازه یا ویژگی­های کیفی، نظارت ضعیف از سوی نهادهای ذیربط بر روند تولید و عرضه بنه‌های مادری مرغوب و همچنین نابسامانی در بازار عرضه و تقاضای بنه‌های زعفران، از مهم‌ترین موانع در محقق نشدن چنین برنامه‌ای به شمار می‌روند. همچنین اختلاط بنه‌های سالم و آلوده و نیز انبارداری بنه‌های زعفران بدون توجه به شرایط بهینه دمایی یا بهداشت محیطی از دیگر چالش‌های چرخه تولید و فراوری این محصول می­باشد. در این مقاله، ابتدا برخی موانع پیش روی برنامه استانداردسازی بنه‌های زعفران بررسی شده است و در ادامه، راهکارهای مؤثر جهت تولید بنه­های استاندارد نظیر احداث مزارع تحت مدیریت، کنترل کیفیت ودرجه‌بندی بنه‌های برداشت شده و نیز انبارسازی اصولی بنه‌های زعفران ارائه شده است. همچنین تدوین برنامه ذکر شده بر پایه مواردی نظیر برگزاری دوره‌های آموزشی، نظارت فراگیر بر فعالیت بازار عرضه و تقاضای بنه‌های زعفران، حمایت از حقوق مصرف‌کنندگان و ارائه برنامه‌های تشویقی و بسته‌های حمایتی به تولیدکنندگان به تفصیل مورد بحث قرار گرفته است.</abstract>
+									<keywords>
+									
+											<keyword>بازاریابی</keyword>
+											<keyword>بازار عرضه و تقاضا</keyword>
+											<keyword>تولید زعفران</keyword>
+											<keyword>درجه‌بندی بنه‌های مادری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>457</first_page>
+										<last_page>479</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_75218_e687e46649e6131c815326eac9fb0fdc.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناسایی و بیان نوترکیب ایزوفرم ژنی سنتز کننده کروسین در کلاله زعفران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>نورالدین</given_name>
+												<surname>حسین پورآزاد</surname>
+											</person_name></contributors>
+									<abstract>وجود ایزوفرم­های ژنی مختلف در گیاهان منجر به ایجاد ایزومرهای مختلف از متابولیت­ها به مانند متابولیت­های گلیکوزیله شده می­گردند. در تحقیق حاضر به شناسایی و بیان هترولوگ ایزوفرم ژنی کدکننده آنزیم گلیکوزیل ترانسفراز کلاله گیاه زعفران در مرحله گرده افشانی پرداخته شد. نتایج حاصل از توالی‌یابی و آنالیز­های بیوانفورماتیکی توالی ژنی جدا شده از ژنوم گیاه زعفران با استفاده از آغازگرهای هرزگرد نشان داد که این توالی ژنی با اندازه 1368 جفت باز متعلق به خانواده پروتئینی گلیگوزیل ترانسفرازها بوده که بصورت آپو‌پلاستی در سلول ترشح می­گردد. جهت بررسی عملکرد آنزیمی، ابتدا توالی کامل ژنی ایزوله شده با تکنیک Gibson Assembly در وکتور بیانی pThio-&lt;em&gt;UGT&lt;/em&gt; تحت پروموتر القایی آرابینوز، ساب­کلون شده و با روش الکتروپوراسیون در سویه باکتریایی BL21-pGro که بیان­کننده پروتئین­های چاپرونی با زیرواحدهای  ELو ES بود ترارریخت گردید. پروتئین­های بیانی به دنبال تخریب دیواره باکتری با روش فراصوت و سوسپانسیون­سازی رسوب باکتری در محلول PBS، به روش جوشانیدن استخراج شد. نهایتاً جداسازی پروتئین­های نوترکیب با بارگذاری روی ژل 10%SDS-PAGE نشان داد که حاصل بیان هترولوگ ایزوفرم ژنی آنزیم گلیکوزیل ترانسفراز پروتئینی با وزن مولکولیkDa  69/5 می‌باشد. نتایج حاصل از این پروژه می­تواند در تعیین استراتژی­های اصلاح نژادی برای بهبود صفات کیفی و کمی مانند رنگ و عطر در گیاه زعفران به­کار گرفته شوند.</abstract>
+									<keywords>
+									
+											<keyword>بیان نوترکیب</keyword>
+											<keyword>گلیکوزیل ترانسفراز</keyword>
+											<keyword>کروسین</keyword>
+											<keyword>باکتری E.coli</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>481</first_page>
+										<last_page>490</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_81806_fa415612879f767e0614a0eeb821735d.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کاربرد ردپای اکولوژیک چند کارکردی در تحلیل پایداری تولید زعفران در خراسان جنوبی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید محمد جعفر</given_name>
+												<surname>اصفهانی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>جواد</given_name>
+												<surname>خزاعی</surname>
+											</person_name></contributors>
+									<abstract>با توجه به اثرات سوء مصرف نهاده‌های خارجی در بخش کشاورزی و وابستگی این بخش به انرژی‌های مستقیم و غیرمستقیم، تحلیل پایداری تولیدات کشاورزی از اهمیت ویژه‌ای برخوردار شده است. شاخص ردپای اکولوژیک یک شاخص قوی در تحلیل پایداری است که امروزه در مجامع علمی از آن استفاده می‌شود. این شاخص فضای لازم برای حمایت از یک فعالیت را بوسیله میانگین مساحت لازم برای فراهم آوردن منابع مصرفی و جذب مواد زائد برحسب هکتار جهانی تعیین می‌کند. در این مطالعه با توجه به افزایش قابل ملاحظه تولید زعفران در سال‌های اخیر، پایداری تولید زعفران در استان خراسان جنوبی به عنوان یکی از مهمترین مراکز تولید زعفران کشور بررسی شد. اطلاعات لازم برای این پژوهش از طریق پرسشنامه و مصاحبه رودررو با 396 کشاورز در سال 1396 جمع آوری شد و با توجه به عملکرد و مصرف نهاده در سال‌های مختلف، محاسبات مربوط به پایداری برای سال‌های مختلف اول تا ششم انجام شد. برای این منظور میزان زمین بهره­ور زیستی که به طور مستقیم برای تولید محصول لازم است به عنوان شاخص ردپای اکولوژیک مستقیم و میزان زمین لازم برای جذب مواد زائد حاصل از فرآیند تولید به عنوان ردپای غیر مستقیم در نظر گرفته شد. نتایج مطالعه نشان داد که میانگین شاخص ردپای اکولوژیک غیرمستقیم زعفران 20/0 هکتار جهانی بود که 07/0 به انتشارات داخل مزرعه و 13/0 به انتشارات خارج مزرعه مربوط می‌شد. بیشترین شاخص ردپا به سال اول تولید اختصاص داشت. شاخص ردپای چند کارکردی نشان داد که شاخص ردپای اکولوژیک بر حسب زمین 01/0 هکتار جهانی، برحسب درآمد 63/0 هکتار جهانی و بر حسب عملکرد 003/0 هکتار جهانی است. مقایسه نتایج این مطالعه با نتایج مطالعات دیگر محصولات بخش کشاورزی که در ایران و سایر نقاط جهان انجام شده است نشان داد که تولید زعفران در حالت نسبتاً پایدارتری نسبت به سایر محصولات کشاورزی قرار دارد.</abstract>
+									<keywords>
+									
+											<keyword>ردپای اکولوژیک</keyword>
+											<keyword>زعفران</keyword>
+											<keyword>ضریب تعادل</keyword>
+											<keyword>گازهای گلخانه‌ای</keyword>
+											<keyword>هکتار جهانی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>491</first_page>
+										<last_page>503</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_81650_150650e032687b8d437e25cee84e1a2d.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی کارایی مصرف آب و ردپای آب در محصول زعفران در ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>ام البنین</given_name>
+												<surname>بذرافشان</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>زهرا</given_name>
+												<surname>گرکانی نژاد مشیزی</surname>
+											</person_name></contributors>
+									<abstract>کمبود منابع آب کافی، علاوه بر کاهش روند توسعه کشاورزی در حال حاضر، باعث خسارات و زیان­هایی نیز در آینده خواهد شد. مطالعه حاضر، مطالعه­ای به منظور ارائه راهکارهای پایدار در مدیریت منابع آب با استفاده از مفهوم ردپای آب و کارایی مصرف آب زعفران در سطح ملی از طریق تجزیه و تحلیل خوشه‌ای می­باشد، که با هدف شناسایی اولویت استان­ها به توجه به دو شاخصه مذکور انجام شد. در این مطالعه، حجم ردپای آب سبز، آبی، خاکستری و سفید در تولید زعفران در سطح کشور با به­کارگیری چارچوب اصلی طی دوره آماری 1387 تا 1393برآورد ­گردید. نتایج نشان داد، سهم هریک از اجزای ردپای آب شامل آب سبز، آب آبی و آب خاکستری در محصول زعفران در ایران به‌ترتیب 20، 90 و 10 درصد است که متوسط ردپای آب مجازی ناشی از آن 2764 مترمکعب برکیلوگرم تخمین زده شد. محدوده تغییرات کارایی مصرف آب از 2/0 تا 62/0 متغیر است. در بررسی اولویت‌بندی بر حسب دو شاخص معرفی شده، استان‌ها به چهار دسته تقسیم شدند که لرستان، کرمانشاه، همدان، خراسان شمالی، تهران، کرمان، آذربایجان شرقی و زنجان در دسته کمترین ردپای آب و بیشترین کارایی مصرف آب و در اولویت اول قرار می‌گیرند. استان گلستان، قزوین، مرکزی، البرز، یزد و خراسان رضوی و جنوبی در زمره استان‌های با اولویت دوم؛ استان فارس و سمنان در اولویت سوم و استان چهارمحال و بختیاری در اولویت آخر قرار دارد. براین اساس، توجه به شاخص‌هایی همچون کارایی مصرف آب و ردپای آب می‌‌تواند کمک شایانی به تصمیم‌گیران در زمینه تغییر الگوی کشت در مناطق خشک و نیمه خشک و توسعه کشت محصول فوق در کشور ارائه نماید.</abstract>
+									<keywords>
+									
+											<keyword>آب مجازی</keyword>
+											<keyword>تحلیل خوشه‌ای</keyword>
+											<keyword>اولویت‌بندی</keyword>
+											<keyword>آب سفید</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>505</first_page>
+										<last_page>519</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_87480_fbcaacc2d24e18db8aeff95e27ed4293.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>درجه بندی زعفران بر اساس ویژگی های ظاهری با استفاده از شبکه های عصبی مصنوعی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید احسان</given_name>
+												<surname>یثربی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ایمان</given_name>
+												<surname>ذباح</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>بهناز</given_name>
+												<surname>بهزادیان</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>علی</given_name>
+												<surname>ماروسی</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>رویا</given_name>
+												<surname>رضایی</surname>
+											</person_name></contributors>
+									<abstract>زعفران به‌عنوان یک کالای تجاری مهم در کشور به­شمار می‌آید و توجه به مکانیزه کردن آن از مرحله تولید تا بسته‌بندی اهمیت زیادی دارد. در بدو ورود زعفران به فرایند کیفی سنجی در آزمایشگاه ، ارزیابی اولیه بر اساس مشخصات ظاهری زعفران توسط شخص خبره انجام می‌شود. لیکن بروز خطای انسانی در تشخیص کیفیت زعفران بر مبنای ویژگی‌های ظاهری آن امری اجتناب‌‌ناپذیر‌ است؛ استفاده از تکنیک‌های مبتنی بر هوش مصنوعی می‌تواند ضمن مکانیزه کردن سیستم، در کاهش خطاهای انسانی نیز تأثیرگذار باشد. این مطالعه از نوع تشخیصی بوده و پایگاه داده آن مشتمل بر 113 نمونه زعفران با 7 ویژگی می‌باشد که توسط محققین این پژوهش، در مهر‌ماه 1396 از آزمایشگاه‌ معتبر زعفران و تحت نظارت شخص خبره جمع‌آوری‌ شده است. کیفی سنجی نمونه‌ها به کمک ویژگی‌ها در 4 کلاس مختلف زعفران پوشال درجه‌یک (نگین)، پوشال درجه دو (خوب)، پوشال درجه سه (معمولی) و پوشال درجه چهار (معمولی درجه‌دو) انجام ‌شده است. به‌منظور درجه­بندی زعفران، از روش‌های مبتنی بر شبکه‌های عصبی مصنوعی استفاده‌شده ‌است. پس از تحلیل و مقایسه مدل‏های تولیدشده با استفاده از دو نوع شبکه‌ عصبی پرسپترون چندلایه و شبکه عصبی بردار یادگیر، بالاترین دقت کلاس‌بندی روی نمونه‌های آموزش و آزمون به ترتیب با 75/93 و 75/75 درصد حاصل شد. دقت به‌دست‌آمده نشان‌دهنده آن است که مدل شبکه عصبی پرسپترون چندلایه می‌تواند به‌عنوان یک تصمیم گیر در کنار شخص خبره و یا به‌صورت مستقل در مراکز آزمایشگاهی زعفران مورد استفاده قرار ‌گیرد.</abstract>
+									<keywords>
+									
+											<keyword>داده کاوی</keyword>
+											<keyword>کیفی سنجی زعفران</keyword>
+											<keyword>یادگیری ماشین</keyword>
+											<keyword>هوش مصنوعی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>521</first_page>
+										<last_page>535</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_93065_94a69946bf7ff69683d92f4b8b2f6853.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی اثر عضویت ایران در موافقت‌نامه‌های تجاری بر صادرات زعفران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>میلاد</given_name>
+												<surname>امینی زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علیرضا</given_name>
+												<surname>کرباسی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>اندیشه</given_name>
+												<surname>ریاحی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمدرضا</given_name>
+												<surname>رمضانی</surname>
+											</person_name></contributors>
+									<abstract>امروزه کشورهای در حال توسعه به منظور دستیابی به بازارهای هدف ایمن‌تر و کاهش موانع تجاری، سعی به حضور در توافق‌نامه‌های تجاری دارند. ایران نیز در موافقت‌نامه‌های تجاری سازمان همکاری‌های اقتصادی (ECO) و نظام جهانی ترجیحات تجاری (GSTP) حضور دارد. با وجود آن که به طور عمومی این باور وجود دارد که حضور در موافقت‌نامه‌های تجاری به طور کلی اثری مثبت بر جریان تجارت کشورها دارد، ولی هیچ تضمینی برای اثر مثبت آن بر تجارت همه کشورها و کالاها وجود ندارد. با توجه به اهمیت صادرات زعفران برای ایران، هدف پژوهش حاضر پاسخ به این پرسش است که آیا عضویت ایران در توافق‌نامه‌های تجاری موجب افزایش صادرات زعفران به کشورهای واردکننده عضو شده است؟ برای دستیابی به این هدف، از الگوی جاذبه و داده‌های صادرات زعفران در دوره زمانی 2001-2014 استفاده گردید. نتایج نشان داد که متغیرهای درآمد و جمعیت واردکنندگان زعفران اثری مثبت و معنی‌دار و متغیرهای فاصله جغرافیایی و بحران اقتصادی اثری منفی و معنی‌دار بر صادرات زعفران داشته است. براساس نتایج، عضویت ایران در موافقت‌نامه‌های تجاری اثری منفی و معنی‌دار (475/3-) بر صادرات زعفران ایران داشته است. به عبارتی عضویت در موافقت‌نامه‌های تجاری نتوانسته موجب افزایش صادرات زعفران ایران به شرکای تجاری عضو در موافقت‌نامه‌ها شود. این موضوع بیانگر این است که صادرکنندگان علی‌رغم وجود ظرفیت‌های مناسب نتوانسته‌اند که از آن بهره ببرند، لذا پیشنهاد می‌شود که شرکت‌های صادراتی زعفران، از بسترهای نهادی و قانونی ایجاد شده به واسطه حضور ایران در این موافقت‌نامه‌های تجاری جهت اتخاذ سیاست‌ها و استراتژی‌های مناسب بازاریابی بلندمدت جهت افزایش صادرات زعفران ایران به شرکای تجاری عضو توافق‌نامه و توسعه سبد بازارهای صادراتی هدف بهره ببرند.</abstract>
+									<keywords>
+									
+											<keyword>الگوی جاذبه</keyword>
+											<keyword>ایران</keyword>
+											<keyword>زعفران</keyword>
+											<keyword>موافقت‌نامه تجاری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>537</first_page>
+										<last_page>549</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_81718_9f89c6f44df70fb76a3b1333e0890b67.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2019-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی دیدگاه زعفران‌کاران درخصوص تغییرات اقلیم و استراتژی‌های سازگاری (مطالعه موردی: شهرستان تربت‌حیدریه)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>فاطمه</given_name>
+												<surname>رستگاری پور</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ملیحه</given_name>
+												<surname>شیبانی</surname>
+											</person_name></contributors>
+									<abstract>تغییرات آب و هوایی، یکی از جدی­ترین چالش ­های زیست­ محیطی است و اثرات طولانی مدت آن می­تواند عواقب جدی اقتصادی، اجتماعی و زیست محیطی به همراه داشته ­باشد. بخش کشاورزی یکی از بخش­های آسیب پذیر نسبت به تغییرات آب و هوایی است. در همین راستا این مطالعه به بررسی عوامل مؤثر بر به کارگیری استراتژی های سازگاری از سوی زعفران­کاران تربت حیدریه با استفاده از روش نمونه گیری تصادفی طبقه­ای متناسب و مدل لاجیت و پرسشنامه پنج بخشی پرداخته است. داده­های مورد نیاز از طریق تکمیل 380 پرسشنامه از زعفران­کاران تربت حیدریه در سال 1397 جمع­آوری گردید. نتایج توصیفی مطالعه نشان داد که اکثر زعفران­کاران به افزایش دما، کاهش بارندگی و ظهور خشکسالی و سرمازدگی معتقدند. کاهش ذخیره آب، کاهش عملکرد محصول زعفران، کاهش صرفه اقتصادی، بیکاری و مهاجرت از جمله پیامدهای تغییرات اقلیم در تربت­حیدریه می­باشد. همچنین بر اساس نتایج به دست آمده، 63 % از زعفران­کاران، حاضر به استفاده از استراتژی های سازگاری هستند. نتایج حاصل از برآورد مدل لاجیت نشان داد که متغیر­های تجربه کشاورزی، اندازه زمین، دسترسی به اعتبارات، خدمات ترویج، در معرض رسانه­ها و تحصیلات بر احتمال انتخاب استراتژی­های سازگاری تأثیرگذار است. درحالی که متغیر­های سطح مکانیزاسیون و شغل جانبی تأثیر معناداری بر احتمال انتخاب استراتژی­های سازگاری نداشته است، بنابراین سیاست های دولت باید اعتماد لازم را برای اعطای تسهیلات بانکی به زعفران­کاران فراهم آورد تا زعفران­کاران بتوانند توانایی و انعطاف پذیری خود را برای مدیریت منابع آب، خاک و سایر نهاده ها در پاسخ به تغییرات آب و هوا سازگار نمایند.</abstract>
+									<keywords>
+									
+											<keyword>تغییرات آب و هوا</keyword>
+											<keyword>بارندگی</keyword>
+											<keyword>ریسک</keyword>
+											<keyword>کشاورزی</keyword>
+											<keyword>مدل لاجیت</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2019</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>551</first_page>
+										<last_page>562</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_93066_fe92b1ce34a61e4f3834e1b6aa5a42f8.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

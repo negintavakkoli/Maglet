@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1392</year>
+	<month>12</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2014</year>
+	<month>3</month>
+	<day>1</day>
+</pubdate>
+<volume>7</volume>
+<number>2</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>پیش‌بینی خطای سلول‌ فشار به‏ کمک روش GEP (مطالعه موردی: سد سنگریزه‌ای البرز، مازندران، ایران)</title_fa>
+	<title>Prediction of Cell Pressure Error Utilizing GEP Procedure (A case study: Alborz embankment dam, Mazandaran, Iran)</title>
+	<subject_fa>ژئوتکنیک (مکانیک خاک و سنگ)</subject_fa>
+	<subject>Geotecnic</subject>
+	<content_type_fa>مقاله استخراج شده از پایان نامه</content_type_fa>
+	<content_type>Research Paper</content_type>
+	<abstract_fa>آگاهی از وضعیت تنش در بدنه سدهای خاکی از مهم‏ترین پارامتر‌های ارزیابی ایمنی سد است. به‌منظور اندازه‌گیری تنش از سلول‌ فشار کل استفاده می‌شود که این ابزار در بدنه سد‌های خاکی نصب می‌گردد. در زمان نصب سلول فشار، سطح حساس آن در تماس مستقیم با تودۀ خاک قرار گرفته تا تنش‌ کل موجود در خاک را اندازه‌گیری کند و در ترکیب با پیزومتر‌ها، فشار آب منفذی موجود در خاک را نیز برآورد می‌کند. به‌منظور دریافت نتایج صحیح و قابل قبول از سلول فشار باید این ابزار با دقت نصب شوند. اما در اکثر موارد، مقادیر اندازه‌گیری شده با این ابزار با مقادیر تئوری و پیش‌بینی شدۀ تنش، مطابقت ندارد و نتایج سلول فشار همراه با خطا است. عوامل متعددی بر خطاهای سلول‌های فشار تأثیرگذار هستند اما در این تحقیق به نقش ارتفاع و مدت زمان خاک‌ریزی در حین عملیات اجرای سد، به‏عنوان پارامتر‌های مؤثر بر مقادیر اندازه‌گیری، پرداخته شده است. بدین منظور سد سنگ‌ریزه‌ای البرز واقع در شمال ایران به‌عنوان مطالعه موردی در نظر گرفته شده است. این سد خاکی با هسته رسی، دارای ارتفاع حداکثر 78 متر است. با استفاده از داده‌های رفتارنگاری و در نظر گرفتن تأثیر پارامتر‌های ارتفاع خاک‌ریزی و مدت زمان خاک‌ریزی، مدلی به‌منظور پیش‌بینی خطای سلول‌های فشار به‏روش GEP&lt;sup&gt;1&lt;/sup&gt; با استفاده از نرم‌افزار جنی‌ایکس پروتولز&lt;sup&gt;2&lt;/sup&gt; 4، ارائه شده است.  میزان R&lt;sup&gt;2&lt;/sup&gt; برای این مدل، برابر با 98/0 است که این رقم نشان‌دهندۀ تطابق خوب مدل با داده‌های رفتارنگاری است. نتایج به‌دست آمده نشان می‌دهد که پارامتر نسبت تفاضل ارتفاع به تفاضل مدت زمان خاک‌ریزی در حین اجرای سد البرز در ایجاد خطا در نتایج سلول‌های فشار سد نقش به‏سزایی داشته است</abstract_fa>
+	<abstract>Determination of stress in earthfill dams is one of the most important parameters in dam safety studies. Stress monitoring can be done using total pressure cells which are typically installed during construction. The cell is installed with its sensitive surface in direct contact with the soil to measure total stress of soil and in combination with piezometers to measure pore-water pressure acting in the soil mass. Total pressure cells needs to be installed with care to get reasonable measurements. However, measurements are often incompatible with the theoretical predictions such that pressure cell results usually have some inaccuracies. There are several parameters effecting pressure cell errors. However, in the present paper it is only focused on the height of embankment and the duration of dam construction. For this purpose, a case study, namely Alborz embankment dam located in northern part of Iran was studied. It is an earth dam with clay core with a height of 78 m. Using the monitoring data and considering the effect of embankment height and construction period parameters, a model is presented to predict the pressure cells error with Gene Expression Programming (GEP) procedure by GeneXProTools 4.0 software. The computed coefficient of correlation (R&lt;sup&gt;2&lt;/sup&gt;) for the proposed model is 0.98 showing a good agreement with the monitoring data. The obtained results indicate that the ratio of height difference to time difference for Alborz dam has a significant role in dam pressure cells errors</abstract>
+	<keyword_fa>تنش , سلول فشار خاک , سد سنگریزه‏ ای , روش GEP , سد البرز ,</keyword_fa>
+	<keyword>stress , Total pressure cell , Earthfill dam , GEP , Alborz dam , </keyword>
+	<start_page>1901</start_page>
+	<end_page>1916</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-375-1&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>maryam</first_name>
+	<middle_name></middle_name>
+	<last_name>nikooee</last_name>
+	<suffix></suffix>
+	<first_name_fa>مریم</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>نیکوئی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>nikooee_maryam@yahoo.com</email>
+	<code>1003194753284600354</code>
+	<orcid>1003194753284600354</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation>student</affiliation>
+	<affiliation_fa>بلوار زرگری، کوچه 8، ساختمان رها، طبقه اول، واحد یک</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>ali</first_name>
+	<middle_name></middle_name>
+	<last_name>noorzad</last_name>
+	<suffix></suffix>
+	<first_name_fa>علی</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>نورزاد</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>noorzad@pwut.ac.ir</email>
+	<code>1003194753284600355</code>
+	<orcid>1003194753284600355</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه شهید بهشتی، دانشکده مهندسی آب و محیط زیست</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>kaveh</first_name>
+	<middle_name></middle_name>
+	<last_name>ahangari</last_name>
+	<suffix></suffix>
+	<first_name_fa>کاوه</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>آهنگری</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>kaveh.ahangari@gmail.com</email>
+	<code>1003194753284600356</code>
+	<orcid>1003194753284600356</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>میدان پونک- انتهای بزرگراه اشرفی اصفهانی- به سمت حصارک، دانشگاه آزاد اسلامی، واحد علوم و تحقیقات، دانشکده فنی و مهندسی، طبقه دوم، گروه مهندس</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

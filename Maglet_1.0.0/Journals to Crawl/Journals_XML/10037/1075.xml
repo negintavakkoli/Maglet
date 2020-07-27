@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <records>
+	<record>
+	<language>per</language>
+	<publisher>Kharazmi University</publisher>
+	<journalTitle>Journal of Engineering Geology</journalTitle>
+	<issn>2228-6837</issn>
+	<publicationDate>2019-04</publicationDate>
+	<volume>12</volume>
+	<issue>4</issue>
+	<startPage>543</startPage>
+	<endPage>570</endPage>
+	<documentType>article</documentType>
+	<title language="eng">Forward and Inverse Modeling of GPR Data to use in Snow, Ice and Glaciological, A Case Study: Alam Kuh Glacier, Mazandaran Province</title>
+
+
+	<authors>
+	<author>
+	<name>Afsaneh Ahmadpour</name>
+	<email>aahmadpour_madan@yahoo.com</email>
+	<affiliationId>1</affiliationId>
+	 </author>
+	<author>
+	<name>Abolghasem Kamkar Rouhani</name>
+	<email>kamkarr@yahoo.com</email>
+	<affiliationId>2</affiliationId>
+	 </author>
+	<author>
+	<name>Reza Ahmadi</name>
+	<email>Rezahmadi@gmail.com</email>
+	<affiliationId>3</affiliationId>
+	 </author>
+	</authors>
+	 <affiliationsList>
+	      <affiliationName affiliationId="1">
+             Shahrood University of Technology    
+	      </affiliationName>
+	      <affiliationName affiliationId="2">
+             Shahrood University of Technology    
+	      </affiliationName>
+	      <affiliationName affiliationId="3">
+             Arak University of Technology    
+	      </affiliationName>
+    </affiliationsList>
+
+
+	<abstract language="eng">Introduction
+&#160;&#160;&#160;&#160; Ground-penetrating radar (GPR) method is a pretty new, non-destructive and high-resolution geophysical method that is widely used to identify the thickness of snow and ice layers and glaciers bed, because snow and ice are transparent for electromagnetic (EM) waves. Therefore, this method has been used to determine the thickness and basement topography of Alam-kooh glacier. In this research, only the GPR acquired data using unshielded antenna with central frequency of 25 MHz along one line in Alam-kuh glacier, Kelardasht- Mazandaran, have been processed and interpreted. The GPR data acquisition has been done by using common offset method, and transmitter-receiver separation of 6 meters. The final real radargram related to one of the surveyed GPR profiles in this region has been prepared after applying various processing operations containing signal saturation correction, amplitude gain, f-k migration filtering and static (topography) correction on the raw data. After applying processing sequences on the acquired data, the EM waves reflection off the interfaces of different layers including the reflections from the glacier basement have been detected, and by assigning a suitable EM wave velocity in the ice (0.16 m/ns), the thickness of 50 m for the ice layer laid under the survey line has been estimated. Also, in present research, forward and inverse modeling of GPR data have been performed to employ for snow, ice and glaciological investigations in the AlamKooh region of Mazandaran. To achieve this goal, GPR response of synthetic model corresponding to the real radargram was simulated first, by 2-D finite-difference time domain (FDTD) method. Afterward the inversion method by solving an optimization problem was employed to validate the interpretation of real GPR data.
+Methodology and Approaches
+&#160;&#160;&#160;&#160; Based on the nature, physical and geometric properties of the subsurface target in the field data, their synthetic model have been built and their two-dimensional GPR responses forward modeling using ReflexW software and finite difference algorithms improved in the frequency domain, have been obtained. Also, it has been used an effective algorithm, coded in GUI environment of MATLAB programming software and as a result, a reliable and accurate inverse modeling has been carried out. In the present study, to simulate the behavior of the propagation of EM waves in GPR method, two-dimensional finite difference method has been used. The main advantage of this method is its comparative simplicity of the concept, high accuracy and simple implementation for complex and arbitrary models as well as easily adjusting the antenna when applied. In this study, acquisition of GPR field data and synthetic data modeling have been carried out in TM mode. The radargrams of the GPR data have been demonstrated using ReflexW software after performing necessary processing sequences.
+Results and Conclusions
+&#160;&#160;&#160;&#160; The obtained results reveal that moraine materials covering the surface of the area are mainly fine-grained granite. The bed-rock or basement in the area is also granite. The polarity representing ice-bed rock is clearly seen on the GPR profiles. The topography of the glacier basement has successfully been detectable using just by GPR method. The electrical resistive nature of the glacier has caused large penetration depth of GPR pulses in this research. Furthermore, the results of the research for presented profiles on the basis of forward and inverse modeling output of GPR data in comparison with real GPR radargrams in the region validated the accuracy of GPR investigations in the area. Although with a quick glance, the error obtained by the inverse modeling for real GPR data seems unexpected and unacceptable, absolutely the high rate of error depends on many factors influencing on the real earth models containing various limitations existing in all forward modeling algorithms and software packages, impossibility of making forward modeling exactly according to the real models (due to the complex nature of the ground), taking into account the homogeneity and uniform host environment and targets in the modeling process unlike the diversity, the presence of different types of noises and so on. Therefore, making a controlled geophysical test site and trying performance of inverse modeling algorithm for field GPR data in this site, as well as determining the important physical parameters such as dielectric permittivity and electrical conductivity by experimental method through sampling from different depths for complex geological environments are suggested../files/site1/files/124/1ahmadpur%DA%86%DA%A9%DB%8C%D8%AF%D9%87.pdf</abstract>
+	<fullTextUrl>http://jeg.khu.ac.ir/article-1-2553-en.html</fullTextUrl>
+	<keywords>
+	<keyword>Ground-penetrating radar (GPR)</keyword>
+	<keyword>Snow</keyword>
+	<keyword>ice and glaciology</keyword>
+	<keyword>Alam-Kooh Glacier of Mazandaran</keyword>
+	<keyword>Forward modeling</keyword>
+	<keyword>Inverse modeling  </keyword>
+	</keywords>
+
+
+	</record>
+	<record>
+	<language>per</language>
+	<publisher>Kharazmi University</publisher>
+	<journalTitle>Journal of Engineering Geology</journalTitle>
+	<issn>2228-6837</issn>
+	<publicationDate>2019-04</publicationDate>
+	<volume>12</volume>
+	<issue>4</issue>
+	<startPage>571</startPage>
+	<endPage>598</endPage>
+	<documentType>article</documentType>
+	<title language="eng"> Parametric and Numerical Study on Soft Ground Improvement using Stone Column Reinforced with Geogrid </title>
+
+
+	<authors>
+	<author>
+	<name>Mehdi Jalili</name>
+	<email>m.jalili@semnaniau.ac.ir</email>
+	<affiliationId>1</affiliationId>
+	 </author>
+	<author>
+	<name>Amin Zare</name>
+	<email></email>
+	<affiliationId>2</affiliationId>
+	 </author>
+	<author>
+	<name>Mohammad Javad Shabani</name>
+	<email></email>
+	<affiliationId>3</affiliationId>
+	 </author>
+	</authors>
+	 <affiliationsList>
+	      <affiliationName affiliationId="1">
+                 
+	      </affiliationName>
+	      <affiliationName affiliationId="2">
+                 
+	      </affiliationName>
+	      <affiliationName affiliationId="3">
+                 
+	      </affiliationName>
+    </affiliationsList>
+
+
+	<abstract language="eng">Introduction
+The design engineers usually follow a specific decision-making process for optimal selection of the type of required foundation and its design. In this state, in case the surface foundation is not appropriate for the project conditions, before making any decisions about the use of deep foundations, the proper methods for optimization of the liquefied soil should be evaluated in order to compare the advantages and disadvantages of each of them with those of deep foundation, in terms of efficiency, implementation problems, costs, and finally to select the best choice. One of the best methods of soil improvement is the use of stone columns. The rationale behind the use of stone columns is the high shear strength of materials and the provision of lateral grip by surrounding soil. Therefore, the stone column can receive the load from the structure, and transfer it to the resistant layers. In the soils with low shear resistance, the lateral constraint crated by the surrounding soils is not enough for preventing the sideway buckling of the column under which is subjected to the loads. Thus, special measures should be considered for the use of stone columns in these soils. One of these methods is the use of reinforcement shelves such as geogrid and geotextile. Investigating the previous studies, the lack of evaluation of the design parameters such as the settlement ratio of the soil improved by the reinforced stone column to the geogrid, and provision of design graphs in this regard, has been revealed. Therefore, by extension of the studies conducted by Chub Basti et al. in 2011, the design graphs were provided in this regard.
+Material and methods
+The PLAXIS V8 Software was used for modelling the soft soil improved by the stone column. For increasing the precision of the results, the 15-knot element was used in the current study. The fine mesh was used in the models made for the analysis of the problem. For simulation of the improved soft soil with the stone column in a single cell, the modelling was implemented in a two-dimensional environment in axial symmetry conditions. In the current study, it was assumed the rigid foundation is on the improved bed. Thus, for analysis of the simulated model, a vertical strain up to 2% of the soft soil height has been applied on the ground. Also, for simulation of the soil behavior, an appropriate model of soil and parameters proportional to the materials should be allocated to the construct geometry. The non-linear stress-strain of the soil in different levels of the problem can be simulated. The number of model parameters increases with the level of problem rupture. For precise simulation, we need the proper parameters of the materials. For modeling of soft soils and stone columns, elastic-plastic model with Mohr-Coulomb rupture criterion was used. In the current study, it was assumed the soft bed is located on a very hard layer of soil. Therefore, the vertical deformation was prevented on this horizontal boundary. Also, the horizontal deformation in two vertical edges was prevented and only deformation in vertical direction was allowed. The soft bed close to saturation was considered without the determined free water level. For models with stone columns, the element of interface between the stone column and soft soil, has been used. The reason behind using this element is that the stone column rupture is of shear form and due to this, a significant shear stress is created on the common surface between the stone column and soft soil. The percentage of the replacement area is defined as the ratio of the total area of the stone columns to the total area of the non-improved area. In the current study, the percentage of the replacement area is utilized between 10 to 30%, which is used in implementation. Also, the diameter of the stone columns is from 0.6 to 1.2, in the analyses.
+Results and discussion
+The results of the numerical study were compared with the existing theoretical relationships provided by Poorooshasb and Meyerhof (1997), and Pulko et al. (2011). Figure 1 shows the comparison of the replacement percentage (RP) and settlement ratio (SR) in the non-reinforced state in the current study as well as theoretical relationships proposed by the previous researchers. Based on this figure, there is a difference between the results of the current study and those of Poorooshasb and Meyerhof (1997), and Pulko et al (2011). Poorooshasb and Meyerhof (1997) calculated the settlement ratio in their proposed material with the assumption of linear elasticity of the materials without consideration for plastic settlement. Therefore, the settlement of the improved soft soil with stone column, calculated by Poorooshasb and Meyerhof, would not show the real amount. However, Pulko et al. (2011), with consideration for the elastoplastic behavior of the materials, the lateral expansion of the stone column, and the primary stress of the soil around the column, provided more realistic results that correspond closely with the present study. Also, for designing the stone column, the results of its reinforcement have been also provided in the graph presented in Figure 2. Thus, by the use of these graphs, the ratio of settlement reduction can be obtained for each distance between columns and with different percentages of alternatives../files/site1/files/124/2jalili%DA%86%DA%A9%DB%8C%D8%AF%D9%87.pdf</abstract>
+	<fullTextUrl>http://jeg.khu.ac.ir/article-1-2515-en.html</fullTextUrl>
+	<keywords>
+	<keyword>soil improvement</keyword>
+	<keyword>stone column</keyword>
+	<keyword>geogrid coating</keyword>
+	<keyword>bearing capacity</keyword>
+	<keyword>settlement ratio.</keyword>
+	</keywords>
+
+
+	</record>
+	<record>
+	<language>per</language>
+	<publisher>Kharazmi University</publisher>
+	<journalTitle>Journal of Engineering Geology</journalTitle>
+	<issn>2228-6837</issn>
+	<publicationDate>2019-04</publicationDate>
+	<volume>12</volume>
+	<issue>4</issue>
+	<startPage>599</startPage>
+	<endPage>616</endPage>
+	<documentType>article</documentType>
+	<title language="eng">Reinforced Concrete Lining Suggestion based on Seepage Control of Pressure Tunnels using the Finite Element Model</title>
+
+
+	<authors>
+	<author>
+	<name>Ehsan Dadashi</name>
+	<email>edadashi.22@gmail.com</email>
+	<affiliationId>1</affiliationId>
+	 </author>
+	<author>
+	<name>Ali Noorzad</name>
+	<email>a_noorzad@sbu.ac.ir</email>
+	<affiliationId>2</affiliationId>
+	 </author>
+	<author>
+	<name>Koroush Shahriar</name>
+	<email>k.shahriar@aut.ac.ir</email>
+	<affiliationId>3</affiliationId>
+	 </author>
+	<author>
+	<name>Kamran Goshtasbi</name>
+	<email>goshtasbi.k@gmail.com</email>
+	<affiliationId>4</affiliationId>
+	 </author>
+	</authors>
+	 <affiliationsList>
+	      <affiliationName affiliationId="1">
+                 
+	      </affiliationName>
+	      <affiliationName affiliationId="2">
+                 
+	      </affiliationName>
+	      <affiliationName affiliationId="3">
+                 
+	      </affiliationName>
+	      <affiliationName affiliationId="4">
+                 
+	      </affiliationName>
+    </affiliationsList>
+
+
+	<abstract language="eng">Introduction
+Pressure tunnels in hydroelectric plants are used to convey water to powerhouses. These tunnels are the sources of seepage flow to the rock formation, thus, during the water filling, they will have a low resistance to seepage and, by increasing the internal water pressure of the tunnel, the inflow force will be transferred to the rock mass. In these conditions, the cracks, pores and all other elements of the rock mass are affected by the seepage forces in all directions. This hydro-mechanical interaction affects changing the stresses and displacements of the rock mass around the tunnel and causes modifications in the permeability of rock elements during the water filling. Therefore, changes in stress distribution lead to alterations in the permeability coefficient and redistribution of the seepage field. In these conditions, since the analytical solution of the problem is not possible, the numerical analysis based on the finite element method has been used in this study.
+Material and methods
+In this approach, the rock mass is considered as an equivalent continuum in which the effects of discontinuities are taken into account in its material behavior. High-pressure tunnels under internal water pressure requires reinforced concrete lining to prevent hydro-fracturing. The ABAQUS software is capable of analyzing such as seepage from the tunnel, modeling of the steel bars in concrete, and taking into account hydro-mechanical interaction. Thus, the software is used for numerical analysis.
+The pressure tunnel of the Gotvand dam and hydroelectric power plant (HPP) scheme is taken as a case study for the numerical simulation. Pressure tunnel of the Gotvand dam located in the southwest of Iran is taken as a case study for the numerical simulation. Among behavioral models in the software, Mohr-Coulomb failure criterion is considered to describe the rock mass, but the principle of effective stress determines the rock mass behavior. Since the concrete lining of the pressure tunnel will undergo two mechanisms of the cracking due to tension and the crushing due to compression, concrete damaged plasticity model is used to predict the response of the concrete elements. The evolution of the yield surface of the concrete lining is also controlled with tensile and compressive equivalent plastic strains, correspondingly.
+In this study, the hydro-mechanical interaction is implemented based on the analysis of the pore fluid/deformation analysis, and the direct-coupled method is used to solve the governing equations of the problem. To verify the proposed model, the elastic behavior of the media is simulated to compare the numerical and the analytical solutions and good agreement is obtained. The numerical analyses are carried out the hydro-mechanical interaction with constant permeability coefficient. When cracks develop in the concrete lining at high water pressure, the properties of the concrete lining change and as a result, the stress dependent permeability of the lining and surrounding rock mass in pressure tunnels should be considered. The coefficient of permeability controls the rate of seepage flow in porous and fractured media. Although permeability represents an original property of the porous media, it can be modified when subjected to the stress variations. Instead of changing aperture, the change in the void space or volume is the typical consequence that results to change the permeability coefficient. In order to bring the model closer to the real conditions and in the validation of the new model, the influence of the permeability coefficient variations of the concrete and rock mass on the deformations and stresses of the model has been added to nonlinear analysis by USDFLD code. Increasing the water head in the tunnel during water filling is also considered with the combination of DLOAD and DISP codes in the model.
+Results and discussion
+Since the lining and rock mass have nonlinear properties and complex behavior, for verification of the model in ABAQUS software, the model is simulated with homogeneous, isotropic and elastic behavior. The results of seepage flow on the interface of the concrete lining and rock mass obtained by analytical and numerical solutions indicate that there is a &#177;5 % difference between them. Then, the results of the elastic behavior of the model show a good agreement with the results of analytical solutions. Therefore, this numerical model has been employed for the nonlinear analyses.
+Finally, the optimal thickness of the concrete lining with the appropriate arrangement of the reinforcement in the reinforced concrete linings is utilized to minimize water losses from the tunnel based on the new model. Thus, the results of the analysis with the aim of reducing the water losses from the tunnel indicate that the suitable arrangement of the steel bars in the concrete lining leads to the distribution of micro cracks in the lining, and the reinforcement stress stays at a lower value with high internal water pressure. Based on the new numerical model, it is suggested that the lining should be designed with the thickness of 40 cm and the reinforcement with the diameter of 16 mm and the spacing of 20 cm.
+&#160;Conclusion
+The results of the numerical model indicate that to control the seepage outflow from concrete-lined pressure tunnels, the thickness of the lining and the suitable arrangement of the steel bars in the concrete lining play a significant role in preventing excessive seepage from the tunnel./files/site1/files/124/3dadashi%DA%86%DA%A9%DB%8C%D8%AF%D9%87.pdf</abstract>
+	<fullTextUrl>http://jeg.khu.ac.ir/article-1-2712-en.html</fullTextUrl>
+	<keywords>
+	<keyword>Pressure Tunnel</keyword>
+	<keyword>Reinforced Concrete Lining</keyword>
+	<keyword>Hydro-Mechanical Interaction</keyword>
+	<keyword>ABAQUS software</keyword>
+	<keyword>Seepage Control.</keyword>
+	</keywords>
+
+
+	</record>
+	<record>
+	<language>per</language>
+	<publisher>Kharazmi University</publisher>
+	<journalTitle>Journal of Engineering Geology</journalTitle>
+	<issn>2228-6837</issn>
+	<publicationDate>2019-04</publicationDate>
+	<volume>12</volume>
+	<issue>4</issue>
+	<startPage>617</startPage>
+	<endPage>634</endPage>
+	<documentType>article</documentType>
+	<title language="eng">A Model between Dynamic and Static Moduli of Limestone in Asmari Geological Formation ‎based on Laboratory and In-situ Tests ‎</title>
+
+
+	<authors>
+	<author>
+	<name>Ako Daraei</name>
+	<email>daraii2004@yaoo.com</email>
+	<affiliationId>1</affiliationId>
+	 </author>
+	<author>
+	<name>Shokrollah Zare</name>
+	<email>Zare@shahroodut.ac.ir</email>
+	<affiliationId>2</affiliationId>
+	 </author>
+	</authors>
+	 <affiliationsList>
+	      <affiliationName affiliationId="1">
+             . Civil Engineering Department, Soran University, Erbil 44008, Iraq    
+	      </affiliationName>
+	      <affiliationName affiliationId="2">
+             School of Mining, Petroleum &#38; Geophysics Engineering, Shahrood University of Technology, Shahrood, Iran    
+	      </affiliationName>
+    </affiliationsList>
+
+
+	<abstract language="eng">Introduction
+It is very important to have knowledge on the rock deformation modulus when designing geotechnical &#8206;structures and modeling oil reservoirs. In general, there are two destructive or static and non-&#8206;destructive or dynamic methods for determining the rock deformation modulus, but considering the &#8206;time and cost of destructive methods proportionate to the depth, it is more common to make use of &#8206;non-destructive approaches. The outcrops of Asmari Formation are widely spread in the west and &#8206;southwest of Iran, and many engineering projects have been constructed or are being studied &#8206;on this formation. Therefore, it is of great importance to study on the geomechanical characteristics of this &#8206;formation. Presentation of empirical relations regarding the relationship between static and dynamic &#8206;moduli, with respect to the studies carried out in other parts of the world and the dispersion and &#8206;independence of studies done on Asmari Formation due to its large extent on one hand and the &#8206;importance of this formation in terms of oil and development civil projects on the other hand, necessitate &#8206;presenting a comprehensive criterion resulted from all studies carried out on Asmari Formation which &#8206;can express the relationship between the static and dynamic moduli. This paper represents the &#8206;relationship between the dynamic and static moduli of the site using the moduli obtained by the &#8206;down-hole geophysical method and the static moduli obtained by the intact rock test results of &#8206;Ghalajeh tunnel located in Asmari Formation in Ilam province. Then, a comprehensive relation is &#8206;presented to express the relationship between static and dynamic modulus by studying the previous &#8206;researches and criteria on this formation.
+Material and methods
+Two sets of tests were conducted to determine the relationship between static and dynamic moduli in the Ghalajeh tunnel. First, a uniaxial compression strength test was performed on 13 cores taken from three boreholes to compute the elasticity modulus in accordance with ISRM standard. Then, down-hole test was conducted on two boreholes such that to determine the dynamic modulus using compressive and shear wave velocities. Seismographic apparatus of ABEM RAS 24 as well as three-component down-hole geophones were utilized in order to plot the seismic profile. After the performing the tests, the dynamic modulus of deformation was calculated using the velocity of P-waves and the density of the host rock.
+Discussion and Conclusions
+By conducting in-situ static and dynamic laboratory tests on Ghalajeh Tunnel project and determining the values ​​of the static and dynamic deformation moduli, a relation was presented between them. Then, taking into consideration the previous models studied in Asmari Formation, a comprehensive criterion was presented for wider use in the mentioned formation. Given the root mean square error (RMSE) and variance account for (VAF), the values predicted using the proposed comprehensive model have acceptable accuracy. In the interim, the correction factor between dynamic and static moduli in Asmari Formation was between 0.8 and 2.4. The results show that, in general, the relationship between static and dynamic moduli is linear up to a certain range (static modulus of 100 MPa) and then it has a power trend./files/site1/files/124/4darai%DA%86%DA%A9%DB%8C%D8%AF%D9%87.pdf</abstract>
+	<fullTextUrl>http://jeg.khu.ac.ir/article-1-2526-en.html</fullTextUrl>
+	<keywords>
+	<keyword>Static modulus</keyword>
+	<keyword>Dynamic modulus</keyword>
+	<keyword>Asmari formation</keyword>
+	<keyword>Ghalajeh tunnel</keyword>
+	</keywords>
+
+
+	</record>
+	<record>
+	<language>per</language>
+	<publisher>Kharazmi University</publisher>
+	<journalTitle>Journal of Engineering Geology</journalTitle>
+	<issn>2228-6837</issn>
+	<publicationDate>2019-04</publicationDate>
+	<volume>12</volume>
+	<issue>4</issue>
+	<startPage>635</startPage>
+	<endPage>658</endPage>
+	<documentType>article</documentType>
+	<title language="eng">The Zoning of Earthquake-Induced Earthquake Hazards using the AHP Model</title>
+
+
+	<authors>
+	<author>
+	<name>Ali M. Rajabi</name>
+	<email>amrajabi@ymail.com; amrajabi@ut.ac.ir</email>
+	<affiliationId>1</affiliationId>
+	 </author>
+	<author>
+	<name>Hossein Khosravi</name>
+	<email>H.khosravi23@gmail.com</email>
+	<affiliationId>2</affiliationId>
+	 </author>
+	</authors>
+	 <affiliationsList>
+	      <affiliationName affiliationId="1">
+             Engineering Geology Department, School of Geology, College of Science, University of Tehran, Iran    
+	      </affiliationName>
+	      <affiliationName affiliationId="2">
+             Department of Civil Engineering, University of Qom, Qom, Iran    
+	      </affiliationName>
+    </affiliationsList>
+
+
+	<abstract language="eng">Introduction
+In general, landslides, in particular, earthquake-induced landslides, are among the phenomena that have caused great damages in recent years in Iran and the world. Although many studies have been done on the identification and description of landslides in general, the study of landslides caused by the earthquake, especially in Iran, is at the beginning stages. In a few studies, some landslides and some of their characteristics have been introduced. A magnitude 7.7 earthquake occurred in the Guilan Province was occurred on May 31, 1990. This earthquake is one of the most important earthquakes in Iran history due to its magnitude and occurrence of landslides. In various studies, the most important landslides have been listed. The development of quantitative and qualitative studies on earthquakes that have caused many landslides (such as the Manjil, Avaj, Firoozabad, Kojur, Sarein and Ahar and Varzaghan earthquakes) increase our understanding of natural disasters and, consequently, the management of the dangers resulting from them. The purpose of this research is to identify the factors affecting the occurrence of landslides caused by earthquakes, to determine the impact of each on the occurrence of this phenomenon, and also to prepare a map of earthquake hazard zonation hazard by utilizing the methods used in this research. In this study, hierarchical analysis method has been used to prioritize the factors affecting the occurrence of landslide and also the zoning of earthquake landslide hazard in the study area.
+Research Methodology
+The study area is located between 49˚ 30ꞌ and 49 ꞌ45˚ and latitudes 36&#186; 00 ꞌ 45&#34; and 36&#186; 30ꞌ 52&#34; with a surface area of ​​309.30 km2. In this research, in order to zoning the earthquake-induced landslides hazard, in addition to providing a map of landslides, seven factors influencing the occurrence of this phenomenon were identified and examined. These factors included elevation, slope, arias intensity, friction angle, adhesion, curvature of the slope and aspect. In this research, Analytic Hierarchy Process (AHP) method, one of the multi-criteria decision making models, was used with two approaches to using expert knowledge and data and expert knowledge together to prioritize the factors influencing the occurrence of landslide. Finally, two landslide hazard zonation maps were prepared. In a hierarchical analysis method related to the expert judgment, it was used to determine the priority of different criteria and sub-criteria and convert them into small amounts of oral judgments (expert opinion) based on the pair comparison, in which the decision maker preferred the factor in relation to other factors using the relevant tables, these judgments are converted into small amounts. In the method of using data and expert judgment simultaneously, first, in order to determine the priority of criteria from oral judgments (collection of expert opinions), we used to determine the importance or weight (Wi) of each sub-criterion (R) is also used to link the landslide area to each class and landslide area in the region.
+Results
+The results obtained from the paired comparison of the effective factors in the occurrence of landslide show that the relative preference of the factors include the factor of arias intensity, friction angle, slope, adhesion, aspect, height and curvature of the amplitude. The greatest influence on the sub-criteria for the sub-criteria is 10-11.54, which is related to the arias factor and also the lowest effect for the sub-standard of the domain curvature factor. Also, according to the zoning maps, in the first model, 73% and in the second model, 57% of the surface area are very high and very high risk areas, which indicates the high sensitivity of the study area to the earthquake-induced earthquake phenomenon.
+According to the results obtained from the verification and evaluation of the models and comparison of the mapped data with the hierarchical analysis method (using expert knowledge and data) and a method that uses only expert knowledge, the map is derived from a method where bundles of knowledge and data are used simultaneously, in order to weigh the parameters, it is more in line with the map of the landing list of the region.
+Conclusion
+According to the results obtained from the review and evaluation of the two models in a method in which knowledge and data were used together, the QS value was 0.40 and the accuracy of the method (P) was 0.016. However, in a method in which only the expert judgment used to weigh the criteria and sub-criteria, the sum of the quality and accuracy of the method were calculated to be 0.37 and 0.006, respectively. Hierarchical analysis method, in which the benchmarks and sub-criteria of benchmark knowledge and data are used together, have a better performance than the other model, and the results are closer to reality. In addition, it also works better in distinguishing between high and high risk areas../files/site1/files/124/5rajabi%DA%86%DA%A9%DB%8C%D8%AF%D9%87.pdf</abstract>
+	<fullTextUrl>http://jeg.khu.ac.ir/article-1-2551-en.html</fullTextUrl>
+	<keywords>
+	</keywords>
+
+
+	</record>
+	<record>
+	<language>per</language>
+	<publisher>Kharazmi University</publisher>
+	<journalTitle>Journal of Engineering Geology</journalTitle>
+	<issn>2228-6837</issn>
+	<publicationDate>2019-04</publicationDate>
+	<volume>12</volume>
+	<issue>4</issue>
+	<startPage>659</startPage>
+	<endPage>686</endPage>
+	<documentType>article</documentType>
+	<title language="eng">Evaluation of Site Effect Using Ambient Noise Survey (A Case Study: Babol City)</title>
+
+
+	<authors>
+	<author>
+	<name>Sadegh Rezaei</name>
+	<email>s_rezaei1366@yahoo.com</email>
+	<affiliationId>1</affiliationId>
+	 </author>
+	<author>
+	<name>Asskar Janalizadeh Choobbasti</name>
+	<email>Asskar@nit.ac.ir</email>
+	<affiliationId>2</affiliationId>
+	 </author>
+	</authors>
+	 <affiliationsList>
+	      <affiliationName affiliationId="1">
+             Babol Noshirvani University of Technology, Babol, Iran    
+	      </affiliationName>
+	      <affiliationName affiliationId="2">
+             Babol Noshirvani University of Technology, Babol, Iran    
+	      </affiliationName>
+    </affiliationsList>
+
+
+	<abstract language="eng">Introduction
+Every year, numerous casualties and a large deal of financial losses are experienced due to earthquake events. The losses incurred by an earthquake vary depending on local site effect. Some well-known examples include the earthquake in Caracas 1967, Mexico city 1985, Kalamata 1986, Loma Prieta 1989, Roodbar 1990, Bam 2003, Jammu and Kashmir 2005, Sichuan 2008 and Haiti 2010. Therefore, in order to conquer drastic effects of an earthquake, one should evaluate urban districts in terms of the local site effect. Various methods are available for the evaluation of site effect. One of the most common methods includes ambient noise survey. Today, this approach is being used as fast, applicable, cost-effective method. Ambient seismic noise are feeble ground motions with displacement amplitudes of about 0.1&#8211;1 &#956;m and that can be detected by seismograph with high magniﬁcation. Many investigations have been conducted to determine the nature of ambient noise. One of the possible sources of ambient noise can be human activity, such as trafﬁc, industrial noises and nature activity, such as wind, ocean waves. The Babol city is one of the largest cities in the north of Iran (Mazandaran province). It lies on alluvium beds in the region presenting a high seismic potential. Therefore, comprehensive studies are necessary to introduce suitable solutions for minimizing earthquake damage and loss of life. For this reason, in Babol city, ambient noise survey has been performed at 60 stations and the obtained data were analyzed with Nakamura or H/V method (1989). The results were compared with local geological, geotechnical and seismic data to confirm their reliability for a seismo-stratigraphic.
+Methodology and data collection
+The analysis of ambient noise was initially proposed by Kanai and Takana (1961). Since then, many researchers have used ambient noise for site effect evaluation. As it is said before, one of the most popular techniques for estimation of site effects in the regions with low seismicity is ambient noise survey by Nakamura or H/V method (1989). Based on the literature review, the Nakamura method (1989) has been used in many places. Many theoretical and experimental studies show that, this method has the capability of estimation of fundamental frequency. Ambient noise survey was carried out at 60 stations in Babol city. Ambient noise was recorded using a velocity meter SARA. Two horizontal and a vertical components of ambient noise at each location are recorded for duration of 15 min with 100 samples per second. Because the environmental noise has an effect on ambient noise they are recoded between 10 p.m. to 6 a.m. The locations were determined by using GPS at the sites. The ambient noise survey in this study was made in compliance with the guidelines of SESAME (2004).
+Results and discussion
+The maximum and minimum values of fundamental frequency of the present research are 11.4 and 0.65 Hz, respectively. Also, the maximum and minimum values of amplitude of H/V peaks have been calculated as 3.71 and 1.19, respectively. The most significant point is that the fundamental frequency of the major part of Babol city is smaller than 1 Hz in agreement with the previous knowledge of the city geological setting. Another relevant point is the presence of some stations with very high (&#62; 5 Hz) fundamental frequencies. In these cases, ambient noise recording and data analysis were repeated, but similar results were obtained. Considering the lack of sufficient geotechnical data (in some stations), the above phenomena need to be integrated with other methods. For this purpose, the data of electrical resistivity tomography (ERT) were used. The ERT showed that small regions of the north-west, west, and south areas have high resistance values probably related with the presence of hard deposits in the shallow subsoil. Babolrood river diversion in the west part and its return to the previous direction in the northern section is possibly due to the existence of these relatively hard deposits. By comparing these two tests, we observed that the ERT results correlate with the ambient data analysis. Therefore, we can conclude that the high-frequency peaks measured are reliable, but we need direct investigation to associate them to a specific shallow geological layer. To validate the results, fundamental frequencies obtained from ambient noise survey were compared with geotechnical data, numerical analysis and seismic data in the study area. A general review shows that the geotechnical data, equivalent-linear analysis results and seismic data have an acceptable conformity with the results of ambient noise survey.
+Conclusion
+The results show minimum and maximum fundamental frequencies 0.65 and 11.4 Hz, respectively. Assessment also reveals that the major parts of Babol city have the fundamental frequencies less than 1 Hz, which are in conformity with that of previous research. According to the results of seven cross sections, it can be concluded that fundamental frequency variations are in line with the geotechnical and geological data in the study area. It means that this method is the appropriate way to assess the local site effect in the Babol city. It is also observed that besides the soil layers, the soil stiffness and its shear wave velocity are effective factors in changing the fundamental frequency. Site frequencies were also estimated by preliminary 1-D site modeling using the equivalent-linear method. In general, a reasonable correspondence between the methods was obtained. Using seismic data, the HVSR of two strong ground motions have been calculated and the results have been compared with the nearest ambient noise recording station. Analyzing the spectral ratios demonstrates that the value of the fundamental frequency obtained by the H/V method (1.06 Hz) is very close to that of frequencies obtained by the seismic data (0.95 and 0.90 Hz)../files/site1/files/124/6rezaee%DA%86%DA%A9%DB%8C%D8%AF%D9%87.pdf</abstract>
+	<fullTextUrl>http://jeg.khu.ac.ir/article-1-2602-en.html</fullTextUrl>
+	<keywords>
+	<keyword>Site effect</keyword>
+	<keyword>H/V spectral ratio</keyword>
+	<keyword>Ambient noise</keyword>
+	<keyword>Fundamental frequency</keyword>
+	<keyword>Amplification factor</keyword>
+	</keywords>
+
+
+	</record>
+	<record>
+	<language>per</language>
+	<publisher>Kharazmi University</publisher>
+	<journalTitle>Journal of Engineering Geology</journalTitle>
+	<issn>2228-6837</issn>
+	<publicationDate>2019-04</publicationDate>
+	<volume>12</volume>
+	<issue>4</issue>
+	<startPage>687</startPage>
+	<endPage>706</endPage>
+	<documentType>article</documentType>
+	<title language="eng">The Effect of Fines Type on Biological Improvement of Sandy Soil</title>
+
+
+	<authors>
+	<author>
+	<name>Navid Sohrabi</name>
+	<email>sohrabinavid2@gmail.com</email>
+	<affiliationId>1</affiliationId>
+	 </author>
+	<author>
+	<name>Mehdi Khodaparast</name>
+	<email>Khodaparast@qom.ac.ir</email>
+	<affiliationId>2</affiliationId>
+	 </author>
+	</authors>
+	 <affiliationsList>
+	      <affiliationName affiliationId="1">
+             Civil Engineering Department, University of Qom, Qom, Iran    
+	      </affiliationName>
+	      <affiliationName affiliationId="2">
+             Civil Engineering Department, University of Qom, Qom, Iran    
+	      </affiliationName>
+    </affiliationsList>
+
+
+	<abstract language="eng">Introduction
+In many areas of the world, the mechanical properties of soils for utilization of land are not sufficient. For improvement of these lands, soil stabilization such as compacting, installation of nails, elders of piles, mixing soil with lime or cement before or during constructions on the surface or inside of the ground can be useful. Microbially induced carbonate precipitation (MICP), due to its versatility and stable performance, has been recently attracted the attention of many researchers in the field of the geotechnical engineering around the world. MICP is a biological technique that is naturally caused to create a cementation agent, which is known as calcium carbonate or calcite by controlling the metabolism of bacteria. Although there are many biological processes that can be lead to MICP, but the using of urea hydrolysis by bacteria is commonly used more. In this method, aerobic bacteria with the enriched urease enzymes inject into the soil. Hydrolysis of urea occurs when the bacteria speeds up the hydrolysis reaction to produce ammonium and carbonate ions. In the presence of soluble calcium ions, carbonate ions are precipitated and formed the calcium carbonate crystals. When these crystals are formed on a grain of soil or like a bridge between them, they prevent the movement of grains and thus improve the mechanical and geotechnical properties of the soil.
+Material and methods
+In the present study, the effect of increasing fines on the improvement of Anzali sandy soil, and soil resistance parameters for improving the clean sand and its mixtures with a fine grained cohesive soil and a fine grained cohesionless soil separately in a percentage weight of 30 by MICP and using a small scale of direct shear test (6&#215;6) have been investigated. In the present study the sandy soil was collected from the coast of Bandar Anzali Free Zone and for the preparation of samples of clayey sand and silty sand, Kaolinite clay soils and Firouzkooh broken silt were used, respectively. Anzali sand is poorly graded and had a rounded corner with an average particle size of 0.2 mm, somewhat, sharpening cores are also found in its granulation. In addition, its fine grained content is very small (less than 1%). The Kaolinite clay is also labeled with a liquid limit of 40, a plastic limit of 25, and a plasticity index of 15 as an inorganic clay (CL). The used microorganism in this study is urease positive Sporosarcina pasteurii, which is maintained with the number of PTCC1645 at the Center Collective of Industrial Microorganisms of Iran Scientific and Research Organization. The bacterium was cultured in a culture medium containing 20 g/l yeast extract and 10 g/l ammonium chloride at pH 9 under aerobic conditions in incubator shaker machine at 150 rpm and temperature of 30 &#176;C. The organism was grown to late exponential/early stationary phase and stored at 4 &#176;C before injection in samples. A solution of calcium chloride and urea with a molar ratio of one is also used as a cementation solution. With the direct shear test (6cm&#215;6cm) as a benchmarking of the shear strength in the before and after improvement steps, molds fitted with a shear box made of the galvanized sheet with a thickness of 0.6 mm and it consists of two main parts, the body,&#160; in the middle of which an exhaust pipe was embedded in the injector waste fluid. At the bottom of the samples, a layer of filter paper was placed in order to prevent soil washes, and then all samples with a thickness of 2 cm, with a relative density of 30% at the same weight and height were pressed. In the upper part of the samples, a layer of filter paper is similarly used to prevent the discontinuity of soil particles when injected biological materials are used. Biological solutions are injected from the top to the specimens and allowed to penetrate under the influence of gravitational and capillary forces in the sample and discharge the inhaled fluid from the exhaust pipe. The criterion for determining the volume of the solution to inject into each sample is the pure volume (PV) of soil. The preparation process of the samples was initiated by injection of a PV water unit, followed by a two-layer mixture of bacterial suspensions and cementation solutions, each with a volume of one PV, and then for biological reactions, 24 hours to the sample at laboratory temperature (25 &#177; 2) is given. After the time of incubation, the solution of cementation is injected into the sample for a period of three days and every 24 hours. The processing time of samples is also considered 28 days. In this study, optical density (OD) was selected as a benchmark for estimating the concentration of bacterial cells in the culture medium, and in all stages of development, and precisely before injection of bacteria suspension into soil samples, it was measured by a spectrophotometer device at 600 nm (OD600) wavelength, which was obtained for all bacterial suspensions in the range of 1.7 to 2 before the injection. To determine the activity of urea bacteria, 1 ml of bacterial suspension was added to nine milliliters of 1.11 molar urea solution, and by immersing the electrode of the electrical conductivity in the solution, its conductivity was recorded for 5 minutes at 20 &#177; 2 &#176; C. The rate of urea activity in the pre-treatment stage for all specimens was in the range of 0.8 to 1.23 mS min-1. In order to evaluate the shear strength parameters of soil samples, before and after the improvement operations, a direct shear test was used based on the ASTM D3080 standard. This test was performed for all samples under stresses of 50, 100 and 150 kPa in undrained conditions at a loading speed of 1 mm/min up to a strain of 15%. Also, samples of soil with a moisture content of 7% and a relative density of 30% (as already mentioned) have been restored. SEM analysis was carried out to determine the distribution of sediment between soil particles and EDX analysis in order to identify carbonate calcium sediment formation elements in improved soil samples, by scanning electron microscopy on Anzali sandy soil samples in before and after improvement conditions.
+&#160;
+&#160;
+Conclusions
+The effect of the increasing cohesive and cohesionless fines on the bio-treated process of sandy soil is the main subject of this research. For this purpose, three samples of clean sand, sand containing 30% clay and sand mixture with 30% silt in a relative density of 30% were treated with MICP method and their shear strength parameters were evaluated by direct shear test after 28 days of processing. Using the direct shear test and analyses of SEM and EDX data, the results are represented as below:
+1.&#160; The microbial sediment of carbonate calcium has greatly improved the resistance properties of all three soil samples.
+2. A sample of clayey sand, in spite of a higher improvement compared to the other samples with an average shear strength of 113.7% in comparison to to its untreated state, it has the lowest shear strength among the three improved samples.
+3. Increasing the clay content of 30% increases the soil voids. On the other hand, it reduces the friction angle and shear strength of the soil in the pre-treated state and also facilitates easier movement of the bacteria between the pores in the soil. More favorable distribution of sediment calcium carbonate was occurred and, as a result, increased adhesion between soil particles.
+4. The increase of cohesionless fine particles creates more bonding points between sand particles and, therefore, calcium carbonate crystals form shorter distances between the soil bridges. As a result, with the end of the improvement process, the shear strength parameters of the sandy soil containing 30% of the silt compared to the clean sand have a higher value.
+5. SEM images of the clean sand in both before and after improvement show that the calcium carbonate precipitation occurred with a uniform and thin layer that surrounds sand grains and another part of the sediments formed in the joint of grains.
+6. Cube-shaped crystalline sediments confirm that the sediment formed in the soil is a stable type of calcite and that the relative increase in the friction angle of the improvement samples can be attributed to solid particles and multifaceted sediments. Also, the elements of carbon, oxygen, and calcium, which are the main components for the formation of calcium carbonate deposits, have been found in the EDX analysis of improvement sand samples../files/site1/files/124/7sohrabi%DA%86%DA%A9%DB%8C%D8%AF%D9%87.pdf
+&#160;</abstract>
+	<fullTextUrl>http://jeg.khu.ac.ir/article-1-2637-en.html</fullTextUrl>
+	<keywords>
+	<keyword>Biocementation</keyword>
+	<keyword>clayey sand</keyword>
+	<keyword>soil improvement</keyword>
+	<keyword>microbially induced carbonate precipitation (MICP)</keyword>
+	<keyword>silty sand.</keyword>
+	</keywords>
+
+
+	</record>
+	<record>
+	<language>per</language>
+	<publisher>Kharazmi University</publisher>
+	<journalTitle>Journal of Engineering Geology</journalTitle>
+	<issn>2228-6837</issn>
+	<publicationDate>2019-04</publicationDate>
+	<volume>12</volume>
+	<issue>4</issue>
+	<startPage>707</startPage>
+	<endPage>726</endPage>
+	<documentType>article</documentType>
+	<title language="eng">Simulation of Near-Field Records using  Wavelet Functions </title>
+
+
+	<authors>
+	<author>
+	<name>Sheyda Nazari</name>
+	<email></email>
+	<affiliationId>1</affiliationId>
+	 </author>
+	<author>
+	<name>Afshin Meshkat-Dini</name>
+	<email></email>
+	<affiliationId>2</affiliationId>
+	 </author>
+	<author>
+	<name>Jafar Keyvani</name>
+	<email></email>
+	<affiliationId>3</affiliationId>
+	 </author>
+	</authors>
+	 <affiliationsList>
+	      <affiliationName affiliationId="1">
+             Kharazmi University, Tehran, Iran    
+	      </affiliationName>
+	      <affiliationName affiliationId="2">
+             Kharazmi University, Tehran, Iran    
+	      </affiliationName>
+	      <affiliationName affiliationId="3">
+             Kharazmi University, Tehran, Iran    
+	      </affiliationName>
+    </affiliationsList>
+
+
+	<abstract language="eng">Introduction
+Study on the main characteristics of strong ground motions, has relatively long history. The observations and investigations on the structural damages after strong earthquakes such as Northridge 1994 in California, Kobe 1995 in Japan, Tabas 1978 and Bam 2003 in Iran, are representatives of the destructive effects of strong near-field records. The most important specification of the near-field records which distinguish them from far-field records, is their ability to generate energized and relatively short-duration acceleration spikes as well as high amplitude and long-domain velocity pulses. Moreover, according to the lack of accurate statistical profiles as well as many deficiencies, processing the spectral existent data is not able enough to fully explain the seismic tremors. Based on the fact that the great earthquakes have long recurrence interval and also many high seismic zones of Iran do not possess strong tremors, hence generating and simulating feasible great events is required by applying closed form models and analysis of available data. In this study, in order to simulate the existent pulses in the time history of near-field records, the developed mathematical configuration is presented by analytical comprehensive attitude on the closed form model by Mavroeidis and Papageorgiou (2003).
+Material and methods
+Simulation of strong ground shakings, especially in areas where there is limited recorded data, plays a key role in assessing dynamic behavior of structures. Owing to unique characteristics of strong near-field ground motions, it is not possible to determine exact effects of these strong records on structures using simplified mathematical models. It is feasible to develop more complicated models which represent much more characteristics of near-field ground motions. Mavroeidis and Papageorgiou (2003) studied the parameters affecting near-fault ground motions. Their studies resulted in introducing a mathematical model capable of interpolating velocity pulses of near-field earthquake records (MP model). This closed-form MP model interpolates long duration pulses using a set of input spectral parameters.
+&#160;The pulse period, the pulse amplitude, the number and phase of half cycles are the key parameters that define the shape of velocity pulse. Thus, a four-parameter model has been developed to describe velocity pulses which contain forward directivity effects. In this research, it was observed that by using a combination of cubic and exponential terms, an enhanced model for interpolating the pulses presented in near-field earthquake records could be achieved (EMP model). Figure 1 shows the analytical interpolation of acceleration and velocity time histories using MP and EMP models.
+&#160;
+Figure 1. Fitting of acceleration time histories with MP and EMP models
+&#160;
+Results and discussion
+Based on the obtained results, it is observed that there is a striking similarity between analytical characteristics obtained by actual earthquake records and mathematical pulses. Moreover, using the enhanced closed-form model (EMP model) reduces discrepancy between the results obtained under actual and the synthetic earthquake records.
+Conclusion
+Findings of this research reveal that equivalent pulses could be a good representative of actual earthquake records analytically, in order to assess the seismological characteristics of these tremors. It is worth mentioning that modelization of forward directivity pulses displayed in time history of strong ground shakings, is an efficient measure in evaluating seismic response of structures. In addition, due to stochastic nature of earthquakes, computational uncertainties and descriptive limitations of analytical parameters, using closed-form models require a high level of accuracy../files/site1/files/124/8nazari%DA%86%DA%A9%DB%8C%D8%AF%D9%87.pdf
+&#160;</abstract>
+	<fullTextUrl>http://jeg.khu.ac.ir/article-1-2608-en.html</fullTextUrl>
+	<keywords>
+	<keyword>strong ground motion</keyword>
+	<keyword>energized spikes</keyword>
+	<keyword>high amplitude pulses</keyword>
+	<keyword>closed form model </keyword>
+	</keywords>
+
+
+	</record>
+ </records>
+ 
+  
+  
+  
+  
+ 

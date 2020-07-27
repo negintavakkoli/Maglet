@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه اصفهان</PublisherName>
+				<JournalTitle>مدیریت دارایی و تأمین مالی</JournalTitle>
+				<Issn>2383-1170</Issn>
+				<Volume>3</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2015</Year>
+					<Month>05</Month>
+					<Day>22</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Forecasting Stock Index with Neural Network and Wavelet Transform</ArticleTitle>
+<VernacularTitle>پیش‌بینی شاخص قیمت بورس سهام با استفاده از شبکه عصبی و تبدیل موجک</VernacularTitle>
+			<FirstPage>55</FirstPage>
+			<LastPage>74</LastPage>
+			<ELocationID EIdType="pii">19904</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>رضا</FirstName>
+					<LastName>راعی</LastName>
+<Affiliation>دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>شاپور</FirstName>
+					<LastName>محمدی</LastName>
+<Affiliation>دانشگاه تهران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حنظله</FirstName>
+					<LastName>فندرسکی</LastName>
+<Affiliation>دانشگاه تهران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>06</Month>
+					<Day>14</Day>
+				</PubDate>
+			</History>
+		<Abstract>Â  Stock index as time series are non-stationary and highly noisy due to the fact that stock markets are affected by a variety of factors. It is regarded as one of the most challenging application of time series forecasting. Predicting stock index with the noisy data directly is usually subject to large errors. In this paper we compare forecasting the stock index via Wavelet De-noising-based Neural Network (WDNN) with forecasting stock index via single neural network. The daily Tehran Stock index from April 2006 to June 2013 are used to compare the application of the WDNN in predicting the stock index. Experimental results show that de-noising with wavelet transform outperforms the single neural network.</Abstract>
+			<OtherAbstract Language="FA">  شاخص بازار سرمایه به عنوان دماسنج اقتصادی هر کشور می‌باشد. از این رو پیش‌بینی این متغییر جهت اخذ دید کلی از وضعیت اقتصادی و اخذ استراتژی‌های سرمایه‌گذاری، یکی از مسائل مهم به شمار می‌رود. از جمله روش‌های پیش‌بینی پرکاربرد در سری‌های زمانی مالی، شبکه عصبی می‌باشد که با توجه به جامعیت این روش و عدم وجود برخی از پیش‌فرض‌ها در خصوص داده‌ها، گسترش زیادی نسبت به روش‌های آماری یافته است. اما وجود نویز در سری‌های زمانی به خصوص در سری‌های زمانی مالی و اقتصادی باعث کاهش دقت پیش‌بینی شبکه عصبی می‌گردد. یکی از روش‌های نوفه‌زدایی در سری‌های زمانی، تبدیل موجک می‌باشد. این تحقیق به مقایسه بین دقت پیش‌بینی شاخص کل بورس اوراق بهادار تهران در دو مدل شبکه عصبی با استفاده از داده‌های نوفه‌زدایی شده با تبدیل موجک و شبکه عصبی با استفاده از داده‌های اولیه از ابتدای سال 1385 تا 31 خرداد 1392 می‌پردازد. نتایج حاکی از بهبود معنادار در پیش‌بینی شبکه عصبی با استفاده از داده‌های نوفه‌زدایی شده می‌باشد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">تبدیل موجک</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبکه عصبی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">نوفه‌زدایی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">آستانه</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://amf.ui.ac.ir/article_19904_f0190f00b780a0c19c07b3e4ad45f229.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشکده مدیریت دانشگاه تهران</PublisherName>
+				<JournalTitle>مدیریت صنعتی</JournalTitle>
+				<Issn>2008-5885</Issn>
+				<Volume>7</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2015</Year>
+					<Month>09</Month>
+					<Day>23</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>A multi- objective project portfolio selection and scheduling problem under uncertainty (case study: company of Payafanavaran Ferdowsi)</ArticleTitle>
+<VernacularTitle>مسئلۀ چندهدفۀ انتخاب و زمان‌بندی سبد پروژه‌ در شرایط عدم‌قطعیت (مطالعۀ موردی: شرکت‌ دانش‌بنیان پایافناوران فردوسی)</VernacularTitle>
+			<FirstPage>469</FirstPage>
+			<LastPage>488</LastPage>
+			<ELocationID EIdType="pii">57260</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/imj.2015.57260</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>ابراهیم</FirstName>
+					<LastName>رضایی نیک</LastName>
+<Affiliation>استادیار گروه مهندسی صنایع، دانشکدۀ مهندسی صنایع، دانشگاه صنعتی سجاد، مشهد، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>فریبا</FirstName>
+					<LastName>مولوی</LastName>
+<Affiliation>دانشجوی کارشناسی‌ارشد مهندسی صنایع، دانشکدۀ مهندسی صنایع، دانشگاه صنعتی سجاد، مشهد، ایران</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2014</Year>
+					<Month>12</Month>
+					<Day>08</Day>
+				</PubDate>
+			</History>
+		<Abstract>Nowadays organization especially R&amp;D centers are dealing with project portfolio selection decisions under uncertainty. Moreover in the most of the past research, project portfolio selection and scheduling are often considered to be independent problem. This leads to insufficient result in real world. So in this research simultaneous project portfolio selection and scheduling problem is modeling whose objectives are maximizing expected profit and minimizing risk. Moreover there is autocorrelation among annual earnings. Therefore an efficient time series methodology is used for forecasting. Another advantage of proposed model is considering uncertainty of project success and earnings and also risk of dealing with budget deficiency. Due to the complexity of problem, especially for large size, practical swarm, simulated annealing and genetic algorithm are presented and their efficiency is compared by a hypothetical example. The results show efficiency of simulated annealing algorithm in terms of quality and execution time. Finally the model is validated via its application to a knowledge based company in Ferdowsi University of Mashhad.</Abstract>
+			<OtherAbstract Language="FA"> امروزه سازمان‌ها و به‌خصوص مراکز تحقیق و توسعه با مسئلۀ انتخاب سبد پروژه در شرایط عدم ‌قطعیت مواجه‌اند. علاوه‌بر این در بیشتر تحقیقات گذشته زمان‌بندی سبد پروژه به‌صورت مجزا پس از انتخاب آنها صورت می‌گیرد که به کاهش کارایی مدل می‌انجامد. ازاین‌رو در این پژوهش، یک مدل برنامه‌ریزی عدد صحیح غیرخطی برای مسئلۀ‌ چندهدفۀ انتخاب و زمان‌بندی همزمان با اهدف ماکزیمم‌سازی ارزش کنونی خالص مورد انتظار و مینیمم‌سازی ارزش کنونی واریانس درآمد کل پروژه‌ها ارائه می‌شود. همچنین درآمد سالانۀ پروژه‌ها دارای خودهمبستگی است و از مدل‌ سری زمانی مناسبی پیروی می‌کند. از مزایای مدل پیشنهادی، در نظر گرفتن ریسک ناشی از عدم ‌قطعیت موفقیت پروژه‌ها و درآمد آنها و نیز ریسک ناشی از کمبود بودجه است. با توجه به پیچیدگی زیاد آن به‌خصوص برای مسائل بزرگ، الگوریتم‌های ازدحام ذرات، شبیه‌سازی تبرید و ژنتیک ارائه شده و کارایی آنها در یک مثال فرضی مقایسه می‌شود. نتایج حاصل، بیانگر برتری نسبی الگوریتم شبیه‌سازی تبرید از نظر کیفیت جواب و زمان اجراست. سرانجام مدل پیشنهادی با پیاده‌سازی در یک شرکت دانش‌بنیان در دانشگاه فردوسی مشهد اعتبارسنجی می‌شود.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">احتمال موفقیت پروژه</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">انتخاب و زمان‌بندی سبد پروژه</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">درآمدهای خودهمبسته</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شبیه‌سازی تبرید</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://imj.ut.ac.ir/article_57260_e08e1179b27de8e4dfbb60b9c15ee761.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

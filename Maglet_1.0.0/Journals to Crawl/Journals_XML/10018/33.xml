@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-24T06:14:47Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://www.nowavari.ir/?_action=export&amp;rf=summon&amp;issue=2454</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-03-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>3</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>شناسایی، تحلیل و دسته بندی عوامل مؤثر بر شکل گیری شبکه های نوآوری در شرکت های دانش بنیان (مطالعه موردی پارک علم و فناوری دانشگاه تهران)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مهدی</given_name>
+												<surname>محمدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهدی</given_name>
+												<surname>حمیدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>بهروز</given_name>
+												<surname>محمودی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>سپیده</given_name>
+												<surname>جوادی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;امروزه با پیچیده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;تر شدن فناوری&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها، شرکت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها دیگر قادر نیستند به تنهایی به توسعة محصولات و خدمات نوآورانه بپردازند. از این&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;رو، همکاری میان آنها در جهت نوآوری در محصول و فناوری به امری مهم تبدیل شده است. در این راستا، شبکه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;سازی با هدف نوآوری به عنوان یکی از روش&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های همکاری مورد توجه سازمان&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها و شرکت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها قرارگرفته است. اما برای تحقق این نوع از شبکه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها باید به عواملی که بسترساز شکل&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گیری این مدل همکاری هستند، توجه کرد. در این راستا مقالة حاضر به شناسایی عوامل مؤثر بر شکل&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گیری شبکه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های نوآوری در شرکت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های دانش&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;بنیان از نظر تاثیرگذاری هر یک از مؤلفه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;پردازد. روش تحقیق استفاده شده در این پژوهش، روش میدانی و از نوع همبستگی بوده و تحلیل نتایج با استفاده از نرم&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;افزار &lt;/strong&gt;&lt;strong&gt;spss&lt;/strong&gt;&lt;strong&gt; و بهره&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گیری از روش تحلیل عاملی اکتشافی صورت گرفته است. این پژوهش مجموعة عوامل مؤثر بر شکل&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گیری شبکه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های نوآوری را در چهار دسته ارتباطات، توسعة همکاری، توانمندی&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های داخلی و تسهیل&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;کنندگان دسته&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;بندی می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;کند. نتایج همچنین نشان می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;دهد که متغیرهایی مانند وجود متخصصان، قوانین و اجرای مناسب، آشنایی شرکت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها با نوع فعالیت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های یکدیگر، وجود پایگاه دانش و اعتماد از اهمیت بالایی برخوردارند. &lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>شبکه</keyword>
+											<keyword>شبکه های نوآوری</keyword>
+											<keyword>شرکت های دانش بنیان</keyword>
+											<keyword>پارک علم وفناوری</keyword>
+											<keyword>تحلیل عاملی اکتشافی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>03</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>24</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_14736_ec7ff952110a3302100d8f1271957071.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-03-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>3</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>فراترکیب مدل های نوآوری منطقه ای مروری بر سال های 2013-1990</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>رضا</given_name>
+												<surname>نقی زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>شعبان</given_name>
+												<surname>الهی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>منوچهر</given_name>
+												<surname>منطقی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>سید سپهر</given_name>
+												<surname>قاضی نوری</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;در دهه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های اخیر مطالعات گسترده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ای پیرامون «توسعة نوآوری در مناطق» صورت پذیرفته است که بیشتر در حوزة مطالعات کیفی و موردی هستند. مقالة حاضر تلاش نموده است تا با استفاده از روش فراترکیب، یافته&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های مطالعات کیفی، مرتبط با مدل&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های نوآوری منطقه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ای را به صورت نظام&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;مند بررسی کند و بر اساس زمینه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های اصلی شناسایی&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شده، به تحلیل دلایل و بستر شکل&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گیری این مدل&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها بپردازد. در این تحقیق، 300 مقاله برگرفته از پایگاه داده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های سیج&lt;sup&gt;1&lt;/sup&gt; و اسکوپوس&lt;sup&gt;2&lt;/sup&gt; در بازة تاریخی سال&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های 1990 تا 2013 مورد بررسی قرار گرفت. در نهایت پس از دو مرحله غربال&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گری، 48 مقاله به عنوان مقاله با کیفیت بالا و متوسط جهت تحلیل عمیق&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;تر شناسایی شدند. سپس بر اساس نتایج حاصل از روش فراترکیب که از ابزار کدگذاری باز برای تحلیل مقالات استفاده نموده است، سه زمینة اصلی&lt;sup&gt;3&lt;/sup&gt; و زیر مجموعة آنها شناسایی شدند. زمینه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های اصلی شامل سطح توسعه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;یافتگی مناطق به ویژه در بخش نهادی، کاهش نقش دخالت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های مستقیم دولت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها در ارتباط با صنعت و بنگاه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های صنعتی، جهانی&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;سازی و افزایش ارتباطات بین&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;المللی هستند. هر کدام از زمینه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های اصلی، شامل تعدادی زمینة فرعی&lt;sup&gt;4&lt;/sup&gt; نیز هستند که در تحلیل&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها مورد نظر قرار گرفته&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;اند. در ادامه بر اساس تحلیل ارائه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شده، مناطق از نظر میزان نوآوری، به سه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گونه مناطق نوآور پیشرو، مناطق نوآور در حال گذار و مناطق کمتر نوآور تقسیم شدند. این تقسیم&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;بندی می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;تواند ابزار مناسبی جهت توسعة سیاست&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های نوآوری منطقه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ای باشد. &lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>مدل های نوآوری منطقه ای</keyword>
+											<keyword>گونه شناسی منطقه ای</keyword>
+											<keyword>فرا ترکیب</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>03</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>25</first_page>
+										<last_page>56</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_14737_b8784b94c69b2ac01dd34e3957b3dbb3.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-03-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>3</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تأثیر مدل سه شاخگی بر نوآوری اجتماعی (مطالعه موردی یک شرکت وابسته به صنایع خودروسازی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی</given_name>
+												<surname>مبینی دهکردی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهران</given_name>
+												<surname>کشتکار هرانکی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;در عصری که مهم&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ترین ویژگی آن، عدم اطمینان، پیچیدگی، جهانی&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;سازی و تغییرات فزایندة فناوری است، موفقیت سازمان&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها منوط به اقدامات نوآورانه از جمله به&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;کارگیری الگوهای جدید اجتماعی در تعاملات کارکنان است. این مهم با عنوان نوآوری اجتماعی، منجر به یافتن پاسخ&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های جدید برای نیازها، خواسته&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها و در نهایت تحقق اهداف سازمانی می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شود.  &lt;/strong&gt; &lt;strong&gt;تبیین نوآوری اجتماعی می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;تواند با عمق بخشیدن به درک اهمیت نوآوری اجتماعی، آگاهی و شناخت عوامل سازمانی را در تحقق آن ارتقاء دهد. بر این اساس، پژوهش حاضر با هدف بررسی نقش عوامل ساختاری، زمینه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ای و رفتاری در قالب مدل سه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شاخگی بر نوآوری اجتماعی در یک سازمان وابسته به صنعت خودروسازی انجام شد. نمونة آماری پژوهش تعداد 130 نفر از مدیران، معاونان و رئیسان بخش&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های مختلف صنعت یادشده است که با استفاده از فرمول کوکران انتخاب شده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;اند. نتایج این تحقیق سه نکته را نشان می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;دهد. نخست آن&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;که میان متغیرهای اصلی این پژوهش، رابطة مثبت و معنادار وجود دارد. دوم آن&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;که در مقایسة عوامل سه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شاخگی مشخص گردید عوامل ساختاری؛ رفتاری و زمینه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ای به ترتیب اولویت دارای بیشترین تأثیر بر نوآوری اجتماعی سازمان مورد مطالعه هستند؛ و در نهایت اینکه تأثیر این عوامل بر فرآیندهای نوآوری اجتماعی در مراحل پنج&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گانة آن متفاوت است. عوامل ساختاری، بر اجرا در مقیاس وسیع و ایجاد حس مشترک؛ عوامل زمینه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ای بر اجرا در مقیاس وسیع و نمونه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;سازی و عوامل رفتاری نیز بر ایجاد حس مشترک و اجرا در مقیاس وسیع به ترتیب بیشترین و کمترین تأثیر را دارند.&lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>نوآوری اجتماعی</keyword>
+											<keyword>مدل سه شاخگی</keyword>
+											<keyword>عوامل ساختاری</keyword>
+											<keyword>عوامل رفتاری</keyword>
+											<keyword>عوامل زمینه ای</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>03</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>57</first_page>
+										<last_page>75</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_14738_eaf649262b1c8d191dff76961b9be38b.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-03-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>3</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تأثیر سرمایه روانشناختی بر عملکرد سازمانی با تأکید بر نقش میانجی نوآوری در فناوری اطلاعات (مورد مطالعه : شعب بانک کشاورزی شهر تهران)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>بابک</given_name>
+												<surname>ضیاء</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد حسن</given_name>
+												<surname>مبارکی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مژگان</given_name>
+												<surname>سعیدیون</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;در دو دهه اخیر، عملکرد سازمانی به یکی از موضوع&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های مورد توجه و جذاب تبدیل شده و این تمایل هم در زمینه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های پژوهشی و هم در زمینه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های کاربردی به بروز نوآوری&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های بسیاری منجر شده است. پژوهش حاضر با هدف بررسی تأثیر سرمایه روان&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شناختی بر عملکرد سازمانی با تأکید بر نقش میانجی نوآوری در فناوری اطلاعات در شعب بانک کشاورزی شهر تهران در سال 1392 انجام شد. این پژوهش از نظر هدف کاربردی و از نظر ماهیت توصیفی- همبستگی می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;باشد. جامعه آماری پژوهش شامل کلیه مدیران و کارکنان شعب و برخی از واحدهای سرپرستی شعب بانک کشاورزی شهر تهران به تعداد 135 نفر بود. حجم نمونه با استفاده از جدول کرجسی مورگان 100 نفر محاسبه و برای نمونه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گیری از روش طبقه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ای تصادفی استفاده شد. گردآوری داده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها با استفاده از پرسشنامه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های استاندارد و تحلیل داده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها با به&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;کارگیری مدل&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;سازی معادلات ساختاری و با کمک نرم&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;افزار &lt;/strong&gt;&lt;strong&gt;Smart&lt;/strong&gt;&lt;strong&gt;PLS2&lt;/strong&gt;&lt;strong&gt; انجام شد. نتایج پژوهش نشان می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;دهد که نوآوری در فناوری &lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;اطلاعات تأثیر سرمایه روان&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شناختی بر عملکرد سازمانی را میانجی&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گری می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;کند و بین سرمایه روان&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شناختی و نوآوری در فناوری &lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;اطلاعات شعب بانک کشاورزی رابطه مثبت و معناداری وجود دارد. &lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>سرمایه روانشناختی</keyword>
+											<keyword>نوآوری در فناوری اطلاعات و عملکرد سازمانی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>03</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>77</first_page>
+										<last_page>100</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_14739_415843535f2c4162424409e2b882c3c7.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-03-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>3</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>جستاری در آموزش های تحصیلات تکمیلی مدیریت فناوری در جهان: یک مطالعه تطبیقی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید محمد حسین</given_name>
+												<surname>شجاعی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سید حامد</given_name>
+												<surname>مزارعی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;مطالعه و بررسی وضعیت برنامه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های آموزشی، از فعالیت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های مهم هر حوزه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt; دانشی برای ارزیابی خویش است. این مقاله می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;کوشد پس از مرور مطالعات پیشین درباره برنامه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های آموزشی مرتبط با مدیریت فناوری و دریافتن کاستی&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های آن&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها با روشی متفاوت به چهار پرسش درباره&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ی برنامه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های آموزشی تحصیلات تکمیلی در این حوزه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ی دانشی پاسخ دهد: 1- محل ارائه و نوع برنامه؛ 2- ارتباط میان تم&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های برنامه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها با محل ارائه؛3- پرتکرارترین درس&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها و 4- ارتباط میان درس&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها با تم&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها و دانشکده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها. برای این منظور ابتدا فهرست اولیه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ی برنامه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های آموزشی از طریق جستجوی اینترنتی کلیدواژه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های منتخب در نام برنامه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها تهیه شد؛ سپس با جستجوی برنامه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های آموزشی مدیریت فناوری در مجموعه برنامه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های صد دانشگاه برتر جهان و همچنین دانشگاه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های سطح خیلی خوب در فهرست دانشگاه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها و مؤسسه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های آموزشی خارجی مورد قبول وزارت علوم، تحقیقات و فناوری تکمیل شد. پس از استخراج داده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های مورد نیاز درباره&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ی برنامه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها از روش تحلیل زمینه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;محور عناوین برنامه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها و سرفصل دروس و تحلیل آن&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها بر اساس داده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های بخش نخست برای پاسخ به پرسش&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های پژوهش استفاده شد. نتایج این پژوهش، امکان مقایسه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt; تفاوت برنامه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های آموزشی را در مناطق و دانشکده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های مختلف و نیز در تم&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها و محتوای درسی آن&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها فراهم می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;کند. به علاوه، برنامه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های آموزشی مدیریت فناوری در ایران با نتایج به دست آمده مقایسه شده است.&lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>آموزش</keyword>
+											<keyword>مدیریت فناوری</keyword>
+											<keyword>مدیریت نوآوری</keyword>
+											<keyword>سیاستگذاری علم و فناوری</keyword>
+											<keyword>کارآفرینی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>03</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>101</first_page>
+										<last_page>130</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_14740_e3d7ad58548d8c932b3172e86c7dc0cd.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2015-03-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>مدیریت نوآوری</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2322-5386</issn>
+									<issn media_type="electronic">2322-5386</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1393</year>
+									</publication_date>
+									<journal_volume>
+										<volume>3</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>اولویت بندی عوامل اثرگذار بر ارزیابی طرح های سرمایه گذاری خطرپذیر</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>شهرزاد</given_name>
+												<surname>درخشان</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>پرستو</given_name>
+												<surname>محمدی</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;موضوع کارآفرینی و تجاری&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;سازی طرح&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های مبتنی بر ایده نوین، از جمله مسائلی است که اخیراً مورد توجه محققان قرار گرفته و علت آن نقش غیرقابل&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;انکار این طرح&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها در پیشرفت اقتصادی و فناورانه ایران است. این در حالی است که ارزیابی این طرح&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها یکی از مسائل چالش&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;برانگیز در ارتباط بین کارآفرین و سرمایه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گذار خطرپذیر است. هدف از این پژوهش بررسی و اولویت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;بندی عوامل مدنظر سرمایه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گذاران خطرپذیر در ارزیابی طرح&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های مبتنی بر ایده نوین است. بدین منظور با استفاده از روش پیمایش، اطلاعات مورد نیاز از طریق پرسشنامه تهیه گردید. جهت تجزیه تحلیل داده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها از روش حداقل مربعات جزئی استفاده شده است. نتایج این پژوهش نشان می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;دهد که معیار ملاحظات مالی محصول دارای بالاترین اولویت است و معیارهای شخصیت و توانایی کارآفرین به ترتیب در اولویت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های بعدی قرار گرفته&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;اند. همچنین از بین 46 زیر معیار اولیه، 24 زیر معیار به مرحله نهایی تجزیه و تحلیل رسیده&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;اند که توصیه می&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;شود در فاز غربالگری از این زیر معیارها استفاده گردد. نتایج این پژوهش در 4 طرح مبتنی بر ایده نوین یکی از شرکت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;های سرمایه&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;گذاری خطرپذیر اعتبارسنجی شد. صحت اولویت&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;بندی طرح&lt;/strong&gt;&lt;strong&gt;‌&lt;/strong&gt;&lt;strong&gt;ها بر اساس نتایج، در این اعتبارسنجی، برابر83 درصد بوده است.&lt;/strong&gt;</abstract>
+									<keywords>
+									
+											<keyword>سرمایه گذار خطرپذیر</keyword>
+											<keyword>ارزیابی طرح ها</keyword>
+											<keyword>اولویت دهی</keyword>
+											<keyword>مدلسازی معادلات ساختاری</keyword>
+											<keyword>حداقل مربعات جزئی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2015</year>
+										<month>03</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>131</first_page>
+										<last_page>152</last_page>
+									</pages>
+										<fullTextUrl>http://www.nowavari.ir/article_14741_4d68710abb85f6a948e9b9e99420bd7d.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

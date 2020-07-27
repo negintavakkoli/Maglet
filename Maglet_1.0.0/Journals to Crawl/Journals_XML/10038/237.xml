@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-27T00:39:10Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://www.jiraeg.ir/?_action=export&amp;rf=summon&amp;issue=14455</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>12</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی عملکرد و بهینه سازی جانمایی روش‌های نوین مدیریتی (LID-BMP) در بهبود کمیت رواناب سطحی شهر تهران-مطالعه موردی منطقه 22</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سودابه</given_name>
+												<surname>تقی زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>طاهر</given_name>
+												<surname>رجایی</surname>
+											</person_name></contributors>
+									<abstract>این تحقیق مدیریت خطرپذیری سیلاب شهری را با به‌کارگیری روش‌های نوین مدیریتی شامل اجرای ترانشه های نفوذ، مخازن نگهداشت دائمی زیستی و روسازی‌های نفوذپذیر در شبکه جمع‌آوری آب‌های سطحی ارائه می‌نماید. مدل بهینه‌سازی چندهدفه ارائه شده در این تحقیق با استفاده از الگوریتمMOPSO چندهدفه توسعه‌یافته که با مدل شبیه‌سازی شبکه جمع‌آوری آب‌های سطحی توسط نرم‌افزار SWMM ترکیب شده است. کاربرد روش پیشنهادی بر روی مطالعه موردی شبکه جمع‌آوری آب‌های سطحی منطقه 22 تهران تشریح شده است که شامل چهار سناریو مختلف می باشد؛ سناریو اول به بررسی عملکرد روش های نوین مدیریتی در بهبود کمیت رواناب سطحی بدون استفاده از BMP پرداخته شده است و سناریوهای دوم، سوم و چهارم به ترتیب از BMP های شامل ترانشه نفوذ، مخازن نگهداشت دائمی زیستی و روسازی نفوذپذیر، که در شش، چهار و دو درصد از زیر حوضه‌ها برای دوره بازگشت دو، پنج و 10ساله اعمال شده، استفاده‌ گردیده است. نتایج مدل‌سازی نشان می‌دهد که مخازن نگهداشت زیستی نسبت به ترانشه های نفوذ و روسازی‌های نفوذپذیر، توانایی بیشتری در کاهش دبی پیک دارد. همچنین با افزایشی دوره بازگشت از تاثیر BMPs کاسته می شود بطوری که مخازن نگهداشت زیستی 10% بیشتر از ترانشه‌های نفوذ و حدود20% بیشتر از روسازی‌های نفوذ پذیر در کاهش دبی پیک تاثیر گذار می باشند. هدف مدل بهینه‌سازی کاهش دبی پیک می‌باشد که نتایج نشان می‌دهد به‌کارگیری ترکیب بهینه هر سه رویکرد نوین، منجر به کاهش 51% تا 54% دبی پیک نسبت به موثربخش ترین BMP می‌شود.</abstract>
+									<keywords>
+									
+											<keyword>مدیریت سیلاب</keyword>
+											<keyword>LID-BMP</keyword>
+											<keyword>شبکه جمع‌آوری آب‌های سطحی شهری</keyword>
+											<keyword>خطرپذیری</keyword>
+											<keyword>PSO</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>21</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_101076_fba12c62403211b57702bb8a45fbc9f8.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>12</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تاثیر رس کائولینیت بر مقاومت خاک ماسه ای در برابر روانگرایی، مطالعه موردی شهرستان گرگان در شمال ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>رسول</given_name>
+												<surname>یازرلو</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ماشااله</given_name>
+												<surname>خامه چیان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمدرضا</given_name>
+												<surname>نیکودل</surname>
+											</person_name></contributors>
+									<abstract>در این مقاله پس از نمونه گیری از خاک ماسه‌ای منطقه و انجام آزمایشات پایه ژئوتکنیکی بر روی آن، با انجام یک سری آزمایش سه محوری سیکلی (دوره ای) اثر افزودن این ریزدانه بر پتانسیل روانگرایی خاک ماسه ای مورد مطالعه قرار گرفت. نتایج آزمایشات سه محوری سیکلی نشان داد که خاک ماسه ای مورد مطالعه پس از 54 سیکل بارگذاری روانگرا گردیده که نشان از مستعد بودن آن برای روانگرایی است. همچنین با افزودن ریزدانه به بافت خاک در درصدهای پایین مقاومت خاک در برابر روانگرایی کاهش یافته است که می تواند ناشی از شکسته شدن پیوند بین دانه‌های خاک توسط ذرات ریزدانه بوده باشد. اما با افزایش درصد ریزدانه مقاومت خاک در برابر روانگرایی افزایش می‌یابد که دلیل آن چیره شدن ریزدانه در بافت خاک و ایجاد چسبندگی در آن است. این روند کاهشی و سپس افزایشی در مقاومت خاک در برابر روانگرایی با افزودن ریزدانه در مطالعات دیگر نیز دیده شده است که به مقدار ریزدانه‌ای که پس از آن مقاومت خاک رو به افزایش میگذارد، ریزدانه حدی گفته می شود. نتایج این مقاله نشان داد که برای خاک ماسه ای شهرستان گرگان مقدار ریزدانه حدی خاک رس کائولینیت مقدار 12 درصد وزنی می باشد.</abstract>
+									<keywords>
+									
+											<keyword>خاک ماسه ای</keyword>
+											<keyword>آزمایش سه محوری سیکلی</keyword>
+											<keyword>روانگرایی</keyword>
+											<keyword>شهرستان گرگان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>23</first_page>
+										<last_page>41</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_101374_357ecde638b2e83eb1bc38656eeab6be.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>12</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی و طبقه‌بندی قابلیت مکانیزاسیون لایه‌های زغال‌سنگ تحت شرایط زمین‌شناسی (مطالعه موردی: حوضه البرز شرقی و طبس)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>رضا</given_name>
+												<surname>میکائیل</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>احسان</given_name>
+												<surname>جعفرنژاد قراحسنلو</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>امیر</given_name>
+												<surname>جعفرپور</surname>
+											</person_name></contributors>
+									<abstract>امروزه به‌ موازات استخراج مواد معدنی به‌ویژه زغال‌سنگ، اهدافی همچون دستیابی به بهره‌وری و نرخ تولید بالا، بهبود شرایط کاری و کاهش هزینه‌های معدنکاری دنبال می‌شود. یکی از مناسب‌ترین گزینه‏ها برای رسیدن به این اهداف، جایگزینی روش‌های استخراج سنتی با استخراج تمام‌مکانیزه‌ است. مکانیزه کردن فرآیند استخراج لایه‏های زغالی، برخلاف روش‏های سنتی امری زمان‌بر و نیازمند صرف هزینه‌های سرمایه‌گذاری بالا می‏باشد. لذا توجه به این امر حساسیت ویژه‏ای در تمامی مراحل طراحی و اجرا را موجب می‏شود. قابلیت مکانیزاسیون لایه‌های زغالی متأثر از عوامل عمده‌ای نظیر شیب، ضخامت، یکنواختی لایه، کیفیت سنگ سقف، کیفیت سنگ کف و دبی آب موجود در سینه‌کار است. در تحقیق حاضر سعی شده است یک سیستم طبقه بندی فازی چند فاکتوره با استفاده از تلفیق رویکرد فازی چند‌معیاره و روش FDAHP، جهت ارزیابی و شناسایی قابلیت مکانیزاسیون لایه‏های زغالی ارائه شود. بدین منظور قابلیت مکانیزاسیون 17 کارگاه استخراجی مربوط به لایه‌های زغالی در حوضه البرز شرقی و طبس مورد ارزیابی قرار گرفت. مطابق نتایج به‌دست‌آمده از سیستم طبقه‌بندی فازی ارائه‌شده، تنها دو لایه زغالی T پروده طبس، با رده کیفی خوب و لایه زغالی K11 معدن تخت، با رده کیفی متوسط شرایط اجرای استخراج مکانیزه را دارا بوده و سایر لایه‌ها رده کیفی مناسبی برای مکانیزاسیون به‌دست نیاوردند. در ادامه نتایج حاصل از بررسی‏ قابلیت مکانیزاسیون لایه‏های مورد مطالعه با شرایط اجرایی فعلی آن‏ها مورد ارزیابی قرار گرفت. نتایج بررسی‏ها نشان داد که با قابلیت اطمینان بالایی lمیتوان به ارزیابی قابلیت مکانیزاسیون لایه های زغالی با استفاده از سیستم طبقه بندی فازی چند فاکتوره پرداخت.</abstract>
+									<keywords>
+									
+											<keyword>مکانیزاسیون</keyword>
+											<keyword>طبقه‌بندی</keyword>
+											<keyword>تئوری فازی</keyword>
+											<keyword>زغال‌سنگ البرز شرقی</keyword>
+											<keyword>طبس</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>43</first_page>
+										<last_page>64</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_101375_b2d032eca65c4c28113f6481593b7478.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>12</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی موردی اثر پارامترهای فیزیکی بر تغییرات مقاومت الکتریکی خاکهای ریزدانه</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>عبداله</given_name>
+												<surname>سهرابی بیدار</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>ابراهیم</given_name>
+												<surname>اصغری کلجاهی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>بهزاد</given_name>
+												<surname>امینی</surname>
+											</person_name></contributors>
+									<abstract>مقاومت الکتریکی شاخصی ساده برای ارزیابی پتانسیل خورندگی خاکها می‌باشد. جهت بررسی خورندگی خاک در منطقه صنعتی شهرک خیرآباد در حاشیه دریاچه میقان در استان اراک، مقاومت ویژه الکتریکی به صورت آزمایشگاهی و با استفاده از جعبه میلر و در شرایط مختلف از نظر رطوبت اندازه گیری شده است. خاکهای منطقه از نوع ریزدانه بوده و نوعاً رسی هستند. در رطوبت کمینه و متناظر با وضعیت فصل خشک، خاکهای منطقه دارای پتانسیل خورندگی متوسط تا شدید هستند که به سمت دریاچه میقان افزایش می‌یابد. الگوی وضعیت خورندگی در خاکهای سطحی (0 تا 5 متر) از آبراهه‌های شمال شرقی به جنوب غربی پیروی می‌کند و در اعماق بیشتر (5 تا 10 متر) همگنی نسبی بیشتری دیده می‌شود. با افزایش مقدار رطوبت، مقاومت الکتریکی به شدت کاهش یافته و به تبع آن در رطوبت 25 درصد، پتانسیل خورندگی خاکهای منطقه به رده شدید و بسیار شدید تغییر می‌یابد. تحلیل کوواریانس و ضریب همبستگی نسبت کاهش مقاومت الکتریکی در اثر افزایش رطوبت با مشخصات فیزیکی پایه خاک، حاکی از اثرگذاری عمده مواد ریزدانه عبوری از الک 200 بوده و اثر شاخص خمیری، حد روانی و دانسیته خشک در مقایسه با آن کمتر است.</abstract>
+									<keywords>
+									
+											<keyword>مقاومت الکتریکی</keyword>
+											<keyword>خورندگی خاک</keyword>
+											<keyword>مشخصات فیزیکی خاک</keyword>
+											<keyword>جعبه میلر</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>65</first_page>
+										<last_page>74</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_101377_017baa725a4f4714f10566f94670d028.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>12</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بکارگیری روشAHP و مشخصات ساختگاه در پهنه‌بندی لرزه‌ای و بررسی آسیب‌پذیری ساختمانها (مطالعه موردی شهر کرمانشاه)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مریم</given_name>
+												<surname>حسنی نیا</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رسول</given_name>
+												<surname>اجل لوئیان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>محمدرضا</given_name>
+												<surname>حبیبی</surname>
+											</person_name></contributors>
+									<abstract>در نقاط مختلف جهان روش‌های متفاوتی برای پهنه‌بندی لرزه‌ای و ارزیابی آسیب‌پذیری ساختمان‌ها در برابر زلزله ارائه شده است. در این مطالعات، پهنه‌بندی لرزه‌ای عموما تنها براساس پروفیل ژئوتکنیکی خاک و سرعت موج برشی در آن می-باشد. در سال 2013 مدلی برای کشور ایران تحت عنوان karmania hazard model (KHM) ارائه شد که در آن پهنه‌بندی لرزه‌ای و ارزیابی آسیب‌پذیری ساختمان‌ها و افراد در بدترین سناریوی زلزله برمبنای پارامترهای اساسی ساختگاه مانند بافت خاک، سطح آب زیرزمینی، داده های میکروترمور و ضخامت آبرفت انجام شده است. &lt;br /&gt; در این مطالعه برای پهنه‌بندی لرزه‌ای و بررسی آسیب‌پذیری ساختمان‌ها در شهر کرمانشاه، روش تحلیل سلسله مراتبی در مدل KHM بکار گرفته شده است. نتایج نشان می-دهد که میزان آسیب‌پذیری برای 80% از ساختمان‌های مسکونی در سطح خرابی کم تا متوسط خواهد بود اما 2% از ساختمان‌ها دچار تخریب کامل (D1)، 7% دچار تخریب بسیار زیاد (D2) و 11% دچار تخریب زیاد(D3) می‌شود. مدل ارائه شده به کمک داده‌ها و مشاهدات حاصل از زلزله سرپل‌ذهاب صحت‌سنجی شده است که نتایج حاصل از مدل تطابق خوبی با داده‌ها و مشاهدات واقعی زلزله دارد.</abstract>
+									<keywords>
+									
+											<keyword>پهنه‌بندی لرزه‌ای</keyword>
+											<keyword>آسیب‌پذیری ساختمان‌ها</keyword>
+											<keyword>شدت زلزله</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>75</first_page>
+										<last_page>94</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_101378_0a606c50c12bd0e73e43dee89ab41fa1.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>12</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>پیشنهاد موقعیت بهینه حفاری در کانسار مس پورفیری نارباغی شمالی ساوه براساس مدل-‏سازی داده‌های ژئوفیزیکی ‏</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>رضا</given_name>
+												<surname>احمدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمدرضا</given_name>
+												<surname>رضاپور</surname>
+											</person_name></contributors>
+									<abstract>در پژوهش حاضر مدل‎‌‎سازی داده‌های ژئوفیزیکی مغناطیس سنجی، قطبش القایی و مقاومت ویژه در کانسار مس پورفیری نارباغی شمالی ‏ساوه انجام شد. اطلاعات لیتولوژی و عیارسنجی مس مغزه‌های حاصل از حفاری 23 حلقه گمانه اکتشافی عمیق با متراژ کلی 2425 متر ‏بطور پراکنده در سطح محدوده نیز در دسترس می‌باشد. در گام نخست بر روی داده‌های مغناطیسی، پردازش‌های مورد نیاز به منظور ‏برجسته سازی بی‌هنجاری‌های عمقی، با استفاده از نرم‌افزار ‏Oasis montaj‏ اعمال شد. سپس مدل‌سازی وارون داده‌های هفت پروفیل ‏ژئوالکتریکی با استفاده از نرم‌افزار ‏Res2dinv‏ صورت گرفت و براساس تفسیر کیفی مقاطع ژئوفیزیکی بارپذیری، مقاومت ویژه و فاکتور ‏فلزی پروفیل‌ها، موقعیت بهینه حفاری بر روی هر پروفیل پیشنهاد گردید. در ادامه نقشه تغییرات عمقی ویژگی‌های ژئوالکتریکی منطقه ‏برای داده‌های وارون سازی شده چهار عمق 10، 25، 43 و 78 متری ترسیم و تفسیر شد. سپس برای تجسم تغییرات فضایی ویژگی‌های ‏الکتریکی منطقه و پیشنهاد مناسب‌ترین موقعیت عملیات حفاری، مدل شبه سه‌بعدی تغییرات مقاومت ویژه، بارپذیری و فاکتور فلزی ‏‏محدوده کانسار بعد از مدل‌سازی وارون، با استفاده از نرم‌افزار ‏Rockworks‏ ترسیم شد. ترسیم مقطع ماده‌ معدنی منطبق بر پروفیل‌های ‏ژئوفیزیکی با استفاده از داده‌های عیارسنجی گمانه ها نشان داد که حفاری برخی از گمانه های منطبق بر پروفیل‌ها و غیرمبتنی بر نتایج ‏عملیات ژئوفیزیکی، بدون هیچ‌گونه منطق، هدف و طراحی درستی صورت گرفته و فاقد ماده معدنی نیز می‌باشند. همچنین بررسی میزان ‏تطابق کیفی نتایج عملیات برداشت ژئوالکتریک با داده‌های عیارسنجی گمانه‌های حاوی ماده معدنی منطبق بر پروفیل‌های ژئوفیزیک، به ‏طورکلی تطابق کیفی متوسطی را بین این داده‌ها نشان داد.‏</abstract>
+									<keywords>
+									
+											<keyword>کانسار مس نارباغی شمالی ساوه</keyword>
+											<keyword>مغناطیس‌سنجی</keyword>
+											<keyword>مقاومت‌ویژه (‏Rs‏)</keyword>
+											<keyword>قطبش القایی (‏IP‏)</keyword>
+											<keyword>مدل‌سازی ژئوفیزیکی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>95</first_page>
+										<last_page>121</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_101379_8e54d4283ce2af038c6a771d74abf99c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2020-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>نشریه انجمن زمین شناسی مهندسی ایران</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">2228-5245</issn>
+									<issn media_type="electronic">2228-5245</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1398</year>
+									</publication_date>
+									<journal_volume>
+										<volume>12</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>جایگاه مبانی نظریة اخلاق زمین در پایش اثرات اکوهیدرولوژیکی پروژه‎های عمرانی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>وحید</given_name>
+												<surname>جودکی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رسول</given_name>
+												<surname>اجل لوئیان</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>نغمه</given_name>
+												<surname>مبرقعی دینان</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>عبداله</given_name>
+												<surname>سهرابی بیدار</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>علی</given_name>
+												<surname>عالی انوری</surname>
+											</person_name></contributors>
+									<abstract>پژوهش حاضر با هدف بررسی نقش مبانی نظریة اخلاق زمین در پایش پیامدهای اکوهیدرولوژیکی پروژه‎های عمرانی صورت گرفته است. پژوهش حاضر یک مطالعه میدانی است. جامعه پژوهش شامل تمامی جوامع انسانی، منابع آب و اکوسیستم‎ها (گیاهی، جانوری و...) در محدوده اجرای تونل‎های پروژه قمرود است. اطلاعات به روش مشاهداتِ میدانی و طی چند مرحله بازدیدهای صحرایی ضمن بررسی شرایط زمین‎شناسی ساختگاه طرح (در منطقه شهرستان الیگودرز) جمع‎آوری شده است و از منظر مبانی نظریة اخلاق زمین مورد تفسیر قرار گرفته‎اند. نتایج به دست آمده نشان می‎دهد که عملیات حفاری تونل قمرود، موجب تغییر رژیم هیدروژئولوژی منطقه (کاهش دبی چاه‎ها و چشمه‎ها)، مهاجرت روستاییان، تضعیف کشاورزی و شبکه‎ اقتصاد محلی، تاثیر بر زیستگاه گونه‎های گیاهی- جانوری، تاثیر بر سیمای منطقه (پتانسیل صنعت ژئوتوریسم) شده است. تغییر رژیم هیدروژئولوژی و پیامدهای اجتماعی آن، متأثر از شرایط زمین‎شناسی حین حفاری (هجوم آب در اثر وجود زون‎های خردشده، چین‎خوردگی‎ها، شیب لایه‎بندی‎ها، تغییرات لیتولوژیکی و ...) در ساختگاه طرح (زون زمین‎شناسی سنندج سیرجان) بوده است. سایر پیامدهای طرح نیز بطور غیر مستقیم به شرایط زمین‎شناسی منطقه ارتباط پیدا می‏کند.</abstract>
+									<keywords>
+									
+											<keyword>اخلاق زمین</keyword>
+											<keyword>اکوهیدرولوژیکی</keyword>
+											<keyword>زون سنندج سیرجان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2020</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>123</first_page>
+										<last_page>143</last_page>
+									</pages>
+										<fullTextUrl>http://www.jiraeg.ir/article_101381_afdedcb22db5993f2b53993d94a59abe.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

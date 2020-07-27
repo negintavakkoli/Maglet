@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1398</year>
+	<month>1</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2019</year>
+	<month>4</month>
+	<day>1</day>
+</pubdate>
+<volume>12</volume>
+<number>4</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>پیشنهاد پوشش بتنی مسلح بر اساس کنترل نشت آب از تونل‎های تحت فشار با بهره‎گیری از مدل المان محدود</title_fa>
+	<title>Reinforced Concrete Lining Suggestion based on Seepage Control of Pressure Tunnels using the Finite Element Model</title>
+	<subject_fa>ژئوتکنیک (مکانیک خاک و سنگ)</subject_fa>
+	<subject>Geotecnic</subject>
+	<content_type_fa>مقاله استخراج شده از پایان نامه</content_type_fa>
+	<content_type>Research Paper</content_type>
+	<abstract_fa>&lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;تونل&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;های تحت فشار با پوشش بتنی، منابعی از جریان نشت آب به توده&lt;/span&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;سنگ دربرگیرنده خود هستند، از این&#8204;رو، طی فرآیند آب&lt;/span&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;گیری مقاومت کمی در برابر فشار نشت آب خواهند داشت و با افزایش فشار آب داخلی تونل، فشار نشت آب به توده&amp;lrm;سنگ منتقل خواهد شد. در این شرایط به&amp;lrm;واسطۀ درزه، ترک، منافذ و همۀ المان&lt;/span&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;های توده&amp;lrm;سنگ از تمام جهات تحت تأثیر فشار نشت آب قرار می&amp;lrm;گیرند. این اندرکنش هیدرومکانیکی باعث تغییرات نفوذپذیری المان&lt;/span&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;های توده&amp;lrm;سنگ طی فرآیند آب&lt;/span&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;گیری می&lt;/span&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;شود. بنابراین، تغییرات &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;صورت گرفته&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt; در تنش منجر به تغییراتی در ضریب نفوذپذیری و توزیع مجدد میدان نشت می&#8204;شود. از این رو، در این تحقیق&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;از&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;روش&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;المان&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;محدود&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;به&#8204;کمک&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;نرم&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;افزار&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:times new roman,serif;&quot;&gt;&lt;span style=&quot;font-size:9.0pt;&quot;&gt;ABAQUS&lt;/span&gt;&lt;/span&gt; &amp;nbsp;&lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;برای&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;مدل&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;سازی&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;این&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;اندرکنش استفاده شده است. در این راستا از داده&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;های تونل تحت فشار طرح سد و نیروگاه گتوند به&#8204;عنوان مطالعۀ موردی بهره گرفته شده است. به&#8204;منظور نزدیک&#8204;کردن مدل به شرایط واقعی، تأثیر تغییرات نفوذپذیری پوشش بتنی و توده&#8204;سنگ بر تغییر&#8204;شکل&#8204;ها و تنش&lt;/span&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;های ایجاد شده در محیط با استفاده از کد &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:times new roman,serif;&quot;&gt;&lt;span style=&quot;font-size:9.0pt;&quot;&gt;USDFLD&lt;/span&gt;&lt;/span&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt; به مدل&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt; اعمال شده است. نتایج مدل عددی نشان می&lt;/span&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;دهد که به&#8204;منظور کنترل نشت از تونل&lt;/span&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;های تحت فشار با پوشش بتنی، ضخامت پوشش و آرایش مناسب میل&#8204;گردها در پوشش بتنی در ممانعت از نشت بیش از حد مجاز از تونل نقش به&#8204;سزایی را ایفا می&lt;/span&gt;&amp;lrm;&lt;span dir=&quot;RTL&quot;&gt;کنند.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</abstract_fa>
+	<abstract>&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br&gt;
+Pressure tunnels in hydroelectric plants are used to convey water to &lt;a name=&quot;OLE_LINK35&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK32&quot;&gt;powerhouses&lt;/a&gt;. These tunnels are the sources of seepage flow to the rock formation, thus, during the water filling, they will have a low resistance to seepage and, by increasing the internal water pressure of the tunnel, the inflow force will be transferred to the rock mass. In these conditions, the cracks, pores and all other elements of the rock mass are affected by the seepage forces in all directions. This hydro-mechanical interaction affects changing the stresses and displacements of the rock mass around the tunnel and causes modifications in the permeability of rock elements during the water filling. Therefore, changes in stress distribution lead to alterations in the permeability coefficient and redistribution of the seepage field. In these conditions, since the analytical solution of the problem is not possible, the numerical analysis based on the finite element method has been used in this study.&lt;br&gt;
+&lt;strong&gt;Material and methods&lt;/strong&gt;&lt;br&gt;
+In this approach, the rock mass is considered as an equivalent continuum in which the effects of discontinuities are taken into account in its material behavior. High-pressure tunnels under internal water pressure requires reinforced concrete lining to prevent hydro-fracturing. The ABAQUS software is capable of analyzing such as seepage from the tunnel, modeling of the steel bars in concrete, and taking into account hydro-mechanical interaction. Thus, the software is used for numerical analysis.&lt;br&gt;
+The pressure tunnel of the Gotvand dam and hydroelectric power plant (HPP) scheme is taken as a case study for the numerical simulation. Pressure tunnel of the &lt;a name=&quot;OLE_LINK23&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK16&quot;&gt;Gotvand &lt;/a&gt;dam located in the southwest of Iran is taken as a case study for the numerical simulation. Among behavioral models in the software, Mohr-Coulomb failure criterion is considered to describe the rock mass, but the principle of effective stress determines the rock mass behavior. Since the concrete lining of the pressure tunnel will undergo two mechanisms of the cracking due to tension and the crushing due to compression, concrete damaged plasticity model is used to predict the response of the concrete elements. The evolution of the yield surface of the concrete lining is also controlled with tensile and compressive equivalent plastic strains, correspondingly.&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;br&gt;
+In this study, the hydro-mechanical interaction is implemented based on the analysis of the pore fluid/deformation analysis, and the direct-coupled method is used to solve the governing equations of the problem. To verify the proposed model, the elastic behavior of the media is simulated to compare the numerical and the analytical solutions and &lt;a name=&quot;OLE_LINK540&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK536&quot;&gt;good agreement &lt;/a&gt;is obtained. The numerical analyses are carried out the hydro-mechanical interaction with constant permeability coefficient.&lt;a name=&quot;OLE_LINK353&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK354&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK137&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK136&quot;&gt; When cracks develop in the concrete lining at high water pressure&lt;/a&gt;&lt;a name=&quot;OLE_LINK386&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK387&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK352&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK351&quot;&gt;, the properties of the concrete&lt;/a&gt;&lt;a name=&quot;OLE_LINK342&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK343&quot;&gt; lining &lt;/a&gt;change and as a result, the stress dependent permeability of the lining and surrounding rock mass in pressure tunnels should be considered. The coefficient of permeability controls the rate of seepage flow in porous and fractured media. Although permeability represents an original property of the porous media, it can be modified when subjected to the stress variations. Instead of changing aperture, the change in the void space or volume is the typical consequence that results to change the permeability coefficient. In order to bring the model closer to the real conditions and in the validation of the new model, the influence of the permeability coefficient variations of the concrete and rock mass on the deformations and stresses of the model has been added to nonlinear analysis by USDFLD code. Increasing the water head in the tunnel during water filling is also considered with the combination of DLOAD and DISP codes in the model.&lt;br&gt;
+&lt;strong&gt;Results and discussion&lt;/strong&gt;&lt;br&gt;
+Since the lining and rock mass have nonlinear properties and complex behavior, for verification of the model in ABAQUS software, the model is simulated with homogeneous, isotropic and elastic behavior. The results of seepage flow on the interface of the concrete lining and rock mass obtained by analytical and numerical solutions indicate that there is a &amp;plusmn;5 % difference between &lt;a name=&quot;OLE_LINK528&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK527&quot;&gt;the&lt;/a&gt;m. Then, the results of the elastic behavior of the model &lt;a name=&quot;OLE_LINK544&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK541&quot;&gt;show &lt;/a&gt;&lt;a name=&quot;OLE_LINK302&quot;&gt;&lt;/a&gt;&lt;a name=&quot;OLE_LINK300&quot;&gt;a good agreement &lt;/a&gt;with the results of analytical solutions. Therefore, this numerical model has been employed for the nonlinear analyses.&lt;br&gt;
+Finally, the optimal thickness of the concrete lining with the appropriate arrangement of the reinforcement in the reinforced concrete linings is utilized to minimize water losses from the tunnel based on the new model. Thus, the results of the analysis with the aim of reducing the water losses from the tunnel indicate that the suitable arrangement of the steel bars in the concrete lining leads to the distribution of micro cracks in the lining, and the reinforcement stress stays at a lower value with high internal water pressure. Based on the new numerical model, it is suggested that the lining should be designed with the thickness of 40 cm and the reinforcement with the diameter of 16 mm and the spacing of 20 cm.&lt;br&gt;
+&amp;nbsp;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;br&gt;
+The results of the numerical model indicate that to control the seepage outflow from concrete-lined pressure tunnels, the thickness of the lining and the suitable arrangement of the steel bars in the concrete lining play a significant role in preventing excessive seepage from the tunnel&lt;a href=&quot;./files/site1/files/124/3dadashi%DA%86%DA%A9%DB%8C%D8%AF%D9%87.pdf&quot;&gt;./files/site1/files/124/3dadashi%DA%86%DA%A9%DB%8C%D8%AF%D9%87.pdf&lt;/a&gt;</abstract>
+	<keyword_fa>تونل تحت فشار, پوشش بتنی مسلح, اندرکنش هیدرومکانیکی, نرم افزار ABAQUS, نشت, سد و نیروگاه گتوند, کد USDFLD.</keyword_fa>
+	<keyword>Pressure Tunnel, Reinforced Concrete Lining, Hydro-Mechanical Interaction, ABAQUS software, Seepage Control.</keyword>
+	<start_page>599</start_page>
+	<end_page>616</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-1572-1&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>Ehsan</first_name>
+	<middle_name></middle_name>
+	<last_name> Dadashi</last_name>
+	<suffix></suffix>
+	<first_name_fa>احسان</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>داداشی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>edadashi.22@gmail.com</email>
+	<code>10031947532846003623</code>
+	<orcid>10031947532846003623</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه آزاد اسلامی، واحد علوم تحقیقات تهرانhttps://jeg.khu.ac.ir/admin_pg_old2.php?sid=1&amp;slc_lang=fa</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Ali</first_name>
+	<middle_name></middle_name>
+	<last_name> Noorzad</last_name>
+	<suffix></suffix>
+	<first_name_fa>علی</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>نورزاد</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>a_noorzad@sbu.ac.ir</email>
+	<code>10031947532846003624</code>
+	<orcid>10031947532846003624</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه شهید بهشتی، دانشکدۀ مهندسی عمران، آب و محیط‌زیست</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name> Koroush</first_name>
+	<middle_name></middle_name>
+	<last_name>Shahriar</last_name>
+	<suffix></suffix>
+	<first_name_fa>کورش</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>شهریار</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>k.shahriar@aut.ac.ir</email>
+	<code>10031947532846003625</code>
+	<orcid>10031947532846003625</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی امیرکبیر، دانشکده مهندسی معدن و متالورژی</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Kamran</first_name>
+	<middle_name></middle_name>
+	<last_name> Goshtasbi</last_name>
+	<suffix></suffix>
+	<first_name_fa>کامران</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>گشتاسبی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>goshtasbi.k@gmail.com</email>
+	<code>10031947532846003626</code>
+	<orcid>10031947532846003626</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه تربیت مدرس، گروه مهندسی معدن مکانیک سنگ</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

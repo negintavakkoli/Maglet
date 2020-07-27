@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-24T06:00:35Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://jmm.iranjournals.ir/?_action=export&amp;rf=summon&amp;issue=4535</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-05-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>65</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>پیش‌بینی پیشرفت تحصیلی دانشجویان دانشگاه افسری امام علی(ع) بر اساس سبک‌های تفکر</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>جهانبخش</given_name>
+												<surname>صادقی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>جواد</given_name>
+												<surname>اژه‌ای</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مسعود</given_name>
+												<surname>غلامعلی لواسانی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>ناصر</given_name>
+												<surname>عباس زاده</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;چکیده&lt;/strong&gt;
+هدف از اجرای این پژوهش پیش‌بینی پیشرفت تحصیلی دانشجویان بر اساس سبک‌های تفکر بود. تعداد 705 دانشجوی دانشگاه افسری امام علی&lt;sup&gt;(ع)&lt;/sup&gt; به روش نمونه‌برداری تصادفی طبقه‌ای انتخاب شدند. برای سنجش متغیر سبک‌های تفکر از پرسش‌نامۀ فرم کوتاه سبک‌های تفکر اشترنبرگ و واگنر (1992) استفاده شد. برای اندازه‌گیری پیشرفت تحصیلی دانشجویان میانگین کل نمره‌های آنها در دروس مصوب دانشگاهی محاسبه گردید. نتایج تحقیق نشان داد که سبک‌های تفکر سلسله‌مراتبی، کلی، بیرونی، قانون‌گذاری، قضایی و سبک‌های تفکر نوع اول با پیشرفت تحصیلی رابطه مثبت معنی‌دار، و سبک تفکر درونی با پیشرفت تحصیلی رابطه منفی معنی‌دار دارند. همچنین نتایج تحلیل رگرسیون گام به گام نشان داد که در کل دانشجویان، ضریب همبستگی چندگانه بین سبک‌های تفکر و پیشرفت تحصیلی 0.19 است و سبک‌های تفکر قانون‌گذاری (سبک تفکر نوع اول)، جزئی (سبک تفکر نوع دوم) و بیرونی (سبک تفکر نوع سوم)، 3.7 درصد از واریانس پیشرفت تحصیلی را تبیین کرده‌اند. در دانشجویان سال اول، ضریب همبستگی چندگانه بین سبک‌های تفکر و پیشرفت تحصیلی 0.29 است و سبک‌های تفکر سلسله‌مراتبی و کلی (سبک‌های تفکر نوع اول)، 8.2 درصد از واریانس پیشرفت تحصیلی را تبیین کردند. در دانشجویان سال دوم، همبستگی چندگانه 0.28 است و سبک تفکر بیرونی (سبک تفکر نوع سوم) 7.4 درصد از واریانس پیشرفت تحصیلی را تبیین کرده است. بین سبک‌های تفکر و پیشرفت تحصیلی دانشجویان سال سوم رابطۀ معنی‌داری مشاهده نشد. این نتایج در ارتباط با پژوهش‌های گذشته مورد بحث و بررسی قرار گرفته است.</abstract>
+									<keywords>
+									
+											<keyword>سبک‌های تفکر</keyword>
+											<keyword>پیشرفت تحصیلی</keyword>
+											<keyword>دانشجوی افسری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>05</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>28</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_27701_bfb605bbe3a6d3ca648246b22adef2e5.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-05-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>65</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>طراحی الگوی پیش‌بینی فناوری‌های مؤثر دفاعی به ‌منظور اجرای برنامه‌های راهبردی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>حسن</given_name>
+												<surname>امیری</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;چکیده&lt;/strong&gt;
+یکی از مهم‌ترین نیازهای صنایع دفاعی کشورهای در حال توسعه، تصمیم‌گیری در رابطه با چگونگی سرمایه‌گذاری در عرصه دانش و فناوری است که با توجه به کمبود منابع از یک سو و هزینه‌های بالای پژوهش و توسعه فناوری از سوی دیگر، اهمیت روزافزونی یافته است. در صنعت هر سیستم دفاعی وجود یک مدل کارآمد پیش‌بینی فناوری، به‌منظور طراحی ساختار تعاملات و زمینه سازی جهت انتخاب‌های راهبردی الزامی است و عدم وجود چنین ساز و کاری، منجر به ناکامی سیاست‌های دفاعی در دستیابی به اهداف آن می‌گردد. مشخصات و ویژگی‌های الگوی کارآمد پیش‌بینی فناوری، از عمده مسائل هر مجموعه صنعتی، دفاعی می‌باشد که در این رابطه سیاستگذاران و برنامه ریزان امور دفاعی با سؤالاتی مانند چگونگی طراحی مدل پیش‌بینی فناوری و شاخص‌ها و ویژگی‌هایی که می‌بایست در طراحی این مدل مورد توجه قرار گرفته و ملاک ارزیابی قرار گیرند، مواجه می‌باشند. هدف این پژوهش بررسی سایر جنبه‌های تأثیرگذار بر ارتقای توانمندی سیستم پیش‌بینی فناوری‌های دفاعی و دستیابی به الگویی جامع در جهت اجرای راهبردهای دفاعی، از طریق انتخاب و توسعه فناوری‌های مناسب و مؤثر می‌باشد. این پژوهش از طریق انجام مطالعات کتابخانه‌ای گسترده و تحلیل سیاست‌های دفاعی کلان ملی و سایر اسناد بالادستی، بهره‌برداری از مطالعات و الگوهای ارائه شده موجود و نظرسنجی از کارشناسان باتجربه و برنامه ریزان صنایع دفاعی، اقدام به استخراج ویژگی‌های الگوی پیش‌بینی فناوری‌های دفاعی نموده است و ضمن به‌کارگیری روش تحلیل احتمالات به‌ منظور تشخیص سایر موقعیت‌های محتمل و ممکن، در زمینه نتایج حاصل از انتخاب و به‌کارگیری فناوری‌های دفاعی و تشریح نحوه تحلیل و ارزیابی فناوری‌ها، میزان تأثیرگذاری هر یک از عوامل تشکیل دهنده الگوی کارآمد پیش‌بینی فناوری‌های دفاعی را تعیین می‌نماید.</abstract>
+									<keywords>
+									
+											<keyword>فناوری دفاعی</keyword>
+											<keyword>پیش‌بینی فناوری</keyword>
+											<keyword>تحلیل احتمالات</keyword>
+											<keyword>راهبردهای دفاعی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>05</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>29</first_page>
+										<last_page>53</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_27703_cc58fa0fe92fee6c30ffa48b3d4a8f48.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-05-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>65</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>به‌کارگیری شبکه‌های عصبی مصنوعی در مدیریت مالی فرایندهای پژوهشی مطالعات دفاعی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>فرامرز</given_name>
+												<surname>فتح‌نژاد</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>مهدی</given_name>
+												<surname>بصیری</surname>
+											</person_name></contributors>
+									<abstract>&lt;strong&gt;چکیده&lt;/strong&gt;&lt;br /&gt; مدیریت مالی فرایند‌های پژوهش‌های نظری در مراکز مطالعاتی و پژوهشی دفاعی، با توجه به محدودیت‌های مربوط به اعتبارات پژوهشی و گستردگی این مراکز و نیز وجود اولویت‌های پژوهشی و سطح‌بندی آنها، همواره از اهمیت ویژه‌ای برخوردار بوده و چالش‌هایی را برای تصمیم‌گیران این حوزه ایجاد نموده است. هدف مقاله پیش رو شناسایی معیارهای مناسب مدیریت مالی فرایندهای پژوهشی در مراکز دفاعی (مطالعۀ موردی ارتش ج. ا. ا) و طراحی الگوی واگذاری بهینه آن به کمک سیستم هوشمند شبکه عصبی مصنوعی می‌باشد. در ابتدا با مراجعه به دستورالعمل‌ها و آیین‌نامه‌های پژوهشی آجا معیارهای واگذاری اعتبار تعیین و سپس از طریق پرسشنامه در مراکز پژوهشی مورد نظر معیارهای تعیین شده بررسی و مورد تأیید قرار گرفت. در ادامه الگوی واگذاری اعتبارات پژوهشی با استفاده از شبکه عصبی مصنوعی هاپفیلد و توسط نرم‌افزار متلب طراحی گردید. با مشخص شدن ماهیت ورودی و خروجی واگذاری اعتبارات پژوهشی سه حالت تخصیص اعتبار بر اساس شبکه عصبی مصنوعی ارائه گردید. یافته‌های پژوهش بیانگر آن است که از بین بیست و پنج شاخص شناسایی شده تعداد سه شاخص مورد تأیید قرار نگرفته و شاخص‌های چاپ کتاب، نوآوری در پژوهش و ارائه نظریه بالاترین اولویت را دارا می‌باشند. همچنین از بین سه الگوی وارد شده به شبکه الگوی اول بیشترین هم‌گرایی را با جواب شبکه که ارتقای دانش نظامی است، دارا می‌باشد.</abstract>
+									<keywords>
+									
+											<keyword>مدیریت مالی</keyword>
+											<keyword>فرایندهای پژوهشی</keyword>
+											<keyword>شبکه عصبی مصنوعی</keyword>
+											<keyword>مراکز مطالعات دفاعی آجا</keyword>
+											<keyword>شبکه هاپفیلد</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>05</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>54</first_page>
+										<last_page>65</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_27704_c3f3c1e9283800383bf58254c1e996ac.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-05-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>65</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی و برآورد وضعیت معیشت بازنشستگان نیروهای مسلح در افق 1404</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محسن</given_name>
+												<surname>رسولیان</surname>
+											</person_name></contributors>
+									<abstract>هدف از انجام این تحقیق مطالعه وضعیت معیشتی بازنشستگان ن.م، مقایسه وضعیت معیشتی بازنشستگان ن.م با خط کم‌توانی مالی، تخمین و برآورد خط کم‌توانی مالی و درآمد بازنشستگان ن.م در افق 1404 می‌باشد. جامعه هدف این تحقیق از سه گروه وظیفه‌بگیران، مستمری‌بگیران و بازنشستگان ن.م و شامل 756841 نفر که خود دربرگیرنده 111604 نفر وظیفه‌بگیر، 502279 نفر بازنشسته و 142958 نفر مستمری‌بگیر می‌باشد. مواد و داده‌های مورد نیاز این پژوهش در حوزه نظری با استفاده از نظریه‌‌های مرتبط با معیشت و سطح زندگی و در حوزه میدانی با استفاده از اطلاعات مستند خروجی از بانک مرکزی و مرکز آمار ایران و همچنین گردآوری داده‌های میدانی حقیقی مربوط به جامعه بازنشستگان نیروهای مسلح انجام پذیرفته است. در این تحقیق وضعیت مستمری بازنشستگان ن.م به هفت گروه تقسیم شده و میزان رشد آن تا سال 1404 بر اساس همین روال جاری کشور تخمین زده شد. در انتها مقایسه‌هایی بین خط کم‌توانی مالی و وضعیت درآمدی بازنشستگان ن.م تا سال 1404 برای هر یک از گروه‌ها انجام گرفت. نتایج نشان می‌دهد که در صورت استمرار وضع موجود، گروه‌های اول تا چهارم از بازنشستگان که حدود 90 درصد بازنشستگان را تشکیل می‌دهند، از توانمندی مالی مناسبی در قیاس با هزینه‌های زندگی برخوردار نخواهند بود.</abstract>
+									<keywords>
+									
+											<keyword>کم‌توانی مالی</keyword>
+											<keyword>خط فقر</keyword>
+											<keyword>درآمد</keyword>
+											<keyword>معیشت</keyword>
+											<keyword>بازنشستگان نیروهای مسلح</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>05</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>74</first_page>
+										<last_page>105</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_27705_a6394ad2371e93b9163f377c2f291ad0.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-05-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>65</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارائه الگوی راهبردی مهاجرت سازمان‌های دفاعی به محیط رایانش ابری</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمدرضا</given_name>
+												<surname>ولوی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد رضا</given_name>
+												<surname>موحدی صفت</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>ایمان</given_name>
+												<surname>باقری کوشالشاه</surname>
+											</person_name></contributors>
+									<abstract>فناوری اطلاعات و ارتباطات دارای تأثیر مستقیم در همه بخش‌های یک سازمان است. رایانش ابری به‌عنوان یک فناوری نوظهور توانسته با به اشتراک‌گذاری منابع و برنامه‌های کاربردی میان کاربران، محیط انعطاف‌پذیر و قدرتمندی را در سازمان‌ها ایجاد نماید. امروزه اغلب سازمان‌های دنیا ازجمله سازمان‌های دفاعی در حال برنامه‌ریزی برای مهاجرت به محیط رایانش ابری می‌باشند. با وجود همه مزایای استفاده از رایانش ابری در سازمان‌های دفاعی، باید به مسئله امنیت به ‌عنوان مهم‌ترین چالش توجه ویژه شود. تحقیق حاضر که به شیوه توصیفی – پیمایشی است، به ارائه الگوی راهبردی برای نحوه مهاجرت سازمان‌های دفاعی به محیط رایانش ابری پرداخته است. جامعه آماری این تحقیق فرماندهان، مدیران و کارشناسان ارشد سازمان‌های فناوری اطلاعات نیروهای مسلح و دانشجویان دوره‌های دکتری مدیریت راهبردی فضای سایبر می‌باشند که به‌عنوان خبرگان تحقیق در نظر گرفته شده‌اند. نتایج تحقیق نشان می‌دهد که شناسایی زیرساخت‌های جاری سازمان‌های دفاعی در حوزه‌های مختلف و ایجاد الگو برای مهاجرت به محیط رایانش ابری به‌عنوان مهم‌ترین راهبردها باید مد نظر قرار گیرند. همچنین اقدامات مرتبط با هر راهبرد نیز به‌عنوان نتایج تحقیق آورده شده است.</abstract>
+									<keywords>
+									
+											<keyword>رایانش ابری</keyword>
+											<keyword>سازمان‌های دفاعی</keyword>
+											<keyword>امنیت فناوری اطلاعات و ارتباطات</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>05</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>106</first_page>
+										<last_page>130</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_27706_12524b1f0b5d6ca7e4a0c6991abc333b.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2017-05-22</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>65</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>اثربخشی مشاوره گروهی کوتاه‌مدت با رویکرد راه‌حل‌محور بر سازگاری سربازان وظیفه آسایشگاه بخواب</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مسلم</given_name>
+												<surname>ایران‌مهر</surname>
+											</person_name></contributors>
+									<abstract>ازجمله مشکلاتی که گریبانگیر مسئولان امر در خدمت سربازی می‌باشد، ناسازگاری برخی از سربازان است. مشاوره گروهی راه‌حل‌محور ازجمله رویکردهای جدید است که به دلایلی همچون ساده بودن، کوتاه‌مدت بودن و تأکید بر شناخت افراد، کاربرد آن در محیط‌های نظامی و سربازی که آموزش و حتی زندگی افراد به ‌صورت گروهی است، مقرون به صرفه است. بنابراین هدف از این پژوهش «بررسی اثربخشی مشاوره گروهی راه‌حل‌محور بر سازگاری سربازان وظیفه آسایشگاه بخواب» بود. روش پژوهش حاضر آزمایشی و با استفاده از طرح پیش‌آزمون-پس‌آزمون با گروه گواه بود. جامعه آماری کلیه سربازان آسایشگاه بخواب قرارگاه سربازی ستاد نیروی هوایی در سال 1394 بودند. نمونه پژوهش تعداد 28 نفر از سربازان آسایشگاه بخواب بودند که بر مبنای نتایج آزمون سازگاری نمره آن‌ها پایین‌تر از حد میانگین بود و داوطلب شرکت در این پژوهش بودند. این تعداد به‌صورت تصادفی ساده در دو گروه آزمایش و گواه قرار گرفتند. ابزار پژوهش پرسشنامه سازگاری 60 ماده‌ای سینحا و سینگ (1997) بود. ده جلسه 80 دقیقه‌ای مشاوره گروهی راه‌حل‌محور با گروه آزمایش تشکیل شد. نتایج به دست آمده نشان دهنده این است که مشاوره گروهی راه‌حل‌محور به ‌طور معناداری موجب افزایش سازگاری کلی، اجتماعی، عاطفی و آموزشی سربازان وظیفه آسایشگاه بخواب می‌شود. ولی در مورد سازگاری آموزشی این تأثیر در جهت مثبت معنادار نیست. با توجه به یافته‌های پژوهش، می‌توان نتیجه گرفت که مشاوره گروهی راه‌حل‌محور در افزایش سازگاری سربازان وظیفه مؤثر است و از این رویکرد می‌توان برای کاهش ناسازگاری سربازان وظیفه استفاده نمود.</abstract>
+									<keywords>
+									
+											<keyword>رویکرد راه‌حل‌محور</keyword>
+											<keyword>مشاوره گروهی راه‌حل‌محور</keyword>
+											<keyword>سازگاری</keyword>
+											<keyword>سربازان وظیفه</keyword>
+											<keyword>خدمت سربازی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2017</year>
+										<month>05</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>131</first_page>
+										<last_page>147</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_27707_f088ed4b888fa2c136776fd1a543234c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

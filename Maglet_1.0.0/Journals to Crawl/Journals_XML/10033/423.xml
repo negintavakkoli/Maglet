@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-25T03:00:55Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.22048">http://saffron.torbath.ac.ir/?_action=export&amp;rf=summon&amp;issue=9826</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی مدیریت تلفیقی حاصلخیزکننده‌های خاک و آبیاری تابستانه بر خصوصیات زراعی و عملکرد گل و کلاله زعفران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>قربانعلی</given_name>
+												<surname>اسدی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سرور</given_name>
+												<surname>خرم دل</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>رضا</given_name>
+												<surname>قربانی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>بهاره</given_name>
+												<surname>بیچرانلو</surname>
+											</person_name></contributors>
+									<abstract>به منظور بررسی تأثیر کودهای آلی، شیمیایی و بیولوژیکی و آبیاری تابستانه بر خصوصیات رشد، بنه، گل و کلاله زعفران، آزمایشی به صورت فاکتوریل در قالب طرح پایه بلوک‌های کامل تصادفی با سه تکرار در مزرعه تحقیقاتی دانشکده کشاورزی دانشگاه فردوسی مشهد طیسه سال زراعی 93-1392، 94-1393 و 95-1394 انجام شد. فاکتور اولشامل کود دامی (a1)، کود شیمیایی (NPK) (a2)، تیوباسیلوس (a3)، گوگرد (a4)، a4+a3و شاهد (a5) و فاکتور دوم، آبیاریتابستانه در سه سطح شامل عرف منطقه (A: بدون آبیاری تابستانه)،A+ یک نوبت آبیاری تابستانه (اول مرداد) و A+ دو نوبت آبیاری تابستانه (اول تیر+اول مرداد) بود.صفات مورد مطالعه شامل تعداد و وزن تر گل، وزن خشک کلاله، وزن خشک برگ،قطر بنه، وزن بنه در چهار گروه وزنی (4-2، 8-1/4، 16-1/8و بیش از 1/16 گرم)، وزن خشک بنه‌های دختری، درصد بنه‌های دارای ریشه انقباضی، تعداد و وزن خشک جوانه‌های گل دهنده بود. تجزیه و تحلیل نتایج سال سوم نشان داد کهاثر متقابل کود و آبیاری تابستانه، بر تمام صفات مورد بررسی به جز وزن خشک کلاله، بنه‌های با وزن بیش از 16 گرم و وزن خشک بنه‌های دختری معنی‌دار بود (01/0p≤). بیشترین تعداد گل در متر مربع (7/282)، وزن تر گل (g/m22/103) و وزن خشک کلاله (g/m273/1)، وزن خشک برگ (g/m233/13)، وزن خشک جوانه‌ها (g/m261/4)، تعداد جوانه‌های گل دهنده در بنه (627/2)، درصد بنه‌های دارای ریشه انقباضی (41/58)، قطر بنه ( cm61/3) و گروه‌های مختلف وزنی بنه در تیمار کود دامی و A+یک نوبت آبیاری تابستانه مشاهده شد.</abstract>
+									<keywords>
+									
+											<keyword>ریشه انقباضی</keyword>
+											<keyword>تعداد گل</keyword>
+											<keyword>جوانه گل دهنده</keyword>
+											<keyword>عملکرد کلاله</keyword>
+											<keyword>بنه دختری</keyword>
+											<keyword>کود دامی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>393</first_page>
+										<last_page>414</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_58033_f400a811f856c267a7320bba51ef4219.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی اثر اسید فولویک و کود دامی بر مواد موثره و فعالیت ضد رادیکالی گلبرگ زعفران (.<i>Crocus sativus</i> L)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد حسین</given_name>
+												<surname>امینی فرد</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>فریده</given_name>
+												<surname>احمدی</surname>
+											</person_name></contributors>
+									<abstract>به منظور بررسی اثرات کود گاوی و اسید فولویک بر فعالیت آنتی‏اکسیدانی و مواد مؤثره زعفران (Crocus sativus L.)، آزمایشی به صورت فاکتوریل در قالب طرح پایه بلوک‏های کامل تصادفی در سه تکرار، در مزرعه دانشکده کشاورزی دانشگاه بیرجند در سال زراعی 1395- 1394 اجرا شد. فاکتورها شامل کود گاوی در چهار سطح (صفر، 10، 20 و 30 تن در هکتار) و اسید فولویک در سه سطح (صفر، 5 و 10 کیلوگرم در هکتار) با سه تکرار بودند. نتایج دوساله نشان داد که در سال اول اجرای آزمایش کود گاوی بر مواد مؤثره کلاله ( پیکروکروسین، کروسین و سافرانال) و در سال دوم بر فعالیت آنتی‏اکسیدانی گلبرگ (آنتوسیانین و فنول) و مواد مؤثره کلاله معنی‏دار شد. بیشترین مقدار سافرانال در سال اول در سطح 10 تن در هکتار کود گاوی به دست آمد. اسید فولویک نیز در دو سال آزمایش بر مواد مؤثره (کروسین و پیکروکروسین)، آنتوسیانین و فنول اثر معنی‏داری داشت. به طوریکه بیشترین میزان آنتوسیانین و فنول در هر دو سال در تیمار 5 کیلوگرم در هکتار اسید فولویک و کمترین مقدار آنها در سطح شاهد مشاهده گردید. اثر متقابل کود گاوی و اسید فولویک نیز در دو سال بر مواد مؤثره کلاله و در سال دوم بر آنتوسیانین و فنول اثر معنی‏داری گذاشت. به طور کلی نتایج نشان داد،کود گاوی و اسید فولویک تاثیر مثبتی بر فعالیت آنتی‏اکسیدانی و مواد مؤثره زعفران در این آزمایش داشت.</abstract>
+									<keywords>
+									
+											<keyword>عملکرد کلاله</keyword>
+											<keyword>کروسین</keyword>
+											<keyword>آنتوسیانین</keyword>
+											<keyword>کود آلی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>415</first_page>
+										<last_page>428</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_55269_df423e71f248887ac8fb9d5ab6789e03.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی اثر کود دامی و الگوی کشت بر برخی از خصوصیات کمی گل و بنه زعفران زراعی (Crocus sativus L.) در شرایط اقلیمی گناباد</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>یاسر</given_name>
+												<surname>اسماعیلیان</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد بهزاد</given_name>
+												<surname>امیری</surname>
+											</person_name></contributors>
+									<abstract>به منظور بررسی واکنش گیاه دارویی زعفران به تراکم کاشت و سطوح مختلف کود دامی آزمایشی دو ساله به صورت اسپلیت پلات و در قالب طرح بلوک های کامل تصادفی با سه تکرار در سال های زراعی 95-1394 و 96-1395 در منطقه گناباد اجرا شد. عامل اصلی شامل فواصل روی ردیف 5، 10، و 15 سانتی متر و عامل فرعی بصورت شاهد (عدم مصرف کود)، و کاربرد 20، 40، و 60 تن در هکتار کود گاوی بود. نتایج آزمایش نشان داد حداکثر عملکرد گل تر در سال اول (4/127 کیلوگرم در هکتار) از کاربرد 60 تن در هکتار و در سال دوم (3/72 کیلوگرم در هکتار) از مصرف 40 تن در هکتار کود گاوی تحت تراکم کاشت 5 سانتی متر روی ردیف بدست آمد. بیشترین عملکرد کلاله تر در هر دو سال آزمایش (به ترتیب با مقادیر 300/10 و 383/5 کیلوگرم در هکتار) در اثر کاشت پرتراکم (فاصله روی ردیف 5 سانتی متر) و اعمال 40 تن در هکتار کود گاوی حاصل شد. عملکرد کلاله خشک نیز در نتیجه تأثیر همین تیمار به ترتیب با مقادیر 300/2 و 770/1 کیلوگرم در هکتار در دو سال آزمایش افزایش بیشتری در مقایسه با سایر تیمارها نشان داد. بالاترین تعداد بنه خواهری در هر دو سال آزمایش (به ترتیب 614 و 591 بنه در متر مربع) از کشت با بیشترین تراکم بنه حاصل شد. در سال اول، تیمار 40 تن در هکتار کود دامی بیشترین مقادیر (592 بنه در متر مربع) را داشته و در سال دوم، تیمار 60 تن در هکتار بالاترین مقادیر (572 بنه در متر مربع) را نشان داد. بیشترین عملکرد بنه در سال اول با میانگین 22724 کیلوگرم در هکتار از فاصله روی ردیف 5 سانتی متر و اعمال 40 تن در هکتار کود دامی حاصل شد. اما در سال دوم بیشترین میانگین (12429 کیلوگرم در هکتار) از همین تراکم کاشت و مصرف 60 تن در هکتار کود دامی بدست آمد. بنابراین، برای دستیابی به عملکرد اقتصادی مناسب در زراعت زعفران، کاربرد 40 تن در هکتار کود گاوی در تراکم کاشت 5×20 سانتی متر در شرایط اقلیمی و خاکی مشابه با محل این آزمایش پیشنهاد می گردد.</abstract>
+									<keywords>
+									
+											<keyword>تراکم</keyword>
+											<keyword>عملکرد</keyword>
+											<keyword>عوامل محیطی</keyword>
+											<keyword>کلاله</keyword>
+											<keyword>کود گاوی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>429</first_page>
+										<last_page>444</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_62312_a80ad347c15cfe876f8f96d08373e5f4.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>اثر وزن بنه مادری و میزان کود گاوی بر عملکرد گل و بنه زعفران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>رامین</given_name>
+												<surname>اسمی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>پرویز</given_name>
+												<surname>رضوانی مقدم</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علیرضا</given_name>
+												<surname>کوچکی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>احمد</given_name>
+												<surname>احمدیان</surname>
+											</person_name></contributors>
+									<abstract>به‌منظور بررسی اثر وزن بنه مادری (شامل 7-1/4، 10- 1/7 و 13- 1/10 گرم) و سطوح مختلف کود گاوی (شامل30 (شاهد)، 60 و 90 تن در هکتار) بر خصوصیات گل و بنه‌های دختری زعفران، آزمایشی به‌صورت فاکتوریل در قالب طرح پایه بلوک‌های کامل تصادفی با سه تکرار طی دو سال‌ زراعی (94-93 و 93-92) در شهرستان زاوه اجرا شد. نتایج تجزیه واریانس در سال اول و دوم نشان داد که بین اثرات ساده و اثرات متقابل اکثر صفات مورد مطالعه اختلاف معنی‌دار وجود داشت و این اختلافات در سال دوم بیشتر بود. بیشترین و کمترین تعداد گل بترتیب در تیمارهای 90 تن کود گاوی همراه با بنه درشت (13-1/10 گرم) و 60 تن کود گاوی همراه با بنه ریز (7-1/4 گرم) مشاهده گردید. تیمار های 60 تن کود گاوی همراه با بنه درشت و 60 تن کود گاوی همراه با بنه ریز بترتیب بیشترین و کمترین وزن خشک کلاله را تولید کردند. بیشترین و کمترین تعداد کل بنه دختری و عملکرد کل بنه دختری بترتیب متعلق به تیمارهای 90 تن کود گاوی همراه با بنه درشت و30 تن (شاهد) کود گاوی همراه با بنه ریز بود. همچنین مقایسات میانگین اثر متقابل در سال دوم نشان داد که تیمارهای 90 تن کود گاوی همراه با بنه درشت و30 تن (شاهد) کود گاوی همراه با بنه ریز بترتیب بیشترین و کمترین تعداد گل ، وزن خشک کلاله ، تعداد کل بنه دختری و عملکرد کل بنه دختری را دارا بودند. در نهایت می‌توان این‌گونه نتیجه‌گرفت که با افزایش مصرف کود گاوی (بیش از 60 تن) و استفاده از بنه‌های مادری با وزن بیش از 7 گرم می‌توان باعث بهبود صفات تعداد و عملکرد بنه دختری شده و این صفات بخصوص در سال‌های آتی باعث افزایش عملکرد کلاله زعفران می‌گردند.</abstract>
+									<keywords>
+									
+											<keyword>بنه دختری</keyword>
+											<keyword>تعداد گل</keyword>
+											<keyword>عملکرد کلاله</keyword>
+											<keyword>کود آلی</keyword>
+											<keyword>گلدهی</keyword>
+											<keyword>وزن خشک بنه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>445</first_page>
+										<last_page>460</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_55359_a629162e0f480fecf0eae70025b82c95.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر کود زیستی نیتروکسین، پلیمر سوپرجاذب و روش کاشت بر عملکرد گل و بنه زعفران در شرایط دیم خرم آباد</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سعید</given_name>
+												<surname>حیدری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>خسرو</given_name>
+												<surname>عزیزی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>احمد</given_name>
+												<surname>اسماعیلی</surname>
+											</person_name></contributors>
+									<abstract>به منظور بررسی نقش کودهای زیستی، مواد سوپرجاذب و روش کاشت بر عملکرد گل و بنة زعفران در شرایط دیم، آزمایشی در سال‌های زراعی 94-1393 و 95-1394 به صورت فاکتوریل در قالب طرح بلوک‌های کامل تصادفی با سه تکرار در مزرعه تحقیقاتی دانشکده کشاورزی دانشگاه لرستان به اجرا در آمد. در این مطالعه‌ عامل‌های کود زیستی نیتروکسین (مصرف 5 لیتر در هکتار و عدم مصرف)، پلیمر سوپرجاذب استاکوزورب (مصرف 240 کیلوگرم در هکتار و عدم مصرف) و روش کشت (خطی و کپه‌ای) مورد آزمون قرار گرفت. نتایج نشان داد از نظر تعداد بنه در واحد سطح اثرات متقابل سه گانه در سال اول و دوم معنی‌دار بود و تیمار ترکیبیِ عدم مصرف نیتروکسین در کشت کپه‌ای همراه با مصرف سوپرجاذب درسال اول با 67/80 و در سال دوم با 67/183 بنه در متر مربع تیمار برتر بود. صفات تعداد گل و وزن کلاله تر و خشک در واحد سطح در هر دو سال اختلاف معنی‌دار آماری داشتند و در سال اول کشت کپه‌ای و مصرف سوپر جاذب و عدم مصرف نیتروکسین تیمار برتر بود؛ در حالیکه در سال دوم تیمار برتر کشت کپه‌ای با مصرف سوپرجاذب و نیتروکسین بود. از نظر عملکرد کلاله خشک زعفران در سال اول کشت کپه‌ای با مصرف سوپرجاذب و بدون کاربرد نیتروکسین با عملکرد حدود 6/0 کیلوگرم در هکتار و در سال دوم کشت کپه‌ای با مصرف نیتروکسین و سوپرجاذب با عملکرد 719/0 کیلوگرم در هکتار تیمارهای برتر بودند. بطورکلی نتایج این تحقیق نشان داد که در دو سال اجرای آزمایش در شرایط دیم، کشت کپه‌ای با مصرف سوپرجاذب و مصرف نیتروکسین قابل توصیه است. دلایل توصیه و معرفی این روش کاشت، شرایط خشک و کمبود آب در منطقه و کاهش مصرف کودهای شیمیایی در جهت حرکت به سوی کشاورزی پایدار است.</abstract>
+									<keywords>
+									
+											<keyword>زعفران</keyword>
+											<keyword>استاکوزورب</keyword>
+											<keyword>نیتروکسین</keyword>
+											<keyword>روش کاشت</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>461</first_page>
+										<last_page>472</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_55682_a532deab5dae5854f349fb69fa31ec21.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تنش کم‌آبی و اثر نانو ذرات نقره بر صفات مورفولوژیک برخی اکوتیپ‌های زعفران (Crocus sativus L.) خراسان جنوبی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سارا</given_name>
+												<surname>صابرتنها</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>براتعلی</given_name>
+												<surname>فاخری</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>نفیسه</given_name>
+												<surname>مهدی نژاد</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>زهره</given_name>
+												<surname>علیزاده</surname>
+											</person_name></contributors>
+									<abstract>این پژوهش به‌منظور بررسی تأثیر تنش کم‌آبی و نانو ذرات نقره بر صفات مورفولوژیکی برخی اکوتیپهای زعفران انجام شد. آزمایش به‌صورت اسپیلت پلات فاکتوریل در قالب طرح بلوک‌های کامل تصادفی در سه تکرار در مزرعه تحقیقاتی دانشگاه بیرجند با دو سطح آبیاری کامل و کم‌آبی بر روی 10 اکوتیپ زعفران و در سه سطح نانو ذرات نقره شامل تیمار شاهد (آب مقطر)، 55 و 110 پی‌پی‌ام اجرا شد. صفاتی مانند تاریخ جوانه‌زنی (سبز شدن)، تعداد بنه جوانه‌زده، تعداد پنجه، تعداد برگ، طول برگ، طول غلاف و عرض برگ اندازه‌گیری شد. بهترین تاریخ خروج جوانه (سبز شدن) و بیشترین تعداد پنجه در تیمار آبیاری کامل، تحت تیمار آب مقطر (شاهد) مشاهده شد. بیشترین تعداد بنه جوانه‌زده در شرایط آبیاری در غلظت 55 پی‌پی‌ام نانو ذرات نقره در اکوتیپ قاین مشاهده شد. بیشترین طول برگ تحت تنش خشکی در تیمار با آب مقطر (شاهد) مشاهده شد. بیشترین تعداد برگ و عرض برگ تحت تنش خشکی در غلظت 55 پی‌پی‌ام نانوذره نقره مشاهده شد. بر اساس نتایج چنین استدلال شد برخی از صفات در شرایط تنش خشکی تحت نانو ذرات نقره با غلظت 55 پی-پی‌ام و برخی از صفات در آبیاری کامل و عدم استفاده از نانو ذرات نقره بهترین عملکرد داشتند که احتمالا می‌توان گفت در تنش خشکی میزان اتیلن افزایش می‌یابد، برخی از نتایج در این تحقیق می‌تواند به اثر نقره در جلوگیری از فعالیت اتیلن مرتبط باشد.</abstract>
+									<keywords>
+									
+											<keyword>تنش خشکی</keyword>
+											<keyword>تعداد بنه</keyword>
+											<keyword>تعداد پنجه</keyword>
+											<keyword>پیاز</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>473</first_page>
+										<last_page>485</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_57305_170e854011d39f836525d5335b1f1de3.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی کنه کشی ترکیبات گیاهی و شیمیایی بر کنه زعفران Rhizoglyphu robini در شرایط آزمایشگاهی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>فرشته</given_name>
+												<surname>یوسف زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>عیسی</given_name>
+												<surname>جبله</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>علی</given_name>
+												<surname>اولیایی ترشیز</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>احمد</given_name>
+												<surname>احمدیان</surname>
+											</person_name></contributors>
+									<abstract>با توجه به صادراتی بودن گیاه زعفران (Crocus sativus L.) و برتری محصولات ارگانیک در بازار پسندی آن‌ها، این مطالعه به منظور بررسی روش‌های غیر‌شیمیایی و مقایسه با کنه کش های شیمیایی در کنترل کنه زعفران که از آفات مهم زعفران محسوب می‌شود، در پژوهشکده زعفران دانشگاه تربت حیدریه در سال 1393 انجام شد. در این تحقیق اثر کنه‌کش‌های بروموپروپیلات و پروپارژیت، اسانس های رزماری و صمغ آنغوزه بر مراحل زیستی کنه زعفران در 4 دز و 6 زمان مختلف مجاورت با کنه‌کش (3 و 6 و 12 و 24 و 48 و 72 ساعت) بصورت فاکتوریل در قالب طرح کاملا تصادفی در چهار تکرار بررسی شد. شرایط آزمایشگاهی با دوره نوری 16:8 ساعت، رطوبت 5±65 درصد و دمای 2±27 درجه سانتیگراد تعیین گردید. نتایج آنالیز واریانس داده ها نشان داد اثرات تیمارهای آزمایش بر میزان مرگ و میر تخم، لارو و کنه بالغ در سطح احتمال یک درصد معنی‌دار بود. هم چنین کنه کش بروموپروپیلات بیشترین تلفات را داشته که با افزایش زمان و غلظت میزان تلفات به طور معنی‌داری افزایش یافت. هم‌چنین بیشترین درصد تخم تفریخ نشده مربوط به اسانس رزماری بود و درصد مرگ و میر لاروها نیز بیشتر از کنه‌های بالغ بود که با یکدیگر اختلاف معنی‌داری در سطح احتمال 5 درصد داشتند. در این تحقیق مشخص شد که صمغ آنغوزه بیشترین تاثیر را روی تخم این آفت داشته است و کنه کش پروپارژیت و بروموپروپیلات به ترتیب بیشترین مرگ و میر را روی لارو و کنه بالغ ایجاد کرده اند.</abstract>
+									<keywords>
+									
+											<keyword>اسانس رزماری</keyword>
+											<keyword>بروموپروپیلات</keyword>
+											<keyword>پروپارژیت</keyword>
+											<keyword>صمغ آنغوزه</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>487</first_page>
+										<last_page>497</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_61866_9b2ae14084a835abd70a714d9877084c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی نقش تحریم‌های تجاری و بحران اقتصادی جهانی بر صادرات زعفران ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>آرش</given_name>
+												<surname>دوراندیش</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>میلاد</given_name>
+												<surname>امینی زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>اندیشه</given_name>
+												<surname>ریاحی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>الهام</given_name>
+												<surname>مهرپرور حسینی</surname>
+											</person_name></contributors>
+									<abstract>زعفران یکی از مهم‌ترین محصولات صادراتی کشاورزی ایران است که در سال‌های اخیر نتوانسته جایگاه خود را در بازار جهانی حفظ و تقویت کند. دو پدیدة تحریم‌های تجاری اتحادیة اروپا علیه ایران (2014-2006) و بحران اقتصادی جهانی (2009-2007) به ترتیب به صورت مستقیم و غیرمستقیم بر اقتصاد و جریان تجاری ایران اثرگذار بوده‌اند. با توجه به روند نامعلوم تحریم‌های اتحادیة اروپا در خصوص لغو یا استمرار آن و احتمال بروز بحران اقتصادی جهانی جدید، هدف پژوهش پیش رو، افزون بر شناسایی مؤلفه‌های اثرگذار، ارزیابی نقش و میزان اثرگذاری این دو مؤلفه بر صادرات زعفران ایران است. بدین منظور، صادرات زعفران به شرکای تجاری در دورة 2014-2001 با استفاده از الگوی جاذبه و برآوردگر درستنمایی شبه بیشینه پوآسن مورد بررسی قرار گرفت. بر اساس نتایج، متغیرهای اندازة اقتصاد، درآمد کشورهای واردکننده و موافقت‌نامه‌های تجاری اثری فزاینده و معنی‌دار و متغیرهای فاصله و تفاوت‌ اقتصادی اثری کاهنده و معنی‌دار بر صادرات زعفران داشته‌اند. نتایج گویای اثر منفی و معنی‌دار تحریم‌های تجاری اتحادیه اروپا و بحران اقتصادی جهانی بر صادرات زعفران ایران است. به عبارتی سبد شرکای تجاری ایران به گونه‌ای است که بحران اقتصادی نقشی تعیین‌کننده بر صادرات زعفران دارد. از این رو، پیشنهاد می‌شود در تدوین برنامة راهبردی بلندمدت به منظور تقویت جایگاه ایران در بازار جهانی زعفران، نقش تحریم‌های تجاری و بحران اقتصادی و اهمیت آن دیده شود و متناسب با آن سبد بهینه‌ای از شرکای تجاری انتخاب شود.</abstract>
+									<keywords>
+									
+											<keyword>الگوی جاذبه</keyword>
+											<keyword>برآوردگر درستنمایی شبه بیشینه پوآسن</keyword>
+											<keyword>بحران اقتصادی</keyword>
+											<keyword>تحریم اتحادیه اروپا</keyword>
+											<keyword>زعفران</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>499</first_page>
+										<last_page>511</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_54312_6373f23a97bd4a88db6c1c85f3352516.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-12-22</datestamp>
+						<setSpec>10.22048</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>علمی پژوهشی زراعت و فناوری زعفران</full_title>
+									<abbrev_title>زعفران</abbrev_title>
+									<issn media_type="print">2383-1529</issn>
+									<issn media_type="electronic">2383-1529</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1397</year>
+									</publication_date>
+									<journal_volume>
+										<volume>6</volume>
+									</journal_volume>
+									<issue>4</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کاربرد پروفیل ریسک در مدیریت ریسک محصول زعفران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>الناز</given_name>
+												<surname>نجاتیان پور</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>محمد</given_name>
+												<surname>قدوسی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>جواد</given_name>
+												<surname>حسن پور</surname>
+											</person_name></contributors>
+									<abstract>کشاورزی بدلیل وابستگی به متغیرهای بیولوژیکی و شرایط اقلیمی دارای شرایط ویژه ایی است. رفتار این متغیرها تاثیر چشمگیری بر روی عملکرد محصولات کشاورزی و درآمد کشاورز دارد. بنابراین در این بخش تشخیص و ارزیابی ریسک ها برای تصمیم گیری صحیح و دستیابی به نتایج درست بسیار حائز اهمیت است. تربت حیدریه مهمترین مرکز کشت و تولید زعفران در خراسان و ایران و رتبه اول تولید زعفران در دنیا است. در این مطالعه کاربرد پروفیل ریسک برای مدیریت ریسک محصول زعفران مورد بررسی قرار گرفت. برای دست-یابی به پروفیل ریسک از داده‌های مربوط به 67 زعفران‌کار شهرستان تربت حیدریه در سال 1395 بهره گرفته شد. برای ارزیابی خسارت‌ هریک از ریسک‌ها از دو معیار فراوانی وقوع ریسک و میزان اثر ریسک و سرانجام ماتریس ریسک استفاده شده است. نتایج نشان داد که بزرگترین ناحیه ‌ی ریسک که دارای بیشترین احتمال وقوع و شدت اثر می‌باشد شامل تمام ابعاد گروه ریسک آفات، بیماریها و علف های هرز ( انواع علف های هرز، آفات میکرو( قارچ و باکتری) و آفات ماکرو( موش، مورچه، کنه و چرای دام))، سه مورد از گروه ریسک اقتصادی (واسطه و دلال، نوسانات بازار و عدم نقدینگی کشاورزان) دو مورد از ریسک اقلیمی (خشکسالی و سرمازدگی و یخبندان) و یک مورد از ریسک خسارت (افت عملکرد به دلیل عمر بالای مزرعه) است.</abstract>
+									<keywords>
+									
+											<keyword>زعفران</keyword>
+											<keyword>ماتریس ریسک</keyword>
+											<keyword>ریسک‌های کشاورزی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>12</month>
+										<day>22</day>
+									</publication_date>
+									<pages>
+										<first_page>513</first_page>
+										<last_page>529</last_page>
+									</pages>
+										<fullTextUrl>http://saffron.torbath.ac.ir/article_57181_afbb544b8cfe1a58670f11b607c2c0e3.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-24T06:02:40Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://jmm.iranjournals.ir/?_action=export&amp;rf=summon&amp;issue=4928</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>68</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تأثیر رفتار شهروندی سازمانی بر ارتقای چابکی سازمانی با تأکید بر نقش میانجی موفقیت سامانه برنامه‌ریزی منابع سازمانی (مورد مطالعه: یکی از سازمان‌های صنعتی حوزۀ دفاعی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>محمد</given_name>
+												<surname>ذاکری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>اسماعیل</given_name>
+												<surname>اسدی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>نسرین</given_name>
+												<surname>رستمی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>محمد</given_name>
+												<surname>داورزنی</surname>
+											</person_name></contributors>
+									<abstract>&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;سازمان چابک برای درک و پیش‌بینی تغییرات محیط کسب ‌و کار طراحی‌ شده و به ساختاربندی خود می‌پردازد. چابکی یعنی شناسایی موفق مبانی رقابت، ‌انسجام منابع و اقدامات مناسب در محیط کار&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt; این تحقیق با هدف تحلیل تأثیر رفتار شهروندی سازمانی کارکنان بر چابکی سازمانی با نقش میانجی سامانه برنامه‌ریزی منابع سازمانی در یکی از سازمان‌های صنعتی حوزه دفاعی انجام ‌شده است. تحقیق حاضر از نظر نتیجه، کاربردی و از نظر روش گردآوری داده‌ها از نوع پیمایشی و از نظر شیوه تحلیل داده‌ها از نوع معادلات ساختاری است. روایی محتوای ابزار اندازه‌گیری به وسیلۀ خبرگان تأیید شد و ضریب آلفای کرونباخ کلیه متغیرها در پرسش‌نامه نیز بیش از 70/0 درصد به دست آمد. جامعه آماری تحقیق شامل&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;330  نفر از کارشناسان شاغل در یکی از سازمان‌های صنعتی حوزه دفاعی بود که 255 نفر از آنها با استفاده از فرمول کوکران و روش نمونه‌گیری تصادفی ساده انتخاب شدند. آزمون فرضیه‌های تحقیق به کمک تحلیل ضرایب مسیر مدل ساختاری، نشان‌دهنده تأثیر معنی‌دار و مثبت رفتار شهروندی سازمانی کارکنان بر موفقیت سامانه برنامه‌ریزی منابع سازمانی و تأثیر معنی‌دار موفقیت سامانه برنامه‌ریزی منابع سازمانی بر مؤلفه‌های قابلیت چابکی سازمانی(شامل پاسخگویی به تغییرات، شایستگی، انعطاف و سرعت عمل) است. بر اساس نتایج تحقیق، مدیران سازمان‌های دفاعی، جهت تقویت قابلیت چابکی سازمانی، باید علاوه بر توجه به رفتارهای شهروندی سازمانی کارکنان به ارتقای سطح سامانه برنامه‌ریزی منابع سازمانی نیز توجه نمایند.&lt;/span&gt;</abstract>
+									<keywords>
+									
+											<keyword>رفتار شهروندی سازمانی</keyword>
+											<keyword>سامانه برنامه‌ریزی منابع سازمانی</keyword>
+											<keyword>چابکی سازمانی</keyword>
+											<keyword>پاسخگویی</keyword>
+											<keyword>شایستگی</keyword>
+											<keyword>انعطاف‌پذیری</keyword>
+											<keyword>سرعت عمل</keyword>
+											<keyword>صنایع دفاعی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>31</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_30627_4a2da4cb5c90026348502337188d8776.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>68</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>پیشایندهای زمینه‌ای، ساختاری و رفتاری توانمندسازی روان‌شناختی</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>ناصر</given_name>
+												<surname>عسگری</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>صمد</given_name>
+												<surname>بارانی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مهدی</given_name>
+												<surname>ملکی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>مهدی</given_name>
+												<surname>آراسته</surname>
+											</person_name></contributors>
+									<abstract>مدیران و اندیشمندان بسیاری دریافته‌اند تنها مزیت رقابتی پایدار سازمان برخورداری از منابع انسانی توانمند است. از این رو هدف اصلی این پژوهش شناسایی، رتبه‌بندی و تبیین عوامل زمینه‌ای، ساختاری و رفتاری تسهیل‌گر توانمندسازی روان‌شناختی است. این پژوهش از نگاه هدف، کاربردی، از نگاه چگونگی گردآوری داده‌ها توصیفی- همبستگی، از جنبه‎ زمانی، مقطعی و از نگاه نوع داده‌ها کمّی است. جامعۀ آماری این پژوهش شامل کارکنان یک سازمان نظامی به تعداد 745 نفر است که 270 نفر آنها به عنوان نمونه آماری با روش نمونه‌گیری احتمالی (تصادفی) برای پیمایش انتخاب شدند. همچنین از تحلیل عاملی تأییدی برای تأیید روابط شاخص‌ها و مؤلفه‌ها، از تحلیل مسیر برای بررسی روابط مفروض و از آزمون تی تک نمونه‌ای برای بررسی وضع موجود پیشایندهای سه‌گانۀ توانمندسازی در سازمان مورد مطالعه استفاده شده است. یافته‌های پژوهش نشان می‌دهند هر سه پیشایند مورد بررسی تأثیر قابل توجهی بر توانمندسازی کارکنان مورد مطالعه داشته‌اند. بر این اساس، به‌سازی وضعیت موجود این عوامل می‌تواند به تسهیل و ارتقای توانمندسازی کارکنان مساعدت کند. همچنین وضعیت موجود مؤلفه‌های فرهنگ سازمانی، انگیزش، منزلت اجتماعی و آموزش کارکنان در سازمان بررسی شده، نیازمند به‌سازی است.</abstract>
+									<keywords>
+									
+											<keyword>توانمندسازی</keyword>
+											<keyword>توانمندسازی روان‌شناختی</keyword>
+											<keyword>پیشایندهای ساختاری</keyword>
+											<keyword>پیشایندهای زمینه‌ای و پیشایندهای رفتاری</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>32</first_page>
+										<last_page>52</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_30628_a62c6251e3bef4df89e0ccb506c57042.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>68</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>کیفیت زندگی کاری کارکنان سازمان‌های نظامی و ارتباط آن با توسعۀ دفاعی (مطالعۀ موردی: یک سازمان نظامی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی</given_name>
+												<surname>فرهادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علیرضا</given_name>
+												<surname>شیخ</surname>
+											</person_name></contributors>
+									<abstract>در دنیای پیچیدۀ امروز مفهوم کیفیت زندگی کاری به‌ عنوان یکی از متغیّرهای مهم مدیریت، مورد توجه متخصصان منابع انسانی قرار گرفته و بهبود شاخص‌های این حوزه موجب افزایش رضایت شغلی، تعهد سازمانی، رشد و پیشرفت کارکنان و کاهش غیبت و جابجایی و ترک خدمت کارکنان گردیده و در نهایت منجر به بهبود عملکرد و افزایش توانایی‌های سازمان در ارائه خدمات مناسب به ذی‌نفعان می‌گردد؛ از این رو این تحقیق با هدف بررسی کیفیت زندگی کاری کارکنان سازمان‌های نظامی و ارتباط آن با توسعه دفاعی انجام پذیرفته است که بر مبنای دستاوردها، از نوع کاربردی بوده و بر مبنای اهداف از نوع تحقیقات توصیفی می‌باشد که با روش پیمایشی داده‌های لازم جمع‌آوری شده است. جامعۀ آماری این تحقیق کارکنان ستادی یکی از سازمان‌های نظامی می‌باشند که با استفاده از جدول مورگان و به روش نمونه‌گیری طبقه‌ای متناسب، تعداد 140 نفر انتخاب و داده‌های لازم با استفاده از ابزار پرسش‌نامه جمع‌آوری و با آزمون‌های آمار توصیفی و استنباطی مورد تجزیه‌ و تحلیل قرار گرفتند. یافته‌های تحقیق حاکی از آن است که ویژگی‌های محیط شغلی با میانگین 236/3 و سطح معنی‌داری کمتر از 05/0 (05/0&gt;000/0 P=) از وضعیت مناسبی برخوردار می‌باشد و ویژگی‌های شغلی با میانگین 807/2 و سطح معنی‌داری کمتر از 05/0(05/0&gt;000/0 P=) با میانگین مطلوب تفاوت معناداری دارد و از وضعیت مناسبی برخوردار نمی‌باشد و در بین گروه‌های مختلف تحصیلی، تفاوت معناداری وجود دارد و همچنین بین کیفیت زندگی کاری کارکنان و توسعۀ دفاعی همبستگی مثبت وجود دارد.</abstract>
+									<keywords>
+									
+											<keyword>کیفیت زندگی کاری</keyword>
+											<keyword>ویژگی‌های شغل</keyword>
+											<keyword>ویژگی‌های محیط شغل</keyword>
+											<keyword>توسعۀ دفاعی</keyword>
+											<keyword>کارکنان سازمان‌های نظامی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>53</first_page>
+										<last_page>76</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_30629_86240e10d8c731e25bb31223524a3844.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>68</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تحلیل مضمون ساخت درونی قدرت نیروهای مسلح برای جنگ‌های آینده از منظر فرماندهی معظم کل قوا(مدظله‌العالی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>سید علیرضا</given_name>
+												<surname>قاضی میرسعید</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حمیدرضا</given_name>
+												<surname>فرتوک‌زاده</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حسین</given_name>
+												<surname>ولیوند‌ زمانی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>سید اصغر</given_name>
+												<surname>جعفری</surname>
+											</person_name><person_name contributor_role="author" sequence="5">
+												<given_name>ابوالفضل</given_name>
+												<surname>باقری</surname>
+											</person_name></contributors>
+									<abstract>&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;با پیچیده‌تر شدن نظام امنیتی جهان و ظهور بازیگران جدید در عرصۀ تهدیدات نظامی، تغییر رویکرد دفاعی از تهدیدمحور به قابلیت محور از طریق ایجاد آمادگی‌های بنیادی و استحکام ساخت درونی در قدرت دفاعی کشور در مقابل تهدیدات و جنگ‌های احتمالی آینده نسبت به گذشته ضرورت بیشتری یافته است. فرماندهی معظم کل قوا،&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;همواره&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;با رصد دقیق رویدادها و&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;تحولات&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;منطقه‌ای و&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;فرامنطقه‌ای، در&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;بیانات و&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;رهنمودهایشان،&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;در&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;مراسم&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;و&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;مناسبت‌های&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;مختلف، ابعاد&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;و&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;زوایای&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;پیدا&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;و&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;پنهان&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;تهدیدها&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;و&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;جنگ‌های&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;آینده&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;را&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;به&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;صورتی&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;موشکافانه بیان و تحلیل نموده‌اند. این&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;پژوهش&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;با&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;هدف&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;تبیین&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;ساخت درونی قدرت نیروهای مسلح برای جنگ‌های آینده با استفاده از فرمایش های&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;فرماندهی معظم کل قوا &lt;/span&gt;&lt;span lang=&quot;FA&quot;&gt; &lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;انجام&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;شده&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;است&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt; در این تحقیق&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;که با&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;رویکرد&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;کیفی&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;انجام گرفته،&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;با&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;استفاده&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;از&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;روش شبکه&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;مضامین&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;از&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;روش‌های&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;تحلیل&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;مضمون، چهار&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;مضمون&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;قابلیت‌سازی در فناوری و نیروی انسانی، عزم راسخ و اتحاد ملی، قدرت نظامی دانش محور و قدرت معنوی ولایت محور به&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;عنوان&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;مضامین&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;فراگیر&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;ساخت درونی قدرت نیروهای مسلح برای جنگ‌های آینده&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;ارائه&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;شده&lt;/span&gt;&lt;span lang=&quot;FA&quot; dir=&quot;RTL&quot;&gt;است&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;</abstract>
+									<keywords>
+									
+											<keyword>تحلیل مضمون</keyword>
+											<keyword>جنگ‌های آینده</keyword>
+											<keyword>ساخت درونی قدرت</keyword>
+											<keyword>بیانات فرماندهی معظم کل قوا</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>77</first_page>
+										<last_page>100</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_30630_17898c46fa51f89193a491dd63867a0e.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>68</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>راهبردسنجی چالش‌ها و فرصت‌های استان کردستان در دفاع از سرزمین</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علی</given_name>
+												<surname>محمدپور</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>پرویز</given_name>
+												<surname>آقایی</surname>
+											</person_name></contributors>
+									<abstract>یکی از مباحث محوری در حوزۀ جغرافیای نظامی، قابلیت دفاع از سرزمین و حفظ تمامیت ارضی کشور در زمان بروز بحران یا جنگ است. تاریخ کشور نشان می‌دهد که همواره باید شرایط دفاعی کشور را رصد کرد و در مقابل بحران‌های منطقه‌ای و جهانی آمادگی دفاع از خاک کشور را داشت. استان کردستان از جمله مناطقی است که در طول چهل سال گذشته دستخوش بحران‌های مختلفی بوده است و احزاب و گروهک‌های تروریستی ضد انقلاب اسلامی سعی کرده‌اند با شیوه‌های مختلفی از جمله جنگ نرم، حملات چریکی، اختلاف‌افکنی بین طوایف کردزبان و سایر موارد این استان را به منطقه‌ای پرتنش تبدیل نمایند. در این راستا، این پژوهش با هدف شناسایی مهمترین چالش‌ها و فرصت‌های استان کردستان درصدد ارائه راهبردهای مقتضی است تا با طبقه‌بندی آنها، از چالش‌های منطقه در حوزه دفاعی- امنیتی کاسته شود. روش پژوهش توصیفی-تحلیلی و از لحاظ هدف کاربردی-توسعه‌ای می‌باشد. داده‌ها به‌صورت کتابخانه‌ای (اسناد و مدارک) گردآوری شده است. یافته‌های پژوهش بر اساس SWOT و QSPM حاکی از آن است که استان کردستان دارای موقعیتی تهاجمی است. موقعیت تهاجمی به معنای وضعیت مطلوب منطقه و تسلط نقاط قوت و فرصت بر چالش‌های آن است؛ یعنی می‌توان با استفاده از قابلیت‌های فراوان استان کردستان چالش‌های موجود را برطرف کرد. در انتهای این پژوهش، راهبردها و راهکارهایی بر مبنای وضعیت موجود منطقه برای از بین بردن چالش‌های کنونی ارائه شده است.</abstract>
+									<keywords>
+									
+											<keyword>چالش‌ها و فرصت‌ها</keyword>
+											<keyword>راهبرد</keyword>
+											<keyword>استان کردستان</keyword>
+											<keyword>مدل‌های SWOT و QSPM</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>101</first_page>
+										<last_page>127</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_30631_f176f862e81a1ee14a889e7c6202d32c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2018-02-20</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1396</year>
+									</publication_date>
+									<journal_volume>
+										<volume>17</volume>
+									</journal_volume>
+									<issue>68</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ارزیابی و مقایسۀ الگوریتم‌های فراابتکاری چندهدفه برای حل مسئله بهینه‌سازی طراحی محصولات (مورد مطالعه: طراحی بهینۀ تجهیزات نظامی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>فرهاد</given_name>
+												<surname>هادی‌نژاد</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علی</given_name>
+												<surname>رمزی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>مصطفی</given_name>
+												<surname>خواجه</surname>
+											</person_name></contributors>
+									<abstract>در دنیای پر‌تنش و پرآشوب امروزی، وجود نیروی نظامی قوی و کارآمد از سرمایه‌های راهبردی هر ملت محسوب می‌شود. در این میان، طراحی و به‌روزرسانی تجهیزات نظامی و افزایش قابلیت اطمینان و ماندگاری آنها اهمیت ویژه‌ای دارد. مدل ریاضی بهینه‌سازی تجهیزات نظامی در مرحله طراحی، از یک‌سو به دلیل پیچیدگی و حجم بالای محاسبات در گروه مسائل Np-hard قرار داشته و برای حل نیازمند روش‌های فرا ابتکاری است و از سوی دیگر در گروه مسائل چندهدفه قرار داشته، در نتیجه مستلزم بهره‌گیری از روش‌های چندهدفه است. اما توسعۀ روزافزون و تنوع زیاد روش‌های فرا ابتکاری چندهدفه، انتخاب الگوریتم مناسب را در حل مدل مذکور با چالش مواجه کرده است. لذا تحقیق حاضر تلاش دارد ضمن مرور الگوریتم‌های مدرن و پرکاربرد، با کمک نمونه مطالعاتی روشی مناسب برای حل مسئله بهینه‌سازی تجهیزات نظامی ارائه دهد. بنابراین ضرورت مدل‌سازی ریاضی در مسئله بهینه‌سازی طراحی تجهیزات نظامی و بررسی و انتخاب روش حل مناسب، انگیزه و هدف اصلی این تحقیق را شکل می‌دهد. تحقیق حاضر از منظر هدف در گروه تحقیقات کاربردی و از منظر روش در گروه تحقیقات آزمایشی قرار دارد. در این پژوهش چهار الگوریتم: NSGA-II، MOPSO، PESA-II و MALO بررسی شد و با کمک شش شاخص مختلف به تحلیل و ارزیابی نتایج پرداخته ‌شده است. ضمن آنکه برای وزن‌دهی شاخص‌ها از رویکرد ترکیبی فرآیند تحلیل سلسله مراتبی و آنتروپی (AHP-Entropy) و برای ارزیابی الگوریتم‌ها از روش پرامیتی (PROMETHEE) استفاده‌ شده است. نتایج حاصل ضمن تأکید بر اهمیت بالای شاخص‌های «زمان اجرا» و «تعداد پاسخ‌های پارتو»، بر اولویت الگوریتم «MOPSO» در حل مسئله تحقیق تأکید دارد.</abstract>
+									<keywords>
+									
+											<keyword>بهینه‌سازی</keyword>
+											<keyword>روش‌های فرا ابتکاری</keyword>
+											<keyword>طراحی تجهیزات نظامی</keyword>
+											<keyword>قابلیت اطمینان</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2018</year>
+										<month>02</month>
+										<day>20</day>
+									</publication_date>
+									<pages>
+										<first_page>128</first_page>
+										<last_page>163</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_30632_ca5f51c1b2ae06b147095c8538badc6e.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

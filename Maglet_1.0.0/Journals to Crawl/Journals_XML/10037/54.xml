@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1390</year>
+	<month>2</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2011</year>
+	<month>5</month>
+	<day>1</day>
+</pubdate>
+<volume>4</volume>
+<number>2</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>پیش بینی درصد تراکم خاک‌های ریزدانه در ساختمان سد مخزنی سرابی با استفاده از شبکۀ عصبی مصنوعی</title_fa>
+	<title>Prediction of Compaction Efforts of Fine-Grained Soils of Sarabi Dam Using Atrificial Neural Networks</title>
+	<subject_fa></subject_fa>
+	<subject></subject>
+	<content_type_fa>علمی پژوهشی</content_type_fa>
+	<content_type>s</content_type>
+	<abstract_fa>تحلیل تراکم حاصل شده از عملیات تراکم در خاک‌های ریزدانه در تحلیل برگشتی اهمیت به‌سزایی دارد. روش متداول در محاسبۀ درصد تراکم خاک؛ شیوه‌های معمول مانند روش مخروط ماسه، روش بالون لاستیکی و روش چگالی‌سنج هسته‌ای است. که به‌عنوان روشی مناسب جای‌گزین، شبکۀ عصبی آموزش دیده شده بر مبنای الگوهای تحلیل شده است. با روش‌های مذکور محاسبۀ تراکم، علاوه بر این که به دقت مورد نیاز در روش‌های مرسوم می‌رسد، سادگی و سهولت استفاده از آن از سایر روش‌ها بیش‌تر بوده و سرعت محاسبۀ آن نیز بیش‌تر است. در این تحقیق مدلی مبتنی بر شبکۀ عصبی چندلایه پرسپترون برای پیش‌بینی رفتار تراکمی خاک‌های ریزدانه در سد مخزنی سرابی در حین اجرا، و متراکم کردن لایه‌های خاک ارائه شد. متغیرهای ورودی شامل4 پارامتر ژئوتکنیکی رطوبت بهینه، درصد عبوری از الک200، حد روانی و حد خمیری و 4 پارامتر اجرایی تعداد دفعات عبور غلتک، ضخامت لایه، رطوبت خاک در محل و دانسیتۀ حاصل شده در محل، در نظر گرفته شد. ایـن مدل که مبتنی بر شبـکۀ عصبی چنـد لایه با روی‌کرد پس‌انتشار خطا ارائه شده، قادر است بدون داشتن حداکثر دانسیتۀ آزمایشگاه که از ملزومات حتمی محاسبۀ درصد تراکم در حالت معمولی است؛ با استفاده از دیگر پارامترهای ژئوتکنیکی و اجرایی (8 مورد اشاره شده) درصد تراکم و بالطبع حداکثر وزن مخصوص آزمایشگاه را با تقریب نزدیک به 100 درصد محاسبه کند.</abstract_fa>
+	<abstract>One of the most important issues in the Reverse Analysis is analyzing the density resulting from the compaction of in fine soils. The conventional methods in d etermination of soil density are: sand cone, rubber balloon and nuclear density gauge. Trained neural network, as a suitable alternative for conventional methods based on models analyzed by those methods, is not only as accurate but it is also easier to calculate and implement. In the present article, a model based on multilayer perceptron of neural network is presented for prediction of the behavior of fine soils density in Sarabi Dam. The paper presents the implementation process and density of the soil layers. The input variables include 4 geotechnics and 4 implementation parameters. The geotechnic parameters consist of: optimum moisture content, maximum specific gravity, liquid and plasticity limit implementation parameters consist of: the number of cross rollers, thickness of the layers and density and moisture of the soil obtained from the site. The model is based on multilayer neural network, using the error back propagation approach and it is capable of calculating the density. As a result, the maximum specific gravity laboratory, using the aforementioned geotechnic and implementa-tion parameters, is presented. The method compates the maximum specific gravity laboratory accurately at almost 100 percent.</abstract>
+	<keyword_fa>درصد تراکم خاک , شبکۀ عصبی , پارامتر ژئوتکنیکی , پارامتر اجرایی , حداکثر وزن مخصوص آزمایشگاه , </keyword_fa>
+	<keyword>Percentage of soil density , Neural Networks , geotechnic parameters , operational parameters , maximum specific gravity laboratory , </keyword>
+	<start_page>987</start_page>
+	<end_page>1010</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-3-55&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

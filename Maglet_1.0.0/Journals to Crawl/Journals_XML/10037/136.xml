@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1397</year>
+	<month>11</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2019</year>
+	<month>2</month>
+	<day>1</day>
+</pubdate>
+<volume>12</volume>
+<number>3</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>مدل‌سازی سه‌بعدی و هندسی ناپیوستگی‌ها و شناسایی بلوک‌های سنگی ایجاد شده در تودۀ سنگ درزه‌دار</title_fa>
+	<title>Rock Block Detection using 3-D Geometrically Modelling of Jointed Rock Mass</title>
+	<subject_fa>ژئوتکنیک (مکانیک خاک و سنگ)</subject_fa>
+	<subject>Geotecnic</subject>
+	<content_type_fa>علمی پژوهشی</content_type_fa>
+	<content_type>s</content_type>
+	<abstract_fa>&lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;تودۀ سنگ به&#8204;عنوان بستر میزبان در ساخت انواع سازه&amp;rlm;های عمرانی و معدنی سطحی و زیرزمینی&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;مطرح است.&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;عوامل متعددی بر&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;نحوۀ رفتار و پایداری چنین سازه&amp;rlm;هایی تأثیر می&amp;rlm;گذارند که از جمله مهم&#8204;ترین این پارامترها می&#8204;توان به، رفتارشناسی تودۀ سنگ&amp;rlm;ها، ناپیوستگی&amp;rlm;ها و به&#8204;تبع آن حضور بلوک&amp;rlm;های سنگی ایجاد شده در اثر برخورد این ناپیوستگی&amp;rlm;ها اشاره کرد.&amp;nbsp; بلوک&amp;rlm;های سنگی که تودۀ سنگ به آن&#8204;ها افراز شده است، به&#8204;لحاظ استاتیکی و دینامیکی از مهم&#8204;ترین اجزای روند&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;تحلیل پایداری و رفتاری سازه&amp;rlm;ها محسوب می&amp;rlm;شوند. در این تحقیق سعی شده به&lt;/span&gt;&lt;/span&gt; &lt;span style=&quot;font-family:b lotus;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;&quot;&gt;شناسایی بلوک&amp;rlm;های سنگی ایجاد شده در اثر تقاطع ناپیوستگی در سه بعد پرداخته شود. الگوریتم طراحی شده در این پژوهش، بر مبنای جستجوی سلسله مراتبی با شناسایی اجزاء بلوکی از جزء به کل عمل می&#8204;کند که سرعت عملکرد زیادی دارد. هم&#8204;چنین در پیاده&amp;shy;سازی این الگوریتم از قابلیت روش محاسبه موازی برنامه متلب نیز استفاده شده که به&#8204;مراتب سرعت محاسبات را با حفظ دقت، افزایش می&#8204;دهد. اجزاء تشکیل&#8204;دهنده بلوک&amp;rlm;ها شامل کنج، لبه و چند ضلعی&amp;rlm;های تشکیل دهنده سطوح هستند. بلوک&amp;rlm;های سنگی براساس الگوریتم طراحی شده در محیط نرم&#8204;افزار متلب شناسایی شده و بعد از محاسبه حجم آن&#8204;ها و هیستوگرام حجمی آن&amp;rlm;ها ترسیم می&amp;rlm;شود. نمایش زنده روند شناسایی بلوک و هم&#8204;چنین ثبت و نمایش موقعیت و توزیع فضایی کنج&amp;shy;ها و لبه&amp;shy;های بلوک&amp;shy;ها از ویژگی&amp;shy;های کد توسعه داده شده است. نتایج نشان می&amp;shy;دهد، غالباً توزیع حاکم بر حجم بلوک های ایجاد شده، نمایی است.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;
+&amp;nbsp;</abstract_fa>
+	<abstract>&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br&gt;
+Safety and sustainability of infrastructures which were placed in or on rock mass mainly control by geometrically size distribution and physical and mechanical characteristics of rock blocks that is created by intersection of discontinuities. hence identification of rock blocks has a key role in mechanical analysis and hydraulic behaviour of jointed rock mass. Detection process of blocks have many applications in rock mechanic which could be referred to their use in the numerical methods like discrete element method or in analysis of continuous deformation of discontinuities. As pioneer researchers, Goodman and Shi, Warburton and Heliot could be known as leaders in the field of diagnosis of rock mass blocks. Warburton provides a method based on geometric parameters of rock mass and developed a software based on it. Warburton in his work assumed discontinuities as parallel and infinite. In the earlier works, discontinuities were considered as infinite panes. So, just convex blocks were distinguishable. Concave blocks were diagnosis in more detailed researches that is created by finite discontinuities. Basically, methods based on finite planes was classified into two branches. Aforementioned branches were based on blocks detection based on topology concepts and assemble of block elements. Lin at al. presented detection method that assumed discontinuities as finite planes and worked based on topology theory. This method could realize convex and concave blocks of rock mass. Ikegawa and Hudson, Jing presented the similar methods using more accurate process. Sharma et al. presented an equation for calculating the volume of rock blocks in their work. Ferreira provided a method based on graph theory which is better than other method considering time and complicity. Based on this method, firstly vertices were detected in two dimensions and then created a graph based in vertices and edges which in next step constitute polygons that are form in two-dimension blocks. In the present research, it is developed high-speed algorithms to identify the blocks. New method was developed in MATLAB software that by assuming infinite discontinuities and inclusion of a set of joints. we have identified created blocks and calculated their volume and at last block volume histogram were draw that paves the way to obtain their distribution function.&lt;br&gt;
+&lt;strong&gt;Material and methods&lt;/strong&gt;&lt;br&gt;
+Infinite planes are used to simulate of discontinuities.in this study, each discontinuity is represented by a plane in a three-dimensional Euclidean space. To identify the block, a certain volume of rock mass space should be considered as study region. The studied volume is called domain. By the intersection of discontinuity planes in space, rocky blocks are created in the domain. First, vertices should be recognized at first as first step in block detection. Then, edges are diagnoses and after that it's time to specify the polygons and finally, polyhedron or blocks are obtained by joining edges together. Each vertex in space is created by the intersection of three nonparallel planes. In fact, the vertex is the interface of three planes in the Euclidean space. The next element in the block metric process is the diagnosis of the edges or the blocks' edges. All edges are sections on the lines which created by the intersection of the planes in space. first the parallel vector of all the lines resulting from the intersection of the pair of planes is obtained.&lt;br&gt;
+After detection of edges, it&amp;rsquo;s time to identify polygons that form key element of blocks. Each polygon of a block is formed from their constituent unit. In this step, polygons belong to each discontinuity plane is identified separately. Some edges are determined that are start from the end of selected edge between other edges. In this state, if there is just one edge, that edge is record as the next edge of first polygon. If there is more than one edge from the edge of the selected edges, the angle is calculated between each possible of end edge with the selected edge.&lt;br&gt;
+In the next step, it&amp;rsquo;s time to diagnosis polyhedrons that have created by discontinuities intersection. In the previous step, possible polygons were obtained for each discontinuity. In this stage, it is used the principle which is designed this algorithm that two polygons that formed a block have a common edge. So, the first polygon of first discontinuity is consider as first polygon of first block to recognize block.&lt;br&gt;
+&lt;strong&gt;Results and discussion&lt;/strong&gt;&lt;br&gt;
+According to the developed algorithm, MATLAB software was used to model the discontinuities. The computational and graphic capabilities of this software have created a lot of attractions for most researchers to use its potential. The strengths of this software are high computing power with its graphical accuracy. The code developed in MATLAB is called RockBlock2 that is designed using a graphical user interface (GUI) to make it easy to use. To illustrate how the program works, there are 29 discontinuities given to the program. The program first takes the dip and dip direction of discontinuities along with the desired point on it and calculates the parameters that make up the equation of discontinuity planes.&lt;br&gt;
+Input data is stored in a separate Excel file that was previously introduced to the program. In the next step, the program attempts to identify the vertices. The program stores the coordinates of each corner, with the assignment of a number to it, in the matrix of the corners, which is in fact the Excel file that was previously introduced to the program to use in the next steps, after recognizing vertices on the area.&lt;br&gt;
+Identifying the edges is the next step that the program done. At this stage, the program begins to identify each single edge using the data from the previous step that means the coordinates of the corners and the algorithm defined.&lt;br&gt;
+The coordinates of the beginning and end of each edge along with its number are stored and maintained in the edge matrix in the Excel file format. In the stage of identifying the polygons, the polygons are formed by joining the edges together. This matrix is a special matrix that its matrix matrices are matrix itself. The matrix of polygons is a row matrix; whose number is the number of discontinuities. Because, as it mentioned in the chapter of the algorithm, the polygons are found by separation of discontinuities. Therefore, each column of the polygons matrix is consisting of faces that are on a certain discontinuity.&lt;br&gt;
+The next step begins the process of identifying the blocks, or the same polygons by the program. At this step, the program starts the identification process using the features found in the previous step and the algorithm defined for it. At this stage, the identified blocks are stored in the blocks matrix. By identifying blocks, the program calculates the volume of each block and finally draw its volume histogram. In fact, a volume histogram is presented to illustrate how the block volume is distributed. Obtaining the distribution of blocks or, in other words, achieving a block probability distribution function is an essential step in the behavior of rock mass. Because one of the most important consequences of the presence of discontinuities is the fragmentation of the rock material under the block intervals. By having the block distribution function, it is possible to produce a blockbuster method using random methods, such as Monte Carlo, and to analyze it in various and arbitrary modes.&lt;br&gt;
+&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;br&gt;
+To identify and study the rocky blocks created by discontinuities, a hierarchical algorithm was designed and developed in MATLAB software. This algorithm identifies and records blocks, consisting of blocks, edges, and facets of the blocks forming components, including stone blocks. This algorithm, which is written for user-friendly ease with the use of graphical coding capabilities, shows a very fast performance using the parallel computing power of MATLAB software. The developed code calculates the dip and dip direction of discontinuities using the geometric properties, and calculates the blocks created in three dimensions and calculates their volume. This histogram code displays the calculated volumes.&lt;br&gt;
+The results show that the developed code with its fast performance, while identifying the blocks, calculates and records their volumes without errors. The ability to display the step-by-step process of identifying blocks is one of the clear features of this code. Information about edge is also records and is available for auxiliary applications. Histogram of block volume is one of the most important results of the developed code, which can have different applications.&lt;br&gt;
+Identification of created rocky blocks is used both in the stability analysis and rock mass simulations such as Discrete Fracture Network modeling. Determination of block volume distribution function which is done using histogram is one of the most important uncertainties in three-dimensional rock masses behavior that can play a key role in optimizing the design of structures involved in rock mass. Therefore, considering the key role of blocks volume, identifying and calculating block volumes and, consequently, plotting their histogram and determining the distribution function governing them, has a key role in the static and dynamic analysis of rock base structures.&amp;nbsp;&lt;a href=&quot;./files/site1/files/123/1Extended_Abstract.pdf&quot;&gt;./files/site1/files/123/1Extended_Abstract.pdf&lt;/a&gt;</abstract>
+	<keyword_fa>تودۀ سنگ, ناپیوستگی, دسته درزه, بلوک سنگی, نرم‌افزار متلب.</keyword_fa>
+	<keyword>Rock mass, Discontinuity, Joint set, Rock blocks, MATLAB</keyword>
+	<start_page>373</start_page>
+	<end_page>390</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-13-1514-1&amp;slc_lang=fa&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name></first_name>
+	<middle_name></middle_name>
+	<last_name></last_name>
+	<suffix></suffix>
+	<first_name_fa>اکبر</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>اسمعیل زاده</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>esmailzade.ak@aut.ac.ir</email>
+	<code>10031947532846003596</code>
+	<orcid>10031947532846003596</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی ارومیه</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name></first_name>
+	<middle_name></middle_name>
+	<last_name></last_name>
+	<suffix></suffix>
+	<first_name_fa>رضا</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>میکائیل</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>reza.mikaeil@uut.ac.ir</email>
+	<code>10031947532846003597</code>
+	<orcid>10031947532846003597</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation></affiliation>
+	<affiliation_fa>دانشگاه صنعتی ارومیه</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

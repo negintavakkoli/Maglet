@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+			<responseDate>2020-07-24T05:59:49Z</responseDate>
+			<request metadataPrefix="cr_unixml" verb="ListRecords" set="">http://jmm.iranjournals.ir/?_action=export&amp;rf=summon&amp;issue=2898</request>
+			<ListRecords>
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-01-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1394</year>
+									</publication_date>
+									<journal_volume>
+										<volume>15</volume>
+									</journal_volume>
+									<issue>58</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>طراحی الگوی آسیب‌شناسی اجرای خط مشی عمومی در ایران</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>ابراهیم</given_name>
+												<surname>حاجی پور</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>لطف الله</given_name>
+												<surname>فروزند</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حسن</given_name>
+												<surname>دانایی فرد</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>اصغر</given_name>
+												<surname>فانی</surname>
+											</person_name></contributors>
+									<abstract>پژوهش حاضر از نظر هدف کاربردی – توسعه‌ای و از نظر روش گردآوری داده‌ها، کیفی محسوب می‌شود. راهبرد مورد استفاده در این پژوهش،‌ نظریة داده بنیاد است. این راهبرد روشی نظام‌مند و کیفی برای خلق نظریه است. که خردمایة گزینش آن روش‌مندی در بهره‌گیری از دیدگاه‌های مشارکت‌کنندگان و نیز اختتام آن به مجموعه‌ای از قضایا می‌باشد.هدف اصلی این تحقیق، طراحی الگویی برای آسیب‌شناسی اجرای خط مشی عمومی در ایران است. برای جمع‌آوری داده‌ها، با 20 نفر از خط مشی‌گذاران، مجریان و استادان خط مشی در ارتباط با چالش‌های اجرای خط‌ مشی‌های عمومی مصاحبه‌هایی رو در رو،‌ عمیق و با طرح پرسش‌های باز بین 30 تا 60 دقیقه انجام شد. نمونه‌گیری به صورت نظری انجام شد. نخست مجموعه‌ای از مضامین اولیه طی فرایند کد‌گذاریِ باز گردآوری شده و از درونِ آن‌ها مقوله‌هایی استخراج گردید. سپس در مرحلة کدگذاری محوری، پیوند میان این مقوله‌ها در قالب نمونه‌های کد‌گذاری تعیین شدند و در مرحلة کد‌گذاری انتخابی، یکایک اجزای الگو تشریح گردیدند. مزیت پژوهش حاضر در مقایسه با پژوهش‌های مطرح شده در مورد آسیب‌های اجرای خط‌‌مشی عمومی آن است که الگوی ارائه شده، جامع و مبتنی بر عمل است که هم‌زمان به اغلب مؤلفه‌های مؤثر در اجرای ناموفق خط مشی عمومی توجه کرده است؛ همچنین تصویر کاملی از چالش‌های فضای خط مشی‌گذاری عمومی، چالش‌های فضای عمومی خط‌مشی و چالش‌های فضای اجرای خط مشی عمومی را ترسیم و در نهایت پیامدهای اجرای ناموفق آن را ارئه نموده است.</abstract>
+									<keywords>
+									
+											<keyword>خط مشی عمومی</keyword>
+											<keyword>اجرای خط مشی عمومی</keyword>
+											<keyword>نظریة داده بنیاد</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>01</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>1</first_page>
+										<last_page>23</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_16809_8f626657a51acb7f5f372c7903fe42a6.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-01-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1394</year>
+									</publication_date>
+									<journal_volume>
+										<volume>15</volume>
+									</journal_volume>
+									<issue>58</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>بررسی تأثیر رهبری اصیل بر هویّت‌یابی سازمانی (مطالعه موردی کارکنان یکی از واحدهای صنعتی دفاعی کشور)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مصطفی</given_name>
+												<surname>لطفی جلال آبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>علیرضا</given_name>
+												<surname>موغلی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>طاهره</given_name>
+												<surname>فیضی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>امیرحسین</given_name>
+												<surname>امیرخانی</surname>
+											</person_name></contributors>
+									<abstract>احساس هویّت کارکنان با سازمان تأثیر زیادی بر رفتارها و نگرش‌های کارکنان و افزایش توان غیر فیزیکی رزمی نیروهای مسلح دارد. مدیران برای غلبه بر چالش‌های محیطی بایستی هویّت‌یابی سازمانی کارکنان را تقویت کنند. بر این اساس، درک عوامل مؤثر بر احساس هویّت کارکنان با سازمان به وظیفة مهم مدیران تبدیل شده است. پژوهش حاضر به بررسی تأثیر سبک رهبری اصیل بر هویّت‌یابی سازمانی می‌پردازد. این پژوهش از نوع علی است. جامعة آماری پژوهش کارکنان یکی از واحدهای صنعتی دفاعی کشور مستقر در شهر تهران است و با استفاده از نمونه‌گیری تصادفی تعداد 400 نفر انتخاب گردید. پس از طراحی و تعیین روایی و پایایی ابزار پژوهش، به منظور تجزیه و تحلیل داده‌ها از الگوی معادلات ساختاری استفاده شد. نتایج به‌دست آمده از آزمون فرضیه‌های تحقیق نشان می‌دهد که کلیة ابعاد رهبری اصیل بر هویّت‌یابی سازمانی تأثیرگذار است. در پایان محققان پیشنهادهای کاربردی ارائه داده‌اند.</abstract>
+									<keywords>
+									
+											<keyword>خود آگاهی</keyword>
+											<keyword>پردازش متعادل</keyword>
+											<keyword>نهادینه کردن اخلاقیات</keyword>
+											<keyword>شفافیت روابط</keyword>
+											<keyword>رهبری اصیل</keyword>
+											<keyword>هویّت‌یابی سازمانی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>01</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>24</first_page>
+										<last_page>42</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_16810_9a9a8b787542b9d4eaecf8df9c094a8c.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-01-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1394</year>
+									</publication_date>
+									<journal_volume>
+										<volume>15</volume>
+									</journal_volume>
+									<issue>58</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>تحلیل ریسک در سازمان‌های نظامی (شناسایی و اولویت‌بندی ریسک‌های بحرانی در پایگاه‌های پدافند هوایی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>علیرضا</given_name>
+												<surname>موغلی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>سعید</given_name>
+												<surname>عبدالمنافی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>حسن</given_name>
+												<surname>صالحی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>شهناز</given_name>
+												<surname>محمود صالح</surname>
+											</person_name></contributors>
+									<abstract>مدیریت ریسک‌ها و مخاطرات یکی از ملزومات اساسی ارتش‌های نوین است. امروزه بدون پیاده‌سازی فرایندهای علمی و منطقی، قادر به شناسایی و رفع مخاطرات در محیط‌های پویا و فناورانه نخواهیم بود. هدف از این تحقیق، شناسایی و اولویت‌بندی مخاطرات اثرگذار بر تداوم عملیات پایگاه‌های راداری، موشکی و شناسایی الکترونیک است. این تحقیق از نوع کاربردی و به شیوة توصیفی-پیمایشی می‌باشد که به روش مقطعی در یک مرکز نظامی صورت گرفته است. حجم نمونه شامل 49 نفر از خبرگان و متخصصان فرماندهی و مدیریت پایگاه‌های پدافندی در استان‌های فارس و بوشهر و خوزستان است. ابزارِ جمع‌آوری داده‌ها، مشتمل بر 3 پرسشنامه است که بر اساس فن RFMEA طراحی شدند. روش مورد استفاده برای ارزیابی ریسک‌ها، فن ویلیام فاین در ارزیابی ریسک و فن تجزیه و تحلیل حالت خطا و اثر شکست ریسک است. برای تحلیل داده‌ها از روش‌های آماری توصیفی و استنباطی به کمک نرم افزار SPSS19 استفاده گردید. یافته‌ها حاکی از آن است که ریسک‌های حوزة تعمیر و نگهداری و حوزة مدیریت نیروی انسانی، به ترتیب با ضریب اهمیت20 درصد و 15 درصد، بالاترین قابلیت و ریسک‌های حوزة تأمین فیزیکی و ایمنی کار هر یک با ضریب اهمیت 9 درصد کمترین قابلیت ریسک را در بر می‌گیرند و احتمال وقوع، مهمترین عامل مؤثر بر بحرانی شدن ریسک‌ها می‌باشد. همچنین 10 مؤلفه دارای بیشترین قابلیت ایجاد مخاطره برای تداوم عملیات پایگاه‌های پدافندی نیز شناسایی و اولویت‌بندی گردیدند.</abstract>
+									<keywords>
+									
+											<keyword>پایگاه‌های پدافند هوایی</keyword>
+											<keyword>شدت پیامد</keyword>
+											<keyword>احتمال وقوع</keyword>
+											<keyword>ضریب تعیین</keyword>
+											<keyword>نمره ریسک</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>01</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>43</first_page>
+										<last_page>69</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_17023_333a006f387a9909c5388c4d58249f42.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-01-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1394</year>
+									</publication_date>
+									<journal_volume>
+										<volume>15</volume>
+									</journal_volume>
+									<issue>58</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>مکان یابی منطقه استقرار یگان‌های پشتیبانی خدمات رزمی با استفاده از سامانة استنتاج فازی در منطقة نصرآباد اصفهان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>مهدی</given_name>
+												<surname>کیخایی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>کاظم</given_name>
+												<surname>رنگزن</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>بهروز</given_name>
+												<surname>بهرام آبادی</surname>
+											</person_name><person_name contributor_role="author" sequence="4">
+												<given_name>ایوب</given_name>
+												<surname>تقی زاده</surname>
+											</person_name></contributors>
+									<abstract>توجه به مکان‌گزینی در یگان‌های نظامی، از موضوعات اساسی طراحان نظامی به منظور کاهش تلفات انسانی و تسلیحاتی است. لجستیک به عنوان یکی از ارکان اصلی درگیری‌های نظامی و در واقع ستون فقرات تمامی جنگ‌ها شناخته می‌شود. یکی از مهم‌ترین عوامل در طراحی لجستیکی، تعیین کانون، تمرکز و مکان‌یابی آن است. سامانه اطلاعات جغرافیایی با توان پردازشی بالا و مدیریت حجم بالای اطلاعات، فرماندهان و طراحان این عملیات را یاری می‌نماید. هدف از این پژوهش، شناسایی مناطق مستعد استقرار واحدهای آمادی در رزم جلو قبل از حضور فیزیکی، با استفاده از سامانة اطلاعات جغرافیایی و تصمیم‌گیری چندمعیاره فازی است. به همین منظور، عواملی از قبیل شیب، زهکشی، دید و اختفاء، خاک، کاربری اراضی، خطوط مواصلاتی، نزدیکی به یگان‌های مانوری، سازندها، نزدیکی به مناطق فرود بالگرد و فاصله از توپخانه سبک دشمن مورد بررسی قرار گرفت. پس از آماده‌سازی داده‌ها، عملیات فازی سازی انجام و در ادامه با معرفی قوانین مورد نظر کارشناسی در محیط متلب به صورت نظام فازی، الگو‌سازی شد. در نهایت با غیر فازی کردن این مجموعه، خروجی نهایی آماده و وارد محیط GIS گردید. نتایج پژوهش با توجه به بازدیدهای میدانی انجام شده، نشان می‌دهد که محدوده‌های پایکوهی، نیمه مرتفع و مناطقی که از نظر ژئومورفولوژی نظامی حائز اهمیت و مطابق ملاحظات این یگان‌هاست به خوبی استخراج گردیده است و GIS با تلفیق روش‌های تصمیم‌گیری چندمعیاره، می‌تواند جهت انجام تحلیل‌های نظامی با دقت مناسب، به منظور کاهش هزینه، زمان و تلفات، مؤثر واقع گردد.</abstract>
+									<keywords>
+									
+											<keyword>مکان‌یابی</keyword>
+											<keyword>یگان‌های پشتیبانی</keyword>
+											<keyword>سامانة اطلاعات جغرافیایی</keyword>
+											<keyword>سامانة استنتاج فازی</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>01</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>70</first_page>
+										<last_page>94</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_17024_eaffb3e77c5bd114bc0b0663efa22d54.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-01-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1394</year>
+									</publication_date>
+									<journal_volume>
+										<volume>15</volume>
+									</journal_volume>
+									<issue>58</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>ملزومات انضباط مالی از دیدگاه مقام معظم رهبری (حفظه‌الله تعالی)</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>خسرو</given_name>
+												<surname>اسفندیاری صفا</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>حبیب الله</given_name>
+												<surname>دهقان</surname>
+											</person_name></contributors>
+									<abstract>انضباط مالی در راستای کاهش هزینه‌های غیر ضروری و پرهیز از تجمل‌گرایی و اسراف در سازمان‌ها و دستگاه‌های  اداری الزامی به نظر می‌رسد. این مقاله با هدف تدوین ملزومات انضباط مالی صورت گرفته که بدون توجه به آن‌ها، فرایند انضباط مالی به نتیجه مطلوب رهنمون نخواهد شد. این پژوهش از نوع کاربردی بوده که با روش تحقیق تحلیل داده بنیاد صورت پذیرفته است. بر این اساس جامعة آماری شامل بیانات مقام معظم رهبری (حفظه‌الله‌تعالی)، در طول دورة 94-1373 بررسی و 20 مؤلفه برای انضباط مالی احصاء گشت که عبارتند از: صرفه‌جویی، عدم افراط و تفریط، اصلاحات در دستگاه قضایی، پررنگ شدن نقش نهادهای نظارتی، هماهنگی میان سه قوه، اولویت‌بندی مصارف، صرف منابع مالی در تولید به جای مصرف، مبارزه با فساد مالی، انضباط اجتماعی، توکّل به خدا و داشتن شجاعت، داشتن تقوا، دوری از تجمّل‌گرایی و مال‌اندوزی، شناسایی قوّت‌ها و ضعف‌ها، برنامه‌ریزی، هماهنگی کارکرد با افکار و عقاید، گرفتن تصمیمات قاطع و اجرا در عمل، مدیران مؤمن و معتقد، قانون‌گرایی مدیران، کوچک شدن اندازة دولت، جلوگیری از شکل‌گیری انحصار خصوصی. با جمع‌بندی کلی ابعاد تحلیل داده ‌بنیاد، الگویی مشتمل بر ملزومات انضباط مالی به‌دست آمد. در نهایت نیز با استفاده از توزیع پرسشنامه ‌و روش AHP این الزامات اولویت‌بندی گردیدند.</abstract>
+									<keywords>
+									
+											<keyword>امام خامنه‌ای (حفظه‌الله‌تعالی)</keyword>
+											<keyword>انضباط مالی</keyword>
+											<keyword>تحلیل سلسله مراتبی (AHP)</keyword>
+											<keyword>ملزومات</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>01</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>95</first_page>
+										<last_page>118</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_17025_a10b88d9bfb14d69f07ae19d59e1355a.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				<record>
+					<header>
+						<identifier></identifier>
+						<datestamp>2016-01-01</datestamp>
+						<setSpec></setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>فصلنامه مدیریت نظامی</full_title>
+									<abbrev_title></abbrev_title>
+									<issn media_type="print">1735-5699</issn>
+									<issn media_type="electronic">1735-5699</issn>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>1394</year>
+									</publication_date>
+									<journal_volume>
+										<volume>15</volume>
+									</journal_volume>
+									<issue>58</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>عوامل مؤثر بر چابک‌سازی سازمانی در دانشگاه امام علی(ع) از دیدگاه فرماندهان یگان‌های تیپ دانشجویان</title>
+									</titles><contributors><person_name contributor_role="author" sequence="1">
+												<given_name>اکرم</given_name>
+												<surname>حجتی</surname>
+											</person_name><person_name contributor_role="author" sequence="2">
+												<given_name>رقیه</given_name>
+												<surname>حجتی</surname>
+											</person_name><person_name contributor_role="author" sequence="3">
+												<given_name>رضا</given_name>
+												<surname>قربانی</surname>
+											</person_name></contributors>
+									<abstract>در این پژوهش به بررسی عوامل مؤثر بر چابک‌سازی سازمانی در دانشگاه امام علی&lt;sup&gt;(ع) &lt;/sup&gt;از دیدگاه فرماندهان یگان‌های تیپ دانشجویان پرداخته شد. بدین منظور تعداد 44 پرسشنامه به صورت تصادفی بین فرماندهان یگان‌های تیپ دانشجویان دانشگاه افسری توزیع گردید. ابزار گردآوری داده‌ها، شامل پرسشنامه چابک‌سازی سازمانی با 32 سوال (7 بعد انعطاف‌پذیری، پاسخگویی، فرهنگ تغییر، یکپارچگی و پیچیدگی، سرعت، همکاری متقابل و کارکردهای مدیریتی) استفاده شد. تجزیه و تحلیل داده‌ها در سطح آمار توصیفی با استفاده از شاخص‌های مرکزی و پراکندگی انجام گردید. در سطح آمار استنباطی نیز برای بررسی فرضیه‌ها از آزمون همبستگی پیرسون، آزمون t دو گروه مستقل، تحلیل واریانس یک راهه (نرم افزار SPSS) استفاده گردید که آلفای کرونباخ محاسبه شده برای پرسشنامه مذکور برابر با 80% شد و روایی پرسشنامه روایی محتوایی است. نتایج پژوهش و میانگین کلی 89/4، نشان‌دهنده وضعیت نسبتا مطلوب چابکی دانشگاه امام علی&lt;sup&gt;(ع)&lt;/sup&gt; از دیدگاه فرماندهان یگان‌های تیپ دانشجویان حکایت می‌کند. با توجه به نتایج پژوهش می‌توان عوامل مؤثر بر چابک‌سازی دانشگاه امام علی&lt;sup&gt;(ع)&lt;/sup&gt; را به صورت زیر ارائه نمود: بُعد کارکردهای مدیریتی دارای بالاترین میانگین با شاخص‌های: اعتقاد به آگاه‌سازی فرماندهان، اعتقاد به شفاف‌سازی، اعتقاد به انجام کارها به شکل نظام‌مند و ایجاد شبکه و بُعد همکاری متقابل در رتبه دوم با شاخص‌های: مشورت با دیگران، افزایش دانش و مهارت فرماندهان با فناوری‌های موجود در سازمان، داشتن قابلیت‌های مشترک چندگانه فرماندهان در بخش‌های مختلف و نزدیک بودن رابطة فرماندهان با سازمان. </abstract>
+									<keywords>
+									
+											<keyword>چابک‌سازی سازمانی</keyword>
+											<keyword>فرماندهان</keyword>
+											<keyword>دانشگاه امام علی(ع)</keyword>
+									</keywords>
+									<publication_date media_type="print">
+										<year>2016</year>
+										<month>01</month>
+										<day>01</day>
+									</publication_date>
+									<pages>
+										<first_page>119</first_page>
+										<last_page>144</last_page>
+									</pages>
+										<fullTextUrl>http://jmm.iranjournals.ir/article_17026_c825053a1856c4dcacae1160853b2068.pdf</fullTextUrl>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data><citation_list></citation_list>
+								</journal_article>
+							</journal>
+						</cr_unixml:crossref>
+					</metadata>
+				</record>
+			
+				</ListRecords></OAI-PMH>

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+		<JOURNAL>
+<YEAR>1398</YEAR>
+<VOL>12</VOL>
+<NO>1</NO>
+<MOSALSAL>0</MOSALSAL>
+<PAGE_NO>114</PAGE_NO>
+<ARTICLES>
+
+
+				<ARTICLE>
+				<TitleF>ارائه رابطه غیرخطی مبتنی بر الگوریتم رقابت استعماری به منظور پیش ینی قابلیت برش- نرخ تولید سنگ تزئینی با استفاده از دستگاه سیم برش الماسه</TitleF>
+				<TitleE>Modeling of sawability with diamond wire saw machine based on geomechanical parameters by using ICA: a new model for production rate estimation</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>ارائه مدل به منظور پیش بینی قابلیت برش سنگهای تزئینی با توجه به ملاحظات برنامه ریزی تولید حائز اهمیت است. محققین مختلف با مرتبط کردن پارامترهای ژئومکانیکی و ماشین برش با نرخ تولید، اقدام به ارائه روابط تخمین نموده اند. به طور عمده این مدل ها مبتنی بر رگرسیون چندمتغیره هستند. در تحقیق حاضر قابلیت برش سنگ تزئینی با اقتباس از نتایج یکی از تحقیقات مرتبط و با اندازه گیری نرخ تولید دستگاه سیم برش الماسه در عملیات برش 14 نوع سنگ کربناته نرم از معادن مختلف ایران تعیین شده است؛ پارامترهای ژئومکانیکی این سنگها شامل: مقاومت فشاری تک محوره سنگ، مقاومت کشش برزیلی، عدد چکش اشمیت و نتیجه آزمایش سایش لس آنجلس به منظور مدل سازی نرخ تولید مورد استفاده قرار گرفته است. در این پژوهش با استفاده از داده های موجود اقدام به ارائه مدل غیرخطی جدید و مبتنی بر یک الگوریتم فراابتکاری شده است. الگوریتم رقابت استعماری به منظور تخمین ضرایب مدل پیشنهادی به کار گرفته شده و تابع خطای تخمین با به کارگیری این الگوریتم کمینه شده است. ارزیابی مدل‌های تخمین بررسی شده بر مبنای آزمون‌های آماری استاندارد، مؤید برتری مدل پیشنهادی است؛ از این رو فرآیند مدل سازی طی شده به منظور کاربرد در مطالعات مرتبط آتی پیشنهاد می شود.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Performance prediction of diamond wire saws and estimation of sawability are important in the cost estimation and the planning rock cutting projects. In this paper, the performance prediction of diamond wire saws in cutting carbonate rocks is considered on 14 different carbonate rocks in stone quarries. Uniaxial compressive strength (UCS), Brazilian tensile strength (BCS), Schmidt hammer value (SHv), Los Angeles (LA) abrasion and production rate (Ph) of diamond wire saws are determined in separated reference. The scope of this study is to evaluate the capability of two different methods in order to predict production rate of carbonate rock using diamond wire saw. A non-linear model presented by Ataei et al. and new proposed non-linear model are presented. An application of Imperialist Competitive Algorithm (ICA) is used to determine the non-linear production rate estimator coefficients. According to the calculated statistical error between the forecasted and real measured values of production rate, ICA-based model has the lower values of MAPE, MAE, VARE, MEDAE and RMSE than the previous model in the literature, while it has the higher value of VAF than the previous model in the literature. It is concluded that the production rate of carbonate rock using diamond wire saw can reliably be estimated using the developed model.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>33</FPAGE>
+						<TPAGE>42</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>عارف</Name>
+						<MidName></MidName>		
+						<Family>علیپور</Family>
+						<NameE>Aref</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Alipour</FamilyE>
+						<Organizations>
+							<Organization>گروه مهندسی معدن دانشگاه صنعتی ارومیه</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه مهندسی معدن دانشگاه صنعتی ارومیه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>aref.alipour@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مجتبی</Name>
+						<MidName></MidName>		
+						<Family>مختاریان</Family>
+						<NameE>Mojtaba</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mokhtarian</FamilyE>
+						<Organizations>
+							<Organization>گروه مهندسی معدن دانشگاه صنعتی ارومیه</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه مهندسی معدن دانشگاه صنعتی ارومیه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>m.mokhtarian@uut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>رضا</Name>
+						<MidName></MidName>		
+						<Family>میکائیل</Family>
+						<NameE>Reza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mikaeil</FamilyE>
+						<Organizations>
+							<Organization>گروه مهندسی معدن دانشگاه صنعتی ارومیه</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه مهندسی معدن دانشگاه صنعتی ارومیه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>reza.mikaeil@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>سیم برش</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>قابلیت برش</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مدل پیش‌بینی نرخ تولید</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سنگ تزئینی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>الگوریتم رقابت استعماری</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>Ardalan, Z., Karimi, S., Poursabzi, O., &amp; Naderi, B., 2015. A novel imperialist competitive algorithm for generalized traveling salesman problems, Applied Soft Computing, 26: 546-555.##Ataei, M., Mikaiel, R., Sereshki, F., &amp; Ghaysari, N., 2012. Predicting the production rate of diamond wire saw using statistical analysis, Arabian Journal of Geosciences, 5(6): 1289-1295.##Atashpaz-Gargari, E., &amp; Lucas, C., 2007. Imperialist competitive algorithm: an algorithm for optimization inspired by imperialistic competition, Paper presented at the Evolutionary computation, IEEE Congress on.##Behnamian, J., &amp; Zandieh, M., 2011. A discrete colonial competitive algorithm for hybrid flowshop scheduling to minimize earliness and quadratic tardiness penalties. Expert Systems with Applications, 38(12): 14490-14498.##Ersoy, A., &amp; Atıcı, U., 2004. Performance characteristics of circular diamond saws in cutting different types of rocks, Diamond and Related Materials, 13(1): 22-37.##Ersoy, A., Buyuksagic, S., &amp; Atici, U., 2005. Wear characteristics of circular diamond saws in the cutting of different hard abrasive rocks, Wear, 258(9): 1422-1436.##Hamzaban, M.-T., Memarian, H., &amp; Rostami, J., 2014. Continuous Monitoring of Pin Tip Wear and Penetration into Rock Surface Using a New Cerchar Abrasivity Testing Device, Rock Mechanics and Rock Engineering, 47(2): 689-701. doi:10.1007/s00603-013-0397-4##Jain, S., &amp; Rathore, S., 2009. Role of cut size area on the performance of diamond wire saw machine in quarrying of marble, International Journal of Mining, Reclamation and Environment, 23(2): 79-91.##Jain, S., &amp; Rathore, S., 2011. Prediction of cutting performance of diamond wire saw machine in quarrying of marble: a neural network approach, Rock Mechanics and Rock Engineering, 44(3): 367-371.##Kasiani, A., 2004. Dimension Stones Atlas of Iran, Nashr Gostar: Tehran.##Lian, K., Zhang, C., Gao, L., &amp; Li, X., 2012. Integrated process planning and scheduling using an imperialist competitive algorithm, International Journal of Production Research, 50(15):4326-4343.##Mikaiel, R., Ataei, M. A., &amp; Hoseinie, H., 2008. Predicting the production rate of diamond wire saws in carbonate rock cutting. IDR, Industrial Diamond Review, 68(3):28-34.##Mokhtarian Asl, M., &amp; Sattarvand, J. (2016). An imperialist competitive algorithm for solving the production scheduling problem in open pit mine. Int. Journal of Mining &amp; Geo-Engineering, 50(1), 131-143.##Ozcelik, Y., 1999. Investigation of the working conditions of diamond wire cutting machines in marble industry, PhD Thesis, Hacettepe University, Ankara (in Turkish).   ##Sadaei, H. J., Enayatifar, R., Lee, M. H., &amp; Mahmud, M., 2016. A hybrid model based on differential fuzzy logic relationships and imperialist competitive algorithm for stock market forecasting, Applied Soft Computing, 40:132-149.##Sadegheslam, G., Mikaeil, R., Rooki, R., Ghadernejad, S., &amp; Ataei, M., 2013. Predicting the production rate of diamond wire saws using multiple nonlinear regression analysis, Geosystem Engineering, 16(4):275-285.##Sharifi, M. A., &amp; Mojallali, H., 2015. A modified imperialist competitive algorithm for digital IIR filter design, Optik-International Journal for Light and Electron Optics, 126(21):2979-2984.##Yılmaz, N. G., Goktan, R., &amp; Kibici, Y., 2011. An investigation of the petrographic and physico-mechanical properties of true granites influencing diamond tool wear performance, and development of a new wear index. Wear, 271(5):960-969.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>مدلسازی عددی برای تعیین عوامل موثر بر فشار شروع شکست در عملیات شکست هیدرولیکی</TitleF>
+				<TitleE>Numerical Modeling for Determining Effective factors on initiation fracture Pressure in Hydraulic fracture Operation</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>با توجه به نیاز روزافزون کشور به نرخ تولید بیشتر از چاه‌های نفتی و بازدهی بیشتر مخازن نفت، فعال‌سازی مجدد چاه‌های نفت در ایران امری ضروری به نظر می‌رسد. تولید نفت باگذشت زمان، به دلیل کاهش فشار مخزن و بسته شدن ترک‌ها و منافذ میکروسکوپی موجود در سنگ مخزن کاهش می‌یابد. شکست هیدرولیکی به‌عنوان روشی برای تحریک مخازن نفتی به عوامل مختلفی ازجمله خصوصیات محیطی که شکستگی در آن رشد می‌کند، بستگی دارد. خصوصیات مکانیکی لایه‌ها به‌عنوان یکی از مهمترین پارامترهای تأثیرگذار بر رونـد گسترش شکسـت هیدرولیکی و هندسه‌ی آن شناخته می‌شوند. در پژوهش حاضر، سعی بر این است که عوامل مختلف دخیل در شکست هیدرولیکی و تاثیر هر یک از آنها بر شکست هیدرولیکی بررسی شود تا محل مناسب برای انجام عملیات شکست هیدرولیکی انتخاب شود که باعث می شود هم هزینه های عملیاتی پایین بیاید و هم شکست بهتر و موثر تری داشته باشیم. در این تحقیق، توسط نرم‌افزار ABAQUS مدل‌سازی‌های عددی در 10 حالت مختلف انجام‌شده و سپس اثر هر یک از این پارامترهای ورودی، روی فشار شکست هیدرولیکی با انجام تحلیل حساسیت بررسی ‌شده است. این پارامترهای ورودی که درواقع داده‌های چاه می‌باشند شامل مدول الاستیسیته، تنش افقی حداقل و حداکثر، تنش قائم، مقاومت کششی، نسبت پواسون و فشار منفذی می‌باشند. اطلاعات موردنیاز از چاه‌های حفرشده در سنگ‌های کربناته ی ایران گرفته شده است. نتایج نشان می‌دهد که تنش افقی حداقل بیشترین تأثیر را بر روی فشار شکست دارد و پارامتر هایی مثل تنش قائم و مدول یانگ در تعیین فشار شکست بی تاثیر هستند.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>According to increasing demand of the country for more production rates and output from oil reservoirs, it&#039;s necessary to re-activate the oil wells in Iran. Oil production in overtime Reduces, The reason of this event is decreased reservoir&#039;s Pressure and Closure the cracks and microscopic holes. Hydraulic fracture as a method for stimulating oil reservoirs related to various factors including the characteristics of the environment which the fracture grows. Mechanical properties of the layers recognized as the one of the most effective parameters on the progress of hydraulic fracture and its geometry. In this study, we try to indagate the various factors involved in hydraulic fracture and the effect of each of them on hydraulic fracture until reduce both operation costs and better and more efficient failure. In this research, numerical modeling was done by ABAQUS software in 10 different cases and then, the effect of the each input parameters on the hydraulic fracture pressure was investigated by performing sensitivity analysis. Actually these input parameters are well&#039;s data and including Young&#039;s modulus, minimum and maximum horizontal stress, vertical stress, tensile strength, poison’s ratio and pore pressure. Required information is obtained from excavated wells in carbonate rocks in Iran. The results show&#039;s minimum horizontal stress has the most effect on the hydraulic fracture pressure and parameters such as vertical stress and Young&#039;s modulus are not effective in determination of hydraulic fracture pressure.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>57</FPAGE>
+						<TPAGE>74</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>مهدی</Name>
+						<MidName></MidName>		
+						<Family>آریا</Family>
+						<NameE>Mehdi</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Aria</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه بین المللی امام خمینی (ره)</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه بین المللی امام خمینی (ره)</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>aria.mehdi5@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مهدی</Name>
+						<MidName></MidName>		
+						<Family>حسینی</Family>
+						<NameE>Mehdi</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Hosseini</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه بین المللی امام خمینی (ره)</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه بین المللی امام خمینی (ره)</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>ma.hosseini@eng.ikiu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>شکست هیدرولیکی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تحلیل حساسیت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مدلسازی عددی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نرم افزار ABAQUS</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>اکرمی، ع. و حسینی، م.، 1396. مدل‌سازی آزمایشگاهی شکست هیدرولیکی، یافته‌های نوین زمین‌شناسی کاربردی، دوره‌ی 11، شماره‌ی 21،           91 -83.##چمن زاد، م. ع.، نوروزی بزمین آبادی س.، رمضان زاده ا.، تخم چی ب. و نوروزی ه.، 1394. مدل‌سازی ‌ژئومکانیکی ‌و ‌تعیین ‌پنجره‌ ایمن‌ گل ‌حفاری (‌مطالعه ‌موردی ‌در ‌یکی ‌از ‌چاه‌های ‌میدان ‌نفتی ‌آزادگان)&quot;، اولین کنفرانس ملی ژئومکانیک نفت، 22-24 اردیبهشت، مرکز همایش‌های بین‌المللی پژوهشگاه صنعت نفت، تهران، ایران.##سید سجادی ش. و عقیقی م. ع.، 1394. ساخت و تحلیل مدل ژئومکانیکی مخزن بنگستان در میدان کوپال، نشریه‌ی علمی-پژوهشی معدن، دوره دهم، شماره 26،  34-21.##شفائی زاده ا.، فروزان م. ر.،  فرامرزی ل.، 1393. شبیه‌سازی جوانه‌زنی و رشد ترک در عملیات شکست هیدرولیکی چاه نفت با استفاده از معیار آسیب تنش اصلی بیشینه، مجله مهندسی مکانیک مدرس، دوره 14، شماره 5، 174-164.##شلیلیان، ر.؛ 1395. آموزش گام به گام Abaqus،انتشارات خلیج فارس، 349 ص.##شیرین آبادی ر.، رسولی و.،  گشتاسبی ک.، 1385. تحلیل پایداری چاه در یکی از مخازن نفتی ایران، اولین کنگره مهندسی نفت ایران، 9-10 خرداد، تهران.## دهقان ع. ن.، گشتاسبی ک.، آهنگری ک.، جین ی.،  میسکیمینس ج.، 1394. مکانیسم شروع و گسترش شکست با استفاده از یک سیستم آزمایش شکافت هیدرولیکی سه  محوره بر روی نمونه‌هایی از بلوک‌های سیمانی، پژوهش نفت، دوره 25، شماره‌ی 2-85، 189-180.##کوچکی ا. و گشتاسبی ک.، 1386. تحلیل پایداری چاه نفت سازند آسماری مخزن کوپال، ششمین کنفرانس دانشجویی مهندسی معدن، 23-21 اسفند، دانشگاه صنعتی امیر کبیر، تهران.## ملاعلی م. و یزدانی م.، 1393. مدل‌سازی عددی شکست هیدرولیکی در مخازن نفتی با اجزاء محدود توسعه یافته، مهندسی عمران شریف، دوره‌ی 2-30، شماره‌ی 1-4، 11-3.##Abdollahipour, A., Fatehi Marji, M., Yarahmadi Bafghi, A., Gholamnejad J., 2016. DEM simulation of confining pressure effects on crack opening displacement in hydraulic fracturing, International Journal of Mining Science and Technology.##Blanton, T.L., 1986. Propagation of hydraulically and dynamically induced fractures in naturally fractured reservoirs, Presented at the SPE/DOE Unconventional Gas Technology Symposium, 18-21 May, Louisville.##Daneshy, A.A., 1974. Hydraulic Fracture Propagation in the Presence of Planes of Weakness, Soc. Petroleum Engineers Presented at the SPE European Spring Meeting, 29-30 May, Amsterdam, the Netherlands.##Guo, F., Morgenstem, N. R.,  Scott,  J. D., 2005. An experimental investigation into hydraulic fracture propagation” Journal of Rock Mechanics &amp; Mining Sciences. Abstr., 30(3): 177-188. ##Hubbert, M. K., and Willis, D.G., 1957. Mechanics of hydraulic fracturing Petr. Trans. AIME, 210:153–163.##Zhang, G., and Chen, M., 2010. Dynamic fracture propagation in hydraulic re-frecturing, Journal of Petroleum Science and Engineering, 70:, 266-272.##Zhou, J., Chen, M., Jin, Y.,  Zhang, G.-q., 2007. Experimental study of propagation mechanism of hydraulic fracture in naturally fractured reservoir, Acta Petrolei Sinica,  28(5): 109-113.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی تأثیر چرخه‌های انجماد – آب شدن بر خاک‌های بهسازی شده با آهک زنده در منطقه فقیره، همدان</TitleF>
+				<TitleE>Investigation the Effect of Freezing-Thawing cycles on Quick Lime Stabilized Soils in Faghire area, Hamedan</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف از این پژوهش بررسی تأثیر آهک بر روی خاک‌های باقیمانده محدوده جنوبی روستای فقیره در جنوب شهر همدان است. منطقه مورد مطالعه در دامنه کوه‌های الوند و کیوارستان در جنوب شهر همدان قرار دارد. توپوگرافی منطقه به صورت تپه‌ماهوری بوده و از واحدهای سنگی هوازده تشکیل شده ‌است. به منظور بررسی اثر آهک بر خاک های مورد مطالعه، مقادیر وزن واحد حجم خشک حداکثر، رطوبت بهینه، pH خاک و مقاومت فشاری تک محوری خاک های بهسازی شده با درصدهای مختلف آهک تعیین گردیدند. نتایج به دست آمده نشان می‌دهد که افزایش درصد آهک و دوره عمل‌آوری، باعث افزایش رطوبت بهینه و کاهش وزن واحد حجم خشک حداکثر شده و همچنین خصوصیات مقاومتی خاک بهسازی شده را افزایش می‌دهد. با توجه به نتایج حاصل، درصد آهک بهینه 5% و 7% و زمان عمل‌آوری برای بهسازی خاک‌های منطقه فقیره همدان 28 روز به دست آمده است. سپس تأثیر چرخه‌های انجماد – آب شدن به وسیله‌ی آزمایش‌های مقاومت فشاری تک محوری، برش مستقیم، افت وزنی ناشی از یخبندان و تعیین تورم نمونه‌ها بررسی گردید. نتایج به دست آمده نشان دهنده کاهش مقاومت فشاری تک محوری در چرخه‌های انجماد – آب شدن می‌باشد. در این راستا چسبندگی نمونه‌ها کاهش و زاویه اصطکاک داخلی نمونه‌ها افزایش می‌یابد و همچنین افت وزنی و تورم ناشی از یخبندان نمونه‌های بهسازی شده کمتر از نمونه‌های خاک پایه است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>The purpose of this research is investigation the effect of lime on the residual soils in the southern area of the Faghireh village of southern Hamadan. The study area is located in the mountain range of Alvand and Kyvarstan in south of Hamadan. The topography of the region is hilly and formed from the weathered units. To investigate of lime effect on studied soils, maximum dry unit weight, optimum water content, pH and uniaxial compressive strength of stabilized soils with different percentages of lime was determined. The results show that increasing lime percentage and curing time, increases optimum water content and decreases maximum dry unit weight, and also improved the resistance properties of stabilized soil. According to the results, optimum lime percentages were 5% and 7%, and the curing time for the stabilized soils in the Faghireh area of Hamedan were obtained for 28 days. Then, the effects of freez-thaw cycles were investigated by using uniaxial compressive strength tests, direct shear, weight loss due to freezing and determining the swelling of samples. The results show a reduction in uniaxial compressive strength in freez-thow cycles. Also, the cohesion of the samples are decreased and the internal friction angle of the samples are increased, and the weight loss and swelling due to the freezing of the stabilized samples are less than the base soil.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>1</FPAGE>
+						<TPAGE>17</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>سید داود</Name>
+						<MidName></MidName>		
+						<Family>محمدی</Family>
+						<NameE>Seyed Davoud</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Mohammadi</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی، دانشکده علوم پایه، دانشگاه بوعلی سینا، همدان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی، دانشکده علوم پایه، دانشگاه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>s_d_mohammadi@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>آرزو</Name>
+						<MidName></MidName>		
+						<Family>آبرفت</Family>
+						<NameE>Arezoo</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Abroft</FamilyE>
+						<Organizations>
+							<Organization>گروه زمین شناسی، دانشکده علوم پایه، دانشگاه بوعلی سینا، همدان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه زمین شناسی، دانشکده علوم پایه، دانشگاه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>a.abroft@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>چسبندگی خاک</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>زاویه اصطکاک خاک</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تورم</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>افت وزنی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>دوره عمل آوری</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>ابری، ر.، 1392. بررسی تاثیر برخی پارامترهای زمین شناسی مهندسی بر فرسایش بارانی خاک در بخش بالادست سد اکباتان با استفاده از دستگاه شبیه ساز باران، پایان نامه کارشناسی ارشد زمین شناسی مهندسی، دانشکده علوم پایه، دانشگاه بوعلی سینا، همدان.##اسماعیل زاده شهری، ع.، سپاهی، ز.، 1382. تأثیر درصد آهک در مقاومت فشاری خاک رس، دهمین کنفرانس دانشجویی مهندسی عمران.##اسمعیلی فلک، م.، کاتبی، ه.، جوادی، الف.، رحیمی، س.، 1396. بررسی آزمایشگاهی مشخصه‌های تنش و کرنش در خاک‌های ماسه‌ای منجمد: مطالعه موردی متروی تبریز، مجله علمی - پژوهشی مهندسی عمران مدرس، دوره هفدهم، شماره 5، صفحه 13-23.##بحری، م. م.، 1389. سازو کار‌های تخریب ناشی از یخبندان، مرکز تحقیقات سیمان، 20 صفحه.##جعفری حقیقی، م.، 1382. روش‌های تجزیه خاک، انتشارات ندای ضحی.##خطیبی، م.، سلطانی، الف.، رئیسی استبرق، ع.، 1394. بررسی آزمایشگاهی و آماری بهسازی یک خاک متورم شونده با استفاده از الیاف مصنوعی و افزودنی‌های شیمیایی، مجله علمی - پژوهشی مهندسی عمران مدرس، دوره پانزدهم، شماره 2، صفحه 147-137.##دریایی، م.، کاشفی پور، س. م.، 1390. بررسی تأثیر افزایش ماسه بادی و آهک بر روی خصوصیات مقاومتی خاک‌های رسی، نشریه آب و خاک (علوم و صنایع کشاورزی)، جلد 25، شماره 2، خرداد – تیر، صفحه 239-230.##قبادی، م. ح.، محبی حسن آبادی، ی.، عبدی لر، ی.، بابازاده، ر.، 1391. تأثیر آهک بر روی بهسازی خاک‌های ریزدانه منطقه فقیره همدان، فصلنامه زمین‌شناسی کاربردی، سال 8، شماره 3، صفحه 265-275.##کاظمی، پ.، نیکودل، م. ر.، محمدی، ع. ع.، 1391. بررسی اثر انجماد بر پارامترهای مقاومتی خاک‌های ریزدانه (CL) و خاک‌های ماسه‌ای (SP) ، شانزدهمین همایش انجمن زمین شناسی ایران، دانشگاه شیراز، صفحه 7-1.##گلچین فر، ن.، 1390. اثر سیکل‌های انجماد و ذوب شدن بر روی مقاومت فشاری خاک‌های رسی بهسازی شده با آهک و مسلح به الیاف پلی‌پروپیلن، پایان‌نامه کارشناسی ارشد، دانشکده فنی و مهندسی دانشگاه آزاد اسلامی، واحد تهران مرکزی.##گلچین فر، ن.، عباسی، ن.، 1392. اثر ذوب و یخبندان‌های مکرر بر ویژگی‌های مکانیکی خاک‌های رسی تثبیت شده با آهک و مسلح شده با الیاف پلی‌پروپیلن، نشریه علمی – پژوهشی امیرکبیر (مهندسی عمران ومحیط زیست)، دوره چهل و پنجم، شماره 2، صفحه 12-1.##محمدی، س. د.، نیکودل، م. ر.، گلستانی، الف.، 1390 الف. تأثیر آهک زنده بر ویژگی‌های مقاومتی خاک‌های آلی جنگل شهید زارع ساری، هفتمین کنفرانس زمین‌شناسی مهندسی و محیط‌زیست ایران، دانشگاه صنعتی شاهرود، صفحه 8-1.##محمدی، س. د.، نیکودل، م. ر.، گلستانی، الف.، 1390ب. تأثیر آهک زنده بر ویژگی‌های تراکمی خاک‌های آلی جنگل شهید زارع ساری، پانزدهمین همایش انجمن زمین‌شناسی ایران، دانشگاه تربیت معلم، صفحه 7-1.##محمدی، س. د.، نیکودل، م. ر.، گلستانی، الف.، 1391. بررسی کارایی آهک زنده و شکفته جهت بهسازی خاک‌های جنگلی حاوی مواد آلی، مجله انجمن زمین‌شناسی مهندسی ایران، جلد پنجم، شماره 3 و 4، پاییز و زمستان، صفحه 67-80 .##مکارچیان، م.، صیفوری، ن.، 1392. تأثیر سرباره فولادسازی کارخانه ذوب آهن اصفهان (BOS) بر دوام خاک رس تثبیت شده با آهک، اولین کنفرانس ملی مهندسی ژئوتکنیک ایران، دانشکده فنی و مهندسی، دانشگاه محقق اردبیلی، صفحه 9-1.##هاشمی طباطبایی، س.، آقایی آرایی، ع.، 1387. مقایسه تأثیر آهک زنده و شکفته بر ویژگی‌های##ژئوتکنیکی خاک اصلاح شده، مرکز تحقیقات ساختمان و مسکن، علوم زمین، بهار 87، سال هفدهم، شماره 67 ، صفحه 14-21.##ASTM., 2000. Standard Test Method for laboratory determination of water (moisture) content of soil and rock by mass.  Annual Books of ASTM Standards, D2216-90.##ASTM., 2000. Standard Test Method for specific gravity of soils. Annual Books of ASTM Standards, D854.##ASTM., 2000. Standard Test Method for liquid limit، plastic limit and plasticity index of soil. Annual Books of ASTM Standards, D4318.##ASTM., 2000. Standard Test Method for particle size of soils. Annual Books of ASTM Standards, D422-63.##ASTM., 2000. Standard Test Method for laboratory compaction characteristic. Annual Books of ASTM Standards, D698-78.##ASTM., 2000. Standard Test Method for Density and Unit Weight of Soil in Place by Sand-Cone Method, D1556-82.##ASTM., 2000. Standard Test Method for Unconfined Compressive Strength of Cohesive Soil, D2166-06.##ASTM., 2000. Standard Test Method for Direct Shear Test of Soils Under Consolidated Drained Conditions, D3080–98##Bell, F.G., 1996. Lime stabilization of clay minerals and soils, Engineering Geology, 42:223-237.##Yıldız, M., Sogancı, A.S., 2012. Effect of freezing and thawing on strength and permeability of lime-stabilized clays, Scientia Iranica, Pp. 1013–1017.##Ghazavi, M., Roustaei, M., 2013. Freeze–thaw performance of clayey soil rein-forced with geotextile layer, Cold Regions Science and Technology, Pp. 22–29.##Hotineanu, A., Bouasker, M., Aldaood, A., Al-Mukhtar, M., 2015. Effect of freeze–thaw cycling on the mechanical properties of lime-stabilized expansive clays, Cold Regions Science and Technology, 119:151–157.##Li, Z., Liu, S.H., Wang, L.J., Fu, Z.Z., 2013. Experimental study on the mechanical properties of clayey soil under different freezing apparatus temperatures and freeze-thaw cycles, Scientia Iranica Feb, 20(4):1145 -1152.##Gullu, H., 2015. Unconfined compressive strength and freeze–thaw resistance of fine-grained soil stabilised with bottom ash, lime and superplasticizer, Road Materials and Pavement Design, Pp. 1-26.##Czurda, K.A., Hohmann, M., 1997. Freezing effect on shear strength of clayey soils, Applied Clay Science, 12:165-187.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>مطالعه‌ی آزمایشگاهی تاثیر رسوب زیستی کربنات کلسیم (MICP) بر میزان نفوذپذیری ماسه‌های کربناته</TitleF>
+				<TitleE>Experimental Study of the Microbial Induced Carbonate Precipitation (MICP) Effect on the Permeability of Carbonated Sands</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>رسوب زیستی کربنات کلسیم (MICP) روشی سازگار با محیط زیست و مناسب برای بهسازی خاک است. در این روش، اوره توسط آنزیم اوره آز ترشح شده از باکتری، هیدورلیز شده و کربنات کلسیم در حضور یون کلسیم تشکیل می شود. کربنات-کلسیم مانند پلی ذرات خاک را به یکدیگر متصل می کند و باعث بهبود مشخصه های خاک می شود. در مقاله حاضر تاثیر MICPبر میزان نفوذپذیری ماسه های کربناته در آزمایشگاه مطالعه شده است. عواملی نظیر غلظت محلول سیمانی، میزان تراکم خاک و مدت زمان تیمار بر میزان نفوذپذیری خاک مورد مطالعه قرار گرفته است. نتایج نشان داد غلظت بالاتر محلول سیمانی باعث کاهش بیشتر در نفوذپذیری نمونه‌ها می شود. نمونه های با تراکم کمتر، کاهش نفوذپذیری بیشتری را نشان دادند. هم چنین با گذشت زمان از 14 روز به 28 روز، فعالیت باکتریایی بسیار اندک بوده است. بیشترین میزان کاهش نفوذپذیری در نمونه ی سست، با غلظت محلول سیمانی 1 مولار و با مدت زمان عمل آوری 28 روز، برابر با 60 درصد بوده است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Microbial induced carbonate precipitation (MCIP) is an environmentally and suitable method for soil remediation. In this method, urea is hydrolyzed by the urease enzyme, that is splashed from Sporosrcina Pasteurii bacteria. The calcium carbonate is formed in the presence of calcium ion. Calcium carbonate connects the soil particle like a bridge and improve its engineering characteristics. In the present research, the effect of MICP on the permeability of carbonated sand was investigated. The effect of factors such as concentration of the cementation solution, curing time and relative density on soil permeability have been studied. To consider the effect of different factors on the MICP performance, number of samples have been treated with MICP method and then constant head permeability test were conducted on the treated samples. the results show that as the concentration of cement solution was increased, the permeability of the samples was decreased. Loose Samples resulted in more decrease in permeability with respect to the dense samples. Also, bacterial activity was increased with time and after 14 days the variation in permeability was reduced. The highest rate of permeability reduction was around 60% for the sample prepared in loose state and cured with one molar concentration of cementation solution for 28 days</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>43</FPAGE>
+						<TPAGE>55</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>زهرا</Name>
+						<MidName></MidName>		
+						<Family>حیدری نقدعلی</Family>
+						<NameE>Zahra</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Heydari Naghdali</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه یاسوج-دانشکده فنی و مهندسی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه یاسوج-دانشکده فنی و مهندسی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>zahraheydari.na@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>منصور</Name>
+						<MidName></MidName>		
+						<Family>پرویزی</Family>
+						<NameE>Mansour</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Parvizi</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه یاسوج-دانشکده فنی و مهندسی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه یاسوج-دانشکده فنی و مهندسی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>parvizi@yu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مسعود</Name>
+						<MidName></MidName>		
+						<Family>رابطی مقدم</Family>
+						<NameE>Masoud</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Rabeti Moghadam</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه یاسوج-دانشکده فنی و مهندسی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه یاسوج-دانشکده فنی و مهندسی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>rabeti@yu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>رضا</Name>
+						<MidName></MidName>		
+						<Family>نقی ها</Family>
+						<NameE>Reza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Naghiha</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه یاسوج؛ دانشکده کشاورزی؛ گروه علوم دامی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه یاسوج؛ دانشکده کشاورزی؛ گروه علوم</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>naghiha@yu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>MICP</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>باکتری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>کریستال کربنات‌کلسیم</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بیوسمنتاسیون</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>آزمایش نفوذپذیری با بار ثابت</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>روشن بخت، ک.، خامه چیان، م.، ساجدی، ر.، نیکودل، م.، 1394. بهسازی خاک­های ماسه­ای با رسوب زیستی کربنات کلسیم و فاکتورهای موثر بر آن: مجله علمی- پژوهشی انجمن زمین شناسی ایران، جلد هشتم، شماره 1 و 2.##سرمست، م.، فرپور، م.، سرچشمه پور، م.، کریمیان اقبال، م.، 1393. تاثیر کلسیت زیستی بر برخی ویژگی­های فیزیکی خاک­های شنی: مجله علوم و فنون کشاورزی و منابع طبیعی، علوم آب و خاک، سال هجدهم، شماره شصت و هشتم.##Al Qabany, A., and Soga, K., 2013. Effect of chemical treatment used in MICPon engineering properties of cemented soils: Géotechnique, 63(4): 331–339.##Cheng, L., Shahin, M. A., and Cord-Ruwisch, R., 2014. Bio-cementation of sandy soil using microbially induced carbonate precipitation for marine environments: Géotechnique, 64(12): 1010–1013.##Chu, J., Stabnikov, V., Ivanov, V., 2012. Microbially induced calcium carbonate precipitation on surface or in the bulk of soil: Geomicrobiology Journal, 29(6):544-549.##DeJong, J. T., M. B. Fritzges, and K. Nusslein. 2006. Microbially induced cementation to control sand response to undrained shear: Journal of Geotechnical and Geoenvironmental Engineering, 132 (11): 1381–1392.##DeJong, J. T., Mortensen, B. M., Martinez, B. C. &amp; Nelson, D. C.2010.Bio-mediated soil improvement.Ecol. Engng 36, No. 2,197–210.##Deng, W., Wang, Y., 2018. Investigating the factors affecting the properties of coral sand treated with microbially induced calcite precipitation: Advances in civil Engineering(8):1-6 ##El Mountassir, G., Minto, J. M., Van Paassen, L. A., Salifu, E., Lunn, R. J., 2018.  Chapter Two - Applications of Microbial Processes in Geotechnical Engineering: Advances in Applied Microbiology,104: 39-91.##Gowthaman, S., Mitsuyama, Sh., Nakashima, K., Komatsu, M., Kawasaki, S., 2019. Biogeotechnical approach for slope soil stabilization using locally isolated bacteria and inexpensive low-grade chemicals: A feasibility study on Hokkaido expressway soil, Japan: Soils and Foundations, Available online 6 March 2019.##Metayer-Leverl, G. L., Castanier, S., Orial, G., Loubière, J. F.,  Perthuisot, &amp; J. P., 1999. Applications of  bacterialcarbonatiogenesis to the protection and regeneration of  limestone in buildings and historic patrimony: Sedimentary Geology, 126 (1–4): 25–34.##Mitchell, J. K. and Santamarina, J. C., 2005. Biological considerations in geotechnical engineering: J Geotech GeoenvironEng, 131(10): 1222-1233.##Mujah, D., Shahin, M. A., and Cheng, L., 2016. State-of-the-art review of bio-cementation by microbially induced calcite precipitation (MICP) for soil stabilization: GeomicrobiologyJournal.34 (6): 524-537.##Okwadha, G. D. &amp; Li, J., 2010. Optimum conditions for microbial carbonate precipitation: Chemosphere 81, No. 9: 1143–1148.##Rebata-Landa, V., 2007. Microbial activity in sediments: Effects on soil behavior: Doctoral dissertation, Georgia Institute of Technology, Atlanta, GA.##Smith, A., Pritchard, M., Edmondson, A., Bashir, Sh., 2017. The reduction of the permeability of a lateritic soil through the application of microbially induced calcite precipitation: Natural Resources (8): 337-352##Soon, N. W., Lee, L. M. ,Khun, T. C. , and Ling, H. S., 2013. Improvements in engineering properties of soils through microbial-induced calcite precipitation: KSCE Journal of Civil Engineering 17 (4): 718–728.##Van Paassen , L. A., 2009. Biogrout (ground improvement by microbially induced carbonate precipitation):  Doctoral dissertation ,  Delft Univ. ofTechnology, Delft, The Nethelands.##Van Paassen, L. A., Ghose, R., van der Linden, T. J. M., van der Star, W. R.L., and van Loosdrecht, M. C. M.,2010. Quantifying biomediated ground by improvement ureolysis: Large-scale biogrout experiment: J. Geotech. Geoenviron. Eng., 10.1061: 1721–1728.##Whiffin, V. S., 2004. Microbial CaCO3 precipitation for the production of biocement: PhD Thesis, MurdochUniversity, Australia p. 162.##Whiffin, V. S., Van Paassen, L. A., and Harkes, M. P., 2007. Microbialcarbonate precipitation as a soil improvement technique: Geomicrobiol.J., 24(5): 417–423.##Xiao, P., Liu, H., Xiao, Y., Stuedlein, A. W., Evans, T. M., 2018. Liquefaction resistance of biocemented calcareous sand: Soil Dynamic and Earthquake Engineering: 9-19##Zhang, H. C., 2010. Experimental research of microbial-induced clogging in sands (in Chinese). Dissertation for the Master Degree. Beijing: Tsinghua University.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>ارزیابی مقاومت تراکم تک محوری و حدود اتربرگ خاک رس ماسه ‌دار تثبیت شده با متاکائولن</TitleF>
+				<TitleE>Evaluation of the uniaxial compression strength and Atterberg limits of metakaolin-treated sandy clay soil</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>اصلاح و بهسازی خاکهای ضعیف به عنوان امری اجتناب ناپذیر نقش مهمی در پروژههای عمرانی دارد. در پژوهش حاضر تاثیر افزودن متاکائولن بر حدود اتربرگ و مقاومت فشاری تکمحوری خاک رس‌ماسه‌دار بررسی شده است. به این منظور، آزمایشهای مقاومت تراکم تک محوری روی نمونههای خاک ‌رسماسه‌دارتثبیت نشده و تثبیت شده با 5، 10، 15، 20 و 25 درصد متاکائولن در زمان‌های عمل‌آوری آنی، 7، 14و 28 روز و هچنین آزمایش حدود اتربرگ در درصدهای 5، 15 و 25 در زمان عملآوری آنی انجام شده است. نتایج نشان می‌دهد افزایش درصد متاکائولن موجب افزایش حدود روانی و خمیری خاک رس ماسهدار میشود. بطوری‌که میزان افزایش حدخمیری خاک کمتر از حدروانی بوده و در نتیجه نشانه خمیری خاک افزایش یافته است. نمونه‌های تثبیت شده با 25 درصد متاکائولن با افزایش33/1 و 4/1 برابری به ترتیب برای حدود روانی و خمیری بیشترین تغییر را در حدود اتربرگ خاک رس ماسه‌دار باعث شده اند. بررسی خاک تثبیت شده در نمودار خمیری خاک نشان می‌دهد که موقعیت خاک در این نمودار در اثر افزایش میزان متاکائولن تغییر ناچیزی کرده و خاک در همان ساختار اولیه باقی خواهد ماند. همچنین با افزایش درصد متاکائولن و زمان عمل‌آوری مقاومت فشاری تک‌محوری رس ماسه‌دار افزایش می‌یابد. بیشترین میزان افزایش مقاومت به ازای 25 درصد متاکائولن و در زمان 28 روز اتفاق افتاده است. همچنین بررسی سطوح گسیختگی و نحوه شکست نمونههای آزمایش شده نشان میدهد که با افزایش متاکائولن شکست نمونهها پس از رسیدن به مقاومت نهایی سریع‌تر صورت می گیرد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Improvement of poor soils as an inevitable issue plays an important role in civil engineering projects. In this paper, the effect of adding metakaolin on Atterberg limits and uniaxial compressive strength of sandy clay soil was investigated. For this purpose, uniaxial compressive strength tests have been done on non-stabilized and stabilized soil samples with 5, 10, 15, 20 and 25% of metakaolin at curing times including immediately after mixing, as well as 7, 14 and 28 days. The Atterberg limits test have been also conducted on stabilized soil samples with 5, 15 and 25 at immediately after mixing. The results show that increasing the percentage of metakaolin increases the liquid and plasticity limits of sandy clay. So that the amount of plasticity limit of soil is less than the liquidity and thus the soil plasticity index increase. Stabilized samples with 25% metakaolin increased by 1.33 and 1.40 times, respectively, for liquid and plasticity limits, due to the highest change in the Atterberg limits of sandy clay soil. The study of stabilized soil in plasticity chart shows that by adding of metakaolin, the soil&#039;s position in this chart is negligible. Also, increasing the percentage of metakaolin and the curing time increases uniaxial compressive strength of the sandy clay. The highest strength rate for 25% of metakaolin occurred at 28 days. Also, studying the failure planes and the failure rate of the tested specimens shows that with increasing metakaolin, the failure of the specimens occurs faster after reaching the final strength.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>19</FPAGE>
+						<TPAGE>31</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>علی محمد</Name>
+						<MidName></MidName>		
+						<Family>رجبی</Family>
+						<NameE>Ali M.</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Rajabi</FamilyE>
+						<Organizations>
+							<Organization>زمین شناسی مهندسی دانشگاه تهران</Organization>
+						</Organizations>
+						<Universities>
+							<University>زمین شناسی مهندسی دانشگاه تهران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>amrajabi@ut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>زهرا</Name>
+						<MidName></MidName>		
+						<Family>همراهی</Family>
+						<NameE>Zahra</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Hamrahi</FamilyE>
+						<Organizations>
+							<Organization>کارشناس ارشد ژئوتکنیک</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناس ارشد ژئوتکنیک</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>zahra.hamrahi@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>حدود اتربرگ</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مقاومت تک محوری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>رس ماسه‌دار</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>متاکائولن</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بهسازی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>استاندارد ملی ایران شماره 3433.، 1373. ویژگی‌های پوزولان‌های طبیعی، چاپ یکم. بخشی اردکانی، ش. و رجبی، ع.، 1396. بررسی آزمایشگاهی تاثیر افزودنی‌های زئولیت و سپیولیت بر پارامترهای مقاومتی خاک‌های ماسه‌رس‌دار، پایان‌نامه کارشناسی ارشد، دانشکده فنی و مهندسی، دانشگاه قم. یثربی، ش. و جداری صالح زاده، ن.، 1380. بررسی تاثیر پوزولان بر روی ویژگی‌های فیزیکی و مکانیکی رس واگرا.، پایان‌نامه کارشناسی ارشد، دانشگاه تربیت مدرس، دانشکده مهندسی عمران. یثربی، ش. و  قابزلو، س.، 1380. بهبود خصوصیات مکانیکی خاک مارن با استفاده از پوزولان.، پایان‌نامه کارشناسی ارشد, دانشگاه تربیت مدرس, دانشکده مهندسی عمران.##Al-Swaidani, A., Hammoud, I., Meziab, A., 2016. Effect of adding natural pozzolana on geotechnical properties of lime-stabilized clayey soil, Journal of Rock Mechanics and Geotechnical Engineering, 8 (5): 714-725.##Ashori, P., and Madandost, R., 2012. Evaluation of engineering properties of High Performance Concrete (HPC) incorporating Metakaolin and Zeolite, Master&#039;s thesis of Guilan University.##Avet, F., Li, X., and Scrivener, K., 2018. Determination of the amount of reacted metakaolin in calcined clay blends. Cement and Concrete Research, 106: 40-48.##Batis, G., Pantazopoulou, P., Tsivilis, S.,Badogiannis, E., 2005. The effect of metakaolin on the corrosion behavior of cement mortars,Cement and Concrete Composites, 27(1): 125-130.##Clovis, N., Vanderley, M.J, Cleber, M. R., Holmer, S., Mario, S., 2004. Effect of Metakaolin on the performance of PVA and cellulose fibers reinforced cement.##Courard, L., Darimont, A., Schouterden, M., Ferauche F., Willem, X.,Degeimbre, R., 2003. Durability of mortars modified with metakaolin, Cement and Concrete Research, 33(9): 1473-1479.##Deng, Y., Yue, X., Liu, S., Chen, Y., Zhang, D., 2015. Hydraulic conductivity of cement-stabilized marine clay with metakaolin and its correlation with pore size distribution, Engineering Geology, 193: 146-152.##El-Eswed, B.I., Aldagag, O.M., Khalili, F.I., 2017. Efficiency and mechanism of stabilization/solidification of Pb(II), Cd(II), Cu(II), Th(IV) and U(VI) in metakaolin based geopolymers, Applied Clay Science, 140: 148-156.##Ghrici, M.S., Kenai, M., 2007. Mechanical properties and durability of mortar and concrete containing natural pozzolana and limestone blended cements, Cem, Concr Compos: 542–549.##Hossain, K.M.A., and Mol, L., 2011. Some engineering properties of stabilized clayey soils incorporating natural pozzolans and industrial wastes, Construction and Building Materials, 25: 3495-3501.##Khamehchiyan, M., Charkhabi, A., Tajik M., 2007. Effects of crude oil contamination on geotechnical properties of clayey and sandy soils. Engineering Geology, 89: 220-229.##Kolovos, K.G., Asteris, P.G., Cotsovos, D.M., Badogiannis, E., Tsivilis, S., 2013. Mechanical properties of soil Crete mixtures modified with metakaolin, Construction and Building Materials, 47: 1026-1036.##Matoes, M., 1964. Soil Lime Research at Iowa State University, Soil and Foundations, 90(SM-2): 127-153.##Qian, X., and Li, Z., 2001. The relationships between stress and strain for high-performance concrete with metakaolin, Cement and Concrete Research, 31(11): 1607-1611.##Sudagar, A., Andrejkovicova, S., Patinha, C., Velosa, A., McAdam, A., da, E., Rocha, F., 2018. A novel study on the influence of cork waste residue on metakaolin-zeolite based geopolymers, Applied Clay Science, 152: 196-210.##Sivapullaiah, P.V., and Prashansth, J.P., 1996. Effect of fly ash of the index properties of black cotton soil, soils and foundations, 36: 97-103.##Wang, L., Li, X., Cheng, Y., Bai, X., 2018. Effects of coal-metakaolin on the properties of cemented sandy soil and its mechanisms. Construction and Building Materials, 166: 592-600.##Wianglor, K., Sinthupinyo, S., Piyaworapaiboon, M., Chaipanich, A., 2017. Effect of alkali-activated metakaolin cement on compressive strength of mortars, Applied Clay Science, 141: 272-279.##Wild, S., Khatib, J. M., Jones, A., 1996. Relative strength, pozzolanic activity and cement hydration in superplasticised metakaolin concrete, Cement and Concrete Research, 26(10): 1537-1544.##Wu, Z., Deng, Y., Liu, S., Liu, Q., Chen, Y., Zha, F., 2016. Strength and micro-structure evolution of compacted soils modified by admixtures of cement and metakaolin, Applied Clay Science, 127: 51-44.##www.silicasand-co.com##Zhang. T., Yue, X., Deng, Y., Zhang, D., Liu, S., 2014. Mechanical behavior and micro-structure of cement-stabilized marine clay with a metakaolin agent, Construction and Building Materials, 73: 51-57.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی علل فرسایش‌ شدید خاک‌های گچ دار مجتمع پتروشیمی مسجدسلیمان با تأکید بر واگرایی و انحلال‌پذیری</TitleF>
+				<TitleE>Evaluating Erodibility of gupsiferous soils of Masjed Soleyman petrochemical plant site with emphasiss on dispersive and solubility</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>واگرایی پدیده‌ای فیزیکی- شیمیایی است که در اثر آن ذرات خاک رس در مجاورت با آب چسبندگی خود را از دست ‌داده و یکدیگر را دفع می‌نمایند، به‌ طوری‌ که ذرات مذکور به ‌صورت معلق در آب درآمده و به سهولت با انرژی کمی از محیط خارج می‌شوند. پتانسیل واگرایی در یک خاک بستگی به عوامل متعددی از جمله نوع کانی‌های رسی، میزان pH، مواد آلی، دما، درصد رطوبت، نوع و غلظت یون‌های موجود در مایع منفذی خاک و خصوصیات مایع فرسایش دهنده دارد و معمولاً مقدار کاتیون سدیم بالایی دارند. از شواهد واگرایی خاک ایجاد اشکال فرسایشی در مناطق شیب‌دار و مسطح می‌باشد. از آنجا که این اشکال فرسایشی در ساختگاه پتروشیمی مسجدسلیمان، با لایه‌های سازند گچساران مشاهده گردیدند، لذا به ‌منظور ارزیابی علل فرسایش‌پذیری، از نقاط مختلف ساختگاه نمونه‌برداری صورت پذیرفت و سپس با انجام آزمایش‌های فیزیکی، شیمیایی و آزمایش‌های مشخص‌کننده واگرایی خاک مشاهده گردید که مقدار کاتیون سدیم نمونه‌ها پایین بوده و خاک غیر واگرا است. با مشاهده کانی ژیپس، منافذ و فضای خالی موجود در نمونه‌های دستی و میکروسکوپی، مقدار کانی ژیپس نمونه‌ها تعیین و با ارتباط آن با مشاهدات صحرایی مشخص گردید که اشکال فرسایشی ناشی از شستگی، انحلال و درنهایت پوک شدن خاک در نتیجه وجود کانی ژیپس می‌باشد که باعث ایجاد یک نوع فرسایش مکانیکی در منطقه شده است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Dispersivity is a physico-chemical phenomenon whereby clay soil particles lose their cohesion in the presence of water and repel each other, so that the particles become suspended in water and easily washed with very little energy from the environment. Potential dispersivity in a given soil depends on several factors, including: type of clay minerals, pH, organic matters, temperature, moisture percentage, type and concentration of ions existing in the soil pore water and the characteristics of eroding fluid and usually there are high amounts of sodium cation. Soil dispersivity evidence can be alluded to the development of erosional shapes on steep and flat areas; since these erosional shapes were observed upon the Gachsaran formation in Masjed Soleyman petrochemical site, so sampling was carried out from different parts of the site in order to assess the causes of erosion. Then, by performing physical and chemical tests as well as the tests to characterize soil dispersivity, it was observed that the amount of sodium cation is low and soil itself is non-dispersive. By observing the gypsum mineral, voids and free spaces available in manual and microscopic samples, their gypsum content was determined. Again, by its relation with field observations, it was revealed that erosion shapes induced by leaching, dissolution and ultimately the soil to be hollowed in the result of gypsum mineral presence that has been contributed in developing a kind of mechanical erosion in the region.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>75</FPAGE>
+						<TPAGE>92</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محمد حسین</Name>
+						<MidName></MidName>		
+						<Family>جوکار</Family>
+						<NameE>Mohammad Hosein</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Jowkar</FamilyE>
+						<Organizations>
+							<Organization>دانش آموخته کارشناسی ارشد زمین شناسی مهندسی دانشگاه تربیت مدرس</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانش آموخته کارشناسی ارشد زمین شناسی مهندسی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>h.jowkar@modares.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>ماشااله</Name>
+						<MidName></MidName>		
+						<Family>خامه چیان</Family>
+						<NameE>masha allah</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>khamechian</FamilyE>
+						<Organizations>
+							<Organization>دانشگاه تربیت مدرس، دانشکده علوم، گروهزمین شناسی</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشگاه تربیت مدرس، دانشکده علوم، گروهزمین</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>khamechm@modares.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محمدرضا</Name>
+						<MidName></MidName>		
+						<Family>نیکودل</Family>
+						<NameE>Mohammadreza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Nikudel</FamilyE>
+						<Organizations>
+							<Organization>استادیار،‌ گروه زمین‌شناسی مهندسی دانشکده علوم پایه دانشگاه تربیت مدرس  nikudelm@yahoo.com</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار،‌ گروه زمین‌شناسی مهندسی دانشکده</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>nikudelm@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>واگرایی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>پتروشیمی مسجدسلیمان</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>ژیپس</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>شستگی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>فرسایش مکانیکی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>احمدی، ح.،  1391. ژئومورفولوژی کاربردی. جلد 1. چاپ هشتم. انتشارات دانشگاه تهران.##بازرگان، ج.، اسماعیلی، د.، 1389. ارزیابی و اصلاح معیار شیمیایی تشخیص پتانسیل واگرایی خاک‌های رسی، نشریه زمین‌شناسی مهندسی، جلد چهارم، صفحات 942-917.##بینای مطلق، پ.، 1389. دستورالعمل و روش‌های اندازه‌گیری عوامل فیزیکی و شیمیایی و مواد شیمیایی معدنی سمی در آب آشامیدنی، وزارت بهداشت درمان و آموزش پزشکی، معاونت بهداشت، مرکز سلامت محیط و کار.##تاتلاری، س.، 1375. بررسی رفتار خاک‌های گچی در مجاورت سازه‌های آبی، پایان‌نامه کارشناسی ارشد سازه‌های آبی، دانشکده کشاورزی، دانشگاه تهران.##حسنی، ا.، 1392. استفاده از روش طیف بینی مرئی- فروسرخ در برآورد ویژگی‌های شیمیایی خاک در خاک‌های گچی، رساله دکتری، دانشکده کشاورزی، دانشگاه تربیت مدرس.##خامه چیان، م.، رحیمی، ا.، لشکری پور، غ.، سلوکی، ح.، 1384. بررسی علل فرسایش خاک‌های  دشت سیستان از دیدگاه زمین‌شناسی مهندسی  با نگرشی خاص به پدیده واگرایی، مجله علوم دانشگاه تهران، جلد 31، صفحات 268-253.##خدابخش، سعید.، صحرارو، ن.، 1392، آزمایش‌های رسوب‌شناسی، چاپ اول، انتشارات دانشگاه بوعلی سینا همدان.##شرکت زمین فیزیک پویا، 1394. گزارش مطالعات زمین‌شناسی و ژئوتکنیکی پروژه پتروشیمی مسجدسلیمان، فاز یک مطالعاتی، تهران.##عسکری، ف. ا.، فاخر، ع.، 1372. تورم و واگرایی خاک‌ها از دید مهندس ژئوتکنیک. دانشگاه تهران.##رحیمی، ح.، تاتلاری، س.، نژاد هاشمی، ا. پ.، 1377. ارزیابی برخی مشخصات فیزیکی و شیمیایی خاک‌های گچی و مقایسه آن با روش‌های متداول استاندارد، مجله علوم کشاورزی ایران، جلد 29، شماره ، صفحات 129-117.##کارگر، س.، رییسی، ع.، رحیمی، ح.، 1389. بررسی تأثیر وجود گچ و آبشویی آن بر ویژگی‌های مقاومتی خاک رس، مجله تحقیقات آب  و خاک ایران. جلد 41، شماره 2، صفحات 256-251.##منصوری کیا، م. ت.، کیامنش، ح.، شاهرخ، ب.، 1387. ساخت کانال‌های آبیاری در خاک‌های گچ دار، محدودیت‌ها و راه‌حل‌ها، کارگاه فنی تخصصی ساخت کانال‌ها محدودیت‌ها و راه‌حل‌ها.## یغمائیان مهابادی، ن.، گیوی، ج.، 1386. مقایسه روش‌های مختلف اندازه‌گیری گچ در برخی خاک‌های اصفهان، علوم فنون کشاورزی و منابع طبیعی، سال11، شماره 42، صفحات 576-565.##Alainachi, I. H., Alobaidy, G. A., 2010. The effects of Basra Gulf salt water on the Proctor compaction and CBR test results of  soil samples at Baniyas city, Abu Dhabi, UAE, Electronic Journal of Geotechnical Engineering, (15):1-17.##Adams, A. G., Dukes, O. M., Tabet, W., Cerato, A. B., Miller, G. A., 2008. Sulfate induced heave in Oklahoma soils due to lime stabilization, Geo-congress, Conference Proceedings, ASCE, Pp: 444–451.##Al-Dabbas, M. A., Schanz, T., Yassen, M. J., 2012. Proposed engineering of gypsiferous soil classification, Arabian Journal of Geosciences, (5): 111–119.##Al-Daood, A., Bouasker, M., Al-Mukhtar, M., 2014. Geotechnical properties of lime-treated gypseous soils, Applied Clay Science, (88):39–48.##Al-Dilaimy, F. H., 1989. Effect of Gypsum Content on Strength and Deformation of Remolded Clayey Soil. MSc,Thesis University of Salahddin, Iraq.##Al-Gabri, M. K. A., 2003. Collapsibility of Gypseous Soils Using Three Different Methods, M.Sc. Thesis. Building and Construction Engineering Department, University of Technology, Baghdad.##Al-Heeti, A. A. H., 1990. The Engineering Properties of Compacted Gypsified Soil. M.Sc. Thesis, Civil Engineering Department, University of Baghdad.##Al-Layla, M. T., Al-Obaydi, M. A., 1993. Lime stabilization of Gypseous soil, Proceedings of the 5th Arab Conference of Structural Engineering, Civil Engineering Department, Al-Fateh University, Tripoli, (2): 1001-10130.##Al-Mufty, A. A., Nashat, I. H., 2000. Gypsum content determination in Gypseous soils and rocks, Third International Jordanian Conference on Mining, Amman, (3): 500-506.##Al-Sauodi, N. K. S., Al-Khafaji, A. N., Al-Mosawi, M. J., 2013. Challenging poblems of Gypseous soils in Iraq. Proceeding of the 18th International Conference on Soil Mechanics and Geothecnical Engineering, Paris, (18):479-482.##ASTM., 2004. Standard test methods for laboratory determination of water (moisture) content of soil and rock by mass. ASTM D2216-10.##ASTM., 2006. Standard Test Method for Determining Dispersive Characteristics of Clayey Soils by the Crumb Test. ASTM D6572-00.##ASTM., 2006. Standard test method for Dispersive Characteristics of Clay Soil by Double Hydrometer. ASTM D4221-99.##ASTM., 2006. Standard Test Method for identification and classification of dispersive clay soil by pinhole test. ASTM D4647-93.##ASTM., 2008. Standard practices for Identification of crystalline compounds in water – formed deposits  by X-Ray Diffraction##ASTM., 2010. Standard test methods for liquid limit , plastic limit , and plasticity Index of soils, ASTM D4318.##ASTM., 2012. Standard test method for Laboratory compaction Characteristics of soil using standard effort (12 400 ft – lbf/ft3 ( 6oo kN-m/m3)), ASTM D689 -78.##ASTM., 2013. Standard test methods for pH of soils, ASTM D4972.##Al-Zgry, E. A., 1993. The effect of Leaching on Lime Stabilized Gypseous Soil. M.Sc. Thesis, Department of Civil Engineering, University of Mousl.##Asghari, S., Ghafoori, M., Tabatabai, S. S., 2014.  The evaluation of  changes in permeability and cemical composition of gypseous soils through leaching in southern mashhad, Iran,  Malaysian Journal of Civil Engineering 26(3):337-348.##Arakelyan, E. W. A., 1986. Characteristics of the determination of the physical of gypsum soils, Soil Mechanics and Foundation Engineering, 23 (1):111-119.##Bell, F. G., Maud, R. R., Jermy, C. A., 1994. Dispersive soil in south Africa and earth dams. Proceedings 13th International Conference on soil Mechanics and Foundation Engineering, (3): 1003-1008.##Bell, F. G., Walker, D. J. H., 2000. A further examination of the nature of dispersive soils in Natal, South Africa, Quaterly Journal of Engineering and Hydrogeology, (33): 187- 199.##Buck, B. J., Van Hoesen, J. G., 2002. Snowball morphology and SEM analysis of pedogenic gypsum, southern New Mexico, Journal of Arid Environments, (51): 469–487.##Carter, B. J., Inskeep, W. P., 1988. Accumulation of pedogenic gypsum in western Oklahoma soils, Soil Science Society of America Journal, (52): 1107–1113.##Craft, D., Acciardi, R. G., 1984. Failure of pore water pressure analyses for dispersion. Journal of the Geotechnical Engineering Division, ASCE, 110( 4): 112-122.##Emami Azadi, M. R., 2008. The Effects of Urmieh lake salt water on the proctor compaction and CBR test results of well graded gravel-sand mixed with clay (GSCW) soil samples, Electronic Journal of Geotechnical Engineering,15:1-15.##Eswaran, H., Zi-Tong, G., 1991. Properties, genesis, classification and distribution of soil with Gypsum, In: Occurrence, Characteristic, and Genesis of Carbonate, Gypsum and Silica Accumulation in Soils, (Ed): Nettleton, W.D., SSSA special publication, (26): 89-119.##Fan, H., Kong, L., 2013. Empirical equation for evaluating the dispersivity of cohesive soil, Canadian Geotechnical Journal, NRC Research Press, 50(9): 989-994.##FAO (Food and Agriculture Organization of United Nations), 1993. Agriculture: Toward 2010, Rome, Italy.##Fauziah, A., Azlin, M. D, Lamyaa, N., 2012. effect of leaching and gypsum content on proportion of gypsum soil, International Journal of scientific and research publications, 2( 9):1-5.##IPNI (International Plant Nutriton Institute), 2008. Ref #16- 10076 , Norcross, Georgia 30092-2844, USA.##Isik, Y., 2000. Gypsum/anhydrite: some engineering problems, Bulletin of Engineering Geology and the Environments, 59: 227-230.##Kattab, S. A., 1986. Effect of Gypsum Content on Strength of Granular Soils for Soaked and Unsoaked Specimens, M.Sc. Thesis, Civil Engineering Department, University of Mosul.##Klein, C., Hurlbut, C. S., 1985. Manual of Mineralogy, after J. D. Dana , 20th Edition, John Wiley and Sons, New York.##Mansour, Z. M., Taha, M. R., Chik, Z., 2008. Fresh- brine water effect on the basic engineering properties of Lisan marl-Dead sea- Jordan, Journal of Applied Sciences, (8):  3603-3611.##Mermut, A. R., Arshad, M. A., 1987. Significance of sulfide oxidation in soil salinization of southeastern, Soil Science Society of America Journal, 51(1):247-251.##Najah., L, Ahmad., F, Said., M. D., Jayed., A., 2013. Effect of additive soils on some geotechnical properties of gypseous soil, International Journal of Scientific &amp; Engineering Research, 4(5): 2282-2286.##Petrukhin V. P., 1993. Construction of Structures on Saline Soils, A.A.Balkema publications.##Podwojewski, P., Arnold, M., 1994. The origin of gypsum in Vertisols in New Caledonia determined by isotopic composition of sulfur, Geoderma, 63: 179–195.##Rahimi, H., Delfi, M. 1993. New chemical method for evaluation of soil dispersivity, Proc, Of the Second International Seminar on Soil Mechanics and Foundation Engineering of Iran, Pp: 199-218.##Satton, C,T, Mitchel, J. K., 1976, Influence of eroding solution composition on dispersive behavior of a compacted clay shale, ASTM STP 623.##Shariatmadari, N., Salami, M., Karimpour Fard, M., 2011. Effect of inorganic salt solutions on some geotechnical properties of soil-bentonite mixtures as barriers, International Journal of Civil Engineering, 9(2): 103-110.##Sherard, J. L., Dunnigan, L. P., Decker, R. S., 1976. Identification and nature of dispersive soils, Journal of Geotechnical Engineering Division, ASCE, 120(52): 287-301.##Sherard. J. L, Decker, R. S., 1977. Dispersive Clays, Related Pipings and Erosion in Geotechnical Projects, vol, 623, ASTM International.##Subhi, R. K., 1987. Properties of Salt Contaminated Soils and their Influence the Performance of Roads in Iraq. Ph.D. Thesis, Queen Mary College, University of London.##Taimeh, A. Y., 1992. Formation of gypsic horizons in some arid regions of Jordan, Soil Science, 153(6): 486–498.##Tatlari, S., 1996. Evaluation of Gypseous Soils in Vicinity of Hydraulic structures. (in Persian), (M.Sc. Thesis). University of Tehran, Iran.##Van Hoesen, J., 2000. Pedogenic gypsum in southern New Mexico: genesis, morphology, and stable isotopic signature. [M.Sc. Thesis]: Las Vegas, University of Nevada Las Vegas, 182p.##Vazquez, G., Melgarejo, P., Decal, A., Larena, I., 2013. Persistence, survival, vertical dispersion,   and horizontal spread of the biocontrol agent, Penicillium oxalicum strain 212, in different soil types, Applied Soil Ecology, 67: 27–36.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE></ARTICLES>
+</JOURNAL>
+
+				</XML>
+				

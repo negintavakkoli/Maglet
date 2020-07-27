@@ -1,0 +1,765 @@
+
+	<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2020-07-27T16:59:27+04:30</responseDate>
+	<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.1002">http://iueam.ir/browse.php?mag_id=17&amp;slc_lang=en&amp;sid=1</request>
+	<ListRecords>
+		
+			
+				<record>
+					<header>
+						<identifier>17-542</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Increasing Citizens’ Satisfaction from Bank Shahr ATMs and Reducing Bank’s Economic Costs by Applying Simulation Model of Inventory Control</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Mohammad Taghi</given_name>
+					<surname>Taghavifard</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Seyyed Mohammad Ali</given_name>
+					<surname>Khatami Firoozabadi</surname>
+					<email>smakhf@hotmail.com</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Seyyed Khalilollah</given_name>
+					<surname>Sajjadi</surname>
+					<email>khalil_sajjadi2006</email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			One of the most important indicators of citizens&#8217; satisfaction in metropolises is to provide efficiently banking tools in city.&#160; Keeping cash in ATMs is very important for banks. In this paper, increasing citizens&#8217; satisfaction from Bank Shahr ATMs has been investigated by using questionnaire among 200 citizens who used them before and after implementing inventory control policy of ATMs&#8217; cash. This paper investigates the relationship between citizens&#8217; satisfaction evaluation and active ATMs by presenting a model of minimizing total costs of missed opportunity for ATMs. In order to simulate consumer behavior of ATMs, Arena software was used. The results indicated that this model can present reorder point, money order, and combination of notes for each ATM. One of the most important findings is identification of effective factors on citizens&#8217; satisfaction from ATMs and a model to optimize missed client&#8217;s costs and surplus money in them. By the help of this model, satisfaction has been increased. The results represented that citizens&#8217; satisfaction from services has been reached to 80 percent from 25 percent. Finally, daily total cost of each ATM has been reduced from 1859000 Rials for each ATM to 1147000 Rials.
+			</abstract>
+				<keywords>
+	<keyword>citizens’ satisfaction</keyword>
+	<keyword>ATM</keyword>
+	<keyword>simulation</keyword>
+	<keyword>inventory control</keyword>
+	<keyword>Bank Shahr</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>12</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>1</first_page>
+								  <last_page>18</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-542-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>17-543</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>The Impact of Service Sector on Forming Primate City Phenomenon in Khuzestan Province</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Mohammad Ali</given_name>
+					<surname>Maqsoodpoor</surname>
+					<email>maghsoudpour@uk.ac.ir</email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			In the literature of urban economics, primate city is a phenomenon that a very large city is formed among small cities in urban system of a region that a major part of population and its economic activities of that region is concentrated in it. According to urban economics theories, GFP is one of the factors that can be influential in forming a primate city phenomenon. Given service sector in the economy of Khuzestan Province and despite this province is industrial one, more than half of employed people are engaged in service sector. In this research, the effectiveness of service sector on forming the phenomenon of primate city in this province has been addressed by separating GDP based on sectors&#8217; VAT. To do this research, time series data during 1991-2011 and Autoregressive Distributed Lag (ARDL) model by using Microfit software were used. The results indicated that service sector has significant impact on primate city of Khuzestan Province both in short-term and long-term. According to the findings, for balanced growth of urban system in the province, it is recommended that to change supportive policies from service sector to other economic sectors of the province, particularly agriculture sector.
+			</abstract>
+				<keywords>
+	<keyword>urban economy</keyword>
+	<keyword>urban concentration</keyword>
+	<keyword>primate city</keyword>
+	<keyword>Khuzestan Province</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>12</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>19</first_page>
+								  <last_page>35</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-543-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>17-544</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>The Impact of Rasht Eynak Lagoon on Housing Price of the Region by Using Hedonic Pricing Method</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Hamid</given_name>
+					<surname>Amirnejad</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Mojtaba</given_name>
+					<surname>Nabizadeh Zolpirani</surname>
+					<email>nabizadeh.mojtaba@gmail.com</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Reza</given_name>
+					<surname>Heydari Kamalabadi</surname>
+					<email></email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			One of the most considerable issues in large cities is environmental impacts of lagoons on housing price. Thus, this research investigates the impact of Rasht Eynak Lagoon on housing price of the region by using Hedonic-pricing method. The studied area included residential units of Rasht area 2, district 4 near Eynak Lagoon. In terms of purpose, this research is applied, and it is survey in terms of methodology. Statistical population includes all residential units in area4, district 4 in the city of Rasht. 90 of them were selected as simple random sampling method and Cochran formula as sample. Statistical data were collected through filling questionnaire in autumn 2013 and analyzed by OLS method and Eviews 8 software. The results indicated that Eynak Lagoon (environmental factors) had negative impact on the price of residential units in the region. As distance from the lagoon increases, housing price rises. However, the variables of land area, type of housing, type of skeleton, and access to medical centers had positive impact on housing price. Contrarily, the variables of distance from Main Street, distance to city center, and access to park had negative impact on housing price in the studied area. Moreover, the variable of distance from Eynak Lagoon affected the most on dependent variable.
+			</abstract>
+				<keywords>
+	<keyword>urban economy and management</keyword>
+	<keyword>Hedonic function</keyword>
+	<keyword>Eynak Lagoon</keyword>
+	<keyword>housing price</keyword>
+	<keyword>Rasht</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>12</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>37</first_page>
+								  <last_page>53</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-544-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>17-545</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Explanation of the City Brand Equity Role on Specialists’ Immigration  (Case of Study: Mashhad)</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Katayoon</given_name>
+					<surname>Alizadeh</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Peyvand</given_name>
+					<surname>Mirzaeian Khamseh</surname>
+					<email>Mirzaeian.p@gmail.com</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Shaghayegh</given_name>
+					<surname>Ettehadi</surname>
+					<email></email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			Brand equity is one of the significant categories in the international competition field, through which we can decrease the rate of immigration from cities and protect urban human resources. The purpose of this text is to find an organized and a coherent answer in regards to reasons of reduction of immigration of specialists who are post graduated in Mashhad and their sense of belonging to their own city as well. There are numbers of reasons for promotion of sense of attachment, so city identity shall be deemed as an important topic in this regard. However, branding topic in this area is what has been underestimated in former researches. Now the question is how an urban brand can leave an impression on the immigration of experts who are post graduated. Therefore, the current Manuscript presents a creative real model for explanation of the city brand role on reduction of specialists&#8217; immigration rate from Mashhad, emphasizing the role of identity as a mediator. The data being required for this research have been collected by questionnaires, through an accessible targeted non-random sampling from specialists from Mashhad who are post graduated. This research is an applied-surveying type in which the structural equations method is used by use of Smart PLS software for data analysis. The results show that the city brand is effective on identification and reduction of rate of immigration from Mashhad. The role of identity as a mediator in impression of city brand on reduction of rate of immigration from Mashhad has been proved in review of indirect effect of this study.&#160;
+			</abstract>
+				<keywords>
+	<keyword>City Brand Equity</keyword>
+	<keyword>Immigration</keyword>
+	<keyword>Identity</keyword>
+	<keyword>Mashhad</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>12</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>55</first_page>
+								  <last_page>69</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-545-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>17-546</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Formulating Managerial Strategies for Development of Green Buildings (Case Study: Tehran Municipality-district1)</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Hamed</given_name>
+					<surname>Mohammadpour Zarandi</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Majid</given_name>
+					<surname>Abbaspour</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Reza</given_name>
+					<surname>Arjmandi</surname>
+					<email></email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			&#160;Planning is researchers&#8217; main concern in recent years to enhance environmental standards in metropolises and one of the pillars to achieve to sustainable development. One of the presented strategies to improve environment quality in urban areas is architecture and constructing consistent with the environment. In addition to economic function in saving energy resources, this idea has environmentally favorable impacts. In this research, it has been tried to specify strategic location of construction development consistent with the environment (green buildings) in Tehran Municipality by using SWOT analysis. According the results, strategic location in relation with construction development consistent with the environment in Tehran Municipality- district 1 is conservative; therefore, seven strategies were proposed in order to eliminate current weaknesses by using opportunities. The most important managerial strategies for construction development consistent with the environment include absorbing international investments from actively environmental bodies in order to reduce primary costs, encouraging investors in order to increase public willingness to invest, and necessity to construct green buildings by governmental bodies (banks) to motivate society.
+			</abstract>
+				<keywords>
+	<keyword>managerial strategies</keyword>
+	<keyword>green buildings</keyword>
+	<keyword>urban environment</keyword>
+	<keyword>urban sustainable development</keyword>
+	<keyword>SWOT analysis</keyword>
+	<keyword>Tehran Municipality</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>12</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>71</first_page>
+								  <last_page>86</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-546-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>17-547</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Identifying Economic Globalization Strategies in Urban Diplomacy  (Case Study: Tehran Metropolis)</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Hossein</given_name>
+					<surname>Baqeri</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Seyyed Majid</given_name>
+					<surname>Ebnereza</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Faramarz</given_name>
+					<surname>Sahrayi</surname>
+					<email>faramarzsahraei@yahoo.com</email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			In the past two decades, economic globalization has changed many human life arenas in different areas of the world. In this regard, metropolises, affected by manifestations of globalization, create a new form of diplomacy, called as urban diplomacy, by promoting their economic status, infrastructures, etc. It has been tried in this paper to explain and analyze the relationship between economic globalization and urban diplomacy by using quantitative-analytical SWOT model, qualitative method of brainstorming to present a systematic image of strengths, weaknesses, threats, and opportunities of economic globalization effects on urban diplomacy of Tehran Metropolis and its diplomacy structure facing with manifestations of economic globalization. The methodology is descriptive-analytical by using library resources and SWOT analytical model by weighting indexes through brainstorming method with 30 economics and diplomacy experts to explain the relationship between economic globalization and urban diplomacy, and the role of Tehran Metropolis in this arena. Research findings indicated that a type of globalization entitled globalization-localization model has better fitness for Tehran Metropolis. This model is consistent with globalization necessities and urban diplomacy aspects of Tehran Metropolis with local conditions in order to balance localization with globalization.
+			</abstract>
+				<keywords>
+	<keyword>Metropolises</keyword>
+	<keyword>globalization</keyword>
+	<keyword>global economy</keyword>
+	<keyword>urban diplomacy</keyword>
+	<keyword>globalization-localization</keyword>
+	<keyword>SWOT analysis</keyword>
+	<keyword>Tehran</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>12</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>87</first_page>
+								  <last_page>106</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-547-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>17-548</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Designing and Organizing Measurement Components of Urban Management Function by Emphasizing on Good Urban Governance and Balanced Evaluation</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Saeid</given_name>
+					<surname>Safari</surname>
+					<email>safari@shahed.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Abdolreza</given_name>
+					<surname>Beyginiya</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Mahdi</given_name>
+					<surname>Samizadeh</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="4">
+					<given_name>Seyyed Jamal</given_name>
+					<surname>Zakerifar</surname>
+					<email></email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			Much attempt has been focused on changing and improving the structure and form of designing performance evaluation systems so far and less attention has been paid to content of issues.&#160; Thus, this research aims to design performance measurement indicators in urban management by integrating balanced evaluation model (for structural aspect) and components of good governance approved by the United Nations Development Programme (for content aspect) in the field of organizational performance. In order to access to research purpose, after redefining the components of good governance in four aspects of balanced evaluation via semi-structured depth interviews with executive managers of municipality and university professors, 103 indicators in the first step, and 95 indicators in the second step were extracted to measure the performance of urban management. In the following, these indicators were evaluated with Delphi method by academic and organizational experts. The results indicated that 73 indicators were confirmed by academic and organizational experts among designed ones given eight good governance components and four aspects of balanced evaluation for performance measurement. Thus, these indicators are appropriate guides for better development of performance evaluation system in urban economics for managers to be aware of impacts and consequences of organization&#8217;s administrative decisions and plans.
+			</abstract>
+				<keywords>
+	<keyword>performance measurement</keyword>
+	<keyword>good governance</keyword>
+	<keyword>balanced evaluation</keyword>
+	<keyword>urban management</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>12</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>107</first_page>
+								  <last_page>125</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-548-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>17-549</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2016</year>
+									</publication_date>
+									<journal_volume>
+										<volume>4</volume>
+									</journal_volume>
+									<issue>16</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>The Role of the Mass Media in Urban Management  (Case Study: 22-district of Tehran Municipality)</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Ali Asqar</given_name>
+					<surname>Kia</surname>
+					<email>Keya@atu.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Gholamreza</given_name>
+					<surname>Latifi</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Mohammadreza</given_name>
+					<surname>Rasooli</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="4">
+					<given_name>Mohammad Ehsan</given_name>
+					<surname>Kazemnia</surname>
+					<email></email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			Urban management in today&#8217;s competitive world should be able to identify city&#8217;s strengths and weaknesses and improve its competitive advantages. The importance of urban management in order to access to urban sustainable development is to improve citizens&#8217; conditions and quality of life, protect city&#8217;s physical environment, enhance citizens&#8217; trust level to urban management, and improve their participation level in managing urban affairs. On the other hand, media, as a powerful component of civil society, affect different parts of the community; therefore, this research explains the role of mass media in urban management. Research methodology is survey. Statistical population includes clients of 22-district of Tehran Municipality in 2014. 400 of them were selected as sample research by stratified cluster random sampling. To collect data, research-made questionnaire, including 24 questions, was used. It was obtained by interviewing with experts. Its face validity was confirmed and its reliability was calculated by Cronbach&#8217;s alpha. In order to analyze data statistically, one-sample t-test, ANOVA, and Lee Hee tests were used. The results indicated that the role of mass media in urban management is more than average. However, mass media influence more on improvement of citizen&#8217;s participation in administering urban affairs and it affects citizen&#8217;s trust level less.&#160;
+			</abstract>
+				<keywords>
+	<keyword>mass media</keyword>
+	<keyword>urban management</keyword>
+	<keyword>22 districts</keyword>
+	<keyword>Tehran Municipality</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2016</year>
+								  <month>12</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>127</first_page>
+								  <last_page>138</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-549-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+			
+		</ListRecords>
+		</OAI-PMH>
+		 
+  
+  
+  
+  
+ 

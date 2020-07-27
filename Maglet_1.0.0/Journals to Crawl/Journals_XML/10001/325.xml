@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+		<JOURNAL>
+<YEAR>1394</YEAR>
+<VOL>3</VOL>
+<NO>4</NO>
+<MOSALSAL>4</MOSALSAL>
+<PAGE_NO>0</PAGE_NO>
+<ARTICLES>
+
+
+				<ARTICLE>
+				<TitleF>استفاده از مدل ترکیبی کانسی- نگاشت خود سازمانده در مدیریت ریسک و ارزیابی سهام</TitleF>
+				<TitleE>The use of hybrid model Kansei-SOM in risk management and stock assessment</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>در این مقاله از تحلیل کانسی که به وسیله الگوریتم یادگیری نگاشت خود سازمانده بهبود داده شده، برای تصمیم‌گیری در زمینه انتخاب سهام استفاده شده است.در این پژوهش با استفاده از آمار ماهانه سهام شرکت‌های فعال در بورس اوراق بهادار تهران از فروردین ماه 1392 تا خرداد ماه 1392 و نظرهای شش کارگزاری خبره در انتخاب سهام، به انتخاب سهام برتر در این دوره پرداخته شد. طبق نتایج به‌دست آمده شرکت­های پالایش­نفت بندرعباس، سیمان فارس و خوزستان و سرگروه توسعه­ملی به عنوان سهام برتر انتخاب شدند، تحلیل نمودار قیمت این شرکت­ها در بازه زمانی مذکور، نشان­دهنده، بازدهی قابل­قبول این شرکت‌ها در این دوره است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>Risk management and stock assessment methods, age the key factors in decisions making and stock selection in the stock market. Various methods for selecting superior stocks in the stock market is introduced. In this paper we use Kansy analysis that has been improved by SOM learning algorithm to select stock. This method is used to integrate multi- professional idea to maximize investment returns and minimize the loss that originates from the complexity of stock market changes. This paper uses monthly statistics Tehran Stock Exchange firms from April 1392 to June 1392, and six brokerage expert opinions on selected stock, preferred stock selection in the course have been discussed. The results of Bandar Abbas Oil Refining Company , Fars and Khuzestan Cement and National Development Team Leader was selected as the preferred stock , price chart of these companies in the interval represents a reasonable return on the company’s workshop in.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>1</FPAGE>
+						<TPAGE>14</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>زهرا</Name>
+						<MidName></MidName>		
+						<Family>نصراللهی</Family>
+						<NameE>zahra</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>nasrollahi</FamilyE>
+						<Organizations>
+							<Organization>دانشیار دانشکده اقتصاد،مدیریت وحسابداری، دانشگاه یزد، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار دانشکده اقتصاد،مدیریت وحسابداری،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>nasrolaz@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سعید</Name>
+						<MidName></MidName>		
+						<Family>فرهادی</Family>
+						<NameE>saeed</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Farhadi</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی کارشناسی ارشدمهندسی صنایع دانشگاه علم و هنر یزد، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی کارشناسی ارشدمهندسی صنایع دانشگاه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>farhadisaeed@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>ارزیابی سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>مدیریت ریسک</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سهام برتر</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تحلیل کانسی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>som</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]   Alam Tabriz. A, Afshari, M. A, Maleki. M. H, Mohammadi. R, (2011). Selection the optimal portfolio with ANN - artificial, Arima and Markowitz model to select the best portfolio in the Tehran Stock Exchange, First International Conference on Management and Innovation: 1-21.In Persian.##[2]   Amiri. M, Shariatpanahi. M, Banakar. MH, (2011). Selection optimal portfolio with multiple criteria decision making, journal of stock exchange, 11, 5-24.In Persian.##[3]   Chapman. S, (2008). MATLAB programming for engineers, translation: Behzad Abdi and Mahmoud Keshavarzi mehr, Tehran, Noorpardazan Publications, In Persian.##[4]   Ghadiri moghadam. A, Rafie Darani, H. (2006). Determination of optimum portfolio stock the food industry Tehran stock exchange, journal of agricultural economics and development (3): 304-309 In Persian.##[5]   Ghazizadeh. M, Tavakoli. M. (2007). The behavior of investment managers and financial analysts in predicting the market and stock selection in Tehran stock exchange, bimonthly Journal of Shahed University, (35) In Persian.##[6]   Grimsaeth, K. (2005). Kansei Engineering, www.ivt.ntnu.no. Norwegian.##[7]   Gupta. P, Inuiguchi. M, Mehlawat. M. K, Mittal. G,. (2013). Multiobjective Credibilistic Portfolio Selection Model with Fuzzy Chance-Constraints. Information Sciences, 229, 1-17.##[8]   Hashemi. A, Haghshenas. A, Valiabigdeli. M. (2007). Investment management approaches in regional stock Isfahan about market forecasts and stock selection, faculty of administrative sciences and economics, University of Isfahan, 19 (1) In Persian.##[9]   Homaye mehravan institute site: http://avanco.ir In Persian##[10]         Huang. X, Zhao. T,. (2014). Mean-Chance Model for Portfolio Selection Based on Uncertain Measure. Insurance: Mathematics and Economics, 59 243-250.##[11]         Investment management development of the Tehran stock exchange site: www.tse.ir In Persian.##[12]         Kohonen, T. (1988), Self-Organizing and Associative Memory, Springer-verlag, Germany.##[13]         Management Tehran Stock Exchange site: www.irbourse.com In Persian.##[14]         Musavaizade, H. (2007). Effect of Value at Risk models in the ranking and the optimum portfolio equity Journal Economic stock (65): 30-37 In Persian.##[15]         Nielsen, R. (1991). Neuro Computing, Addison-Wesley Publishing Company.##[16]         Pham, H. V. Cooper, E. W. Thang C, K. K. (2012). Hybrid Kansei-SOM Model Using Risk Management and Company Assessment for Stock Trading. Information Sciences: an International Journal, 256. -8-24.##[17]         Royaie. R, Beshkooh, M. (2014). Optimal portfolio selection with use combination of gray relationship analysis (GRA) and linear programming model (Case Study: investment companies), journal of accounting research, 4 (19): 1-20 In Persian.##[18]         Shen. Y; Zhang. X; Kuen Siu, T,. (2014). Mean–Variance Portfolio Selection under a Constant Elasticity of Variance Model. Operations Research Letters, 42, 337-342.##[19]         Teymouri. E, Aliahmadi. A, Babaei. M H, (2013). Provide a solution on algorithm based  to developed problem electromagnetic portfolio selection, journal of industrial engineering, Volume 47, Issue 2, pp. 127-134 In Persian .##[20]         Torkamani. J, Hoseini. A, (2007). Determining the optimum portfolio stock exchange: Application value at Risk, journal of Iran economic research, 8 (29): 75-92 In Persian.##[21]         Virtual exchange system http://www.irvex.ir/ In Persian.##[22]         Wu, D; Olson, D. L. (2010). Enterprise Risk Management: Coping with Model Risk in a Large Bank, Journal of the Operational Research Society,. 61,. 2, 179–190.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی میزان اطمینان سرمایه گذاران بورس اوراق بهادار تهران نسبت به پایداری اقلام تعهدی سود</TitleF>
+				<TitleE>investigate investors confidence from rate of stability of accruals component in Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف پژوهش حاضر، بررسی توانایی درک سرمایه‌گذاران بورس اوراق بهادار تهران از میزان پایداری جزو تعهدی سود در مقایسه با جزو نقدی در پیش‌بینی سودهای آتی است. بدین منظور ابتدا پایداریجزو تعهدی سود و اجزای آن (سرمایه درگردش خالص، دارایی­های عملیاتی غیرجاری و دارایی­های مالی) با جزو نقدی سود مقایسهمی­شود و بر اساس این مقایسه و واکنش سرمایه‌گذاران نسبت به این اقلام، در مورد فرضیه سرمایه‌گذار بی­تجربه در بورس اوراق بهادار تهران نتیجه گیری به عمل می­آید. این پژوهش در قالب داده­های ترکیبی با نمونه­ای به حجم 142 شرکت بورس اوراق بهادار تهران در بازه زمانی 1382 تا 1391 اجرایی شده است. یافته­های پژوهش نشان می­دهد که پایداری بخش تعهدی سود و اجزای آن از جزو نقدی کمتر بوده، اما سرمایه‌گذاران به دلیل بی­تجربگی، در پیش‌بینی پایداری کمتر اقلام تعهدی در مقایسه با جزو نقدی، دچار اشتباه می­شوند. اثبات وجود نابهنجاری­های اقلام تعهدی (اقلام تعهدی خلاف قاعده) در بازار سرمایه ایران از لحاظ علمی در مدل­هایارزشگذاری سهام اثرگذار خواهد بود.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>The aim of this study is investigate perception ability investors from rate of stability of accruals component in comparision to the cash component in predictions of future earnings in Tehran Stock Exchange. For this purpose, first, stability of accruals earnings and its components (net working capital, non-current operating assets and financial assets) with cash earnings component has been compared and based of this comparision and the reaction of investors to this item, about the inexperienced investor hypothesis in Tehran Stock Exchange conclusion has been done.This study in the form of combined data with a sample of 142 firms in Tehran Stock Exchange in the period of 1382 to 1391 is implemented. Research findings indicate that stability of earnings accruals and their components is less than cash component, but investors due to inexperience, in prediction less stability accrual component compared to cash component are wrong. prove the existence of anomalies accruals ( accruals anomalously ) in the Iranian Capital Market in terms of scientifically,in stock valuation models will be effective.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>15</FPAGE>
+						<TPAGE>30</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محمد علی</Name>
+						<MidName></MidName>		
+						<Family>آقایی</Family>
+						<NameE>mohamad ali</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>aghaei</FamilyE>
+						<Organizations>
+							<Organization>استادیار حسابداری دانشگاه تربیت مدرس تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار حسابداری دانشگاه تربیت مدرس تهران،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>aghaeim@modares.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>مهدیس</Name>
+						<MidName></MidName>		
+						<Family>نیکزاد قادیکلایی</Family>
+						<NameE>mahdis</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>nikzad ghadikolaee</FamilyE>
+						<Organizations>
+							<Organization>کارشناسی ارشد حسابداری دانشگاه تربیت مدرس تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناسی ارشد حسابداری دانشگاه تربیت مدرس</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>m.nikzadghadikolaee@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>وحید</Name>
+						<MidName></MidName>		
+						<Family>احمدیان</Family>
+						<NameE>vahid</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>ahmadian</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی دکتری حسابداری دانشگاه تربیت مدرس تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی دکتری حسابداری دانشگاه تربیت مدرس</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>vahid.ahmadian@modares.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>قلام تعهدی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>جزء نقدی سود</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>اقلام تعهدی خلاف قاعده</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بازده سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>فرضیه سرمایه گذار بی تجربه</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]   حقیقت، حمید؛ ایرانشاهی، علی. (1389). بررسی واکنش سرمایه‌گذاران در بورس اوراق بهادار تهران نسبت به جنبه‌های پایداری اقلام تعهدی. پژوهش­های حسابداری مالی، 2 (3). 31- 48.##[2]   دستگیر، محسن؛سروش‌یار، افسانه؛ علی‌احمدی، سعید. (1392).ارزیابی تأثیر تغییرات غیرعادی وجه نقد در پایداری سود و کارایی بورس اوراق بهادار تهران در تشخیص ویژگی‌های پایداری سود، دانشحسابداری، 4 (13).7- 27.##[3]   هاشمی، سید عباس؛ جلالی مقدم، حسین. (1392). تأثیر اقلام تعهدی بر رابطه تأمین مالی خارجی با بازده آتی سهام، پژوهش‌های حسابداری مالی، 5 (2).53- 72.##[4]     محمدزادگان، اکبر. (1385). بررسی بین قابلیت اتکای ا قلام تعهدی، پایداری سود و قیمت سهام در شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، پایان‌نامه کارشناسی ارشد، دانشگاه بین‌المللی امام خمینی (ره) قزوین.##[5]   Boubakri, F. (2012). The Relationship between Accruals Quality, Earnings Persistence and Accruals Anomaly in the Canadian Context, International Journal of Economics and Finance. 4 (6): 51- 63.##[6]   Chan, K. Chan, C. Jegadeesh, N. &amp; Lakonishok, J. (2006). Earnings Quality and Stock Returns. Journal of Business. 79 (3): 1041-1082.##[7]   Charitou, A. Clubb, C. &amp; Andreou, A. (2001). The Effect of Earnings Permanence, Growth and Firm Size on the Usefulness of Cash Flows and Earnings in Explaining Security Returns: Empirical Evidence for the UK. Journal of Business Finance and Accounting. 28 (5): 563-594.##[8]   Kan, Q. Liu. Q. &amp; Qi, R. (2010). Predicting Stock Market Returns withAggregate Discretionary Accruals.##[9]  Mashruwala, C. Rajgopal, S. &amp; Shevlin, T. (2006). Why is the Accrual Anomaly not Arbitraged Away? The Role of Idiosyncratic Risk and Transaction Costs. Journal of Accounting and Economics. 28: 201- 234.##[10]           Oei, R. Ramsay, and Mather, P. (2008). Earnings Persistence, Accruals and Managerial Share Ownership”, Accounting andFinance. 48: 475- 502.##[11]           Papanastasopoulos, G. Thomakos, D &amp; Wang, T. (2011). Accruals and the Performance of Stock Returns Following External Financing Activities. British Accounting Review, 43: 214–229.##[12]           Richardson, S. A. Sloan, R. G. Soliman, M. T. &amp; Tuna, I. (2005). Accrual Reliability, Earnings Persistence and Stock Prices. Journal of Accounting and Economics, 39 (3): 437-485.##[13]           Scott, A. R. Sloan, M. Soliman andI. Tuna (2005). “Accrual Reliability, Earnings Persistence and Stock Returns”, Journal of Accounting Research, 39: 437- 485.##[14]           Silva Filho, A. and Machado, Marcio, M. (2014). Persistence and Relevance of Accruals: Evidences from the Brazilian Capital Market working paper. Available at SSRN: http://ssrn.com/abstract=2409398.##[15]           Sloan, R. (1996). Do Stock Prices Fully Reflect Information in Accruals and Cash Flows About Future Earnings? The Accounting Review. 71: 289-315.##[16]           Zhang, X. F. (2007). Accruals, Investment, and the Accrual Anomaly. The Accounting Review, 82(5), 1333-1363.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی نقش برخی سازوکارهای حاکمیت شرکتی در کاهش ریسک ریزش قیمت سهام شرکتهای پذیرفته شده در بورس اوراق بهادار تهران</TitleF>
+				<TitleE>The Role some of Corporate Governance Mechanisms in Reducing the Risk of Share Price crash in Accepted Companies in Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف از این پژوهش، بررسی نقش برخی سازوکارهای حاکمیتشرکتی در کاهش ریسک ریزش قیمت سهام شرکت‌های پذیرفته شده در بورس اوراق بهادارتهران است.از سهامداران نهادی، نسبت اعضای غیر موظف هیأت مدیره نسبت به اعضای هیأتمدیره، وجود حسابرس داخلی و تفکیکوظایف مدیرعاملازرییسهیاتمدیره به عنوان متغیرهایحاکمیت شرکتی استفاده شده و تعداد 163 شرکت در دوره زمانی 90-1383 به عنوان نمونهآماری انتخاب شدند. یافته‌های پژوهش حاکی از وجود رابطه منفی و معنادار بینسهامداران نهادی و ریسک ریزش قیمت سهام، و رابطه مثبت و معنادار بین نسبت اعضایغیر موظف هیأت مدیره و ریسک ریزش قیمت سهام است؛ به طور کلی، نتایج نشان می­دهد کهسازوکارهای نظام راهبری شرکتی، عاملی تأثیرگذار بر ریسک ریزش قیمت سهام است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>The current study was conducted to investigate the role of corporate governance mechanisms in reducing the risk of share price crash in accepted companies in Tehran stock exchange. To fulfill the purpose of the study, form variable board independence the institutional shareholders, the interior auditor, and the separation of CEO’s duties from those of the CIO were applied as the variables of corporate governance, and 163 companies within 2004-2011 were selected as the sample for the study which totally formed 884 year-company. The analysis of the data showed a meaningful and indirect relationship between institutional shareholders and the risk of share price crash, and a meaningful and direct one between the ratio of board independence and the risk of share price crash. Also, it indicated a direct relationship between the interior auditor and the separation of CEO’s duties from those of the CIO on one hand and the risk of share price fall on the other, but this was not statistically supported. Pedagogically, corporate governance mechanisms affects share price crash.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>31</FPAGE>
+						<TPAGE>50</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محسن</Name>
+						<MidName></MidName>		
+						<Family>تنانی</Family>
+						<NameE>mohsen</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>tanani</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه حسابداری دانشگاه علوم اقتصادی تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه حسابداری دانشگاه علوم اقتصادی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>m_tanani@ues.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>علیرضا</Name>
+						<MidName></MidName>		
+						<Family>صدیقی</Family>
+						<NameE>alireza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>sedighi</FamilyE>
+						<Organizations>
+							<Organization>کارشناسی ارشد حسابداری علوم و تحقیقات ساوه، بانک آینده، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناسی ارشد حسابداری علوم و تحقیقات ساوه،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>alirezasedighi90@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>عباس</Name>
+						<MidName></MidName>		
+						<Family>امیری</Family>
+						<NameE>abbas</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>amiry</FamilyE>
+						<Organizations>
+							<Organization>کارشناسی ارشد حسابداری دانشگاه تربیت مدرس، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناسی ارشد حسابداری دانشگاه تربیت مدرس،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>abbasamiry_63@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>خطر سقوط قیمت سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>حسابرسی داخلی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>حاکمیت شرکتی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سهامداران نهادی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>استقلال هیأت مدیره</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]   دیانتی‌دیلمی، زهرا؛ لطفی، محسن؛ آزادبخش، کسری. (1391). تأثیر مدیریتسرمایه در گردش مبتنی بر چرخه تبدیل نقدی «گیتمان» برکاهش ریسک سقوط (ریزش) قیمت سهام، مجله دانش حسابداری و حسابرسی مدیریت، 1، (4): 64-55.##[2]     حساس یگانه؛ یحیی. (1385). حاکمیت شرکتی در ایران. مجله حسابرس، 32: 39-32.##[3]   فروغی، داریوش؛ امیری،‌ هادی؛  میرزایی، منوچهر. (1390). تأثیرشفاف نبودن اطلاعات مالی بر ریسک سقوط آتی قیمت سهام درشرکت‌های پذیرفته شده دربورس اوراق بهادار تهران، مجله پژوهش­های حسابداری مالی، 3، 4، (10):40-15.##[4]   فروغی، داریوش؛ میرزایی، منوچهر. (1391). تأثیرمحافظه کاری شرطی حسابداری برریسک سقوط آتی قیمت سهام درشرکت‌های پذیرفته شده در بورس اوراق بهادارتهران، مجله پیشرفت‌های حسابداری، 4، 2، (63): 117-77.##[5]   فولاد، فرزانه؛ یعقوب نژاد، احمد؛ تالانه، عبدالرضا. (1391). محافظه کاری و کاهش خطر سقوط قیمت سهم، مجله بررسی‌های حسابداری و حسابرسی، 19 (3): 118-99.##[6]   مرادی، جواد؛ ولی‌پور،‌ هاشم؛ قلمی، مرجان. (1390). تأثیرمحافظه کاری حسابداری برکاهش ریسک سقوط قیمت سهام، مجله حسابداری مدیریت، 4، (11): 106-93.##[7]     مومنی، منصور؛ فعال قیومی، علی. (1391). تحلیل‌های آماری با استفاده از SPSS، چاپ هفتم، تهران: انتشارات گنج شایگان.##[8]   Andreou, P.C, Antoniou, C., Horton, J., Louca, C., (2013). Corporate Governance and Firm-Specific Stock Price Crashes. SSRN Working paper.##[9]   Armstrong, C., Balakrishnan, K, Cohen, D., (2012). Corporate Governance and the Information Environment: Evidence from State Antitakeover Laws. Journal of Accounting and Economics, 53, 185-204.##[10]            Baker, M., Ruback, R.S, Wurgler, J., (2004). Behavioral Corporate Finance: A Survey. Unpublished Working Paper. Harvard Business School and NBER, Harvard Business School, NYU Stern School of Business and NBER.##[11]            Ball, R., (2001). Infrastructure Requirements for an Economically Efficient System of Public Financial Reporting and Disclosure. Brookings-Wharton Papers on Financial Services, 127-169.##[12]            Bebchuk, L.A, Stole, L., (1993). Do Short-Term Managerial Objectives Lead to Under- or Overinvestment in Long-Term Projects? Journal of Finance, 48, 719-729.##[13]            Benmelech, E., Kandel, E., Veronesi, P., (2010). Stock-Based Compensation and CEO (dis) Incentives. Quarterly Journal of Economics, 125, 1769–1820.##[14]            Blanchard, Olivier J. and Watson, Mark W., (1982). “Bubbles, Rational Expectations, and Financial Markets,” in Paul Wachtel, ed., Crises in Economic and Financial Structure. Lexington MA: Lexington Books, 295-315.##[15]            Bleck A., Liu, X., (2007). Market Transparency and the Accounting Regime. Journal of Accounting Research, 45, 229–256.##[16]            Callen, J.L., Fang, X., (2013). Institutional Investors and Crashes: Monitoring or Expropriation? Journal of Banki ng and Finance. For thcoming.##[17]           Campbell, John Y. and Hentschel, Ludger, (1992), No News Is Good News: An Asymmetric Model of Changing Volatility in Stock Returns, Journal of Financial Economics, 31, 281-318.##[18]            Chen, J., Hong, H., Stein, J. (2001). Forecasting Crashes: Trading Volume, Past Returns, and Conditional Skewness in Stock Prices. Journal of Financial Economics, 61, 345–381.##[19]            Duffee, Gregory R., (1995), Stock Returns and Volatility: A Firm-Level Analysis, Journal of Financial Economics, 37, 399-420.##[20]            French, K.R, Roll, R, (1986), Stock Return Variances: The Arrival of Information and the Reaction of Traders, Journal of Financial Economicss, 17: 5-26.##[21]            French, Kenneth R., Schwert, G. William and Stambaugh, Robert F., (1987). Expected Stock Returns and Volatility, Journal of Financial Economics, 19, 3-29.##[22]            Healy, P., Hutton, A., Palepu, K., (1999). Stock Performance and Intermediation Changes Surrounding Sustained Increases in Disclosu re. Contemporary Accounting Research, 16, 485–520.##[23]            Hong, H, Stein, J.C., (2003). Differences of Opinion, Short-Sales Constraints and Market Crashes. Review of Financial Studies, 16, 487-525.##[24]            Hutton, A., Marcus, A., Tehranian, H., (2009). Opaque Financial Reports and the Distribution of Stock Returns. Journal of Financial Economics, 94, 67-86.##[25]            Jin, L., Myers, S., (2006). R2 around the World: New Theory and New Tests. Journal of Financial Economics, 25, 257–292.##[26]            Karamanou, I., Vafeas, N., (2005). The Association between Corporate Boards, Audit Committees, and Management Earnings Forecasts: An Empirical Analysis. Journal of Accounting Research, 43, 453-486.##[27]            Kedia, S., Philippon, T., (2009).The Economics of Fraudulent Accounting. Review of Financial Studies, 22, 2169-2199.##[28]            Kelly, M,. (1994). Correlation Stock Answer, Risk, 7, 8; 40-43.##[29]            Kim, J.-B., Li, Y., Zhang, L., (2011b). Corporate Tax Avoidance and stock Price Crash Risk: Firm-Level Analysis. Journal of Financial Economics, 100, 639-662.##[30]            Klein, A., (2002). Audit Committee, Board Characteristics and Earnings Management. Journal of Accounting and Economics, 33, 375-400.##[31]            Kothari, S.P., Shu S., Wysocki, P., (2009). Do Managers Withhold Bad News? Journal of Accounting Research, 47, 241–276.##[32]            Masulis, R., Wang, C., Xie, F., (2007). Corporate Governance and Acquirer Returns. Journal of Finance, 62, 1851–1889.##[33]            McNichols, M.F., Stubben, S.R, (2008). Does Earnings Management Affect Firms’ Investment Decisions? The Accounting Review, 6, 1571-1603.##[34]            Polk, C., Sapienza, P., (2009). The Stock Market and Corporate Investment: A Test of Catering Theory. Review of Financial Studies, 22, 187-217.##[35]            Shleifer, A., Vishny, R., (1997). A Survey on Corporate Finance. Journal of Finance, 52, 737–783.##[36]            Satariano Adam. (2014). Apple Facing Criticism About Diversity Changes Bylaws, Bloomberg Technology, 6 January 2014.##[37]            Xie, B., Davidson III, W.N, DaDalt, P.J., (2003). Earnings Management and Corporate Governance: The Roles of the Board and the Audit Committee. Journal of Corporate Finance, 9, 295-316.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>بررسی رابطه غیرخطی بین رشد و سودآوری در شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران</TitleF>
+				<TitleE>Investigating the Non-Linear Relationship between Growth and Profitability of the
+Companies Listed in Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>چکیده  هدف پژوهش حاضر بررسی رابطه غیرخطی بین رشد و سودآوری در شرکت­های پذیرفته شده در بورس اوراق بهادار تهران است. در این راستا تأثیر اندازه شرکت، اهرم مالی و نسبت نقدینگی نیز کنترل شده است. بدین منظور از داده­های مربوط به 173 شرکت برای دوره زمانی 1382-1390 استفاده شد. در ابتدا پس از بررسی متون که به نوعی رابطه غیر خطی بین رشد و سودآوری شرکت­ها را تایید کرده، اقدام به بررسی پایایی داده­ها با استفاده از آزمون لوین، لین و چاو شده و پس از آن با استفاده از نرم­افزار Eviews رابطه غیرخطی برآورد شده است. نتایج حاکی از آن است که به طور کلی بین رشد و سودآوری شرکت­ها یک رابطه­ی غیرخطی معنادار وجود داشته، بدین صورت که  همزمان با رشد شرکت، سودآوری آن نیز افزایش می­یابد اما این رابطه تا یک آستانه وجود داشته و از آن نقطه به بعد، هر اندازه که شرکت رشد می­کند، سودآوری آن کاهش می­یابد.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>The goal of present research is to investigating the nonlinear relationship between growth and profitability of the companies listed in Tehran Stock Exchange (TSE). In this regard, the effects of firm size, financial leverage and liquidity ratio have been controlled. The sample of present study consists of 173 listed companies of Tehran Stock Exchange during 2003 to 2011. First, after examining the literatures, which has confirmed the nonlinear relationship between growth and corporate profitability, this study attempted to assess the reliability of data using Levin, Lin and Chow Test, and then nonlinear relationship is estimated using Eviews software. Results express that there is a significant nonlinear relationship between growth and corporate profitability such that coincided with the growth of the company, its profitability increases. However this relationship has a threshold, and from that point onwards, with the increase of the company grows in any amount, its profitability will decrease.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>51</FPAGE>
+						<TPAGE>66</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>محمد حسین</Name>
+						<MidName></MidName>		
+						<Family>ستایش</Family>
+						<NameE>mohammad hosein</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>setayesh</FamilyE>
+						<Organizations>
+							<Organization>دانشیار بخش حسابداری دانشگاه شیراز،ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار بخش حسابداری دانشگاه شیراز،ایران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>setayesh@shirazu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>علیرضا</Name>
+						<MidName></MidName>		
+						<Family>ممتازیان</Family>
+						<NameE>alireza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>momtazian</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی کارشناسی ارشد بخش حسابداری دانشگاه شیراز،ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی کارشناسی ارشد بخش حسابداری دانشگاه</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>ar.momtazian@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سجاد</Name>
+						<MidName></MidName>		
+						<Family>بهپور</Family>
+						<NameE>sajjad</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>behpur</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی دکتری بخش اقتصاد دانشگاه شیراز،ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی دکتری بخش اقتصاد دانشگاه شیراز،ایران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>sajadbehpur@gmail.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>رشد شرکت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سودآوری شرکت</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>رابطه غیر خطی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>بورس اوراق بهادار تهران</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]   احمدپور، احمد؛ حمید، سپهردوست؛ صالح­پور، آزاده. (1392). رابطه رشد اقتصادی و سود حسابداری در شرکت­های پذیرفته شده در بورس اوراق بهادار تهران. فصلنامه بورس اوراق بهادار تهران، 22: 103-119.##[2]     بزرگ‌اصل، موسی. (1385). حسابداری میانه: صورت­های مالی، تهران: سازمان حسابرسی- مدیریت تدوین استانداردها، چاپ دوم.##[3]   تالانه، عبدالرضا؛ هجران‌کش‌راد، حدیث. (1390). بررسی کارایی بورس اوراق بهادار تهران در سطح ضعیف و نیمه قوی، تحقیقات حسابداری و حسابرسی، 3: 64-81.##[4]     تقوی، مهدی. (1381). مدیریت مالی، تهران: انتشارات دانشگاه پیام نور، چاپ اول.##[5]     ثقفی، علی؛ محمدعلی، آقایی. (1373). رفتارسودحسابداری، فصلنامه بررسی­های حسابداری وحسابرسی، 9: 5- 21.##[6]   جهانشاد، آزیتا؛ عسگری، محمدرضا؛ اسدی‌کلی، وحید. (1390). تاثیر درصد تغییرات سود سهام پرداختی بر رشد سود آتی، فصلنامه علمی پژوهشی دانش مالی تحلیل اوراق بهادار، 12: 1-14.##[7]     دارابی، رویا؛ کریمی، اکرم. (1389).تأثیر نرخ رشد دارایی‌های ثابت بر بازده سهام، پژوهشنامه حسابداری مالی و حسابرسی،2: 99-130.##[8]   ستایش، محمدحسین؛ کاظم‌نژاد، مصطفی؛ ذوالفقاری، مهدی. (1390). بررسی تأثیر کیفیت افشا بر نقدشوندگی و هزینه سرمایه شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، مجله پژوهش­های حسابداری مالی، 9: 55-74.##[9]   فخاری، حسین؛ یوسف‌نژاد، صادق. (1385).بررسی رابطه ریسک نظام‌مند و رشد سود شرکت‌ها در بورس اوراق بهادار تهران، فصلنامه بررسی‌های حسابداری و حسابرسی، 13: 89-109.##[10] نمازی، محمد؛ ابراهیمی، شهلا. (1390). بررسی تجربی نقش اجزای سرمایه فکری در ارزیابی عملیات مالی شرکت­های پذیرفته شده در بورس اوراق بهادار تهران، دو فصلنامه یپیشرفت­های حسابداری، 3: 163-197.##[11] نمازی، محمد. (1382). نقش پژوهش‌های کیفی در علوم انسانی، مجله جغرافیا و توسعه، 1: 63-87.##[12] نمازی، محمد. (1384). بررسی کاربردهای تئوری نمایندگی در حسابداری مدیریت، مجله علوم اجتماعی و انسانی دانشگاه شیراز، 22: 147-164.##[13]          Adams, M. and M. Buckle. (2003). The Determinants of Corporate Financial Performance in the Bermuda Insurance Market. Applied Financial Economics, 13 (1): 133-143.##[14]          Alchian, A. A. (1950). Uncertainty, Evolution, and Economic Theory. Journal of Political Economy, 58 (3): 211–221.##[15]          Arbaugh, J. B. and S. M. Camp. )2000(. Management Growth Transitions: Theoretical Perspectives and Research Directions. In: Sexton, D., Landstrom, H. (Eds.), The Blackwell Handbook of Entrepreneurship. Oxford, UK, Wiley-Blackwell.##[16]          Baseri, M., M., Atefat, and S. Baseri. (2012). EVA’s and REVA’s Relative and Growing Information on Benefit Predictions in Tehran Stock Exchange Market Accepted Companies. European Online Journal of Natural and Social Sciences, 2(3):401-408.##[17]          Baumol, W. J. (1958). On the Theory of Oligopoly. Economica, 25: 187–198.##[18]          Coad, A. (2007). Testing the Principle of ‘Growth of the Fitter: The Relationship between Profits and Firm Growth. Structural Change and Economic Dynamics, 18(3): 370-386.##[19]          Coad, A. (2010). Exploring the Processes of Firm Growth: Evidence from a Vector Auto-Regression. Industrial and Corporate Change, 19 (6): 1677-1703.##[20]          Coad, A., R., Rao, and F. Tamagni. (2011). Growth Processes of Italian Manufacturing Firms. Structural Change and Economic Dynamics, 22(1): 54-70.##[21]          Cowling, M. (2004). The Growth–Profit Nexus. Small Business Economics, 22 (1): 1-9.##[22]          Davidsson, P., P., Steffens and J. Fitzsimmons. (2009). Growing Profitable or Growing from Profits: Putting the Horse in Front of the Cart?.Journal of Business Venturing, 24(4): 388-406.##[23]          Deloof, M. (2003). Does Working Capital Management Affect Profitability of Belgian Firms?.Journal of Business Finance &amp; Accounting, 30 (3-4): 573-588.##[24]          Dickey, D. A. and W.A. Fuller. (1979). Distribution of the Estimators for Autoregressive Time Series with a Unit Root. Journal of theAmerican Statistical Association, 74: 427–431.##[25]          Evans, D. S. (1987). Tests of Alternative Theories of Firm Growth. The Journal of Political Economy, 95 (4): 657-674.##[26]          Flint, A. and A., Tan and G., Tian. (2010) Predicting Future Earnings Growth: A Test of The Dividend Payout Ration the Australian Market, International Journal of Business &amp; Finance Research, (4): 43-58.##[27]          Foster, G. (1986).Financial Statemrnt Analysis. New Jersey: Prentice-Hall. Inc.##[28]          Goddard, J., P., Molyneux and J. O. Wilson. (2004). Dynamics of Growth and Profitability in Banking. Journal of Money, Credit and Banking; 1069-1090.##[29]          Gupta, V. K. (1981). Minimum Efficient Scale as a Determinant of Concentration: a Reappraisal. The Manchester School, 49 (2): 153-164.##[30]          Gwilym, O., J., Seaton, Suddason, K. and S. Thomas. (2006). International Evidence on the Payout Ratio, Earnings, Dividends, and Returns. Financial Analysts Journal, 62: 36-53.##[31]          Im, KS. Pesaran, MH. &amp; Shin, Y. (2003). Testing for Unit Roots in Heterogeneous Panels. Journal of Econometrics, 115: 53-74.##[32]          Jacobson, R. and D. A. Aaker. (1985). Is Market Share All That it&#039;s Cracked Up to Be?.The Journal of Marketing, 49 (4): 11-22.##[33]          Jang, S. S. and K. Park. (2011). Inter-relationship between Firm Growth and Profitability. International Journal of Hospitality Management, 30 (4): 1027-1035.##[34]          Jeng, V. and S. S. Yang (2014). A New Look at the Dynamic Interrelationship between Growth and Profitability in the Chinese Property Liability Insurance Industry.Acadmia Economic Papers, 42(3): 369-401.##[35]          Jensen, M. C. and W. H. Meckling. (1976). Theory of the Firm: Managerial Behavior, Agency Costs, and Ownership Structure. Journal of Financial Economics, 3(4): 305-360.##[36]          Kao, C. (1999). Spurious Regression and Residual-Based Tests for Cointegration in Panel Data. Journal of Ecometrics, 11: 1-44.##[37]          Lee, S. (2013). The Relationship between Growth and Profit: Evidence from Firm-Level Panel Data, Structural Change and Economic Dynamics, 28: 1-11.##[38]          Levin, A., CF., Lin, and J. Chu. (2002). Unit Root Tests in Panel Data: Asymptotic and Finite Sample Properties. Journal of Econometrics, 2 (5): 108: 1-24.##[39]          Markman, G. D. and W. B. Gartner. (2002). Is Extraordinary Growth Profitable? A Study of Inc. 500 High Growth Companies. Entrepreneurship Theory and Practice, 27(1): 65-75.##[40]          Marris, R. (1964). The Economic Theory of Managerial Capitalism, (V. 258). London: Macmillan.##[41]          Myers, S. C., and N. S. Majluf. (1984). Corporate Financing and Investment Decisions When Firms Have Information That Investors do not Have. Journal of financial economics, 13(2):187-221.##[42]          Nakano, A. and D. Kim. (2011). Dynamics of Growth and Profitability: The Case of Japanese Manufacturing Firms. Global Economic Review, 40(1):67-81.##[43]          Nickell, S. and D. Nicolitsas. (1999). How Does Financial Pressure Affect Firms?. European Economic Review, 43(8): 1435-1456.##[44]          Parker, K. C. (2005). Do Higher Dividends Lead to Higher Earnings Growth? Working Paper, Simon Fraser.##[45]          Pedroni, P. (1997). Critical Values for Cointegration Tests in Heterogeneous Panels with Multiple Regressons. Oxford Bulletin of Economics and Statistics, 61: 653-670.##[46]          Penrose, E. (1959). The Theory of the Growth of the Firm. Oxford University Press, New York.##[47]          Phillips, P.C.B., and P. Perron. (1988). Testing for a Unit Root in Time Series Regression. Biometrika, 75: 335–346.##[48]          Ramezani, C, A., L. A., Soenen and A. R. Jung. (2002). Growth, Corporate Profitability, and Shareholder Value Creation. Financial Analysts Journal, 58(6): 56-71.##[49]          Serrasqueiro, Z. (2009). Growth and Profitablity in Protuguese Companies: A Dynamic Panel Data Approach. Economic Interferences, 6(26): 565-573.##[50]          Smirlock, M., T. Gilligan and W. Marshall. (1984). Tobin&#039;s q and the Structure-Performance Relationship. The American Economic Review, 74(5): 1051-1060.##[51]          Smith, K. G., T. R. Mitchell and C. E. Summer. (1985). Top Level Management Priorities in Different Stages of the Organizational Life Cycle. Academy of management Journal, 28 (4): 799-820.##[52]          Steffens, P., P., Davidsson, and J. Fitzsimmons. (2009). Performance Configurations over Time: Implications for Growth and Profit Oriented Strategies. Entrepreneurship Theory and Practice, 33(1):125-148.##[53]          Watts, R. and J. Zimmerman. (1986). Positive Accounting Theory. Prentice-Hall, Englewood Cliffs, NJ.##[54]          Zhou, N., P., Seung Ho and U. Gerardo R. (2013). Profitable Growth: Avoiding the ‘Growth Fetish’ in Emerging Markets. Journal Business Horizons, 4(56): 473-481.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>ارزیابی عملکرد صندوق‌های سرمایه‌گذاری مشترک با استفاده از معیار غلبه تصادفی و مقایسه با نسبت شارپ و نسبت سورتینو</TitleF>
+				<TitleE>Performance Evaluation of Mutual Funds by Stochastic Dominance Criteria and
+comparing with Sharp Ratio and Sortino Ratio</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>هدف این پژوهش ارزیابی عملکرد صندوق‌های سرمایه‌گذاری مشترک ایران با استفاده از معیار غلبه تصادفی و مقایسه با نتایج حاصل از نسبت شارپ و نسبت سورتینو به عنوان شاخص‌هایی از نظریه مدرن و فرامدرن سبدسرمایه‌گذاری است. بازه زمانی مورد مطالعه از ابتدای سال 1389 تا پایان سه ماهه دوم سال 1392 است. صندوق‌های سرمایه‌گذاری مشترک مورد مطالعه این پژوهش، صندوق‌هایی هستند که قبل از سال 1389 فعالیت خود را با سرمایه‌گذاری در سهام و حق تقدم سهام آغاز کرده‌اند و در بازه زمانی مورد مطالعه فعالیتشان ادامه داشته است. نتایج نشان میدهد که با توجه به نرمال بودن تابع توزیع بازدهی اکثر صندوق‌های مورد مطالعه، بین رتبه‌بندی‌ معیار غلبه تصادفی با رتبه‌بندی‌های نسبت شارپ و نسبت سورتینو ارتباط معناداری وجود دارد. همچنین ضریب همبستگی بین نتایج معیار غلبه تصادفی و نسبت سورتینو بیشتر از ضریب همبستگی بین نتایج معیار غلبه تصادفی و نسبت شارپ است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>This study aimed to evaluate the performance of mutual funds in Iran capital market using stochastic dominance criteria and compared with the results of the Sharpe ratio and Sortino ratio as performance measures in modern and postmodern portfolio theory. The sample period include the beginning of 1389 to the end of the second quarter of 1392. Mutual funds studied are mutual funds which have begun their activities before 1389 with investing in stocks and preemptive right, and it`s activities has continued in the period under study. Regarding the return distribution function of the most mutual funds that are almost normal, results show that there is a significant relationship between stochastic dominance criteria ranking with rankings of Sharpe ratio and Sortino ratio. Also, the correlation coefficient between the results of stochastic dominance criteria and Sortino ratio is greater than the correlation coefficient between the results of stochastic dominance criteria and Sharpe ratio.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>67</FPAGE>
+						<TPAGE>84</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>علی</Name>
+						<MidName></MidName>		
+						<Family>شایگان مهر</Family>
+						<NameE>Ali</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>alishayeganmehr</FamilyE>
+						<Organizations>
+							<Organization>کارشناسی ارشد مدیریت بازرگانی گرایش مالی دانشگاه سیستان و بلوچستان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>کارشناسی ارشد مدیریت بازرگانی گرایش مالی</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>alishayeganmehr@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>غلامرضا</Name>
+						<MidName></MidName>		
+						<Family>زمانیان</Family>
+						<NameE>Gholam Reza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Zamanian</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه اقتصاد دانشگاه سیستان و بلوچستان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه اقتصاد دانشگاه سیستان و بلوچستان،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>zamanian@eco.usb.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>محمد نبی</Name>
+						<MidName></MidName>		
+						<Family>شهیکی تاش</Family>
+						<NameE>Mohammad Nabi</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Shahiki Tash</FamilyE>
+						<Organizations>
+							<Organization>دانشیار گروه اقتصاد دانشگاه سیستان و بلوچستان، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیار گروه اقتصاد دانشگاه سیستان و بلوچستان،</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>mohammad_tash@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>ارزیابی عملکرد</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>صندوق سرمایه‌گذاری مشترک</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>معیار غلبه تصادفی</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نسبت شارپ</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نسبت سورتینو</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>]1[ بدری، احمد؛ عرب مازاریزدی، محمد؛ حمیدی‌زاده، محمدرضا؛ عبدالباقی، عبدالمجید. (1392). برتری تصادفی مبتنی بر صرف ارزش و رفتار ریسک گریزانه سرمایه‌گذاران در بورس اوراق بهادار تهران، فصلنامه علمی- پژوهشی مدیریت دارایی و تامین مالی، 1، 1، (1): 62-45.##]2[ ترجمان، وینا؛ راعی، رضا. (1390). محاسبه ریسک با معیار تسلط تصادفی و مقایسه آن با سایر معیارهای متداول در بورس اوراق بهادار تهران، دو ماهنامه علمی- پژوهشی دانشور رفتار، 18، 2-47: 370-355.##]3[ روشنگرزاده، امین؛ احمدی، محمدرمضان. (1390). بررسی عملکرد صندوق‌های سرمایه‌گذاری طبق معیارهای مبتنی بر نظریه فرامدرن سبدسرمایه‌گذاری و ارتباط بین رتبه‌بندی آنها##با معیارهای مدرن سبدسرمایه‌گذاری، مجله پژوهش‌های حسابداری مالی، 3، 1، (7): 160-143.##]4[ سعیدی، علی؛ مقدسیان، ایمان. (1389). ارزیابی عملکرد صندوق‌های سرمایه‌گذاری سهام در ایران، فصلنامه بورس اوراق بهادار، 3، (9): 24-5.##]5[ عزیزی، شهریار؛ شریف فر، امیر. (1392). عوامل تعیین کننده انتخاب صندوق‌های سرمایه‌گذاری مشترک: رویکرد پژوهش آمیخته، فصلنامه علمی، پژوهشی مدیریت دارایی و تامین مالی، 1، 2، (2): 50-35.##[6] Alexander, Gordon J., Sharpe, William F., Bailey, Jeffrey V.(2007). Fundamental of Investments, thirded., Prentice-Hall, New Delhi.##[7] Amence, N., Sourd, V. L. (2003). Portfolio Theory and Performance Analysis, John Wiley &amp; Sons.##[8] Annaert, J., Osselaer, S. V., Verstraete, B. (2009). Performance Evaluation of Portfolio Insurance Strategies Using Stochastic Dominance Criteria, Journal of Banking &amp; Finance,. 33,.272-280.##[9] Fong, M. W. (2010). A Stochastic Dominance Analysis of Yen Carry Trade, Journal of Banking &amp; Finance,. 34,.1237–1246.##[10] Gasbarro, D., Wong, W., Zumwalt, J. K. (2007). Stochastic Dominance Analysis of iShare, the European Journal of Finance, 13, 1,.89-101.##[11] Graves, S.B., Ringuest, J.L. (2009). Probabilistic Dominance Criteria for Comparing Uncertain Alternative: a Tutorial, Omega,. 37, 2; 346-357.##[12] Hsu, F. J., Wang, T. (2013). Portfolios of Efficient Frontier Testing by the Second Order Stochastic Dominance, British Journal of Economic, Finance and Management Sciences,. 8; 39-45.##[13] Kevin, S. (2007). Portfolio Management, 2nd ed., Prentice Hall, New Delhi.##[14] Kjetsaa, R., Kieff, M. (2003). Stochastic Dominance Analysis of Equity Mutual Fund Performance, American Business Review, 21, 2, 1-8.##[15] Lean, H. H., McAleer, M., Wong, W. (2010). Market Efficiency of Oil Spot and Futures: A Mean-Variance and Stochastic Dominance Approach, Energy Economic, 32, 979-986.##[16] Lean, H. H., Phoon, K. F., Wong, W. (2010). Commodity Trading Advisors: Analysis and Application, International Journal of Art and Sciences, 3, 500-507.##[17] Levy, H. (2006). Stochastic Dominance Investment Decision Making under Uncertainty, Springer.##[18] Markowitz, H. (1952). Portfolio Selection, Journal of Finance, 15, 77-91.##[19] Meyera, T., Lib, X., Roseb, L. (2005). Comparing Mean-Variance Tests with Stochastic Dominance Tests When Assessing International Portfolio Diversification Benefits, Financial Services Review, 14, 149-168.##[20] Ogryczak, W., Ruszczynski, A. (1999). From Stochastic Dominance to Mean-Risk Models: Semi deviations as Risk Measures, European Journal of Operational Research, 116, 35-50.##[21] Post, T. (2003). Emprical Test for stochastic Dominance Efficiency, the Journal of Finance, 58, 5; 1905-1932.##[22] Post, T., Vliet, P. V. (2006). Downside Risk and Asset Pricing, Journal of Banking &amp; Finance, 30, 3; 823-849.##[23] Rom, B. M., Fergusen, K. W. (1993). Post-Modern Portfolio Theory Comes of Age, Journal of Investing, 3, 3; 27-33.##[24] Sedzro, K. (2009). New Evidence on Hedge Fund Performance Measure, International Business &amp; Economics Research Journal, 8, 95-106.##[25] Sharpe, W. F. (1966). Mutual Fund Performance, Journal of Business, 39, 1; 199-138.##[26] Sortino, F., Price, L. N. (1994). Performance Measurement in a Downside Risk Framework, Journal of Investing, 3, 3; 59-64.## [27] Strong, R. A, Portfolio Construction, Management &amp; Protection, 2nd ed., South Western  College, 2000:431-432.##[28] Taylor, W. R. L., Yoder, J. A. (1994). A Stochastic Dominance Analysis of the Turnover  Related Performance of Mutual Funds, Review of Quantitative Finance and Accounting, 4: 239-251.##[29] Versijp, P.J.P.M. (2007). Advances in the Use of Stochastic Dominance in Asset Pricing, PhD thesis, Erasmus University Rotterdam.##[30] Vinod, H. D. (2004). Ranking Mutual Funds Using Unconventional Utility Theory and Stochastic Dominance, Journal of Empirical Science, 11: 353-377.##[31] Wong, W. K., Chan, R. H. (2008). Prospect and Markowitz Stochastic Dominance, Annals of Finance, 4, 1: 105-129.##[32] Wong, W., Phoon, K., Lean, H. (2008). Stochastic Dominance Analysis of Asian Hedge Funds, Pacific-Basin Finance Journal, 16, 3: 204-223.##[33] Zamanian, G. R., ShahikiTash, M. N., ShayeganMehr, A. (2014). Ranking Iranian Mutual Funds Using Stochastic Dominance Criteria, ArthPrabhand: A Journal of Economic And Management, 3, 9: 136-144.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>تأثیر همزمانی قیمت سهام و نوسان های بازده سهام بر نقدشوندگی سهام در شرکت های پذیرفته شده در بورس اوراق بهادار تهران</TitleF>
+				<TitleE>The Impact of Stock Price Synchronicity and Stock Return Volatilities on the Stock
+Liquidity for Companies Listed in Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>پژوهش حاضر به بررسی تأثیر همزمانی قیمت سهام و نوسان‌های بازده سهام بر نقدشوندگی سهام می‌پردازد. بازه زمانی پژوهش از سال 1385 تا سال 1392 است. جامعه آماری پژوهش کلیه شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران بوده که نهایتاً 95 شرکت واجد شرایط در این مطالعه انتخاب شدند. جهت سنجش نقدشوندگی سهام از معیار عدم نقدشوندگی آمیهود استفاده شده است. همچنین همزمانی قیمت سهام با استفاده از معیار ضریب تعیین مدل بازار محاسبه شده و نوسان‌های بازده سهام به تفکیک نوسان سیستماتیک و غیرسیستماتیک به‌ترتیب از طریق جذر واریانس سیستماتیک و غیرسیستماتیک سهام محاسبه شده است. نتایج پژوهش حاکی از تأثیر مثبت همزمانی قیمت سهام و نوسان سیستماتیک بازده سهام بر نقدشوندگی سهام می‌باشد در حالی‌که نوسان غیر سیستماتیک بازده سهام دارای تأثیر منفی بر نقدشوندگی سهام است.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>This study examines the impact of stock price synchronicity and stock return volatilities on the stock liquidity. The time period of study is from 1385 until 1390. The statistical population is all firms listed in Tehran Stock Exchange, where eventually 95 companies were qualified and selected for this study. For measuring stock liquidity, Amihud illiquidity measure is used. The stock prices synchronicity calculated using the R-squared of stock from the market model regression. The volatilities of stock return divided systematic and idiosyncratic volatility calculated by systematic and idiosyncratic variance. The results indicate a positive effect of stock price synchronicity and systematic volatility of stock returns on stock liquidity while idiosyncratic volatility of stock returns have a negative impact on stock liquidity.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>85</FPAGE>
+						<TPAGE>98</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>داریوش</Name>
+						<MidName></MidName>		
+						<Family>فروغی</Family>
+						<NameE>dariush</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>foroghi</FamilyE>
+						<Organizations>
+							<Organization>استادیار گروه حسابداری دانشکده علوم اداری و اقتصاد دانشگاه اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار گروه حسابداری دانشکده علوم اداری</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>foroghi@asu.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>ملیحه</Name>
+						<MidName></MidName>		
+						<Family>فرجامی</Family>
+						<NameE>Malihe</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Farjami</FamilyE>
+						<Organizations>
+							<Organization>گروه حسابداری دانشکده علوم اداری و اقتصاد دانشگاه اصفهان</Organization>
+						</Organizations>
+						<Universities>
+							<University>گروه حسابداری دانشکده علوم اداری و اقتصاد</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>farjami_m93@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>همزمانی قیمت سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نوسان سیستماتیک بازده سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نوسان غیرسیستماتیک بازده سهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>نقدشوندگی سهام</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1]   ابونوری، اسماعیل؛ پویا، محمدمهدی. (1391). برآورد نوسان‌های بازده بر میانگین بازده در بورس اوراق بهادار تهران، سومین کنفرانس ریاضیات مالی و کاربردهای آن، سمنان، بهمن 1391، دانشگاه سمنان.##[2]   انواری رستمی، علی‌اصغر؛ لاری سمنانی، بهروز. (1386). بررسی ارتباط و تحلیل اثرات سرمایه‌گذاری‌های منتخب غیربورسی بر جذابیت سرمایه‌گذاری بورس اوراق بهادار تهران، پژوهش‌نامه اقتصادی، (27): 177- 218.##[3]     ایزدی‌نیا، ناصر؛ رسائیان، امیر. (1389). پراکندگی مالکیت و نقدشوندگی سهام، بررسی‌های حسابداری وحسابرسی، 17(60): 3-22.##[4]     جونز، چالزپی. (1389). مدیریت سرمایه گذاری، ترجمه: رضا تهرانی و عسگر نوربخش، تهران: انتشارات نگاه دانش.##[5]   رحمانی، علی؛ حسینی، سید علی؛ رضاپور، نرگس. (1389). رابطه مالکیت نهادی و نقدشوندگی سهام در ایران، بررسی های حسابداری و حسابرسی، 17 (61): 39-54.##[6]   قائمی، محمدحسین؛ فرجی ملایی، سمانه؛ کیانی، آیدین. (1392). بررسی واکنش بازار نسبت به ورود یا خروج از فهرست شاخص پنجاه شرکت فعال‌تر در بورس اوراق بهادار تهران، فصلنامه علمی- پژوهشی مدیریت دارایی و تامین مالی، 3(3): 33- 48.##[7]     کمیته فنی سازمان حسابرسی. (1386). استانداردهای حسابداری، تهران: انتشارات سازمان حسابرسی.##[8]   مرادزاده‌فر، مهدی، ابوحمزه، مینا. (1390). اثر کیفیت افشای شرکتی بر نقدشوندگی سهام در شرکت‌های پذیرفته شده در بورس اوراق بهادار تهران، فصلنامه مطالعات تجربی حسابداری مالی، 9 (32): 73- 102.##[9]   هاشمی، سید عباس؛ قجاوند، زیبا؛ قجاوند، سحر. (1392). بررسی تاثیر سطوح مختلف نقدشوندگی بر صرف بازده سهام با استفاده از مدل چهار عاملی فاما و فرنچ، فصلنامه علمی- پژوهشی مدیریت دارایی و تامین مالی، 2 (2): 69-86.##[10]       Baruch, s., Karolyi, a., Lemmon, L. (2007). Multimarket Trading and Liquidity: Theory and Evidence, Journal of Finance, 62, 2169-2200.##[11]       Baruch, s., Saar, G. (2009). Asset Return and Choice of Firms, Review of Financial Studies, 22, 2239-2274.##[12]       Breen, W., Hodrick, L., Korajczyk, R. (2002). Predicting Equity Liquidity, Management Science, 48, 470–483.##[13]       Chan, K., &amp; Chan, Y. C. (2011). Stock Price Synchronicity, Analyst Coverage and Pricing of Seasoned Equity Offerings, 1-57.##[14]       Chan, K., Hameed, A., Kang, W. (2013). Stock Price Synchronicity and Liquidity, Journal of Financial Markets, working paper, Availbleat URL: http://dx.doi.org/10.1016/j.finmar.2012.09.007.##[15]       Chelley-Steely, P., Lambertides, N., Savva, C.S. (2013). Illiquidity Shocks and and the Comovement between Stocks: New Evidence Using Smooth Transition, Journal of Emprical Finance,23, 1-15.##[16]       Chu, L.K., Ni, J., Xu, Y. (2009). Inventory Risk Mitigation by Financial Hedging, Proceeding of the World Congress on Engineering and Computer Science, 2, October 20-22, 2009, San Francisco, USA.##[17]       Grečuhina, k., Timofejeva, M. (2008). The Impact of Liquidity Providers Baltic Stock Exchange, Bachelor’s Thesis, Stockholm School of Economics of Riga.##[18]       Harris, L., (1994). Minimum Price Variations, Discrete Bid-Ask Spreads, and Quotation Sizes, Review of Financial Studies,7, 149–178.##[19]       Ho, T., Stoll, H. (1981). Optimal Dealer Pricing under Transactions and Return Uncertainty, Journal of Financial Economics, 9, 47-73.##[20]       Lin, J.C., C.Sanger, G., Booth, G. (1998). External Information Costs and the Adverse Selection Problem: A Comparison of NASDAQ and NYSE Stocks, International Review of Financial Analysis,2, 113-136.##[21]       Neudeck, W., Podczeck, K. (1996). Adverse Selection and Regulation in Health Insurance Market, Journal of Health Economics, 15, 387-408.##[22]      Norvaišienơ, R., Stankeviþienơ, J. (2014). Impact of Companies’ Internal Factors on Stock Liquidity in Baltic Markets, Procedia - Social and Behavioral Sciences, 156, 543 – 547.##[23]       Stoll, H. (2000). Friction, Journal of Finance,55, 1479- 1514.##[24]       Spiegel, M., Wang, X., (2005). Cross-Sectional Variation in Stock Returns: Liquidity and Idiosyncratic Risk, Working Paper, Yale School of Management.##[25]       Tripathy, N. (2011). The Relation between Price Changes and Trading Volume: A Study in Indian Stock Market, Interdisciplinary Journal of Research in Business, 1(7), 81-95.##[26]       Xing, X., Anderson, R. (2011). Stock Price Synchronicity and Public Firm-Specific Information, Journal of Financial Markets, 14, 259-276.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE>
+				<ARTICLE>
+				<TitleF>طراحی مدل پویای همزمان برای رفتار مالی شرکتهای پذیرفته شده در بورس اوراق بهادار تهران درشرایط عدم اطمینان</TitleF>
+				<TitleE>Dynamic Simultaneous Modeling for Corporate Financial Decisions Behavior Under
+Uncertainty in Tehran Stock Exchange</TitleE>
+				<TitleLang_ID>1</TitleLang_ID>
+				<ABSTRACTS>
+					<ABSTRACT>
+						<Language_ID>1</Language_ID>
+						<CONTENT>درپژوهش حاضر مدل همزمان پویا برای رفتار مالی شرکتهای پذیرفته شده در بورس ایران طراحی وارائه می شود.مبنای اصلی مدل مذکور بر محدودیت منابع و مصارف وجوه نقد در شرکتها می باشد.]چهار معادله ساختاری سرمایه گذاری ، استقراض ،تقسیم سود و انتشار سهام با استفاده از روش گشتاور تعمیم یافته سیستمی ضرایب مدل با دقت بالایی تخمین زده می شود.نتایج پژوهش نشان می دهد که تصمیمات سرمایه گذاری ،تامین مالی و تقسیم سود در شرکتها از همزمانی برخوردار و ارتباط متقابل بین آنها وجود دارد.مدیران شرکتها در شرایط محدودیت تامین مالی همواره باید در انتخاب گزینه های مصارف و منابع ارتباط آنها را درنظر داشته باشند،تااز از زیانهای ناشی از سرمایه گذاری غیر بهینه وهمچنین افزایش هزینه سرمایه شرکت اجتناب ورزند همچنین وجود سلسله مراتب تامین مالی در شرکتها برای سرمایه گذاری تایید می شود.</CONTENT>
+					</ABSTRACT>
+					<ABSTRACT>
+						<Language_ID>2</Language_ID>
+						<CONTENT>In this study, a dynamic simultaneous modeling for financial behavior for Tehran Stock Exchange listed companies has been constructed. Four structural equation including investment, debt, dividend and equity issue are estimated by a system generalized method of moment method. Results indicate that simultaneity in investment, debt, dividend and equity issue decisions exists. Companies’ management facing with constraint in financing should consider sources and using choices together in order to preventing losses from un-optimal investment and increases in cost of capital. Pecking order theory in investing by companies confirmed. We argue that static models of financial decisions produce inconsistent coefficient estimates, and that models that do not acknowledge the interdependence among decision variables produce inefficient estimates and provide an incomplete and potentially misleading view of financial behavior.</CONTENT>
+					</ABSTRACT>
+				</ABSTRACTS>
+				<PAGES>
+					<PAGE>
+						<FPAGE>99</FPAGE>
+						<TPAGE>120</TPAGE>
+					</PAGE>
+				</PAGES>
+	
+				<AUTHORS><AUTHOR>
+						<Name>رضا</Name>
+						<MidName></MidName>		
+						<Family>تهرانی</Family>
+						<NameE>reza</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>tehrani</FamilyE>
+						<Organizations>
+							<Organization>دانشیاردانشگاه تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشیاردانشگاه تهران، ایران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>rtehrani@ut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سعید</Name>
+						<MidName></MidName>		
+						<Family>فلاح پور</Family>
+						<NameE>Saeed</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>Fallahpour</FamilyE>
+						<Organizations>
+							<Organization>استادیار دانشگاه تهران، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>استادیار دانشگاه تهران، ایران</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>falahpor@ut.ac.ir</Email>			
+						</EMAILS>
+					</AUTHOR><AUTHOR>
+						<Name>سیدجلال</Name>
+						<MidName></MidName>		
+						<Family>طباطبائی</Family>
+						<NameE>seyed jalal</NameE>
+						<MidNameE></MidNameE>		
+						<FamilyE>tabatabaei</FamilyE>
+						<Organizations>
+							<Organization>دانشجوی دکتری مدیریت مالی،پردیس بین‌الملل کیش دانشگاه تهران،عضوهیأت علمی دانشگاه پیام نور، ایران</Organization>
+						</Organizations>
+						<Universities>
+							<University>دانشجوی دکتری مدیریت مالی،پردیس بین‌الملل</University>
+						</Universities>
+						<Countries>
+							<Country>ایران</Country>
+						</Countries>
+						<EMAILS>
+							<Email>j_tabatabaei@yahoo.com</Email>			
+						</EMAILS>
+					</AUTHOR></AUTHORS>
+				<KEYWORDS>
+					<KEYWORD>
+						<KeyText>استقراض</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>انتشارسهام</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>تقسیم سود</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>سرمایه گذاری</KeyText>
+					</KEYWORD>
+					<KEYWORD>
+						<KeyText>وجوه نقد داخلی</KeyText>
+					</KEYWORD></KEYWORDS>
+				<REFRENCES>
+				<REFRENCE>
+				<REF>[1] اسکندر، هدی؛ مرادی، محمد؛ الهائی‌سحر، مهدی. (1393). حساسیت منابع تامین مالی برون سازمانی به جریان نقدی تحت محدودیت مالی: با تاکید بر اثر جانشینی دارایی‌های ثابت مشهود. مدیریت دارایی و تأمین مالی، 2، (4): 111-126.##[2] باقرزاده، سعید. (1382). تبیین الگوی ساختار سرمایه شرکت‌های پذیرفته شده در بورس اوراق بهادارتهران. تحقیقات مالی، 5، (16).##[3] جهانخانی، علی؛ قربانی، سعید. (1384). شناسایی و تبیین عوامل تعیین کننده سیاست تقسیم سود شرکت‌های پذیرفته شده درسازمان بورس اوراق بهادار تهران. تحقیقات مالی، 20، 27- 48.##[4] خلیفه سلطانی، سیداحمد؛ اخلاقی، حسنعلی؛ ساعدی، رحمان. (1393). بررسی عوامل موثر بر ساختار سرمایه با استفاده از مدل توبیت: آزمون تجربی نظریه‌های سلسله مراتبی، توازی ایستاونمایندگی. مدیریت دارایی و تأمین مالی، 2، (4): 37-54.##[5] کیمیاگری، علیمحمد؛ عینعلی، سودابه. (1387). ارایه الگوی جامع ساختار سرمایه (مطالعه موردی شرکت‌های پذیرفته شده در بورس تهران). تحقیقات مالی، 10، (25): 91-108.## [6] Abel, A.B. (1983). Optimal Investment under Uncertainty.Economic Review, 73, (1): 228–233.##[7] Almeida, H. and Campello, M. (2007). Financial Constraints, Asset Tangibility and Corporate Investment.Review of Financial Studies, 20, (5): 1429–1460.## [8] Baum, C. F., Stephan, A. and Talavera, O. (2009). The Effect ofUncertainty on the Leverage of Nonfinancial Firms. EconomicInquiry, 47, (2): 216–255.##[9] Bloom, N., Bond, S. and VanReenen, J. (2007). Uncertainty and Investment Dynamics.Review of Economic Studies, 74 (2): 391–415.##[10] Blundell, R. and Bond,S. (1998). Initial Conditions and Moment Restrictions in Dynamic Panel Data Models.Journal of Econometrics, 87, (1): 115–143.##[11] Bond, S. R. and Cummins, J. G. (2004). Uncertainty and Investment: An Empirical Investigation Using Data on Analysts’ Profits Forecasts. Finance and EconomicsDiscussion Series Working Paper, 20.## [12] Brav, A., Graham, J. R., Harvey, C. R. and Michaely, R. (2005). Payout Policy in the 21 Stcentury.Journal of Financial Economics, 77, (3): 483–527.##[13] Chay, J.B. and Suh, J. (2009). Payout Policy and Cash-Flow Uncertainty.Journal of FinancialEconomics, 93, (1): 88–107.##[14] Denis, D. J. and Osobov, I. (2008). Why Do Firms Pay Dividends? International Evidence onthe Determinants of Dividend Policy.Journalof Financial Economics, 89, (1): 62–82.##[15] Dhrymes, P. J. and Kurz, M. (1967). Investment, Dividend, an External Finance Behavior of Firms. In Ferber, R. (ed), Determinants of Investment Behaviour (New YorkColumbiaUniversity Press).##[16] Ding, X. and Murinde, V. (2010). Simultaneous Financial Decision-Making: Evidence from Ufirms. Strategic Change, 19, (1–2): 45–56##[17] Dixit, A. K. and Pindyck, R. S. (1994). Investment under Uncertainty (Princeton, N. J.:Princeton University Press).##[18]Frank, M. Z. andGoyal,V. K. (2009). Capital Structure Decisions:Which Factors areReliablyImportant?.Financial Management,38(1):1–37.##[19]Fama, E. F. (1974). The Empirical Relationships between theDividendand InvestmentDecisions of Firms.American Economic Review, 64, (3): 304–318.##[20] Flannery, M. and Hankins, K. (2013). Estimating Dynamic Panel Models in Corporate Finance.Journal of Corporate Finance, 19: 1–19##[21] Gatchev, V.A., Pulvino, T. and Tarhan, V. (2010). The Interdependent &amp; Intertemporal Nature of Financial Decisions: An Application to Cash Flow Sensitivities. Journal ofFinance, 65, (2): 725–763.##[22] Gugler, K. (2003). Corporate Governance, Dividend Payout Policy, and the Interrelationbetween Dividends, R &amp; D, and Capital Investment.Journal of Banking and Finance, 27, (7): 1297–1321.##[23] Guilherme, K. and Terra P. R. S. (2014). American accounting association annual meeting and conference.August 2–6, 2014. Atlanta, Georgia##[24] Hartman, R. (1972). The Effects of Price and Cost Uncertainty on Investment.Journal of Economic Theory, 5, (2): 258–266.##[25]HongVo, D. and Nguyen, V. T. Yen. (2014). Managerial Ownership, Leverage and Dividend Policies: Empirical Evidence from Vietnam’s Listed Firms. International Journal of Economics and Finance, 6, (5): 274-278.##[26] Noronha, G. M., Shome, D. K. and Morgan, G. E. (1996). The Monitoring Rationale forDividends and the Interaction of Capital Structure and Dividend Decisions.Journal ofBanking and Finance, 20, (3): 439–454.##[27] Mason, R. and Weeds, H. (2010). Investment, Uncertainty and Pre-Emption.InternationalJournal of Industrial Organization, 28, (3): 278–287.##[28] McCabe, G. M. (1979). The Empirical Relationship between Investment and Financing: a Newlook. Journal of Financial and Quantitative Analysis, 14, (1):119–135.##[29] McDonald, J. G., Jacquillat, B. and Nussenbaum, M. (1975). Dividend, InvestmentandFinancing Decisions: Empirical Evidence on French Firms. Journal of Financial and Quantitative Analysis, 10, (5): 741–755.##[30] Miller, H. M. and Modigliani, F. (1961). Dividend Policy, Growth, and the Valuation of Shares, Journal of Business, 34, (4): 411–433.##[31] Miller, H. M. and Rock, K. (1985). Dividend policy under asymmetric information.Journal ofFinance, 40, (4): 1031–1051##[32] Modigliani, F. and Miller, M. H. (1958). The cost of capital, corporate finance and the theoryof investment.American Economic Review, 48, (3): 261–297.##[33] Mueller, D. C. (1967). The Firm Decision Process: an Econometric Investigation. QuarterlyJournal of Economics, 81, (1): 58–87.##[34] Myers, S. C. and Majluf, N. S. (1984). Corporate Financing and Investment Decisions whenFirms have Information that Investors do not have. Journal of Financial Economics, 13, (2): 187–221.##[35] Mougoué, M. and Mukherjee, T. K. (1994). An Investigation into the Causality among Firms Dividend, Investment, and Financing Decisions.Journal of Financial Research, 17, (4):517–530.##[36] Peterson, P. P. and Benesh, G. A. (1983). A Reexamination of the Empirical Relationshipbetween Investment and Financing Decisions.Journal of Financial and QuantitativeAnalysis, 18, (4): 439–453.##[37] Roodman, D. (2009). How to do Xtabond2: an Introduction to Difference and System GMM in Stata. Stata Journal, 9, (1): 86–136.##[38] Wang, D. H. M. (2010). Corporate Investment, Financing, and Dividend Policies in theHigh-Tech in.Journal of Business Research, 63, (5): 486-489.##</REF>
+						</REFRENCE>
+					</REFRENCES>
+			</ARTICLE></ARTICLES>
+</JOURNAL>
+
+				</XML>
+				

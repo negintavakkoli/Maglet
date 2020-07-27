@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>urban and rural management</title>
+<title_fa>مديريت شهري و روستايي</title_fa>
+<short_title>مديريت</short_title>
+<subject>Art &amp; Architecture</subject>
+<web_url>http://ijurm.imo.org.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>1607-2227</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii>8</journal_id_pii>
+<journal_id_doi>7</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid>14</journal_id_sid>
+<journal_id_nlai>8888</journal_id_nlai>
+<journal_id_science>13</journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1392</year>
+	<month>6</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2013</year>
+	<month>9</month>
+	<day>1</day>
+</pubdate>
+<volume>11</volume>
+<number>31</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>fa</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>مکان‌یابی اسکان موقت با استفاده از الگوریتم های فازی؛ مطالعه موردی: منطقه یک شهرداری تهران</title_fa>
+	<title>The Selection of Site for Temporary Sheltering using Fuzzy Algorithms Case study: Tehran Metropolitan after earthquake, Municipal districts No 1.</title>
+	<subject_fa>تخصصي</subject_fa>
+	<subject>Special</subject>
+	<content_type_fa>پژوهشي</content_type_fa>
+	<content_type>Research</content_type>
+	<abstract_fa>&lt;p align=&quot;right&quot;&gt;یکی از مهمترین مسائلی که همواره مورد توجه سازمان های مسئول در مدیریت بحران قرار دارد انتخاب مکانی مناسب جهت اسکان موقت جمعیت های آسیب دیده از سوانح می باشد. بدیهی است عدم رعایت مکان گزینی صحیح ممکن است فاجعه دیگری حتی به مراتب وخیم تر از سانحه اولیه بدنبال داشته باشد. بنابراین لزوم برنامه ریزی، مدیریت و ارائه راهکارهای مناسب در استقرار اضطراری یا موقت جمعیت آسیب دیده قبل از وقوع زلزله الزامی می نماید. هدف از این تحقیق ارائه روشی مناسب و کارا برای مکان یابی اسکان موقت با استفاده از الگوریتم های فازی می باشد. به منظور نشان دادن کارآیی الگوی کلی مکان یابی مناسب اسکان موقت پیشنهاد شده در این تحقیق، منطقه یک شهر تهران به عنوان نمونه موردی انتخاب شده تا مکان یابی مورد نظر در سطح این منطقه صورت گیرد. با استفاده از نتایج تحلیل خسارت منطقه، تعداد بی‌خانمان‌های شهر تهران 136،786 نفر و میزان سرپناه لازم عددی بین 410 تا 615 هکتار برآورد شد. جهت انتخاب مکان مناسب، ابتدا معیارهای لازم برای مکان‌یابی تهیه شد. پس از بررسی تحقیق های گذشته و همچنین دریافت نظرات خبرگان، معیارهای مؤثر در مکان یابی اسکان موقت شناسایی گردید. این معیارها شامل معیارهایی مانند دسترسی، نزدیکی به منابع آب، فاصله از گسل ها و رودخانه ها، نزدیکی به مراکز درمانی و خدماتی و امنیت می‌باشد. در این تحقیق برای تلفیق معیارها (لایه ها) از دو منطق بولین و فازی استفاده شد. جهت انجام عملیات تلفیق فازی و عملیات مکان یابی اسکان موقت، با توجه به قابلیت های گسترده نرم افزار IDRISI در مسائل آنالیز تصمیم گیری چند معیاره، از این نرم افزار استفاده شد. سپس با استفاده از روش ترکیب خطی وزن دار (WLC)، نقشه های فازی بدست آمده، تلفیق شدند و نقشه مطلوبیت منطقه مورد مطالعه بدست آمد. با استفاده از این نقشه و منطق فازی، تعداد 17 مکان با مجموع مساحت 1/649 هکتار جهت اسکان موقت شناسایی گردید. نتایج این تحقیق نشان می دهد که با توجه به محدودیت های قطعی که در روش بولین (روش کلاسیک) اعمال می شود، در این روش مناطق مکان یابی شده نسبت به روش های مبتنی بر منطق فازی، دارای تعداد بیشتری می باشند بنابراین، این منطق در مناطقی که زمین دارای محدودیت است، مناسب نمی باشد. اما با بررسی روش فازی اعمال شده در این تحقیق، مشخص گردید که روش WLC علیرغم سادگی آن، دارای کارایی بسیار بالایی می باشد و این قدرت را به تصمیم گیر می دهد که برای عوامل مختلف برحسب درجه اهمیت آن ها، وزن های متفاوتی را اختصاص دهد. در اثر این برتری، نتیجه حاصل از مکان یابی به روش فازی WLC دارای قدرت تفکیک بهتری می باشد. همچنین نتایج نشان داد با توجه به اینکه موضوع مکان یابی تا حد زیادی وابسته به استدلال تصمیم گیری می باشد، منطق فازی نسبت به منطق کلاسیک دارای کارایی بیشتر می باشد. &lt;/p&gt;</abstract_fa>
+	<abstract>One of the most important problems that always have been considered by the authorities in the crisis management is the selection of site for emergency and temporary sheltering. It is obvious that inappropriate site selection may lead to another disaster that is more complex than the main one. So, the necessity of planning, managing and offering appropriate options for temporary sheltering of affected people before the occurrence of earthquake is vital. The objective of this research is the presentation of the appropriate and efficient method for the selection of site for temporary sheltering using Fuzzy algorithms. For illustrating the efficiency of proposed algorithm, the municipality district no.1 of Tehran is selected as the case study. Using the results of damage assessment of the study area, the number of homeless people was evaluated 136786 people and the required shelter was evaluated 410-615 hectares.  For the selection of site, initially necessary criteria are determined. After studying the past research and receiving the expert’s viewpoints, 13 criteria were selected. These criteria include criteria such as vicinity to water resources, distance from faults and rivers, vicinity to hospitals and other therapeutic centers, and security. In this research, Fuzzy and Boolean logics have been used for the combination of the criteria (layers). IDRISI is used for the implementation of fuzzy operations and the selection of site for temporary sheltering due to its high capability in the multi criteria decision making analysis problems. Then using WLC (Weighted Linear Combination) method, the produced fuzzy layers (maps) were combined and the map of eligibility was produced. Using this map and Fuzzy logic, 17 zones with total area of 649.1 hectares were selected for temporary sheltering. The results indicated that due to applied decisive limitations in Boolean method (classic method), the number of selected sites are more than Fuzzy method. Boolean logic is not appropriate for the areas that land use has some limitations. Assessment of applied fuzzy method in this research (WLC) showed that despite the simplicity of WLC method, it has high efficiency and makes possibility of allocating different weights to various criteria due to the importance of criteria. Considering this predominance the outcomes of the selection of site using WLC fuzzy method have better resolution power. However results showed that the selection of site depends on the experience and personal judgment of the corresponding manager, therefore fuzzy logic has high efficiency.</abstract>
+	<keyword_fa>اسکان موقت، مکان‌یابی، منطق فازی، IDRISI، WLC.</keyword_fa>
+	<keyword>Fuzzy Logic, IDRISI, Selection of Site, Temporary Sheltering, WLC</keyword>
+	<start_page>205</start_page>
+	<end_page>222</end_page>
+	<web_url>http://ijurm.imo.org.ir/browse.php?a_code=A-10-68-1&amp;slc_lang=fa&amp;sid=fa</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>Mehdi</first_name>
+	<middle_name></middle_name>
+	<last_name>Nojavan</last_name>
+	<suffix></suffix>
+	<first_name_fa>مهدی</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>نوجوان</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>nojavan_mehdi@ut.ac.ir</email>
+	<code>100319475328460075</code>
+	<orcid>100319475328460075</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation>Tehran University, Faculty of Environmental</affiliation>
+	<affiliation_fa>دانشکده محیط زیست دانشگاه تهران</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Babak</first_name>
+	<middle_name></middle_name>
+	<last_name>Omidvar</last_name>
+	<suffix></suffix>
+	<first_name_fa>بابک</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>امیدوار</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email></email>
+	<code>100319475328460076</code>
+	<orcid>100319475328460076</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation>Tehran University, Faculty of Environmental</affiliation>
+	<affiliation_fa>دانشکده محیط زیست دانشگاه تهران</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>Esmail</first_name>
+	<middle_name></middle_name>
+	<last_name>Salehi</last_name>
+	<suffix></suffix>
+	<first_name_fa>اسماعیل</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>صالحی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email></email>
+	<code>100319475328460077</code>
+	<orcid>100319475328460077</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation>Tehran University, Faculty of Environmental</affiliation>
+	<affiliation_fa>دانشکده محیط زیست دانشگاه تهران</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>

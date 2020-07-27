@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشکده مدیریت دانشگاه تهران</PublisherName>
+				<JournalTitle>مدیریت صنعتی</JournalTitle>
+				<Issn>2008-5885</Issn>
+				<Volume>11</Volume>
+				<Issue>3</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2019</Year>
+					<Month>11</Month>
+					<Day>22</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Availability Optimization of a Multi-State Industrial System with the Markov Chain Approach</ArticleTitle>
+<VernacularTitle>بهینه‌سازی دسترس‌پذیری نوعی سیستم‌ صنعتی چندوضعیتی با رویکرد زنجیره مارکوف</VernacularTitle>
+			<FirstPage>380</FirstPage>
+			<LastPage>404</LastPage>
+			<ELocationID EIdType="pii">74568</ELocationID>
+			
+<ELocationID EIdType="doi">10.22059/imj.2019.268528.1007516</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>زهرا</FirstName>
+					<LastName>سبحانی</LastName>
+<Affiliation>دانشجوی دکتری، گروه مهندسی صنایع، دانشکده فنی و مهندسی، دانشگاه کردستان، سنندج، ایران.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>محمود</FirstName>
+					<LastName>شهرخی</LastName>
+<Affiliation>دانشیار، گروه مهندسی صنایع، دانشکده فنی و مهندسی، دانشگاه کردستان، سنندج، ایران.</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2018</Year>
+					<Month>11</Month>
+					<Day>06</Day>
+				</PubDate>
+			</History>
+		<Abstract>&lt;strong&gt;Objective:&lt;/strong&gt; The choice of suppliers is one of the important issues in the design of industrial systems, which must be done with due regard to cost, reliability, repairability and delivery time of parts supplied and their effect on the total cost of the manufacturing system.Provide a template for selecting suppliers of a multi-state industrial system, taking into account the cost, reliability, and repairability of the system. &lt;br /&gt;&lt;strong&gt;Methods:&lt;/strong&gt; A nonlinear integer programming model has been developed using Markov&#039;s network results and solved for a case study in two different ways and the results have been compared: (1) accurate resolution, using GAMS software, and (2) complete counting. &lt;br /&gt;&lt;strong&gt;Results:&lt;/strong&gt; By solving this model, the order of parts of the system is selected so that the total cost of construction and operation of the system; including the cost of purchasing the components as well as the cost of reducing the capacity and the complete system shutdown during operation be minimized. The results show that taking into account the effect of components similarity on the purchase price, the delivery time and the speed of repair of components can be effective in choosing the supplier. &lt;br /&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt; In conclusion, the effect of choosing the same components is emphasized when assessing the availability and cost of the entire system</Abstract>
+			<OtherAbstract Language="FA">هدف: انتخاب تأمین‌کنندگان از مسائل مهم در طراحی سیستم‌های صنعتی است. این مسئله باید با توجه به معیارهایی نظیر هزینه، قابلیت اطمینان، تعمیرپذیری و زمان تحویل قطعه‌هایی که عرضه شده و نیز اثر آنها بر هزینه‌های کل سسیستم تولیدی بررسی شود. هدف از این پژوهش، ارائه الگویی برای انتخاب تأمین‌کنندگان اجزای یک سیستم صنعتی چندوضعیتی با در نظر گرفتن هزینه، قابلیت ‌اطمینان و تعمیرپذیری اجزاست.&lt;br /&gt; روش: ابتدا بلوک دیاگرام سیستم در دست بررسی ترسیم و حالت‌های مختلف سیستم با استفاده از شبکه مارکوف مدل‌سازی شد. سپس یک مدل برنامه‌ریزی مختلط عدد صحیح غیرخطی با استفاده از روابط حاصل از شبکه مارکوفی توسعه داده شده است. این مدل برای یک نمونه موردی به دو روش حل دقیق، با استفاده از نرم‌افزار GAMS و شمارش کامل حل شده و نتایج با یکدیگر مقایسهند‌اا شده‌اند‌.&lt;br /&gt; یافته‌ها: با حل این مدل میزان سفارش قطعه‌های سیستم به‌گونه‌ای انتخاب می‌شود که مجموع هزینه‌های ساخت و بهره‌برداری سیستم شامل هزینه خرید قطعه‌ها و همچنین هزینه کاهش ظرفیت و توقف کامل سیستم هنگام بهره‌برداری کمینه شود. نتایج نشان می‌دهد که در نظر گرفتن اثر تشابه قطعه‌ها بر قیمت خرید، فاصله زمانی تحویل و سرعت تعمیر قطعه‌ها می‌تواند در تصمیم‌گیری برای انتخاب تأمین‌کننده مؤثر باشد.&lt;br /&gt; نتیجه‌گیری: بر در نظر گرفتن اثر انتخاب قطعه‌های مشابه هنگام ارزیابی دسترس‌پذیری و هزینه کل سیستم تأکید می‌شود.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">قابلیت اطمینان</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">افزونگی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">دسترس‌پذیری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">زنجیره مارکوف</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">https://imj.ut.ac.ir/article_74568_d6f389343054c4dd87ea6b5165f3aa1d.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

@@ -1,0 +1,752 @@
+
+	<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:cr_unixml="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2020-07-27T18:15:44+04:30</responseDate>
+	<request metadataPrefix="cr_unixml" verb="ListRecords" set="10.1002">http://iueam.ir/browse.php?mag_id=28&amp;slc_lang=en&amp;sid=1</request>
+	<ListRecords>
+		
+			
+				<record>
+					<header>
+						<identifier>28-1242</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2019</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>27</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>A Study of the Challenges of Urban Management System in New Iranian Cities</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Mohammad</given_name>
+					<surname>Ayini</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Hossein</given_name>
+					<surname>Zabihi</surname>
+					<email>h.zabihi@srbiau.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Zahra Sadat</given_name>
+					<surname>Saeideh Zarabadi</surname>
+					<email></email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			Due to the goals of new towns, new towns are considered among the most important settlements in the country. These new towns face challenges in urban management system. Due to the necessity of identifying these challenges, the goal of this article is to identify the challenges of urban management system in new towns of Iran. In this research, data collection tool was focus group discussion technique and the qualitative content analysis method was applied to analyze the comments of meeting members for classification and categorization and reaching general and specific concepts. The members of meeting consisted of 33 experts and specialists related to new towns, who were selected by a goal or criterion-oriented sampling method. Eight factors were extracted in the context of the challenges of urban management in new Iranian towns; after analyzing the interviews of the participants. They are: institutional-administrative, facilities and services, Planning and policy making, environmental, socio-cultural, urbanism and architecture, financing and budgeting, legal and juridical. The participants of focus group discussion meetings emphasized on the necessity of explaining a coherent urban management system based on the characteristics of new towns in Iran. The results of this research can help programmers and policy makers to review and reform the structure of urban management system in new towns.
+			</abstract>
+				<keywords>
+	<keyword>New Towns of Iran</keyword>
+	<keyword>Urban Management Challenges</keyword>
+	<keyword>Focal Group</keyword>
+	<keyword>Urban Management of New Cities.</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2019</year>
+								  <month>9</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>1</first_page>
+								  <last_page>15</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-1242-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>28-1243</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2019</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>27</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>The Influence of Access-Based Indices on House Prices (Case: Tehran District 6)</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Mohammad</given_name>
+					<surname>Azmoodeh</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>FarshidReza</given_name>
+					<surname>Haghighi</surname>
+					<email>haghighi@nit.ac.ir</email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			The purpose of this study was to examine the relationship between the variables dependent on the location of a residential block in an urban area based on the concept of accessibility and the price. For this purpose, based on the researches, 11 effective variables and their calculation method were identified and according to the experts&#8217; opinions of the transportation and urban planning field, the weight of each parameter was determined by the method of the pairwise comparison matrix analysis of the Analytic Hierarchy Process (AHP). In the next step, with the overlapping of ArcGIS software analysis and the factors&#8217; weights, the impact of each factor and the overall set of parameters in a metropolitan area was evaluated which blocks were classified into three categories of good, moderate, and poor accessibility. In this study, District 6 of Tehran metropolitan was selected as the case study. The results show that, based on the analysis of variables, the trend of rising housing prices in the region and the value of block accessibility act unlike each other, which by moving toward the north of the region, despite the decrease in the level of accessibility, we will face a rise in housing prices. Meanwhile, among the variables, the &#34;affordability level&#34; of the neighborhoods, which after the &#8220;Topography&#8221; of the region has the lowest weight among the indices, has the highest correlation with the trend of price change, which indicates the dependence of the price on other market variables.
+			</abstract>
+				<keywords>
+	<keyword>Housing Price</keyword>
+	<keyword>Accessibility</keyword>
+	<keyword>Spatial Analysis</keyword>
+	<keyword>GIS</keyword>
+	<keyword>Tehran</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2019</year>
+								  <month>9</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>16</first_page>
+								  <last_page>30</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-1243-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>28-1244</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2019</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>27</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>An Analysis of Effective Economic Factors on Urban Livability (Case: Tabriz Metropolis)</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Borhan</given_name>
+					<surname>Veysi Nab</surname>
+					<email>borhanveysi@gmail.com</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Fereidoon</given_name>
+					<surname>Babaei Aghdam</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Rasoul</given_name>
+					<surname>Ghorbani</surname>
+					<email></email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			One of the basic preconditions for planning to improve the quality of life and increase the level of sustainability in different societies is identifying the factors and elements that influence urban biodiversity. The economic dimension of livability is one of the most important dimensions affecting the quality of urban life and its promotion. Therefore, the present study is based on descriptive-analytical approach following two main aims: A- Identification and study of the status of economic indicators affecting the livability of the Tabriz Metropolis, B- Leveling economic indicators affecting the livability Tabriz Metropolis and providing appropriate model with livability of Tabriz Metropolis. In this research, the indices related to the economic dimension of livability in 12 indicators were identified by studying relevant research literature and interviews with experts, then structural-interpretive modeling technique and MICMAC software were used to express the relationships and type of indicators. Finally, to evaluate the status of economic livability of Tabriz Metropolis, one-sample t-test was used. The results of the study show the indicators of job security; enough income; proper employment opportunities; appropriate employment and opportunity to earn money were the most effective indicators on improving the livability of Tabriz Metropolis. In addition, the economic livability of the Tabriz Metropolis is low and unacceptable; among the 12 variables of research, only two variables, the ability to provide goods and services, and having a suitable job with the score of 3.10 and 3.07 are in a good condition and other variables are below the average. Therefore, exploiting a strong market economy is recommended in order to create a good job and invest in the region.
+			</abstract>
+				<keywords>
+	<keyword>Urban Livability</keyword>
+	<keyword>Economic Dimension</keyword>
+	<keyword>Sustainable Development</keyword>
+	<keyword>Quality of Life</keyword>
+	<keyword>Tabriz Metropolis</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2019</year>
+								  <month>9</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>31</first_page>
+								  <last_page>45</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-1244-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>28-1245</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2019</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>27</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Ranking Challenges Facing Construction Investors in Vanished Texture of Kerman</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Saeid</given_name>
+					<surname>Iranmanesh</surname>
+					<email>saeeed.iranmanesh@yahoo.com</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Alireza</given_name>
+					<surname>Shakibayi</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Fatemeh</given_name>
+					<surname>Nazari Robati</surname>
+					<email></email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			With the expansion of urban societies and urbanization, the emergence of worn-out texture of the old fabric and the margin of cities is inevitable. Given their geographical and climatic characteristics, these areas are of great importance for urban space. The city of Kerman is similar to other Iranian regions with the emergence of worn-out texture. Since the exhaustion of these contexts causes many social, economic and human problems, efforts to improve and renovate worn tissues are important. The purpose of this paper is to rank the main challenges faced by construction investors in the worn-out texture of Kerman. In this regard, using library-field method and using a questionnaire, sample views of 10 investors in the worn-out texture of Kerman city have been collected. In order to analyze the data, the fuzzy hierarchy analysis method has been used in MATLAB software space. The results showed that the main challenges faced by investors in the worn out texture of Kerman city are the economic and technical challenges of engineering.
+			</abstract>
+				<keywords>
+	<keyword>Worn Texture</keyword>
+	<keyword>Investment</keyword>
+	<keyword>Challenge ranking</keyword>
+	<keyword>Fuzzy Hierarchy Analysis</keyword>
+	<keyword>City of Kerman</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2019</year>
+								  <month>9</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>46</first_page>
+								  <last_page>55</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-1245-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>28-1246</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2019</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>27</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Identification and Analysis of Effective Factors on the Economic, Social, and Physical Dimensions of Quality Of Life in Urban Neighborhood (Case: Tehran Municipality District 7)</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Jafar</given_name>
+					<surname>Qaderi</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Ebrahim</given_name>
+					<surname>Rastegar</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Moslem</given_name>
+					<surname>Ghahri</surname>
+					<email>m.ghahri28@yahoo.com</email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			Today, quality of urban life is one of the most important areas of urban studies in different countries, which has multiple social, environmental, economic and biological approaches. This research is aimed at identifying the factors affecting the quality of life in urban neighborhoods in district 7 of Tehran. Due to its high density in the central Tehran area and the existence of various social and economic centers, this area has affected the quality of life of citizens and residents in the neighborhoods of this region. This research is applied - development and method of study in the form of documentary, survey and analytical. Data collection is through document review (index identification) and scrolling (questionnaire). The population of this study consists of residents of the 7th district of Tehran municipality based on the census of 2016, which is equal to 312194. 321 people were selected as the sample by simple random sampling. Data were collected through documentary survey (index identification) and survey (questionnaire). Measurement of quality of life in urban neighborhoods was done through Kruskal-Wallis test and factor analysis using SPSS software. The results of the research indicate that there is a significant difference in the quality of life between the fourteen neighborhoods of the research area. According to the five components of security and social services; physical and service quality; economic quality, environmental quality and quality of public health, Niloofar Shahid Ghandi and Bagh Saba Sohrevardi neighborhoods with an average of 148 and 127.20, respectively had the highest rank in quality of life. Nezam Abad and Armeneh with 38.27 and 25.50 respectively had the lowest level of quality of life from the viewpoint of respondents. Among the measured components, the most significant difference was observed in physical and environmental dimensions. In the end, in order to know more precisely the effective factors, out of a total of 80 variables examined in the 5 components assessed by factor analysis, 10 factors influencing the quality of life of the residents of the neighborhoods of the 7th district of the municipality were identified.
+			</abstract>
+				<keywords>
+	<keyword>Quality of Life</keyword>
+	<keyword>Urban Neighborhoods</keyword>
+	<keyword>Effectiveness</keyword>
+	<keyword>Tehran Municipality</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2019</year>
+								  <month>9</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>51</first_page>
+								  <last_page>65</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-1246-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>28-1247</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2019</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>27</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Identifying and Classifying the Causes of Delay in Construction Projects (Case: City of Sirjan)</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Abbas</given_name>
+					<surname>Shoul</surname>
+					<email>shoul@vru.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Iman</given_name>
+					<surname>Hakimi</surname>
+					<email></email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			Successful implementation of construction projects is one of the key factors for economic development of every country. Construction projects are often criticized for overrunning time and budgets. Thus, analyzing the factors causing delay is essential with the aim of omitting them. Several researches have been conducted to identify the reasons and causes of delays in different countries. In this paper, various researches investigated different factors affecting construction projects delays have been analyzed and 24 effective factors on construction projects have been identified and extracted. Data were collected from experts of contracting companies, employers, head of the workshop, and observers of construction projects in Sirjan city. To analyze the data and prioritize contributing factors affecting construction projects delays, two techniques of soft and hard operational research methods including ISM and BWM were used. The results indicated inadequate experience and knowledge, inadequate modern equipment, financial problems, difficulties in obtaining construction materials, the conflict among contractor, consultant and owner, and improper planning are the most important effective factors on construction projects delays.
+			</abstract>
+				<keywords>
+	<keyword>Project Management</keyword>
+	<keyword>Construction Projects</keyword>
+	<keyword>Delay</keyword>
+	<keyword>ISM</keyword>
+	<keyword>BWM</keyword>
+	<keyword>City of Sirjan</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2019</year>
+								  <month>9</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>61</first_page>
+								  <last_page>75</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-1247-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>28-1248</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2019</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>27</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Designing a Network Governance Model in Tehran Municipality</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Abbas</given_name>
+					<surname>Monavariyan</surname>
+					<email>amonavar@ut.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Abbas</given_name>
+					<surname>Nargesiyan</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Atefeh</given_name>
+					<surname>Hosseini Makarem</surname>
+					<email></email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			The present study deals with designing a network governance model in Tehran municipality. This research is developmental in terms of purpose and descriptive-exploratory in terms of method. Interview tools were used to collect qualitative data. Participants in this study are managers and authorities of Tehran municipality, contractors and faculty members of universities with a history of working in the municipality. In order to design a network governance model in Tehran municipality, data-based theorization with Strauss and Corbin&#8217;s approach has been used. According to the results of open and pivotal coding, the causal factors influencing network governance include the culture of participation, political powers, upstream laws, and popular organizations. In addition, effective contextual factors on network governance include cultural infrastructure, legal infrastructure, trust building, government support, behavioral training, team capacity, and networking infrastructure. Interfering factors include management barriers, cultural and social barriers, and organizational barriers, strategic and legal dilemmas. Network governance strategies include developing information channels and environmental scanning, strengthening research and development infrastructures, developing collaborative networks for evaluating and selecting projects, outsourcing and developing citizen participation in decision making. The implications of network governance include economic efficiency, strategic development of urban services, and organizational effectiveness.
+			</abstract>
+				<keywords>
+	<keyword>Governance</keyword>
+	<keyword>Network Governance</keyword>
+	<keyword>Tehran Municipality</keyword>
+	<keyword>Data Theory</keyword>
+	<keyword>Economic Efficiency</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2019</year>
+								  <month>9</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>76</first_page>
+								  <last_page>85</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-1248-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+				
+			
+				<record>
+					<header>
+						<identifier>28-1249</identifier>
+						<datestamp>2020-07-27</datestamp>
+						<setSpec>10.1002</setSpec>
+					</header>
+					<metadata>
+						<cr_unixml:crossref xmlns="http://www.crossref.org/xschema/1.0"
+							xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+							<journal>
+								<journal_metadata language="en">
+									<full_title>Journal of Urban Economics and Management</full_title>
+									<abbrev_title>IUESA</abbrev_title>
+									<issn media_type="print">2345-2870</issn>
+									<issn media_type="electronic">2588-6398</issn>
+									<doi_data>
+										<doi>10.29252/iueam</doi>
+										<resource></resource>
+									</doi_data>
+								</journal_metadata>
+								<journal_issue>
+									<publication_date media_type="print">
+										<year>2019</year>
+									</publication_date>
+									<journal_volume>
+										<volume>7</volume>
+									</journal_volume>
+									<issue>27</issue>
+									<doi_data>
+										<doi></doi>
+										<resource></resource>
+									</doi_data>
+								</journal_issue>
+								<journal_article publication_type="full_text">
+									<titles>
+										<title>Designing Human Resources Performance Management System to Improve Economic Productivity (Case: Ayandeh Bank)</title>
+									</titles>
+
+				<contributors>
+				
+				<person_name contributor_role="author" sequence="1">
+					<given_name>Shadi</given_name>
+					<surname>Salamat</surname>
+					<email></email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="2">
+					<given_name>Nasser</given_name>
+					<surname>Mirsepassi</surname>
+					<email>mirsepassi@srbiau.ac.ir</email>
+				</person_name>
+					
+				<person_name contributor_role="author" sequence="3">
+					<given_name>Hamideh</given_name>
+					<surname>Reshadatjoo</surname>
+					<email></email>
+				</person_name>
+				
+				</contributors>
+			
+			<abstract>
+			The purpose of this study is designing human resources performance management system to improve productivity of Ayandeh Bank. In the process of doing this research, qualitative and quantitative methods have been used. In the framework of the qualitative method, a number of experts in banking field were identified and, after conducting Delphi interviews with them, some of the most important bank performance indicators were identified. After designing a performance management model based on the desired indicators, a quantitative research process began. The population of quantitative section was All Ayandeh Bank employees with over 5 years of experience, nearly 2500 people, 333 were selected as multi-stage sampling. The research instrument for measuring individual, team and organizational performance and improving productivity is researcher-made questionnaire. Validity was determined by content validity and reliability was determined using Cronbach&#8217;s alpha by internal consistency. The results indicate team performance management with a coefficient of 0.68 has a more effective effect on improving productivity than individual performance with a coefficient of 0.61 and organizational performance with a coefficient of 0.52. Square multiple correlation coefficient, variable of improving productivity (0.87), indicates that the independent variables of individual, group and organizational performance management (87%) explain the variance of this variable. The results showed that based on model fit indices, the designed model is the most effective and successful model for deploying HRM model to improve Ayandeh Bank productivity.
+			</abstract>
+				<keywords>
+	<keyword>Performance Management</keyword>
+	<keyword>Human Resources</keyword>
+	<keyword>Improving Economic Productivity</keyword>
+	<keyword>Ayandeh Bank</keyword>
+	</keywords>
+
+							  <publication_date media_type="print">
+								  <year>2019</year>
+								  <month>9</month>
+								  <day>01</day>
+							  </publication_date>
+							  <pages>
+								  <first_page>86</first_page>
+								  <last_page>100</last_page>
+							  </pages>
+								  <fullTextUrl>http://iueam.ir/article-1-1249-en.pdf</fullTextUrl>
+							  <doi_data>
+								  <doi></doi>
+								  <resource></resource>
+							  </doi_data>
+							  <citation_list>
+							  </citation_list>
+						  </journal_article>
+					  </journal>
+				  </cr_unixml:crossref>
+			  </metadata>
+			</record>
+			
+		</ListRecords>
+		</OAI-PMH>
+		 
+  
+  
+  
+  
+ 

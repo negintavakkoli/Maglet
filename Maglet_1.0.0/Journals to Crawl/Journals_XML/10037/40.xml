@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+<title>Journal of  Engineering Geology </title>
+<title_fa>نشریه زمین شناسی مهندسی</title_fa>
+<short_title>jeg</short_title>
+<subject>Engineering &amp; Technology</subject>
+<web_url>http://jeg.khu.ac.ir</web_url>
+<journal_hbi_system_id>1</journal_hbi_system_id>
+<journal_hbi_system_user>admin</journal_hbi_system_user>
+<journal_id_issn>2228-6837</journal_id_issn>
+<journal_id_issn_online></journal_id_issn_online>
+<journal_id_pii></journal_id_pii>
+<journal_id_doi>10.18869/acadpub.jeg</journal_id_doi>
+<journal_id_iranmedex></journal_id_iranmedex>
+<journal_id_magiran></journal_id_magiran>
+<journal_id_sid></journal_id_sid>
+<journal_id_nlai></journal_id_nlai>
+<journal_id_science></journal_id_science>
+<language>fa</language>
+<pubdate>
+	<type>jalali</type>
+	<year>1396</year>
+	<month>2</month>
+	<day>1</day>
+</pubdate>
+<pubdate>
+	<type>gregorian</type>
+	<year>2017</year>
+	<month>5</month>
+	<day>1</day>
+</pubdate>
+<volume>10</volume>
+<number>4</number>
+<publish_type>online</publish_type>
+<publish_edition>1</publish_edition>
+<article_type>fulltext</article_type>
+<articleset>
+	<article>
+
+
+	<language>en</language>
+	<article_id_doi></article_id_doi>
+	<title_fa>تخمین چندمتغیره خصوصیات تودۀ سنگ نسبت به عمق با استفاده از ANFIS مبتنی بر خوشه‌بندی کاهشی (مجموعه تونل‌های آزادراه خرم آباد- پل زال)</title_fa>
+	<title>Multivariate Estimation of Rock Mass Characteristics Respect to Depth Using ANFIS Based Subtractive Clustering- Khorramabad- Polezal Freeway Tunnels</title>
+	<subject_fa>ژئوتکنیک (مکانیک خاک و سنگ)</subject_fa>
+	<subject>Geotecnic</subject>
+	<content_type_fa>مقاله استخراج شده از پایان نامه</content_type_fa>
+	<content_type>Research Paper</content_type>
+	<abstract_fa>&lt;p style=&quot;text-align: justify; &quot;&gt;&lt;span dir=&quot;RTL&quot;&gt;ترکیب شبکه عصبی تطبیقی مبتنی بر سیستم استنتاج فازی &lt;/span&gt;(ANFIS)&lt;span dir=&quot;RTL&quot;&gt; و خوشه&#8204;بندی کاهشی &lt;/span&gt;(SC)&lt;span dir=&quot;RTL&quot;&gt; برای ارزیابی مدول تغییرشکل&#8204;پذیری تودۀ سنگ &lt;/span&gt;(E&lt;sub&gt;m&lt;/sub&gt;)&lt;span dir=&quot;RTL&quot;&gt; و مقاومت فشاری توده سنگ &lt;/span&gt;(UCS&lt;sub&gt;m&lt;/sub&gt;)&lt;span dir=&quot;RTL&quot;&gt; با در نظر گرفتن عمق اندازه&#8204;گیری&#8204;ها استفاده شده است. برای این منظور، 125 داده متشکل از 9 متغیر مقاومت فشاری توده سنگ &lt;/span&gt;(UCS&lt;sub&gt;m&lt;/sub&gt;)&lt;span dir=&quot;RTL&quot;&gt;، مدول تغییرشکل&#8204;پذیری توده سنگ &lt;/span&gt;(E&lt;sub&gt;m&lt;/sub&gt;)&lt;span dir=&quot;RTL&quot;&gt;، عمق اندازه&#8204;گیری، فاصله&#8204;داری درزه، تداوم درزه، بازشدگی درزه، مقاومت فشاری سنگ بکر &lt;/span&gt;(UCS&lt;sub&gt;i&lt;/sub&gt;)&lt;span dir=&quot;RTL&quot;&gt;، شاخص ژئومکانیکی &lt;/span&gt;(RMR)&lt;span dir=&quot;RTL&quot;&gt; و مدول الاستیک &lt;/span&gt;(E&lt;sub&gt;i&lt;/sub&gt;) &lt;span dir=&quot;RTL&quot;&gt;برای یادگیری مدل &lt;/span&gt;ANFIS&lt;span dir=&quot;RTL&quot;&gt; مبتنی بر خوشه&#8204;بندی کاهشی &lt;/span&gt;(ANFISBSC)&lt;span dir=&quot;RTL&quot;&gt; استفاده شده است. سپس در مرحلۀ دوم، مدل آموزش یافته &lt;/span&gt;ANFISBSC&lt;span dir=&quot;RTL&quot;&gt; در مجموعه داده&#8204;های 40 گانه آزمایش شده است. بنابراین، با در نظر گرفتن تأثیر پیچیدگی مدل در صحت ارزیابی، توده سنگ با مدل&#8204;های 2 تا 6 متغیره شبیه&#8204;سازی شده است. نتایج شبیه&#8204;سازی مدل&#8204;های چندمتغیره توده سنگ برای ارزیابی مقاومت فشاری توده سنگ &lt;/span&gt;(UCS&lt;sub&gt;m&lt;/sub&gt;)&lt;span dir=&quot;RTL&quot;&gt; و مدول تغییرشکل&#8204;پذیری توده سنگ &lt;/span&gt;(E&lt;sub&gt;m&lt;/sub&gt;)&lt;span dir=&quot;RTL&quot;&gt; نشان داده است که با پیچیده شدن مدل &lt;/span&gt;ANFISBSC&lt;span dir=&quot;RTL&quot;&gt; از 2 متغیره به 6 متغیره، صحت روش افزایش می&#8204;بابد. مطابق نتایج به&#8204;دست آمده، مدل سه متغیره شبیه&#8204;سازی به&#8204;روش &lt;/span&gt;ANFISBSC&lt;span dir=&quot;RTL&quot;&gt; اگرچه روند کلی تخمین مقاومت فشاری توده سنگ &lt;/span&gt;(UCS&lt;sub&gt;m&lt;/sub&gt;)&lt;span dir=&quot;RTL&quot;&gt; و مدول تغییرشکل&#8204;پذیری توده سنگ &lt;/span&gt;(E&lt;sub&gt;m&lt;/sub&gt;)&lt;span dir=&quot;RTL&quot;&gt; را به دست می دهد ولی همراه با 20 -30 درصد خطا می باشد؛ در حالی که در مدل 6 متغیره، مدول تغییر شکل&#8204;پذیری توده سنگ &lt;/span&gt;(E&lt;sub&gt;m&lt;/sub&gt;)&lt;span dir=&quot;RTL&quot;&gt; و مقاومت فشاری توده سنگ &lt;/span&gt;(UCS&lt;sub&gt;m&lt;/sub&gt;)&lt;span dir=&quot;RTL&quot;&gt; به&#8204;صورت موفقیت&#8204;آمیزی با خطای کم&#8204;تر از 3 درصد تخمین زده می&#8204;شود. هم&#8204;چنین، شیب خط نمودار داده&#8204;های اندازه&#8204;گیری و داده&#8204;های تخمین زده شده در مدل 6 متغیره به 1 نزدیک می&#8204;شود و در مدل 3 متغیره، شیب این خط، 94/0 است. بنابراین نتیجه&#8204;گیری می&#8204;شود که مدل 6 متغیره شبیه&#8204;سازی شده با &lt;/span&gt;ANFISBSC&lt;span dir=&quot;RTL&quot;&gt; پیش&#8204;بینی قابل&#8204;قبولی از مدول تغییرشکل&#8204;پذیری توده سنگ &lt;/span&gt;(E&lt;sub&gt;m&lt;/sub&gt;)&lt;span dir=&quot;RTL&quot;&gt; و مقاومت فشاری توده سنگ &lt;/span&gt;(UCS&lt;sub&gt;m&lt;/sub&gt;)&lt;span dir=&quot;RTL&quot;&gt; را به&#8204;دست می&#8204;دهد&lt;/span&gt;&lt;/p&gt;
+</abstract_fa>
+	<abstract>&lt;p dir=&quot;ltr&quot; style=&quot;margin-left: 1cm; text-align: justify; &quot;&gt;Combination of Adoptive Network based Fuzzy Inference System (ANFIS) and subtractive clustering (SC) has been used for estimation of deformation modulus (E&lt;sub&gt;m&lt;/sub&gt;) and rock mass strength (UCS&lt;sub&gt;m&lt;/sub&gt;) considering depth of measurement. To do this, learning of the ANFIS based subtractive clustering (ANFISBSC) was performed firstly on 125 measurements of 9 variables such as rock mass strength (UCS&lt;sub&gt;m&lt;/sub&gt;), deformation modulus (E&lt;sub&gt;m&lt;/sub&gt;), depth, spacing, persistence, aperture, intact rock strength (UCS&lt;sub&gt;i&lt;/sub&gt;), geomechanical rating (RMR) and elastic modulus (E&lt;sub&gt;i&lt;/sub&gt;). Then, at second phase, testing the trained ANFISBSC structure has been perfomed on 40 data measurements. Therefore, predictive rock mass models have been developed for 2-6 variables&amp;nbsp;where model complexity influences the estimation accuracy. Results of multivariate simulation of rock mass for estimating UCS&lt;sub&gt;m&lt;/sub&gt; and E&lt;sub&gt;m&lt;/sub&gt; have shown that accuracy of the ANFISBSC method increases coincident with development of model from 2 variables to 6 variables. According to the results, 3-variable model of ANFISBSC method has general estimation of both UCS&lt;sub&gt;m&lt;/sub&gt; and E&lt;sub&gt;m&lt;/sub&gt; corresponding with 20% to 30% error while the results of multivariate analysis are successfully improved by 6-variable model with error of less than 3%. Also, dip of the fitted line on data point of measured and estimated UCS&lt;sub&gt;m&lt;/sub&gt; and E&lt;sub&gt;m&lt;/sub&gt; for 6-variable model approaches about 1 respect to 0.94 for 3- variable model. Therefore, it can be concluded that 6-variable model of ANFISBSC gives reasonable prediction of UCS&lt;sub&gt;m&lt;/sub&gt; and E&lt;sub&gt;m&lt;/sub&gt;.&lt;/p&gt;
+</abstract>
+	<keyword_fa>ANFIS, خوشه‌بندی کاهشی, خصوصیات توده سنگ, مدول تغییرشکل‌پذیری, مقاومت فشاری توده سنگ, مدل چندمتغیره, خرم آباد - پل زال. </keyword_fa>
+	<keyword>ANFIS, Subtractive clustering, Rock mass carachteristics, Deformation modulus, Rock mass compressive strength, Multivariate model, Khorramabad-Polezal.</keyword>
+	<start_page>3793</start_page>
+	<end_page>3808</end_page>
+	<web_url>http://jeg.khu.ac.ir/browse.php?a_code=A-10-866-1&amp;slc_lang=en&amp;sid=1</web_url>
+
+
+<author_list>
+	<author>
+	<first_name>seyed hamed</first_name>
+	<middle_name></middle_name>
+	<last_name>moosavi</last_name>
+	<suffix></suffix>
+	<first_name_fa>سیدحامد</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>موسوی</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email>sehamoosavi@gmail.com</email>
+	<code>10031947532846003570</code>
+	<orcid>10031947532846003570</orcid>
+	<coreauthor>Yes
+</coreauthor>
+	<affiliation>Engineer</affiliation>
+	<affiliation_fa>ناظر شرکت مهندسین مشاور در پروژه</affiliation_fa>
+	 </author>
+
+
+	<author>
+	<first_name>M</first_name>
+	<middle_name></middle_name>
+	<last_name>Sharifzadeh </last_name>
+	<suffix></suffix>
+	<first_name_fa>مصطفی</first_name_fa>
+	<middle_name_fa></middle_name_fa>
+	<last_name_fa>شریف‌زاده</last_name_fa>
+	<suffix_fa></suffix_fa>
+	<email></email>
+	<code>10031947532846003571</code>
+	<orcid>10031947532846003571</orcid>
+	<coreauthor>No</coreauthor>
+	<affiliation>Faculty of Mining Eng, Mining and Metallurgy, Amirkabir University of Technology</affiliation>
+	<affiliation_fa>دانشگاه صنعتی امیر کبیر، دانشکده مهندسی معدن</affiliation_fa>
+	 </author>
+
+
+</author_list>
+
+
+	</article>
+</articleset>
+</journal>
