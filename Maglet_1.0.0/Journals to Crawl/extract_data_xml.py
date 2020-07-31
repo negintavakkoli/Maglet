@@ -170,6 +170,8 @@ for files in g:
                     except AttributeError:
                         pass
 
+    title_list = list(set(title_list))
+
 
     #
     # """Find Keywords of All XML files with the variety structure"""
