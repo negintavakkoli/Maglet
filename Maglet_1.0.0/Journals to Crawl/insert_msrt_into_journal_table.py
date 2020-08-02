@@ -84,7 +84,7 @@ while len(g)>0:
         #7 Baraye Pezeshki va 6 baraye oloom
 
         rank_status=items1[0].split(":")[1].strip().lstrip().rstrip()
-        #print(rank_status)
+        print(rank_status)
         release_period=items1[1].split(":")[1].strip().lstrip().rstrip()
         #print(release_period)
         director=items1[2].split(":")[1].strip().lstrip().rstrip()
@@ -121,8 +121,9 @@ while len(g)>0:
             "exclusive_subject": exclusive_subject ,
             "url": url ,
             "cover_address": cover_address,
-            "organization": "Science" ,
-            "ranking_number": ranking_number
+            "rank_status": rank_status ,
+            "organization": "وزارت علوم" ,
+
         }
 
         msrt_dic.append(msrt_journal)

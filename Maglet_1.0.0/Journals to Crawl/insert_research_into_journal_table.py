@@ -76,6 +76,8 @@ while len(g)>0:
         sstemp1=tag.findNext("div",{"class":"TblBlock col_25 right"})
         rightcolumn = sstemp1.text.replace("\t","").replace("\n\n","\n").replace("\n\n","\n").replace("\n\n","\n").lstrip().rstrip()
         items1=rightcolumn.split("\n")
+        # print(items1)
+
         #7 Baraye Pezeshki va 6 baraye oloom
 
         rank_status=items1[0].split(":")[1].strip().lstrip().rstrip()
@@ -85,6 +87,7 @@ while len(g)>0:
         approval_date=items1[4].split(":")[1].strip().lstrip().rstrip()
         validity_date=items1[5].split(":")[1].strip().lstrip().rstrip()
         general_subject=items1[6].split(":")[1].strip().lstrip().rstrip()
+
 
         sstemp2=sstemp1.findNext("div",{"class":"TblBlock col_25 right"})
         leftcolumn = sstemp2.text.replace("\t","").replace("\n\n","\n").replace("\n\n","\n").replace("\n\n","\n").lstrip().rstrip()
@@ -113,7 +116,10 @@ while len(g)>0:
             "exclusive_subject": exclusive_subject ,
             "url": url ,
             "cover_address": cover_address ,
-            "organization": "HealthCare"
+            "rank_status": rank_status,
+            "organization": "وزارت بهداشت"
+
+
         }
         healthcare_dic.append ( healthCare_journal )
         j += 1
