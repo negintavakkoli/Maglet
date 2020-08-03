@@ -4,7 +4,7 @@ import xml.etree.cElementTree as ET
 import glob
 import pickle
 import os
-import sys
+from hazm import *
 
 counter = 1
 folder_name = "XML_Solr_Title"
@@ -29,6 +29,8 @@ for filename in abstract_files:
             doc = ET.SubElement ( root , "doc" )
 
             ET.SubElement ( doc , "field" , name = "journal_id" ).text = journal_id
+            normalizer = Normalizer ()
+            item = normalizer.normalize ( item )
             ET.SubElement ( doc , "field" , name = tag_name ).text = item
 
             tree = ET.ElementTree ( root )

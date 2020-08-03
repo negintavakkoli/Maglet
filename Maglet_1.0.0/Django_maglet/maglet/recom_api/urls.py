@@ -12,8 +12,10 @@ router.register(r'journal_info', views.JournalViewSet)
 # Additionally, we include login URLs for the browsable API.
 urlpatterns = [
     path('', include(router.urls)),
-    path('snippets/', views.snippet_list),
+    path('recommendation/', views.recommendation),
+    path('recommendation', views.recommendation),
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework'))
+
 ]
 
 #
