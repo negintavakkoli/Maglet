@@ -17,11 +17,11 @@ global idf
 with open("dic_IDF_upperthan6.MODEL", "rb") as idf_file:
     idf = pickle.load(idf_file)
 
-# global solr_version
-# r = RQ.get("http://127.0.0.1:8983/solr/admin/info/system?wt=json")
-# response = r.json()
-# ver = response["lucene"]['solr-spec-version']
-# solr_version = int(ver.split(".")[0])
+global solr_version
+r = RQ.get("http://127.0.0.1:8983/solr/admin/info/system?wt=json")
+response = r.json()
+ver = response["lucene"]['solr-spec-version']
+solr_version = int(ver.split(".")[0])
 
 class JournalViewSet(viewsets.ModelViewSet):
     queryset = journal_info.objects.all().order_by('journal_id')
@@ -78,21 +78,13 @@ def recommendation(request):
 
             ####find similar journals
             u1 = "http://127.0.0.1:8983/solr/Maglet/select?q="
-            u2 = "&df=abstract&fl=journal_id&rows=300&wt=json"
+            u2 = "&fl=journal_id&rows=300&wt=json"
             base_url = "http://127.0.0.1:8983/solr/Maglet/select?"
-            # if solr_version>6:
-            #     url_request = urlencode({"q":quote(tfidf_sorted,safe = ''),"df":"abstract","fl":"journal_id","rows":300,"wt":"json"})
-            # else:
-            #     url_request = urlencode (
-            #         {"fl": "journal_id" , "q": quote ( tfidf_sorted , safe = '' ) , "rows": 300 ,
-            #          "wt": "json"} )
-            url_request = urlencode (
-                {"q": quote ( tfidf_sorted , safe = '' ) , "df": "abstract" , "fl": "journal_id" , "rows": 300 ,
-                 "wt": "json"} )
-
-            url_request = base_url+url_request
-
-            url_request = u1+quote ( tfidf_sorted , safe = '' )+u2
+            if solr_version > 6:
+                url_request = urlencode({"q":quote(tfidf_sorted,safe = ''),"df":"abstract","fl":"journal_id","rows":300,"wt":"json"})
+                url_request = base_url + url_request
+            else:
+                url_request = u1+quote ( tfidf_sorted , safe = '' )+u2
             print ( url_request )
             re = RQ.get(url_request)
             final_result = re.json()
@@ -107,19 +99,15 @@ def recommendation(request):
             print(journal_counter)
             try:
                 title_query = serializer.data["title"]
-                u2 = "&df=title&fl=journal_id&rows=300&wt=json"
-                # if solr_version>6:
-                #     url_request = urlencode (
-                #     {"df": "title" , "fl": "journal_id" , "q": title_query , "rows": 300 , "wt": "json"} )
-                # else:
-                #     url_request = urlencode (
-                #         {"fl": "journal_id" , "q": title_query , "rows": 300 , "wt": "json"} )
-                url_request = urlencode({"q":quote(title_query,safe = ''),"df":"title","fl":"journal_id","rows":300,"wt":"json"})
 
-                url_request = base_url + url_request
-                url_request = u1 + quote ( title_query , safe = '' ) + u2
+                if solr_version > 6:
+                    url_request = urlencode (
+                    {"df": "title" , "fl": "journal_id" , "q": title_query , "rows": 300 , "wt": "json"} )
+                    url_request = base_url + url_request
+                else:
+                    u2 = "&fl=journal_id&rows=300&wt=json"
+                    url_request = u1 + quote ( title_query , safe = '' ) + u2
                 print(url_request)
-                # url_request = u1+query+u2
                 re = RQ.get ( url_request )
                 final_result = re.json ()
                 d = final_result["response"]["docs"]
