@@ -77,8 +77,8 @@ def recommendation(request):
 
 
             ####find similar journals
-            u1 = "http://127.0.0.1:8983/solr/Maglet/select?df=abstract&fl=journal_id&q="
-            u2 = "&rows=300&wt=json"
+            u1 = "http://127.0.0.1:8983/solr/Maglet/select?q="
+            u2 = "&df=abstract&fl=journal_id&rows=300&wt=json"
             base_url = "http://127.0.0.1:8983/solr/Maglet/select?"
             # if solr_version>6:
             #     url_request = urlencode({"q":quote(tfidf_sorted,safe = ''),"df":"abstract","fl":"journal_id","rows":300,"wt":"json"})
@@ -91,8 +91,9 @@ def recommendation(request):
                  "wt": "json"} )
 
             url_request = base_url+url_request
-            print(url_request)
-            #url_request = u1+query+u2
+
+            url_request = u1+quote ( tfidf_sorted , safe = '' )+u2
+            print ( url_request )
             re = RQ.get(url_request)
             final_result = re.json()
             print(final_result)
@@ -106,15 +107,17 @@ def recommendation(request):
             print(journal_counter)
             try:
                 title_query = serializer.data["title"]
+                u2 = "&df=title&fl=journal_id&rows=300&wt=json"
                 # if solr_version>6:
                 #     url_request = urlencode (
                 #     {"df": "title" , "fl": "journal_id" , "q": title_query , "rows": 300 , "wt": "json"} )
                 # else:
                 #     url_request = urlencode (
                 #         {"fl": "journal_id" , "q": title_query , "rows": 300 , "wt": "json"} )
-                url_request = urlencode({"q":quote(tfidf_sorted,safe = ''),"df":"title","fl":"journal_id","rows":300,"wt":"json"})
+                url_request = urlencode({"q":quote(title_query,safe = ''),"df":"title","fl":"journal_id","rows":300,"wt":"json"})
 
                 url_request = base_url + url_request
+                url_request = u1 + quote ( title_query , safe = '' ) + u2
                 print(url_request)
                 # url_request = u1+query+u2
                 re = RQ.get ( url_request )
