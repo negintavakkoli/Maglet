@@ -21,7 +21,7 @@ global solr_version
 r = RQ.get("http://127.0.0.1:8983/solr/admin/info/system?wt=json")
 response = r.json()
 ver = response["lucene"]['solr-spec-version']
-solr_version = int(ver.splite(".")[0])
+solr_version = int(ver.split(".")[0])
 
 class JournalViewSet(viewsets.ModelViewSet):
     queryset = journal_info.objects.all().order_by('journal_id')
