@@ -81,6 +81,7 @@ def recommendation(request):
             #url_request = u1+query+u2
             re = RQ.get(url_request)
             final_result = re.json()
+            print(final_result)
             d = final_result["response"]["docs"]
             journal_counter = {}
             for item in d:
@@ -88,6 +89,7 @@ def recommendation(request):
                     journal_counter[item["journal_id"][0]] += 1
                 except KeyError:
                     journal_counter[item["journal_id"][0]] = 1
+            print(journal_counter)
             try:
                 title_query = serializer.data["title"]
                 url_request = urlencode (
