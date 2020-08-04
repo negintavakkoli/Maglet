@@ -17,6 +17,11 @@ global idf
 with open("dic_IDF_upperthan6.MODEL", "rb") as idf_file:
     idf = pickle.load(idf_file)
 
+global solr_version
+r = RQ.get("http://127.0.0.1:8983/solr/admin/info/system?wt=json")
+response = r.json()
+ver = response["lucene"]['solr-spec-version']
+solr_version = int(ver.splite(".")[0])
 
 class JournalViewSet(viewsets.ModelViewSet):
     queryset = journal_info.objects.all().order_by('journal_id')
@@ -75,7 +80,12 @@ def recommendation(request):
             u1 = "http://127.0.0.1:8983/solr/Maglet/select?df=abstract&fl=journal_id&q="
             u2 = "&rows=300&wt=json"
             base_url = "http://127.0.0.1:8983/solr/Maglet/select?"
-            url_request = urlencode({"df":"abstract","fl":"journal_id","q":quote(tfidf_sorted,safe = ''),"rows":300,"wt":"json"})
+            if solr_version>6:
+                url_request = urlencode({"df":"abstract","fl":"journal_id","q":quote(tfidf_sorted,safe = ''),"rows":300,"wt":"json"})
+            else:
+                url_request = urlencode (
+                    {"fl": "journal_id" , "q": quote ( tfidf_sorted , safe = '' ) , "rows": 300 ,
+                     "wt": "json"} )
             url_request = base_url+url_request
             print(url_request)
             #url_request = u1+query+u2
@@ -92,8 +102,12 @@ def recommendation(request):
             print(journal_counter)
             try:
                 title_query = serializer.data["title"]
-                url_request = urlencode (
+                if solr_version>6:
+                    url_request = urlencode (
                     {"df": "title" , "fl": "journal_id" , "q": title_query , "rows": 300 , "wt": "json"} )
+                else:
+                    url_request = urlencode (
+                        {"fl": "journal_id" , "q": title_query , "rows": 300 , "wt": "json"} )
                 url_request = base_url + url_request
                 # url_request = u1+query+u2
                 re = RQ.get ( url_request )
