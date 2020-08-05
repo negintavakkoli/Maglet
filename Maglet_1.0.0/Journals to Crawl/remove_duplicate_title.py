@@ -3,7 +3,7 @@
 import glob
 import pickle
 import os
-import sys
+
 
 
 counter = 0

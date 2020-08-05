@@ -16,4 +16,4 @@ class JournalSerializer(serializers.Serializer):
 
 class QuerySerializer(serializers.Serializer):
     abstract = serializers.CharField(max_length = 5000)
-    title = serializers.CharField(max_length = 50 , required = False)
+    title = serializers.CharField(max_length = 200 , required = False)

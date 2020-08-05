@@ -4,9 +4,7 @@ import glob
 import pickle
 from Regular_text import cleanhtml
 from parsivar import Normalizer
-import parsivar
-import re
-import random
+
 
 elemList = []
 g = glob.glob("Journals_XML/*/*.xml")

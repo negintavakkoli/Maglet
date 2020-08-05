@@ -53,13 +53,14 @@ def recommendation(request):
         serializer = QuerySerializer(data=request.data)
         if serializer.is_valid():
             abstract_query = serializer.data["abstract"]
-            normalizer = Normalizer ()
-            abstract_query = normalizer.normalize(abstract_query)
-            #
-            abstract_words = word_tokenize(abstract_query)
-            #abstract_words = abstract_query.split(" ")
-            print(abstract_words)
-            tfidf = {}
+            try:
+                normalizer = Normalizer ()
+                abstract_query = normalizer.normalize(abstract_query)
+                abstract_words = word_tokenize(abstract_query)
+                #abstract_words = abstract_query.split(" ")
+                tfidf = {}
+            except:
+                abstract_words = abstract_query
 
             for word in list(set(abstract_words)):
                 if word in " ?.!/;:)(1234567890۱۲۳۴۵۶۷۸۹۰":
@@ -73,9 +74,6 @@ def recommendation(request):
                 tfidf[word] = tf * idf_word
             tfidf_sorted = sorted ( tfidf.items () , key = lambda x: x[1] , reverse = True )
             tfidf_sorted = " ".join([x[0] for x in tfidf_sorted[:20]])
-            print(tfidf_sorted)
-
-
             ####find similar journals
             u1 = "http://127.0.0.1:8983/solr/Maglet/select?q="
             u2 = "&fl=journal_id&rows=300&wt=json"
@@ -85,10 +83,8 @@ def recommendation(request):
                 url_request = base_url + url_request
             else:
                 url_request = u1+quote ( tfidf_sorted , safe = '' )+u2
-            print ( url_request )
             re = RQ.get(url_request)
             final_result = re.json()
-            print(final_result)
             d = final_result["response"]["docs"]
             journal_counter = {}
             for item in d:
@@ -96,7 +92,6 @@ def recommendation(request):
                     journal_counter[item["journal_id"][0]] += 1
                 except KeyError:
                     journal_counter[item["journal_id"][0]] = 1
-            print(journal_counter)
             try:
                 title_query = serializer.data["title"]
 
@@ -107,7 +102,6 @@ def recommendation(request):
                 else:
                     u2 = "&fl=journal_id&rows=300&wt=json"
                     url_request = u1 + quote ( title_query , safe = '' ) + u2
-                print(url_request)
                 re = RQ.get ( url_request )
                 final_result = re.json ()
                 d = final_result["response"]["docs"]
@@ -120,7 +114,6 @@ def recommendation(request):
                 pass
             journal_counter_sorted = sorted ( journal_counter.items () , key = lambda x: x[1] , reverse = True )
             journal_counter_sorted = [x[0] for x in journal_counter_sorted[:10]]
-            ###let's assume the similar journal is 10010
             c = journal_info.objects.filter(journal_id__in = journal_counter_sorted)
             serializer = JournalSerializer ( c  , many=True)
             return Response(serializer.data)

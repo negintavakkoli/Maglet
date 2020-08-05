@@ -3,7 +3,7 @@ from urllib import parse as PR
 import requests as RQ
 from bs4 import BeautifulSoup
 import os
-import random
+
 
 
 

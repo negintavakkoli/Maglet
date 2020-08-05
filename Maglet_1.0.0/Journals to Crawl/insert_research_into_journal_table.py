@@ -5,7 +5,6 @@ Created on Sun Feb 18 21:31:30 2018
 @author: Asus
 """
 import urllib.parse
-import requests
 import json
 #import os
 from bs4 import BeautifulSoup

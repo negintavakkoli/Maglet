@@ -3,7 +3,7 @@
 import glob
 import pickle
 import os
-import sys
+
 
 similary_threshould = 0.6
 #Globe ABSTRAC files
