@@ -4,12 +4,6 @@ import requests as RQ
 from bs4 import BeautifulSoup
 import os
 
-
-
-
-
-
-
 with open('Journals_list_complete.json', 'r') as journals_list:
     healthcare_dic = json.load ( journals_list )
 

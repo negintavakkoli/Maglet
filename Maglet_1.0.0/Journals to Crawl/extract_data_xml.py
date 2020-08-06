@@ -3,7 +3,7 @@ import os
 import glob
 import pickle
 from Regular_text import cleanhtml
-from parsivar import Normalizer
+
 
 
 elemList = []
@@ -11,7 +11,7 @@ g = glob.glob("Journals_XML/*/*.xml")
 i = 1
 counter = 1
 #random.shuffle(g)
-text_normalizer = Normalizer()
+
 for files in g:
     name_of_directory = files.split( "/" )[-2]
     abstract_address = name_of_directory+".ABSTRACT"

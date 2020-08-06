@@ -15,6 +15,12 @@
 # bin/post -c Maglet Maglet/Maglet_1.0.0/Journals\ to\ Crawl/Journals_XML/XML_Solr/* --> insert data to solr
 
 
+##Login server
+#ssh root@185.208.175.151
+#ssh mohtaj@hamtajoo.ir
+
+
+
 
 
 
