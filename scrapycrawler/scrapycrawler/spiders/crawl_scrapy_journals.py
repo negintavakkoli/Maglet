@@ -30,14 +30,14 @@ class ArticlescraperSpider(CrawlSpider):
 
     def parse_item(self, response):
         filename = urlparse(response.request.url).netloc.replace("/", "_")
-
+        
         try:
-            with open(os.path.join(filename+".abstract"), 'rb') as f:
+            with open(os.path.join("data",filename+".abstract"), 'rb') as f:
                 list_abstract = pickle.load(f)
         except:
             list_abstract = []
         try:
-            with open(os.path.join(filename+".title"), 'rb') as f:
+            with open(os.path.join("data",filename+".title"), 'rb') as f:
                 list_title = pickle.load(f)
         except:
             list_title = []
@@ -88,7 +88,7 @@ class ArticlescraperSpider(CrawlSpider):
                         title = t
             list_abstract.append(abstract)
             list_title.append(title)
-        with open(os.path.join(filename+".abstract"), 'wb') as f:
+        with open(os.path.join("data",filename+".abstract"), 'wb') as f:
             pickle.dump(list_abstract, f)
-        with open(os.path.join(filename+".title"), 'wb') as f:
+        with open(os.path.join("data",filename+".title"), 'wb') as f:
             pickle.dump(list_title, f)
