@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه علوم کشاورزی و منابع طبیعی گرگان</PublisherName>
+				<JournalTitle>نشریه پژوهش‌ در نشخوار کنندگان</JournalTitle>
+				<Issn>23454253</Issn>
+				<Volume>6</Volume>
+				<Issue>4</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2019</Year>
+					<Month>02</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Comparison of linear model and Artificial Neural Network to Prediction of Milk Yield Using First Recorded Parity</ArticleTitle>
+<VernacularTitle>مقایسه مدل خطی و شبکه عصبی مصنوعی در پیش‌بینی تولید شیر با استفاده از رکوردهای اولین دوره شیردهی ثبت شده</VernacularTitle>
+			<FirstPage>89</FirstPage>
+			<LastPage>100</LastPage>
+			<ELocationID EIdType="pii">4583</ELocationID>
+			
+<ELocationID EIdType="doi">10.22069/ejrr.2018.13512.1561</ELocationID>
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>کریم</FirstName>
+					<LastName>نوبری</LastName>
+<Affiliation>عضو هیئت علمی مرکز تحقیقات و آموزش کشاورزی و منابع طبیعی گلستان</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>حسن</FirstName>
+					<LastName>بانه</LastName>
+<Affiliation>استادیار موسسه تحقیقات علوم دامی کشور، سازمان تحقیقات، آموزش و ترویج کشاورزی، کرج، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>سعید</FirstName>
+					<LastName>اسماعیل خانیان</LastName>
+<Affiliation>دانشیار موسسه تحقیقات علوم دامی کشور، سازمان تحقیقات، آموزش و ترویج کشاورزی، کرج</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>کاظم</FirstName>
+					<LastName>یوسفی کلاریکلائی</LastName>
+<Affiliation>استادیار بخش تحقیقات علوم دامی، مرکز تحقیقات و آموزش کشاورزی و منابع طبیعی گلستان، سازمان تحقیقات، آموزش و ترویج کشاورزی، گرگان، ایران</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>رحمت</FirstName>
+					<LastName>سمیعی</LastName>
+<Affiliation>سازمان جهاد کشاورزی استان گلستان</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2017</Year>
+					<Month>06</Month>
+					<Day>18</Day>
+				</PubDate>
+			</History>
+		<Abstract>Background and Objectives: Precise prediction of milk yield is essential for management and modeling of farmer’s income in analysis of cost-benefit. Such that, accurate prediction of future records can decrease recording time. Early estimation of bull breeding value using partly records of parity can lower generation interval and increase selection intensity and genetic progress. Linear model is the most commonly used modeling method in research on different field of science. Artificial Neural Network (ANN) is based on artificial intelligent that uses working principles of human brain. Ease of application and power to model complex functions and relationships is factor of wide use of Artificial Neural Network. Revolutionized use of artificial neural network modeling in different aspects of science in the last two decades, is indication of successful application of this powerful technique to solve wide range of problems in different scientific issues. Therefore, object of current research is prediction milk yield of different parity milk production of dairy cattle using production of first recorded parity and artificial neural networks modeling. Furthermore, results of artificial neural network model compared with linear model.&lt;br /&gt; Materials and methods: In current research, two sequential records of 2460 dairy cattle of a herd were investigated. Pedigree of used data set contained 2517 individuals. Data divided into two sub data of training and testing, to fitting Artificial Neural Network model. Artificial Network model learned the relationship between output and inputs of training data set. Adequacy parameters of the model investigated using model predicted outputs of testing data set and original outputs of the data. Network structure with the beast adequacy parameters were used for Artificial Neural Network model. Finally, linear model was fitted and compared with artificial neural network model.&lt;br /&gt; Results: The best structure of Neural Network had 8 inputs, 4 neuron at first hidden layer, 2 neuron at second hidden layer and output of milk production that inputs were breeding value of average milk yield of first recorded parity, parity, sire group, age at first registered parturition, number of records for each parity and mean, minimum and maximum of recorded days in milk for each parity. The used artificial neural network model, predicted the parity milk production with RMSE and R2 of 7.94 and 0.625, respectively. R2 and RMSE of considered linear model was 0.39 and 26.63, respectively.&lt;br /&gt; Conclusion: The applied model of artificial neural network appropriately predicted the subsequent parity production using precedent parity data. This research indicated that use of artificial network model can be beneficial for decreasing recording period for dairy cattle genetic evaluation specially in sire evaluation and will decrease generation interval. The results showed that incomplete data can be used for genetic evaluation using artificial neural network model. Comparison of the results with past reports indicated that use of effective inputs for milk production can increase accuracy and precision of the ANN model.</Abstract>
+			<OtherAbstract Language="FA">سابقه و هدف: پیش‌بینی دقیق تولید شیر یکی از ملزومات مدیریت دامپروری و مدل‌سازی درآمد دامداران در تجزیه و تحلیل های هزینه-فایده می‌باشد. بطوری که پیش‌بینی دقیق رکوردهای آینده می‌تواند طول دوره رکوردبرداری را کاهش دهد. برآوردهای زودهنگام ارزش اصلاحی گاوهای نر با استفاده از رکوردهای بخشی از دوره شیردهی می‌تواند باعث کاهش فاصله نسل و بیشتر شدن شدت انتخاب و پیشرفت ژنتیکی گردد. مدل خطی یکی از روشهای مرسوم مدلسازی در تحقیقات رشته های مختلف علوم می باشد. شبکه عصبی مصنوعی روشی مبتنی بر هوش مصنوعی است که اصول کارکرد آن مانند سلول‌های مغز انسان می‌باشد. کاربرد آسان شبکه عصبی مصنوعی و توان مدل‌سازی توابع و روابط پیچیده یک از عوامل کاربرد وسیع آن است. در طول دو دهه گذشته انقلابی در جهت استفاده از شبکه‌های عصبی مصنوعی برای مدل‌سازی در حوزه‌های مختلف علوم ایجاد شده است که نشان از موفقیت کاربرد این تکنیک قدرتمند در حل دامنه وسیعی از مشکلات مربوط به علوم مختلف می‌باشد. با این مقدمه تحقیق حاضر با هدف پیش‌بینی تولید شیر گاوهای شیری در دوره‌های شیردهی مختلف با استفاده از تولید شیر اولین دوره شیردهی رکوردبرداری شده و مدل‌سازی شبکه عصبی مصنوعی انجام شد. علاوه بر آن نتایج مدل شبکه عصبی مصنوعی با مدل خطی مورد مقایسه قرار گرفت.&lt;br /&gt; مواد و روشها: در این تحقیق از رکوردهای دو دوره‌شیردهی متوالی 2460 راس گاو شیری مربوط به یک گله استفاده شد. در شجره سری داده مورد استفاده تعداد 2517 گاو شیری وجود داشت. جهت برازش مدل شبکه عصبی مصنوعی، داده ها به دو دسته آموزش و آزمون تقسیم شدند. مدل شبکه عصبی با استفاده از داده‌های آموزش روابط بین خروجی و ورودی‌ها را یادگیری نمود. با پیش‌بینی خروجی داده-های آزمون توسط مدل و مقایسه برآوردها با اندازه‌های واقعی، پارامترهای برازش مدل مورد بررسی قرار گرفتند. ساختار شبکه‌ای که بهترین پارامترهای برازش را ایجاد می‌نمود در مدل شبکه عصبی مصنوعی مورد استفاده قرار گرفت. در نهایت، مدل خطی بر روی داده ها برازش شده و با مدل شبکه عصبی مصنوعی مورد مقایسه قرار گرفت.&lt;br /&gt; یافته ها: بهترین ساختار مدل شبکه عصبی دارای 8 ورودی، 4 نرون در لایه پنهان اول، 2 نرون در لایه پنهان دوم و یک خروجی بود که ورودی‌های آنها شامل ارزش اصلاحی میانگین تولید شیر دوره اول شیردهی ثبت شده، نوبت زایش،‌ گروه پدری، سن اولین زایش ثبت شده، تعداد رکورد برای هر دوره شیردهی و میانگین، حداقل و حداکثر روزهای شیردهی ثبت شده و خروجی مدل شامل رکورد شیر تولیدی بود. مدل شبکه عصبی مورد استفاده، رکورد مربوط به دوره‌های شیردهی را به ترتیب با RMSE و ضریب تبیین 94/7 و 625/0 برآورد کرد. ضریب تبیین و RMSE مدل خطی مورد بررسی به ترتیب 39/0 و 63/26 بود.&lt;br /&gt; نتیجه گیری: مدل شبکه عصبی مورد استفاده در این تحقیق قادر به پیش‌بینی تولید شیر دوره آینده بر اساس اطلاعات اولین دوره شیردهی ثبت شده بود. این تحقیق نشان داد که استفاده از مدل‌سازی شبکه عصبی می تواند در کاهش طول دوره رکوردبرداری برای ارزیابی ژنتیکی گاوهای شیری بخصوص گاوهای نر مفید می‌باشد و می‌تواند باعث کاهش فاصله نسل گردد. نتایج همچنین نشان داد که با بکارگیری مدل شبکه عصبی مصنوعی داده‌های ناقص نیز در ارزیابی ژنتیکی قابل استفاده می‌باشند. مقایسه تحقیق حاضر با تحقیقات گذشته نشان داد که استفاده از عوامل موثرتر برای تولید شیر به عنوان ورودی مدل می‌تواند دقت و صحت پیش‌بینی ها را افزایش دهد.</OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">شبکه عصبی مصنوعی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">فاصله نسل</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">پیش‌بینی تولید شیر</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://ejrr.gau.ac.ir/article_4583_1272ef2887939fcf36b69b005503f03c.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

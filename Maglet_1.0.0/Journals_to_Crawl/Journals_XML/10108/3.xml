@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>Shahid Chamran University of Ahvaz</PublisherName>
+				<JournalTitle>Journal of Hydraulic Structures</JournalTitle>
+				<Issn>2345-413X</Issn>
+				<Volume>3</Volume>
+				<Issue>1</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>07</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Developing Self-adaptive Melody Search Algorithm for Optimal Operation of Multi-reservoir Systems</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>35</FirstPage>
+			<LastPage>48</LastPage>
+			<ELocationID EIdType="pii">13282</ELocationID>
+			
+<ELocationID EIdType="doi">10.22055/jhs.2017.13282</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Seyed Mohammad</FirstName>
+					<LastName>Ashrafi</LastName>
+<Affiliation>Department of Civil Engineering, Faculty of Engineering, Shahid Chamran University of Ahvaz, Ahvaz, Iran.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Seyedeh Fatemeh</FirstName>
+					<LastName>Ashrafi</LastName>
+<Affiliation>Department of Irrigation and Drainage, Faculty of Water Sciences Engineering, Shahid Chamran University of Ahvaz, Ahvaz, Iran.</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Saber</FirstName>
+					<LastName>Moazami</LastName>
+<Affiliation>Environmental Sciences Research Center, Department of Civil Engineering, Islamshahr Branch, Islamic Azad University, Islamshahr, Tehran, Iran.</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2017</Year>
+					<Month>01</Month>
+					<Day>05</Day>
+				</PubDate>
+			</History>
+		<Abstract>Operation of multi-reservoir systems is known as complicated and often large-scale optimization problems. The problems, because of broad search space, nonlinear relationships, correlation of several variables, as well as problem uncertainty, are difficult requiring powerful algorithms with specific capabilities to be solved. In the present study a Self-adaptive version of Melody Search algorithm is presented and applied to obtain Operating Rule Curves for multi-reservoir systems. The self-adaptive mechanism is implemented to satisfy problems constraints and perform algorithm parameters evolution going through different iterations. The research initially evaluates capability of extended algorithm using eight benchmark problems comparing other well-known metaheuristic algorithms, and verifies its effectiveness. Then, the algorithm is adopted for optimal operation of a four-reservoir system located in Karkheh river basin to properly meet agricultural requirements and to decrease the probability of major failures; and finally, the results are provided.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Multi-reservoir operation</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Melody Search Algorithm</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Self-adaptive method</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Operating rule curve</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Demand deficit</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://jhs.scu.ac.ir/article_13282_2da689859f4ed0f6a948687cc80a018b.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>

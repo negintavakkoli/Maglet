@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.7//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/in/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>Shahid Chamran University of Ahvaz</PublisherName>
+				<JournalTitle>Journal of Hydraulic Structures</JournalTitle>
+				<Issn>2345-413X</Issn>
+				<Volume>5</Volume>
+				<Issue>2</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2019</Year>
+					<Month>08</Month>
+					<Day>01</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Smart Pressure Management in Urban Water Distribution Networks for Firefighting</ArticleTitle>
+<VernacularTitle></VernacularTitle>
+			<FirstPage>71</FirstPage>
+			<LastPage>89</LastPage>
+			<ELocationID EIdType="pii">15141</ELocationID>
+			
+<ELocationID EIdType="doi">10.22055/jhs.2019.30646.1119</ELocationID>
+			
+			<Language>EN</Language>
+<AuthorList>
+<Author>
+					<FirstName>Saghar</FirstName>
+					<LastName>Ahmadian</LastName>
+<Affiliation>Dept. of Civil Eng., Shahid Chamran Uni. of Ahvaz</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Adell</FirstName>
+					<LastName>Moradi Sabzkouhi</LastName>
+<Affiliation>Agricultural Sciences and Natural Resources University of Khuzestan</Affiliation>
+<Identifier Source="ORCID">0000-0003-4296-8151</Identifier>
+
+</Author>
+<Author>
+					<FirstName>Ali</FirstName>
+					<LastName>Haghighi</LastName>
+<Affiliation>Shahid Chamran University of Ahvaz</Affiliation>
+
+</Author>
+<Author>
+					<FirstName>Mohammad Hadi</FirstName>
+					<LastName>Ranginkaman</LastName>
+<Affiliation>Ph.D. graduated, Department of Civil Engineering, Faculty of Engineering, Shahid Chamran University of Ahvaz, Ahvaz, Iran.</Affiliation>
+
+</Author>
+</AuthorList>
+				<PublicationType>Journal Article</PublicationType>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2019</Year>
+					<Month>08</Month>
+					<Day>11</Day>
+				</PubDate>
+			</History>
+		<Abstract>The rapid population growth and urban development have notably influenced the role of water distribution networks (WDNs) compared to the past. This issue encourages operators to adopt new smart tools to better system management. Such a smart system is expected to play an effective role in both crisis and normal services. For fire extinguishing services, a WDN needs to be well-equipped to supply the fire flow efficiently. In this sense, WDNs are required not only modern fire-fighting equipment but also a systematic program to satisfy the fire demand in the right place at the right time. This paper aims at introducing a pre-processing (not real-time) approach for smart pressure management using the regulation of control valves. The problem is formulated as a mathematical programing in which the reliability measure is maximized and the valve opening positions are decision variables. Using a self-adaptive Genetic Algorithm coupled with EPANET, the problem is solved. The proposed algorithm is applied to a case study from the literature and produces the optimum pattern for regulation of valves. Such results can be an appropriate guide for operators to practically maneuver valves in fire situation. The case study manifests that by applying the model the reliability of system can be increased up to 40.7%.</Abstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">Water Distribution Network</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Fire Extinguishing</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Smart Pressure Management</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Reliability</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">Optimization</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://jhs.scu.ac.ir/article_15141_834bc72d6f1ddb071006c6580e53ddcb.pdf</ArchiveCopySource>
+</Article>
+</ArticleSet>
