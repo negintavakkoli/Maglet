@@ -12,7 +12,7 @@ class ArticlescraperSpider(CrawlSpider):
     name = 'maglet'
     allowed_domains = []
     start_urls = []
-    with open("Journals_list_complete.json" ,"r") as f:
+    with open( "Journal_lists/Journals_list_complete_0.json" , "r" ) as f:
         j = json.load(f)
 
         for item in j:
