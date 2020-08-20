@@ -1,6 +1,6 @@
 import json
 
-with open("Journals_list_complete.json", "r") as journals_list:
+with open("Journals_list_complete_final.json", "r") as journals_list:
     journals_list = json.load(journals_list)
 
 
